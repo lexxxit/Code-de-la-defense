@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2004-12-21
+Version Consolidée au 2005-03-23
 
 # Partie législative
 

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-03-23
+Version Consolidée au 2005-04-23
 
 # Partie législative
 
@@ -1888,9 +1888,9 @@ Les règles relatives à la constitution et la conservation des stocks stratégi
 
 #### TITRE II : OPÉRATIONS EN MER
 
-##### Chapitre unique : Exercice par l'Etat de ses pouvoirs de contrôle en mer
+##### Chapitre unique : Exercice par l'Etat de ses pouvoirs de police en mer
 
-##### Section 1 : Contrôle en mer.
+##### Section 1 : Police en mer.
 
 ###### Article L1521-1
 
@@ -1903,7 +1903,9 @@ international ;
 française ainsi qu'en haute mer conformément au droit international.
 
 Elles ne s'appliquent ni aux navires de guerre étrangers ni aux autres navires d'Etat étrangers utilisés à des fins non
-commerciales.
+commerciales ;
+
+3° Aux navires situés dans les espaces maritimes sous souveraineté d'un Etat étranger, en accord avec celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -1927,6 +1929,12 @@ commerciales.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Loi n°2005-371 du 22 avril 2005 - art. 3 () JORF 23 avril 2005
 
 
 ###### Article L1521-2
@@ -1935,6 +1943,9 @@ Les commandants des bâtiments de l'Etat et les commandants de bord des aéronef
 sont habilités, pour assurer le respect des dispositions qui s'appliquent en mer en vertu du droit international ainsi que
 des lois et règlements de la République, à exercer et à faire exécuter les mesures de contrôle et de coercition prévues par
 le droit international, la législation et la réglementation française.
+
+Ils sont notamment habilités à exercer et à faire exercer au nom de l'Etat du pavillon ou de l'Etat côtier les mesures de
+contrôle et de coercition fixées en accord avec cet Etat.
 
 **Liens relatifs à cet article**
 
@@ -1946,6 +1957,12 @@ le droit international, la législation et la réglementation française.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Loi n°2005-371 du 22 avril 2005 - art. 2 () JORF 23 avril 2005
 
 	**Cité par**:
 
@@ -1971,10 +1988,15 @@ reconnaissance du navire, en invitant son capitaine à en faire connaître l'ide
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1521-2 (M)
+	  - Code de la défense. - art. L1521-2 (V)
 
 	**Cité par**:
 
@@ -1998,6 +2020,11 @@ règlements de la République.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 	**Cité par**:
 
@@ -2008,21 +2035,25 @@ règlements de la République.
 ###### Article L1521-5
 
 Lorsque l'accès à bord a été refusé ou s'est trouvé matériellement impossible, le commandant ou le commandant de bord peut
-ordonner le déroutement du navire vers la position ou le port appropriés.
+ordonner le déroutement du navire vers la position ou le port appropriés. 
 
 Le commandant ou le commandant de bord peut également ordonner le déroutement du navire vers une position ou un port
-appropriés dans les cas suivants :
+appropriés dans les cas suivants : 
 
-1° Soit en application du droit international ;
+1° Soit en application du droit international ; 
 
-2° Soit en vertu de dispositions législatives ou réglementaires particulières ;
+2° Soit en vertu de dispositions législatives ou réglementaires particulières ; 
 
-3° Soit pour l'exécution d'une décision de justice ;
+3° Soit pour l'exécution d'une décision de justice ; 
 
-4° Soit à la demande d'une autorité qualifiée en matière de police judiciaire.
+4° Soit à la demande d'une autorité qualifiée en matière de police judiciaire. 
 
 Le commandant ou le commandant de bord désigne la position ou le port de déroutement en accord avec l'autorité de contrôle
-des opérations.
+des opérations. 
+
+Pendant le transit consécutif à la décision de déroutement, les agents mentionnés à l'article L. 1521-2 peuvent prendre les
+mesures de coercition nécessaires et adaptées en vue d'assurer la préservation du navire et de sa cargaison et la sécurité
+des personnes se trouvant à bord.
 
 **Liens relatifs à cet article**
 
@@ -2034,6 +2065,16 @@ des opérations.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Loi n°2005-371 du 22 avril 2005 - art. 4 () JORF 23 avril 2005
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1521-2 (V)
 
 	**Cité par**:
 
@@ -2055,6 +2096,11 @@ le droit international.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 
 ###### Article L1521-7
@@ -2075,6 +2121,11 @@ Les modalités de recours à la coercition et de l'emploi de la force en mer son
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 
 ###### Article L1521-8
@@ -2092,21 +2143,26 @@ notifiées à l'Etat du pavillon par la voie diplomatique.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 
 ##### Section 2 : Sanctions pénales.
 
 ###### Article L1521-9
 
-Est puni de 150 000 Euros d'amende, le refus d'obtempérer aux injonctions faites en vertu des articles L. 1521-3, L. 1521-4
-et L. 1521-5.
+Est puni de 150 000 euros d'amende, le refus d'obtempérer aux injonctions faites en vertu des articles L. 1521-3, L. 1521-4
+et L. 1521-5. 
 
 Outre les officiers et les agents de police judiciaire agissant conformément au code de procédure pénale, les commandants,
 les commandants en second et les officiers en second des bâtiments de l'Etat ainsi que les commandants de bord des aéronefs
-de l'Etat sont habilités à constater l'infraction mentionnée au présent article.
+de l'Etat sont habilités à constater l'infraction mentionnée au présent article. 
 
 La juridiction compétente pour connaître de ce délit est celle du port ou de la position où le navire a été dérouté ou, à
-défaut, celle de la résidence administrative de l'agent qui a constaté l'infraction mentionnée au présent article.
+défaut, celle de la résidence administrative de l'agent qui a constaté l'infraction mentionnée au présent article. 
 
 Le procès-verbal est transmis dans les quinze jours au procureur de la République de la juridiction compétente.
 
@@ -2120,6 +2176,11 @@ Le procès-verbal est transmis dans les quinze jours au procureur de la Républi
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 	**Cité par**:
 
@@ -2127,14 +2188,14 @@ Le procès-verbal est transmis dans les quinze jours au procureur de la Républi
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1521-3 (M)
-	  - Code de la défense. - art. L1521-4 (M)
-	  - Code de la défense. - art. L1521-5 (M)
+	  - Code de la défense. - art. L1521-3 (V)
+	  - Code de la défense. - art. L1521-4 (V)
+	  - Code de la défense. - art. L1521-5 (V)
 
 
 ###### Article L1521-10
 
-Est puni de 150 000 Euros d'amende, le propriétaire, ou l'exploitant du navire à l'origine de la décision de refus
+Est puni de 150 000 euros d'amende, le propriétaire, ou l'exploitant du navire à l'origine de la décision de refus
 d'obtempérer aux injonctions mentionnées à l'article L. 1521-9.
 
 **Liens relatifs à cet article**
@@ -2147,10 +2208,15 @@ d'obtempérer aux injonctions mentionnées à l'article L. 1521-9.
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1521-9 (M)
+	  - Code de la défense. - art. L1521-9 (V)
 
 	**Cité par**:
 

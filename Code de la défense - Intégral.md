@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-04-23
+Version Consolidée au 2005-05-21
 
 # Partie législative
 
@@ -1851,18 +1851,23 @@ ou détenues dans les installations nucléaires intéressant la défense.
 ###### Article L1334-1
 
 Les conditions dans lesquelles La Poste et France Télécom contribuent à l'exercice des missions de l'Etat en matière de
-défense sont définies par les articles 5 et 8 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service
-public de La Poste et à France Télécom.
+défense sont définies par l'article 5 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de La
+Poste et à France Télécom.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°90-568 1990-07-02 art. 5, art. 8
+	  - Loi n°90-568 du 2 juillet 1990 - art. 5 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-516 du 20 mai 2005 - art. 25 () JORF 21 mai 2005
 
 
 ##### Chapitre VI : Transports et hydrocarbures

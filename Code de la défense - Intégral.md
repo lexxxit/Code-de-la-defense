@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -13231,6 +13231,186 @@ les articles L. 713-19 à L. 713-22 du code de la sécurité sociale.
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L713-19 (V)
+
+
+##### Chapitre 4 : Etablissement public d'insertion de la défense.
+
+###### Article L3414-1
+
+L'établissement public d'insertion de la défense est un établissement public de l'Etat placé sous la tutelle du ministre de
+la défense et du ministre chargé de l'emploi.
+
+Il a pour objet l'insertion sociale et professionnelle des jeunes sans diplômes ou sans titres professionnels ou en voie de
+marginalisation sociale.
+
+L'établissement public d'insertion de la défense :
+
+1° Organise des formations dispensées dans des institutions et par un encadrement s'inspirant du modèle militaire ;
+
+2° Accueille et héberge des jeunes dans le cadre de ces formations ;
+
+3° Peut développer des actions de coopération nationale ou internationale avec des collectivités publiques, des entreprises,
+des organismes publics ou privés de formation ou intéressés à ce type d'action, notamment par voie de convention ou de prise
+de participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 17 décembre 2007 (Ab)
+	  - Arrêté du 28 février 2008 (Ab)
+	  - Décret n°2009-310 du 19 mars 2009 - art. 2 (V)
+	  - Arrêté du 6 juillet 2011 (V)
+	  - Décret n°2015-171 du 13 février 2015 - art. 2 (V)
+	  - Arrêté du 21 mai 2015 (V)
+	  - Code de la défense. - art. R3414-1 (V)
+	  - Code de la sécurité sociale. - art. D372-2 (Ab)
+	  - Code de la sécurité sociale. - art. D412-98-1 (V)
+	  - Code de la sécurité sociale. - art. L851-1 (V)
+	  - Code de la sécurité sociale. - art. R372-3 (V)
+	  - Code du service national - art. L130-3 (V)
+
+
+###### Article L3414-2
+
+L'établissement public d'insertion de la défense est administré par un conseil d'administration qui comprend des
+représentants de l'administration ainsi que des membres nommés à raison de leur compétence. Le président est nommé par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-3
+
+L'établissement public d'insertion de la défense est dirigé par un directeur général nommé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-4
+
+L'établissement public d'insertion de la défense peut recruter des agents sur contrat et accueillir des agents publics par
+voie de détachement ou de mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-5
+
+Les ressources de l'établissement public d'insertion de la défense sont constituées par :
+
+1° Les subventions, avances, fonds de concours, dotations et participations de l'Etat, de la Communauté européenne, des
+collectivités territoriales, des établissements publics ou de toute autre personne morale ;
+
+2° Les dons et legs ;
+
+3° Le produit de la taxe d'apprentissage et les ressources provenant de l'application de la législation sur la formation
+professionnelle continue ;
+
+4° Les produits des activités de l'établissement ;
+
+5° Les produits des contrats et conventions ;
+
+6° Les revenus des biens meubles et immeubles, fonds et valeurs ;
+
+7° Les produits des aliénations ;
+
+8° Le produit des emprunts ;
+
+9° Les immeubles qui lui sont apportés en dotation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-6
+
+I.-L'établissement public d'insertion de la défense n'est pas soumis aux dispositions du 5° de l'article 206 du code général
+des impôts. 
+
+II.-Les transferts et apports d'actifs mobiliers et immobiliers au profit de l'établissement public d'insertion de la défense
+ne donnent lieu à la perception d'aucun impôt, droits, taxes, émoluments et débours divers. 
+
+III.-Les immeubles dont l'établissement public d'insertion de la défense est propriétaire sont exonérés de la taxe foncière
+sur les propriétés bâties et de taxe foncière sur les propriétés non bâties. 
+
+IV.-L'établissement public d'insertion de la défense est exonéré de la taxe d'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 206 (V)
+
+
+###### Article L3414-7
+
+Un décret en Conseil d'Etat détermine les conditions d'organisation et de fonctionnement de l'établissement public
+d'insertion de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 
 #### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -6364,8 +6364,8 @@ membre de la commission.
 
 ###### Article L2312-3
 
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au budget des services du Premier
-ministre.
+Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au programme intitulé
+"Coordination du travail gouvernemental".
 
 Le président est ordonnateur des dépenses de la commission. Il nomme les agents de la commission.
 
@@ -6379,6 +6379,10 @@ Le président est ordonnateur des dépenses de la commission. Il nomme les agent
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 135 () JORF 31 décembre 2005
 
 
 ###### Article L2312-4

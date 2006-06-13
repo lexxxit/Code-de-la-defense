@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-06-14
 
 # Partie législative
 
@@ -1173,14 +1173,10 @@ désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24
 ###### Article L1332-2
 
 Les obligations prescrites par le présent chapitre peuvent être étendues à des établissements mentionnés à l'article L. 511-1
-du code de l'environnement quand la destruction ou l'avarie de certaines installations de ces établissements peut présenter
-un danger grave pour la population. Ces établissements sont désignés par l'autorité administrative.
-
-**Nota:**
-
-NOTA : Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée
-en vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité administrative a
-été désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
+du code de l'environnement ou comprenant une installation nucléaire de base visée à l'article 28 de la loi n° 2006-686 du 13
+juin 2006 relative à la transparence et à la sécurité en matière nucléaire quand la destruction ou l'avarie de certaines
+installations de ces établissements peut présenter un danger grave pour la population. Ces établissements sont désignés par
+l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -1192,10 +1188,6 @@ en vigueur des dispositions réglementaires désignant l'autorité administrativ
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
 
 	**Cité par**:
 
@@ -1218,7 +1210,12 @@ en vigueur des dispositions réglementaires désignant l'autorité administrativ
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L511-1 (M)
+	  - Loi n°2006-686 du 13 juin 2006 - art. 28 (V)
+	  - Code de l'environnement - art. L511-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-686 du 13 juin 2006 - art. 59 () JORF 14 juin 2006
 
 
 ###### Article L1332-3

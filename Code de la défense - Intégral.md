@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -1409,6 +1409,9 @@ Sont soumises aux dispositions du présent chapitre les matières nucléaires fu
 matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste est
 précisée par décret en Conseil d'Etat.
 
+Les conditions particulières d'application du présent chapitre aux matières nucléaires affectées aux moyens nécessaires à la
+mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1436,6 +1439,10 @@ précisée par décret en Conseil d'Etat.
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2007-289 du 5 mars 2007 - art. 3
 
 
 ###### Article L1333-2
@@ -1893,12 +1900,13 @@ ne l'ont pas déclaré dans le délai prévu à l'alinéa précédent.
 	  - Code de la défense. - art. L1333-2 (V)
 
 
-##### Sous-section 3 : Matières nucléaires intéressant la défense.
+##### Sous-section 3 : Matières nucléaires intéressant la dissuasion.
 
 ###### Article L1333-14
 
-Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées à la défense
-ou détenues dans les installations nucléaires intéressant la défense.
+Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées aux moyens
+nécessaires à la mise en oeuvre de la politique de dissuasion ou détenues dans les installations nucléaires intéressant la
+défense.
 
 **Liens relatifs à cet article**
 
@@ -1911,10 +1919,14 @@ ou détenues dans les installations nucléaires intéressant la défense.
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Loi n°2007-289 du 5 mars 2007 - art. 3
+
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-10 (V)
-	  - Code de la défense. - art. L1333-9 (M)
+	  - Code de la défense. - art. L1333-9 (V)
 
 	**Cité par**:
 

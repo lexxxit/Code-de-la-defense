@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-30
 
 # Partie législative
 
@@ -13203,6 +13203,116 @@ dispositions ayant le même objet applicables localement.
 
 ## PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE
 
+### LIVRE Ier : L'ADMINISTRATION CENTRALE
+
+#### TITRE II : ORGANISMES ET AUTORITES MILITAIRES
+
+##### Chapitre V : Organismes d'enquêtes techniques
+
+###### Article L3125-1
+
+Les dispositions du titre III de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de
+transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques sont
+applicables aux enquêtes techniques relatives aux événements de mer affectant les bâtiments des forces armées quel que soit
+l'endroit où ils se trouvent et aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques
+du ministère de la défense. 
+
+Les attributions du ministre chargé des transports et des organismes permanents spécialisés sont exercées respectivement par
+le ministre de la défense et par des organismes militaires spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-286 du 25 mars 2008 - art. 1 (Ab)
+	  - Décret n°2015-869 du 15 juillet 2015 (V)
+	  - Code de la défense. - art. L3125-3 (V)
+	  - Code de la défense. - art. L3531-1 (V)
+	  - Code de la défense. - art. L3541-1 (V)
+	  - Code de la défense. - art. L3551-1 (M)
+	  - Code de la défense. - art. L3561-1 (M)
+	  - Code de la défense. - art. L3571-1 (M)
+	  - Code de la défense. - art. R3125-1 (V)
+	  - Code de procédure pénale - art. A1 (VT)
+
+
+###### Article L3125-2
+
+Les dispositions des I, II et III de l'article L. 711-1 et celles des articles L. 711-2 à L. 741-3 du code de l'aviation
+civile sont applicables à l'enquête technique relative à un accident ou un incident survenu à un aéronef conçu exclusivement
+à usage militaire ou exploité en circulation aérienne militaire ou à un aéronef qui n'est pas inscrit au registre
+d'immatriculation de l'aviation civile. 
+
+Pour l'application des articles L. 711-2, L. 711-3 et L. 731-1 du même code, les attributions du ministre chargé de
+l'aviation civile, des agents appartenant aux corps techniques de l'aviation civile et des autorités administratives chargées
+de la sécurité de l'aviation civile sont exercées respectivement par le ministre de la défense, les agents commissionnés ou
+agréés et les organismes militaires ou civils chargés de la sécurité aérienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L3531-1 (V)
+	  - Code de la défense. - art. L3541-1 (V)
+	  - Code de la défense. - art. L3551-1 (V)
+	  - Code de la défense. - art. L3561-1 (V)
+	  - Code de la défense. - art. L3571-1 (V)
+	  - Code de procédure pénale - art. A1 (VT)
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L711-1 (V)
+	  - Code de l'aviation civile - art. L711-2 (Ab)
+	  - Code de l'aviation civile - art. L711-3 (V)
+	  - Code de l'aviation civile - art. L731-1 (V)
+
+
+###### Article L3125-3
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L3531-1 (V)
+	  - Code de la défense. - art. L3541-1 (V)
+	  - Code de la défense. - art. L3551-1 (V)
+	  - Code de la défense. - art. L3561-1 (V)
+	  - Code de la défense. - art. L3571-1 (V)
+
+
 ### LIVRE II : LES FORCES ARMÉES
 
 #### TITRE Ier : COMPOSITION
@@ -13925,7 +14035,8 @@ le même objet applicables localement.
 
 ###### Article L3531-1
 
-Sont applicables à Mayotte les dispositions des articles L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7.
+Sont applicables à Mayotte les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2 et L. 3421-1 à
+L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -13934,11 +14045,18 @@ Sont applicables à Mayotte les dispositions des articles L. 3211-1, L. 3211-2 e
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
 	**Cite**:
 
-	  - Code de la défense L3211-1, L3211-2, L3421-1 à L3422-7
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
 	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3421-1 (V)
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
@@ -13947,7 +14065,8 @@ Sont applicables à Mayotte les dispositions des articles L. 3211-1, L. 3211-2 e
 
 ###### Article L3541-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L.
+3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -13956,11 +14075,18 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
 	**Cite**:
 
-	  - Code de la défense L3211-1, L3211-2, L3421-1 à L3422-7
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
 	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3421-1 (V)
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -13969,7 +14095,8 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 
 ###### Article L3551-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7.
+Sont applicables en Polynésie française les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2
+et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -13978,11 +14105,18 @@ Sont applicables en Polynésie française les dispositions des articles L. 3211-
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
 	**Cite**:
 
-	  - Code de la défense L3211-1, L3211-2, L3421-1 à L3422-7
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
 	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3421-1 (V)
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -13991,7 +14125,8 @@ Sont applicables en Polynésie française les dispositions des articles L. 3211-
 
 ###### Article L3561-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, 
+L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -14000,11 +14135,18 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3211-1,
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
 	**Cite**:
 
-	  - Code de la défense L3211-1, L3211-2, L3421-1 à L3422-7
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
 	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3421-1 (V)
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -14013,23 +14155,5206 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3211-1,
 
 ###### Article L3571-1
 
-Sous réserve des stipulations du traité de l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3211-1, L. 3211-2 et L. 3421-1 à
-L. 3422-7.
+Sous réserve des dispositions du traité de l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
+applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1, 
+L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 1961-11-30
-	  - Code de la défense L3211-1, L3211-2, L3421-1 à L3422-7
+	  - Décret n°61-1300 du 30 novembre 1961, v. init.
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3125-2 (V)
+	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
 	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3421-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+
+
+## PARTIE 4 : LE PERSONNEL MILITAIRE
+
+### LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES
+
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+##### Chapitre unique
+
+###### Article L4111-1
+
+L'armée de la République est au service de la Nation. Sa mission est de préparer et d'assurer par la force des armes la
+défense de la patrie et des intérêts supérieurs de la Nation.
+
+L'état militaire exige en toute circonstance esprit de sacrifice, pouvant aller jusqu'au sacrifice suprême, discipline,
+disponibilité, loyalisme et neutralité. Les devoirs qu'il comporte et les sujétions qu'il implique méritent le respect des
+citoyens et la considération de la Nation.
+
+Le statut énoncé au présent livre assure à ceux qui ont choisi cet état les garanties répondant aux obligations particulières
+imposées par la loi. Il prévoit des compensations aux contraintes et exigences de la vie dans les forces armées. Il offre à
+ceux qui quittent l'état militaire les moyens d'un retour à une activité professionnelle dans la vie civile et assure aux
+retraités militaires le maintien d'un lien avec l'institution.
+
+Un Haut Comité d'évaluation de la condition militaire établit un rapport annuel, adressé au Président de la République et
+transmis au Parlement. La composition du Haut Comité d'évaluation de la condition militaire et ses attributions sont fixées
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 1
+	  - Loi n°2005-270 du 24 mars 2005 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 2012 - art. 1 (V)
+	  - Code de la défense. - art. L4122-3 (V)
+	  - Code de la défense. - art. L4126-6 (M)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code de la défense. - art. L4331-1 (Ab)
+	  - Code de la défense. - art. L4341-1 (M)
+	  - Code de la défense. - art. L4351-1 (M)
+	  - Code de la défense. - art. L4361-1 (M)
+	  - Code de la défense. - art. L4371-1 (M)
+	  - Code de la défense. - art. R4122-25 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+	  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R242-8 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
+
+
+###### Article L4111-2
+
+Le présent livre s'applique aux militaires de carrière, aux militaires servant en vertu d'un contrat, aux militaires
+réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve opérationnelle ou au titre de la
+disponibilité et aux fonctionnaires en détachement qui exercent, en qualité de militaires, certaines fonctions spécifiques
+nécessaires aux forces armées.
+
+Les statuts particuliers des militaires sont fixés par décret en Conseil d'Etat. Ils peuvent déroger aux dispositions du
+présent livre qui ne répondraient pas aux besoins propres d'un corps particulier, à l'exception de celles figurant au titre
+II et de celles relatives au recrutement, aux conditions d'avancement et aux limites d'âge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 2
+	  - Loi n°2005-270 du 24 mars 2005 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 28 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 42 (VD)
+	  - Décret n°2016-484 du 19 avril 2016 (V)
+	  - Code de la défense. - art. L4126-2 (V)
+	  - Code de la défense. - art. R4124-1 (V)
+	  - Code de la défense. - art. R4126-6 (V)
+	  - Code de la défense. - art. R4133-1 (V)
+
+
+#### TITRE II : DROITS ET OBLIGATIONS
+
+##### Chapitre Ier : Exercice des droits civils et politiques
+
+###### Article L4121-1
+
+Les militaires jouissent de tous les droits et libertés reconnus aux citoyens. Toutefois, l'exercice de certains d'entre eux
+est soit interdit, soit restreint dans les conditions fixées au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 3
+	  - Loi n°2005-270 du 24 mars 2005 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-6 (V)
+	  - Code de la défense. - art. L4132-13 (V)
+	  - Code de la défense. - art. L4138-8 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. R4138-34 (V)
+
+
+###### Article L4121-2
+
+Les opinions ou croyances, notamment philosophiques, religieuses ou politiques, sont libres.
+
+Elles ne peuvent cependant être exprimées qu'en dehors du service et avec la réserve exigée par l'état militaire. Cette règle
+s'applique à tous les moyens d'expression. Elle ne fait pas obstacle au libre exercice des cultes dans les enceintes
+militaires et à bord des bâtiments de la flotte.
+
+Indépendamment des dispositions du code pénal relatives à la violation du secret de la défense nationale et du secret
+professionnel, les militaires doivent faire preuve de discrétion pour tous les faits, informations ou documents dont ils ont
+connaissance dans l'exercice ou à l'occasion de l'exercice de leurs fonctions. En dehors des cas expressément prévus par la
+loi, les militaires ne peuvent être déliés de cette obligation que par décision expresse de l'autorité dont ils dépendent.
+
+L'usage de moyens de communication et d'information, quels qu'ils soient, peut être restreint ou interdit pour assurer la
+protection des militaires en opération, l'exécution de leur mission ou la sécurité des activités militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 4
+	  - Loi n°2005-270 du 24 mars 2005 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4122-2 (V)
+	  - Code de la défense. - art. L4126-4 (V)
+	  - Code de la défense. - art. L4141-4 (VD)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. R4122-25 (V)
+
+
+###### Article L4121-3
+
+Il est interdit aux militaires en activité de service d'adhérer à des groupements ou associations à caractère politique.
+
+Sous réserve des inéligibilités prévues par la loi, les militaires peuvent être candidats à toute fonction publique
+élective ; dans ce cas, l'interdiction d'adhésion à un parti politique prévue au premier alinéa est suspendue pour la durée
+de la campagne électorale. En cas d'élection et d'acceptation du mandat, cette suspension est prolongée pour la durée du
+mandat.
+
+Les militaires qui sont élus et qui acceptent leur mandat sont placés dans la position de détachement prévue à l'article L.
+4138-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 5
+	  - Loi n°2005-270 du 24 mars 2005 - art. 5 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4144-1 (V)
+
+
+###### Article L4121-4
+
+L'exercice du droit de grève est incompatible avec l'état militaire.
+
+L'existence de groupements professionnels militaires à caractère syndical ainsi que l'adhésion des militaires en activité de
+service à des groupements professionnels sont incompatibles avec les règles de la discipline militaire.
+
+Il appartient au chef, à tous les échelons, de veiller aux intérêts de ses subordonnés et de rendre compte, par la voie
+hiérarchique, de tout problème de caractère général qui parviendrait à sa connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 6
+	  - Loi n°2005-270 du 24 mars 2005 - art. 6 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-967 du 16 septembre 2008 - art. 3 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+
+
+###### Article L4121-5
+
+Les militaires peuvent être appelés à servir en tout temps et en tout lieu.
+
+La liberté de résidence des militaires peut être limitée dans l'intérêt du service.
+
+Lorsque les circonstances l'exigent, la liberté de circulation des militaires peut être restreinte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 7
+	  - Loi n°2005-270 du 24 mars 2005 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2013-412 du 17 mai 2013 - art. 74 (VT)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code de la sécurité intérieure - art. R723-86 (VD)
+
+
+###### Article L4121-6
+
+Les règles relatives à l'interdiction faite aux militaires de la gendarmerie en activité de service d'exercer les fonctions
+de juré sont prévues à l'article 257 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 257 (V)
+
+
+###### Article L4121-7
+
+Les règles relatives aux actes de l'état civil intéressant les militaires dans certains cas spéciaux sont prévues au chapitre
+V du titre II du livre premier du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+
+
+###### Article L4121-8
+
+Les règles relatives à la forme des testaments des militaires et des personnes employées à la suite des armées sont prévues
+aux articles 981 à 984 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code civil - art. 981 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4143-1 (V)
+
+
+##### Chapitre II : Obligations et responsabilités
+
+###### Article L4122-1
+
+Les militaires doivent obéissance aux ordres de leurs supérieurs et sont responsables de l'exécution des missions qui leur
+sont confiées.
+
+Toutefois, il ne peut leur être ordonné et ils ne peuvent accomplir des actes qui sont contraires aux lois, aux coutumes de
+la guerre et aux conventions internationales.
+
+La responsabilité propre des subordonnés ne dégage leurs supérieurs d'aucune de leurs responsabilités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 8
+	  - Loi n°2005-270 du 24 mars 2005 - art. 8 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-967 du 16 septembre 2008 - art. 18 (V)
+	  - Code de la défense. - art. L4126-6 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+
+
+###### Article L4122-2
+
+Les militaires en activité ne peuvent exercer à titre professionnel une activité privée lucrative de quelque nature que ce
+soit. Les conditions dans lesquelles il peut être exceptionnellement dérogé à cette interdiction sont fixées par décret en
+Conseil d'Etat.
+
+Les militaires ne peuvent avoir par eux-mêmes ou par personne interposée, sous quelque forme que ce soit, lorsqu'ils sont en
+activité et pendant le délai fixé à l'article 432-13 du code pénal à compter de la cessation de leurs fonctions, dans les
+entreprises soumises à leur surveillance ou à leur contrôle ou avec lesquelles ils ont négocié des contrats de toute nature,
+des intérêts de nature à compromettre leur indépendance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 9
+	  - Loi n°2005-270 du 24 mars 2005 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 1 (VD)
+	  - Code de la défense. - art. L4138-2 (V)
+	  - Code de la défense. - art. L4139-5-1 (V)
+	  - Code de la défense. - art. L4139-6-1 (V)
+	  - Code de la défense. - art. R*4122-18 (VD)
+	  - Code de la défense. - art. R*4122-20 (VD)
+	  - Code de la défense. - art. R*4122-21 (VD)
+	  - Code de la défense. - art. R4122-25 (V)
+	  - Code de la défense. - art. R4122-26 (V)
+	  - Code de la défense. - art. R4122-32 (V)
+
+
+##### Chapitre III : Rémunération, garanties et protections
+
+##### Section 1 : Rémunération
+
+###### Article L4123-1
+
+Les militaires ont droit à une rémunération comportant notamment la solde dont le montant est fixé en fonction soit du grade,
+de l'échelon et de la qualification ou des titres détenus, soit de l'emploi auquel ils ont été nommés. Il peut y être ajouté
+des prestations en nature.
+
+Le classement indiciaire des corps, grades et emplois qui est applicable aux militaires tient compte des sujétions et
+obligations particulières auxquelles ils sont soumis.
+
+A la solde des militaires s'ajoutent l'indemnité de résidence et, le cas échéant, les suppléments pour charges de famille.
+Une indemnité pour charges militaires tenant compte des sujétions propres à l'état militaire leur est également allouée dans
+les conditions fixées par décret.
+
+Peuvent également s'ajouter des indemnités particulières allouées en raison des fonctions exercées, des risques courus, du
+lieu d'exercice du service ou de la qualité des services rendus.
+
+Les statuts particuliers fixent les règles de classement et d'avancement dans les échelons d'un grade. Ils peuvent prévoir
+des échelons exceptionnels ou spéciaux.
+
+Toute mesure de portée générale affectant la rémunération des fonctionnaires civils de l'Etat est, sous réserve des mesures
+d'adaptation nécessaires, appliquée avec effet simultané aux militaires.
+
+Lorsque l'affectation entraîne des difficultés de logement, les militaires bénéficient d'une aide appropriée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 3 (VD)
+	  - Décret n°97-900 du 1 octobre 1997 - art. 2 (V)
+	  - Décret n°97-900 du 1 octobre 1997 - art. 6 (V)
+	  - Décret n°2008-198 du 27 février 2008 - art. 1
+	  - Décret n°2008-1016 du 2 octobre 2008 - art. 1
+	  - Décret n°2008-1523 du 22 décembre 2008 (V)
+	  - Décret n°2008-1525 du 30 décembre 2008 (V)
+	  - Décret n°2009-17 du 7 janvier 2009 (V)
+	  - Décret n°2009-18 du 7 janvier 2009 (Ab)
+	  - Décret n°2009-19 du 7 janvier 2009 (V)
+	  - Décret n°2009-20 du 7 janvier 2009 (V)
+	  - Décret n°2009-22 du 7 janvier 2009 (Ab)
+	  - Décret n°2009-23 du 7 janvier 2009 (V)
+	  - Décret n°2009-1158 du 30 septembre 2009 - art. 1
+	  - Arrêté du 10 février 2012 - art. 1 (V)
+	  - Arrêté du 13 mars 2017 - art. 1 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 10
+	  - Loi n°2005-270 du 24 mars 2005 - art. 10 (Ab)
+
+
+##### Section 2 : Garanties et couverture des risques
+
+###### Article L4123-2
+
+Les militaires bénéficient des régimes de pensions ainsi que des prestations de sécurité sociale dans les conditions fixées
+par le code des pensions civiles et militaires de retraite, le code des pensions militaires d'invalidité et des victimes de
+la guerre et le code de la sécurité sociale. 
+
+Les retraités militaires et leurs familles bénéficient, dans les conditions fixées par le code de la sécurité sociale, du
+régime de sécurité sociale des militaires. 
+
+Les militaires et les anciens militaires titulaires d'une pension militaire d'invalidité ont droit aux soins du service de
+santé des armées. Ils reçoivent, en outre, l'aide du service chargé de l'action sociale des armées. 
+
+Avant le soixantième jour suivant leur retour sur leur lieu d'affectation, les militaires ayant participé à une mission
+opérationnelle hors du territoire national bénéficient, à leur demande, d'un dépistage médical portant sur les risques
+sanitaires spécifiques auxquels ils sont susceptibles d'avoir été exposés ainsi que d'un entretien psychologique. 
+
+Les conditions dans lesquelles les familles des militaires, ainsi que les retraités militaires, les anciens militaires et
+leurs familles bénéficient des soins du service de santé des armées et de l'aide du service chargé de l'action sociale des
+armées sont fixées par décret. 
+
+Les conditions dans lesquelles sont applicables les dispositions des articles L. 162-5 et L. 162-5-3 du code de la sécurité
+sociale aux bénéficiaires des soins du service de santé des armées sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 11
+	  - Loi n°2005-270 du 24 mars 2005 - art. 11 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4123-6 (V)
+	  - Code de la défense. - art. L4141-4 (VD)
+	  - Code de la défense. - art. L4143-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-5 (V)
+	  - Code de la sécurité sociale. - art. L162-5-3 (V)
+
+
+###### Article L4123-3
+
+L'Etat et ses établissements peuvent contribuer au financement des garanties de protection sociale complémentaire auxquelles
+les militaires qu'ils emploient souscrivent.
+
+Leur participation est réservée aux contrats ou règlements, garantissant la mise en oeuvre de dispositifs de solidarité entre
+les bénéficiaires, actifs et retraités.
+
+Les modalités d'application du présent article sont fixées par décret au Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°55-1074 1955-08-06
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 11-1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2010-754 du 5 juillet 2010 - art. 1 (V)
+	  - Code de la mutualité - art. L110-2 (V)
+
+
+###### Article L4123-4
+
+Les militaires participant à des opérations extérieures ainsi que leurs ayants cause bénéficient :
+
+1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l'article L. 43, des articles
+L. 136 bis, L. 393 à L. 396, L. 461 à L. 490, L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d'invalidité
+et des victimes de la guerre ;
+
+2° Des dispositions prévues en matière de blessures de guerre et de délégation de solde ;
+
+3° Des dispositions de l'article L. 37 du même code pour les blessures ou les maladies contractées au cours de ces opérations
+dès lors que sont remplies les conditions relatives à la nature ou à la gravité de l'infirmité ou des infirmités définies à
+cet article ;
+
+4° Des dispositions de l'article L. 36 du même code, lorsque les conditions définies à cet article sont remplies.
+
+Le champ d'application de chaque opération est défini par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°55-1074 du 6 août 1955 - art. 1, v. init.
+	  - Loi n°55-1074 du 6 août 1955 - art. 2 (Ab)
+	  - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
+	  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2007-847 du 14 mai 2007 - art. 1 (AbD)
+	  - Décret n°2007-1819 du 21 décembre 2007 (V)
+	  - Décret n°2007-1819 du 21 décembre 2007 - art. 1 (V)
+	  - Décret n°2007-1820 du 21 décembre 2007 (V)
+	  - Décret n°2007-1820 du 21 décembre 2007 - art. 1 (V)
+	  - Décret n°2007-1921 du 26 décembre 2007 (V)
+	  - Décret n°2007-1921 du 26 décembre 2007 - art. 1 (VT)
+	  - Décret n°2008-51 du 15 janvier 2008 (V)
+	  - Décret n°2008-51 du 15 janvier 2008 - art. 1 (V)
+	  - Décret n°2008-280 du 21 mars 2008 - art. 1 (V)
+	  - Arrêté du 9 décembre 2008 - art. 1 (VT)
+	  - Arrêté du 24 mars 2009 - art. 1 (V)
+	  - Arrêté du 16 juillet 2009 - art. 1 (V)
+	  - Arrêté du 21 juillet 2009 - art. 1 (V)
+	  - Arrêté du 11 septembre 2009 - art. 1 (VT)
+	  - Arrêté du 17 décembre 2009 - art. 1 (V)
+	  - Arrêté du 14 janvier 2011 - art. 1 (V)
+	  - Arrêté du 4 novembre 2011 - art. 1 (P)
+	  - Arrêté du 4 novembre 2011 - art. 1 (VT)
+	  - Arrêté du 22 novembre 2011 - art. 1 (V)
+	  - Arrêté du 28 décembre 2011 - art. 1 (VT)
+	  - Arrêté du 29 octobre 2012 - art. 1 (V)
+	  - Arrêté du 22 novembre 2012 - art. 1 (P)
+	  - Arrêté du 29 novembre 2012 (VT)
+	  - Arrêté du 29 novembre 2012 - art. 1 (VT)
+	  - Arrêté du 21 décembre 2012 - art. 1 (VT)
+	  - Arrêté du 2 avril 2013 - art. 1 (V)
+	  - Arrêté du 6 janvier 2014 - art. 1 (V)
+	  - Arrêté du 20 août 2015 (V)
+	  - Arrêté du 20 août 2015 - art. 1 (V)
+	  - Code de la défense. - art. L4138-3-1 (V)
+	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R17 bis (V)
+	  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L121-2 (VD)
+
+
+###### Article L4123-5
+
+Les militaires sont affiliés, pour la couverture de certains risques, à des fonds de prévoyance pouvant être alimentés par
+des prélèvements sur certaines indemnités et par une contribution de l'Etat couvrant soit le personnel non cotisant, soit les
+cas de circonstances exceptionnelles. Ces fonds sont conservés, gérés et utilisés exclusivement au profit des ayants droit et
+de leurs ayants cause.
+
+Les allocations de ces fonds sont incessibles et insaisissables.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 12
+	  - Loi n°2005-270 du 24 mars 2005 - art. 12 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 19 mai 2011 (V)
+	  - Code de la défense. - art. L4123-6 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+
+
+###### Article L4123-6
+
+Les militaires, investis de fonctions d'administrateur, vice-président et président des organismes d'assurance des
+militaires, bénéficient, dans l'exercice ou à l'occasion de l'exercice de leur activité mutualiste, des dispositions des
+articles L. 4123-2, L. 4123-5, 
+L. 4123-10, du deuxième alinéa des articles L. 4138-11 et L. 4138-12, dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 12-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4123-10 (V)
+	  - Code de la défense. - art. L4123-2 (V)
+	  - Code de la défense. - art. L4123-5 (V)
+	  - Code de la défense. - art. L4138-11 (V)
+	  - Code de la défense. - art. L4138-12 (V)
+
+
+###### Article L4123-7
+
+Les militaires ayant servi en vertu d'un contrat qui sont involontairement privés d'emploi ont droit à un revenu de
+remplacement, sous forme d'allocation de chômage attribuée dans les conditions fixées par le code du travail.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 13
+	  - Loi n°2005-270 du 24 mars 2005 - art. 13 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4123-30 (V)
+
+
+###### Article L4123-8
+
+Le dossier individuel du militaire comporte toutes les pièces concernant la situation administrative de l'intéressé, les
+documents annexes relatifs aux décisions et avis à caractère statutaire ou disciplinaire ainsi que les feuilles de notation
+le concernant.
+
+Ces différents documents sont enregistrés, numérotés et classés sans discontinuité.
+
+Il ne peut être fait état dans le dossier individuel du militaire, de même que dans tout document administratif, des opinions
+ou croyances philosophiques, religieuses ou politiques de l'intéressé.
+
+Tout militaire a accès à son dossier individuel dans les conditions définies par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 14
+	  - Loi n°2005-270 du 24 mars 2005 - art. 14 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+
+
+###### Article L4123-9
+
+I.-Les volontaires servant en qualité de militaires dans la gendarmerie peuvent être admis dans le corps des sous-officiers
+de gendarmerie et nommés au 1er échelon du grade de gendarme : 
+
+1° A titre posthume, lorsqu'ils sont blessés mortellement dans l'exercice de leurs fonctions ; 
+
+2° A titre exceptionnel, lorsqu'ils ont été grièvement blessés à l'occasion d'une mission de police. 
+
+En cas d'inaptitude physique, sur avis médical, ils peuvent faire l'objet d'un reclassement au sein d'un corps de
+fonctionnaires relevant de l'autorité du ministre de la défense. La titularisation est prononcée, le cas échéant, après avis
+de la commission administrative paritaire du corps d'accueil. 
+
+II.-Les prescriptions de l'article L. 50 du code des pensions civiles et militaires de retraite sont applicables aux
+militaires de la gendarmerie nommés dans les conditions prévues au I.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 30-1 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 112 (V)
+	  - Code de la sécurité intérieure - art. L113-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L50 (V)
+
+
+##### Section 3 : Protection juridique et responsabilité pénale
+
+###### Article L4123-10
+
+Les militaires sont protégés par le code pénal et les lois spéciales contre les menaces, violences, voies de fait, injures,
+diffamations ou outrages dont ils peuvent être l'objet.
+
+L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent être l'objet à l'occasion de l'exercice de
+leurs fonctions et de réparer, le cas échéant, le préjudice qui en est résulté. Il est subrogé aux droits de la victime pour
+obtenir des auteurs des menaces ou attaques la restitution des sommes versées aux victimes.
+
+Il peut exercer, aux mêmes fins, une action directe, au besoin par voie de constitution de partie civile, devant la
+juridiction pénale.
+
+L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à
+l'occasion de faits qui n'ont pas le caractère d'une faute personnelle.
+
+En cas de poursuites exercées par un tiers contre des militaires pour faute de service sans que le conflit d'attribution ait
+été élevé, l'Etat doit, dans la mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a été commise,
+les couvrir des condamnations civiles prononcées contre eux.
+
+Les conjoints, enfants et ascendants directs des militaires bénéficient de la protection de l'Etat lorsque, du fait des
+fonctions de ces derniers, ils sont victimes de menaces, violences, voies de fait, injures, diffamations ou outrages.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 1999 - art. 1 (Ab)
+	  - Arrêté du 11 mars 2003 - art. 1 (Ab)
+	  - Arrêté du 11 mars 2003 - art. 2 (Ab)
+	  - Arrêté du 24 janvier 2008 - art. 2 (V)
+	  - Décret n°2009-1179 du 5 octobre 2009 - art. 19 (V)
+	  - Arrêté du 23 décembre 2009 - art. 7 (V)
+	  - Arrêté du 23 décembre 2009 - art. 9 (V)
+	  - Décret n°2014-920 du 19 août 2014 (V)
+	  - Décret n°2014-920 du 19 août 2014 - art. 3 (V)
+	  - Arrêté du 10 avril 2015 - art. 4 (V)
+	  - Arrêté du 16 juin 2015 - art. 8 (V)
+	  - Loi n°2016-483 du 20 avril 2016 - art. 21
+	  - Code de la défense. - art. L4123-6 (V)
+	  - Code de la défense. - art. L4141-4 (VD)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code de la défense. - art. R3232-2 (V)
+	  - Code de la défense. - art. R3232-6 (V)
+	  - Code de la sécurité intérieure - art. L113-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 15
+	  - Loi n°2005-270 du 24 mars 2005 - art. 15 (Ab)
+
+
+###### Article L4123-11
+
+Sous réserve des dispositions du quatrième alinéa de l'article 121-3 du code pénal, les militaires ne peuvent être condamnés
+sur le fondement du troisième alinéa de ce même article pour des faits non intentionnels commis dans l'exercice de leurs
+fonctions que s'il est établi qu'ils n'ont pas accompli les diligences normales compte tenu de leurs compétences, du pouvoir
+et des moyens dont ils disposaient ainsi que des difficultés propres aux missions que la loi leur confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 16
+	  - Loi n°2005-270 du 24 mars 2005 - art. 16 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3 (V)
+
+
+###### Article L4123-12
+
+I. - Outre les cas de légitime défense, n'est pas pénalement responsable le militaire qui déploie, après sommations, la force
+armée absolument nécessaire pour empêcher ou interrompre toute intrusion dans une zone de défense hautement sensible et
+procéder à l'arrestation de l'auteur de cette intrusion.
+
+Constitue une zone de défense hautement sensible la zone définie par voie réglementaire à l'intérieur de laquelle sont
+implantés ou stationnés des biens militaires dont la perte ou la destruction serait susceptible de causer de très graves
+dommages à la population, ou mettrait en cause les intérêts vitaux de la défense nationale.
+
+Un décret en Conseil d'Etat fixe les modalités d'application des alinéas précédents. Il détermine les conditions dans
+lesquelles sont définies les zones de défense hautement sensibles, les conditions de délivrance des autorisations d'y
+pénétrer et les modalités de leur protection. Il précise les modalités des sommations auxquelles procède le militaire.
+
+II. - N'est pas pénalement responsable le militaire qui, dans le respect des règles du droit international et dans le cadre
+d'une opération militaire se déroulant à l'extérieur du territoire français, exerce des mesures de coercition ou fait usage
+de la force armée, ou en donne l'ordre, lorsque cela est nécessaire à l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 17
+	  - Loi n°2005-270 du 24 mars 2005 - art. 17 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2363-1 (V)
+
+
+##### Section 4 : Dispositions au bénéfice d'enfants mineurs
+
+###### Article L4123-13
+
+Une protection particulière est accordée aux enfants mineurs des militaires, qu'ils soient de carrière ou qu'ils servent en
+vertu d'un contrat, et des appelés du contingent décédés des suites d'un accident survenu, d'une blessure reçue ou d'une
+maladie contractée ou aggravée dans l'exécution, sur ordre, en temps de paix, de missions, services, ou tâches comportant des
+risques particuliers ou au cours de manoeuvres ou d'exercices préparant au combat.
+
+Cette protection est également accordée aux enfants mineurs des militaires, de carrière, servant en vertu d'un contrat ou du
+contingent, qui sont dans l'incapacité de subvenir à leurs besoins par le travail à raison de blessures reçues ou de maladies
+contractées ou aggravées dans les mêmes circonstances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4123-18 (V)
+	  - Code de la défense. - art. R4123-38 (V)
+	  - Code de la défense. - art. R4123-41 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L411-6 (VD)
+
+
+###### Article L4123-14
+
+Sur la demande du père, de la mère ou du représentant légal de l'enfant, le tribunal, réuni en la chambre du Conseil, vérifie
+si celui-ci réunit les conditions nécessaires à l'octroi de cette protection et statue par jugement notifié à son père, à sa
+mère ou à son représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4123-15
+
+En cas d'insuffisance de leurs ressources, le père, la mère ou le représentant légal des enfants protégés peuvent recevoir de
+l'Etat une aide financière spéciale en vue d'assurer l'entretien et l'éducation de ces enfants.
+
+A la demande de leur père, de leur mère ou de leur représentant légal, les enfants protégés peuvent être confiés soit à des
+établissements publics, soit à des fondations, associations ou groupements, soit à des particuliers présentant toutes les
+garanties nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4123-44 (V)
+
+
+###### Article L4123-16
+
+Le service chargé de l'action sociale des armées est habilité à accorder ces aides financières spéciales et à pourvoir à ces
+placements dans des établissements publics, fondations, associations ou groupements ou chez des particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4123-17
+
+Des bourses et exonérations diverses peuvent être accordées, même au-delà de leur majorité, aux enfants protégés, en vue de
+faciliter leur instruction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4123-18
+
+Des décrets pris en Conseil d'Etat fixent les modalités d'application des articles L. 4123-13 à L. 4123-17.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1408 du 23 décembre 1977 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4123-13 (V)
+
+
+##### Chapitre IV : Organismes consultatifs et de concertation
+
+###### Article L4124-1
+
+Le Conseil supérieur de la fonction militaire est le cadre institutionnel dans lequel sont examinés les éléments constitutifs
+de la condition de l'ensemble des militaires.
+
+Le Conseil supérieur de la fonction militaire exprime son avis sur les questions de caractère général relatives à la
+condition et au statut des militaires. Il est obligatoirement saisi des projets de textes d'application du présent livre
+ayant une portée statutaire.
+
+Les conseils de la fonction militaire dans les armées et les formations rattachées étudient toute question relative à leur
+armée, direction ou service concernant les conditions de vie, d'exercice du métier militaire ou d'organisation du travail ;
+ils procèdent également à une première étude des questions inscrites à l'ordre du jour du Conseil supérieur de la fonction
+militaire.
+
+Les membres du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire jouissent des garanties
+indispensables à leur liberté d'expression. Toutes informations et facilités nécessaires à l'exercice de leurs fonctions
+doivent leur être fournies.
+
+La composition, l'organisation, le fonctionnement et les conditions de désignation, notamment par tirage au sort, des membres
+de ces conseils sont fixés par décret en Conseil d'Etat.
+
+Les retraités militaires sont représentés au sein du Conseil supérieur de la fonction militaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 18
+	  - Loi n°2005-270 du 24 mars 2005 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Décret n°2011-591 du 26 mai 2011 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 32 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code de la défense. - art. R4124-1 (M)
+	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+
+
+#### TITRE III : DISPOSITIONS STATUTAIRES RELATIVES AUX DÉROULEMENTS DES CARRIÈRES
+
+##### Chapitre Ier : Hiérarchie militaire
+
+###### Article L4131-1
+
+I. - La hiérarchie militaire générale est la suivante :
+
+1° Militaires du rang ;
+
+2° Sous-officiers et officiers mariniers ;
+
+3° Officiers ;
+
+4° Maréchaux de France et amiraux de France.
+
+Le titre de maréchal de France et le titre d'amiral de France constituent une dignité dans l'Etat.
+
+II. - Dans la hiérarchie militaire générale :
+
+1° Les grades des militaires du rang sont :
+
+a) Soldat ou matelot ;
+
+b) Caporal ou quartier-maître de deuxième classe ;
+
+c) Caporal-chef ou quartier-maître de première classe ;
+
+2° Les grades des sous-officiers et des officiers mariniers sont :
+
+a) Sergent ou second maître ;
+
+b) Sergent-chef ou maître ;
+
+c) Adjudant ou premier maître ;
+
+d) Adjudant-chef ou maître principal ;
+
+e) Major.
+
+Dans la gendarmerie, le grade de gendarme prend place entre le grade de sergent et celui de sergent-chef ;
+
+3° Les grades des officiers sont :
+
+a) Sous-lieutenant ou enseigne de vaisseau de deuxième classe ;
+
+b) Lieutenant ou enseigne de vaisseau de première classe ;
+
+c) Capitaine ou lieutenant de vaisseau ;
+
+d) Commandant ou capitaine de corvette ;
+
+e) Lieutenant-colonel ou capitaine de frégate ;
+
+f) Colonel ou capitaine de vaisseau ;
+
+g) Général de brigade, général de brigade aérienne ou contre-amiral ;
+
+h) Général de division, général de division aérienne ou vice-amiral.
+
+Les généraux de division, les généraux de division aérienne et les vice-amiraux peuvent respectivement recevoir rang et
+appellation de général de corps d'armée, de général de corps aérien ou de vice-amiral d'escadre et de général d'armée, de
+général d'armée aérienne ou d'amiral.
+
+La hiérarchie militaire générale comporte, en outre, le grade d'aspirant. Les conditions d'accès à ce grade, ainsi que les
+prérogatives et avantages qui lui sont attachés, sont fixés par décret en Conseil d'Etat, qui précise également celles des
+dispositions du présent livre relatives aux officiers et aux sous-officiers qui lui sont applicables.
+
+III. - Le corps militaire du contrôle général des armées a une hiérarchie propre qui ne comporte aucune assimilation avec les
+grades des autres corps d'officiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 19
+	  - Loi n°2005-270 du 24 mars 2005 - art. 19 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-958 du 12 septembre 2008 - art. 1 (V)
+	  - Décret n°2010-754 du 5 juillet 2010 - art. 16 (V)
+	  - Arrêté du 9 avril 2014 - art. 1 (V)
+	  - Code de la défense. - art. L4126-8 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. R4137-47 (V)
+
+
+##### Chapitre II : Recrutement
+
+##### Section 1 : Dispositions communes
+
+###### Article L4132-1
+
+Nul ne peut être militaire : 
+
+1° S'il ne possède la nationalité française, sous réserve des dispositions de l'article L. 4132-7 ; 
+
+2° S'il est privé de ses droits civiques ; 
+
+3° S'il ne présente les aptitudes exigées pour l'exercice de la fonction ; 
+
+4° S'il n'est âgé de dix-sept ans au moins, ou de seize ans pour recevoir une formation générale et professionnelle en
+qualité de volontaire dans les armées ou en qualité d'engagé dans une école militaire. 
+
+Le mineur non émancipé doit être pourvu du consentement de son représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 20
+	  - Loi n°2005-270 du 24 mars 2005 - art. 20 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 27 juin 2007 - art. 3-1 (V)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 22-1 (VD)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 13-1 (VD)
+	  - Décret n°2008-953 du 12 septembre 2008 - art. 11-1 (VD)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 7 (VD)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 8 (VD)
+	  - Décret n°2008-1524 du 30 décembre 2008 - art. 8 (VD)
+	  - Arrêté du 6 janvier 2009 - art. 14 (V)
+	  - Arrêté du 24 avril 2009 - art. 19 (Ab)
+	  - Arrêté du 29 juin 2009 - art. 3 (V)
+	  - Arrêté du 11 décembre 2009 - art. 3 (V)
+	  - Arrêté du 3 mars 2010 - art. 1 (Ab)
+	  - Arrêté du 3 mai 2010 - art. 19 (V)
+	  - Arrêté du 3 mai 2010 - art. 21 (V)
+	  - Arrêté du 3 mars 2010 - art. 1 (V)
+	  - Arrêté du 13 mai 2011 - art. 1 (V)
+	  - Arrêté du 15 juin 2011 - art. 2 (V)
+	  - Arrêté du 28 février 2012 - art. 1 (Ab)
+	  - Arrêté du 6 avril 2012 - art. 4 (V)
+	  - Arrêté du 20 décembre 2012 - art. 1 (V)
+	  - Arrêté du 31 janvier 2014 - art. 1 (V)
+	  - Arrêté du 31 janvier 2014 - art. 4 (V)
+	  - Arrêté du 15 septembre 2014 - art. 2 (V)
+	  - Arrêté du 22 avril 2015 - art. 16 (VT)
+	  - Arrêté du 12 juin 2015 - art. 3 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 23 (V)
+	  - Arrêté du 15 février 2016 - art. 23 (V)
+	  - Arrêté du 17 mars 2016 - art. 2
+	  - Arrêté du 19 octobre 2016 - art. 16 (VD)
+	  - Arrêté du 6 février 2017 - art. 1 (V)
+	  - Code de la défense. - art. L4132-7 (V)
+
+
+##### Section 2 : Dispositions applicables aux militaires de carrière
+
+###### Article L4132-2
+
+Sont militaires de carrière les officiers ainsi que les sous-officiers et officiers mariniers qui sont admis à cet état après
+en avoir fait la demande. Ils sont, de ce fait, nommés ou promus à un grade de la hiérarchie en vue d'occuper un emploi
+permanent dans un corps militaire. Ils ne peuvent perdre l'état militaire que pour l'une des causes prévues aux articles L.
+4139-12 à L. 4139-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 21 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4139-12 (V)
+
+
+###### Article L4132-3
+
+I. - Les officiers de carrière sont recrutés :
+
+1° Soit par la voie des écoles militaires d'élèves officiers, qui recrutent par concours ;
+
+2° Soit par concours, par examens ou sur titres parmi les militaires ou, à titre exceptionnel, parmi d'autres catégories de
+candidats énumérées dans les statuts particuliers ;
+
+3° Soit au choix, parmi les officiers sous contrat et les sous-officiers qui en font la demande ou pour action d'éclat dûment
+constatée.
+
+II. - Les statuts particuliers déterminent notamment :
+
+1° Les conditions d'âge, de titres ou de diplômes, la nature des épreuves d'aptitude, les conditions de grade ou de durée de
+service ;
+
+2° Les grades initiaux et les modalités de prise de rang ;
+
+3° Les proportions à respecter, par rapport au personnel admis par concours dans les écoles militaires d'élèves officiers,
+pour le personnel provenant des autres sources de recrutement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 6-1 (V)
+	  - Arrêté du 7 avril 2009 (V)
+	  - Arrêté du 4 novembre 2010 (V)
+	  - Arrêté du 22 avril 2015 - art. 16 (VT)
+	  - Arrêté du 19 octobre 2016 - art. 16 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 22
+	  - Loi n°2005-270 du 24 mars 2005 - art. 22 (Ab)
+
+
+###### Article L4132-4
+
+Peuvent être admis à l'état de sous-officiers de carrière les militaires servant en vertu d'un contrat ayant accompli au
+moins quatre ans de services militaires effectifs, dont une partie dans un grade de sous-officier ou d'officier marinier,
+dans les conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 23
+	  - Loi n°2005-270 du 24 mars 2005 - art. 23 (Ab)
+
+
+##### Section 3 : Dispositions applicables aux militaires servant en vertu d'un contrat
+
+##### Sous-section 1 : Dispositions communes
+
+###### Article L4132-5
+
+Les militaires d'active autres que de carrière peuvent servir en tant que :
+
+1° Officiers sous contrat ;
+
+2° Militaires engagés ;
+
+3° Militaires commissionnés ;
+
+4° Volontaires ;
+
+5° Volontaires stagiaires du service militaire adapté ;
+
+6° Militaires servant à titre étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 24
+	  - Loi n°2005-270 du 24 mars 2005 - art. 24 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2014-518 du 21 mai 2014 - art. 7 (V)
+	  - Décret n°2016-1992 du 30 décembre 2016 - art. 6 (V)
+	  - Code de la défense. - art. R4123-31 (V)
+
+
+###### Article L4132-6
+
+Le militaire servant en vertu d'un contrat est recruté pour une durée déterminée. Le contrat est renouvelable. Il est
+souscrit au titre d'une armée ou d'une formation rattachée.
+
+Le service compte à partir de la date d'effet du contrat ou, s'il n'y a pas d'interruption du service, de la date
+d'expiration du contrat précédent.
+
+Sous réserve des dispositions relatives aux militaires commissionnés, l'intéressé est admis à servir avec le grade qu'il a
+acquis. Toutefois, il peut être admis à servir avec un grade inférieur en cas d'interruption de service ou de changement
+d'armée ou de formation rattachée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 25
+	  - Loi n°2005-270 du 24 mars 2005 - art. 25 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4134-1 (V)
+	  - Code du service national - art. L121-1 (V)
+
+
+###### Article L4132-7
+
+Par exception à la condition de nationalité prévue au 1° de l'article L. 4132-1, un ressortissant étranger peut être admis à
+servir en vertu d'un contrat : 
+
+1° A titre étranger, dans les conditions prévues au chapitre 2 du titre IV ; 
+
+2° Comme militaire commissionné, dans les conditions prévues à l'article L. 4132-10 ; 
+
+3° Pour tout ou partie de la durée de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 26
+	  - Loi n°2005-270 du 24 mars 2005 - art. 26 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4132-1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4132-10 (V)
+
+
+##### Sous-section 2 : Dispositions particulières
+
+###### Article L4132-8
+
+L'officier sous contrat est recruté, au titre de son contrat initial, parmi les aspirants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 27
+	  - Loi n°2005-270 du 24 mars 2005 - art. 27 (Ab)
+
+
+###### Article L4132-9
+
+L'engagé est celui qui est admis à servir en vertu d'un contrat dans les grades de militaire du rang et de sous-officier ou
+d'officier marinier dans une armée ou une formation rattachée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 28
+	  - Loi n°2005-270 du 24 mars 2005 - art. 28 (Ab)
+
+
+###### Article L4132-10
+
+Le militaire commissionné est admis par contrat à servir dans une armée ou une formation rattachée dans un grade d'officier
+ou de sous-officier en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique
+correspondant aux diplômes qu'il détient ou à son expérience professionnelle.
+
+Le grade du militaire commissionné ne donne droit au commandement que dans le cadre de la fonction exercée.
+
+Le militaire commissionné ne peut, dans cette situation, dépasser la limite d'âge des militaires de carrière du grade
+correspondant.
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent article et, en particulier, celles requises pour
+l'attribution des grades.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 29
+	  - Loi n°2005-270 du 24 mars 2005 - art. 29 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 2008 (V)
+	  - Arrêté du 25 août 2009 (V)
+	  - Arrêté du 3 juin 2010 (Ab)
+	  - Arrêté du 21 janvier 2011 (V)
+	  - Arrêté du 12 décembre 2011 (V)
+	  - Arrêté du 5 février 2013 (V)
+	  - Arrêté du 29 octobre 2013 (V)
+	  - Arrêté du 20 juin 2014 (V)
+	  - Arrêté du 1er juillet 2015 (V)
+	  - Arrêté du 13 décembre 2016 (V)
+	  - Arrêté du 23 mai 2017 (V)
+	  - Code de la défense. - art. L4132-7 (V)
+
+
+###### Article L4132-11
+
+Les Français et les Françaises peuvent être admis à servir, avec la qualité de militaire, en vertu d'un contrat de
+volontariat dans les armées.
+
+Le volontariat est souscrit pour une durée minimale fixée par décret en Conseil d'Etat, qui peut être fractionnée si la
+nature de l'activité concernée le permet. Le contrat de volontariat est renouvelable.
+
+Les volontaires peuvent servir dans les grades de militaire du rang, au premier grade de sous-officier ou d'officier marinier
+et au grade d'aspirant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 30
+	  - Loi n°2005-270 du 24 mars 2005 - art. 30 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 28 novembre 2008 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 23 (V)
+	  - Décret n°2015-1709 du 21 décembre 2015 - art. 1
+	  - Code de la défense. - art. L4132-12 (V)
+	  - Code de la sécurité sociale. - art. R844-1 (VD)
+	  - Code du service national - art. L121-1 (V)
+	  - Code du travail - art. L5151-9 (VD)
+
+
+###### Article L4132-12
+
+Peuvent demander à servir afin de recevoir une formation professionnelle les Français et les Françaises nés ou ayant leur
+résidence habituelle dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, dans les
+Terres australes et antarctiques françaises, en Polynésie française et en Nouvelle-Calédonie. Ils servent alors en tant que
+volontaires stagiaires du service militaire adapté dans les mêmes grades que ceux mentionnés au dernier alinéa de l'article
+L. 4132-11. 
+
+La formation peut inclure la participation des stagiaires à des chantiers d'application, qui sont mis en oeuvre par les
+formations du service militaire adapté à la demande de l'Etat, des collectivités territoriales d'outre-mer, de leurs
+établissements publics et des associations à but non lucratif déclarées d'utilité publique. Les travaux ainsi réalisés par
+ces stagiaires ne donnent pas lieu à rémunération de la prestation effectuée. Le volontariat des stagiaires du service
+militaire adapté est souscrit pour une durée minimale de six mois. Il peut être renouvelé par périodes de deux à douze mois.
+La durée totale de ce volontariat ne peut excéder vingt-quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 31
+	  - Loi n°2005-270 du 24 mars 2005 - art. 31 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 23-1 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 22 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 23 (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 9
+	  - Code de la défense. - art. L4139-16 (V)
+	  - Code de la sécurité sociale. - art. L321-3 (V)
+	  - Code du service national - art. L121-1 (V)
+	  - Code du travail - art. L5151-9 (VD)
+	  - Code du travail - art. L6121-1 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4132-11 (V)
+
+
+##### Chapitre III : Changement d'armée ou de corps
+
+###### Article L4133-1
+
+Les militaires de carrière peuvent, pour les besoins du service, être admis sur leur demande ou affectés d'office dans
+d'autres corps de l'armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps
+d'une autre armée ou d'une autre formation rattachée que sur leur demande.
+
+Ces dispositions ne peuvent entraîner ni l'admission dans les corps recrutés exclusivement par concours ou sur présentation
+de titres déterminés, ni la modification du grade et de l'ancienneté de grade acquise dans le corps d'origine, ni la prise de
+rang dans le nouveau corps avant les militaires de même grade et de même ancienneté, ni la perte du bénéfice d'une
+inscription au tableau d'avancement.
+
+Les militaires servant en vertu d'un contrat peuvent changer d'armée ou de formation rattachée et, le cas échéant, changer de
+corps de rattachement dans les mêmes conditions que les militaires de carrière. Dans ce cas, il est souscrit un nouvel
+engagement sans interruption de service.
+
+Des permutations pour convenances personnelles peuvent être autorisées entre militaires de carrière de même grade appartenant
+à des corps différents. Les permutants prennent rang dans le nouveau corps à la date de nomination dans le grade du moins
+ancien des deux intéressés.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-1001 du 5 novembre 1976 - art. 4 (VD)
+	  - Décret n°77-33 du 4 janvier 1977 - art. 5 (VD)
+	  - Loi n°82-621 du 21 juillet 1982 - art. 11 (V)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 27 (VD)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 22 (VD)
+	  - Décret n°2008-953 du 12 septembre 2008 - art. 4 (VD)
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 28 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 42 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 32
+	  - Loi n°2005-270 du 24 mars 2005 - art. 32 (Ab)
+
+
+##### Chapitre IV : Nomination
+
+###### Article L4134-1
+
+Les nominations dans un grade de la hiérarchie militaire sont prononcées : 
+
+1° Par décret en conseil des ministres pour les officiers généraux ; 
+
+2° Par décret du Président de la République pour les officiers de carrière et sous contrat ; 
+
+3° Par l'autorité habilitée par voie réglementaire pour les sous-officiers de carrière, les engagés et les volontaires ainsi
+que pour les officiers et les sous-officiers commissionnés. 
+
+Il n'est pas prononcé de nomination dans un grade à titre honoraire. 
+
+Sous réserve des dispositions de l'article L. 4132-6, le grade détenu à titre définitif ne peut être perdu que dans les cas
+prévus au 2° de l'article L. 4139-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 33
+	  - Loi n°2005-270 du 24 mars 2005 - art. 33 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-951 du 12 septembre 2008 - art. 10 (VD)
+	  - Code de la défense. - art. L4134-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4132-6 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+
+
+###### Article L4134-2
+
+Les nominations des militaires peuvent intervenir à titre temporaire, soit pour remplir des fonctions pour une durée limitée,
+soit en temps de guerre. 
+
+Le grade détenu à ce titre comporte tous les droits, avantages et prérogatives qui lui sont attachés. Il est sans effet sur
+le rang dans la liste d'ancienneté et l'avancement.
+
+L'octroi et le retrait des grades conférés à titre temporaire sont prononcés par arrêté du ministre de la défense, sans qu'il
+soit fait application des dispositions des articles L. 4134-1 et L. 4136-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 34
+	  - Loi n°2005-270 du 24 mars 2005 - art. 34 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-932 du 12 septembre 2008 - art. 14 (VT)
+	  - Décret n°2008-935 du 12 septembre 2008 - art. 16 (Ab)
+	  - Décret n°2008-947 du 12 septembre 2008 - art. 2 (VD)
+	  - Décret n°2008-1524 du 30 décembre 2008 - art. 9 (V)
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 14 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 17 (VD)
+	  - Décret n°2012-1456 du 24 décembre 2012 - art. 13 (VD)
+	  - Décret n°2012-1546 du 28 décembre 2012 - art. 14 (V)
+	  - Décret n°2012-1546 du 28 décembre 2012 - art. 16 (V)
+	  - Décret n°2016-422 du 8 avril 2016 - art. 5 (V)
+	  - Code de la défense. - art. R4131-10 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4134-1 (V)
+	  - Code de la défense. - art. L4136-3 (V)
+
+
+##### Chapitre V : Notation
+
+###### Article L4135-1
+
+Les militaires sont notés au moins une fois par an.
+
+La notation est traduite par des notes et des appréciations qui sont obligatoirement communiquées chaque année aux
+militaires.
+
+A l'occasion de la notation, le chef fait connaître à chacun de ses subordonnés directs son appréciation sur sa manière de
+servir.
+
+Les conditions d'application du présent article, ainsi que les conditions dans lesquelles il peut être dérogé au caractère
+annuel de la notation, sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 35
+	  - Loi n°2005-270 du 24 mars 2005 - art. 35 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4143-1 (V)
+
+
+##### Chapitre VI : Avancement
+
+###### Article L4136-1
+
+Les promotions sont prononcées dans les mêmes conditions que les nominations.
+
+L'avancement de grade a lieu soit au choix, soit au choix et à l'ancienneté, soit à l'ancienneté. Les promotions ont lieu de
+façon continue de grade à grade. Sauf action d'éclat ou services exceptionnels, nul ne peut être promu à un grade s'il ne
+compte dans le grade inférieur un minimum de durée de service, fixé par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 36
+	  - Loi n°2005-270 du 24 mars 2005 - art. 36 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Décret n°2014-631 du 17 juin 2014 (V)
+	  - Décret n°2014-713 du 26 juin 2014 - art. 1 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+
+
+###### Article L4136-2
+
+L'ancienneté des militaires dans leur grade est déterminée par le temps passé en position d'activité et, dans chaque cas, par
+celui pris en compte pour l'avancement au titre des autres positions statutaires prévues par le présent statut.
+
+Sauf pour les militaires commissionnés et les volontaires, les militaires prennent rang sur une liste d'ancienneté établie
+par grade en fonction de leur ancienneté dans chaque corps et, s'il y a lieu, par arme, service ou spécialité. L'avancement à
+l'ancienneté a lieu dans chaque corps dans l'ordre de la liste d'ancienneté.
+
+A égalité d'ancienneté, le rang est déterminé dans les conditions fixées par les statuts particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 37
+	  - Loi n°2005-270 du 24 mars 2005 - art. 37 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Code de la défense. - art. R4141-5 (V)
+
+
+###### Article L4136-3
+
+Nul ne peut être promu au choix à un grade autre que ceux d'officiers généraux s'il n'est inscrit sur un tableau d'avancement
+établi, au moins une fois par an, par corps.
+
+Une commission dont les membres, d'un grade supérieur à celui des intéressés, sont désignés par le ministre de la défense,
+présente à ce dernier tous les éléments d'appréciation nécessaires, notamment l'ordre de préférence et les notations données
+aux candidats par leurs supérieurs hiérarchiques.
+
+Sous réserve des nécessités du service, les promotions ont lieu dans l'ordre du tableau d'avancement.
+
+Si le tableau n'a pas été épuisé, les militaires qui y figurent sont reportés en tête du tableau suivant.
+
+Les statuts particuliers précisent les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-1001 du 5 novembre 1976 - art. 12 (VD)
+	  - Décret n°77-33 du 4 janvier 1977 - art. 14 (VD)
+	  - Décret n°79-1135 du 27 décembre 1979 - art. 24 (VT)
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 10 (V)
+	  - Décret n°2008-930 du 12 septembre 2008 - art. 26 (VD)
+	  - Décret n°2008-930 du 12 septembre 2008 - art. 9 (VD)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 15 (VD)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 31 (VD)
+	  - Décret n°2008-932 du 12 septembre 2008 - art. 23 (VT)
+	  - Décret n°2008-933 du 12 septembre 2008 - art. 37 (V)
+	  - Décret n°2008-935 du 12 septembre 2008 - art. 28 (Ab)
+	  - Décret n°2008-938 du 12 septembre 2008 - art. 30 (V)
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 8 (VD)
+	  - Décret n°2008-940 du 12 septembre 2008 - art. 32 (VD)
+	  - Décret n°2008-941 du 12 septembre 2008 - art. 16 (V)
+	  - Décret n°2008-942 du 12 septembre 2008 - art. 13 (V)
+	  - Décret n°2008-943 du 12 septembre 2008 - art. 31 (VD)
+	  - Décret n°2008-944 du 12 septembre 2008 - art. 26 (V)
+	  - Décret n°2008-945 du 12 septembre 2008 - art. 22 (VT)
+	  - Décret n°2008-946 du 12 septembre 2008 - art. 34 (VD)
+	  - Décret n°2008-950 du 12 septembre 2008 - art. 30 (VT)
+	  - Décret n°2008-951 du 12 septembre 2008 - art. 9 (VD)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 26 (V)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 6 (V)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 9 (V)
+	  - Décret n°2008-953 du 12 septembre 2008 - art. 10 (V)
+	  - Décret n°2008-953 du 12 septembre 2008 - art. 19 (VD)
+	  - Décret n°2008-954 du 12 septembre 2008 - art. 20 (VD)
+	  - Décret n°2008-954 du 12 septembre 2008 - art. 25 (VD)
+	  - Décret n°2008-954 du 12 septembre 2008 - art. 8 (V)
+	  - Décret n°2008-955 du 12 septembre 2008 - art. 13 (V)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 17 (VD)
+	  - Décret n°2008-958 du 12 septembre 2008 - art. 1 (V)
+	  - Décret n°2008-961 du 12 septembre 2008 - art. 16 (VD)
+	  - Arrêté du 5 août 2009 - art. 19 (V)
+	  - Arrêté du 5 août 2009 - art. 20 (V)
+	  - Arrêté du 5 août 2009 - art. 3 (V)
+	  - Arrêté du 4 août 2010 - art. 1 (V)
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 22 (V)
+	  - Arrêté du 4 mars 2011 - art. 10 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 11 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 13 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 14 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 7 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 8 (Ab)
+	  - Arrêté du 4 mars 2011 - art. 9 (Ab)
+	  - Arrêté du 15 juin 2011 - art. 23 (V)
+	  - Arrêté du 15 juin 2011 - art. 25 (V)
+	  - Arrêté du 26 août 2011 (V)
+	  - Arrêté du 6 avril 2012 - art. 9 (V)
+	  - Arrêté du 5 avril 2012 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 29 (VD)
+	  - Décret n°2012-1456 du 24 décembre 2012 - art. 22 (VD)
+	  - Décret n°2012-1546 du 28 décembre 2012 - art. 28 (V)
+	  - Arrêté du 16 juillet 2013 (V)
+	  - Arrêté du 4 novembre 2013 (V)
+	  - Arrêté du 5 novembre 2013 (V)
+	  - Arrêté du 12 novembre 2013 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 37 (V)
+	  - Arrêté du 12 décembre 2013 - art. 19 (Ab)
+	  - Arrêté du 12 décembre 2013 - art. 20 (Ab)
+	  - Arrêté du 12 décembre 2013 - art. 21 (Ab)
+	  - Arrêté du 12 décembre 2013 - art. 25 (Ab)
+	  - Arrêté du 15 juillet 2014 (V)
+	  - Arrêté du 17 octobre 2014 (V)
+	  - Arrêté du 7 novembre 2014 (V)
+	  - Décret n°2014-1455 du 5 décembre 2014 - art. 21 (VD)
+	  - Décret n°2014-1521 du 16 décembre 2014 (V)
+	  - Arrêté du 22 décembre 2015 (V)
+	  - Arrêté du 22 mars 2016 (V)
+	  - Arrêté du 29 mars 2016 - art. 19 (V)
+	  - Arrêté du 29 mars 2016 - art. 20 (V)
+	  - Arrêté du 29 mars 2016 - art. 21 (V)
+	  - Arrêté du 29 mars 2016 - art. 25 (V)
+	  - Arrêté du 17 juin 2016 (V)
+	  - Décret n°2016-983 du 19 juillet 2016 - art. 7 (V)
+	  - Arrêté du 26 septembre 2016 (V)
+	  - Arrêté du 4 novembre 2016 (V)
+	  - Arrêté du 24 mars 2017 (V)
+	  - Arrêté du 5 avril 2017 (V)
+	  - Code de la défense. - art. L4134-2 (V)
+	  - Code de la défense. - art. R4133-5 (V)
+	  - Code de la défense. - art. R4133-8 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 38
+	  - Loi n°2005-270 du 24 mars 2005 - art. 38 (Ab)
+
+
+###### Article L4136-4
+
+I. - Les statuts particuliers fixent :
+
+1° Les conditions requises pour être promu au grade supérieur ;
+
+2° Les proportions respectives et les modalités de l'avancement à la fois au choix et à l'ancienneté, pour les corps et dans
+les grades concernés ;
+
+3° Les conditions d'application de l'avancement au choix.
+
+II. - Au titre des conditions pour être promu au grade supérieur, les statuts particuliers peuvent prévoir :
+
+1° Que l'ancienneté des militaires de carrière dans le grade inférieur n'excède pas un niveau déterminé. Dans le cas où des
+dérogations à cette règle sont prévues, les statuts particuliers en fixent les limites par référence au nombre de promotions
+prononcées chaque année dans les grades considérés ;
+
+2° Le temps minimum à passer dans le grade supérieur avant la limite d'âge.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°75-1000 du 30 octobre 1975 - art. 6 (AbD)
+	  - Code de la défense. - art. L4139-8 (V)
+	  - Code de la défense. - art. L4139-9 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 39
+	  - Loi n°2005-270 du 24 mars 2005 - art. 39 (Ab)
+
+
+##### Chapitre VII : Discipline
+
+###### Article L4137-1
+
+Sans préjudice des sanctions pénales qu'ils peuvent entraîner, les fautes ou manquements commis par les militaires les
+exposent : 
+
+1° A des sanctions disciplinaires prévues à l'article L. 4137-2 ; 
+
+2° A des sanctions professionnelles prévues par décret en Conseil d'Etat, qui peuvent comporter le retrait partiel ou total,
+temporaire ou définitif, d'une qualification professionnelle. 
+
+Pour un même fait, une sanction disciplinaire et une sanction professionnelle peuvent être prononcées cumulativement. 
+
+Le militaire à l'encontre duquel une procédure de sanction est engagée a droit à la communication de son dossier individuel,
+à l'information par son administration de ce droit, à la préparation et à la présentation de sa défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 40
+	  - Loi n°2005-270 du 24 mars 2005 - art. 40 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 7 décembre 2006 - art. 3 (Ab)
+	  - Arrêté du 3 mai 2013 - art. 13 (V)
+	  - Code de la défense. - art. L4137-3 (V)
+	  - Code de la défense. - art. L4137-4 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4144-1 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4137-2 (V)
+
+
+###### Article L4137-2
+
+Les sanctions disciplinaires applicables aux militaires sont réparties en trois groupes :
+
+1° Les sanctions du premier groupe sont :
+
+a) L'avertissement ;
+
+b) La consigne ;
+
+c) La réprimande ;
+
+d) Le blâme ;
+
+e) Les arrêts ;
+
+f) Le blâme du ministre ;
+
+2° Les sanctions du deuxième groupe sont :
+
+a) L'exclusion temporaire de fonctions pour une durée maximale de cinq jours privative de toute rémunération ;
+
+b) L'abaissement temporaire ou définitif d'échelon ;
+
+c) La radiation du tableau d'avancement ;
+
+3° Les sanctions du troisième groupe sont :
+
+a) Le retrait d'emploi, défini par les dispositions de l'article L. 4138-15 ;
+
+b) La radiation des cadres ou la résiliation du contrat.
+
+Les sanctions disciplinaires ne peuvent se cumuler entre elles à l'exception des arrêts qui peuvent être appliqués dans
+l'attente du prononcé de l'une des sanctions des deuxième et troisième groupes qu'il est envisagé d'infliger.
+
+En cas de nécessité, les arrêts et les consignes sont prononcés avec effet immédiat. Les arrêts avec effet immédiat peuvent
+être assortis d'une période d'isolement.
+
+Les conditions d'application du présent article font l'objet d'un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 13 ter (V)
+	  - Décret n°2008-951 du 12 septembre 2008 - art. 11 (VD)
+	  - Décret n°2008-956 du 12 septembre 2008 - art. 26 (VD)
+	  - Code de la défense. - art. L4137-1 (M)
+	  - Code de la défense. - art. L4137-4 (V)
+	  - Code de la défense. - art. L4141-4 (VD)
+	  - Code de la défense. - art. L4141-7 (V)
+	  - Code de la défense. - art. R3321-3 (V)
+	  - Code de la défense. - art. R3322-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 41
+	  - Loi n°2005-270 du 24 mars 2005 - art. 41 (Ab)
+
+
+###### Article L4137-3
+
+Doivent être consultés : 
+
+1° Un conseil d'examen des faits professionnels avant le prononcé du retrait d'une qualification professionnelle prévu au 2°
+de l'article L. 4137-1 ; 
+
+2° Un conseil de discipline avant toute sanction disciplinaire du deuxième groupe ; 
+
+3° Un conseil d'enquête avant toute sanction disciplinaire du troisième groupe. 
+
+Ces conseils sont composés d'au moins un militaire du même grade et de la même armée ou formation rattachée que le militaire
+déféré devant eux et de militaires d'un grade supérieur ; ils sont présidés par l'officier le plus ancien dans le grade le
+plus élevé. 
+
+Un décret en Conseil d'Etat précise la composition et le fonctionnement des conseils mentionnés ci-dessus, ainsi que les
+règles de la procédure qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 42
+	  - Loi n°2005-270 du 24 mars 2005 - art. 42 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-947 du 12 septembre 2008 - art. 10 (VD)
+	  - Décret n°2008-947 du 12 septembre 2008 - art. 11 (VD)
+	  - Code de la défense. - art. L4137-4 (V)
+	  - Code de la défense. - art. L4141-7 (M)
+	  - Code de la défense. - art. R4137-124 (V)
+	  - Code de la défense. - art. R4137-50 (V)
+	  - Code de la défense. - art. R4137-69 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4137-1 (V)
+
+
+###### Article L4137-4
+
+Les autorités habilitées à cet effet prononcent les sanctions disciplinaires et professionnelles prévues aux articles L.
+4137-1 et L. 4137-2, après consultation, s'il y a lieu, de l'un des conseils prévus à l'article L. 4137-3. Toutefois, la
+radiation des cadres ne peut être prononcée que par l'autorité de nomination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 43
+	  - Loi n°2005-270 du 24 mars 2005 - art. 43 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4137-10 (V)
+
+
+###### Article L4137-5
+
+En cas de faute grave commise par un militaire, celui-ci peut être immédiatement suspendu de ses fonctions par l'autorité
+ayant pouvoir disciplinaire.
+
+Le militaire suspendu demeure en position d'activité. Il conserve sa solde, l'indemnité de résidence et le supplément
+familial de solde.
+
+La situation du militaire suspendu doit être définitivement réglée dans un délai de quatre mois à compter du jour où la
+décision de suspension a pris effet. Si, à l'expiration de ce délai, aucune décision n'a été prise par l'autorité ayant
+pouvoir disciplinaire, l'intéressé est rétabli dans un emploi de son grade, sauf s'il est l'objet de poursuites pénales.
+
+Lorsque le militaire, en raison de poursuites pénales, n'est pas rétabli dans un emploi de son grade, le ministre de la
+défense peut déterminer la quotité de la retenue qu'il subit et qui ne peut être supérieure à la moitié de sa solde augmentée
+de l'indemnité de résidence et du supplément familial de solde.
+
+Si le militaire n'a subi aucune sanction disciplinaire, il a le droit au remboursement des retenues opérées sur sa
+rémunération. Toutefois, en cas de poursuites pénales, ce droit n'est définitivement arrêté que lorsque la décision rendue
+par la juridiction saisie est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Loi n°2005-270 2005-03-24
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 44
+	  - Loi n°2005-270 du 24 mars 2005 - art. 44 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3223-14 (V)
+	  - Code de la défense. - art. D3223-23 (V)
+	  - Code de la défense. - art. L4144-1 (M)
+
+
+##### Chapitre VIII : Positions statutaires
+
+###### Article L4138-1
+
+Tout militaire est placé dans l'une des positions suivantes :
+
+1° En activité ;
+
+2° En détachement ;
+
+3° Hors cadres ;
+
+4° En non-activité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°75-1000 du 30 octobre 1975 - art. 7 (V)
+	  - Arrêté du 28 novembre 2007 - art. 9 (Ab)
+	  - Décret n°2016-389 du 30 mars 2016 (V)
+	  - Arrêté du 5 octobre 2016 - art. 3
+	  - Code de la défense. - art. L4139-15 (V)
+	  - Code de la sécurité intérieure - art. R413-30 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 45
+	  - Loi n°2005-270 du 24 mars 2005 - art. 45 (Ab)
+
+
+##### Section 1 : Activité
+
+###### Article L4138-2
+
+L'activité est la position du militaire qui occupe un emploi de son grade.
+
+Reste dans cette position le militaire :
+
+1° Qui bénéficie :
+
+a) De congés de maladie ;
+
+b) De congés pour maternité, paternité ou adoption ;
+
+c) De permissions ou de congés de fin de campagne ;
+
+d) De congés d'accompagnement d'une personne en fin de vie ;
+
+e) D'un congé de reconversion ;
+
+f) De congés de présence parentale ;
+
+2° Qui est affecté, pour une durée limitée, dans l'intérêt du service, auprès d'une administration de l'Etat, d'un
+établissement public, d'une collectivité territoriale, d'une organisation internationale, ou d'une association ou, dans
+l'intérêt de la défense, auprès d'une entreprise. Cette affectation doit s'effectuer dans le respect des dispositions prévues
+à l'article L. 4122-2. Les conditions et modalités de son affectation sont fixées par décret en Conseil d'Etat.
+
+Le militaire dans l'une des situations de la position d'activité conserve sa rémunération, à l'exception de celui placé en
+congé d'accompagnement d'une personne en fin de vie ou en congé de présence parentale.
+
+A l'exception du congé de présence parentale, la durée de chacune des situations de la position d'activité est assimilée à
+une période de service effectif.
+
+Le militaire servant en vertu d'un contrat, placé dans l'un des congés de la position d'activité voit, si nécessaire, son
+contrat prorogé jusqu'à la date d'expiration de ce congé, dans la limite de la durée de service, à l'exception des
+permissions et des congés de fin de campagne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 24 mai 1974 - art. 7 (Ab)
+	  - Décret n°79-1135 du 27 décembre 1979 - art. 2 (VT)
+	  - Décret n°95-860 du 27 juillet 1995 - art. 5 (V)
+	  - Arrêté du 1 octobre 1997 - art. 2 (V)
+	  - Arrêté du 1 octobre 1997 - art. 7 (V)
+	  - Décret n°97-900 du 1 octobre 1997 - art. 22 (V)
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 12-5 (V)
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 12-9 (V)
+	  - Décret n°2008-99 du 31 janvier 2008 - art. 8 (Ab)
+	  - Décret n°2008-930 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 24 (VD)
+	  - Décret n°2008-932 du 12 septembre 2008 - art. 1 (VT)
+	  - Décret n°2008-933 du 12 septembre 2008 - art. 2 (V)
+	  - Décret n°2008-935 du 12 septembre 2008 - art. 1 (Ab)
+	  - Décret n°2008-938 du 12 septembre 2008 - art. 1 (V)
+	  - Décret n°2008-940 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-942 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-943 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-944 du 12 septembre 2008 - art. 2 (VD)
+	  - Décret n°2008-945 du 12 septembre 2008 - art. 2 (VT)
+	  - Décret n°2008-946 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-947 du 12 septembre 2008 - art. 10 (VD)
+	  - Décret n°2008-947 du 12 septembre 2008 - art. 11 (VD)
+	  - Décret n°2008-950 du 12 septembre 2008 - art. 1 (VT)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-953 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-954 du 12 septembre 2008 - art. 1 (VD)
+	  - Décret n°2008-960 du 12 septembre 2008 - art. 6 (V)
+	  - Décret n°2008-960 du 12 septembre 2008 - art. 7 (V)
+	  - Décret n°2009-545 du 14 mai 2009 - art. 1 (V)
+	  - Décret n°2010-1237 du 20 octobre 2010 - art. 1
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 1 (V)
+	  - Loi n°2011-14 du 5 janvier 2011 - art. 2
+	  - Arrêté du 22 juillet 2011 - art. 15 (V)
+	  - Arrêté du 12 août 2011 - art. 10 (Ab)
+	  - Arrêté du 8 août 2012 - art. 11 (V)
+	  - Arrêté du 8 août 2012 - art. 16 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 1 (VD)
+	  - Arrêté du 8 juin 2012 - art. 26 (Ab)
+	  - Arrêté du 3 août 2012 - art. 18 (VT)
+	  - Décret n°2012-1456 du 24 décembre 2012 - art. 1 (VD)
+	  - Décret n°2012-1546 du 28 décembre 2012 - art. 1 (V)
+	  - Arrêté du 6 novembre 2013 - art. 16 (V)
+	  - Arrêté du 9 avril 2014 - art. 2 (V)
+	  - Décret n°2014-1455 du 5 décembre 2014 - art. 1 (VD)
+	  - Arrêté du 24 février 2015 - art. 7 (V)
+	  - Arrêté du 11 août 2015 - art. 8 (V)
+	  - Arrêté du 3 décembre 2015 - art. 20 (Ab)
+	  - Arrêté du 23 mai 2016 - art. 17 (V)
+	  - Arrêté du 23 mai 2016 - art. 4 (V)
+	  - Décret n°2016-983 du 19 juillet 2016 - art. 1 (V)
+	  - Décret n°2016-1026 du 26 juillet 2016 - art. 6
+	  - Décret n°2016-1073 du 3 août 2016 - art. 6 (V)
+	  - Arrêté du 13 mars 2017 - art. 25 (V)
+	  - Arrêté du 13 mars 2017 - art. 6 (V)
+	  - Arrêté du 12 avril 2017 - art. 35 (V)
+	  - Décret n°2017-1012 du 10 mai 2017 - art. 10 (VD)
+	  - Code de commerce - art. R821-1-2 (Ab)
+	  - Code de commerce - art. R821-14-1 (V)
+	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la défense. - art. L4139-5-1 (V)
+	  - Code de la défense. - art. L4144-1 (V)
+	  - Code de la défense. - art. R*4122-14 (V)
+	  - Code de la défense. - art. R4137-48 (V)
+	  - Code de la défense. - art. R4137-67 (V)
+	  - Code de la défense. - art. R4137-94 (V)
+	  - Code de la défense. - art. R4138-1 (V)
+	  - Code de la défense. - art. R4138-30 (VD)
+	  - Code de la défense. - art. R4138-31 (V)
+	  - Code de la défense. - art. R4138-32 (V)
+	  - Code de la défense. - art. R4138-33 (V)
+	  - Code de la santé publique - art. D4333-1 (VD)
+	  - Code de la santé publique - art. D4333-6 (VD)
+	  - Code de la santé publique - art. D4354-1 (VD)
+	  - Code de la santé publique - art. D4354-6 (VD)
+	  - Code de la santé publique - art. R4021-23 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 46
+	  - Loi n°2005-270 du 24 mars 2005 - art. 46 (Ab)
+
+
+###### Article L4138-3
+
+Les congés de maladie, d'une durée maximale de six mois pendant une période de douze mois consécutifs, sont attribués en cas
+d'affection dûment constatée mettant le militaire dans l'impossibilité d'exercer ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-900 du 1 octobre 1997 - art. 20 (V)
+	  - Code de la défense. - art. L4138-12 (V)
+	  - Code de la défense. - art. L4138-13 (V)
+	  - Code de la défense. - art. L4138-3-1 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. R4138-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 47
+	  - Loi n°2005-270 du 24 mars 2005 - art. 47 (Ab)
+
+
+###### Article L4138-4
+
+Les congés pour maternité, paternité ou adoption sont d'une durée égale à celle prévue par la législation sur la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 48
+	  - Loi n°2005-270 du 24 mars 2005 - art. 48 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-4 (V)
+	  - Code de la défense. - art. R4138-5 (V)
+	  - Code de la défense. - art. R4138-6 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+
+
+###### Article L4138-5
+
+Les permissions ainsi que les congés de fin de campagne d'une durée cumulée maximale de six mois sont attribués dans des
+conditions fixées par décret en Conseil d'Etat.
+
+Le militaire en permission ou en congé de fin de campagne peut être rappelé immédiatement lorsque les circonstances
+l'exigent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 49
+	  - Loi n°2005-270 du 24 mars 2005 - art. 49 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2010-1109 du 21 septembre 2010 - art. 6 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. R4138-16 (V)
+	  - Code de la défense. - art. R4138-27 (V)
+
+
+###### Article L4138-6
+
+Les congés d'accompagnement d'une personne en fin de vie sont attribués au militaire lorsqu'un ascendant, un descendant ou
+une personne partageant son domicile fait l'objet de soins palliatifs. Chacun de ces congés est accordé pour une durée
+maximale de trois mois, sur demande écrite du militaire. Il prend fin soit à l'expiration de la période de trois mois, soit
+dans les trois jours qui suivent le décès de la personne accompagnée, soit, à la demande du militaire, à une date antérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 50
+	  - Loi n°2005-270 du 24 mars 2005 - art. 50 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 2012 - art. 14 (V)
+	  - Décret n°2016-593 du 12 mai 2016 - art. 1 (V)
+	  - Décret n°2016-593 du 12 mai 2016 - art. 4 (V)
+	  - Décret n°2016-675 du 25 mai 2016 - art. 4
+	  - Arrêté du 28 novembre 2016 - art. 1
+	  - Code de l'éducation - art. D633-30 (V)
+	  - Code de l'éducation - art. R632-41 (VT)
+	  - Code de l'éducation - art. R632-49 (VD)
+	  - Code de la défense. - art. R4138-2 (V)
+	  - Code de la défense. - art. R4138-27 (V)
+	  - Code de la sécurité sociale. - art. L161-9-3 (V)
+	  - Code de la sécurité sociale. - art. L168-1 (V)
+
+
+###### Article L4138-7
+
+Le congé de présence parentale est accordé au militaire lorsque la maladie, l'accident ou le handicap d'un enfant à charge
+présente une particulière gravité rendant indispensable une présence soutenue de sa mère ou de son père et des soins
+contraignants. Les modalités d'appréciation de la gravité de la maladie, de l'accident ou du handicap sont définies par
+décret en Conseil d'Etat. 
+
+Ce congé est accordé de droit, sur demande écrite du militaire. Le nombre de jours dont il peut bénéficier à ce titre ne peut
+excéder trois cent dix jours ouvrés au cours d'une période de trente-six mois. Aucun de ces jours ne peut être fractionné. La
+période de congé ne peut être imputée sur la durée des permissions. 
+
+Pendant les jours de congés de présence parentale, le militaire n'acquiert pas de droits à la retraite, sous réserve des
+dispositions de l'article L. 9 du code des pensions civiles et militaires de retraite. 
+
+Si, à l'issue de la période de congé de présence parentale ou en cas de décès de l'enfant, le militaire ne peut être maintenu
+dans son emploi, il est affecté dans un emploi le plus proche possible de son ancienne affectation ou de sa résidence, sous
+réserve des nécessités du service. Cette disposition s'applique également dans le cas où le militaire demande à mettre fin,
+avant son terme, au congé de présence parentale dont il bénéficiait. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 50-1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2016-675 du 25 mai 2016 - art. 4
+	  - Code de l'éducation - art. D633-30 (V)
+	  - Code de l'éducation - art. R632-41 (VT)
+	  - Code de l'éducation - art. R632-49 (VD)
+	  - Code de la défense. - art. L4138-10 (V)
+	  - Code de la défense. - art. R4138-7 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L9 (V)
+
+
+##### Section 2 : Détachement
+
+###### Article L4138-8
+
+Le détachement est la position du militaire placé hors de son corps d'origine. Dans cette position, le militaire continue à
+figurer sur la liste d'ancienneté de son corps et à bénéficier des droits à l'avancement et à pension de retraite. Les
+conditions d'affiliation au régime de retraite sont fixées par décret en Conseil d'Etat.
+
+Le détachement est prononcé de droit, sur demande agréée ou d'office.
+
+Le détachement d'office est prononcé par le ministre de la défense après avis d'une commission comprenant un officier général
+et deux militaires de grade égal ou supérieur à celui des intéressés.
+
+Le militaire détaché est soumis à l'ensemble des règles régissant la fonction qu'il exerce par l'effet de son détachement, à
+l'exception de toute disposition prévoyant le versement d'indemnités de licenciement ou de fin de carrière.
+
+Sauf lorsqu'elle est de droit, la position de détachement est révocable et ne peut être renouvelée que sur demande.
+
+Le militaire détaché est remplacé dans son emploi.
+
+Pour les militaires servant en vertu d'un contrat, le détachement n'affecte pas le terme du contrat. Le temps passé en
+détachement est pris en compte dans la durée de service du militaire servant en vertu d'un contrat.
+
+Sous réserve de dérogations fixées par décret en Conseil d'Etat, la personne morale auprès de laquelle un militaire est
+détaché est redevable, envers le Trésor, d'une contribution pour la constitution des droits à pension de l'intéressé. Le taux
+de cette contribution est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 51
+	  - Loi n°2005-270 du 24 mars 2005 - art. 51 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2007-1742 du 11 décembre 2007 (Ab)
+	  - Décret n°2007-1742 du 11 décembre 2007 - art. 3 (Ab)
+	  - Décret n°2007-1796 du 19 décembre 2007 (V)
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 4 (V)
+	  - Décret n°2008-1534 du 22 décembre 2008 (Ab)
+	  - Décret n°2008-1534 du 22 décembre 2008 - art. 2 (Ab)
+	  - Décret n°2010-53 du 14 janvier 2010 - art. 2 (Ab)
+	  - Décret n°2011-11 du 4 janvier 2011 - art. 2 (Ab)
+	  - Décret n°2011-1919 du 22 décembre 2011 - art. 23 (VT)
+	  - Décret n°2011-2037 du 29 décembre 2011 - art. 2 (Ab)
+	  - Code de la sécurité intérieure - art. R632-15 (VD)
+	  - Décret n°2012-1507 du 27 décembre 2012 - art. 2 (VD)
+	  - Code de la défense. - art. L4121-3 (V)
+	  - Code de la défense. - art. R4138-46 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L405 (V)
+
+
+###### Article L4138-9
+
+Le militaire détaché est réintégré à l'expiration de son détachement, à la première vacance venant à s'ouvrir dans le corps
+auquel il appartient ou en surnombre dans les cas déterminés par décret en Conseil d'Etat.
+
+Le militaire détaché remis à la disposition de son administration d'origine avant l'expiration de son détachement pour une
+cause autre qu'une faute commise dans l'exercice de ses fonctions, et qui ne peut être réintégré dans son corps d'origine en
+l'absence d'emploi vacant, continue d'être rémunéré par l'organisme de détachement jusqu'à sa réintégration.
+
+Le militaire peut être intégré, sur demande agréée, dans le corps ou cadre d'emploi de détachement dans les mêmes conditions
+que celles prévues pour un fonctionnaire par le statut particulier de ce corps ou cadre d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 52
+	  - Loi n°2005-270 du 24 mars 2005 - art. 52 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2009-82 du 21 janvier 2009 - art. 1 (Ab)
+	  - Décret n°2013-1308 du 27 décembre 2013 - art. 1 (V)
+
+
+##### Section 3 : Hors cadres
+
+###### Article L4138-10
+
+La position hors cadres est celle dans laquelle un militaire de carrière ayant accompli au moins quinze années de services
+valables pour la retraite et placé en détachement, soit auprès d'une administration ou d'une entreprise publique dans un
+emploi ne conduisant pas à pension du régime général des retraites, soit auprès d'un organisme international, peut être
+placé, sur sa demande, pour continuer à servir dans la même administration, entreprise ou organisme. 
+
+Dans cette position, le militaire de carrière cesse de figurer sur la liste d'ancienneté, de bénéficier de droits à
+l'avancement et d'acquérir des droits à pension. Il est soumis aux régimes statutaire et de retraite régissant la fonction
+qu'il exerce. 
+
+Le militaire en position hors cadres peut demander sa réintégration dans son cadre d'origine ; celle-ci est prononcée à la
+première vacance venant à s'ouvrir dans le corps auquel il appartient. 
+
+Lorsque le militaire en position hors cadres est réintégré dans son corps d'origine, la collectivité, l'établissement public,
+l'entreprise ou l'organisme dans lequel il a été employé doit, s'il y a lieu, verser la contribution prévue à l'article L.
+4138-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 53
+	  - Loi n°2005-270 du 24 mars 2005 - art. 53 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-7 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-45 (V)
+
+
+##### Section 4 : Non-activité
+
+###### Article L4138-11
+
+La non-activité est la position temporaire du militaire qui se trouve dans l'une des situations suivantes : 
+
+1° En congé de longue durée pour maladie ; 
+
+2° En congé de longue maladie ; 
+
+3° En congé parental ; 
+
+4° En situation de retrait d'emploi ; 
+
+5° En congé pour convenances personnelles ; 
+
+6° En disponibilité ; 
+
+7° En congé complémentaire de reconversion ; 
+
+8° En congé du personnel navigant. 
+
+Pour les militaires servant en vertu d'un contrat placés dans l'une de ces situations, le congé n'affecte pas le terme du
+contrat, à l'exception des congés de longue durée pour maladie, de longue maladie et du personnel navigant prévu à l'article
+L. 4139-6, pour lesquels le contrat est prorogé si nécessaire, jusqu'à la date d'expiration de ces congés, dans la limite de
+la durée de service. 
+
+Le temps passé dans l'une des situations de la position de non-activité est pris en compte dans la durée totale de service du
+militaire servant en vertu d'un contrat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 24 mai 1974 - art. 7 (Ab)
+	  - Arrêté du 1 octobre 1997 - art. 7 (V)
+	  - Décret n°97-900 du 1 octobre 1997 - art. 21 (V)
+	  - Arrêté du 11 août 2015 - art. 8 (V)
+	  - Décret n°2016-675 du 25 mai 2016 - art. 4
+	  - Arrêté du 23 mai 2016 - art. 4 (V)
+	  - Code de l'éducation - art. D633-15 (V)
+	  - Code de l'éducation - art. D633-30 (V)
+	  - Code de l'éducation - art. R632-18 (V)
+	  - Code de l'éducation - art. R632-41 (VT)
+	  - Code de l'éducation - art. R632-47 (VD)
+	  - Code de l'éducation - art. R632-49 (VD)
+	  - Code de la défense. - art. L4123-6 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 54
+	  - Loi n°2005-270 du 24 mars 2005 - art. 54 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4139-6 (V)
+
+
+###### Article L4138-12
+
+Le congé de longue durée pour maladie est attribué, après épuisement des droits de congé de maladie prévus à l'article L.
+4138-3, pour les affections dont la liste est fixée par décret en Conseil d'Etat. 
+
+Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions ou à la suite de l'une des causes
+exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
+maximale de huit ans. Le militaire perçoit, dans les conditions fixées par décret en Conseil d'Etat, sa rémunération pendant
+cinq ans, puis une rémunération réduite de moitié les trois années qui suivent. 
+
+Dans les autres cas, ce congé est d'une durée maximale de cinq ans et le militaire de carrière perçoit, dans les conditions
+définies par décret en Conseil d'Etat, sa rémunération pendant trois ans, puis une rémunération réduite de moitié les deux
+années qui suivent. Le militaire servant en vertu d'un contrat réunissant au moins trois ans de services militaires bénéficie
+de ce congé, pour lequel il perçoit sa rémunération pendant un an, puis une rémunération réduite de moitié les deux années
+qui suivent. Celui réunissant moins de trois ans de services militaires bénéficie de ce congé, non rémunéré, pendant une
+durée maximale d'un an. 
+
+Le militaire placé en congé de longue durée pour maladie continue à figurer sur la liste d'ancienneté, concourt pour
+l'avancement à l'ancienneté et, dans les cas visés au deuxième alinéa du présent article, pour l'avancement au choix. Le
+temps passé en congé est pris en compte pour les droits à pension de retraite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 55
+	  - Loi n°2005-270 du 24 mars 2005 - art. 55 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 12 (V)
+	  - Code de la défense. - art. L4123-6 (V)
+	  - Code de la défense. - art. L4138-13 (V)
+	  - Code de la défense. - art. R4138-48 (V)
+	  - Code de la défense. - art. R4138-55 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L27 (V)
+	  - Code de la défense. - art. L4138-3 (V)
+
+
+###### Article L4138-13
+
+Le congé de longue maladie est attribué, après épuisement des droits de congé de maladie fixés à l'article L. 4138-3, dans
+les cas autres que ceux énoncés à l'article L. 4138-11, lorsque l'affection constatée met l'intéressé dans l'impossibilité
+d'exercer ses fonctions et qu'elle présente un caractère invalidant et de gravité confirmée.
+
+Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions ou à la suite de l'une des causes
+exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
+maximale de trois ans. Le militaire conserve, dans les conditions définies par décret en Conseil d'Etat, sa rémunération.
+
+Dans les autres cas, le militaire de carrière, ou le militaire servant en vertu d'un contrat réunissant au moins trois ans de
+services militaires, bénéficie de ce congé pendant une durée maximale de trois ans. L'intéressé perçoit, dans les conditions
+fixées par décret en Conseil d'Etat, sa rémunération pendant un an, puis une rémunération réduite de moitié les deux années
+qui suivent. Le militaire servant en vertu d'un contrat réunissant moins de trois ans de services militaires bénéficie de ce
+congé, non rémunéré, pendant une durée maximale d'un an.
+
+Le militaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un congé de même nature, s'il n'a pas auparavant
+repris l'exercice de ses fonctions pendant un an.
+
+Le militaire placé en congé de longue maladie continue à figurer sur la liste d'ancienneté, concourt pour l'avancement à
+l'ancienneté et, dans les cas visés au deuxième alinéa du présent article, pour l'avancement au choix. Le temps passé en
+congé est pris en compte pour les droits à pension de retraite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 56
+	  - Loi n°2005-270 du 24 mars 2005 - art. 56 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-58 (V)
+
+
+###### Article L4138-14
+
+Le congé parental est la situation du militaire qui est admis à cesser temporairement de servir dans les armées pour élever
+son enfant.
+
+Ce congé, non rémunéré, est accordé à la mère après un congé pour maternité ou au père après la naissance et, au maximum,
+jusqu'au troisième anniversaire de l'enfant. Il est également accordé à la mère ou au père après l'adoption d'un enfant
+n'ayant pas atteint l'âge de la fin de l'obligation scolaire, sans préjudice du congé d'adoption qui peut intervenir au
+préalable. Le congé parental prend fin au plus tard à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de
+l'enfant, adopté ou confié en vue de son adoption, âgé de moins de trois ans. Lorsque l'enfant adopté ou confié en vue
+d'adoption est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé
+parental ne peut excéder une année à compter de l'arrivée au foyer.
+
+Dans cette situation, le militaire acquiert le droit à la retraite dans les conditions fixées par le code des pensions
+civiles et militaires de retraite ; il conserve ses droits à l'avancement d'échelon, réduits de moitié. A l'expiration de son
+congé, il est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine. Il peut, sur sa demande, être
+réaffecté dans un poste le plus proche possible de sa résidence, sous réserve des nécessités du service.
+
+Le congé parental est accordé de droit à l'occasion de chaque naissance ou de chaque adoption dans les conditions prévues aux
+deuxième et troisième alinéas, sur simple demande, à la mère ou au père militaire.
+
+Si une nouvelle naissance survient au cours du congé parental, ce congé est prolongé au maximum jusqu'au troisième
+anniversaire du nouvel enfant ou, en cas d'adoption, jusqu'à l'expiration d'un délai maximum de trois ans à compter de
+l'arrivée au foyer du nouvel enfant adopté, dans les conditions prévues aux deuxième et troisième alinéas.
+
+Le titulaire du congé parental peut demander d'écourter la durée de ce congé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 57
+	  - Loi n°2005-270 du 24 mars 2005 - art. 57 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-59 (V)
+	  - Code de la défense. - art. R4138-60 (V)
+	  - Code de la défense. - art. R4138-61 (Ab)
+	  - Code de la défense. - art. R4138-63 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
+
+
+###### Article L4138-15
+
+Le retrait d'emploi par mise en non-activité est prononcé pour une durée qui ne peut excéder douze mois. A l'expiration de la
+période de non-activité, le militaire en situation de retrait d'emploi est replacé en position d'activité.
+
+Le temps passé dans la position de non-activité par retrait d'emploi ne compte ni pour l'avancement ni pour l'ouverture et la
+liquidation des droits à pension de retraite. Dans cette position, le militaire cesse de figurer sur la liste d'ancienneté ;
+il a droit aux deux cinquièmes de sa solde augmentée de l'indemnité de résidence et du supplément familial de solde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 59
+	  - Loi n°2005-270 du 24 mars 2005 - art. 59 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4137-2 (V)
+	  - Code de la défense. - art. R4138-64 (V)
+
+
+###### Article L4138-16
+
+Le congé pour convenances personnelles, non rémunéré, peut être accordé au militaire, sur demande agréée, pour une durée
+maximale de deux ans renouvelable dans la limite totale de dix ans.
+
+Le nombre de congés pour convenances personnelles est fixé annuellement par voie réglementaire.
+
+Le temps passé dans cette situation ne compte ni pour l'avancement, ni pour les droits à pension de retraite.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-900 du 1 octobre 1997 - art. 19 (V)
+	  - Arrêté du 20 mars 2012 - art. 1 (V)
+	  - Arrêté du 22 janvier 2013 - art. 1 (V)
+	  - Arrêté du 24 décembre 2014 - art. 1 (V)
+	  - Code de la défense. - art. R4138-65 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 60
+	  - Loi n°2005-270 du 24 mars 2005 - art. 60 (Ab)
+
+
+##### Chapitre IX : Fin de l'état militaire
+
+##### Section 1 : Dispositifs d'accès à la fonction publique civile
+
+###### Article L4139-1
+
+La demande de mise en détachement du militaire lauréat d'un concours de l'une des fonctions publiques civiles ou d'accès à la
+magistrature est acceptée, sous réserve que l'intéressé ait accompli au moins quatre ans de services militaires, ait informé
+son autorité d'emploi de son inscription au concours et ait atteint le terme du délai pendant lequel il s'est engagé à rester
+en position d'activité à la suite d'une formation spécialisée ou de la perception d'une prime liée au recrutement ou à la
+fidélisation. 
+
+Sous réserve des dispositions de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la
+magistrature, le militaire lauréat de l'un de ces concours est titularisé et reclassé, dans le corps ou le cadre d'emploi
+d'accueil dans des conditions équivalentes, précisées par décret en Conseil d'Etat, à celles prévues pour un fonctionnaire
+par le statut particulier de ce corps ou de ce cadre d'emploi. 
+
+Pour remplir les conditions de candidature à ces concours, les diplômes et qualifications militaires pourront, dans les
+conditions fixées par décret en Conseil d'Etat, être substitués aux titres et diplômes exigés par les statuts particuliers
+des corps et cadres d'emplois d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
+
+	**Cité par**:
+
+	  - Décret n°87-1107 du 30 décembre 1987 - art. 6 (VT)
+	  - Décret n°88-547 du 6 mai 1988 - art. 9-2 (VD)
+	  - Décret n°94-1016 du 18 novembre 1994 - art. 5 (V)
+	  - Décret n°99-669 du 2 août 1999 - art. 29-1 (V)
+	  - Décret n°2005-1228 du 29 septembre 2005 - art. 4 (VT)
+	  - Décret n°2006-227 du 24 février 2006 - art. 4 (VT)
+	  - Décret n°2006-1827 du 23 décembre 2006 - art. 8 (V)
+	  - Décret n°2007-767 du 9 mai 2007 - art. 19 (VD)
+	  - Décret n°2009-1388 du 11 novembre 2009 - art. 17 (V)
+	  - Décret n°2010-329 du 22 mars 2010 - art. 17 (V)
+	  - Décret n°2010-1139 du 29 septembre 2010 - art. 13 (V)
+	  - Décret n°2011-661 du 14 juin 2011 - art. 17 (V)
+	  - Décret n°2011-746 du 27 juin 2011 - art. 14 (V)
+	  - Décret n°2011-748 du 27 juin 2011 - art. 13 (V)
+	  - Décret n°2011-964 du 16 août 2011 - art. 24 (VD)
+	  - Arrêté du 14 décembre 2011 - art. 1 (V)
+	  - Décret n°2012-521 du 20 avril 2012 - art. 10-1 (V)
+	  - Décret n°2012-984 du 22 août 2012 - art. 24 (V)
+	  - Décret n°2013-262 du 27 mars 2013 - art. 12 (VD)
+	  - Décret n°2013-974 du 30 octobre 2013 - art. 13 (V)
+	  - Décret n°2013-974 du 30 octobre 2013 - art. 25 (VT)
+	  - Décret n°2013-1308 du 27 décembre 2013 - art. 1 (V)
+	  - Décret n°2014-847 du 28 juillet 2014 - art. 14 (VD)
+	  - Décret n°2014-847 du 28 juillet 2014 - art. 32 (VD)
+	  - Décret n°2014-1585 du 23 décembre 2014 - art. 14 (V)
+	  - Décret n°2015-1048 du 21 août 2015 - art. 12 (VD)
+	  - Décret n°2016-580 du 11 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-596 du 12 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-636 du 19 mai 2016 - art. 6 (VD)
+	  - Décret n°2016-1382 du 12 octobre 2016 - art. 6
+	  - Décret n°2017-165 du 9 février 2017 - art. 4
+	  - Décret n°2017-180 du 13 février 2017 - art. 12 (V)
+	  - Décret n°2017-1009 du 10 mai 2017 - art. 36
+	  - Décret n°2017-984 du 10 mai 2017 - art. 10 (VD)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la défense. - art. L4341-1 (M)
+	  - Code de la défense. - art. L4351-1 (M)
+	  - Code de la défense. - art. L4361-1 (M)
+	  - Code de la défense. - art. L4371-1 (M)
+	  - Code de la défense. - art. R4138-39 (V)
+	  - Code de la défense. - art. R4139-1 (V)
+	  - Code de la défense. - art. R4139-4 (V)
+	  - Code de la défense. - art. R4139-51 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 61
+	  - Loi n°2005-270 du 24 mars 2005 - art. 61 (Ab)
+
+
+###### Article L4139-2
+
+Le militaire, remplissant les conditions de grade et d'ancienneté fixées par décret, peut, sur demande agréée, après un stage
+probatoire, être détaché pour occuper des emplois vacants et correspondant à ses qualifications au sein des administrations
+de l'Etat, des collectivités territoriales, de la fonction publique hospitalière et des établissements publics à caractère
+administratif, nonobstant les règles de recrutement pour ces emplois.
+
+Les contingents annuels de ces emplois sont fixés par voie réglementaire pour chaque administration de l'Etat et pour chaque
+catégorie de collectivité territoriale ou établissement public administratif, compte tenu des possibilités d'accueil.
+
+Après un an de détachement, le militaire peut demander, dans les conditions fixées par décret en Conseil d'Etat, son
+intégration ou sa titularisation dans le corps ou le cadre d'emploi dont relève l'emploi considéré, sous réserve de la
+vérification de son aptitude. Pour l'intégration ou la titularisation dans un corps enseignant, la durée du détachement est
+portée à deux ans. La période initiale de détachement peut être prolongée pour une période de même durée.
+
+En cas d'intégration ou de titularisation, l'intéressé est reclassé à un échelon comportant un indice égal ou, à défaut,
+immédiatement supérieur à celui détenu dans le corps d'origine.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°73-264 du 6 mars 1973 - art. 6 (V)
+	  - Décret n°81-241 du 12 mars 1981 - art. 14 (V)
+	  - Décret n°81-241 du 12 mars 1981 - art. 6 (V)
+	  - Décret n°81-241 du 12 mars 1981 - art. 8 (V)
+	  - Décret n°88-507 du 29 avril 1988 - art. 4 (V)
+	  - Décret n°88-547 du 6 mai 1988 - art. 9-2 (VD)
+	  - Décret n°89-750 du 18 octobre 1989 - art. 5 (V)
+	  - Décret n°90-393 du 2 mai 1990 - art. 17 (Ab)
+	  - Décret n°90-973 du 30 octobre 1990 - art. 4 (V)
+	  - Décret n°93-622 du 27 mars 1993 - art. 8 (V)
+	  - Décret n°95-380 du 10 avril 1995 - art. 7 (VD)
+	  - Décret n°99-669 du 2 août 1999 - art. 29-1 (V)
+	  - Décret n°99-945 du 16 novembre 1999 - art. 9 bis (V)
+	  - Décret n°2005-631 du 30 mai 2005 - art. 12 (V)
+	  - Décret n°2005-939 du 2 août 2005 - art. 16 (V)
+	  - Décret n°2005-1215 du 26 septembre 2005 - art. 7 (V)
+	  - Décret n°2006-8 du 4 janvier 2006 - art. 6 (V)
+	  - Décret n°2007-119 du 30 janvier 2007 - art. 7 (V)
+	  - Décret n°2007-767 du 9 mai 2007 - art. 10 (V)
+	  - Décret n°2007-767 du 9 mai 2007 - art. 19 (VD)
+	  - Décret n°2007-1444 du 8 octobre 2007 - art. 8 (V)
+	  - Décret n°2009-7 du 5 janvier 2009 (V)
+	  - Arrêté du 24 avril 2009 - art. 1 (V)
+	  - Arrêté du 10 juin 2009 - art. 7 (Ab)
+	  - Décret n°2009-1388 du 11 novembre 2009 - art. 9 (V)
+	  - Arrêté du 23 décembre 2009 - art. (Ab)
+	  - Arrêté du 6 octobre 2010 - art. 1 (V)
+	  - Décret n°2010-1693 du 30 décembre 2010 - art. 19 (V)
+	  - Décret n°2011-931 du 1er août 2011 - art. 13 (V)
+	  - Décret n°2011-1317 du 17 octobre 2011 - art. 13 (V)
+	  - Décret n°2011-1317 du 17 octobre 2011 - art. 30 (V)
+	  - Décret n°2011-1864 du 12 décembre 2011 - art. 4 (VD)
+	  - Décret n°2012-521 du 20 avril 2012 - art. 10-1 (V)
+	  - Décret n°2012-588 du 26 avril 2012 - art. 19 (V)
+	  - Arrêté du 17 janvier 2013 - art. 3 (Ab)
+	  - Arrêté du 15 juillet 2013 - art. 1 (V)
+	  - Décret n°2013-788 du 28 août 2013 - art. 10 (VD)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Décret n°2013-1308 du 27 décembre 2013 - art. 1 (V)
+	  - Décret n°2014-847 du 28 juillet 2014 - art. 32 (VD)
+	  - Décret n°2015-576 du 27 mai 2015 - art. 10 (VD)
+	  - Arrêté du 27 juillet 2015 - art. 5 (V)
+	  - Décret n°2015-1048 du 21 août 2015 - art. 12 (VD)
+	  - Décret n°2015-1273 du 13 octobre 2015 - art. 7 (VD)
+	  - Décret n°2015-1275 du 13 octobre 2015 - art. 36 (VD)
+	  - Arrêté du 2 novembre 2015 - art. 1 (V)
+	  - Arrêté du 4 décembre 2015 - art. (V)
+	  - Décret n°2016-580 du 11 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-596 du 12 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-636 du 19 mai 2016 - art. 6 (VD)
+	  - Décret n°2016-1195 du 2 septembre 2016 - art. 13 (VD)
+	  - Décret n°2016-1382 du 12 octobre 2016 - art. 6
+	  - Décret n°2017-165 du 9 février 2017 - art. 4
+	  - Décret n°2017-180 du 13 février 2017 - art. 12 (V)
+	  - Décret n°2017-181 du 13 février 2017 - art. 31 (V)
+	  - Décret n°2017-181 du 13 février 2017 - art. 9 (V)
+	  - Décret n°2017-194 du 15 février 2017 - art. 29
+	  - Décret n°2017-194 du 15 février 2017 - art. 74
+	  - Décret n°2017-194 du 15 février 2017 - art. 99
+	  - Décret n°2017-233 du 23 février 2017 - art. 6
+	  - Décret n°2017-418 du 27 mars 2017 - art. 6 (V)
+	  - Décret n°2017-593 du 21 avril 2017 - art. 5
+	  - Décret n°2017-1009 du 10 mai 2017 - art. 36
+	  - Code de justice administrative - art. L133-5 (V)
+	  - Code de la défense. - art. R4139-43 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 62
+	  - Loi n°2005-270 du 24 mars 2005 - art. 62 (Ab)
+
+
+###### Article L4139-3
+
+Le militaire, à l'exception de l'officier de carrière et du militaire commissionné, peut se porter candidat pour l'accès aux
+emplois réservés, sur demande agréée, dans les conditions prévues par le code des pensions militaires d'invalidité et des
+victimes de la guerre.
+
+En cas d'intégration ou de titularisation, la durée des services effectifs du militaire est reprise en totalité dans la
+limite de dix ans pour l'ancienneté dans le corps ou le cadre d'emploi d'accueil de catégorie C. Elle est reprise pour la
+moitié de la durée des services effectifs dans la limite de cinq ans pour l'ancienneté dans le corps ou le cadre d'emploi de
+catégorie B.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°70-832 du 3 septembre 1970 - art. 7-1 (Ab)
+	  - Décret n°88-547 du 6 mai 1988 - art. 9-2 (VD)
+	  - Décret n°99-669 du 2 août 1999 - art. 29-1 (V)
+	  - Arrêté du 10 juin 2009 - art. 7 (Ab)
+	  - Décret n°2009-1198 du 8 octobre 2009 - art. 6
+	  - Décret n°2012-521 du 20 avril 2012 - art. 10-1 (V)
+	  - Décret n°2013-1146 du 12 décembre 2013 - art. 8 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Décret n°2013-1308 du 27 décembre 2013 - art. 1 (V)
+	  - Arrêté du 28 mars 2014 - art. 1 (V)
+	  - Arrêté du 3 juin 2014 - art. 1 (V)
+	  - Arrêté du 3 juin 2014 - art. 3 (V)
+	  - Arrêté du 30 juin 2014 - art. 1 (V)
+	  - Arrêté du 30 juin 2014 - art. 3 (V)
+	  - Décret n°2014-847 du 28 juillet 2014 - art. 32 (VD)
+	  - Arrêté du 27 juillet 2015 - art. 5 (V)
+	  - Arrêté du 2 novembre 2015 - art. 1 (V)
+	  - Décret n°2016-580 du 11 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-596 du 12 mai 2016 - art. 5 (VD)
+	  - Décret n°2016-636 du 19 mai 2016 - art. 6 (VD)
+	  - Décret n°2016-1382 du 12 octobre 2016 - art. 6
+	  - Décret n°2017-165 du 9 février 2017 - art. 4
+	  - Décret n°2017-1009 du 10 mai 2017 - art. 36
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 63
+	  - Loi n°2005-270 du 24 mars 2005 - art. 63 (Ab)
+
+
+###### Article L4139-4
+
+Durant le détachement prévu aux articles L. 4139-1 à L. 4139-3, le militaire perçoit une rémunération au moins égale à celle
+qu'il aurait perçue s'il était resté en position d'activité au sein des armées, dans des conditions fixées par décret. Aucune
+promotion n'est prononcée durant ce détachement et le militaire est radié des cadres ou rayé des contrôles de l'armée active
+à la date de son intégration ou de sa titularisation dans le corps ou le cadre d'emploi d'accueil. 
+
+Le militaire non intégré ou non titularisé au titre des dispositions des articles L. 4139-1 à L. 4139-3 est réintégré, même
+en surnombre, dans son corps d'origine ou sa formation de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 64
+	  - Loi n°2005-270 du 24 mars 2005 - art. 64 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4139-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*4139-17 (V)
+	  - Code de la défense. - art. R4139-2 (Ab)
+	  - Code de la défense. - art. R4139-26 (V)
+	  - Code de la défense. - art. R4139-35 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L242-6 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+
+
+##### Section 2 : Dispositifs d'aide au départ
+
+##### Sous-section 1 : Dispositions communes.
+
+###### Article L4139-5
+
+Le militaire peut bénéficier sur demande agréée : 
+
+1° De dispositifs d'évaluation et d'orientation professionnelle destinés à préparer son retour à la vie civile ; 
+
+2° D'une formation professionnelle ou d'un accompagnement vers l'emploi. 
+
+La formation ou l'accompagnement vers l'emploi sont accessibles au militaire ayant accompli au moins quatre ans de services
+militaires effectifs et sont destinés à préparer leur bénéficiaire à l'exercice d'un métier civil. 
+
+Pour l'acquisition de la formation professionnelle ou l'accompagnement vers l'emploi, le militaire peut, sur demande agréée,
+bénéficier d'un congé de reconversion et d'un congé complémentaire de reconversion, d'une durée maximale de six mois chacun. 
+
+Ces congés, destinés à préparer à l'exercice d'une profession civile, sont accordés au militaire ayant accompli au moins
+quatre ans de services militaires effectifs. 
+
+Durant ces congés, d'une durée maximale de douze mois consécutifs, le militaire perçoit, dans les conditions définies par
+décret en Conseil d'Etat, la rémunération de son grade. Celle-ci est suspendue ou réduite lorsque le bénéficiaire perçoit une
+rémunération publique ou privée. 
+
+La durée de ces congés compte pour les droits à avancement et pour les droits à pension.
+
+A l'expiration du congé de reconversion ou du congé complémentaire de reconversion, selon le cas, le militaire est radié des
+cadres ou rayé des contrôles à titre définitif, sous réserve des dispositions prévues au VI de l'article 89 de la loi n°
+2005-270 du 24 mars 2005 portant statut général des militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 65
+	  - Loi n°2005-270 du 24 mars 2005 - art. 65 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 9 (VD)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 16 (VD)
+	  - Décret n°2008-956 du 12 septembre 2008 - art. 14 (VD)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 19 (VD)
+	  - Décret n°2008-961 du 12 septembre 2008 - art. 18 (VD)
+	  - Décret n°2008-1526 du 30 décembre 2008 - art. 2 (V)
+	  - Décret n°2012-592 du 27 avril 2012 (V)
+	  - Décret n°2016-1235 du 19 septembre 2016 (V)
+	  - Décret n°2016-1235 du 19 septembre 2016 - art. 1 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. L4139-5-1 (V)
+	  - Code de la défense. - art. R4138-28 (V)
+	  - Code de la défense. - art. R4138-29 (V)
+	  - Code de la défense. - art. R4138-68 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L401 (VT)
+	  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R242-8 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
+
+
+###### Article L4139-6
+
+Peut être placé en congé du personnel navigant, à sa demande, le militaire appartenant au personnel navigant atteint d'une
+invalidité d'au moins 40 % résultant d'une activité aérienne militaire. Le temps passé en congé compte pour l'avancement et
+les droits à pension. Durant ce congé, l'intéressé perçoit une rémunération réduite dans les conditions prévues par décret en
+Conseil d'Etat. 
+
+Ce congé est attribué pour une durée maximale de trois ans sans que le militaire en bénéficiant puisse dépasser la limite
+d'âge de son grade ou la limite de durée de service.
+
+A l'expiration de ce congé, l'intéressé est radié des cadres ou rayé des contrôles pour infirmité avec le bénéfice d'une
+pension liquidée dans les conditions fixées au II de l'article L. 24 du code des pensions civiles et militaires de retraite
+ou admis dans la deuxième section des officiers généraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 66
+	  - Loi n°2005-270 du 24 mars 2005 - art. 66 (Ab)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4138-11 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. R4138-71 (V)
+	  - Code de la défense. - art. R4138-72 (V)
+
+
+##### Sous-section 2 : Dispositions applicables aux militaires de carrière.
+
+###### Article L4139-7
+
+Sont placés en congé du personnel navigant :
+
+1° Le militaire de carrière du personnel navigant, sur demande agréée, en cas de services aériens exceptionnels, dans la
+limite du nombre de congés fixé annuellement par arrêté ministériel. A l'expiration de ce congé d'une durée maximale de trois
+ans, l'intéressé est radié des cadres ou admis dans la deuxième section des officiers généraux. Le temps passé dans ce congé
+ne compte ni pour l'avancement, ni pour les droits à pension ;
+
+2° Le militaire de carrière de l'armée de l'air appartenant au personnel navigant, sur sa demande, dès qu'il a atteint sa
+limite d'âge. A l'expiration de ce congé d'une durée maximale de trois ans pour les officiers et d'un an pour les sous-
+officiers, l'intéressé est radié des cadres ou admis dans la deuxième section des officiers généraux. Sauf en ce qui concerne
+l'officier général, le temps passé dans ce congé est pris en compte pour l'avancement et pour les droits à pension.
+Toutefois, pour l'officier en congé promu au grade supérieur, les règles de détermination de la solde demeurent celles
+applicables en fonction du grade détenu au moment de la mise en congé et la pension est calculée sur la base de cette solde.
+
+Le militaire de carrière placé en congé du personnel navigant perçoit une rémunération réduite dans des conditions prévues
+par décret en Conseil d'Etat.
+
+Les bénéficiaires mentionnés au 1° peuvent être rappelés à l'activité lorsque les circonstances l'exigent, à l'exception des
+militaires ayant atteint la limite d'âge de leur grade.
+
+Le congé est alors suspendu et reprend, au terme de la période de rappel à l'activité, pour la durée du congé restant à
+courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 67
+	  - Loi n°2005-270 du 24 mars 2005 - art. 67 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-943 du 12 septembre 2008 - art. 36 (VD)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. R4138-73 (V)
+	  - Code de la défense. - art. R4141-1 (V)
+
+
+###### Article L4139-8
+
+Les militaires de carrière mis à la retraite avec le bénéfice d'une pension liquidée dans les conditions fixées à l'article
+L. 25 du code des pensions civiles et militaires de retraite peuvent, sur demande agréée, dans la limite d'un contingent
+annuel fixé par arrêté interministériel, recevoir, dans les conditions fixées par décret en Conseil d'Etat, un pécule
+déterminé en fonction de la solde perçue en fin de service.
+
+L'admission à la retraite avec le bénéfice d'une pension liquidée dans les conditions prévues à l'article L. 25 du même code
+et le bénéfice du pécule sont accordés de plein droit au militaire de carrière qui a dépassé dans son grade le niveau
+d'ancienneté fixé par le statut particulier de son corps, en application des dispositions du 1° du II de l'article L. 4136-4,
+s'il présente sa demande dans un délai de trois ans à partir de la date à laquelle il a atteint ce niveau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 68
+	  - Loi n°2005-270 du 24 mars 2005 - art. 68 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2015-1388 du 30 octobre 2015 (V)
+	  - Code de la défense. - art. R4139-41 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L25 (V)
+	  - Code de la défense. - art. L4136-4 (V)
+
+
+###### Article L4139-9
+
+La disponibilité est la situation de l'officier de carrière qui, ayant accompli plus de quinze ans de services dont six au
+moins en qualité d'officier et, le cas échéant, satisfait aux obligations de la formation spécialisée prévue à l'article L.
+4139-13, a été admis sur sa demande à cesser temporairement de servir dans les armées. 
+
+Elle est prononcée pour une période d'une durée maximum de cinq années, renouvelable, pendant laquelle l'officier perçoit une
+solde réduite des deux tiers. La durée totale de la disponibilité ne peut excéder dix ans. 
+
+Le temps passé en disponibilité n'est pas pris en compte pour l'avancement au choix ; il est pris en compte pour les droits à
+pension de retraite et, pour la moitié de sa durée, pour l'avancement à l'ancienneté.
+
+L'officier de carrière en disponibilité est remplacé dans les cadres. Il peut être rappelé à l'activité à tout moment, soit
+sur sa demande, soit d'office lorsque les circonstances l'exigent. Il peut être mis à la retraite sur sa demande ou
+d'office ; il est mis d'office à la retraite dès qu'il a droit à la liquidation de sa pension dans les conditions fixées au
+II de l'article L. 24 du code des pensions civiles et militaires de retraite. 
+
+La demande de l'officier qui a dépassé dans son grade le niveau d'ancienneté éventuellement fixé par le statut particulier de
+son corps, en application des dispositions du 1° du II de l'article L. 4136-4, est satisfaite de plein droit si elle est
+présentée dans un délai de trois ans à partir de la date à laquelle l'intéressé a atteint ce niveau.
+
+L'officier général ne peut bénéficier des dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 69
+	  - Loi n°2005-270 du 24 mars 2005 - art. 69 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 38 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 39 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 37 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. R4138-67 (V)
+	  - Code de la défense. - art. R4141-1 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L123-2 (VD)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+	  - Code de la défense. - art. L4136-4 (V)
+	  - Code de la défense. - art. L4139-13 (V)
+
+
+##### Sous-section 3 : Dispositions applicables aux militaires servant en vertu d'un contrat.
+
+###### Article L4139-10
+
+Peuvent être placés en congé du personnel navigant les militaires servant en vertu d'un contrat totalisant dix-sept ans de
+services militaires dont dix dans le personnel navigant. 
+
+Ce congé est accordé, sur demande agréée, à partir de dix-sept ans de services militaires. Il est de droit un an avant la
+limite de durée de service. 
+
+Son bénéficiaire perçoit une rémunération réduite dans les conditions prévues par décret en Conseil d'Etat. 
+
+Le temps passé en congé est pris en compte pour les droits à pension.A l'expiration de ce congé d'une durée d'un an,
+l'intéressé, considéré comme ayant atteint sa limite de durée de service, est rayé des contrôles avec le bénéfice de la
+liquidation de sa pension de retraite dans les conditions fixées au II de l'article L. 24 du code des pensions civiles et
+militaires de retraite. 
+
+Le militaire placé dans cette situation peut être rappelé à l'activité lorsque les circonstances l'exigent, à l'exception de
+celui qui a atteint la limite d'âge de son grade ou la limite de durée de service au terme de son congé. Le congé est alors
+suspendu et reprend, au terme de la période de rappel à l'activité, pour la durée du congé restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 70
+	  - Loi n°2005-270 du 24 mars 2005 - art. 70 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 12 (VD)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. R4138-71 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+
+
+###### Article L4139-11
+
+L'officier sous contrat reçoit, à l'expiration de son contrat, dans les conditions définies par décret, une prime déterminée
+en fonction de la solde obtenue en fin de service et de la durée des services accomplis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 71
+	  - Loi n°2005-270 du 24 mars 2005 - art. 71 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 12 (VD)
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 15 (VD)
+
+
+##### Section 3 : Radiation des cadres ou des contrôles
+
+###### Article L4139-12
+
+L'état militaire cesse, pour le militaire de carrière, lorsque l'intéressé est radié des cadres, pour le militaire servant en
+vertu d'un contrat, lorsque l'intéressé est rayé des contrôles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 72
+	  - Loi n°2005-270 du 24 mars 2005 - art. 72 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4132-2 (V)
+
+
+###### Article L4139-13
+
+La démission du militaire de carrière ou la résiliation du contrat du militaire servant en vertu d'un contrat, régulièrement
+acceptée par l'autorité compétente, entraîne la cessation de l'état militaire. 
+
+La démission ou la résiliation du contrat, que le militaire puisse bénéficier ou non d'une pension de retraite dans les
+conditions fixées au II de l'article L. 24 et à l'article L. 25 du code des pensions civiles et militaires de retraite, ne
+peut être acceptée que pour des motifs exceptionnels, lorsque, ayant reçu une formation spécialisée ou perçu une prime liée
+au recrutement ou à la fidélisation, le militaire n'a pas atteint le terme du délai pendant lequel il s'est engagé à rester
+en activité. 
+
+Lorsque le militaire a droit à la liquidation de sa pension de retraite dans les conditions fixées au II de l'article L. 24
+du code des pensions civiles et militaires de retraite, la démission ou la résiliation du contrat est effective à l'issue
+d'un préavis dont la durée est fixée par décret en Conseil d'Etat. Toutefois, lorsque les circonstances l'exigent, le
+Gouvernement peut prévoir, par décret, le maintien d'office en position d'activité pour une durée limitée. 
+
+Le militaire dont la démission ou la résiliation de contrat a été acceptée est soumis à l'obligation de disponibilité au
+titre de la réserve militaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-1001 du 5 novembre 1976 - art. 18 (VD)
+	  - Décret n°77-33 du 4 janvier 1977 - art. 19 (VD)
+	  - Décret n°79-1135 du 27 décembre 1979 - art. 29 (VT)
+	  - Décret n°2008-930 du 12 septembre 2008 - art. 14 (VD)
+	  - Décret n°2008-931 du 12 septembre 2008 - art. 20 (VD)
+	  - Décret n°2008-932 du 12 septembre 2008 - art. 28 (VT)
+	  - Décret n°2008-935 du 12 septembre 2008 - art. 33 (Ab)
+	  - Décret n°2008-938 du 12 septembre 2008 - art. 36 (VD)
+	  - Décret n°2008-940 du 12 septembre 2008 - art. 37 (VD)
+	  - Décret n°2008-941 du 12 septembre 2008 - art. 23 (V)
+	  - Décret n°2008-942 du 12 septembre 2008 - art. 17 (V)
+	  - Décret n°2008-943 du 12 septembre 2008 - art. 37 (VD)
+	  - Décret n°2008-944 du 12 septembre 2008 - art. 31 (VD)
+	  - Décret n°2008-945 du 12 septembre 2008 - art. 27 (VT)
+	  - Décret n°2008-946 du 12 septembre 2008 - art. 40 (V)
+	  - Décret n°2008-950 du 12 septembre 2008 - art. 35 (VT)
+	  - Décret n°2008-960 du 12 septembre 2008 - art. 5 (V)
+	  - Décret n°2010-1239 du 20 octobre 2010 - art. 27 (V)
+	  - Décret n°2012-1029 du 5 septembre 2012 - art. 34 (VD)
+	  - Décret n°2012-1456 du 24 décembre 2012 - art. 27 (VD)
+	  - Décret n°2012-1546 du 28 décembre 2012 - art. 33 (V)
+	  - Décret n°2014-1455 du 5 décembre 2014 - art. 25 (VD)
+	  - Décret n°2015-1026 du 19 août 2015 - art. 31
+	  - Arrêté du 18 août 2016 - art. (V)
+	  - Code de la défense. - art. L4139-9 (V)
+	  - Code de la défense. - art. R4138-45 (V)
+	  - Code de la défense. - art. R4139-46 (V)
+	  - Code de la défense. - art. R4139-47 (V)
+	  - Code de la défense. - art. R4139-50 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 73
+	  - Loi n°2005-270 du 24 mars 2005 - art. 73 (Ab)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L25 (V)
+
+
+###### Article L4139-14
+
+La cessation de l'état militaire intervient d'office dans les cas suivants : 
+
+1° Dès l'atteinte de la limite d'âge ou de la limite de durée de service pour l'admission obligatoire à la retraite, dans les
+conditions prévues aux articles L. 4139-16 et L. 4141-5 ; 
+
+2° A la perte du grade, dans les conditions prévues par le code de justice militaire ou à la suite de la perte de la
+nationalité française ; 
+
+3° Par mesure disciplinaire dans le cas où elle entraîne la radiation des cadres ou la résiliation du contrat ; 
+
+4° Pour réforme définitive, après avis d'une commission de réforme dont les modalités d'organisation et de fonctionnement
+sont fixées par décret en Conseil d'Etat ; 
+
+5° Pour résultats insuffisants en cours de scolarité, pour les élèves des écoles militaires ; 
+
+6° Au terme du congé de reconversion ou du congé complémentaire de reconversion et de la disponibilité, dans les conditions
+prévues par les dispositions des articles L. 4139-5 et L. 4139-9, sous réserve des dispositions prévues au VI de l'article 89
+de la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires ; 
+
+7° Au terme du congé du personnel navigant, à l'exception des officiers généraux placés en deuxième section des officiers
+généraux, dans les conditions prévues aux articles L. 4139-6, L. 4139-7, L. 4139-10 et L. 4141-3 ; 
+
+8° Lors de la titularisation dans une fonction publique, ou dès la réussite à un concours de l'une des fonctions publiques
+pour les militaires ne bénéficiant pas du détachement prévu au premier alinéa de l'article L. 4139-1, dans les conditions
+prévues à la section 1 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 74
+	  - Loi n°2005-270 du 24 mars 2005 - art. 74 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Code de la défense. - art. L4139-1 (V)
+	  - Code de la défense. - art. L4139-10 (V)
+	  - Code de la défense. - art. L4139-16 (V)
+	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la défense. - art. L4139-6 (V)
+	  - Code de la défense. - art. L4139-7 (V)
+	  - Code de la défense. - art. L4139-9 (V)
+	  - Code de la défense. - art. L4141-3 (V)
+	  - Code de la défense. - art. L4141-5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 11 (V)
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 14 (V)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 18 (V)
+	  - Décret n°2008-952 du 12 septembre 2008 - art. 29 (V)
+	  - Décret n°2008-955 du 12 septembre 2008 - art. 16 (V)
+	  - Décret n°2008-955 du 12 septembre 2008 - art. 24 (VD)
+	  - Décret n°2008-955 du 12 septembre 2008 - art. 25 (V)
+	  - Décret n°2008-956 du 12 septembre 2008 - art. 15 (VD)
+	  - Décret n°2008-956 du 12 septembre 2008 - art. 39 (V)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 21 (VD)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 22 (V)
+	  - Décret n°2008-959 du 12 septembre 2008 - art. 17 (V)
+	  - Décret n°2008-959 du 12 septembre 2008 - art. 18 (V)
+	  - Décret n°2008-960 du 12 septembre 2008 - art. 5 (V)
+	  - Décret n°2008-961 du 12 septembre 2008 - art. 20 (V)
+	  - Décret n°2008-961 du 12 septembre 2008 - art. 23 (V)
+	  - Décret n°2008-1524 du 30 décembre 2008 - art. 18 (V)
+	  - Arrêté du 25 mai 2009 - art. 1 (Ab)
+	  - Arrêté du 3 mars 2010 - art. 1 (Ab)
+	  - Arrêté du 3 mars 2010 - art. 1 (V)
+	  - Arrêté du 13 mai 2011 - art. 1 (V)
+	  - Arrêté du 24 février 2015 - art. 1 (V)
+	  - Arrêté du 24 février 2015 - art. 2 (V)
+	  - Arrêté du 24 février 2015 - art. 3 (V)
+	  - Décret n°2016-983 du 19 juillet 2016 - art. 5 (V)
+	  - Arrêté du 6 février 2017 - art. 1 (V)
+	  - Code de la défense. - art. L4134-1 (V)
+	  - Code de la défense. - art. L4143-1 (V)
+	  - Code de la défense. - art. L4341-1 (M)
+	  - Code de la défense. - art. L4351-1 (M)
+	  - Code de la défense. - art. L4361-1 (M)
+	  - Code de la défense. - art. L4371-1 (M)
+	  - Code de la défense. - art. R4138-28 (V)
+	  - Code de la défense. - art. R4138-56 (V)
+	  - Code de la défense. - art. R4138-57 (V)
+	  - Code de la défense. - art. R4139-47 (V)
+	  - Code de la défense. - art. R4139-51 (V)
+	  - Code de la défense. - art. R4139-52 (V)
+
+
+###### Article L4139-15
+
+Toute mesure générale de nature à provoquer d'office la radiation des cadres ou la résiliation du contrat des militaires en
+dehors du placement dans l'une des positions prévues à l'article L. 4138-1 ne peut être décidée que par la loi. Celle-ci
+prévoit notamment les conditions de préavis et d'indemnisation des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 75
+	  - Loi n°2005-270 du 24 mars 2005 - art. 75 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-1 (V)
+
+
+##### Section 4 : Limites d'âge et de durée des services
+
+###### Article L4139-16
+
+I.-Les limites d'âge et âges maximaux de maintien en première section des militaires sont : 
+
+1° Dans le corps militaire du contrôle général des armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
+général, soixante-quatre ans.
+
+L'âge maximal de maintien en première section est de soixante-cinq ans ; 
+
+2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : (tableau non
+reproduit, voir le fac-similé) 
+
+Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
+demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ; 
+
+3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après : (tableau
+non reproduit, voir le fac-similé) 
+
+Les musiciens des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de cette
+limite d'âge par périodes de deux ans renouvelables. 
+
+II.-Sans préjudice des dispositions de l'article L.4132-12, les limites de durée de service des militaires sous contrat sont
+les suivantes : (tableau non reproduit, voir le fac-similé) 
+
+Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
+demande agréée, être maintenus en service au-delà de la durée de service par périodes de deux ans renouvelables. 
+
+Les officiers sous contrat et les militaires commissionnés atteignant leur limite de durée de service sont, sur leur demande,
+maintenus en service pour une durée maximum de dix trimestres et dans la limite de la durée d'assurance nécessaire pour
+obtenir le pourcentage maximum de la pension mentionné à l'article L.13 du code des pensions civiles et militaires de
+retraite. 
+
+Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 90
+	  - Loi n°2005-270 du 24 mars 2005 - art. 90 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-946 du 12 septembre 2008 - art. 44 (VD)
+	  - Décret n°2008-955 du 12 septembre 2008 - art. 6 (VD)
+	  - Décret n°2008-957 du 12 septembre 2008 - art. 14 (V)
+	  - Décret n°2008-959 du 12 septembre 2008 - art. 19 (VD)
+	  - Décret n°2011-754 du 28 juin 2011 - art. 6 (Ab)
+	  - Décret n°2011-2103 du 30 décembre 2011 - art. 3 (V)
+	  - Décret n°2016-983 du 19 juillet 2016 - art. 6 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. L4139-2 (V)
+	  - Code de la défense. - art. R4141-3 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. L242-6 (VD)
+	  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+
+
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES CATÉGORIES DE MILITAIRES
+
+##### Chapitre Ier : Officiers généraux
+
+###### Article L4141-1
+
+Les officiers généraux sont répartis en deux sections :
+
+1° La première section comprend les officiers généraux en activité, en position de détachement, en non-activité et hors
+cadres ;
+
+2° La deuxième section comprend les officiers généraux qui, n'appartenant pas à la première section, sont maintenus à la
+disposition du ministre de la défense. Lorsqu'ils sont employés pour les nécessités de l'encadrement, ces officiers généraux
+sont replacés en première section pour une durée déterminée dans les conditions et selon les modalités fixées par décret en
+Conseil d'Etat.
+
+Les officiers généraux peuvent être radiés des cadres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 1 octobre 1997 - art. 7 (V)
+	  - Code de la défense. - art. L4141-4 (VD)
+	  - Code de la défense. - art. R4141-1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 76
+	  - Loi n°2005-270 du 24 mars 2005 - art. 76 (Ab)
+
+
+###### Article L4141-2
+
+L'officier général en activité peut être placé, quelle que soit son ancienneté de service, en situation de disponibilité
+spéciale :
+
+1° D'office et pour une année au plus, s'il n'est pas pourvu d'emploi depuis six mois ;
+
+2° Sur sa demande et pour six mois au plus, s'il est titulaire d'un emploi.
+
+Le temps passé dans cette situation est pris en compte pour l'avancement, dans la limite de six mois, et pour le calcul de la
+solde de réserve ou de la pension de retraite.
+
+Dans cette situation, l'officier général a droit à la solde pendant six mois, puis à la solde réduite de moitié.
+
+A l'expiration de la disponibilité spéciale, l'intéressé est soit maintenu dans la première section, soit admis dans la
+deuxième section ou radié des cadres, après avis du conseil supérieur de l'armée à laquelle il appartient ou du conseil
+correspondant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 77
+	  - Loi n°2005-270 du 24 mars 2005 - art. 77 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2008-951 du 12 septembre 2008 - art. 13 (VD)
+	  - Arrêté du 9 avril 2014 - art. 2 (V)
+	  - Code de la défense. - art. R3321-3 (V)
+	  - Code de la défense. - art. R3321-5 (V)
+	  - Code de la défense. - art. R3321-7 (V)
+	  - Code de la défense. - art. R3322-1 (V)
+	  - Code de la défense. - art. R4137-94 (V)
+
+
+###### Article L4141-3
+
+L'officier général est admis dans la deuxième section  :
+
+1° Par limite d'âge ou à l'expiration du congé du personnel navigant ;
+
+2° Par anticipation :
+
+a) Soit sur sa demande ;
+
+b) Soit d'office pour raisons de santé constatées par un conseil de santé ou, pour toute autre cause non disciplinaire, après
+avis du conseil supérieur de l'armée intéressée ou du conseil correspondant.
+
+L'officier général placé dans la deuxième section pour raisons de santé peut être replacé dans la première section après avis
+du conseil de santé.
+
+En temps de guerre, les avis des conseils prévus dans le présent article sont remplacés par celui d'un médecin général ou
+d'un officier général appartenant au conseil intéressé, désigné par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 78
+	  - Loi n°2005-270 du 24 mars 2005 - art. 78 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. R*4122-14 (V)
+	  - Code de la défense. - art. R4141-6 (V)
+
+
+###### Article L4141-4
+
+Les dispositions de l'article L. 4121-2, du troisième alinéa de l'article L. 4123-2, de l'article L. 4123-10 et du b du 3° de
+l'article L. 4137-2 sont applicables à l'officier général de la deuxième section lorsqu'il n'est pas replacé en première
+section par le ministre de la défense en fonction des nécessités de l'encadrement.
+
+L'intéressé perçoit une solde de réserve calculée dans les conditions fixées par le code des pensions civiles et militaires
+de retraite. 
+
+Le versement de la solde de réserve est suspendu lorsque l'officier général replacé en première section par le ministre de la
+défense, conformément aux dispositions de l'article L. 4141-1, jusqu'au terme du placement temporaire en première section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 79
+	  - Loi n°2005-270 du 24 mars 2005 - art. 79 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4121-2 (V)
+	  - Code de la défense. - art. L4123-10 (V)
+	  - Code de la défense. - art. L4123-2 (V)
+	  - Code de la défense. - art. L4137-2 (V)
+	  - Code de la défense. - art. L4141-1 (V)
+
+
+###### Article L4141-5
+
+L'officier général peut être maintenu dans la première section :
+
+1° Sans limite d'âge, quand il a commandé en chef en temps de guerre ou a exercé avec distinction devant l'ennemi le
+commandement d'une armée ou d'une formation équivalente. Cet officier général peut être pourvu d'emploi ; il est remplacé
+dans les cadres ;
+
+2° Temporairement au-delà de la limite d'âge du grade de colonel, ou dénomination correspondante, pour une durée déterminée
+en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge maximal de maintien en première section.
+Dans ce cas, la limite d'âge retenue pour l'application des dispositions du 1° du I de l'article L. 14 du code des pensions
+civiles et militaires de retraite correspond au terme de cette durée déterminée.
+
+Les officiers du service de santé des armées du grade de chef des services peuvent être maintenus en première section dans
+les mêmes conditions que celles prévues par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 80
+	  - Loi n°2005-270 du 24 mars 2005 - art. 80 (Ab)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4139-14 (V)
+
+
+###### Article L4141-6
+
+Le général de brigade, le colonel ou l'officier d'un grade correspondant ayant été jugé apte à tenir un emploi du grade
+supérieur peut être promu au titre de la deuxième section soit à la date de son passage dans cette section ou de sa radiation
+des cadres, soit dans les six mois qui suivent cette date, soit en temps de guerre dans la limite des besoins de
+l'encadrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 81
+	  - Loi n°2005-270 du 24 mars 2005 - art. 81 (Ab)
+
+
+###### Article L4141-7
+
+Pour l'application à un officier général des sanctions prévues au 3° de l'article L. 4137-2, l'avis du conseil d'enquête
+mentionné à l'article L. 4137-3 est remplacé par celui du conseil supérieur de l'armée ou de la formation rattachée à
+laquelle il appartient. La décision entraîne, en cas de radiation des cadres, la radiation de la première ou de la deuxième
+section des officiers généraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 82
+	  - Loi n°2005-270 du 24 mars 2005 - art. 82 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4137-2 (V)
+	  - Code de la défense. - art. L4137-3 (V)
+
+
+##### Chapitre II : Militaires servant à titre étranger
+
+###### Article L4142-1
+
+En temps de paix, nul ne peut être admis à servir à titre étranger :
+
+1° S'il n'a dix-sept ans au moins et quarante ans au plus ;
+
+2° S'il ne justifie de son identité et, pour le mineur non émancipé, du consentement du représentant légal ;
+
+3° S'il ne présente les aptitudes exigées pour l'exercice de la fonction.
+
+Malgré l'absence des pièces justificatives nécessaires, l'autorité militaire compétente peut accepter l'engagement.
+
+Un décret en Conseil d'Etat précise les dispositions du présent statut qui sont applicables aux militaires servant à titre
+étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 83
+	  - Loi n°2005-270 du 24 mars 2005 - art. 83 (Ab)
+
+
+###### Article L4142-2
+
+Le militaire qui sert à titre étranger est, quel que soit son grade, lié au service par un contrat d'engagement.
+
+Il souscrit le premier engagement en qualité de militaire du rang. Celui qui a servi en qualité d'officier dans une armée
+étrangère ou d'élève étranger d'une école militaire française peut être admis, par décret, comme officier à titre étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 84
+	  - Loi n°2005-270 du 24 mars 2005 - art. 84 (Ab)
+
+
+###### Article L4142-3
+
+L'officier servant à titre étranger peut être admis à servir à titre français après acquisition de la nationalité française.
+Il conserve son grade et prend rang à compter de la date de son intégration dans les cadres français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 85
+	  - Loi n°2005-270 du 24 mars 2005 - art. 85 (Ab)
+
+
+###### Article L4142-4
+
+Pendant les cinq premières années de son service actif, le militaire qui sert à titre étranger doit obtenir l'autorisation du
+ministre de la défense pour contracter mariage ou conclure un pacte civil de solidarité.
+
+Cette autorisation ne peut être refusée que pour des motifs tirés de l'intérêt de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 86
+	  - Loi n°2005-270 du 24 mars 2005 - art. 86 (Ab)
+
+
+###### Article L4142-5
+
+Les règles relatives à l'acquisition de la nationalité française par des étrangers engagés dans les armées françaises sont
+définies par les articles 21-14-1 et 21-15 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code civil - art. 21-14-1 (V)
+	  - Code civil - art. 21-15 (V)
+
+
+##### Chapitre III : Militaires servant au titre de la réserve
+
+###### Article L4143-1
+
+Les dispositions des articles L. 4121-1 et L. 4121-2, des premier et dernier alinéas de l'article L. 4121-4, des premier et
+dernier alinéas de l'article L. 4121-5, des articles L. 4121-7 et L. 4121-8, des articles L. 4122-1 et L. 4123-1, des premier
+et troisième alinéas de l'article L. 4123-2, des articles L. 4123-4 et L. 4123-5, L. 4123-8, L. 4123-10 à L. 4123-18, L.
+4131-1, L. 4135-1, L. 4136-1, L. 4137-1 à L. 4137-5, L. 4138-3, L. 4138-5 et des 2° à 4° de l'article L. 4139-14 sont
+applicables aux réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve opérationnelle ou au
+titre de la disponibilité.
+
+L'officier ou le sous-officier de réserve ne peut être promu au grade supérieur que s'il compte, dans le grade, une
+ancienneté au moins égale à celle de l'officier ou du sous-officier de carrière du même corps et du même grade le moins
+ancien en grade promu, à titre normal, la même année.
+
+Les réservistes exerçant une activité en vertu d'un engagement à servir dans la réserve opérationnelle ou de la disponibilité
+peuvent demeurer affiliés à des groupements politiques ou syndicaux. Ils doivent toutefois s'abstenir de toute activité
+politique ou syndicale pendant leur présence sous les drapeaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 20 (Ab)
+	  - Arrêté du 17 juillet 2009 (V)
+	  - Arrêté du 7 juin 2010 - art. 2 (Ab)
+	  - Arrêté du 20 février 2013 - art. 2 (Ab)
+	  - Arrêté du 26 juillet 2016 - art. 2 (V)
+	  - Code de la défense. - art. R4211-1 (V)
+	  - Code de la défense. - art. R4221-23 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 87
+	  - Loi n°2005-270 du 24 mars 2005 - art. 87 (Ab)
+
+
+##### Chapitre IV : Fonctionnaires en détachement servant en qualité de militaire
+
+###### Article L4144-1
+
+I.-Le grade détenu dans leur corps d'origine ou cadre d'emploi par le trésorier-payeur général exerçant les fonctions de
+payeur général aux armées et les fonctionnaires détachés au sein des services de la trésorerie aux armées et de la poste
+interarmées, pendant leur détachement, leur donne droit à l'attribution d'un grade d'assimilation dans la hiérarchie
+militaire générale. Ce grade ne confère de commandement qu'à l'intérieur du service d'emploi. 
+
+II.-Durant leur détachement, les articles L. 4111-1 à L. 4121-2, les premier et deuxième alinéas de l'article L. 4121-3, les
+articles L. 4121-4 et L. 4121-5, L. 4121-7 à L. 4123-2, L. 4123-4, L. 4123-5, 
+L. 4123-8, L. 4123-10 à L. 4123-18, L. 4124-1 à L. 4132-1, le 1° de l'article L. 4137-1, les premier à quatrième alinéas de
+l'article L. 4137-5 et les a à d du 1° de l'article L. 4138-2 sont applicables aux fonctionnaires détachés au sein des
+services de la trésorerie aux armées et de la poste interarmées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 2005-03-24 art. 88
+	  - Loi n°2005-270 du 24 mars 2005 - art. 88 (Ab)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+	  - Code de la défense. - art. L4121-3 (V)
+	  - Code de la défense. - art. L4121-4 (V)
+	  - Code de la défense. - art. L4121-5 (V)
+	  - Code de la défense. - art. L4121-7 (V)
+	  - Code de la défense. - art. L4123-10 (V)
+	  - Code de la défense. - art. L4123-4 (V)
+	  - Code de la défense. - art. L4123-5 (V)
+	  - Code de la défense. - art. L4123-8 (V)
+	  - Code de la défense. - art. L4124-1 (V)
+	  - Code de la défense. - art. L4137-1 (V)
+	  - Code de la défense. - art. L4137-5 (V)
+	  - Code de la défense. - art. L4138-2 (V)
+
+
+### LIVRE II : RÉSERVE MILITAIRE
+
+#### TITRE Ier : DISPOSITIONS COMMUNES
+
+##### Chapitre unique
+
+###### Article L4211-1
+
+I.-Les citoyens concourent à la défense de la nation. Ce devoir peut s'exercer par une participation à des activités
+militaires dans la réserve. 
+
+II.-La réserve militaire s'inscrit dans un parcours citoyen qui débute avec l'enseignement de défense et qui se poursuit avec
+la participation au recensement, l'appel de préparation à la défense, la période militaire d'initiation ou de
+perfectionnement à la défense nationale et le volontariat. Ce parcours continu permet à tout Français et à toute Française
+d'exercer son droit à contribuer à la défense de la nation. 
+
+III.-La réserve militaire a pour objet de renforcer les capacités des forces armées dont elle est une des composantes pour la
+protection du territoire national, comme dans le cadre des opérations extérieures, d'entretenir l'esprit de défense et de
+contribuer au maintien du lien entre la nation et ses forces armées. Elle est constituée : 
+
+1° D'une réserve opérationnelle comprenant : 
+
+a) Les volontaires qui ont souscrit un engagement à servir dans la réserve opérationnelle auprès de l'autorité militaire ; 
+
+b) Les anciens militaires soumis à l'obligation de disponibilité ; 
+
+2° D'une réserve citoyenne comprenant les volontaires agréés mentionnés à l'article L. 4241-2. 
+
+IV.-Les réservistes et leurs associations, les associations d'anciens militaires ainsi que les associations dont les
+activités contribuent à la promotion de la défense nationale constituent les relais essentiels du renforcement du lien entre
+la nation et ses forces armées. Ils ont droit à sa reconnaissance pour leur engagement à son service et peuvent bénéficier de
+son soutien.
+
+A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution de la qualité de " partenaire de la
+réserve citoyenne " pour une durée déterminée.
+
+L'entreprise ou l'organisme qui a favorisé la mise en oeuvre des dispositions du présent livre, notamment en signant une
+convention avec le ministre de la défense, peut se voir attribuer la qualité de " partenaire de la défense nationale ".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 1 (Ab)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-559 du 21 juin 2000 - art. 2 (Ab)
+	  - Arrêté du 30 janvier 2008 (V)
+	  - Arrêté du 30 janvier 2008 - art. 1 (V)
+	  - Arrêté du 17 juillet 2008 (V)
+	  - Arrêté du 17 juillet 2008 - art. 1 (V)
+	  - Arrêté du 30 octobre 2008 (V)
+	  - Arrêté du 30 octobre 2008 - art. 1 (V)
+	  - Arrêté du 8 janvier 2009 (V)
+	  - Arrêté du 8 janvier 2009 - art. 1 (V)
+	  - Arrêté du 3 avril 2009 (V)
+	  - Arrêté du 3 avril 2009 - art. 1 (V)
+	  - Arrêté du 25 mai 2009 (V)
+	  - Arrêté du 25 mai 2009 - art. 1 (V)
+	  - Arrêté du 29 juillet 2009 (Ab)
+	  - Arrêté du 29 juillet 2009 (V)
+	  - Arrêté du 29 juillet 2009 - art. 1 (V)
+	  - Arrêté du 13 novembre 2009 (V)
+	  - Arrêté du 13 novembre 2009 - art. 1 (V)
+	  - Arrêté du 6 janvier 2010 (V)
+	  - Arrêté du 6 janvier 2010 - art. 1 (V)
+	  - Arrêté du 15 février 2010 (V)
+	  - Arrêté du 15 février 2010 - art. 1 (V)
+	  - Arrêté du 18 août 2010 (V)
+	  - Arrêté du 18 août 2010 - art. 1 (V)
+	  - Arrêté du 12 mai 2011 (V)
+	  - Arrêté du 12 mai 2011 - art. 1 (V)
+	  - Arrêté du 11 janvier 2012 - art. 1 (V)
+	  - Arrêté du 14 mars 2012 - art. 1 (V)
+	  - Arrêté du 2 août 2012 (V)
+	  - Arrêté du 2 août 2012 - art. 1 (V)
+	  - Arrêté du 6 août 2012 (V)
+	  - Arrêté du 6 août 2012 - art. 1 (V)
+	  - Arrêté du 18 juin 2014 - art. 14 (V)
+	  - Décret n°2015-1416 du 5 novembre 2015 - art. (V)
+	  - Code de la défense. - art. R3222-2 (V)
+	  - Code du travail - art. L5151-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4241-2 (V)
+
+
+###### Article L4211-2
+
+Pour être admis dans la réserve, il faut : 
+
+1° Etre de nationalité française ou ancien militaire engagé à titre étranger volontaire pour servir comme réserviste dans la
+légion étrangère ; 
+
+2° Etre âgé de dix-sept ans au moins ; 
+
+3° Etre en règle au regard des obligations du service national ; 
+
+4° Ne pas avoir été condamné soit à la perte des droits civiques ou à l'interdiction d'exercer un emploi public, soit à une
+peine criminelle, soit à la destitution ou à la perte du grade dans les conditions prévues aux articles L. 311-3 à L. 311-9
+du code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L311-3 (V)
+
+
+###### Article L4211-3
+
+Conformément à l'article L. 114-1 du livre Ier du code du service national, l'organisation générale de la réserve fait
+l'objet d'un enseignement obligatoire dans le cadre de l'enseignement de l'esprit de défense et des programmes des
+établissements d'enseignement du second degré des premier et second cycles. 
+
+Un rappel de cet enseignement est effectué à l'occasion de l'appel de préparation à la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code du service national - art. L114-1 (V)
+
+
+###### Article L4211-4
+
+Les volontaires sont admis dans la réserve, directement ou à l'issue d'une période militaire d'initiation ou de
+perfectionnement à la défense, en qualité de militaire du rang, de sous-officier ou officier marinier, d'aspirant, d'officier
+ou de personnel assimilé. Les militaires rendus à la vie civile conservent le grade qu'ils détenaient en activité.
+
+L'un des objets de la période militaire d'initiation ou de perfectionnement à la défense est de pourvoir au recrutement de la
+réserve et, pour ce faire, elle est ouverte à tout citoyen volontaire pour servir dans ce cadre dans les conditions prévues
+par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 4 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 15 janvier 2001 - art. 1er-3 (V)
+	  - Arrêté du 10 mars 2008 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4211-5
+
+Ont la qualité de militaires les réservistes quand ils exercent une activité pour laquelle ils sont convoqués en vertu de
+leur engagement à servir dans la réserve opérationnelle ou au titre de la disponibilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4211-6 (V)
+
+
+###### Article L4211-6
+
+En dehors des activités de service mentionnées à l'article L. 4211-5, tout réserviste ou ancien réserviste qui a obtenu
+l'honorariat peut être admis à participer bénévolement à des activités définies ou agréées par l'autorité militaire, parmi
+lesquelles figurent des actions destinées à renforcer le lien entre la nation et son armée. Il est alors collaborateur
+bénévole du service public. Il est soumis à l'obligation d'obéissance hiérarchique et de discrétion pour tout ce qui concerne
+les faits et informations dont il a connaissance au titre de ces activités.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 3 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 30 (Ab)
+	  - Décret n°2009-545 du 14 mai 2009 - art. 1 (V)
+	  - Code de la défense. - art. R4211-2 (V)
+	  - Code de la défense. - art. R4241-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4211-5 (V)
+
+
+###### Article L4211-7
+
+Aucun établissement ou organisme de formation public ou privé ne peut prendre de mesure préjudiciable à l'accomplissement
+normal du cursus de formation entrepris par un étudiant ou un stagiaire en raison des absences qui résultent soit d'une
+activité au titre d'un engagement à servir dans la réserve opérationnelle, soit d'un appel ou d'un rappel des personnes
+soumises à l'obligation de disponibilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4211-8
+
+Il est institué une journée nationale du réserviste.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 55 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 55 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE OPÉRATIONNELLE
+
+##### Chapitre unique
+
+###### Article L4221-1
+
+Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit pour une durée de un à cinq ans renouvelable en
+vue :
+
+1° De recevoir une formation ou de suivre un entraînement ;
+
+2° D'apporter un renfort temporaire aux forces armées, en particulier pour la protection du territoire national et dans le
+cadre des opérations conduites en dehors du territoire national ;
+
+3° De dispenser un enseignement de défense ;
+
+4° De participer aux actions civilo-militaires, destinées à faciliter l'interaction des forces opérationnelles avec leur
+environnement civil ;
+
+5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9.
+
+Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
+réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4.
+
+Cette clause est soumise à l'accord de l'employeur.
+
+Ces missions peuvent s'exercer en dehors du territoire national.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 8 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 8 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-1 (Ab)
+	  - Arrêté du 15 janvier 2001 - art. 1er-1 (V)
+	  - Code de la défense. - art. L4221-4 (V)
+	  - Code de la défense. - art. R4221-11 (V)
+	  - Code de la défense. - art. R4221-17-1 (V)
+	  - Code de la défense. - art. R4221-17-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4221-2
+
+Les limites d'âge des réservistes de la réserve opérationnelle sont celles des cadres d'active définies par le statut général
+des militaires augmentées de cinq ans. Pour les militaires du rang, la limite d'âge est de cinquante ans.
+
+Le réserviste doit posséder l'ensemble des aptitudes requises pour servir dans la réserve opérationnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 8-1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 32 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 34 (Ab)
+	  - Arrêté du 17 août 2010 - art. 2 (V)
+	  - Code de la défense. - art. R4211-10 (V)
+	  - Code de la défense. - art. R4211-6 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4221-3
+
+Les forces armées peuvent avoir recours à des spécialistes volontaires pour exercer des fonctions déterminées correspondant à
+leur qualification professionnelle civile, sans formation militaire spécifique.
+
+Le grade attaché à l'exercice de cette fonction de spécialiste dans la réserve opérationnelle est conféré par arrêté du
+ministre de la défense. Il ne donne pas droit à l'exercice du commandement hors du cadre de la fonction exercée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 15 janvier 2001 - art. 1er-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4221-4
+
+Le réserviste qui accomplit son engagement à servir dans la réserve opérationnelle pendant son temps de travail doit prévenir
+l'employeur de son absence un mois au moins avant le début de celle-ci. 
+
+Lorsque les activités accomplies pendant le temps de travail dépassent cinq jours par année civile, le réserviste doit en
+outre obtenir l'accord de son employeur, sous réserve des dispositions de l'article L. 4221-5. Si l'employeur oppose un
+refus, cette décision doit être motivée et notifiée à l'intéressé ainsi qu'à l'autorité militaire dans les quinze jours qui
+suivent la réception de la demande. 
+
+Lorsque les circonstances l'exigent, le ministre de la défense peut, par arrêté pris dans des conditions fixées par décret en
+Conseil d'Etat, faire appel, sous un préavis de quinze jours, aux réservistes qui ont souscrit un contrat comportant la
+clause de réactivité prévue à l'article L. 4221-1. Ce délai peut être réduit avec l'accord de l'employeur. 
+
+Des mesures tendant à faciliter, au-delà des obligations prévues par le présent livre, l'engagement, l'activité et la
+réactivité dans la réserve peuvent résulter du contrat de travail, de clauses particulières de l'engagement à servir dans la
+réserve opérationnelle ayant reçu l'accord de l'employeur, des conventions ou accords collectifs de travail, ou des
+conventions conclues entre l'employeur et le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 1999-10-22 art. 10, à l'exception du dernier alinéa
+	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-3 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-4 (Ab)
+	  - Arrêté du 15 janvier 2001 - art. 1er-1 (V)
+	  - Code de la défense. - art. L4221-1 (V)
+	  - Code de la défense. - art. L4221-4-1 (V)
+	  - Code de la défense. - art. R4221-13 (V)
+	  - Code de la défense. - art. R4221-14 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-5 (V)
+
+
+###### Article L4221-5
+
+Lorsque l'employeur maintient tout ou partie de la rémunération du réserviste pendant son absence pour formation suivie dans
+le cadre de la réserve opérationnelle, la rémunération et les prélèvements sociaux afférents à cette absence sont admis au
+titre de la participation des employeurs au financement de la formation professionnelle continue prévue à l'article L. 950-1
+du code du travail. 
+
+Le réserviste qui suit une formation au titre de l'article L. 900-2 du même code durant ses activités dans la réserve
+opérationnelle n'est pas tenu de solliciter l'accord préalable mentionné à l'article L. 4221-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 11 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4221-4 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (Ab)
+	  - Code du travail - art. L950-1 (Ab)
+
+
+###### Article L4221-6
+
+La durée des activités à accomplir au titre de l'engagement à servir dans la réserve opérationnelle est déterminée, selon des
+modalités fixées par décret, conjointement par l'autorité militaire d'emploi et le réserviste, dans la limite de trente jours
+par année civile sous réserve des dispositions du titre III du présent livre. Cette limite peut être augmentée dans des
+conditions et selon des modalités fixées par décret, dans la limite, par année civile, de soixante jours pour répondre aux
+besoins des armées, de cent cinquante jours en cas de nécessité liée à l'emploi des forces et de deux cent dix jours pour les
+emplois présentant un intérêt de portée nationale ou internationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 12 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4221-9 (V)
+	  - Code de la défense. - art. L4251-3 (V)
+
+
+###### Article L4221-7
+
+Des volontaires peuvent servir, au titre d'un engagement à servir dans la réserve opérationnelle, dans l'intérêt de la
+défense, auprès d'une entreprise qui participe au soutien des forces armées ou accompagne des opérations d'exportation
+relevant du domaine de la défense.
+
+Ces volontaires sont soumis à l'exercice du pouvoir hiérarchique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 12-1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-5 (Ab)
+	  - Code de la défense. - art. L4221-1 (V)
+	  - Code de la défense. - art. L4221-8 (V)
+	  - Code de la défense. - art. R4221-15 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4221-8
+
+Pour l'application de l'article L. 4221-7, une convention est conclue entre l'Etat et l'entreprise concernée. Elle détermine
+notamment : 
+
+1° Les conditions de recrutement et d'exercice des fonctions des réservistes dans le respect du présent livre ; 
+
+2° Les conditions de l'exercice de la tutelle technique de l'entreprise sur les réservistes ; 
+
+3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée au ministère de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 12-2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-5 (Ab)
+	  - Code de la défense. - art. R4221-15 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-7 (V)
+
+
+###### Article L4221-9
+
+La convention peut prévoir des durées d'activité supérieures à celles prévues à l'article L. 4221-6. Les stipulations de la
+convention ne peuvent faire obstacle à l'application du titre III du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 12-3 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-6 (V)
+
+
+###### Article L4221-10
+
+Les conditions de souscription, d'exécution et de résiliation des engagements à servir dans la réserve opérationnelle, les
+conditions de radiation, les modalités d'accès et d'avancement aux différents grades et les règles relatives à l'honorariat
+sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 13 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+#### TITRE III : DISPONIBILITÉ
+
+##### Chapitre unique
+
+###### Article L4231-1
+
+Sont soumis à l'obligation de disponibilité :
+
+1° Les volontaires pendant la durée de validité de leur engagement dans la réserve opérationnelle ;
+
+2° Les anciens militaires de carrière ou sous contrat et les personnes qui ont accompli un volontariat dans les armées, dans
+la limite de cinq ans à compter de la fin de leur lien au service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4231-2 (V)
+
+
+###### Article L4231-2
+
+Les anciens militaires mentionnés à l'article L. 4231-1 peuvent être convoqués, afin de contrôler leur aptitude, pour une
+durée qui ne peut excéder un total de cinq jours sur une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 15 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 15 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 11 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 28 (Ab)
+	  - Code de la défense. - art. R4221-5 (M)
+	  - Code de la défense. - art. R4231-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4231-1 (V)
+
+
+###### Article L4231-3
+
+Les personnes soumises à l'obligation de disponibilité sont tenues de répondre, dans les circonstances prévues aux articles
+L. 4231-4 et L. 4231-5, aux ordres d'appel individuels ou collectifs et de rejoindre leur affectation pour servir au lieu et
+dans les conditions qui leur sont assignés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4231-4 (V)
+	  - Code de la défense. - art. L4231-5 (V)
+
+
+###### Article L4231-4
+
+En cas d'application de l'article L. 1111-2, l'appel ou le maintien en activité de tout ou partie des réservistes soumis à
+l'obligation de disponibilité peut être décidé par décret en conseil des ministres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 17 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 11 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 27 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 28 (Ab)
+	  - Code de la défense. - art. L4231-3 (V)
+	  - Code de la défense. - art. L4271-1 (V)
+	  - Code de la défense. - art. L4271-2 (V)
+	  - Code de la défense. - art. L4271-3 (V)
+	  - Code de la défense. - art. L4271-4 (V)
+	  - Code de la défense. - art. L4271-5 (V)
+	  - Code de la défense. - art. R4221-5 (M)
+	  - Code de la défense. - art. R4231-4 (V)
+	  - Code de la défense. - art. R4231-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+
+
+###### Article L4231-5
+
+En cas de troubles graves ou de menaces de troubles graves à l'ordre public, le ministre de la défense peut être autorisé par
+décret à faire appel, pour une durée déterminée, à tout ou partie des réservistes de la gendarmerie nationale soumis à
+l'obligation de disponibilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 11 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 27 (Ab)
+	  - Décret n°2000-1170 du 1 décembre 2000 - art. 28 (Ab)
+	  - Code de la défense. - art. L4231-3 (M)
+	  - Code de la défense. - art. L4271-1 (V)
+	  - Code de la défense. - art. L4271-2 (V)
+	  - Code de la défense. - art. L4271-3 (V)
+	  - Code de la défense. - art. L4271-4 (V)
+	  - Code de la défense. - art. L4271-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+#### TITRE IV : RÉSERVE CITOYENNE
+
+##### Chapitre unique
+
+###### Article L4241-1
+
+La réserve citoyenne a pour objet d'entretenir l'esprit de défense et de renforcer le lien entre la nation et ses forces
+armées.
+
+En fonction des besoins des forces armées, l'autorité militaire peut faire appel aux volontaires de la réserve citoyenne
+pour, avec leur accord, les affecter dans la réserve opérationnelle. Les intéressés souscrivent alors un engagement à servir
+dans la réserve opérationnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 19 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4241-2
+
+La réserve citoyenne est composée de volontaires agréés par l'autorité militaire en raison de leurs compétences, de leur
+expérience ou de leur intérêt pour les questions relevant de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 20 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2017-930 du 9 mai 2017 - art. 10 (V)
+	  - Code de la défense. - art. L4211-1 (V)
+
+
+#### TITRE V : DISPOSITIONS SOCIALES ET FINANCIÈRES
+
+##### Chapitre unique
+
+###### Article L4251-1
+
+Les réservistes, quand ils exercent une activité au titre de leur engagement dans la réserve opérationnelle ou au titre de la
+disponibilité, bénéficient de la solde et des accessoires qui s'y attachent dans les mêmes conditions que les militaires
+professionnels.
+
+Les réservistes exerçant une activité au titre de leur engagement dans la réserve opérationnelle peuvent, en outre,
+bénéficier d'une prime de fidélité ainsi que d'autres mesures d'encouragement dans les conditions fixées par décret. Le
+montant de la prime de fidélité est le même quel que soit le grade.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4251-2
+
+Pendant la période d'activité dans la réserve opérationnelle, l'intéressé bénéficie, pour lui et pour ses ayants droit, des
+prestations des assurances maladie, maternité, invalidité et décès, dans les conditions prévues à l'article L. 161-8 du code
+de la sécurité sociale, du régime de sécurité sociale dont il relève en dehors de son service dans la réserve. 
+
+Dans les situations prévues à l'article L. 4251-3, le délai mentionné à l'article L. 161-8 de ce même code n'est opposable ni
+à l'intéressé ni à ses ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4251-3 (V)
+	  - Code de la sécurité sociale. - art. L161-8 (V)
+
+
+###### Article L4251-3
+
+Par dérogation aux dispositions de l'article L. 4221-6, en cas de disparition, d'enlèvement ou s'ils sont faits prisonniers
+pendant qu'ils exercent une activité dans la réserve opérationnelle, les réservistes conservent leur qualité de militaire
+jusqu'à leur réapparition ou leur libération, jusqu'au jugement déclaratif d'absence ou l'établissement officiel de leur
+décès.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-6 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4251-2 (V)
+
+
+###### Article L4251-4
+
+Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire ne peuvent être prononcés à l'encontre d'un
+réserviste en raison des absences résultant de l'application des dispositions du présent Livre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4251-5
+
+Le contrat de travail du salarié exerçant une activité dans la réserve opérationnelle pendant son temps de travail est
+suspendu pendant la période en cause. 
+
+Toutefois, cette période est considérée comme une période de travail effectif pour les avantages légaux et conventionnels en
+matière d'ancienneté, d'avancement, de congés payés et de droits aux prestations sociales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 26 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4251-6
+
+Lorsqu'un fonctionnaire accomplit, sur son temps de travail, une activité dans la réserve opérationnelle, il est placé :
+
+1° En position d'accomplissement du service national et des activités dans la réserve opérationnelle, lorsque la durée de ses
+activités dans la réserve est inférieure ou égale à trente jours par année civile ;
+
+2° En position de détachement pour la période excédant cette durée.
+
+La situation des agents publics non titulaires est définie par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°86-68 du 13 janvier 1986 - art. 2 (V)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 13 (V)
+	  - Loi n°2016-987 du 21 juillet 2016 - art. 19 (V)
+	  - Décret n°2017-603 du 21 avril 2017 - art. 5
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 27 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4251-7
+
+Le réserviste victime de dommages subis dans le service ou à l'occasion du service et, en cas de décès, ses ayants droit
+obtiennent de l'Etat, lorsque la responsabilité de ce dernier est engagée, la réparation intégrale du dommage subi, suivant
+les règles du droit commun.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE
+
+##### Chapitre unique
+
+###### Article L4261-1
+
+Le Conseil supérieur de la réserve militaire est chargé d'émettre des avis et des recommandations dans le domaine de la
+politique des réserves.
+
+La composition, l'organisation, le fonctionnement et les modalités de désignation des membres du Conseil supérieur de la
+réserve militaire sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 29 (M)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cité par**:
+
+	  - Arrêté du 18 juin 2014 (V)
+
+
+#### TITRE VII : DISPOSITIONS PÉNALES
+
+##### Chapitre unique
+
+###### Article L4271-1
+
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5
+par ordre d'appel individuel ou collectif, de ne pas se présenter, hors le cas de force majeure, à la destination et dans les
+délais fixés, constitue un acte d'insoumission passible des peines prévues à l'article L. 321-1 du code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 38 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-4 (V)
+	  - Code de la défense. - art. L4231-4 (V)
+	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de justice militaire. - art. L321-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2151-14 (Ab)
+
+
+###### Article L4271-2
+
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, 
+L. 4231-4 et L. 4231-5, de s'absenter sans autorisation ou de ne pas rejoindre le poste auquel elle a été affectée à l'issue
+d'une absence régulièrement autorisée, constitue, à l'expiration des délais de grâce prévus aux articles L. 321-2 à L. 321-17
+du code de justice militaire, un acte de désertion passible des peines prévues à ces mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-4 (V)
+	  - Code de la défense. - art. L4231-4 (V)
+	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de justice militaire. - art. L321-2 (V)
+
+
+###### Article L4271-3
+
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4321-4 et L. 4321-5,
+de refuser d'obéir ou, hors le cas de force majeure, de ne pas exécuter l'ordre reçu de ceux qui avaient qualité pour le
+donner, constitue une infraction passible des peines prévues aux articles L. 323-6 et L. 323-7 du code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 40 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+
+###### Article L4271-4
+
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5,
+de s'être irrégulièrement absentée du poste auquel elle a été appelée à servir, constitue un abandon de poste passible des
+peines prévues à l'article L. 324-4 du code de justice militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-4 (V)
+	  - Code de la défense. - art. L4231-4 (V)
+	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de justice militaire. - art. L324-4 (V)
+
+
+###### Article L4271-5
+
+Les dispositions des articles L. 211-13, L. 212-36 et L. 267-2 du code de justice militaire relatives au mode d'extinction de
+l'action publique et au régime de la prescription des peines sont applicables aux personnes appelées ou maintenues à
+l'activité en application des articles L. 2151-4, 
+L. 4231-4 et L. 4231-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°99-894 du 22 octobre 1999 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-4 (V)
+	  - Code de la défense. - art. L4231-4 (V)
+	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de justice militaire. - art. L211-13 (V)
+	  - Code de justice militaire. - art. L212-36 (V)
+	  - Code de justice militaire. - art. L267-2 (V)
+
+
+### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
+
+##### Chapitre unique
+
+###### Article L4331-1
+
+Sont applicables à Mayotte les dispositions des articles L. 4111-1 à L. 4271-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1
+
+
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
+
+##### Chapitre unique
+
+###### Article L4341-1
+
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+
+
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
+
+##### Chapitre unique
+
+###### Article L4351-1
+
+Sont applicables en Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+
+
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
+
+##### Chapitre unique
+
+###### Article L4361-1
+
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+
+
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
+
+##### Chapitre unique
+
+###### Article L4371-1
+
+Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4144-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
 
 
 ## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES

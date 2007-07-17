@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-04-24
+Version Consolidée au 2007-07-18
 
 # Partie législative
 
@@ -34781,8 +34781,8 @@ la liste est fixée par l'arrêté prévu à l'article R.* 1333-37.
 
 ###### Article D1411-14
 
-L'inspection des armements nucléaires est confiée à un officier général, inspecteur des armements nucléaires, nommé par
-décret du Président de la République et placé sous son autorité directe.
+L'inspection des armements nucléaires est confiée à un officier général, placé sous l'autorité directe du Président de la
+République, président du conseil de défense et chef des armées.
 
 **Liens relatifs à cet article**
 
@@ -34797,6 +34797,10 @@ décret du Président de la République et placé sous son autorité directe.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
 	**Cité par**:
 
 	  - Code de la défense. - art. D1631-6 (V)
@@ -34808,22 +34812,22 @@ décret du Président de la République et placé sous son autorité directe.
 
 ###### Article D1411-15
 
-L'inspecteur des armements nucléaires est chargé de vérifier l'application des mesures permettant d'assurer le contrôle
-gouvernemental de l'arme nucléaire sous ses trois aspects :
+L'inspecteur des armements nucléaires est chargé de vérifier la pertinence et l'application des mesures permettant d'assurer
+le contrôle gouvernemental de la dissuasion nucléaire sous ses trois aspects :
 
-1° Le contrôle de l'engagement, qui a pour fin de permettre au chef de l'Etat d'avoir la garantie :
+1° Le contrôle de l'engagement, qui a pour finalité de permettre au Président de la République d'avoir la garantie :
 
-a) De pouvoir déclencher à tout moment les forces nucléaires ;
+a) De pouvoir engager à tout moment les forces nucléaires ;
 
-b) Que les armes ne peuvent pas être utilisées sans ordre gouvernemental légitime ;
+b) Que l'emploi des armes nucléaires est impossible sans ordre de sa part ou d'une autorité de dévolution légitimement
+investie ;
 
-2° Le contrôle de la conformité de l'emploi, qui a pour fin de garantir que les plans établis et les documents d'exécution
-correspondent bien aux directives gouvernementales ;
+2° Le contrôle de la conformité de l'emploi, qui a pour finalité de garantir au Président de la République que la posture
+opérationnelle des forces nucléaires est conforme à ses directives ;
 
-3° Le contrôle de la situation des matières nucléaires, qui a pour fin d'empêcher toute saisie intempestive de ces matériaux.
-La définition des matières nucléaires tombant sous le coup de ce contrôle et les stades de fabrication auxquels celui-ci est
-exercé sont inclus dans une directive interministérielle, soumise à révision périodique, rédigée en application de la
-présente section.
+3° Le contrôle de l'intégrité des moyens de la dissuasion nucléaire, qui a pour finalité de garantir au Président de la
+République que l'ensemble des moyens est intègre et protégé, en tout temps contre les actions malveillantes ou hostiles,
+ainsi que des atteintes au secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -34836,6 +34840,10 @@ présente section.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
 	**Cité par**:
 
 	  - Code de la défense. - art. D1411-17 (M)
@@ -34843,12 +34851,10 @@ présente section.
 
 ###### Article D1411-16
 
-En matière de contrôle gouvernemental de l'engagement et de l'emploi des forces nucléaires, l'inspecteur des armements
-nucléaires a seul pouvoir d'inspection direct et permanent, les inspecteurs généraux des armées n'ayant aucune responsabilité
-dans ces domaines.
-
-Ce pouvoir s'applique non seulement au respect de l'organisation et des procédures de contrôle, mais également au
-fonctionnement des dispositifs techniques et des liaisons nécessaires à ce contrôle.
+En matière de contrôle gouvernemental de l'engagement et de la conformité de l'emploi des forces nucléaires, l'inspecteur des
+armements nucléaires a, seul, pouvoir d'inspection direct et permanent. Ce pouvoir s'applique à l'organisation et aux
+procédures de contrôle, aux dispositifs techniques et aux liaisons nécessaires à ce contrôle, ainsi qu'à tout ce qui concourt
+à la disponibilité des moyens.
 
 **Liens relatifs à cet article**
 
@@ -34861,6 +34867,10 @@ fonctionnement des dispositifs techniques et des liaisons nécessaires à ce con
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
 	**Cité par**:
 
 	  - Arrêté du 15 juillet 2008 - art. Annexe (V)
@@ -34869,12 +34879,11 @@ fonctionnement des dispositifs techniques et des liaisons nécessaires à ce con
 
 ###### Article D1411-17
 
-En ce qui concerne la situation des coeurs et des matières nucléaires mentionnées à l'article D. 1411-15, la compétence de
-l'inspecteur des armements nucléaires s'étend aussi bien aux organismes de la défense qu'aux organismes du Commissariat à
-l'énergie atomique, qui réalise ou détient les matières ou les coeurs. Il dispose à cet effet de personnels détachés par le
-Commissariat à l'énergie atomique.
+En ce qui concerne l'intégrité des moyens de la dissuasion nucléaire, la compétence de l'inspecteur des armements nucléaires
+s'étend à tout organisme et à tout établissement qui contribue à la réalisation et au maintien en condition opérationnelle de
+ces moyens.
 
-Dans tous les autres domaines, sa compétence ne s'étend qu'aux organismes de la défense.
+La liste de ces moyens est définie par un arrêté du Premier ministre. Cet arrêté n'est pas publié.
 
 **Liens relatifs à cet article**
 
@@ -34887,16 +34896,16 @@ Dans tous les autres domaines, sa compétence ne s'étend qu'aux organismes de l
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. D1411-15 (M)
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
 
 
 ###### Article D1411-18
 
-L'inspecteur des armements nucléaires est consulté lors de la définition des systèmes et procédures de contrôle
-gouvernemental. Il est habilité à formuler son avis sur la validité des dispositions ou mesures prises et à proposer les
-modifications qu'il lui apparaîtrait nécessaire d'y apporter.
+La sûreté nucléaire participe à la crédibilité et à la pérennité de la dissuasion. A cet égard, l'inspecteur des armements
+nucléaires s'assure de la cohérence des mesures prises dans ce domaine au regard des exigences de la dissuasion, notamment
+auprès du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense.
 
 **Liens relatifs à cet article**
 
@@ -34909,14 +34918,20 @@ modifications qu'il lui apparaîtrait nécessaire d'y apporter.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
 
 ###### Article D1411-19
 
-L'inspecteur des armements nucléaires rend compte de ses activités au Président de la République et en tient informé le
-Premier ministre.
+L'inspecteur des armements nucléaires est consulté lors de la définition des systèmes et procédures du contrôle
+gouvernemental. Il donne son avis sur la validité des dispositions ou mesures prises et propose toute modification qui lui
+apparaîtrait nécessaire.
 
-Il en informe également, dans les domaines de leurs compétences respectives, le ministre de la défense et le ministre chargé
-de l'industrie.
+L'inspecteur des armements nucléaires est consulté pour les modalités de mise en oeuvre du contrôle gouvernemental.
+
+Ces modalités font l'objet d'un arrêté du Premier ministre. Cet arrêté n'est pas publié.
 
 **Liens relatifs à cet article**
 
@@ -34929,23 +34944,22 @@ de l'industrie.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
 
 ###### Article D1411-20
 
-L'inspecteur des armements nucléaires possède des attributions particulières en matière de sécurité nucléaire.
+L'inspecteur des armements nucléaires est destinataire de tous les comptes rendus d'inspection ou d'audit émis par les
+instances de contrôle ou tout autre organisme mandatés par les différents ministères dans les domaines du contrôle
+gouvernemental de l'intégrité des moyens concourant à la dissuasion.
 
-Il est adjoint au délégué à la sûreté nucléaire et à la radioprotection des installations et activités intéressant la défense
-et dirige l'action des inspecteurs mis à la disposition du délégué par le ministre de la défense et le ministre chargé de
-l'industrie.
-
-Il s'assure de la bonne exécution et de l'efficacité des mesures de protection et de contrôle des matières nucléaires dans le
-domaine de la défense définies par le chapitre 3 du titre III du livre III de la présente partie. Il exerce son action :
-
-1° Directement, dans le domaine de compétence du ministre de la défense et dans les domaines de compétences partagées du
-ministre de la défense et du ministre chargé de l'industrie ;
-
-2° Par l'intermédiaire du haut fonctionnaire de défense et de sécurité dans le domaine de compétence du ministre chargé de
-l'industrie.
+Il est consulté pour l'élaboration des programmes annuels d'inspection dont il est rendu destinataire.
 
 **Liens relatifs à cet article**
 
@@ -34958,11 +34972,22 @@ l'industrie.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
 
 ###### Article D1411-21
 
-Les moyens affectés à l'inspecteur des armements nucléaires sont fixés par un arrêté du ministre de la défense, après accord
-du ministre chargé de l'industrie pour ceux d'entre eux provenant du Commissariat à l'énergie atomique.
+L'inspecteur des armements nucléaires rend compte de ses activités au Président de la République et en tient informé le
+Premier ministre.
+
+Il en informe également, dans le domaine de leurs compétences respectives, le ministre de la défense et le ministre chargé de
+l'industrie.
 
 **Liens relatifs à cet article**
 
@@ -34974,6 +34999,34 @@ du ministre chargé de l'industrie pour ceux d'entre eux provenant du Commissari
 	**Codifié par**:
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+
+###### Article D1411-22
+
+Les moyens affectés à l'inspecteur des armements nucléaires sont fixés par arrêté du ministre de la défense, après accord, le
+cas échéant, des ministres concernés par les moyens relevant de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+	**Créé par**:
+
+	  - Décret n°2007-1107 du 16 juillet 2007 - art. 1 () JORF 18 juillet 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
 
 
 #### TITRE II : DÉFENSE OPÉRATIONNELLE DU TERRITOIRE

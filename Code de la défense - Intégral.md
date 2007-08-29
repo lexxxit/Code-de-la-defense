@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-08-12
+Version Consolidée au 2007-08-30
 
 # Partie législative
 
@@ -35107,20 +35107,27 @@ littorales et maritimes où la France dispose de droits d'exploitation.
 
 ###### Article D*1432-1
 
-La défense maritime du territoire incombe au commandement maritime sous l'autorité du chef d'état-major des armées. Elle est
-dirigée à l'échelon des régions maritimes par les commandants de région maritime et à l'échelon local par les autorités
-maritimes qui leur sont subordonnées.
+La défense maritime du territoire incombe, sous l'autorité du chef d'état-major des armées, au commandement de zone maritime
+en métropole et au commandant supérieur dans les départements et régions d'outre-mer, dans les collectivités d'outre-mer
+régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 74 (V)
+
 	**Anciens textes**:
 
-	  - Décret n°73-237 du 2 mars 1973 - art. 2 (M)
 	  - Décret n°73-237 du 2 mars 1973 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2007-1285 du 29 août 2007 - art. 1 () JORF 30 août 2007
 
 
 ###### Article D*1432-2
@@ -35147,9 +35154,9 @@ territoire.
 
 ###### Article D*1432-3
 
-Les plans de défense maritime du territoire sont établis par les commandants de région maritime en liaison avec les préfets
-des zones de défense riveraines et les commandants désignés de ces zones. Ils prévoient à tous les échelons des mesures de
-coordination avec les plans de défense aérienne.
+Les plans de défense maritime du territoire sont établis par les autorités responsables de la défense maritime du territoire
+en liaison avec les préfets des zones de défense riveraines et les commandants désignés de ces zones. Ils prévoient à tous
+les échelons des mesures de coordination avec les plans de défense aérienne.
 
 Ils sont soumis pour approbation au chef d'état-major des armées.
 
@@ -35164,11 +35171,15 @@ Ils sont soumis pour approbation au chef d'état-major des armées.
 
 	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1285 du 29 août 2007 - art. 2 () JORF 30 août 2007
+
 
 ###### Article D*1432-4
 
 Des liaisons sont établies entre, d'une part, les préfets des zones de défense et les commandants désignés de ces zones et,
-d'autre part, les commandants de région maritime. Ces liaisons permettent :
+d'autre part, les autorités responsables de la défense maritime du territoire. Ces liaisons permettent :
 
 1° D'assurer la cohérence des plans ;
 
@@ -35178,9 +35189,10 @@ d'autre part, les commandants de région maritime. Ces liaisons permettent :
 
 4° De préparer la coordination de leur emploi.
 
-Les moyens navals des formations militaires qui n'appartiennent pas à la marine ainsi que ceux des administrations opérant en
-mer participent à la défense maritime du territoire en faisant parvenir au commandement maritime, qui peut les orienter à cet
-effet, les renseignements intéressant la défense qu'ils recueilleraient.
+Les moyens des formations militaires qui n'appartiennent pas à la marine ainsi que ceux des administrations opérant en mer
+participent à la défense maritime du territoire en faisant parvenir aux autorités responsables de la défense maritime du
+territoire, selon les orientations données à cet effet par ces autorités, les renseignements intéressant la défense qu'ils
+recueilleraient.
 
 **Liens relatifs à cet article**
 
@@ -35193,18 +35205,22 @@ effet, les renseignements intéressant la défense qu'ils recueilleraient.
 
 	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1285 du 29 août 2007 - art. 3 () JORF 30 août 2007
+
 
 ###### Article D*1432-5
 
-Lorsque les mesures de défense opérationnelle du territoire sont mises en oeuvre sur décision du Premier ministre, prises en
-application de l'article L. 1111-2 :
+Lorsque les mesures de défense opérationnelle du territoire sont mises en oeuvre ou sur décision du Gouvernement, prises en
+application des articles L. 1111-2 et L. 2141-1 à L. 2142-3 du code de la défense : 
 
 1° Les liaisons sont renforcées à tous les niveaux, afin d'assurer l'unité d'action nécessaire dans la conduite des diverses
-formes de défense ;
+formes de défense ; 
 
-2° Les moyens navals des formations militaires qui n'appartiennent pas à la marine ainsi que ceux des administrations opérant
-en mer sont mis, pour emploi, à la disposition des autorités maritimes, selon des modalités fixées par les instructions
-interministérielles.
+2° Les moyens des formations militaires qui n'appartiennent pas à la marine ainsi que ceux des administrations opérant en mer
+sont mis, pour emploi, à la disposition des autorités responsables de la défense maritime du territoire, selon des modalités
+fixées par des instructions interministérielles.
 
 **Liens relatifs à cet article**
 
@@ -35218,31 +35234,14 @@ interministérielles.
 
 	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
 
+	**Modifié par**:
+
+	  - Décret n°2007-1285 du 29 août 2007 - art. 4 () JORF 30 août 2007
+
 	**Cite**:
 
 	  - Code de la défense. - art. L1111-2 (V)
-
-
-###### Article D*1432-6
-
-Lorsque des opérations combinées à caractère limité intéressant une seule zone de défense ont lieu sur des portions
-terrestres et maritimes du littoral, le commandant de cette zone, en accord avec le commandant de région maritime concerné,
-est habilité à mettre en place un commandement unique pour la conduite de ces opérations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-237 du 2 mars 1973 - art. 6 (M)
-	  - Décret n°73-237 du 2 mars 1973 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1285 du 29 août 2007 - art. 5 () JORF 30 août 2007
+	  - Code de la défense. - art. L2141-1 (V)
 
 
 #### TITRE IV : DÉFENSE AÉRIENNE
@@ -37652,34 +37651,6 @@ mer, les directives du Premier ministre.
 
 
 ##### Section 3 : Attributions des commandants supérieurs.
-
-###### Article D*1681-13
-
-Les responsabilités de défense maritime du territoire dans les eaux côtières sont exercées par les commandants de la marine
-sous l'autorité des commandants supérieurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-237 1973-03-02 art. 7 al. 2
-	  - Décret n°73-237 du 2 mars 1973 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1285 du 29 août 2007 - art. 5 () JORF 30 août 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*1631-5 (VD)
-	  - Code de la défense. - art. D*1641-4 (VD)
-	  - Code de la défense. - art. D*1651-5 (VD)
-	  - Code de la défense. - art. D*1661-5 (VD)
-
 
 ###### Article D*1681-14
 

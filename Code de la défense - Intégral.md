@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-01
 
 # Partie législative
 
@@ -6561,18 +6561,17 @@ Les règles relatives aux archives de la défense sont définies par les article
 ###### Article L2313-2
 
 Les règles relatives au régime d'exemption du permis de construire applicables aux installations intéressant la défense
-nationale sont définies par les articles L. 422-1 et L. 422-2 du code de l'urbanisme.
+nationale sont définies par l'article L. 421-4 et par le c de l'article L. 421-5 du code de l'urbanisme.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entre en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entre en vigueur à des dates fixées par décret en
+Conseil d'Etat et au plus tard le 1er juillet 2007.
 
-NOTA : Décret 2007-18 du 5 janvier 2007 art. 26 : L'ordonnance 2005-1527 du 8 décembre 2005 entre en vigueur le 1er juillet
-2007.
+Décret 2007-18 du 5 janvier 2007 art. 26 : L'ordonnance 2005-1527 du 8 décembre 2005 entre en vigueur le 1er juillet 2007.
 
-NOTA : La loi 2007-209 du 19 février 2007 art. 72 a changé la date limite d'entrée en vigueur de l'ordonnance n° 2005-1527
-qui passe du 1er juillet 2007 au 1er octobre 2007.
+La loi 2007-209 du 19 février 2007 art. 72 a changé la date limite d'entrée en vigueur de l'ordonnance n° 2005-1527 qui passe
+du 1er juillet 2007 au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -6581,14 +6580,18 @@ qui passe du 1er juillet 2007 au 1er octobre 2007.
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 33 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
 	**Cité par**:
 
 	  - Code de la défense. - art. L2431-5 (Ab)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L422-1 (M)
-	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. L421-4 (V)
+	  - Code de l'urbanisme - art. L421-5 (V)
 
 
 ##### Sous-section 2 : Installations classées.
@@ -12618,37 +12621,6 @@ dès que possible, au ministre de l'outre-mer et au ministre chargé des transpo
 	**Cite**:
 
 	  - Code de la défense. - art. L1311-1 (V)
-
-
-###### Article L2431-5
-
-Pour l'application des dispositions de l'article L. 2313-2, la référence aux dispositions du code de l'urbanisme est
-remplacée par la référence à l'article L. 421 du code de l'urbanisme applicable à Mayotte.
-
-**Nota:**
-
-NOTA : Ordonnance 2005-1527 2005-12-08 art. 41 : La présente ordonnance entre en vigueur à des dates fixées par décret en
-Conseil d'Etat et au plus tard le 1er juillet 2007.    NOTA : Décret 2007-18 du 5 janvier 2007 art. 26 : L'ordonnance
-2005-1527 du 8 décembre 2005 entre en vigueur le 1er juillet 2007.
-
-NOTA : La loi 2007-209 du 19 février 2007 art. 72 a changé la date limite d'entrée en vigueur de l'ordonnance n° 2005-1527
-qui passe du 1er juillet 2007 au 1er octobre 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 33 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2313-2 (M)
-	  - Code de l'urbanisme L421
 
 
 ###### Article L2431-6

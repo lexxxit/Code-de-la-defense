@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-10-30
 
 # Partie législative
 
@@ -8828,27 +8828,31 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 
 ###### Article L2339-11
 
-Est puni d'une amende de 3 750 Euros et d'un emprisonnement de deux ans l'usage, par une personne non qualifiée, du poinçon
-mentionné dans l'article L. 2335-4.
+Est puni d'une amende de 3 750 euros et d'un emprisonnement de deux ans l'usage, par une personne non qualifiée, du poinçon
+mentionné dans l'article L. 2335-4. 
 
-Les contrefaçons d'un poinçon d'épreuve ou du poinçon d'exportation et l'usage frauduleux des poinçons contrefaits sont punis
-d'une amende de 3 750 Euros et d'un emprisonnement de cinq ans.
+Les contrefaçons d'un poinçon d'épreuve ou du poinçon d'exportation et l'usage frauduleux des poinçons contrefaisants sont
+punis d'une amende de 3 750 euros et d'un emprisonnement de cinq ans.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 art. 27, alinéas 2 et 3
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 27 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+
 	**Cite**:
 
 	  - Code de la défense. - art. L2335-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 27, alinéas 2 et 3
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 27 (Ab)
 
 
 ##### Section 6 : Sanctions pénales de la récidive

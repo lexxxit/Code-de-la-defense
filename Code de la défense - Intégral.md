@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-04-26
+Version Consolidée au 2008-05-28
 
 # Partie législative
 
@@ -2764,6 +2764,46 @@ dispositions ayant le même objet applicables localement.
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
+#### TITRE VIII : DISPOSITIONS PARTICULIÈRES   À SAINT-BARTHÉLEMY ET À SAINT-MARTIN
+
+##### Chapitre Ier : Saint-Barthélemy
+
+###### Article L1681-1
+
+Pour l'application de la présente partie à Saint-Barthélemy : 
+
+1° Les mots : " préfet " ou : " autorité préfectorale " sont remplacés par les mots : " représentant de l'Etat " ; 
+
+2° Les mots : " dans chaque département " sont remplacés par les mots : " à Saint-Barthélemy " ; 
+
+3° Le mot : " préfectoral " est remplacé par les mots : " du représentant de l'Etat ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
+
+
+##### Chapitre II : Saint-Martin
+
+###### Article L1682-1
+
+Pour l'application de la présente partie à Saint-Martin : 
+
+1° Les mots : " préfet " ou : " autorité préfectorale " sont remplacés par les mots : " représentant de l'Etat " ; 
+
+2° Les mots : " dans chaque département " sont remplacés par les mots : " à Saint-Martin " ; 
+
+3° Le mot : " préfectoral " est remplacé par les mots : " du représentant de l'Etat ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
+
+
 ## PARTIE 2 : REGIMES JURIDIQUES DE DEFENSE
 
 ### LIVRE Ier : RÉGIMES D'APPLICATION EXCEPTIONNELLE
@@ -4948,27 +4988,17 @@ privilèges que sur les marchandises et objets réquisitionnés.
 ###### Article L2231-1
 
 Les règles relatives au respect des sujétions imposées par la défense nationale aux collectivités territoriales sont définies
-à l'article L. 1111-7 du code général des collectivités territoriales ci-après reproduit :
-
-" Art. L. 1111-7 du code général des collectivités territoriales.
-
-Les collectivités territoriales exercent leurs compétences propres dans le respect des sujétions imposées par la défense
-nationale.
-
-A cet égard, la répartition des compétences prévue par la loi ne fait pas obstacle à ce que les autorités de l'Etat puissent
-prendre, à l'égard des collectivités territoriales, de leurs établissements publics et de leurs groupements, les mesures
-nécessaires à l'exercice de leurs attributions en matière de défense, telles qu'elles résultent notamment du code de la
-défense.
-
-A ce titre, l'Etat dispose en tant que de besoin des services des communes, des départements, des régions, de leurs
-groupements et de leurs établissements publics. "
+à l' article L. 1111-7 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-7
 
 	**Cité par**:
 
@@ -6686,37 +6716,37 @@ titre III de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'écono
 ###### Article L2331-1
 
 Les matériels de guerre, armes et munitions et éléments désignés par les dispositions du présent titre et relatives au régime
-des matériels de guerre, armes et munitions sont classés dans les catégories ci-après :
+des matériels de guerre, armes et munitions sont classés dans les catégories ci- après : 
 
-I. - Matériels de guerre :
+I.- Matériels de guerre : 
 
-1re catégorie : armes à feu et leurs munitions conçues pour ou destinées à la guerre terrestre, navale ou aérienne.
+1re catégorie : armes à feu et leurs munitions conçues pour ou destinées à la guerre terrestre, navale ou aérienne. 
 
-2e catégorie : matériels destinés à porter ou à utiliser au combat les armes à feu.
+2e catégorie : matériels destinés à porter ou à utiliser au combat les armes à feu. 
 
-3e catégorie : matériels de protection contre les gaz de combat.
+3e catégorie : matériels de protection contre les gaz de combat. 
 
-II. - Armes et munitions non considérées comme matériels de guerre :
+II.- Armes et munitions non considérées comme matériels de guerre : 
 
-4e catégorie : armes à feu dites de défense et leurs munitions.
+4e catégorie : armes à feu dites de défense et leurs munitions. 
 
-5e catégorie : armes de chasse et leurs munitions.
+5e catégorie : armes de chasse et leurs munitions. 
 
-6e catégorie : armes blanches.
+6e catégorie : armes blanches. 
 
-7e catégorie : Armes de tir, de foire ou de salon et leurs munitions.
+7e catégorie : Armes de tir, de foire ou de salon et leurs munitions. 
 
-8e catégorie : Armes et munitions historiques et de collection.
+8e catégorie : Armes et munitions historiques et de collection. 
 
-III. - Les matériels, appartenant ou non aux précédentes catégories, qui sont soumis à des restrictions ou à une procédure
-spéciale pour l'importation ou l'exportation sont définis aux articles L. 2335-1 et L. 2335-3.
+III.- Les matériels, appartenant ou non aux précédentes catégories, qui sont soumis à des restrictions ou à une procédure
+spéciale pour l' importation ou l' exportation sont définis aux articles L. 2335- 1 et L. 2335- 3. 
 
 Les armes de toute espèce qui peuvent tirer des munitions utilisables dans des armes classées matériel de guerre, et les
 munitions de toute espèce qui peuvent être tirées dans des armes classées matériel de guerre sont considérées comme des
-matériels de guerre.
+matériels de guerre. 
 
 Un décret énumère les matériels ou éléments de chaque catégorie et les opérations industrielles y afférentes rentrant dans le
-champ d'application du présent décret.
+champ d' application du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -6752,14 +6782,12 @@ champ d'application du présent décret.
 	  - Code général de la propriété des personnes publ... - art. R3211-35 (V)
 	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 1
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 1 (Ab)
 
 
@@ -13177,6 +13205,48 @@ dispositions ayant le même objet applicables localement.
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
+#### TITRE VIII : DISPOSITIONS PARTICULIÈRES   À SAINT-BARTHÉLEMY ET À SAINT-MARTIN
+
+##### Chapitre Ier : Saint-Barthélemy
+
+###### Article L2481-1
+
+Pour l'application de la présente partie à Saint-Barthélemy : 
+
+1° Le mot : " préfet " est remplacé par les mots : " représentant de l'Etat " ; 
+
+2° Le mot : " département " est remplacé par les mots : " à Saint-Barthélemy " ; 
+
+3° Les mots : " tribunal d'instance " et : " tribunal de grande instance " sont remplacés par les mots : " tribunal de
+première instance ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
+
+
+##### Chapitre II : Saint-Martin
+
+###### Article L2482-1
+
+Pour l'application de la présente partie à Saint-Martin : 
+
+1° Le mot : " préfet " est remplacé par les mots : " représentant de l'Etat " ; 
+
+2° Le mot : " département " est remplacé par les mots : " à Saint-Martin " ; 
+
+3° Les mots : " tribunal d'instance " et : " tribunal de grande instance " sont remplacés par les mots : " tribunal de
+première instance ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
+
+
 ## PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE
 
 ### LIVRE Ier : L'ADMINISTRATION CENTRALE
@@ -13388,77 +13458,14 @@ ses élèves, sont définies par les articles L. 675-1 et L. 755-1 à L. 755-3 d
 	  - Code de l'éducation - art. L755-1 (V)
 
 
-##### Chapitre 3 : Autres établissements publics à caractère administratif.
-
-###### Article L3413-1
-
-Les règles relatives aux missions et à l'organisation de l'Office national des anciens combattants et victimes de guerre sont
-définies par les articles L. 517 à L. 519 du code des pensions militaires d'invalidité et des victimes de la guerre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
-
-	**Cite**:
-
-	  - Code des pensions militaires d'invalidité et de... - art. L517 (V)
-
-
-###### Article L3413-2
-
-Les règles relatives aux missions et à l'organisation de l'Institution nationale des invalides sont définies par les articles
-L. 528 à L. 537 du code des pensions militaires d'invalidité et des victimes de la guerre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
-
-	**Cite**:
-
-	  - Code des pensions militaires d'invalidité et de... - art. L528 (V)
-
-
-###### Article L3413-3
-
-Les règles relatives aux missions et à l'organisation de la Caisse nationale militaire de sécurité sociale sont définies par
-les articles L. 713-19 à L. 713-22 du code de la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L713-19 (V)
-
-
 ##### Chapitre 4 : Etablissement public d'insertion de la défense.
+
+##### Chapitre IV : Etablissement public d'insertion de la défense
 
 ###### Article L3414-1
 
 L'établissement public d'insertion de la défense est un établissement public de l'Etat placé sous la tutelle du ministre de
-la défense et du ministre chargé de l'emploi.
+la défense, du ministre chargé de l' emploi et du ministre chargé de la ville.
 
 Il a pour objet l'insertion sociale et professionnelle des jeunes sans diplômes ou sans titres professionnels ou en voie de
 marginalisation sociale.
@@ -13475,15 +13482,6 @@ de participation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
 	**Cité par**:
 
 	  - Arrêté du 17 décembre 2007 (Ab)
@@ -13498,6 +13496,10 @@ de participation.
 	  - Code de la sécurité sociale. - art. L851-1 (V)
 	  - Code de la sécurité sociale. - art. R372-3 (V)
 	  - Code du service national - art. L130-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 
 ###### Article L3414-2
@@ -13553,38 +13555,38 @@ voie de détachement ou de mise à disposition.
 
 ###### Article L3414-5
 
-Les ressources de l'établissement public d'insertion de la défense sont constituées par :
+Les ressources de l'établissement public d'insertion de la défense sont constituées par : 
 
 1° Les subventions, avances, fonds de concours, dotations et participations de l'Etat, de la Communauté européenne, des
-collectivités territoriales, des établissements publics ou de toute autre personne morale ;
+collectivités territoriales, des établissements publics ou de toute autre personne morale ; 
 
-2° Les dons et legs ;
+2° Les dons et legs ; 
 
-3° Le produit de la taxe d'apprentissage et les ressources provenant de l'application de la législation sur la formation
-professionnelle continue ;
+3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre du 4° du II de l'article 1er de la loi n°
+71-578 du 16 juillet 1971 sur la participation des employeurs au financement des premières formations technologiques et
+professionnelles et les ressources provenant de l'application de la législation sur la formation professionnelle continue ; 
 
-4° Les produits des activités de l'établissement ;
+4° Les produits des activités de l'établissement ; 
 
-5° Les produits des contrats et conventions ;
+5° Les produits des contrats et conventions ; 
 
-6° Les revenus des biens meubles et immeubles, fonds et valeurs ;
+6° Les revenus des biens meubles et immeubles, fonds et valeurs ; 
 
-7° Les produits des aliénations ;
+7° Les produits des aliénations ; 
 
-8° Le produit des emprunts ;
+8° Le produit des emprunts ; 
 
 9° Les immeubles qui lui sont apportés en dotation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°71-578 du 16 juillet 1971 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Loi n°2008-493 du 26 mai 2008 - art. 5
 
 
 ###### Article L3414-6
@@ -13653,6 +13655,84 @@ travail, nonobstant les dispositions du cinquième alinéa du I de cet article.
 	**Cite**:
 
 	  - Code du travail - art. L322-4-7 (Ab)
+
+
+##### Chapitre VIII : Autres établissements publics à caractère administratif
+
+###### Article L3418-1
+
+Les règles relatives aux missions et à l'organisation de l'Office national des anciens combattants et victimes de guerre sont
+définies par les articles L. 517 à L. 519 du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Cité par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 45 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. L3419-1 (V)
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L517
+
+
+###### Article L3418-2
+
+Les règles relatives aux missions et à l'organisation de l'Institution nationale des invalides sont définies par les articles
+L. 528 à L. 537 du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. L3419-2 (V)
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L528
+
+
+###### Article L3418-3
+
+Les règles relatives aux missions et à l'organisation de la Caisse nationale militaire de sécurité sociale sont définies par
+les articles L. 713-19 à L. 713-22 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. L3419-3 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L713-19
 
 
 #### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL
@@ -14312,26 +14392,29 @@ protection des militaires en opération, l'exécution de leur mission ou la séc
 
 ###### Article L4121-3
 
-Il est interdit aux militaires en activité de service d'adhérer à des groupements ou associations à caractère politique.
+Il est interdit aux militaires en activité de service d' adhérer à des groupements ou associations à caractère politique. 
 
 Sous réserve des inéligibilités prévues par la loi, les militaires peuvent être candidats à toute fonction publique
-élective ; dans ce cas, l'interdiction d'adhésion à un parti politique prévue au premier alinéa est suspendue pour la durée
-de la campagne électorale. En cas d'élection et d'acceptation du mandat, cette suspension est prolongée pour la durée du
-mandat.
+élective ; dans ce cas, l' interdiction d' adhésion à un parti politique prévue au premier alinéa est suspendue pour la durée
+de la campagne électorale. En cas d' élection et d' acceptation du mandat, cette suspension est prolongée pour la durée du
+mandat. 
 
-Les militaires qui sont élus et qui acceptent leur mandat sont placés dans la position de détachement prévue à l'article L.
-4138-7.
+Les militaires qui sont élus et qui acceptent leur mandat sont placés dans la position de détachement prévue à l' article L.
+4138- 8.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 5
 	  - Loi n°2005-270 du 24 mars 2005 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-8
 
 	**Cité par**:
 
@@ -14370,20 +14453,27 @@ hiérarchique, de tout problème de caractère général qui parviendrait à sa 
 
 Les militaires peuvent être appelés à servir en tout temps et en tout lieu.
 
+Dans toute la mesure compatible avec le bon fonctionnement du service, les mutations tiennent compte de la situation de
+famille des militaires, notamment lorsque, pour des raisons professionnelles, ils sont séparés : 
+
+1° De leur conjoint ; 
+
+2° Ou du partenaire avec lequel ils sont liés par un pacte civil de solidarité, lorsqu' ils produisent la preuve qu' ils se
+soumettent à l' obligation d' imposition commune prévue par le code général des impôts ; 
+
 La liberté de résidence des militaires peut être limitée dans l'intérêt du service.
 
 Lorsque les circonstances l'exigent, la liberté de circulation des militaires peut être restreinte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 7
 	  - Loi n°2005-270 du 24 mars 2005 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Cité par**:
 
@@ -14479,24 +14569,45 @@ La responsabilité propre des subordonnés ne dégage leurs supérieurs d'aucune
 ###### Article L4122-2
 
 Les militaires en activité ne peuvent exercer à titre professionnel une activité privée lucrative de quelque nature que ce
-soit. Les conditions dans lesquelles il peut être exceptionnellement dérogé à cette interdiction sont fixées par décret en
-Conseil d'Etat.
+soit. 
+
+Sont interdites, y compris si elles sont à but non lucratif, les activités privées suivantes : 
+
+1° La participation aux organes de direction de sociétés ou d'associations ne satisfaisant pas aux conditions fixées au b du
+1° du 7 de l'article 261 du code général des impôts ; 
+
+2° Le fait de donner des consultations, de procéder à des expertises et de plaider en justice dans les litiges intéressant
+toute personne publique, le cas échéant devant une juridiction étrangère ou internationale, sauf si cette prestation s'exerce
+au profit d'une personne publique. 
 
 Les militaires ne peuvent avoir par eux-mêmes ou par personne interposée, sous quelque forme que ce soit, lorsqu'ils sont en
 activité et pendant le délai fixé à l'article 432-13 du code pénal à compter de la cessation de leurs fonctions, dans les
 entreprises soumises à leur surveillance ou à leur contrôle ou avec lesquelles ils ont négocié des contrats de toute nature,
-des intérêts de nature à compromettre leur indépendance.
+des intérêts de nature à compromettre leur indépendance. 
+
+Ils peuvent toutefois être autorisés à exercer, dans des conditions fixées par décret en Conseil d'Etat, à titre accessoire,
+une activité, lucrative ou non, auprès d'une personne ou d'un organisme public ou privé, dès lors que cette activité est
+compatible avec les fonctions qui leur sont confiées et n'affecte pas leur exercice. 
+
+Les militaires peuvent librement détenir des parts sociales et percevoir les bénéfices qui s'y attachent. Ils gèrent
+librement leur patrimoine personnel ou familial. 
+
+La production des œuvres de l'esprit au sens des articles L.112-1, L.112-2 et L.112-3 du code de la propriété intellectuelle
+s'exerce librement, dans le respect des dispositions relatives au droit d'auteur des agents publics et sous réserve du
+respect des dispositions du troisième alinéa de l'article L.4121-2 du présent code. 
+
+Sans préjudice de l'application de l'article 432-12 du code pénal, la violation du présent article donne lieu au versement
+des sommes indûment perçues, par voie de retenue sur la solde.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 9
 	  - Loi n°2005-270 du 24 mars 2005 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Cité par**:
 
@@ -14510,6 +14621,16 @@ des intérêts de nature à compromettre leur indépendance.
 	  - Code de la défense. - art. R4122-25 (V)
 	  - Code de la défense. - art. R4122-26 (V)
 	  - Code de la défense. - art. R4122-32 (V)
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L112-1
+	  - Code de la propriété intellectuelle - art. L112-2
+	  - Code de la propriété intellectuelle - art. L112-3
+	  - Code général des impôts, CGI. - art. 261
+	  - Code pénal - art. 432-12
+	  - Code pénal - art. 432-13
+	  - Code de la défense. - art. L4121-2
 
 
 ##### Chapitre III : Rémunération, garanties et protections
@@ -14652,34 +14773,30 @@ Les modalités d'application du présent article sont fixées par décret au Con
 
 ###### Article L4123-4
 
-Les militaires participant à des opérations extérieures ainsi que leurs ayants cause bénéficient :
+Les militaires participant à des opérations extérieures ainsi que leurs ayants cause bénéficient : 
 
-1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l'article L. 43, des articles
-L. 136 bis, L. 393 à L. 396, L. 461 à L. 490, L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d'invalidité
-et des victimes de la guerre ;
+1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l' article L. 43, des articles
+L. 136 bis, L. 393 à L. 396, 
+L. 461 à L. 490, 
+L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d' invalidité et des victimes de la guerre ; 
 
-2° Des dispositions prévues en matière de blessures de guerre et de délégation de solde ;
+2° Des dispositions prévues en matière de blessures de guerre et de délégation de solde ; 
 
-3° Des dispositions de l'article L. 37 du même code pour les blessures ou les maladies contractées au cours de ces opérations
-dès lors que sont remplies les conditions relatives à la nature ou à la gravité de l'infirmité ou des infirmités définies à
-cet article ;
+3° Des dispositions de l' article L. 37 du même code pour les blessures ou les maladies contractées au cours de ces
+opérations dès lors que sont remplies les conditions relatives à la nature ou à la gravité de l' infirmité ou des infirmités
+définies à cet article ; 
 
-4° Des dispositions de l'article L. 36 du même code, lorsque les conditions définies à cet article sont remplies.
+4° Des dispositions de l' article L. 36 du même code, lorsque les conditions définies à cet article sont remplies. 
 
-Le champ d'application de chaque opération est défini par voie réglementaire.
+Le champ d' application de chaque opération est défini par arrêté interministériel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°55-1074 du 6 août 1955 - art. 1, v. init.
-	  - Loi n°55-1074 du 6 août 1955 - art. 2 (Ab)
 	  - Loi n°55-1074 du 6 août 1955 - art. 1 (Ab)
+	  - Loi n°55-1074 du 6 août 1955 - art. 2 (Ab)
 	  - Loi n°2005-270 du 24 mars 2005 - art. 98 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 
 	**Cité par**:
 
@@ -14720,6 +14837,28 @@ Le champ d'application de chaque opération est défini par voie réglementaire.
 	  - Code des pensions civiles et militaires de retr... - art. R17 bis (V)
 	  - Code des pensions militaires d'invalidité et de... - art. A187 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L121-2 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L12
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L13
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L136 bis
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L15
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L2
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L3
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L393
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L43
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L461
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L493
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L5
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L515
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L520
 
 
 ###### Article L4123-5
@@ -14780,21 +14919,20 @@ L. 4123-10, du deuxième alinéa des articles L. 4138-11 et L. 4138-12, dans des
 
 ###### Article L4123-7
 
-Les militaires ayant servi en vertu d'un contrat qui sont involontairement privés d'emploi ont droit à un revenu de
-remplacement, sous forme d'allocation de chômage attribuée dans les conditions fixées par le code du travail.
+Les militaires qui quittent le service et qui sont involontairement privés d'emploi ont droit à un revenu de remplacement,
+sous forme d'allocation de chômage attribuée dans les conditions fixées par le code du travail.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 13
 	  - Loi n°2005-270 du 24 mars 2005 - art. 13 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Cité par**:
 
@@ -16056,41 +16194,41 @@ Le militaire à l'encontre duquel une procédure de sanction est engagée a droi
 
 ###### Article L4137-2
 
-Les sanctions disciplinaires applicables aux militaires sont réparties en trois groupes :
+Les sanctions disciplinaires applicables aux militaires sont réparties en trois groupes : 
 
-1° Les sanctions du premier groupe sont :
+1° Les sanctions du premier groupe sont : 
 
-a) L'avertissement ;
+a) L'avertissement ; 
 
-b) La consigne ;
+b) La consigne ; 
 
-c) La réprimande ;
+c) La réprimande ; 
 
-d) Le blâme ;
+d) Le blâme ; 
 
-e) Les arrêts ;
+e) Les arrêts ; 
 
-f) Le blâme du ministre ;
+f) Le blâme du ministre ; 
 
-2° Les sanctions du deuxième groupe sont :
+2° Les sanctions du deuxième groupe sont : 
 
-a) L'exclusion temporaire de fonctions pour une durée maximale de cinq jours privative de toute rémunération ;
+a) L'exclusion temporaire de fonctions pour une durée maximale de cinq jours privative de toute rémunération ; 
 
-b) L'abaissement temporaire ou définitif d'échelon ;
+b) L'abaissement temporaire d'échelon ; 
 
-c) La radiation du tableau d'avancement ;
+c) La radiation du tableau d'avancement ; 
 
-3° Les sanctions du troisième groupe sont :
+3° Les sanctions du troisième groupe sont : 
 
-a) Le retrait d'emploi, défini par les dispositions de l'article L. 4138-15 ;
+a) Le retrait d'emploi, défini par les dispositions de l'article L.4138-15 ; 
 
-b) La radiation des cadres ou la résiliation du contrat.
+b) La radiation des cadres ou la résiliation du contrat. 
 
 Les sanctions disciplinaires ne peuvent se cumuler entre elles à l'exception des arrêts qui peuvent être appliqués dans
-l'attente du prononcé de l'une des sanctions des deuxième et troisième groupes qu'il est envisagé d'infliger.
+l'attente du prononcé de l'une des sanctions des deuxième et troisième groupes qu'il est envisagé d'infliger. 
 
 En cas de nécessité, les arrêts et les consignes sont prononcés avec effet immédiat. Les arrêts avec effet immédiat peuvent
-être assortis d'une période d'isolement.
+être assortis d'une période d'isolement. 
 
 Les conditions d'application du présent article font l'objet d'un décret en Conseil d'Etat.
 
@@ -16108,14 +16246,17 @@ Les conditions d'application du présent article font l'objet d'un décret en Co
 	  - Code de la défense. - art. R3321-3 (V)
 	  - Code de la défense. - art. R3322-1 (M)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 41
 	  - Loi n°2005-270 du 24 mars 2005 - art. 41 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-15
 
 
 ###### Article L4137-3
@@ -16164,20 +16305,25 @@ règles de la procédure qui leur sont applicables.
 
 ###### Article L4137-4
 
-Les autorités habilitées à cet effet prononcent les sanctions disciplinaires et professionnelles prévues aux articles L.
-4137-1 et L. 4137-2, après consultation, s'il y a lieu, de l'un des conseils prévus à l'article L. 4137-3. Toutefois, la
-radiation des cadres ne peut être prononcée que par l'autorité de nomination.
+Le ministre de la défense ou les autorités habilitées à cet effet prononcent les sanctions disciplinaires et professionnelles
+prévues aux articles L.4137-1 et L.4137-2, après consultation, s'il y a lieu, de l'un des conseils prévus à l'article
+L.4137-3. Toutefois, la radiation des cadres ne peut être prononcée que par l'autorité de nomination.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 43
 	  - Loi n°2005-270 du 24 mars 2005 - art. 43 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4137-1
+	  - Code de la défense. - art. L4137-2
+	  - Code de la défense. - art. L4137-3
 
 	**Cité par**:
 
@@ -16265,34 +16411,36 @@ Tout militaire est placé dans l'une des positions suivantes :
 
 ###### Article L4138-2
 
-L'activité est la position du militaire qui occupe un emploi de son grade.
+L'activité est la position du militaire qui occupe un emploi de son grade. 
 
-Reste dans cette position le militaire :
+Reste dans cette position le militaire : 
 
-1° Qui bénéficie :
+1° Qui bénéficie : 
 
-a) De congés de maladie ;
+a) De congés de maladie ; 
 
-b) De congés pour maternité, paternité ou adoption ;
+b) De congés pour maternité, paternité ou adoption ; 
 
-c) De permissions ou de congés de fin de campagne ;
+c) De permissions ou de congés de fin de campagne ; 
 
-d) De congés d'accompagnement d'une personne en fin de vie ;
+d) De congés d'accompagnement d'une personne en fin de vie ; 
 
-e) D'un congé de reconversion ;
+e) D'un congé de reconversion ; 
 
-f) De congés de présence parentale ;
+f) De congés de présence parentale ; 
 
 2° Qui est affecté, pour une durée limitée, dans l'intérêt du service, auprès d'une administration de l'Etat, d'un
-établissement public, d'une collectivité territoriale, d'une organisation internationale, ou d'une association ou, dans
-l'intérêt de la défense, auprès d'une entreprise. Cette affectation doit s'effectuer dans le respect des dispositions prévues
-à l'article L. 4122-2. Les conditions et modalités de son affectation sont fixées par décret en Conseil d'Etat.
+établissement public à caractère administratif ne relevant pas de la tutelle du ministre de la défense, d'un établissement
+public à caractère industriel et commercial, d'une collectivité territoriale, d'une organisation internationale, d'une
+association, d'une mutuelle ou, dans l'intérêt de la défense, auprès d'une entreprise. Cette affectation doit s'effectuer
+dans le respect des dispositions prévues à l'article L. 4122-2. Les conditions et modalités de son affectation sont fixées
+par décret en Conseil d'Etat. 
 
 Le militaire dans l'une des situations de la position d'activité conserve sa rémunération, à l'exception de celui placé en
 congé d'accompagnement d'une personne en fin de vie ou en congé de présence parentale.
 
 A l'exception du congé de présence parentale, la durée de chacune des situations de la position d'activité est assimilée à
-une période de service effectif.
+une période de service effectif. 
 
 Le militaire servant en vertu d'un contrat, placé dans l'un des congés de la position d'activité voit, si nécessaire, son
 contrat prorogé jusqu'à la date d'expiration de ce congé, dans la limite de la durée de service, à l'exception des
@@ -16382,14 +16530,17 @@ permissions et des congés de fin de campagne.
 	  - Code des pensions civiles et militaires de retr... - art. R13 (V)
 	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 46
 	  - Loi n°2005-270 du 24 mars 2005 - art. 46 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4122-2
 
 
 ###### Article L4138-3
@@ -16788,22 +16939,22 @@ temps passé en congé est pris en compte pour les droits à pension de retraite
 
 ###### Article L4138-13
 
-Le congé de longue maladie est attribué, après épuisement des droits de congé de maladie fixés à l'article L. 4138-3, dans
-les cas autres que ceux énoncés à l'article L. 4138-11, lorsque l'affection constatée met l'intéressé dans l'impossibilité
-d'exercer ses fonctions et qu'elle présente un caractère invalidant et de gravité confirmée.
+Le congé de longue maladie est attribué, après épuisement des droits de congé de maladie fixés à l'article L.4138-3, dans les
+cas autres que ceux prévus à l'article L.4138-12, lorsque l'affection constatée met l'intéressé dans l'impossibilité
+d'exercer ses fonctions et qu'elle présente un caractère invalidant et de gravité confirmée. 
 
 Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions ou à la suite de l'une des causes
-exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
-maximale de trois ans. Le militaire conserve, dans les conditions définies par décret en Conseil d'Etat, sa rémunération.
+exceptionnelles prévues à l'article L.27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
+maximale de trois ans. Le militaire conserve, dans les conditions définies par décret en Conseil d'Etat, sa rémunération. 
 
 Dans les autres cas, le militaire de carrière, ou le militaire servant en vertu d'un contrat réunissant au moins trois ans de
 services militaires, bénéficie de ce congé pendant une durée maximale de trois ans. L'intéressé perçoit, dans les conditions
 fixées par décret en Conseil d'Etat, sa rémunération pendant un an, puis une rémunération réduite de moitié les deux années
 qui suivent. Le militaire servant en vertu d'un contrat réunissant moins de trois ans de services militaires bénéficie de ce
-congé, non rémunéré, pendant une durée maximale d'un an.
+congé, non rémunéré, pendant une durée maximale d'un an. 
 
 Le militaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un congé de même nature, s'il n'a pas auparavant
-repris l'exercice de ses fonctions pendant un an.
+repris l'exercice de ses fonctions pendant un an. 
 
 Le militaire placé en congé de longue maladie continue à figurer sur la liste d'ancienneté, concourt pour l'avancement à
 l'ancienneté et, dans les cas visés au deuxième alinéa du présent article, pour l'avancement au choix. Le temps passé en
@@ -16811,14 +16962,19 @@ congé est pris en compte pour les droits à pension de retraite.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 56
 	  - Loi n°2005-270 du 24 mars 2005 - art. 56 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L27
+	  - Code de la défense. - art. L4138-12
+	  - Code de la défense. - art. L4138-3
 
 	**Cité par**:
 
@@ -17714,20 +17870,316 @@ général, soixante-quatre ans.
 
 L'âge maximal de maintien en première section est de soixante-cinq ans ; 
 
-2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : (tableau non
-reproduit, voir le fac-similé) 
+2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <thead>
+            <tr>
+              <th bgcolor="#efeff7" width="130" align="center">
+
+</th>
+              <th bgcolor="#efeff7" align="center" width="65">
+
+<font size="1">OFFICIERS subalternes ou dénomination correspondante</font>
+
+</th>
+              <th align="center" width="65" bgcolor="#efeff7">
+
+<font size="1">COMMANDANT ou dénomination correspondante</font>
+              </th>
+              <th align="center" width="65" bgcolor="#efeff7">
+
+<font size="1">LIEUTENANT-COLONEL ou dénomination correspondante</font>
+              </th>
+              <th bgcolor="#efeff7" width="65" align="center">
+
+<font size="1">COLONEL ou dénomination correspondante</font>
+              </th>
+              <th bgcolor="#efeff7" width="65" align="center">
+
+<font size="1">AGE MAXIMAL de maintien en première section des officiers généraux</font>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left">
+
+Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
+officiers mécaniciens de l'air</td>
+              <td align="center" colspan="4">
+
+57</td>
+              <td align="center">
+
+61</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Officiers de gendarmerie</td>
+              <td align="center" colspan="3">
+
+57</td>
+              <td align="center">
+
+58</td>
+              <td align="center">
+
+61</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Officiers de l'air</td>
+              <td colspan="2" align="center">
+
+50</td>
+              <td colspan="2" align="center">
+
+54</td>
+              <td align="center">
+
+61</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs
+militaires des essences, administrateurs des affaires maritimes</td>
+              <td colspan="4" align="center">
+
+60</td>
+              <td align="center">
+
+62</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes</td>
+              <td align="center" colspan="4">
+
+60</td>
+              <td align="center">
+
+65</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Militaires infirmiers et techniciens des hôpitaux des armées (officiers)</td>
+              <td align="center" colspan="4">
+
+60</td>
+              <td align="center">
+
+- </td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
+maritimes, professeurs de l'enseignement maritime</td>
+              <td colspan="4" align="center">
+
+64</td>
+              <td align="center">
+
+65</td>
+            </tr>
+            <tr>
+              <td align="left">
+
+Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
+sein de la trésorerie aux armées, aumôniers militaires</td>
+              <td align="center" colspan="4">
+
+64</td>
+              <td align="center">
+
+- </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Les officiers du service de santé des armées du grade de chef des services qui ne sont pas régis par les dispositions du
+chapitre Ier du titre IV relatif aux officiers généraux peuvent être temporairement maintenus en activité au-delà de l'âge de
+soixante ans, pour une durée déterminée en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge de
+soixante-cinq ans. Dans ce cas, la limite d'âge retenue pour l'application du 1° du I de l'article L.14 du code des pensions
+civiles et militaires de retraite correspond au terme de la durée ainsi déterminée. 
 
 Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
 demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ; 
 
-3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après : (tableau
-non reproduit, voir le fac-similé) 
+3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après :
+
+<table>
+    <thead>
+      <tr>
+        <th bgcolor="#efeff7" width="130" align="center">
+
+</th>
+        <th bgcolor="#efeff7" align="center" width="65">
+
+<font size="1">SERGENT ou dénomination correspondante</font>
+        </th>
+        <th align="center" bgcolor="#efeff7" width="65">
+
+<font size="1">SERGENT-CHEF ou dénomination correspondante</font>
+        </th>
+        <th bgcolor="#efeff7" width="65" align="center">
+
+<font size="1">ADJUDANT ou dénomination correspondante</font>
+        </th>
+        <th align="center" bgcolor="#efeff7" width="65">
+
+<font size="1">ADJUDANT-CHEF ou dénomination correspondante</font>
+        </th>
+        <th width="65" bgcolor="#efeff7" align="center">
+
+<font size="1">MAJOR</font>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">
+
+Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant), corps de soutien technique
+et administratif de la gendarmerie nationale</td>
+        <td align="center" colspan="2">
+
+45</td>
+        <td align="center">
+
+50</td>
+        <td align="center">
+
+56</td>
+        <td align="center">
+
+57</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Sous-officiers de gendarmerie</td>
+        <td align="center" colspan="4">
+
+56 (y compris le garde de gendarmerie)</td>
+        <td align="center">
+
+57</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Sous-officiers du personnel navigant de l'armée de l'air</td>
+        <td align="center" colspan="3">
+
+45</td>
+        <td align="center" colspan="2">
+
+50</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers
+mariniers de carrière des ports (marine)</td>
+        <td align="center" colspan="5">
+
+57</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Sous-officiers du service des essences des armées</td>
+        <td align="center" colspan="2">
+
+- </td>
+        <td colspan="3" align="center">
+
+60</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, majors
+sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois armées), maîtres ouvriers (terre), maîtres
+ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière (air), commis greffiers et huissiers
+appariteurs</td>
+        <td colspan="5" align="center">
+
+64</td>
+      </tr>
+    </tbody>
+  </table>
 
 Les musiciens des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de cette
 limite d'âge par périodes de deux ans renouvelables. 
 
 II.-Sans préjudice des dispositions de l'article L.4132-12, les limites de durée de service des militaires sous contrat sont
-les suivantes : (tableau non reproduit, voir le fac-similé) 
+les suivantes : 
+
+<table>
+    <thead>
+      <tr>
+        <th align="center" bgcolor="#efeff7" width="234">
+
+</th>
+        <th width="221" align="center" bgcolor="#efeff7">
+
+<font size="1">LIMITE DE DURÉE DES SERVICES
+
+(année)</font>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">
+
+Officiers sous contrat</td>
+        <td align="center">
+
+20</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Militaires commissionnés</td>
+        <td align="center">
+
+15</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Militaires engagés</td>
+        <td align="center">
+
+25</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Volontaires dans les armées</td>
+        <td align="center">
+
+5</td>
+      </tr>
+    </tbody>
+  </table>
 
 Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
 demande agréée, être maintenus en service au-delà de la durée de service par périodes de deux ans renouvelables. 
@@ -17741,14 +18193,13 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 90
 	  - Loi n°2005-270 du 24 mars 2005 - art. 90 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Cité par**:
 
@@ -17764,6 +18215,12 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 	  - Code de la défense. - art. R4141-3 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L242-6 (VD)
 	  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L14
+	  - Code de la défense. - art. L4132-12
 
 
 #### TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES CATÉGORIES DE MILITAIRES
@@ -17914,30 +18371,30 @@ défense, conformément aux dispositions de l'article L. 4141-1, jusqu'au terme 
 
 ###### Article L4141-5
 
-L'officier général peut être maintenu dans la première section :
+L'officier général peut être maintenu dans la première section : 
 
 1° Sans limite d'âge, quand il a commandé en chef en temps de guerre ou a exercé avec distinction devant l'ennemi le
 commandement d'une armée ou d'une formation équivalente. Cet officier général peut être pourvu d'emploi ; il est remplacé
-dans les cadres ;
+dans les cadres ; 
 
 2° Temporairement au-delà de la limite d'âge du grade de colonel, ou dénomination correspondante, pour une durée déterminée
 en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge maximal de maintien en première section.
-Dans ce cas, la limite d'âge retenue pour l'application des dispositions du 1° du I de l'article L. 14 du code des pensions
+Dans ce cas, la limite d'âge retenue pour l'application des dispositions du 1° du I de l'article L.14 du code des pensions
 civiles et militaires de retraite correspond au terme de cette durée déterminée.
-
-Les officiers du service de santé des armées du grade de chef des services peuvent être maintenus en première section dans
-les mêmes conditions que celles prévues par le présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 80
 	  - Loi n°2005-270 du 24 mars 2005 - art. 80 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L14
 
 	**Cité par**:
 
@@ -18093,15 +18550,15 @@ définies par les articles 21-14-1 et 21-15 du code civil.
 ###### Article L4143-1
 
 Les dispositions des articles L. 4121-1 et L. 4121-2, des premier et dernier alinéas de l'article L. 4121-4, des premier et
-dernier alinéas de l'article L. 4121-5, des articles L. 4121-7 et L. 4121-8, des articles L. 4122-1 et L. 4123-1, des premier
-et troisième alinéas de l'article L. 4123-2, des articles L. 4123-4 et L. 4123-5, L. 4123-8, L. 4123-10 à L. 4123-18, L.
-4131-1, L. 4135-1, L. 4136-1, L. 4137-1 à L. 4137-5, L. 4138-3, L. 4138-5 et des 2° à 4° de l'article L. 4139-14 sont
-applicables aux réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve opérationnelle ou au
-titre de la disponibilité.
+dernier alinéas de l'article L. 4121-5, des articles L. 4121-7 et L. 4121-8, des articles L. 4122-1 et L. 4123-1, des
+premier, troisième et quatrième alinéas de l'article L. 4123-2, des articles L. 4123-4 et L. 4123-5, L. 4123-8, L. 4123-10 à
+L. 4123-18, L. 4131-1, L. 4135-1, L. 4136-1, L. 4137-1 à L. 4137-5, L. 4138-3, L. 4138-5 et des 2° à 4° de l'article L.
+4139-14 sont applicables aux réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve
+opérationnelle ou au titre de la disponibilité.
 
 L'officier ou le sous-officier de réserve ne peut être promu au grade supérieur que s'il compte, dans le grade, une
 ancienneté au moins égale à celle de l'officier ou du sous-officier de carrière du même corps et du même grade le moins
-ancien en grade promu, à titre normal, la même année.
+ancien en grade promu, à titre normal, la même année. 
 
 Les réservistes exerçant une activité en vertu d'un engagement à servir dans la réserve opérationnelle ou de la disponibilité
 peuvent demeurer affiliés à des groupements politiques ou syndicaux. Ils doivent toutefois s'abstenir de toute activité
@@ -18119,14 +18576,36 @@ politique ou syndicale pendant leur présence sous les drapeaux.
 	  - Code de la défense. - art. R4211-1 (V)
 	  - Code de la défense. - art. R4221-23 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 87
 	  - Loi n°2005-270 du 24 mars 2005 - art. 87 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4121-1
+	  - Code de la défense. - art. L4121-2
+	  - Code de la défense. - art. L4121-4
+	  - Code de la défense. - art. L4121-5
+	  - Code de la défense. - art. L4121-7
+	  - Code de la défense. - art. L4121-8
+	  - Code de la défense. - art. L4122-1
+	  - Code de la défense. - art. L4123-1
+	  - Code de la défense. - art. L4123-10
+	  - Code de la défense. - art. L4123-2
+	  - Code de la défense. - art. L4123-4
+	  - Code de la défense. - art. L4123-5
+	  - Code de la défense. - art. L4123-8
+	  - Code de la défense. - art. L4131-1
+	  - Code de la défense. - art. L4135-1
+	  - Code de la défense. - art. L4136-1
+	  - Code de la défense. - art. L4137-1
+	  - Code de la défense. - art. L4138-3
+	  - Code de la défense. - art. L4138-5 (V)
+	  - Code de la défense. - art. L4139-14
 
 
 ##### Chapitre IV : Fonctionnaires en détachement servant en qualité de militaire
@@ -18439,32 +18918,36 @@ Il est institué une journée nationale du réserviste.
 ###### Article L4221-1
 
 Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit pour une durée de un à cinq ans renouvelable en
-vue :
+vue : 
 
-1° De recevoir une formation ou de suivre un entraînement ;
+1° De recevoir une formation ou de suivre un entraînement ; 
 
 2° D'apporter un renfort temporaire aux forces armées, en particulier pour la protection du territoire national et dans le
-cadre des opérations conduites en dehors du territoire national ;
+cadre des opérations conduites en dehors du territoire national ; 
 
-3° De dispenser un enseignement de défense ;
+3° De dispenser un enseignement de défense ; 
 
 4° De participer aux actions civilo-militaires, destinées à faciliter l'interaction des forces opérationnelles avec leur
-environnement civil ;
+environnement civil ; 
 
-5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9.
+5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9. 
 
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
 réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4.
 
-Cette clause est soumise à l'accord de l'employeur.
+Cette clause est soumise à l'accord de l'employeur. 
 
-Ces missions peuvent s'exercer en dehors du territoire national.
+Ces missions peuvent s'exercer en dehors du territoire national. 
+
+Le volontaire peut, au titre de son engagement à servir dans la réserve opérationnelle, être admis à servir, par arrêté du
+ministre de la défense, dans l'intérêt de la défense et pour une durée limitée, auprès d'une administration de l'Etat, d'un
+établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une
+organisation internationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 8 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 8 (Ab)
 
 	**Cité par**:
@@ -18476,9 +18959,13 @@ Ces missions peuvent s'exercer en dehors du territoire national.
 	  - Code de la défense. - art. R4221-17-1 (V)
 	  - Code de la défense. - art. R4221-17-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2008-493 du 26 mai 2008 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-7
 
 
 ###### Article L4221-2
@@ -19166,7 +19653,7 @@ du code de justice militaire, un acte de désertion passible des peines prévues
 
 ###### Article L4271-3
 
-Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4321-4 et L. 4321-5,
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5,
 de refuser d'obéir ou, hors le cas de force majeure, de ne pas exécuter l'ordre reçu de ceux qui avaient qualité pour le
 donner, constitue une infraction passible des peines prévues aux articles L. 323-6 et L. 323-7 du code de justice militaire.
 
@@ -19176,9 +19663,17 @@ donner, constitue une infraction passible des peines prévues aux articles L. 32
 
 	  - Loi n°99-894 du 22 octobre 1999 - art. 40 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-4
+	  - Code de la défense. - art. L4231-4
+	  - Code de la défense. - art. L4231-5
+	  - Code de justice militaire. - art. L323-6
+	  - Code de justice militaire. - art. L323-7
 
 
 ###### Article L4271-4
@@ -20069,6 +20564,36 @@ ayant le même objet applicables localement.
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+
+#### TITRE VIII : DISPOSITIONS PARTICULIÈRES   À SAINT-BARTHÉLEMY ET À SAINT-MARTIN
+
+##### Chapitre Ier : Saint-Barthélemy
+
+###### Article L5381-1
+
+Pour l'application de la présente partie à Saint-Barthélemy, les mots : " préfet maritime " sont remplacés par les mots : "
+représentant du Gouvernement pour l'action de l'Etat en mer ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
+
+
+##### Chapitre II : Saint-Martin
+
+###### Article L5382-1
+
+Pour l'application de la présente partie à Saint-Martin, les mots : " préfet maritime " sont remplacés par les mots : "
+représentant du Gouvernement pour l'action de l'Etat en mer ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-493 du 26 mai 2008 - art. 4
 
 
 # Partie réglementaire

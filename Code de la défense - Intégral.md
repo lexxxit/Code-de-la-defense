@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-05-28
+Version Consolidée au 2008-07-11
 
 # Partie législative
 
@@ -13458,8 +13458,6 @@ ses élèves, sont définies par les articles L. 675-1 et L. 755-1 à L. 755-3 d
 	  - Code de l'éducation - art. L755-1 (V)
 
 
-##### Chapitre 4 : Etablissement public d'insertion de la défense.
-
 ##### Chapitre IV : Etablissement public d'insertion de la défense
 
 ###### Article L3414-1
@@ -26599,8 +26597,8 @@ Le commandement des formations militaires de la sécurité civile appartient à 
 
 ###### Article D1321-12
 
-Un officier de l'armée de terre assure les fonctions d'adjoint militaire du directeur de la défense et de la sécurité civile
-et de commandant des formations militaires de la sécurité civile.
+Un officier de l'armée de terre assure les fonctions d'adjoint militaire du directeur de la sécurité civile et de commandant
+des formations militaires de la sécurité civile.
 
 **Liens relatifs à cet article**
 
@@ -26608,9 +26606,9 @@ et de commandant des formations militaires de la sécurité civile.
 
 	  - Décret n°88-286 du 24 mars 1988 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (M)
 
 
 ###### Article D1321-13

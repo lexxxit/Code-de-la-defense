@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-09-27
 
 # Partie législative
 
@@ -39732,7 +39732,9 @@ Les obligations en matière de vaccinations applicables aux militaires sont fix�
 	  - Arrêté du 12 septembre 2016 - art. 4 (VD)
 
 
-#####  Section 2 : Exercice d'activités privées lucratives
+##### Section 2 : Exercice d'activités privées ou d'activités accessoires.
+
+##### Sous-section 1 : Exercice d'activités privées lucratives par certains militaires.
 
 ###### Article R*4122-14
 
@@ -39769,15 +39771,15 @@ du code pénal à compter de la cessation de cette fonction.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 432-13 (V)
-	  - Code de la défense. - art. L4138-2 (V)
-	  - Code de la défense. - art. L4141-3 (V)
+	  - Code pénal - art. 432-13
+	  - Code de la défense. - art. L4138-2
+	  - Code de la défense. - art. L4141-3
 
 	**Cité par**:
 
@@ -39800,14 +39802,14 @@ les mêmes conditions à la connaissance du ministre de la défense dans les con
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 432-13 (V)
-	  - Code de la défense. - art. R*4122-14 (V)
+	  - Code pénal - art. 432-13
+	  - Code de la défense. - art. R*4122-14
 
 
 ###### Article R*4122-16
@@ -39820,14 +39822,14 @@ activité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 432-13 (V)
-	  - Code de la défense. - art. R*4122-14 (V)
+	  - Code pénal - art. 432-13
+	  - Code de la défense. - art. R*4122-14
 
 
 ###### Article R*4122-17
@@ -39839,15 +39841,15 @@ envisage d'exercer une activité privée lucrative peut en informer le ministre 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 432-13 (V)
-	  - Code de la défense. - art. R*4122-14 (V)
-	  - Code de la défense. - art. R*4122-18 (V)
+	  - Code pénal - art. 432-13
+	  - Code de la défense. - art. R*4122-14
+	  - Code de la défense. - art. R*4122-18
 
 
 ###### Article R*4122-18
@@ -39857,11 +39859,17 @@ de la défense, celui-ci dispose d'un délai de deux mois pour notifier à l'int
 avec les dispositions de l'article L. 4122-2. Au terme de ce délai, le silence du ministre vaut décision conforme à l'avis de
 la commission prévue à l'article R. * 4122-19.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -39872,8 +39880,8 @@ la commission prévue à l'article R. * 4122-19.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4122-2 (V)
-	  - Code de la défense. - art. R*4122-19 (V)
+	  - Code de la défense. - art. L4122-2
+	  - Code de la défense. - art. R*4122-19
 
 
 ###### Article R*4122-19
@@ -39893,11 +39901,17 @@ ressources humaines du ministère de la défense ou son représentant :
 Le président, les membres de la commission mentionnés aux 1° à 4° et leurs suppléants respectifs sont nommés pour trois ans
 par décret.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -39913,16 +39927,22 @@ La commission prévue à l'article R. * 4122-19 est également consultée par le
 les dispositions de l'article L. 4122-2 des fonctions qu'un militaire se propose d'exercer dans une entreprise où sa mise en
 détachement ou en position hors cadres est envisagée.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4122-2 (V)
-	  - Code de la défense. - art. R*4122-19 (V)
+	  - Code de la défense. - art. L4122-2
+	  - Code de la défense. - art. R*4122-19
 
 
 ###### Article R*4122-21
@@ -39941,15 +39961,21 @@ projetée par l'intéressé est compatible avec les dispositions de l'article L.
 
 Le ministre informe l'intéressé et la commission de la décision prise.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4122-2 (V)
+	  - Code de la défense. - art. L4122-2
 
 
 ###### Article R*4122-22
@@ -39959,11 +39985,17 @@ fonctionnaires de catégorie A, en activité ou en retraite, sont nommés par ar
 
 Le secrétariat de la commission est assuré par la direction des ressources humaines du ministère de la défense.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 
 ###### Article R*4122-23
@@ -39972,11 +40004,23 @@ La commission ne délibère valablement que si cinq au moins des neuf membres so
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+déontologie des militaires).
+
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 
 ###### Article R*4122-24
@@ -39985,9 +40029,220 @@ Les dispositions de la présente section ne s'appliquent pas à la création d'�
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+
+
+##### Sous-section 2 : Cumul d'activités à titre accessoire des militaires.
+
+###### Article R4122-25
+
+Dans les conditions fixées à l'article L. 4122-2 du code de la défense et celles prévues par la présente sous-section, les
+militaires peuvent être autorisés à cumuler des activités accessoires à leur activité principale, sous réserve qu'elles ne
+portent pas atteinte au fonctionnement normal, à l'indépendance ou à la neutralité du service. 
+
+Ces activités doivent être compatibles avec les obligations propres aux militaires énoncées aux articles L. 4111-1 et L.
+4121-2 du code de la défense.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+	  - Code de la défense. - art. L4121-2 (V)
+	  - Code de la défense. - art. L4122-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4122-32 (V)
+
+
+###### Article R4122-26
+
+Les activités accessoires susceptibles d'être autorisées sont les suivantes : 
+
+1° Activité d'intérêt général exercée auprès d'une personne publique ou auprès d'une personne privée à but non lucratif ; 
+
+2° Mission d'intérêt public de coopération internationale ou auprès d'organismes d'intérêt général à caractère international
+ou d'un Etat étranger, pour une durée limitée ; 
+
+3° Expertises ou consultations auprès d'une entreprise ou d'un organisme privés ; 
+
+4° Enseignements ou formations ; 
+
+5° Activité agricole au sens du premier alinéa de l'article L. 311-1 du code rural dans des exploitations agricoles non
+constituées sous forme sociale, ainsi qu'une activité exercée dans des exploitations constituées sous forme de société civile
+ou commerciale, sous réserve que le militaire n'y exerce pas les fonctions de gérant, de directeur général, ou de membre du
+conseil d'administration, du directoire ou du conseil de surveillance, sauf lorsqu'il s'agit de la gestion de son patrimoine
+personnel et familial ; 
+
+6° Services à la personne définis à l'article L. 7231-1 et au 1° de l'article L. 7231-2 du code du travail ; 
+
+7° Aide à domicile à un ascendant, à un descendant, à son conjoint, à son partenaire lié par un pacte civil de solidarité ou
+à son concubin, permettant au militaire de percevoir, le cas échéant, les allocations afférentes à cette aide ; 
+
+8° Activité de conjoint collaborateur au sein d'une entreprise artisanale, commerciale ou libérale mentionnée à l'article R.
+121-1 du code de commerce et, s'agissant des artisans, à l'article 14 du décret du 2 avril 1998 susvisé ; 
+
+9° Activités sportives d'enseignement, d'animation, d'encadrement et d'entraînement exercées au profit d'une entreprise ou
+d'une association.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°98-247 du 2 avril 1998 - art. 14
+	  - Code de commerce - art. R121-1
+	  - Code rural - art. L311-1
+	  - Code du travail - art. L7231-2
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4122-27 (V)
+
+
+###### Article R4122-27
+
+Le cumul d'une activité exercée à titre accessoire mentionnée à l'article R. 4122-26 avec l'activité exercée à titre
+principal par un militaire est subordonné à la délivrance d'une autorisation par le ministre de la défense. Le ministre de la
+défense peut, par arrêté, déléguer ce pouvoir aux commandants de formation administrative ou aux autorités dont ils
+relèvent. 
+
+Toutefois, l'exercice d'une activité bénévole au profit de personnes publiques ou privées sans but lucratif est libre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4122-26
+
+
+###### Article R4122-28
+
+Préalablement à l'exercice de toute activité soumise à autorisation, le militaire adresse au ministre de la défense ou à
+l'autorité déléguée par lui, qui lui en accuse réception, une demande écrite qui comprend les informations suivantes : 
+
+1° Identité de l'employeur ou nature de l'organisme pour le compte duquel s'exercera l'activité envisagée ; 
+
+2° Nature, durée, périodicité et conditions de rémunération de cette activité. 
+
+Toute autre information de nature à éclairer l'autorité mentionnée au premier alinéa sur l'activité accessoire envisagée peut
+figurer dans cette demande à l'initiative du militaire.L'autorité compétente peut lui demander des informations
+complémentaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4122-30 (V)
+
+
+###### Article R4122-29
+
+L'autorité compétente notifie sa décision dans un délai de deux mois à compter de la réception de la demande. 
+
+Lorsqu'elle estime ne pas disposer de toutes les informations lui permettant de statuer sur la demande, elle invite le
+militaire à la compléter dans un délai maximum d'un mois à compter de la réception de sa demande. Le délai prévu au premier
+alinéa est alors porté à trois mois. 
+
+En l'absence de décision expresse écrite contraire dans le délai de réponse mentionné aux premier et deuxième alinéas, le
+militaire est réputé autorisé à exercer l'activité accessoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 3 (V)
+
+
+###### Article R4122-30
+
+Tout changement substantiel intervenant dans les conditions d'exercice ou de rémunération de l'activité exercée à titre
+accessoire par un militaire est assimilé à l'exercice d'une nouvelle activité. 
+
+Le militaire doit adresser une nouvelle demande d'autorisation au ministre de la défense ou à l'autorité déléguée par lui
+dans les conditions prévues à l'article R. 4122-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4122-28
+
+
+###### Article R4122-31
+
+Le ministre de la défense ou l'autorité déléguée par lui peut s'opposer à tout moment à la poursuite d'une activité dont
+l'exercice a été autorisé dès lors : 
+
+― que l'intérêt du service le justifie ; 
+
+― que les informations sur le fondement desquelles l'autorisation a été donnée apparaissent erronées ; 
+
+― que l'activité en cause ne revêt plus un caractère accessoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+
+###### Article R4122-32
+
+Dans l'exercice d'une activité accessoire, les militaires sont soumis aux dispositions de l'article 432-12 du code pénal. 
+
+Indépendamment de l'application du cinquième alinéa de l'article L. 4122-2 du présent code, la violation des règles
+mentionnées aux articles R. 4122-25 à R. 4122-31 expose le militaire à une sanction disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 432-12
+	  - Code de la défense. - art. L4122-2
+	  - Code de la défense. - art. R4122-25
+
+
+###### Article R4122-33
+
+Pour l'application des dispositions de la présente sous-section, les demandes d'autorisation de cumul d'activités et les
+éventuelles décisions y afférentes sont versées au dossier individuel du militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
 
 
 #####  Chapitre III : Rémunération, garanties et protections

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-11-28
+Version Consolidée au 2008-12-25
 
 # Partie législative
 
@@ -61284,22 +61284,28 @@ conseil mentionnés au 1° et le membre mentionné au 2° pour la délibération
 il a été désigné. 
 
 Le ministre de la défense désigne par arrêté l'autorité chargée de constituer le conseil et d'établir les listes mentionnées
-à l'article R. 4137-54.
+à l'article R. 4137-54. 
+
+Lorsque des militaires infirmiers et techniciens des hôpitaux des armées sont impliqués dans une même affaire aux côtés
+d'autres militaires, tous comparaissent devant un même conseil de discipline qui est composé et délibère dans les conditions
+fixées à l'article 12-4 du décret n° 2002-1490 du 20 décembre 2002 modifié fixant le statut des militaires infirmiers et
+techniciens des hôpitaux des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 12-4
+	  - Code de la défense. - art. R4137-54
 
 	**Cité par**:
 
 	  - Décret n°2008-947 du 12 septembre 2008 - art. 10 (VD)
 	  - Décret n°2008-960 du 12 septembre 2008 - art. 6 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. R4137-54 (V)
+	  - Décret n°2008-1387 du 19 décembre 2008 - art. 5
 
 
 ###### Article R4137-65
@@ -61809,13 +61815,19 @@ R. 4137-74 conformément aux dispositions du présent article.
 
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote les membres du
 conseil mentionnés au 1° ci-dessus et les membres mentionnés au 2° pour la délibération et le vote relatifs au comparant au
-titre duquel ils ont été désignés.
+titre duquel ils ont été désignés. 
+
+Lorsque des militaires infirmiers et techniciens des hôpitaux des armées sont impliqués dans une même affaire aux côtés
+d'autres militaires, tous comparaissent devant un même conseil d'enquête qui est composé et délibère dans les conditions
+fixées à l'article 12-8 du décret n° 2002-1490 du 20 décembre 2002 modifié fixant le statut des militaires infirmiers et
+techniciens des hôpitaux des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2002-1490 du 20 décembre 2002 - art. 12-8
+	  - Code de la défense. - art. R4137-74
 
 	**Cité par**:
 
@@ -61823,9 +61835,9 @@ titre duquel ils ont été désignés.
 	  - Décret n°2008-960 du 12 septembre 2008 - art. 7 (V)
 	  - Code de la défense. - art. R4137-91 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. R4137-74 (V)
+	  - Décret n°2008-1387 du 19 décembre 2008 - art. 5
 
 
 ###### Article R4137-87

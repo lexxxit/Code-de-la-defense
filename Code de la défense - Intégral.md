@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -59392,22 +59392,13 @@ commandant en second qui les remplace en cas d'absence ou d'empêchement.
 ###### Article R4131-6
 
 Le grade d'aspirant se situe dans la hiérarchie militaire générale entre celui de major et celui de sous-lieutenant ou
-enseigne de vaisseau de 2e classe. 
-
-Ont accès à ce grade les élèves officiers pendant la période qui précède leur nomination à un grade d'officier dans les
-conditions fixées aux articles R. 4131-7 à R. 4131-10. 
-
-Les nominations sont prononcées par arrêté du ministre de la défense.
+enseigne de vaisseau de 2e classe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R4131-7 (V)
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -59421,24 +59412,17 @@ Les nominations sont prononcées par arrêté du ministre de la défense.
 
 ###### Article R4131-7
 
-Les élèves officiers de carrière sont nommés aspirants :
+Les aspirants sont soumis aux dispositions applicables aux officiers pour ce qui concerne la discipline générale militaire,
+les sanctions disciplinaires et professionnelles, la suspension de fonctions, les récompenses, le commandement, la notation,
+les fonds de prévoyance et l'accès aux cercles et mess. 
 
-1° Dès leur admission aux écoles assurant le recrutement des officiers de carrière parmi les sous-officiers et officiers
-mariniers ;
-
-2° Au début de leur deuxième année de scolarité, pour les élèves des écoles de recrutement direct ou dès leur admission pour
-les élèves desdites écoles dont l'accès est ouvert aux candidats titulaires de l'un des titres ou diplômes exigés pour se
-présenter au premier concours d'entrée à l'Ecole nationale d'administration ;
-
-3° Au début de leur quatrième année d'études universitaires pour les élèves médecins, pharmaciens chimistes, vétérinaires
-biologistes et chirurgiens-dentistes des armées ayant satisfait à un examen de connaissances militaires dont les modalités
-sont définies par un arrêté du ministre de la défense.
+Dans les autres domaines, les aspirants sont soumis aux dispositions applicables aux sous-officiers et officiers mariniers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 2
 
 	**Cité par**:
 
@@ -59468,35 +59452,36 @@ armées peuvent être nommés aspirants après avoir satisfait à un cycle de fo
 
 ###### Article R4131-9
 
-Les aspirants nommés dans les conditions fixées aux articles R. 4131-7 et R. 4131-8 sont soumis, en ce qui concerne la
-discipline, le droit au commandement, la notation, les fonds de prévoyance et l'accès aux cercles et mess, aux dispositions
-applicables aux officiers.
+Les élèves officiers sous contrat sont nommés aspirant : 
+
+1° Après avoir satisfait à un cycle de formation donnant accès à ce grade, pour les candidats ayant souscrit un contrat
+d'engagement en vue de servir en qualité d'officier sous contrat ; 
+
+2° Dès leur admission à un cycle de formation en vue de servir en qualité d'officier sous contrat, pour les sous-officiers,
+officiers mariniers et militaires du rang.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R4131-7 (V)
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 4
 
 
 ###### Article R4131-10
 
-S'agissant des dispositions autres que celles mentionnées à l'article R. 4131-9, les aspirants nommés dans les conditions
-fixées à l'article R. 4131-7 relèvent de celles qui sont applicables à des sous-officiers servant sous contrat ou à des sous-
-officiers de carrière s'ils possédaient, avant leur nomination au grade d'aspirant, le statut de sous-officier de carrière. 
-
-En outre, les aspirants nommés dans les conditions fixées aux 2° et 3° de l'article R. 4131-7 bénéficient des dispositions du
-1° et du 2° de l'article L. 4138-11.
+La nomination au grade d'aspirant prévue aux articles R. 4131-8 et R. 4131-9 est prononcée à titre temporaire par arrêté du
+ministre de la défense, selon la procédure de l'article L. 4134-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4134-2
+	  - Code de la défense. - art. R4131-8
 
 
 ###### Article R4131-11
@@ -59513,6 +59498,339 @@ juillet 1970 relative à l'Ecole polytechnique.
 	**Créé par**:
 
 	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+
+
+###### Article R4131-12
+
+Les volontaires dans les armées qui ont suivi avec succès un des cycles de formation donnant accès au grade d'aspirant sont
+nommés à ce grade par décision du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 7
+
+
+###### Article R4131-13
+
+Les échelons du grade d'aspirant et les conditions d'accès à ces échelons sont déterminés conformément au tableau ci-après,
+selon les qualifications militaires détenues : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+ÉCHELLE DE SOLDE 
+
+</th>
+      <th>
+
+DÉSIGNATION 
+
+des échelons 
+
+</th>
+      <th>
+
+ANCIENNETÉ EXIGÉE 
+
+pour accéder à l'échelon 
+
+</th>
+      <th>
+
+OBSERVATIONS 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+N° 2 
+
+</td>
+      <td align="center">
+
+2e 
+
+</td>
+      <td align="center">
+
+1 an 
+
+</td>
+      <td align="center">
+
+Prise en compte de l'ancienneté 
+
+de grade 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+1er 
+
+</td>
+      <td align="center">
+
+Avant 1 an 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+N° 3 
+
+</td>
+      <td align="center">
+
+5e 
+
+</td>
+      <td align="center">
+
+10 ans 
+
+</td>
+      <td align="center">
+
+Prise en compte de l'ancienneté 
+
+de service 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+4e 
+
+</td>
+      <td align="center">
+
+7 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+3e 
+
+</td>
+      <td align="center">
+
+5 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+2e 
+
+</td>
+      <td align="center">
+
+3 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+1er 
+
+</td>
+      <td align="center">
+
+Avant 3 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+N° 4 
+
+</td>
+      <td align="center">
+
+7e 
+
+</td>
+      <td align="center">
+
+17 ans 
+
+</td>
+      <td align="center">
+
+Prise en compte de l'ancienneté 
+
+de service 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+6e 
+
+</td>
+      <td align="center">
+
+13 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+5e 
+
+</td>
+      <td align="center">
+
+10 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+4e 
+
+</td>
+      <td align="center">
+
+7 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+3e 
+
+</td>
+      <td align="center">
+
+5 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+2e 
+
+</td>
+      <td align="center">
+
+3 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+1er 
+
+</td>
+      <td align="center">
+
+Avant 3 ans 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Dans le cas où la nomination au grade d'aspirant a pour effet d'attribuer aux intéressés un indice inférieur à celui qu'ils
+détenaient précédemment, ils conservent leur ancien indice à titre personnel jusqu'à ce qu'ils atteignent dans le grade un
+échelon comportant un indice au moins égal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2009-21 du 7 janvier 2009 - art. 1 (V)
 
 
 #####  Chapitre III : Changements d'armée ou de corps

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-24
 
 # Partie législative
 
@@ -53759,9 +53759,9 @@ conjoint du ministre de la défense et du ministre chargé du budget.
 ###### Article R3417-29
 
 L'établissement est doté d'un plan comptable approuvé par arrêté conjoint du ministre de la défense, du ministre chargé de
-l'économie et du ministre chargé des transports, après avis du Conseil national de la comptabilité.
+l'économie et du ministre chargé des transports, après avis de l'Autorité des normes comptables. 
 
-Les comptes sont tenus de façon à distinguer la gestion du régime lui-même du fonctionnement propre de l'établissement.
+Les comptes sont tenus de façon à distinguer la gestion du régime lui-même du fonctionnement propre de l'établissement. 
 
 Les opérations financières et comptables de l'Etablissement public des fonds de prévoyance militaire et de l'aéronautique
 sont réalisées par le caissier général de la Caisse des dépôts et consignations conformément aux règles propres appliquées à
@@ -53769,9 +53769,9 @@ cette dernière.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article R3417-30
@@ -54582,20 +54582,20 @@ défense, agissant au nom et pour le compte de l'institution.
 ###### Article R3422-12
 
 Les recettes et dépenses sont exécutées par un trésorier comptable central désigné par le ministre de la défense après avis
-du conseil de gestion.
+du conseil de gestion. 
 
 Le trésorier comptable central tient la comptabilité générale de l'institution dans les conditions définies par le plan
 comptable de cet organisme qui s'inspire du plan comptable général et est approuvé par le ministre chargé du budget après
-avis du conseil national de la comptabilité.
+avis de l'Autorité des normes comptables. 
 
 La comptabilité des prix de revient et la comptabilité des matériels et des stocks sont tenues par le trésorier comptable
 central ou sous son contrôle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 	**Cité par**:
 

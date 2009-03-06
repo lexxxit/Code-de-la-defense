@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-03-07
 
 # Partie législative
 
@@ -22061,24 +22061,24 @@ chapitre 3 " Installations et matières nucléaires " du titre III du livre III 
 Le secrétaire général de la défense nationale ou son représentant préside la commission interministérielle pour la sécurité
 des systèmes d'information. 
 
-Les règles relatives aux attributions, à la composition et à l'organisation de cette commission sont définies par le décret
-n° 2001-694 du 31 juillet 2001 portant création de la commission interministérielle pour la sécurité des systèmes
-d'information.
+Les règles relatives aux attributions, à la composition et à l'organisation de cette commission sont définies par les
+articles D. 2321-1 et suivants du code de la défense relatifs à la commission interministérielle pour la sécurité des
+systèmes d'information.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°96-67 1996-01-29 art. 3 al. 1
 	  - Décret n°96-67 du 29 janvier 1996 - art. 3 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°2001-694 du 31 juillet 2001 (V)
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -22087,6 +22087,10 @@ d'information.
 	  - Code de la défense. - art. D*1651-5 (V)
 	  - Code de la défense. - art. D*1661-5 (V)
 	  - Code de la défense. - art. D*1671-5 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2321-1 (V)
 
 
 #### TITRE IV : RESPONSABILITÉS DES MINISTRES EN MATIÈRE DE DÉFENSE
@@ -23495,8 +23499,8 @@ défense nationale, à la mise en oeuvre de la politique nationale en matière d
 ###### Article R1143-6
 
 Les hauts fonctionnaires mentionnés à l'article R. 1143-1 sont responsables, au sein du département ministériel dont ils
-relèvent, de l'application des dispositions relatives à la sécurité de défense et à la protection du secret prévues par le
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale. 
+relèvent, de l'application des dispositions relatives à la sécurité de défense et à la protection du secret prévues par les
+articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. 
 
 Dans les organismes rattachés à ce même département ministériel, ces hauts fonctionnaires sont responsables de la diffusion
 des dispositions relatives à la sécurité de défense et à la protection du secret et en contrôlent l'application.
@@ -23505,16 +23509,16 @@ des dispositions relatives à la sécurité de défense et à la protection du s
 
 	**Anciens textes**:
 
-	  - Décret n°2007-207 du 19 février 2007 - art. 6, v. init.
 	  - Décret n°2007-207 du 19 février 2007 - art. 6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cite**:
 
 	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ###### Article R1143-7
@@ -26252,19 +26256,18 @@ régional en ce qui concerne la réunion et la mise en oeuvre des ressources et 
 
 Sont également services de défense les services déconcentrés des ministères en charge des transports, de l'équipement et du
 logement, autres que ceux mentionnés aux articles D. 1313-1 à D. 1313-8, ainsi que les organismes rattachés dont la liste est
-fixée par arrêté conformément aux dispositions de l'article 1er du décret n° 2002-536 du 18 avril 2002 portant organisation
-du service de défense.
+fixée par arrêté conformément aux dispositions de l'article R. 2151-1 du code de la défense.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°2002-536 du 18 avril 2002 - art. 1 (V)
 	  - Code de la défense. - art. D1313-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Code de la défense. - art. R2151-1 (V)
 
 	**Cité par**:
 
@@ -27251,26 +27254,21 @@ l'article R. 1332-22.
 
 L'opérateur d'importance vitale communique au ministre coordonnateur de son secteur d'activités d'importance vitale le nom de
 la personne chargée d'exercer la fonction de délégué pour la défense et la sécurité. Cette personne doit être habilitée dans
-les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense
-nationale. 
+les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la
+défense nationale. 
 
 Le délégué pour la défense et la sécurité représente l'opérateur d'importance vitale auprès de l'autorité administrative pour
 toutes les questions relatives à la sécurité des installations et aux plans de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 5
 	  - Décret n°2006-212 du 23 février 2006 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -27283,6 +27281,10 @@ toutes les questions relatives à la sécurité des installations et aux plans d
 	  - Code de la défense. - art. R1332-37 (V)
 	  - Code de la défense. - art. R1332-6 (V)
 
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-1 (V)
+
 
 ###### Article R1332-6
 
@@ -27290,33 +27292,32 @@ Pour chaque point d'importance vitale, l'opérateur d'importance vitale, après 
 1332-21, communique au préfet du département dans le ressort duquel se trouve chacun de ces points, ou à l'autorité militaire
 désignée par le chef d'état major des armées pour les points dépendant d'opérateurs d'importance vitale relevant du ministre
 de la défense, le nom de la personne chargée d'exercer la fonction de délégué pour la défense et la sécurité. Cette personne
-doit être habilitée dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des
-secrets de la défense nationale. 
+doit être habilitée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la
+protection du secret de la défense nationale. 
 
 Ce délégué exerce au niveau local les fonctions prévues au deuxième alinéa de l'article R. 1332-5.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-21 (V)
-	  - Code de la défense. - art. R1332-5 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 6
 	  - Décret n°2006-212 du 23 février 2006 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 31 mars 2017 - art. 1 (V)
 	  - Code des transports - art. R5332-25 (V)
 	  - Code des transports - art. R5332-32 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-21 (V)
+	  - Code de la défense. - art. R1332-5 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ##### Section 3 : Organismes consultatifs
@@ -27755,26 +27756,19 @@ hiérarchisation selon le type ou le niveau de menace envisagé ;
 3° Les plans types des plans de sécurité d'opérateurs d'importance vitale, des plans particuliers de protection et des plans
 de protection externe. 
 
-Les arrêtés prévus à l'article R. 1332-17 et au présent article sont protégés dans les conditions prévues par le décret n°
-98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale. Ils sont notifiés à chaque opérateur
-d'importance vitale intéressé ainsi qu'à toutes les autorités administratives qui ont à en connaître.
+Les arrêtés prévus à l'article R. 1332-17 et au présent article sont protégés dans les conditions prévues par les articles R.
+2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. Ils sont notifiés à
+chaque opérateur d'importance vitale intéressé ainsi qu'à toutes les autorités administratives qui ont à en connaître.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-10 (V)
-	  - Code de la défense. - art. R1332-17 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 12
 	  - Décret n°2006-212 du 23 février 2006 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -27785,6 +27779,12 @@ d'importance vitale intéressé ainsi qu'à toutes les autorités administrative
 	  - Code de la défense. - art. R1332-24 (V)
 	  - Code de la défense. - art. R1332-32 (V)
 	  - Code des transports - art. R5332-21 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-10 (V)
+	  - Code de la défense. - art. R1332-17 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ##### Section 5 : Plans de protection
@@ -27807,26 +27807,18 @@ protection permanentes, à compter de la date d'entrée en vigueur du plan parti
 d'importance vitale par l'autorité administrative dont il relève. 
 
 Le plan de sécurité d'opérateur d'importance vitale, ainsi que tous les documents qui s'y rattachent, sont protégés dans les
-conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale. Le
-plan comporte un rapport de présentation qui ne contient aucune information classifiée.
+conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la
+défense nationale. Le plan comporte un rapport de présentation qui ne contient aucune information classifiée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-1 (V)
-	  - Code de la défense. - art. R1332-18 (V)
-	  - Code de la défense. - art. R1332-28 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 13
 	  - Décret n°2006-212 du 23 février 2006 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -27835,6 +27827,13 @@ plan comporte un rapport de présentation qui ne contient aucune information cla
 	  - Code de la défense. - art. R1332-24 (V)
 	  - Code de la défense. - art. R1332-30 (V)
 	  - Code de la défense. - art. R1332-31 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-1 (V)
+	  - Code de la défense. - art. R1332-18 (V)
+	  - Code de la défense. - art. R1332-28 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ###### Article R1332-20
@@ -27890,27 +27889,26 @@ La commission s'assure notamment que :
 de réaction à une menace. 
 
 La commission émet dans un délai de trois mois à compter de la date de réception du plan un avis qui est notifié à
-l'opérateur. Cet avis est protégé dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la
-protection des secrets de la défense nationale.
+l'opérateur. Cet avis est protégé dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense
+relatifs à la protection du secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°2006-212 du 23 février 2006 - art. 15 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°98-608 du 17 juillet 1998 (V)
 	  - Code de la défense. - art. R1332-10 (V)
 	  - Code de la défense. - art. R1332-13 (V)
 	  - Code de la défense. - art. R1332-20 (V)
 	  - Code de la défense. - art. R1332-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-212 2006-02-23 art. 15
-	  - Décret n°2006-212 du 23 février 2006 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Code de la défense. - art. R2311-1 (V)
 
 	**Cité par**:
 
@@ -27930,31 +27928,30 @@ Le chef d'état-major des armées désigne les points d'importance vitale dépen
 relèvent du ministre de la défense. 
 
 La décision de l'autorité administrative n'est pas publiée. Elle est notifiée à l'opérateur d'importance vitale et est
-protégée dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
-défense nationale.
+protégée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du
+secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-21 (V)
-	  - Code de la défense. - art. R1332-3 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 16
 	  - Décret n°2006-212 du 23 février 2006 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
 	  - Décret n°2017-282 du 2 mars 2017 - art. 15 (V)
 	  - Code de la défense. - art. R1332-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-21 (V)
+	  - Code de la défense. - art. R1332-3 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ##### Sous-section 2 : Elaboration et approbation du plan particulier de protection
@@ -28001,26 +27998,25 @@ Il comporte des mesures permanentes de protection et des mesures temporaires et 
 Il prévoit les délais de réalisation de ces mesures. Ces délais courent à compter de dates identiques à celles mentionnées au
 troisième alinéa de l'article R. 1332-19. 
 
-Le plan particulier de protection et tous les documents qui s'y rattachent sont protégés dans les conditions prévues par le
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale. Il comporte un rapport de
-présentation qui ne contient aucune information classifiée.
+Le plan particulier de protection et tous les documents qui s'y rattachent sont protégés dans les conditions prévues par les
+articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. Il comporte
+un rapport de présentation qui ne contient aucune information classifiée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-18 (V)
-	  - Code de la défense. - art. R1332-19 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 18
 	  - Décret n°2006-212 du 23 février 2006 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-18 (V)
+	  - Code de la défense. - art. R1332-19 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 	**Cité par**:
 
@@ -28040,29 +28036,28 @@ particulier de protection à l'autorité militaire désignée par le chef d'éta
 Le préfet de département ou l'autorité militaire statue dans un délai de six mois à compter de la date de réception du plan. 
 
 La décision portant approbation du plan particulier de protection est notifiée à l'opérateur d'importance vitale intéressé et
-est protégée dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
-défense nationale.
+est protégée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la
+protection du secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 19
 	  - Décret n°2006-212 du 23 février 2006 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 31 mars 2017 - art. 2 (V)
 	  - Code de la défense. - art. R1332-26 (V)
 	  - Code de la défense. - art. R1332-28 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ###### Article R1332-26
@@ -28272,25 +28267,24 @@ avec le délégué de l'opérateur d'importance vitale pour la défense et la s�
 conforme au plan type mentionné au 3° de l'article R. 1332-18. 
 
 Le plan de protection externe qui précise les mesures planifiées de vigilance, de prévention, de protection et de réaction
-prévues par les pouvoirs publics est protégé dans les conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à
-la protection des secrets de la défense nationale. Il comporte un rapport de présentation qui ne contient aucune information
-classifiée.
+prévues par les pouvoirs publics est protégé dans les conditions prévues par les articles R. 2311-1 et suivants du code de la
+défense relatifs à la protection du secret de la défense nationale. Il comporte un rapport de présentation qui ne contient
+aucune information classifiée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-18 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 26
 	  - Décret n°2006-212 du 23 février 2006 - art. 26 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-18 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ##### Sous-section 6 : Contestation des actes pris par l'autorité administrative
@@ -28394,24 +28388,18 @@ différents et interdépendants, le préfet du département dans le ressort duqu
 d'importance vitale, par arrêté pris après avis de la commission mentionnée à l'article R. 1332-13.
 
 L'arrêté délimite la zone et identifie les opérateurs d'importance vitale. Il est notifié à chacun des opérateurs
-d'importance vitale ainsi qu'à l'officier général de la zone de défense et est protégé dans les conditions prévues par le
-décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale.
+d'importance vitale ainsi qu'à l'officier général de la zone de défense et est protégé dans les conditions prévues par les
+articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R1332-13 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 29 al. 1 et 2
 	  - Décret n°2006-212 du 23 février 2006 - art. 29 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -28423,13 +28411,18 @@ décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la
 	  - Code de la défense. - art. R1651-3 (V)
 	  - Code des transports - art. R5332-22 (V)
 
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-13 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+
 
 ###### Article R1332-37
 
 Les opérateurs d'importance vitale désignent en commun un délégué pour la défense et la sécurité de la zone d'importance
 vitale, dont ils communiquent le nom au préfet de département mentionné à l'article R. 1332-35 ou au préfet de département
-coordonnateur mentionné à l'article R. * 1332-36. Cette personne est habilitée dans les conditions prévues par le décret n°
-98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale. 
+coordonnateur mentionné à l'article R. * 1332-36. Cette personne est habilitée dans les conditions prévues par les articles
+R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. 
 
 Le délégué pour la défense et la sécurité de la zone d'importance vitale exerce pour cette zone les fonctions prévues au
 deuxième alinéa de l'article R. 1332-5. 
@@ -28439,21 +28432,13 @@ d'importance vitale de cette zone exercent en commun cette fonction.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-608 du 17 juillet 1998 (V)
-	  - Code de la défense. - art. R*1332-36 (V)
-	  - Code de la défense. - art. R1332-35 (V)
-	  - Code de la défense. - art. R1332-5 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 29 al. 5, 6 et 7
 	  - Décret n°2006-212 du 23 février 2006 - art. 29 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -28465,6 +28450,13 @@ d'importance vitale de cette zone exercent en commun cette fonction.
 	  - Code de la défense. - art. R1661-3 (M)
 	  - Code de la défense. - art. R1671-3 (M)
 	  - Code des transports - art. R5332-25 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1332-36 (V)
+	  - Code de la défense. - art. R1332-35 (V)
+	  - Code de la défense. - art. R1332-5 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ###### Article R1332-38
@@ -32016,28 +32008,23 @@ prises par un autre Etat ou par un groupe d'Etats.
 
 ###### Article R*1336-1
 
-Le ministre chargé des transports est responsable de la satisfaction des besoins de transport nécessaires à la défense, dans
-les domaines définis à l'article R. * 1141-2. 
+Pour l'application des articles L. 1141-1 et L. 1141-2 et de la loi n° 2004-811 du 13 août 2004 de modernisation de la
+sécurité civile, la responsabilité de la préparation et de l'exécution des mesures de défense et de sécurité concernant les
+transports et les travaux publics et le bâtiment, incombe aux ministres chargés des transports et de l'équipement. 
 
-Il lui appartient de prendre ou de provoquer, en tout temps, les mesures propres à préparer la réunion et l'utilisation de
-tous les moyens civils de transport et leur adaptation aux besoins de la défense, tant en ce qui concerne les personnels que
-les moyens matériels. 
+Il leur appartient de prendre ou de provoquer, en tout temps, les mesures propres à préparer l'emploi de tous les moyens
+civils de transports et d'exécution de travaux publics et de bâtiment ainsi que leur adaptation aux besoins de la défense et
+à la protection générale des populations. 
 
-Il prescrit, en particulier, toutes les mesures de contrôle et d'immatriculation nécessaires. 
+Ils prescrivent en particulier toutes les mesures de recensement et de contrôle nécessaires à la connaissance de la ressource
+mobilisable dont ils ont la charge. 
 
-Dans les cas prévus à l'article L. 1111-2, le ministre chargé des transports fait exécuter, conformément aux directives du
-Premier ministre concernant la hiérarchie et l'ordre d'urgence des besoins, les transports de tous ordres par les moyens
-civils nécessaires aux opérations militaires, à la défense civile et à la défense économique. 
+En situation d'urgence ou dans les cas d'application de l'article L. 1111-2, ils sont notamment responsables des mesures à
+prendre pour satisfaire au mieux les besoins des départements ministériels utilisateurs. 
 
-Dès la mise en garde ou la mobilisation générale ou, dans les cas prévus à l'article L. 1111-2, à partir d'une date fixée par
-décret, le ministre chargé des transports est chargé d'établir et d'appliquer le régime des priorités de transport suivant
-les directives gouvernementales. 
-
-Les transports militaires opérationnels ont la priorité sur tous les autres transports, sauf décision contraire du Premier
-ministre. Les transports de prémobilisation, de mobilisation, y compris ceux de soutien des forces, sont des transports
-opérationnels et jouissent de la priorité qui leur est attachée. 
-
-En application de l'article L. 1142-1, cette priorité s'exerce dès la mise en garde.
+Dans ce cadre, les ministres mettent en œuvre les directives du Premier ministre en matière de coordination et de
+hiérarchisation des besoins de transports, de travaux publics et de bâtiment, en appliquant, si nécessaire, le régime des
+priorités dans l'emploi de la ressource.
 
 **Liens relatifs à cet article**
 
@@ -32045,15 +32032,14 @@ En application de l'article L. 1142-1, cette priorité s'exerce dès la mise en 
 
 	  - Décret n°65-1103 du 15 décembre 1965 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. L1142-1 (V)
-	  - Code de la défense. - art. R*1141-2 (V)
+	  - Code de la défense. - art. L1141-1 (V)
 
 	**Cité par**:
 
@@ -32070,34 +32056,37 @@ En application de l'article L. 1142-1, cette priorité s'exerce dès la mise en 
 
 ###### Article R*1336-2
 
-L'action du ministre chargé des transports s'exerce sur tous les transports par moyens civils mobiles. 
+Pour l'application de l'article R. * 1336-1, 
 
-Néanmoins, par dérogation aux attributions prévues à l'article R. * 1336-1 et au premier alinéa du présent article : 
+1° L'action du ministre chargé des transports s'exerce sur :
 
-1° Les commandants en chef investis par le Premier ministre ont pouvoir de donner, dans la zone géographique intéressée, aux
-chefs des organismes de transport, les instructions voulues pour faire assurer les transports nécessaires à la conduite des
-opérations et à l'entretien de leurs forces. 
+- les services, établissements et entreprises gérant et exploitant des infrastructures de transports ;
 
-2° Les mêmes pouvoirs peuvent être exercés sur décision du Premier ministre par les commandants supérieurs et les officiers
-généraux de zone de défense, dans les parties du territoire où se développent les opérations militaires. 
+- les entreprises de transports et les entreprises gérant et exploitant des moyens de transports ; 
 
-3° Dans les cas fixés par le Premier ministre ou lorsque celui-ci, saisi d'une demande du ministre de la défense, estime que
-les circonstances l'exigent, la direction de l'exploitation de tout ou partie de certains moyens de transport dans des zones
-déterminées est remise au ministre de la défense pour une période définie. 
+2° L'action du ministre chargé de l'équipement s'exerce sur :
 
-4° Lorsque, par application de l'article L. 2223-12, le ministre de la défense a requis l'exploitation de certains moyens de
-transport, cette exploitation est remise au ministre chargé des transports.
+- les entreprises de travaux publics ;
+
+- les entreprises de bâtiment ;
+
+- les autres entreprises dont l'activité contribue, directement ou indirectement, à la réalisation des travaux publics ou des
+travaux de bâtiment. 
+
+Les délégués de zone des ministères chargés des transports et de l'équipement se tiennent informés sur la disponibilité des
+moyens des entités nommées ci-dessus. Ils peuvent en disposer lorsque les circonstances l'exigent, en accord avec les
+autorités dont relèvent ces services et moyens ou sur décision du préfet de zone, du préfet de région ou du préfet de
+département.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 2 (M)
 	  - Décret n°65-1103 du 15 décembre 1965 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
 
 	**Cité par**:
 
@@ -32109,944 +32098,38 @@ transport, cette exploitation est remise au ministre chargé des transports.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2223-12 (V)
 	  - Code de la défense. - art. R*1336-1 (V)
-
-
-##### Sous-section 2 : Commissariat général aux transports et comité des transports.
-
-###### Article R*1136-20
-
-Les directeurs des complexes portuaires et les chefs des services maritimes exercent leur activité en liaison avec les
-autorités navales et le directeur régional des transports maritimes de la zone de défense à laquelle ils sont rattachés.
-
-Les directeurs de ces complexes et les chefs de ces services reçoivent des directives du représentant du commissaire général
-aux transports dans la zone de défense où se trouvent leurs établissements.
-
-Dans chaque zone de défense, un représentant peut être désigné par le directeur des ports et de la navigation maritimes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 7 al. 14 à 16
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
 
 
 ###### Article R*1336-3
 
-Pour l'organisation et l'exécution des transports de défense, le ministre chargé des transports dispose, en tout temps, d'un
-organe de direction, le commissariat général aux transports, et d'un organe consultatif, le comité des transports.
+Par dérogation à l'article R. * 1336-1, lorsque des opérations militaires se déroulent sur le territoire national, le chef
+d'état-major des armées et les officiers généraux de zone de défense ont pouvoir de donner aux organismes mentionnés à
+l'article R. * 1336-2, dans la zone géographique intéressée, les instructions utiles à l'exécution des transports et travaux
+nécessaires à la conduite des opérations et à l'entretien de leurs forces. 
+
+Dans le cadre des mesures prévues à l'article L. 1111-2, lorsque le ministre de la défense requiert l'emploi de moyens de
+transports ou de travaux publics et de bâtiment, la direction de l'exploitation de ces moyens est remise soit au ministre
+chargé des transports, soit au ministre chargé de l'équipement. 
+
+Dans les cas fixés par le Premier ministre ou lorsque celui-ci estime que les circonstances l'exigent, la direction de
+l'exploitation de tout ou partie des moyens de transports ou de travaux publics et de bâtiment dans des zones déterminées est
+confiée au ministre de la défense pour une période définie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 1
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. R*1336-1 (V)
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R*1336-9 (V)
-
-
-###### Article R*1336-4
-
-Le commissariat général aux transports est dirigé soit par un haut fonctionnaire du ministère chargé des transports, soit par
-un officier général, qui, nommé par décret pris en conseil des ministres, prend le titre de commissaire général aux
-transports et est placé sous l'autorité directe du ministre chargé des transports.
-
-Le commissaire général est secondé par un commissaire général adjoint qui, nommé par décret, est choisi parmi les officiers
-généraux si le commissaire général est un haut fonctionnaire du ministère chargé des transports, parmi les hauts
-fonctionnaires de ce ministère si le commissaire général est un officier général. La nomination des officiers généraux prévue
-au présent article intervient sur proposition conjointe du ministre chargé des transports et du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1336-13 (V)
-
-
-###### Article R*1336-5
-
-Le commissariat général aux transports comprend un commissariat aux transports terrestres, un commissariat aux transports
-maritimes, un commissariat aux transports aériens, une direction de la météorologie et une chambre de destination des
-navires, dont la composition respective est la suivante :
-
-1° Le commissariat aux transports terrestres comprend :
-
-a) Une direction des transports par fer ;
-
-b) Une direction des transports routiers ;
-
-c) Une direction des transports de navigation intérieure ;
-
-d) Une direction des voies navigables ;
-
-e) Une direction des routes ;
-
-f) Une direction de la sécurité et de la circulation routières ;
-
-g) Une section des transports intérieurs de produits pétroliers dont le chef est désigné par arrêté conjoint du ministre
-chargé des transports et du ministre chargé de l'industrie.
-
-2° Le commissariat aux transports maritimes comprend :
-
-a) Une direction des transports maritimes comportant, d'une part, un service des transports maritimes d'intérêt général et,
-d'autre part, un service des transports militaires par mer ;
-
-b) Une direction des ports maritimes ;
-
-c) Une direction de la maintenance et de l'administration.
-
-3° Le commissariat aux transports aériens comprend :
-
-a) Une direction des transports aériens ;
-
-b) Une direction des bases aériennes ;
-
-c) Une direction de la navigation aérienne.
-
-4° La chambre de destination des navires comprend, sous l'autorité d'un président délégué permanent du commissaire général
-aux transports, des membres civils et militaires représentant les divers organismes intéressés.
-
-Les directions énumérées aux 1°, 2° et 3° sont placées sous l'autorité des commissaires pour tout ce qui concerne les besoins
-de transports de la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 14 et 29
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Arrêté du 9 juillet 2008 - art. 2.9.1 (V)
-
-
-###### Article R*1336-6
-
-Sauf disposition contraire, les fonctions de commissaire aux transports terrestres sont exercées par le directeur général de
-la mer et des transports ; celles de commissaire aux transports maritimes sont exercées par le directeur général de la mer et
-des transports ou par le directeur chargé du transport maritime ; celles de commissaire aux transports aériens sont exercées
-par le directeur général de l'aviation civile.
-
-Chacun de ces directeurs généraux est assisté par un commissaire délégué, désigné par décret sur proposition du ministre
-chargé des transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 30
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1336-8 (V)
-
-
-###### Article R*1336-7
-
-Les commissaires et les commissaires délégués sont secondés soit par des officiers généraux désignés par décret sur
-proposition conjointe du ministre de la défense et du ministre chargé des transports, soit par des officiers supérieurs
-désignés par arrêté du ministre chargé des transports sur proposition du ministre de la défense. Ces officiers généraux ou
-supérieurs sont détenteurs d'une lettre de service signée par les deux ministres. Ils sont mis en place en tout temps.
-
-Les titulaires des directions particulières créées spécialement en vue de la défense sont désignés par décret sur proposition
-du ministre chargé des transports.
-
-Le président de la chambre de destination des navires est nommé par arrêté du ministre chargé des transports sur proposition
-du commissaire général aux transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 31 à 33
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1661-2 (V)
-
-
-###### Article R*1336-8
-
-Lorsque les circonstances l'exigent et au plus tard à la mise en garde, les directeurs ainsi que le chef de la section des
-transports intérieurs de produits pétroliers sont également secondés par des officiers supérieurs adjoints désignés par
-arrêté du ministre chargé des transports sur proposition du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 34
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R*1336-9
-
-L'organisation, la composition et les attributions des organismes mentionnés aux articles R. * 1336-3 à R. * 1336-6 sont
-précisées, en tant que de besoin, par des arrêtés et des instructions du Premier ministre sur proposition du ministre chargé
-des transports et après avis, le cas échéant, des autres ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 35
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1336-3 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1651-2 (V)
-
-
-###### Article R*1336-10
-
-Le commissariat général aux transports dispose, en permanence : 
-
-1° Des personnels civils désignés par le ministre chargé des transports ; 
-
-2° Des personnels militaires nécessaires aux officiers adjoints, désignés par le ministre de la défense. 
-
-Les effectifs de ces personnels tant civils que militaires sont, dans les cas prévus à l'article L. 1111-2, renforcés
-conformément aux plans de mobilisation notamment par du personnel assujetti aux obligations du service de défense. 
-
-Les moyens matériels nécessaires sont fournis par le ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2 (V)
-
-
-###### Article R*1336-11
-
-Le commissaire général aux transports assume, en permanence, sous l'autorité du ministre chargé des transports, les missions
-suivantes :
-
-1° La préparation des mesures de mise en garde et de mobilisation du personnel et du matériel ;
-
-2° L'instruction du personnel appelé à participer à l'exécution des transports nécessaires à la défense ;
-
-3° L'évaluation des besoins généraux de ces transports, tant en ce qui concerne les matériels et l'infrastructure que les
-possibilités d'exploitation, compte tenu des demandes des départements ministériels intéressés ;
-
-4° La détermination des mesures à prendre pour l'entretien et l'amélioration des ressources, contrôle de l'application de ces
-mesures ;
-
-5° L'établissement du programme général d'emploi des ressources en moyens de transport ;
-
-6° L'élaboration des plans de transport de défense, compte tenu des propositions des départements ministériels intéressés ;
-
-7° La participation aux négociations internationales relatives aux transports de défense ;
-
-8° L'élaboration des textes réglementaires ;
-
-9° Le conseil et l'expertise visant à satisfaire en cas de crise les demandes en moyens de transport exprimées par les
-départements ministériels intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 5 al. 1 et 10
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R*1336-12
-
-Dans les cas prévus à l'article L. 1111-2, le commissaire général aux transports assure les missions suivantes : 
-
-1° La direction de l'exploitation de l'ensemble des moyens de transports ; 
-
-2° La détermination et satisfaction des besoins de transport, décisions à prendre compte tenu des ordres d'urgence résultant
-des directives gouvernementales et des indications formulées par le comité des transports concernant notamment le régime des
-priorités de transport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 5 al. 11 et 13
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1336-14 (V)
-	  - Code de la défense. - art. R*1651-2 (V)
-
-
-###### Article R*1336-13
-
-Les officiers généraux et supérieurs mentionnés à l'article R. * 1336-4 veillent à la satisfaction du besoin des armées. Ils
-font connaître les mesures de sécurité prescrites et les sujétions qui en découlent et ils s'assurent de leur exécution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 5 al. 14
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1336-4 (V)
-
-
-###### Article R*1336-14
-
-I.-Dans chaque zone de défense, un représentant du commissaire général aux transports assure, sous l'autorité du préfet de
-zone, la coordination des actions de défense en matière de transports. 
-
-Ce représentant est le chef du service de défense de zone pour l'équipement et les transports. 
-
-II.-Dans les cas prévus à l'article L. 1111-2, des délégués des chefs de service des divers modes de transports, désignés en
-tout temps, assistent le représentant du commissaire général aux transports dans sa mission de coordination de l'exécution
-des transports. 
-
-Des arrêtés du ministre chargé des transports fixent, pour chaque zone de défense, la composition de cette délégation et le
-rôle des délégués. 
-
-Dès qu'il l'estime nécessaire, le général commandant la zone accrédite un officier supérieur, désigné en tout temps, auprès
-du représentant du commissaire général aux transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 5 bis
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 5 bis (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1661-2 (V)
-	  - Code de la défense. - art. R*2213-16 (V)
-
-
-###### Article R*1336-15
-
-Les services régionaux et locaux dépendant du commissariat aux transports terrestres sont :
-
-1° Pour les transports par voie ferrée : les directions régionales de la Société nationale des chemins de fer français,
-auxquelles sont rattachés les autres services locaux de chemins de fer ;
-
-2° Pour les transports routiers et l'infrastructure routière : les directions régionales et les directions départementales de
-l'équipement ;
-
-3° Pour les transports de navigation intérieure et les infrastructures de voies navigables : les directions régionales de la
-navigation et les services de la navigation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 6 al. 1 à 4
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1336-16 (Ab)
-	  - Code de la défense. - art. R*1651-1 (V)
-
-
-###### Article R*1336-16
-
-Dans chaque région ainsi que dans la collectivité territoriale de Corse, le directeur régional de l'équipement est le
-représentant du commissaire aux transports terrestres. 
-
-Ce représentant assure, sous l'autorité du préfet de région, la coordination des actions de défense en matière de transports
-terrestres et d'infrastructures mentionnés à l'article R. * 1336-15, conformément aux instructions du commissaire aux
-transports terrestres et aux directives du représentant du commissaire général aux transports dans la zone de défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 6 al. 5 et 6
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1336-15
-
-
-###### Article R*1336-17
-
-Dans les cas prévus à l'article L. 1111-2, des délégués aux divers modes de transports terrestres, désignés en tout temps,
-assistent le représentant du commissaire aux transports terrestres dans sa mission de coordination de l'exécution des
-transports terrestres. 
-
-Des arrêtés des préfets de zone fixent la composition de cette délégation pour chaque région. 
-
-Dès la mise en garde, l'officier général de zone de défense accrédite un officier auprès du représentant du commissaire aux
-transports terrestres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 6 al. 7 à 9
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-###### Article R*1336-18
-
-Dans chaque département, sous l'autorité du préfet, le directeur départemental de l'équipement est responsable de la
-préparation et de l'exécution des mesures de défense correspondant à ses attributions techniques spécifiques, suivant les
-instructions reçues de l'administration centrale, de la zone et de la région.
-
-Dès la mise en garde, l'autorité militaire peut accréditer un officier pour la représenter auprès des directeurs
-départementaux de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 6 al. 10 et 11
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-19
-
-I. - Les services régionaux et locaux dépendant du commissariat aux transports maritimes sont :
-
-1° Pour la direction des ports et de la navigation maritimes :
-
-a) Les ports maritimes groupés dans des complexes portuaires ;
-
-b) Les services maritimes ;
-
-2° Pour la direction des transports maritimes :
-
-a) Au titre du service des transports d'intérêt général ;
-
-- les directions régionales des transports maritimes ;
-
-- les services locaux des transports maritimes rattachés à une direction régionale ;
-
-- les postes de correspondants des transports maritimes rattachés à un service local ;
-
-b) Au titre du service des transports militaires par mer, les services régionaux et locaux qui peuvent être établis en tant
-que de besoin soit en permanence, soit pour les besoins d'une opération, par le chef du service des transports militaires
-avec l'approbation du directeur des transports maritimes.
-
-II. - Les organes du service des transports d'intérêt général suppléent les organes du service des transports militaires par
-mer partout où ces derniers n'ont pas été mis en place.
-
-III. - Les services dépendant de la direction des transports maritimes sont organisés : en France, dans le cadre des régions
-maritimes et des complexes portuaires, hors de France, dans le cadre des zones de trafic maritime français. Le siège, la
-compétence territoriale, les attributions, l'organisation et le fonctionnement de ces services sont fixés par instruction du
-Premier ministre, sur proposition du ministre chargé des transports après avis des ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 7 al. 1 à 13
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-21
-
-I.-Dans chaque zone de défense ayant une frontière maritime ou dans chaque zone de trafic maritime et dans l'étendue de sa
-circonscription territoriale, le directeur régional des transports maritimes coordonne et contrôle l'action des services qui
-lui sont rattachés conformément aux instructions du commissaire aux transports maritimes dont il est le représentant. Il
-exerce son action en liaison avec les autorités navales et les autorités responsables des complexes portuaires. Il est
-assisté par l'officier chef du service régional du service des transports militaires par mer. 
-
-II.-Le directeur régional des transports maritimes reçoit des directives des représentants du commissaire général aux
-transports dans les zones de défense dont sa circonscription territoriale forme la limite maritime. Dans les cas prévus à
-l'article L. 1111-2, il met en place ses délégués auprès du ou des représentants du commissaire général aux transports pour
-l'assister dans sa mission de coordination.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 7 al. 17 et 18
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-###### Article R*1336-22
-
-I.-Les services régionaux et locaux dépendant du commissariat aux transports aériens sont : 
-
-1° Les directions de l'aviation civile ; 
-
-2° Les services départementaux et spécialisés des bases aériennes ; 
-
-3° Aéroports de Paris. 
-
-II.-Le directeur de l'aviation civile est le représentant du commissaire aux transports aériens : à ce titre, dans les zones
-de défense dans lesquelles se trouve le siège d'une direction de l'aviation civile, il assure la coordination de l'action des
-services contribuant à l'exécution des transports aériens ainsi qu'à la réalisation et à l'entretien de l'infrastructure. 
-
-Dans les zones de défense dans lesquelles ne se trouve pas le siège d'une direction de l'aviation civile, le directeur de
-l'aviation civile délègue ses fonctions au chef du service de défense de zone ; pour l'exercice de ses responsabilités, ce
-dernier fait appel à l'assistance des chefs de délégations territoriales de l'aviation civile. 
-
-III.-Les représentants du commissaire aux transports aériens reçoivent des directives du représentant du commissaire général
-aux transports dans la zone de défense dont leurs circonscriptions territoriales font partie. Dans les cas prévus à l'article
-L. 1111-2, ils mettent en place leurs délégués auprès dudit représentant du commissaire général aux transports. Ils sont
-assistés par un officier adjoint désigné par le général commandant la région aérienne. 
-
-IV.-Des arrêtés du ministre chargé des transports fixent le détail de l'organisation ci-dessus définie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-###### Article R*1336-23
-
-Les services régionaux et locaux dépendant de la direction de la météorologie sont :
-
-1° Les directions interrégionales de la météorologie ;
-
-2° Les centres départementaux de la météorologie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-24
-
-I. - En cas de rupture des communications, le représentant du commissaire général aux transports assure, sous l'autorité du
-préfet de zone, la direction générale des transports de la partie isolée. Les représentants des commissaires aux transports
-terrestres, maritimes et aériens mentionnés dans les articles précédents assurent, chacun en ce qui le concerne, la direction
-des transports correspondants.
-
-II. - S'il en est besoin, le représentant du commissaire général aux transports a délégation pour assurer les désignations
-complémentaires nécessaires pour les postes dépourvus de titulaires par suite des circonstances.
-
-III. - En outre, le commissaire général et les commissaires peuvent, si les circonstances l'exigent, instituer, à titre
-temporaire, d'autres représentants dont la compétence est fixée par lettre de service. Des consignes spéciales sont établies
-et notifiées en temps opportun par le commissaire général aux transports pour l'exercice de ces représentations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-25
-
-Les moyens à mettre en oeuvre pour la satisfaction des besoins de transport nécessaires à la défense sont :
-
-1° Les infrastructures ferroviaires, les matériels roulants et les moyens afférents appartenant à des sociétés et entreprises
-françaises ;
-
-2° Les infrastructures routières, aériennes et fluviales et les installations et outillages portuaires ;
-
-3° Les véhicules utilitaires à traction automobile immatriculés en France, les bateaux de navigation intérieure immatriculés
-en France, les navires de commerce français et les navires de commerce étrangers affrétés ou mis à la disposition du
-Gouvernement français, les aéronefs civils immatriculés en France ;
-
-4° Dans les conditions qui sont fixées par un arrêté du ministre chargé des transports et du ministre chargé de l'industrie,
-les garages, entrepôts, ateliers et toutes autres installations nécessaires à l'emploi des moyens énumérés ci-dessus ;
-
-5° Les moyens des professions auxiliaires de transport.
-
-6° Les conteneurs de tous types et tous les moyens de chargement et déchargement, levage et manutention, stockage, gestion et
-administration concourant à leur utilisation et appartenant tant aux sociétés ou entreprises de transports routiers,
-ferroviaires, maritimes, aériens et fluviaux qu'aux auxiliaires de transports et aux sociétés de location.
-
-7° D'une façon générale tous les moyens de transports combinés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 12 al. 1 à 8
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1336-26 (Ab)
-	  - Code de la défense. - art. R*1336-28 (Ab)
-	  - Code de la défense. - art. R*1336-29 (Ab)
-
-
-###### Article R*1336-26
-
-Le ministre chargé des transports établit et tient à jour l'inventaire des moyens mentionnés à l'article R. * 1336-25. 
-
-Il prépare l'emploi de ces moyens à l'exception de ceux dont la réquisition est prévue au profit de la constitution des
-forces armées. La mobilisation de ces derniers moyens incombe au ministre de la défense en accord avec le ministre chargé des
-transports. 
-
-Il prépare la répartition, entre les entreprises exécutant des transports, des contingents de produits industriels qui
-pourraient être mis à sa disposition en application l'article R. * 1141-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 12 al. 9 et 10
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1141-2
-	  - Code de la défense. - art. R*1336-25
-
-
-###### Article R*1336-27
-
-Pour l'accomplissement de sa mission, le ministre chargé des transports peut faire appel au concours des organismes
-professionnels mentionnés à l'article L. 1141-2 et peut, conformément aux dispositions de cet article, étendre, en cette
-matière et sous son contrôle, la compétence de ces organismes à l'ensemble des entreprises d'une profession, qu'elles soient
-ou non adhérentes à ces organismes. 
-
-Le ministre chargé des transports fixe par arrêté la liste des organismes dont il utilise le concours. 
-
-Il règle, en tant que de besoin, par des arrêtés et des instructions les modalités de ce concours, ainsi que les conditions
-dans lesquelles les moyens de ces organismes, dans les cas prévus à l'article L. 1111-2, sont mis à la disposition du
-commissariat général aux transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 13 al. 1 à 3
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-	  - Code de la défense. - art. L1141-2
-
-
-###### Article R*1336-28
-
-La ressource en véhicules utilitaires à traction automobile mentionnée à l'article R. * 1336-25, exception faite de ceux dont
-la réquisition est prévue au profit des forces armées, est constituée en un parc d'intérêt national dont l'organisation, la
-mise sur pied et le fonctionnement sont fixés par arrêté du ministre chargé des transports. 
-
-Des véhicules non utilitaires, nécessaires à l'encadrement et aux liaisons, peuvent être incorporés dans le parc d'intérêt
-national. 
-
-Les éléments du parc d'intérêt national sont normalement à la disposition du directeur départemental de l'équipement du
-département auquel ces éléments sont rattachés. Toutefois, l'emploi de certains d'entre eux peut être réservé à l'échelon
-central, à l'échelon de la zone ou à l'échelon de la région.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 13 al. 4 à 6
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1336-25
-
-
-###### Article R*1336-29
-
-I.-En tous temps, des conventions peuvent être passées entre, d'une part, le ministre chargé des transports ou les ministres
-intéressés en accord avec celui-ci et, d'autre part, les entreprises détenant les moyens mentionnés à l'article R. * 1336-25,
-à l'effet d'exécuter certains transports ou de fournir certaines prestations nécessaires aux transports en cas d'application
-des articles L. 1111-2 et L. 2141-1. 
-
-Le personnel et le matériel ayant fait l'objet de ces conventions ne peuvent être soumis à réquisition sans autorisation
-écrite du ministre chargé des transports. 
-
-II.-Dans les conditions prévues par l'article 7 du décret n° 62-367 du 26 mars 1962 portant application de l'ordonnance n°
-59-63 du 6 janvier 1959 relative aux réquisitions de biens et de services, les préfets de zone, les préfets de région et de
-département disposent du droit de réquisition et de blocage temporaire, à l'effet de maintenir à la disposition des autorités
-habilitées l'ensemble des moyens mentionnés à l'article R. * 1336-25, qui concourent à la satisfaction des besoins de
-transports nécessaires à la défense. 
-
-Dans les cas prévus à l'article L. 1111-2 et en vertu des dispositions de l'article 7 du décret n° 62-367 du 26 mars 1962
-susmentionné, ils en font assurer l'exécution à l'échelon de la zone, de la région ou du département par les chefs des
-services de zone et des services régionaux et locaux dépendant du commissariat général aux transports. 
-
-III.-Ces autorités sont également habilitées à passer, au nom des ministres chargés de l'équipement et des transports, les
-conventions mentionnées au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-63 du 6 janvier 1959
-	  - Décret n°62-367 du 26 mars 1962 - art. 7
-	  - Code de la défense. - art. L1111-2
-	  - Code de la défense. - art. L2141-1
-	  - Code de la défense. - art. R*1336-25
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-30
-
-Le régime des priorités de transport mentionné à l'article R. * 1336-1 entre en vigueur dès la mise en garde ou la
-mobilisation générale, ou bien, dans les autres cas prévus à l'article L. 1111-2, à partir d'une date fixée par décret. 
-
-Le régime des priorités est établi par le ministre chargé des transports suivant les directives gouvernementales concernant
-l'ordre d'urgence des besoins à satisfaire et après consultation du comité des transports. Pour l'application de ce régime le
-ministre chargé des transports définit les orientations à suivre par les personnes et les entreprises qui détiennent les
-moyens de transport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 14-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-	  - Code de la défense. - art. R*1336-1
-
-
-###### Article R*1336-31
-
-Des dispositions spéciales peuvent être prévues pour la zone de défense de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 15 al. 1
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-
-###### Article R*1336-32
-
-La composition, l'organisation et les attributions du comité des transports sont fixées par arrêté du Premier ministre, pris
-sur proposition du ministre chargé des transports, après avis des ministres intéressés. 
-
-Il est présidé par le commissaire général aux transports ou par le commissaire général adjoint. 
-
-Ce comité a pour objet de présenter au commissaire général aux transports toutes propositions en vue de la coordination entre
-les différents modes de transport. Il est, en outre, dans les cas prévus à l'article L. 1111-2, obligatoirement consulté pour
-l'établissement et l'application du régime des priorités de transport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1103 1965-12-15 art. 3 al. 36 à 38
-	  - Décret n°65-1103 du 15 décembre 1965 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
 
 
 ##### Sous-section 4 : Circulation routière pour la défense
@@ -33310,6 +32393,354 @@ Ces matériels sont agréés et entretenus par l'administration militaire.
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
+
+##### Section 1 : Transports et travaux
+
+##### Sous-section 1 : Dispositions générales
+
+##### Sous-section 2 : Dispositions particulières
+
+##### Paragraphe 1 : Commissariat aux transports  et aux travaux publics et de bâtiment.
+
+###### Article R*1336-4
+
+Pour l'exécution de leur mission, les ministres chargés des transports et de l'équipement disposent en tout temps d'un organe
+de direction, le commissariat aux transports et aux travaux publics et de bâtiment, et d'un organe consultatif, le Comité
+national aux transports et aux travaux publics et de bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1336-13 (V)
+
+
+###### Article R*1336-5
+
+Le commissariat aux transports et aux travaux publics et de bâtiment est dirigé par un commissaire aux transports et aux
+travaux publics et de bâtiment nommé par décret en conseil des ministres. 
+
+Si le commissaire est civil, il est assisté par un commissaire adjoint choisi parmi les officiers généraux ou supérieurs. Si
+le commissaire est officier général, il est assisté par un commissaire adjoint choisi parmi les hauts fonctionnaires des
+ministères chargés des transports et de l'équipement. Le commissaire adjoint est nommé par arrêté conjoint du ministre de la
+défense et des ministres chargés des transports et de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 juillet 2008 - art. 2.9.1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+
+###### Article R*1336-6
+
+Le commissariat comprend une délégation aux transports terrestres, une délégation aux transports maritimes et une délégation
+aux transports aériens. 
+
+Chaque délégation est dirigée par un commissaire délégué. 
+
+Les fonctions de commissaires délégués aux transports terrestres, aux transports maritimes et aux transports aériens sont
+exercées par les directeurs d'administration centrale chargés de ces domaines, sauf disposition contraire. Les commissaires
+délégués sont assistés par des officiers supérieurs désignés par arrêté des ministres chargés des transports et de
+l'équipement, sur proposition du ministre de la défense. 
+
+Le commissariat aux transports et aux travaux publics et de bâtiment dispose de personnels civils désignés par les ministres
+chargés des transports et de l'équipement et de personnels militaires, d'active ou de réserve, désignés par le ministre de la
+défense. Ces effectifs peuvent être complétés par du personnel soumis aux obligations du service de défense. 
+
+Les missions, l'organisation et le fonctionnement du commissariat aux transports et aux travaux publics et de bâtiment sont
+précisés par arrêté conjoint du ministre de la défense et des ministres chargés des transports et de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1336-8 (V)
+
+
+###### Article R*1336-7
+
+Dans chaque zone de défense, le délégué de zone mentionné à l'article R. * 1336-2, qui est aussi le chef du service de
+défense de zone pour les transports et l'équipement, représente le commissaire aux transports et aux travaux publics et de
+bâtiment. Il assure, sous l'autorité du préfet de zone, la planification, la coordination et l'exécution des actions de
+défense et de sécurité en matière de transports et de travaux publics et de bâtiment. 
+
+Dans les cas prévus à l'article R. * 1336-1, le représentant du commissaire aux transports et aux travaux publics et de
+bâtiment est assisté de correspondants des établissements publics et organismes définis par arrêté des ministres chargés des
+transports et de l'équipement ainsi que de représentants des organisations professionnelles du transport, des travaux publics
+et du bâtiment. Sur sa proposition, un arrêté du préfet de zone précise l'organisation territoriale de la délégation du
+commissariat aux transports et aux travaux publics et de bâtiment. 
+
+A la demande du préfet de zone ou dès qu'il l'estime nécessaire, l'officier général de zone de défense met en place un
+officier de liaison auprès du représentant du commissaire aux transports et aux travaux publics et de bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1336-1 (V)
+	  - Code de la défense. - art. R*1336-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1661-2 (V)
+
+
+###### Article R*1336-8
+
+Le commissariat aux transports et aux travaux publics et de bâtiment contribue aux études de planification et veille à la
+satisfaction des besoins des armées. 
+
+Il prépare les mesures de défense et de sécurité. Il peut intervenir comme conseiller ou fournir une assistance technique au
+profit des différents ministères appelés à exercer des responsabilités de maître d'ouvrage d'opération de transport ou de
+travaux nécessaires à la défense et à la sécurité. 
+
+Il assure la préparation des mesures de mise en garde et de mobilisation des personnels mentionnés à l'article R. * 1336-6 et
+appelés à participer à l'exécution des transports et travaux nécessaires à la défense et à la sécurité. Il veille à
+l'adaptation et au maintien de leurs compétences en portant une attention particulière à leur formation. 
+
+Il assure la gestion de la ressource transport, travaux publics et bâtiment en préparant, coordonnant et contrôlant l'action
+des services chargés de définir et de recenser la ressource mobilisable. 
+
+Il est consulté lors de l'élaboration des textes réglementaires relatifs aux transports et travaux de défense et de sécurité.
+Il participe aux négociations internationales et européennes traitant du même objet.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1336-6 (V)
+
+
+###### Article R*1336-9
+
+Le commissaire aux transports et aux travaux publics et de bâtiment participe à la gestion des situations d'urgence,
+notamment en contribuant à l'analyse des besoins et à l'application du dernier alinéa de l'article R. * 1336-1, ainsi qu'en
+apportant son conseil et son expertise pour la satisfaction des demandes de transports et de travaux formulées par l'autorité
+conduisant l'action de l'Etat. 
+
+Il participe à la prise de décision afin d'émettre des ordres d'urgence résultant des directives du Premier ministre. 
+
+Il fixe le cas échéant des orientations pour l'établissement du plan d'emploi des entreprises qui détiennent les moyens de
+transport et de travaux.L'obligation faite à ces entreprises d'exécuter un transport ou un travail prioritaire est imposée,
+le cas échéant, en mettant en œuvre les dispositifs des réquisitions de service définis par le présent code et ceux prévus
+par la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-811 du 13 août 2004 (V)
+	  - Code de la défense. - art. R*1336-1 (V)
+	  - Code de la défense. - art. R*1336-3
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1651-2 (V)
+
+
+###### Article R*1336-10
+
+Dans les cas prévus à l'article L. 1111-2, le commissaire aux transports et aux travaux publics et de bâtiment peut assurer
+la direction de l'exploitation de l'ensemble des moyens de transport ainsi que la coordination et le contrôle de l'emploi des
+entreprises, mentionnées à l'article R. * 1336-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1103 du 15 décembre 1965 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. R*1336-2 (V)
+
+
+##### Paragraphe 2 : Comité national aux transports et aux travaux publics et de bâtiment.
+
+###### Article R*1336-11
+
+Le Comité national aux transports et aux travaux publics et de bâtiment est constitué par arrêté des ministres chargés des
+transports et de l'équipement, pris après avis des ministres intéressés. Le comité est présidé par le commissaire aux
+transports et aux travaux publics et de bâtiment ou par le commissaire adjoint. 
+
+Le comité comprend : 
+
+1° Le commissaire délégué aux transports terrestres, le commissaire délégué aux transports maritimes et le commissaire
+délégué aux transports aériens ; 
+
+2° Un représentant du ministre de la défense, un représentant du ministre chargé de l'économie, un représentant du ministre
+chargé de l'industrie et un représentant du ministre de l'intérieur ; 
+
+3° Le cas échéant, un représentant du ou des ministres concernés par les questions à l'ordre du jour. 
+
+Le Comité national aux transports et aux travaux publics et de bâtiment est consulté lors de l'élaboration et de la révision
+des plans ressources relatifs aux transports et aux travaux publics et de bâtiment ainsi que dans les cas prévus à l'article
+R. * 1336-1 pour l'établissement du régime des priorités. 
+
+Il peut être sollicité sur toutes questions relatives aux transports et aux travaux publics et de bâtiment intéressant la
+défense et la sécurité et présenter toutes propositions notamment sur :
+
+- les conditions propres à optimiser et coordonner l'emploi des moyens requis dans l'intérêt de la défense et de la
+sécurité ;
+
+- la prévision des modalités particulières d'exécution des transports et des travaux en cas de crise ;
+
+- les dispositions à prendre pour satisfaire les demandes exprimées par les ministres utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1336-1 (V)
+
+
+##### Sous-section 3 : Procédures
+
+###### Article R*1336-12
+
+Préalablement à l'exécution de certains transports ou à la réalisation de certains travaux, dans les circonstances prévues
+par les articles L. 1111-2 et L. 1141-1 et par la loi n° 2004-811 du 3 août 2004 de modernisation de la sécurité civile, les
+ministres intéressés pour passer des marchés avec des entreprises de transport, de travaux publics ou de bâtiment doivent
+recueillir l'accord préalable des ministres chargés des transports et de l'équipement. 
+
+Le personnel et le matériel faisant l'objet de ces marchés ne peuvent être soumis à réquisition sans autorisation écrite des
+ministres chargés des transports et de l'équipement ou du commissaire aux transports et aux travaux publics et de bâtiment.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-811 du 13 août 2004 (V)
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L1141-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1336-14 (V)
+	  - Code de la défense. - art. R*1651-2 (V)
+
+
+###### Article R*1336-13
+
+Dans les cas d'application de l'article L. 1111-2, les administrations civiles et militaires dont les besoins en transport ou
+en travaux ne peuvent plus être satisfaits sans l'aide des entreprises soumises aux dispositions de l'article R. * 1336-2
+adressent leurs demandes au commissariat aux transports et aux travaux publics et de bâtiment. 
+
+Le commissaire aux transports et aux travaux publics et de bâtiment est habilité, au nom des ministres chargés des transports
+et de l'équipement, à prescrire à ces entreprises l'exécution des études et travaux relevant de leur compétence. Le maître
+d'ouvrage demeure soit l'administration, soit la personne physique ou morale pour le compte de laquelle le travail est
+exécuté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. R*1336-2 (V)
+
+
+###### Article R*1336-14
+
+En dehors des cas prévus par les articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité
+civile, les dépenses afférentes aux marchés et réquisitions prévues aux articles R. * 1336-12 et R. * 1336-13 sont à la
+charge des autorités ou personnes bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1103 du 15 décembre 1965 - art. 5 bis (Ab)
+
+	**Cite**:
+
+	  - Loi n°2004-811 du 13 août 2004 - art. 27 (V)
+	  - Code de la défense. - art. R*1336-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1661-2 (V)
+	  - Code de la défense. - art. R*2213-16 (V)
+
+
+###### Article R*1336-15
+
+Les régimes des priorités pour les transports et pour les travaux publics et de bâtiment mentionnés à l'article R. * 1336-1
+entrent en vigueur dès la mise en garde ou la mobilisation générale ou bien, dans les autres cas prévus à l'article L.
+1111-2, à partir d'une date fixée par décret. Ils permettent notamment l'arrêt d'activités en cours. 
+
+Après consultation du Comité national aux transports et aux travaux publics et de bâtiment, les ministres chargés des
+transports et de l'équipement établissent les régimes des priorités suivant les directives gouvernementales concernant
+l'ordre d'urgence des besoins à satisfaire. 
+
+Pour l'application de ces régimes, les ministres chargés des transports et de l'équipement définissent les orientations à
+suivre par les personnes et les entreprises qui détiennent les moyens de transport et de travaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. R*1336-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1336-16 (Ab)
+	  - Code de la défense. - art. R*1651-1 (V)
+
+
+##### Sous-section 4 : Circulation routière pour la défense
+
+##### Sous-section 5 : Transports militaires par voie ferrée
 
 ##### Section 2 : Hydrocarbures
 
@@ -34377,478 +33808,6 @@ secret professionnel.
 	**Codifié par**:
 
 	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-##### Section 3 : Travaux
-
-##### Sous-section 1 : Dispositions générales
-
-###### Article R*1337-23
-
-Le ministre responsable de l'ensemble des moyens d'exécution de travaux publics et de bâtiments est le ministre chargé de
-l'équipement. 
-
-Il lui appartient de prendre ou provoquer en tout temps les mesures propres à préparer la réunion et l'utilisation de tous
-les moyens d'exécution de travaux publics et de bâtiment et leur adaptation aux besoins de la défense. Il prescrit, en
-particulier, toutes mesures de contrôle et d'immatriculation nécessaires. 
-
-Dans les cas prévus à l'article L. 1111-2, il est notamment chargé de la coordination et du contrôle de l'emploi des
-entreprises mentionnées à l'article R. * 1337-24. 
-
-Il règle l'utilisation de ces entreprises et détermine, dans le cadre des directives du Premier ministre, l'ordre de priorité
-des travaux. Il peut prescrire, en conséquence, l'arrêt de certains travaux en cours. 
-
-Une priorité absolue est attribuée aux travaux présentant un caractère opérationnel, sauf décision contraire du Premier
-ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1337-24 (Ab)
-
-
-###### Article R*1337-24
-
-Les entreprises soumises aux dispositions de la présente section comprennent : 
-
-1° Les entreprises de travaux publics ; 
-
-2° Les entreprises de bâtiment ; 
-
-3° Toutes autres entreprises dont l'activité s'exerce en tout ou partie dans l'exécution des travaux publics ou des travaux
-de bâtiment. 
-
-Ces dernières entreprises sont soumises aux dispositions de la présente section pour la fraction de leurs moyens affectés à
-l'étude et à l'exécution de travaux publics et de bâtiment dans les conditions fixées par le ministre chargé de l'équipement
-ou, si leur contrôle ressortit à un autre ministre, en accord avec celui-ci. 
-
-Le ministre chargé de l'équipement dresse et tient à jour la liste des entreprises soumises en tout temps aux mesures prévues
-à l'article R. * 1337-23.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 4 al. 1 à 5 et 7
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1337-23
-
-
-###### Article R*1337-25
-
-Les services d'exécution de travaux dépendant directement des collectivités territoriales et établissements publics restent
-normalement à la disposition de ces collectivités et établissements. Toutefois, les chefs de services de défense de zone pour
-l'équipement et les transports, les directeurs régionaux et les directeurs départementaux de l'équipement sont tenus informés
-de leurs moyens d'action et peuvent en disposer dans le cas où les circonstances l'exigent, en accord avec les autorités dont
-dépendent ces services d'exécution ou, à défaut, sur décision du préfet de zone, du préfet de région ou du préfet de
-département.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 4 al. 6
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-
-##### Sous-section 2 : Commissariat aux entreprises de travaux publics et de bâtiment et comité des travaux publics et du bâtiment
-
-###### Article R*1337-26
-
-Pour l'exécution de sa mission, le ministre chargé de l'équipement dispose en tout temps d'un organe de direction, le
-commissariat aux entreprises de travaux publics et de bâtiment, et d'un organe consultatif, le comité des travaux publics et
-du bâtiment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 2 al. 1
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-
-###### Article R*1337-27
-
-Le commissariat aux entreprises de travaux publics et de bâtiment est dirigé par un haut fonctionnaire du ministère de
-l'équipement qui, nommé par décret, prend le titre de commissaire aux entreprises de travaux publics et de bâtiment et est
-placé sous l'autorité directe du ministre chargé de l'équipement.
-
-Le commissariat dispose, en permanence, de personnels civils désignés par le ministre chargé de l'équipement et des
-personnels militaires nécessaires au commissaire adjoint désignés par le ministre de la défense. Les effectifs de ces
-personnels sont, dans les cas prévus à l'article L. 1111-2, renforcés conformément aux plans de mobilisation, notamment par
-du personnel assujetti aux obligations du service de défense. Les moyens matériels nécessaires sont fournis par le ministre
-chargé de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 2 al. 2
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1337-28 (Ab)
-
-
-###### Article R*1337-28
-
-Le commissaire mentionné à l'article R. * 1337-27 est secondé par un officier général, commissaire adjoint nommé dans les
-mêmes formes, sur proposition du ministre chargé de l'équipement et du ministre de la défense. Cet officier général doit
-appartenir, en temps normal, à la première section du cadre des officiers généraux. 
-
-Le commissaire est représenté localement : 
-
-1° Dans chaque département, par le directeur départemental de l'équipement ; 
-
-2° Dans chaque région, par le directeur régional de l'équipement ; 
-
-3° Dans chaque zone, par le chef du service de défense de zone pour l'équipement et les transports. 
-
-Des dispositions spéciales peuvent être prévues pour la zone de défense de Paris.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 2 al. 3 à 8
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1337-27
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1337-33 (Ab)
-
-
-###### Article R*1337-29
-
-Sous l'autorité du ministre chargé de l'équipement, le commissaire aux entreprises de travaux publics et de bâtiment est
-chargé de préparer en tout temps à leur mission de défense les entreprises soumises aux dispositions de la présente section
-et de coordonner leur activités dans les cas prévus à l'article L. 1111-2. 
-
-Dans le cadre des directives du Premier ministre, il dresse le plan d'emploi de ces entreprises et, après avis du comité des
-travaux publics et du bâtiment, le soumet à l'approbation du ministre chargé de l'équipement. 
-
-En liaison avec les ministres intéressés, il prépare les mesures propres à satisfaire les besoins de toute nature afférents à
-l'exécution des travaux. Il suit l'emploi des entreprises par les utilisateurs et le contrôle dans les cas prévus à l'article
-L. 1111-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 3 al. 1, 2 et 4
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-###### Article R*1337-30
-
-Dans les cas prévus à l'article L. 1111-2, les administrations civiles et militaires dont les besoins en travaux de génie
-civil ne peuvent plus être satisfaits sans l'aide des entreprises soumises aux dispositions de la présente section adressent
-leurs demandes au commissaire ou à ses représentants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 5 al. 1
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1337-31 (Ab)
-
-
-###### Article R*1337-31
-
-Le commissaire et ses représentants ont seuls qualité au nom du ministre chargé de l'équipement pour prescrire aux
-entreprises mentionnées à l'article R. * 1337-30 l'exécution des études et travaux de leur compétence technique. 
-
-Le maître d'ouvrage demeure soit l'administration, soit la personne physique ou morale pour le compte de laquelle le travail
-est exécuté. 
-
-Les ingénieurs des services de l'équipement dirigent les travaux concurremment avec ceux de leur propre service et en accord
-avec le maître d'ouvrage, lorsque celui-ci ne dispose pas d'une organisation adéquate. Dans ce cas, ils notifient les ordres
-de service, surveillent l'exécution des travaux et préparent leur règlement. 
-
-Certaines entreprises peuvent être laissées par le ministre à la disposition des administrations civiles et militaires de
-l'Etat, des collectivités locales et établissements publics, sociétés, offices ou organismes nationaux et sociétés d'économie
-mixte, qui en sont les utilisateurs normaux. Ces dispositions sont fixées en accord avec les ministres intéressés ou leurs
-représentants. Toutefois, en cas de nécessité, le ministre ou ses représentants peuvent imposer à ces entreprises l'exécution
-d'un travail prioritaire. 
-
-Dans tous les cas, les ingénieurs des services de l'équipement s'assurent de la bonne utilisation des entreprises et rendent
-éventuellement compte à l'autorité qui contrôle l'échelon, défini à l'article R. * 1337-33, dont ces entreprises dépendent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 5 al. 2 à 6
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1337-30
-	  - Code de la défense. - art. R*1337-33
-
-
-###### Article R*1337-32
-
-Le comité des travaux publics et du bâtiment, dont la composition, l'organisation et les attributions sont fixées par arrêté
-du Premier ministre, pris sur proposition du ministre chargé de l'équipement après avis des ministres intéressés, est présidé
-par le commissaire ou par le commissaire adjoint.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 1965-12-15 art. 2 al. 9
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-
-##### Sous-section 3 : Groupement d'entreprises
-
-###### Article R*1337-33
-
-Tout en conservant, autant que possible, leur structure normale, les entreprises soumises aux dispositions de la présente
-section sont constituées en un groupement. 
-
-Le groupement est articulé en quatre échelons placés sous le contrôle, selon les cas, du ministre chargé de l'équipement ou
-de ses représentants aux niveaux correspondants : 
-
-1° Un échelon national sous le contrôle direct du ministre chargé de l'équipement, groupant en principe les entreprises les
-plus importantes dont l'activité normale s'étend à tout le territoire, qui possèdent une forte organisation et disposent de
-moyens matériels nombreux et puissants. Sont également classées à cet échelon les entreprises très spécialisées ; 
-
-2° Un échelon zonal constitué par les entreprises importantes dont les activités s'étendent à plusieurs régions de la zone
-considérée, sous le contrôle du chef du service de défense de zone pour l'équipement et les transports, sous réserve des
-dispositions de l'article R. * 1337-28 relatives à la zone de défense de Paris ; 
-
-3° Un échelon régional constitué par les entreprises d'importance moyenne dont les activités s'étendent à la région, sous le
-contrôle du directeur régional de l'équipement, sous la réserve ci-dessus mentionnée ; 
-
-4° Un échelon départemental constitué par les entreprises de caractère local, sous le contrôle du directeur départemental de
-l'équipement et sous la même réserve. 
-
-La constitution, les statuts, le rôle et le fonctionnement du groupement sont fixés par arrêté du ministre chargé de
-l'équipement. 
-
-Cet arrêté définit notamment les conditions dans lesquelles le groupement en sa qualité d'organisme professionnel, au sens de
-l'article L. 1141-2, intervient dans le recensement, la réunion ou l'utilisation des moyens en personnel et matériel des
-entreprises, en application des dispositions des articles R. 1338-1 à R. 1338-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1141-2
-	  - Code de la défense. - art. R*1337-28
-	  - Code de la défense. - art. R1338-1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1337-31 (Ab)
-
-
-###### Article R*1337-34
-
-Le groupement soumet à l'agrément du ministre chargé de l'équipement la désignation d'un délégué général et celle des
-délégués des divers échelons. 
-
-Le délégué général du groupement est en même temps le délégué de l'échelon national auprès du ministre chargé de l'équipement
-dont il reçoit les instructions par l'intermédiaire du commissaire. 
-
-Ces délégués, qui représentent leur échelon auprès des pouvoirs publics, ont mission, sous le contrôle du ministre chargé de
-l'équipement ou de ses représentants : 
-
-1° De tenir à jour le répertoire des moyens en personnel, matériel et matériaux des entreprises constituant leur échelon et
-de donner toutes informations nécessaires à ce sujet au commissaire ou à ses représentants locaux ; 
-
-2° Dans les cas prévus à l'article L. 1111-2, de proposer au commissaire ou à son représentant les entreprises ou groupes
-d'entreprises susceptibles d'être désignés pour l'exécution des études ou des travaux et de suivre l'exécution de ces études
-ou travaux en vue d'être à même, à tout moment, de présenter des propositions pour suppléer à une insuffisance des
-entreprises désignées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-###### Article R*1337-35
-
-Dans les conditions prévues à l'article 7 du décret n° 62-367 du 26 mars 1962 portant application de l'ordonnance n° 59-63 du
-6 janvier 1959 relative aux réquisitions de biens et de services, les préfets de zone, de région, de département disposent du
-droit de réquisition et de blocage temporaire à l'effet de maintenir à la disposition des autorités habilitées par le
-ministre les moyens tant des entreprises privées, qu'elles aient été ou non préalablement recensées au titre de la présente
-section, que des services d'entretien et de travaux des collectivités publiques et des entreprises nationales. 
-
-Dans les cas prévus à l'article L. 1111-2 et en vertu des dispositions de l'article 7 du décret n° 62-367 du 26 mars 1962
-susmentionné, ils en font assurer l'exécution à l'échelon de la zone, de la région ou du département par les chefs de
-services de défense de zone pour l'équipement et les transports, les directeurs régionaux et les directeurs départementaux de
-l'équipement. 
-
-Indépendamment des dispositions prévues par le décret n° 62-367 du 26 mars 1962 susmentionné, des conventions peuvent être
-passées dès avant l'application de l'article L. 1111-2, avec les entreprises soumises aux dispositions de la présente
-section, par le ministre chargé de l'équipement ou par les ministres intéressés en accord avec celui-ci, afin de fournir,
-dans les cas prévus à l'article L. 1111-2, certaines prestations particulières. 
-
-Le personnel et le matériel ayant fait l'objet de ces conventions ne peuvent être soumis à réquisition sans autorisation
-écrite du ministre chargé de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-63 du 6 janvier 1959
-	  - Décret n°62-367 du 26 mars 1962
-	  - Décret n°62-367 du 26 mars 1962 - art. 7
-	  - Code de la défense. - art. L1111-2
-
-	**Anciens textes**:
-
-	  - Décret n°65-1104 du 15 décembre 1965 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art. 5
 
 
 ##### Chapitre VIII : Renseignements et statistiques
@@ -36946,34 +35905,38 @@ Sont applicables à Mayotte sous réserve des adaptations prévues aux articles 
 
 3° Au livre III les dispositions des articles R. * 1311-1 à R. * 1311-10, R. * 1311-12, R. * 1311-14, R. * 1311-22 à R. *
 1311-25, des 1° au 3° de l'article R. * 1311-26, R. * 1311-27, R. * 1311-28, R. * 1311-33 à R. * 1311-39, R. * 1321-1, R. *
-1333-36 à R. * 1337-35 ; 
+1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV les dispositions des articles R. * 1411-1 à R. * 1411-13, R. * 1421-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1631-7 (V)
-	  - Code de la défense. - art. R*1122-1 (V)
-	  - Code de la défense. - art. R*1211-1 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
-	  - Code de la défense. - art. R*1311-1 (V)
-	  - Code de la défense. - art. R*1311-12 (V)
-	  - Code de la défense. - art. R*1311-14 (V)
-	  - Code de la défense. - art. R*1311-22 (V)
-	  - Code de la défense. - art. R*1311-26 (V)
-	  - Code de la défense. - art. R*1311-27 (V)
-	  - Code de la défense. - art. R*1311-33 (V)
-	  - Code de la défense. - art. R*1321-1 (V)
-	  - Code de la défense. - art. R*1333-36 (V)
-	  - Code de la défense. - art. R*1411-1 (V)
-	  - Code de la défense. - art. R*1421-1 (V)
-	  - Code de la défense. - art. R*1631-2 (V)
+	  - Code de la défense. - art. D1631-7
+	  - Code de la défense. - art. R*1122-1
+	  - Code de la défense. - art. R*1211-1
+	  - Code de la défense. - art. R*1212-1
+	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-12
+	  - Code de la défense. - art. R*1311-14
+	  - Code de la défense. - art. R*1311-22
+	  - Code de la défense. - art. R*1311-26
+	  - Code de la défense. - art. R*1311-27
+	  - Code de la défense. - art. R*1311-33
+	  - Code de la défense. - art. R*1321-1
+	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1411-1
+	  - Code de la défense. - art. R*1421-1
+	  - Code de la défense. - art. R*1631-2
 
 
 ###### Article R*1631-2
@@ -37211,35 +36174,39 @@ référence à l'officier commandant la gendarmerie située au siège de la zone
 
 ###### Article R*1641-1
 
-Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 : 
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 : 
 
 1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ; 
 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1° à 6° de l'article R. * 1311-6, des articles
-R. * 1311-7, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1337-35 ; 
+R. * 1311-7, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1641-6 (V)
-	  - Code de la défense. - art. R*1122-1 (V)
-	  - Code de la défense. - art. R*1211-1 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
-	  - Code de la défense. - art. R*1311-1 (V)
-	  - Code de la défense. - art. R*1311-39 (V)
-	  - Code de la défense. - art. R*1311-6 (V)
-	  - Code de la défense. - art. R*1321-1 (V)
-	  - Code de la défense. - art. R*1333-36 (V)
-	  - Code de la défense. - art. R*1411-1 (V)
+	  - Code de la défense. - art. D1641-6
+	  - Code de la défense. - art. R*1122-1
+	  - Code de la défense. - art. R*1211-1
+	  - Code de la défense. - art. R*1212-1
+	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-39
+	  - Code de la défense. - art. R*1311-6
+	  - Code de la défense. - art. R*1321-1
+	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1411-1
 
 
 ###### Article R1641-2
@@ -37455,29 +36422,33 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, R. * 1311-6, R. * 1311-7, R. * 1311-39, R. *
-1321-1, R. * 1333-36 à R. * 1337-35 ; 
+1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1651-7 (V)
-	  - Code de la défense. - art. R*1122-1 (V)
-	  - Code de la défense. - art. R*1211-1 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
-	  - Code de la défense. - art. R*1311-1 (V)
-	  - Code de la défense. - art. R*1311-39 (V)
-	  - Code de la défense. - art. R*1311-6 (V)
-	  - Code de la défense. - art. R*1321-1 (V)
-	  - Code de la défense. - art. R*1333-36 (V)
-	  - Code de la défense. - art. R*1411-1 (V)
-	  - Code de la défense. - art. R*1651-2 (V)
+	  - Code de la défense. - art. D1651-7
+	  - Code de la défense. - art. R*1122-1
+	  - Code de la défense. - art. R*1211-1
+	  - Code de la défense. - art. R*1212-1
+	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-39
+	  - Code de la défense. - art. R*1311-6
+	  - Code de la défense. - art. R*1321-1
+	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1411-1
+	  - Code de la défense. - art. R*1651-2
 
 
 ###### Article R*1651-2
@@ -37490,20 +36461,35 @@ sanitaire et sociale compétente localement ;
 
 2° Au livre III, en matière de défense non militaire, la référence à l'article L. 1111-7 du code général des collectivités
 territoriales mentionné au 7° de l'article R. * 1311-6 est remplacée par la référence à l'article 27 de la loi organique n°
-2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
+2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
+
+3° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi n° 2004-811 du 13 août 2004 de modernisation
+de la sécurité civile " sont remplacés par les mots : " l'ordonnance n° 2006-173 du 15 février 2006 portant actualisation et
+adaptation du droit applicable en matière de sécurité civile en Polynésie française " ; 
+
+b) Pour l'application de l'article R. * 1336-7, le haut-commissaire de la République en Polynésie française, haut
+fonctionnaire de zone, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
+
+c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
+sécurité civile est remplacée par la référence à l'article 16 de l'ordonnance n° 2006-173 du 15 février 2006 portant
+actualisation et adaptation du droit applicable en matière de sécurité civile en Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 - art. 27 (V)
-	  - Code général des collectivités territoriales - art. L1111-7 (V)
-	  - Code de la défense. - art. R*1142-22 (V)
-	  - Code de la défense. - art. R*1311-6 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 27
+	  - Ordonnance n°2006-173 du 15 février 2006
+	  - Code général des collectivités territoriales - art. L1111-7
+	  - Code de la défense. - art. R*1142-22
+	  - Code de la défense. - art. R*1311-6
+	  - Code de la défense. - art. R*1336-1
+	  - Code de la défense. - art. R*1336-12
+	  - Code de la défense. - art. R*1336-9
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cité par**:
 
@@ -37724,47 +36710,67 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1° à 6° de l'article R. * 1311-6, R. * 1311-7,
-R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1337-35 ; 
+R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1661-7 (V)
-	  - Code de la défense. - art. R*1122-1 (V)
-	  - Code de la défense. - art. R*1211-1 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
-	  - Code de la défense. - art. R*1311-1 (V)
-	  - Code de la défense. - art. R*1311-39 (V)
-	  - Code de la défense. - art. R*1311-6 (V)
-	  - Code de la défense. - art. R*1311-7 (V)
-	  - Code de la défense. - art. R*1321-1 (V)
-	  - Code de la défense. - art. R*1333-36 (V)
-	  - Code de la défense. - art. R*1411-1 (V)
-	  - Code de la défense. - art. R*1661-2 (V)
+	  - Code de la défense. - art. D1661-7
+	  - Code de la défense. - art. R*1122-1
+	  - Code de la défense. - art. R*1211-1
+	  - Code de la défense. - art. R*1212-1
+	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-39
+	  - Code de la défense. - art. R*1311-6
+	  - Code de la défense. - art. R*1311-7
+	  - Code de la défense. - art. R*1321-1
+	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1411-1
+	  - Code de la défense. - art. R*1661-2
 
 
 ###### Article R*1661-2
 
-Pour l'application de la présente partie du code en Nouvelle-Calédonie, les mesures de défense en matière sanitaire
-intéressant la population civile, prévues aux articles R. * 1142-22 à R. * 1142-29 du livre Ier, sont préparées et exécutées
-par le haut fonctionnaire de zone de défense en liaison avec l'autorité sanitaire et sociale compétente localement.
+Pour l'application de la présente partie du code en Nouvelle-Calédonie : 
+
+1° Les mesures de défense en matière sanitaire intéressant la population civile, prévues aux articles R. * 1142-22 à R. *
+1142-29, sont préparées et exécutées par le haut fonctionnaire de zone de défense en liaison avec l'autorité sanitaire et
+sociale compétente localement ; 
+
+2° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi n° 2004-811 du 13 août 2004 de modernisation
+de la sécurité civile " sont remplacés par les mots : " l'ordonnance n° 2006-172 du 15 février 2006 portant actualisation et
+adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie " ; 
+
+b) Pour l'application de l'article R. * 1336-7, le haut-commissaire de la République en Nouvelle-Calédonie, haut
+fonctionnaire de zone, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
+
+c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
+sécurité civile est remplacée par la référence à l'article 17 de l'ordonnance n° 2006-172 du 15 février 2006 portant
+actualisation et adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
 	**Cite**:
 
-	  - Code de la défense. - art. R*1142-22 (V)
+	  - Ordonnance n°2006-172 du 15 février 2006
+	  - Code de la défense. - art. R*1142-22
+	  - Code de la défense. - art. R*1336-1
+	  - Code de la défense. - art. R*1336-14
+
+	**Modifié par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 	**Cité par**:
 
@@ -37990,36 +36996,40 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-10, R. * 1311-12, R. * 1311-14, R. * 1311-22 à R. *
 1311-25, des 1° à 3° de l'article R. * 1311-26, R. * 1311-28, du premier alinéa de l'article R. * 1311-33, des articles R. *
-1311-34, R. * 1311-35, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1337-35 ; 
+1311-34, R. * 1311-35, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
+
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. R*1122-1 (V)
-	  - Code de la défense. - art. R*1211-1 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
-	  - Code de la défense. - art. R*1311-1 (V)
-	  - Code de la défense. - art. R*1311-12 (V)
-	  - Code de la défense. - art. R*1311-14 (V)
-	  - Code de la défense. - art. R*1311-22 (V)
-	  - Code de la défense. - art. R*1311-26 (V)
-	  - Code de la défense. - art. R*1311-28 (V)
-	  - Code de la défense. - art. R*1311-33 (V)
-	  - Code de la défense. - art. R*1311-34 (V)
-	  - Code de la défense. - art. R*1311-35 (V)
-	  - Code de la défense. - art. R*1311-39 (V)
-	  - Code de la défense. - art. R*1321-1 (V)
-	  - Code de la défense. - art. R*1333-36 (V)
-	  - Code de la défense. - art. R*1411-1 (V)
-	  - Code de la défense. - art. R*1671-2 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. R*1122-1
+	  - Code de la défense. - art. R*1211-1
+	  - Code de la défense. - art. R*1212-1
+	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-12
+	  - Code de la défense. - art. R*1311-14
+	  - Code de la défense. - art. R*1311-22
+	  - Code de la défense. - art. R*1311-26
+	  - Code de la défense. - art. R*1311-28
+	  - Code de la défense. - art. R*1311-33
+	  - Code de la défense. - art. R*1311-34
+	  - Code de la défense. - art. R*1311-35
+	  - Code de la défense. - art. R*1311-39
+	  - Code de la défense. - art. R*1321-1
+	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1411-1
+	  - Code de la défense. - art. R*1671-2
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-253 du 4 mars 2009 - art. 6
 
 
 ###### Article R*1671-2
@@ -39207,6 +38217,6006 @@ et délibéré en conseil des ministres, peuvent être fixées par décret.
 	**Nouveaux textes**:
 
 	  - Code de la sécurité intérieure - art. R*150-1  (VD)
+
+
+## PARTIE 2 : REGIMES JURIDIQUES DE DEFENSE
+
+### LIVRE Ier : REGIMES D'APPLICATION EXCEPTIONNELLE
+
+#### TITRE Ier : GUERRE
+
+##### Chapitre II : Dispositions applicables aux communes
+
+###### Article R2112-1
+
+En temps de guerre, les règles relatives à la mise en demeure d'un maire par le préfet et à la suspension d'un conseil
+municipal sont définies aux articles R. 2124-2 à R. 2124-5 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2124-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2461-3 (V)
+	  - Code de la défense. - art. R2471-2 (M)
+
+
+#### TITRE IV : MOBILISATION ET MISE EN GARDE
+
+##### Chapitre unique : Organisation
+
+###### Article R2141-1
+
+Le plan de mobilisation est établi par le ministre de la défense. Il détermine, dans le cadre de la législation en vigueur :
+
+1° La composition et l'organisation des forces armées en temps de guerre ;
+
+2° Les règles selon lesquelles s'effectue, en conséquence, la mobilisation des forces armées.
+
+L'ordre de mobilisation générale est diffusé par tout moyen de communication approprié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (M)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+#### TITRE V : SERVICE DE DEFENSE
+
+##### Chapitre unique
+
+##### Section 1 : Champ d'application du service de défense
+
+###### Article R2151-1
+
+Le régime du service de défense s'applique : 
+
+1° Aux corps de l'Etat, aux directions et services de l'Etat et aux collectivités territoriales ainsi qu'aux organismes qui
+leur sont rattachés, appelés " les services " dans le présent titre ; 
+
+2° A des entreprises, établissements ou organismes appartenant aux catégories d'activités dont la liste est arrêtée par
+décret et appelés " les entreprises " dans le présent titre. 
+
+Les ministres ou leurs représentants déterminent par arrêté la liste des services mentionnés au 1° et la liste des
+entreprises relevant des catégories d'activités précisées par le décret prévu au 2° auxquels s'applique le régime du service
+de défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 26 juillet 2010 - art. 2 (V)
+	  - Code de la défense. - art. D1313-9 (V)
+	  - Code de la défense. - art. R*2151-7 (M)
+	  - Code de la défense. - art. R2151-2 (M)
+	  - Code de la défense. - art. R2151-3 (M)
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2151-2
+
+Sont placés sous le régime du service de défense l'ensemble des personnels des services et entreprises mentionnés à l'article
+R. 2151-1, dès lors qu'ils sont soumis aux obligations du service de défense en application de l'article L. 2151-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-2 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+
+
+###### Article R2151-3
+
+Dans les services et entreprises auxquels s'applique le régime du service de défense, l'employeur est tenu de notifier aux
+membres du personnel soumis aux obligations du service de défense qu'ils sont placés sous le régime du service de défense,
+soit au moment de leur recrutement, soit au moment où le service ou l'entreprise concerné est avisé que le régime du service
+de défense lui est appliqué. 
+
+En cas de modification des listes prévues à l'article R. 2151-1, dans les services et entreprises auxquels ne s'applique plus
+le régime du service de défense, l'employeur notifie aux intéressés qu'ils ne sont plus placés sous le régime du service de
+défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2151-1 (V)
+
+
+###### Article R2151-4
+
+Les personnes placées sous le régime du service de défense sont tenues de faire connaître aux chefs des services ou
+entreprises dont ils dépendent leur situation vis-à-vis de la réserve opérationnelle, ainsi que tout changement intervenant
+dans cette situation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2151-5
+
+Les autorités responsables des services et entreprises auxquels s'applique le régime du service de défense tiennent à jour
+les renseignements relatifs à l'identité et à la fonction de leur personnel placé sous ce régime. 
+
+Ces renseignements sont tenus en permanence à la disposition des hauts fonctionnaires de défense compétents et des agents de
+l'Etat chargés, par délégation du ministre, de l'assister dans le contrôle des affectations. 
+
+Ces renseignements sont conservés et tenus à la disposition des agents mentionnés à l'alinéa précédent dans les conditions
+prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 2 : Mise en oeuvre du service de défense
+
+###### Article R*2151-7
+
+Le décret en conseil des ministres prévu au troisième alinéa de l'article L. 2151-1 peut décider d'appliquer le service de
+défense à des services et à des entreprises ne figurant pas sur les listes établies par les arrêtés mentionnés à l'article R.
+2151-1, et de maintenir dans leur emploi, quel qu'il soit, les personnels de ces services et de ces entreprises qui sont
+soumis aux obligations du service de défense s'ils n'ont pas à répondre à une affectation militaire. Cette mesure entraîne
+l'affectation collective de défense de ces personnels pour toute la durée de la mise en œuvre du service de défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 26 juillet 2010 - art. 3 (V)
+	  - Code de la défense. - art. R*2441-1 (V)
+	  - Code de la défense. - art. R*2451-1 (V)
+	  - Code de la défense. - art. R*2461-1 (V)
+	  - Code de la défense. - art. R*2471-1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+
+
+###### Article R2151-6
+
+Le décret par lequel le service de défense est décidé, en application de l'article L. 2151-1, peut limiter la mise en œuvre
+du service de défense à une partie du territoire ou à certaines catégories d'activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1 (V)
+
+
+###### Article R2151-8
+
+Les ministres de tutelle ou de rattachement, ou les autorités désignées par ceux-ci, notifient la mise en œuvre du service de
+défense aux services et entreprises concernés.
+
+Dans les services et entreprises ainsi identifiés, les personnes placées sous le régime du service de défense deviennent,
+lors de la mise en œuvre de celui-ci, affectés collectifs de défense.
+
+Les personnes faisant l'objet d'une affectation collective de défense en sont avisées collectivement et individuellement par
+leur employeur.
+
+Les employeurs communiquent la liste des affectés collectifs de défense de leur service ou de leur entreprise aux autorités
+mentionnées au premier alinéa du présent article au jour de cette notification.
+
+La fin de la mise en œuvre du service de défense est notifiée aux employeurs concernés par leur ministre de tutelle ou de
+rattachement ou par les autorités désignées par celui-ci.
+
+Les employeurs en avisent collectivement et individuellement leurs personnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+
+###### Article R2151-9
+
+L'affectation collective de défense cesse de plein droit et sans préavis lorsque les personnes soumises aux obligations du
+service de défense font l'objet d'un rappel dans la réserve militaire pour les besoins des forces armées et pour la durée de
+ce rappel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+
+##### Section 3 : Situation des personnes faisant l'objet, en cas de mise en oeuvre du service de défense, d'une affectation collective de défense
+
+###### Article R2151-10
+
+La législation propre à l'emploi d'affectation est applicable aux personnes faisant l'objet d'une affectation collective de
+défense, sous réserve des dispositions des articles L. 2151-1 à L. 2151-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1
+
+
+###### Article R2151-11
+
+Pendant la durée de la mise en œuvre du service de défense, les services et entreprises auxquels s'applique le service de
+défense sont tenus, conformément aux articles L. 2151-1 et L. 2151-4, d'assurer la continuité de leur activité et de
+maintenir à leur poste les personnels affectés collectifs de défense. 
+
+Toutefois, le ministre dont dépend le service ou l'entreprise concerné peut autoriser une personne faisant l'objet d'une
+affectation collective de défense à occuper un emploi dans un autre service ou une autre entreprise, à condition que cela
+n'affecte pas la continuité de l'action de ce service ou de cette entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1
+	  - Code de la défense. - art. L2151-4
+
+
+###### Article R2151-12
+
+Toute personne qui, étant soumise aux obligations du service de défense, est recrutée par un service ou une entreprise dont
+le personnel fait l'objet d'une affectation collective de défense est préalablement informée de cette affectation et est
+placée dans la position d'affecté collectif de défense au moment où elle rejoint son emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+
+###### Article R2151-13
+
+Sous réserve des mesures qui peuvent être prises dans les circonstances prévues à l'article L. 1111-2 en ce qui concerne les
+rémunérations de toute nature, les affectés collectifs de défense perçoivent : 
+
+1° Dans les emplois publics existants, les rémunérations prévues par les textes en vigueur, afférents au grade dont ils sont
+titulaires ou à l'emploi auquel ils sont affectés ; 
+
+2° Dans les autres emplois, les rémunérations en vigueur suivant les dispositions qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2
+
+
+##### Section 4 : Dispositions pénales
+
+###### Article R2151-14
+
+Le fait de mettre obstacle à l'accomplissement des obligations imposées par les articles L. 2151-1 à L. 2151-6, par le livre
+II de la quatrième partie du présent code et par le présent titre, ou de ne pas se conformer à ces obligations est puni d'une
+amende prévue pour les contraventions de la 5e classe, sans préjudice, le cas échéant, de l'application de toute autre peine
+prévue aux articles L. 4271-1 à L. 4271-5. 
+
+Est puni de la même amende le fait de mettre obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
+tendant à assurer l'exécution ou le contrôle des obligations mentionnées à l'alinéa précédent. 
+
+La récidive est réprimée conformément à l'article 132-11 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code de la défense. - art. L2151-1
+	  - Code de la défense. - art. L4271-1
+
+
+#### TITRE VI : SUJETIONS RESULTANT DES MANŒUVRES  ET EXERCICES
+
+##### Chapitre unique
+
+###### Article R2161-1
+
+Les dates où peuvent avoir lieu les manœuvres sont déterminées chaque année par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2161-2
+
+Trois semaines au moins avant l'exécution des manœuvres, les officiers généraux exerçant un commandement territorial
+avertissent les préfets des départements intéressés des dates et de la durée des manœuvres, et leur font connaître les
+communes sur le territoire desquelles opèrent les unités concernées.
+
+Les préfets désignent un membre civil pour faire partie de la commission chargée de régler les indemnités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2161-3 (V)
+
+
+###### Article R2161-3
+
+Les maires des communes mentionnées au R. 2161-2 en sont informés par le préfet. 
+
+Il fait immédiatement publier et afficher dans sa commune la date et la durée des manœuvres. 
+
+Il invite les propriétaires de vignes ou de terrains ensemencés ou non récoltés à les indiquer par un signe apparent. 
+
+Il prévient les habitants que ceux qui subiraient des dommages par suite des manœuvres doivent, sous peine de déchéance,
+déposer leurs réclamations à la mairie dans les trois jours qui suivent le passage ou le départ des formations militaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2161-2 (V)
+
+
+###### Article R2161-4
+
+Deux semaines au moins avant le début des manœuvres, les officiers généraux exerçant un commandement territorial nomment des
+commissions de règlement des indemnités et désignent les circonscriptions assignées à leurs opérations. Ces commissions sont
+composées d'un commissaire de l'armée de terre, président, d'un agent de l'Etat désigné par le préfet et d'un personnel
+assermenté du service d'infrastructure de la défense. Cette commission est assistée par un sous-officier remplissant les
+fonctions de comptable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2161-8 (V)
+
+
+###### Article R2161-5
+
+La commission peut reconnaître à l'avance les terrains qui sont occupés. Elle accompagne les unités et suit leurs opérations.
+Au fur et à mesure de l'exécution des manœuvres, elle se rend dans les localités qui ont été traversées ou occupées, en
+prévenant à l'avance les maires de son passage. Les maires préviennent les intéressés et remettent à la commission des
+bulletins individuels mentionnant la date de la réclamation, la nature du dommage et la somme réclamée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2161-6
+
+La commission, après avoir entendu les observations des réclamants, fixe le montant des indemnités allouées et en dresse
+l'état.
+
+Si les intéressés présents acceptent ce montant, ils reçoivent immédiatement le montant de l'indemnité sur leur émargement.
+
+A cet effet, le comptable de la commission peut être porteur d'une avance de fonds.
+
+Si l'indemnité n'est pas immédiatement acceptée, la commission insère dans son procès-verbal les renseignements permettant
+d'apprécier la nature et l'étendue du dommage. Elle remet au maire une copie de ce procès-verbal ainsi que l'état des
+indemnités qui n'ont pas été immédiatement acceptées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2161-7 (V)
+	  - Code de la défense. - art. R2161-9 (V)
+
+
+###### Article R2161-7
+
+Le maire, par notification administrative, met immédiatement les ayants droit en demeure d'accepter les indemnités offertes
+ou de les refuser dans le délai de deux semaines. 
+
+Les refus sont formulés par écrit et motivés. Les déclarations de refus sont déposées à la mairie et annexées au procès-
+verbal mentionné à l'article R. 2161-6.
+
+A l'expiration du délai de deux semaines, le maire consigne sur l'état qui lui a été remis par la commission les réponses
+qu'il a reçues et transmet ensuite l'état au commissaire de l'armée de terre, président de la commission : ce dernier assure
+le paiement des indemnités qui n'ont pas été refusées. 
+
+En cas de contestation, l'extrait du procès-verbal de la commission d'évaluation est remis par le maire au tribunal de grande
+instance chargé de statuer sur les réclamations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2161-6 (V)
+
+
+###### Article R2161-8
+
+Les indemnités qui peuvent être dues, à l'occasion des exercices de tir, en application de l'article L. 2161-2, sont réglées
+par les commissions prévues à l'article R. 2161-4. 
+
+En ce qui concerne les champs de tir permanents, la commission reconnaît, avant l'exécution des premiers tirs, les terrains
+compris dans les zones fixées par l'autorité militaire comme devant être interdites aux habitants pendant les tirs. Elle se
+rend compte de la nature des cultures et de leur rendement. 
+
+La commission peut se réunir sur le terrain les années suivantes, à l'époque la plus propice pour reconnaître l'état des
+terrains. 
+
+En ce qui concerne les champs de tir temporaires, la commission peut également se réunir sur le terrain, avant les tirs, pour
+procéder à la vérification de la nature des cultures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2161-2 (V)
+	  - Code de la défense. - art. R2161-4 (V)
+
+
+###### Article R2161-9
+
+L'achèvement de chaque série de tirs ou des tirs de l'année est notifié aux maires des communes intéressées par l'autorité
+militaire dont dépend le champ de tir. 
+
+Le maire de cette commune porte cette notification à la connaissance des habitants dans un délai de quarante-huit heures au
+plus tard, au moyen des procédés de publicité en usage dans la commune. 
+
+Les demandes d'indemnités doivent, à peine de déchéance, être déposées à la mairie dans les trois jours qui suivent cet
+avertissement. Elles sont consignées sur des bulletins individuels indiquant les nom, prénoms et domicile de chaque
+intéressé, la nature du dommage et la somme réclamée. 
+
+Les bulletins signés et datés par les réclamants sont, aussitôt après l'expiration du délai de dépôt, transmis au président
+de la commission. 
+
+La commission se transporte sur les terrains des réclamants, après avoir prévenu de son passage, deux jours au moins à
+l'avance, les maires, qui avertissent aussitôt les intéressés, et elle procède aux opérations prévues à l'article R. 2161-6. 
+
+En cas de refus de l'indemnité offerte par l'autorité militaire, la contestation est introduite et jugée conformément aux
+dispositions de l'article L. 2234-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-22 (V)
+	  - Code de la défense. - art. R2161-6 (V)
+
+
+###### Article R2161-10
+
+Est puni d'une amende prévue pour les contraventions de la 4e classe le fait de pénétrer ou de séjourner dans les terrains
+interdits par les consignes des champs de tir, d'y laisser séjourner ou d'y faire pénétrer tout animal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+### LIVRE II : REQUISITIONS
+
+#### TITRE Ier : REQUISITIONS POUR LES BESOINS GENERAUX  DE LA NATION
+
+##### Chapitre Ier : Principes généraux
+
+###### Article R*2211-2
+
+Dans les cas prévus à l'article L. 1111-2, hors le cas de mobilisation, le droit de réquisition est ouvert par décret pris en
+conseil des ministres. Il peut être limité à certaines catégories de personnes ou de biens. Il y est mis fin dans la même
+forme. 
+
+La publication de l'ordre de mobilisation générale entraîne ouverture du droit de réquisition sur tout le territoire et pour
+toutes les catégories de biens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*2441-1 (V)
+	  - Code de la défense. - art. R*2451-1 (V)
+	  - Code de la défense. - art. R*2461-1 (V)
+	  - Code de la défense. - art. R*2471-1 (V)
+
+
+###### Article R2211-1
+
+Dans les cas prévus à l'article L. 1111-2, la réquisition de personnes, de biens ou de services pour les besoins de la
+nation, telle qu'elle est autorisée par les articles L. 2212-1, L. 2213-1 et L. 2213-2, est effectuée dans les conditions
+précisées par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L2212-1 (V)
+	  - Code de la défense. - art. L2213-1 (V)
+	  - Code de la défense. - art. L2213-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2211-3
+
+Le droit de réquisition des biens et des services appartient au Premier ministre, au ministre de la défense, au ministre de
+l'intérieur, au ministre chargé de l'outre-mer et aux ministres responsables de chaque ressource, compte tenu de la priorité
+des besoins des armées et des priorités accordées, dans des limites déterminées et pour certaines ressources, à des besoins
+désignés par voie d'instructions du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2211-5 (V)
+	  - Code de la défense. - art. R2211-6 (V)
+
+
+###### Article R2211-4
+
+Le droit de réquisition appartient également aux autorités suivantes, pour la satisfaction des besoins dont elles ont la
+charge : 
+
+1° Les préfets ; 
+
+2° Les officiers généraux exerçant un commandement territorial ; 
+
+3° Les hauts fonctionnaires de zones de défense, mentionnés à l'article L. 1311-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1311-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2221-2 (V)
+
+
+###### Article R2211-5
+
+Les autorités suivantes peuvent recevoir délégation générale des autorités mentionnées aux articles R. 2211-3 et R. 2211-4 : 
+
+1° Les commandants de grandes unités terrestres ou aériennes ; 
+
+2° Les chefs de services régionaux, départementaux et locaux, y compris les commandants d'armes et les majors de garnison ; 
+
+3° Les commandants de la marine ou de l'air.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2211-3 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-13 (V)
+
+
+###### Article R2211-6
+
+Les autorités suivantes peuvent exercer spécialement et temporairement des réquisitions par délégation des autorités
+mentionnées aux articles R. 2211-3 et R. 2211-4, ou en vertu de textes spéciaux : 
+
+1° Les directeurs de tous les établissements militaires ; 
+
+2° Les présidents des commissions de réquisitions ; 
+
+3° Les commandants d'unités terrestres, aériennes ou navales ; 
+
+4° Les maires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2211-3 (V)
+
+
+###### Article R2211-7
+
+Chaque ministre responsable peut déléguer directement, par écrit, son droit de réquisition à un autre ministre, à des chefs
+de circonscriptions territoriales administratives ou de subdivisions de services publics ainsi qu'à des présidents de
+commissions de réquisitions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2211-8
+
+Toute réclamation concernant l'exercice du droit de réquisition est adressée au maire et au plus tard dans les douze heures
+de la notification ou, en cas d'absence, du retour du prestataire dans la commune. Elle est immédiatement transmise à
+l'autorité requérante et en outre, s'il s'agit d'une réquisition de personne, à l'autorité prévue par l'article R. 2212-12. 
+
+Pour l'application de l'alinéa précédent, un registre spécial est ouvert dans chaque mairie. Mention est faite, sur ce
+registre, des personnes qui ont constaté le dommage. Le maire ou son délégué s'assure de la réalité de la plainte et
+contresigne la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2212-12 (V)
+
+
+##### Chapitre II : Réquisition de personnes
+
+##### Section 1 : Modalités
+
+###### Article R2212-1
+
+Le ministre chargé du travail requiert les personnes, avec le concours de l'organisme spécial mentionné à l'article L.
+1141-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1141-5 (V)
+
+
+###### Article R2212-2
+
+Sous réserve des dispositions des articles R. 2212-7 et R. 2212-9, l'ordre de réquisition est donné par écrit. Il porte les
+nom, prénoms et qualité de l'autorité requérante, la nature, le quantum ou la durée de la prestation, le nom de la personne à
+qui l'ordre est remis, la date et le lieu de la réquisition et la signature de l'autorité chargée de la réquisition. Il est
+délivré un reçu des prestations fournies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2212-7 (V)
+	  - Code de la défense. - art. R2212-9 (V)
+
+
+###### Article R2212-3
+
+L'ordre de réquisition peut être adressé soit au maire de la commune, soit à chaque personne intéressée en cas d'urgence,
+d'absence ou de négligence de la municipalité. Toute réquisition collective est faite, en principe, par l'intermédiaire du
+maire de la commune où a lieu la réquisition.
+
+Sauf cas d'urgence, le maire est averti par l'autorité requérante des réquisitions directes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2212-4
+
+La réquisition des personnes peut porter sur tout Français, toute Française remplissant les conditions indiquées à l'article
+L. 2212-1, qu'il ait sa résidence sur le territoire national ou à l'étranger. 
+
+Les dispositions du présent chapitre ne sont pas applicables aux étrangers, dont les conditions d'emploi sont réglées
+conformément aux dispositions de l'article L. 2113-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2113-2 (V)
+	  - Code de la défense. - art. L2212-1 (V)
+
+
+###### Article R2212-5
+
+La réquisition des personnes peut s'étendre à toute leur activité ou être limitée à l'exécution de certains services. Une
+personne peut notamment être requise pour la défense civile, dans la mesure compatible avec l'exercice d'un autre emploi pour
+lequel elle a déjà fait l'objet d'une réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2212-6
+
+La réquisition des personnes a lieu par voie :
+
+1° D'ordre collectif à l'égard des personnels maintenus dans leur emploi ;
+
+2° D'ordre individuel indiquant la nature de l'emploi à tenir ou du service à assurer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2212-7
+
+Dès la publication du décret de mobilisation générale ou du décret d'ouverture du droit de réquisition et jusqu'à publication
+du décret mettant fin au droit de réquisition, tout Français, toute Française qui appartient aux administrations et services
+publics à quelque titre que ce soit, même à titre temporaire, est tenu, sans ordre spécial, de rester au poste qu'il occupe
+ou de rejoindre tout autre poste qui pourrait lui être assigné par l'autorité compétente.
+
+Celles des personnes mentionnées à l'alinéa précédent qui se trouvent absentes, pour toute autre cause que pour raison de
+santé, sont alors tenues de rejoindre leur poste ou celui qui leur est assigné par l'autorité dont elles relèvent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2212-2 (V)
+	  - Code de la défense. - art. R2212-9 (V)
+
+
+###### Article R2212-8
+
+Les personnes titulaires d'une pension de retraite ayant appartenu aux administrations et services publics et mentionnées au
+dernier alinéa de l'article L. 2212-1 peuvent être rappelées à l'activité dans les conditions qui sont fixées par ces
+administrations et services.A cet effet, elles sont tenues de répondre à toute demande de renseignements qui leur est
+adressée et de faire connaître à leur ancienne administration ou service tout changement de domicile. 
+
+Elles reçoivent, si possible dès le temps de paix, la convocation à laquelle elles devraient se soumettre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2212-1 (V)
+
+
+###### Article R2212-9
+
+S'il y a lieu de procéder à la réquisition de l'ensemble du personnel faisant partie d'un service privé ou d'une entreprise
+considérés comme indispensables pour assurer les besoins du pays, la réquisition s'adresse aux hommes, femmes et mineurs de
+plus de seize ans appartenant à ce service ou à cette entreprise le jour où l'ordre de réquisition est notifié. 
+
+Les dispositions du deuxième alinéa de l'article R. 2212-7 sont applicables au personnel requis en exécution du présent
+article. 
+
+La notification de la réquisition collective est faite par l'autorité requérante soit au maire de la commune, soit au chef du
+service ou de l'entreprise. Elle est portée à la connaissance du personnel intéressé soit par voie d'affiche apposée dans
+l'établissement en cas de travail en commun, soit par circulaire ou tout autre moyen de publicité approprié en cas de travail
+isolé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2212-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2212-7 (V)
+
+
+###### Article R2212-10
+
+L'ordre de réquisition individuelle indique la nature de l'emploi à tenir ou du service à assurer et la durée probable de la
+réquisition, le délai dans lequel le requis rejoint son poste et, s'il y a lieu, l'obligation de résider à proximité du lieu
+du travail. Le requis a alors droit à la gratuité du transport pour lui-même, pour son conjoint, ses enfants mineurs, les
+ascendants à sa charge et vivant sous son toit, ainsi que pour leurs bagages personnels.
+
+Toutefois, le transfert de la famille de l'intéressé n'a lieu que sur la demande expresse de celui-ci. Il peut être sursis à
+ce transfert sur décision de l'administration, de l'établissement ou du service utilisateur.
+
+En cas de dispense accordée par l'employeur de résider au lieu de travail, le requis supporte ses frais de déplacement
+quotidien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2212-15 (V)
+
+
+###### Article R2212-11
+
+Certains personnels peuvent recevoir, dès le temps de paix, une affectation déterminée. Ils en sont avisés par une lettre,
+dans les conditions fixées par l'organisme mentionné à l'article L. 1141-5, soit directement par l'administration ou service
+public employeur, soit par le préfet du département où ils sont domiciliés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1141-5 (V)
+
+
+###### Article R2212-12
+
+Les contestations sur toutes questions concernant les réquisitions de personnes sont réglées provisoirement et dans le plus
+bref délai par le préfet ou son délégué. La réclamation ne suspend pas l'exécution de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2211-8 (V)
+
+
+##### Section 2 : Rémunération
+
+###### Article R2212-13
+
+La rémunération du requis est déterminée selon les modalités définies à l'article L. 2234-7.
+
+Si la réquisition a pour effet de maintenir une personne dans son emploi, cette personne reçoit la rémunération qui lui était
+précédemment allouée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-7 (V)
+
+
+###### Article R2212-14
+
+Le traitement ou salaire d'une personne requise pour occuper un emploi dans une administration, un service public,
+établissement ou service privé chargé d'une mission de service public est payé par les soins de l'employeur, suivant les
+modalités habituelles suivies dans ces administrations, services ou établissements.
+
+La rémunération des personnes requises pour accomplir d'autres services que ceux mentionnés à l'alinéa précédent est payée
+par les soins de l'autorité requérante sur production d'un état, établi par les maires, auquel sont joints les certificats
+constatant les services faits et tenant lieu de reçu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2212-15
+
+Les frais de transport des personnes requises, des membres de leur famille mentionnés dans l'article R. 2212-10 et de leurs
+bagages personnels entre le lieu de résidence et le lieu d'emploi sont à la charge de l'autorité requérante, qui rembourse le
+montant de ces frais aux services de transport public.A cet effet, un ou plusieurs titres de transport sont joints à l'ordre
+de réquisition individuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2212-10 (V)
+
+
+###### Article R2212-16
+
+Les dépenses de nourriture et de logement qui sont imposées aux requis individuels au cours du transport leur sont
+remboursées :
+
+1° Par les soins de l'administration ou du service public où elles sont employées et d'après la réglementation en vigueur
+dans ce service ;
+
+2° S'il s'agit d'une exploitation privée, par les soins de l'autorité requérante et d'après un tarif arrêté, pour les
+différentes catégories de profession ou d'emploi, par le ministre chargé du travail, après accord du ministre chargé du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Chapitre III : Réquisition de biens et services
+
+##### Section 1 : Dispositions générales
+
+###### Article R2213-1
+
+La réquisition d'un bien peut être partielle ou totale.
+
+L'autorité requérante peut, sauf en ce qui concerne les immeubles, transformer une réquisition d'usage en réquisition de
+propriété.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-1 (V)
+	  - Code de la défense. - art. R2491-3 (V)
+
+
+###### Article R2213-2
+
+La nature et la quotité des ressources, en particulier des immeubles ou parties d'immeubles, qui peuvent être soustraites à
+la réquisition, soit dans un but d'intérêt général, soit comme indispensables au producteur, détenteur ou occupant et à sa
+famille, sont fixées, en tant que de besoin, par arrêté conjoint du Premier ministre et du ministre responsable de la
+ressource.
+
+La réquisition peut porter sur les biens et services des personnes physiques ou morales étrangères, sous la seule réserve des
+conventions internationales en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2213-3
+
+La réquisition de services peut s'appliquer aux entreprises ou aux personnes. Celle relative aux services des personnes est
+distincte de la réquisition d'emploi des personnes qui reste régie par les dispositions du chapitre 2 du présent titre.
+
+La réquisition des services d'une personne a pour effet d'obliger cette personne à fournir, en priorité, par l'exercice de
+son activité professionnelle et avec tous les moyens dont elle dispose, les prestations définies par l'autorité requérante.
+
+La réquisition des services d'une entreprise a pour effet d'obliger cette entreprise à exécuter, par priorité, les services
+prescrits avec tous les moyens dont elle dispose, notamment en personnel et en matériel.
+
+Les personnes ou les entreprises qui ont fait l'objet d'une réquisition de services, conformément aux dispositions du présent
+article, conservent pour l'exécution des prestations prescrites la direction de leur activité professionnelle. Dès que ces
+prestations ont été fournies, le prestataire retrouve la liberté professionnelle dont il jouissait antérieurement.
+
+Cette forme de réquisition est employée, de préférence à la réquisition d'usage, toutes les fois que l'autorité requérante
+estime possible d'y recourir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2213-4
+
+L'ordre de réquisition est donné par écrit. Il doit porter les nom, prénoms, qualité et signature de l'autorité requérante,
+la nature, le quantum ou la durée de la prestation, la désignation du prestataire, la date et le lieu de la réquisition. En
+outre, il précise s'il s'agit d'une réquisition de propriété, d'usage ou de services.
+
+A défaut d'indication sur l'ordre de réquisition, et sauf accord ultérieur entre l'autorité requérante et le prestataire, la
+réquisition d'un bien mobilier est considérée comme effectuée en propriété. Au contraire, en ce qui concerne les navires et
+les aéronefs, c'est la réquisition d'usage qui est présumée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2213-5
+
+L'ordre de réquisition est remis au prestataire ou, à défaut, au maire. Lorsque le prestataire n'est pas le propriétaire,
+l'autorité requérante doit aviser ce dernier par lettre recommandée, sans que la régularité de la réquisition soit
+subordonnée à cette formalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2213-6
+
+Toute réquisition collective est faite, en principe, sauf en cas d'urgence ou d'impossibilité, par l'intermédiaire du maire
+de la commune où a lieu la réquisition. 
+
+En cas de réquisition de ressources s'adressant à l'ensemble de la commune, le maire, assisté, sauf en cas de force majeure,
+de quatre membres du conseil municipal appelés dans l'ordre du tableau prévu aux articles R. 2121-2 et R. 2121-4 du code
+général des collectivités territoriales, répartit les prestations entre les habitants et contribuables, alors même que ceux-
+ci n'habitent pas la commune et n'y sont pas représentés, et prend toutes mesures pour qu'en cas d'absence de l'un de ceux-ci
+la contribution soit effective. Il peut alors, en présence de deux témoins, faire ouvrir la porte et faire procéder d'office
+à la fourniture de la prestation requise. Il dresse un procès-verbal de ces opérations et fait notamment constater aux
+témoins que les locaux ouverts par son ordre ont été refermés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2121-2 (V)
+	  - Code général des collectivités territoriales - art. R2121-4 (V)
+
+
+###### Article R2213-7
+
+Les reçus de prestations délivrés aux prestataires sont donnés par écrit sur des formules extraites de carnets à souches ;
+ils doivent préciser, outre la nature, la quantité et l'état des prestations fournies, s'il y a lieu leur qualité. Toutefois,
+en cas de réquisitions d'immeubles, la mention de la date de l'occupation effective sur l'ordre de réquisition, signée par
+l'autorité requérante, tient lieu de reçu de prestation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2221-1 (V)
+
+
+###### Article R2213-8
+
+L'ordre de réquisition non suivi d'un commencement d'exécution, par le fait de l'autorité requérante, dans un délai de quinze
+jours francs à compter de la date d'émission est réputé caduc. Toutefois, l'ordre de réquisition peut fixer un délai
+préparatoire à l'exécution, supérieur à quinze jours francs, et au plus égal à soixante, auquel cas cet ordre ne devient
+caduc que lorsque l'exécution n'est pas commencée, par le fait de l'administration, au terme ainsi déterminé.
+
+Le transfert du droit d'usage ou de propriété s'opère lors de la prise de possession du bien réquisitionné.
+
+La levée d'une réquisition d'usage intervient par la remise de ce bien, contre reçu, au prestataire ou, à défaut, au maire
+tenu d'aviser le prestataire.
+
+Dans le cas d'un bien immobilier, la remise du bien peut être remplacée par celle des clés, s'il y a lieu.
+
+Dans le même cas, quand les circonstances ne permettent pas une remise effective, l'autorité requérante notifie par écrit la
+levée de réquisition au prestataire directement ou, à défaut, par l'intermédiaire du maire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2213-9 (V)
+	  - Code de la défense. - art. R2234-3 (V)
+
+
+###### Article R2213-9
+
+Si la formalité prévue au dernier alinéa de l'article R. 2213-8 n'a pu être remplie, la réquisition prend fin, de plein
+droit, deux semaines après la cessation complète de l'occupation des lieux. 
+
+La cessation d'une réquisition de services comportant une durée, et dont le terme ne se déduit pas de l'ordre de réquisition,
+est notifiée par écrit directement au prestataire. 
+
+Un ministre, compétent pour procéder à la réquisition de ressources déterminées, peut fixer par arrêté contresigné du
+ministre chargé de l'économie et des finances toute disposition qui lui paraîtrait nécessaire en vue de la prise de
+possession ou de la restitution de certaines catégories de biens réquisitionnés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2213-10 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-8 (V)
+
+
+###### Article R2213-10
+
+A la prise de possession de tout bien requis en usage, il est établi un état descriptif et, s'il y a lieu, un inventaire.
+Toutefois, en ce qui concerne la réquisition de biens meubles, il suffit d'une simple mention portée sur le reçu, si cette
+indication permet d'identifier les objets et de caractériser leur état.
+
+L'état descriptif et l'inventaire sont établis par écrit, sur papier libre, en deux exemplaires, en présence du prestataire
+ou de son représentant ou, à défaut, d'un représentant de la municipalité. Ils sont signés contradictoirement.L'un des
+exemplaires est remis au prestataire ou à celui agissant pour son compte, et l'autre exemplaire est conservé par l'autorité
+requérante. 
+
+Ces documents contiennent tous éléments précis d'information permettant d'évaluer les prestations requises. En cas de
+contestation, les parties peuvent mentionner leurs observations avant d'apposer leur signature. Le cas échéant, il est fait
+mention du refus de signer du prestataire. 
+
+En fin de réquisition, les mêmes formes sont employées que lors de la prise de possession et il est procédé, à cette
+occasion, à toute constatation utile pour déterminer les modifications intervenues dans l'état des biens au cours de la
+réquisition. Dans le cas prévu au premier alinéa de l'article R. 2213-9, l'autorité requérante prend toutes mesures pour
+permettre d'établir la date de cessation effective de l'occupation, ainsi que l'état des lieux à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2213-11 (V)
+	  - Code de la défense. - art. R2213-22 (V)
+	  - Code de la défense. - art. R2234-48 (V)
+	  - Code de la défense. - art. R2234-64 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-9 (V)
+
+
+###### Article R2213-11
+
+Lorsque cette réquisition d'usage concerne des sociétés ou entreprises dont les bilans ou inventaires annuels, ou tous autres
+documents comptables, sont susceptibles de servir de base à l'évaluation de tout ou partie des meubles ou immeubles, l'état
+descriptif et l'inventaire mentionnés à l'article R. 2213-10 peuvent être limités aux seuls objets ou matières dont la
+désignation ou le recensement apparaîtrait comme nécessaire. Ils précisent, en outre, le cas échéant, les réserves que
+peuvent comporter les évaluations figurant aux différents documents comptables utilisés. 
+
+La prise de possession transfère la direction de l'exploitation et les responsabilités y afférentes à l'organisme prévu par
+l'autorité requérante. A cet effet, toutes dispositions sont prises pour distinguer les opérations relatives à l'ancienne
+gestion de celles intéressant l'exploitation dirigée par les soins de l'autorité requérante. 
+
+La prise de possession de l'exploitation ouvre l'exercice du droit d'usage de tous les moyens nécessaires à la marche de
+l'établissement, y compris, s'il y a lieu, celui des licences ou brevets, sans qu'aucun secret de fabrication puisse être
+opposé par l'exploitant. Les autorités requérantes et leurs représentants sont tenus au secret professionnel pour tous les
+renseignements confidentiels dont ils peuvent avoir connaissance, notamment sur le fonctionnement de l'entreprise et les
+procédés de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-10 (V)
+
+
+###### Article R2213-12
+
+L'ordre de réquisition d'usage ou de services d'une exploitation industrielle, commerciale ou agricole peut être notifié soit
+au siège social, soit au lieu où se trouve l'établissement requis. L'ordre de réquisition donné au siège social peut
+mentionner non seulement le siège social, mais tout ou partie des exploitations qui en dépendent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 2 : Réquisition de logement
+
+###### Article R2213-13
+
+La réquisition exercée sous forme de logement ou de cantonnement peut être imposée aux habitants en proportion de leurs
+ressources en locaux d'habitation et dépendances disponibles. 
+
+Cette forme de réquisition de services peut être employée, notamment pour l'hébergement des réfugiés, des sinistrés et des
+personnes déplacées sur l'ordre des pouvoirs publics. 
+
+Les modalités de répartition et d'exécution du logement et du cantonnement, ainsi que celles relatives à la délivrance des
+billets de logement, sont déterminées par un arrêté conjoint du ministre de l'intérieur, du ministre de la défense et du
+ministre chargé de l'économie et des finances dans les conditions prévues aux articles L. 2223-1 à L. 2223-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2223-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-37 (V)
+	  - Code de la défense. - art. R2234-69 (V)
+
+
+###### Article R2213-14
+
+La réquisition en usage de la totalité d'un local d'habitation occupé effectivement ne peut intervenir qu'exceptionnellement
+si un intérêt national l'exige et si la cohabitation avec l'affectataire des lieux requis s'avère impossible ou nuisible.
+
+Dans le cas prévu à l'alinéa précédent, l'autorité requérante est tenue de pourvoir d'urgence, au besoin par voie de
+réquisition, au logement des occupants évincés.
+
+L'indemnité de privation de jouissance due au prestataire est diminuée, par compensation, du montant des sommes payées par
+l'Etat, au même titre, pour le logement de remplacement. L'Etat ne peut, après avoir opéré cette compensation, réclamer au
+prestataire aucune somme au titre du loyer, quelle que soit l'importance du logement de remplacement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 3 : Réquisition de marchandises
+
+###### Article R*2213-16
+
+Lorsqu'un ordre de réquisition de services est donné, le prestataire doit en priorité exécuter cet ordre au profit du ou des
+bénéficiaires désignés en appliquant les conditions, notamment de prix et de tarifs, en usage ou en vigueur pour les
+opérations de transports ou de travaux qui lui sont assignés. 
+
+Par aménagement des dispositions relatives au règlement des réquisitions et de l'article L. 2213-4, il n'est pas délivré par
+l'autorité requérante de reçus aux prestataires, dont la rémunération reste à la charge des bénéficiaires dans les conditions
+prévues à l'article R*. 1336-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2213-4 (V)
+	  - Code de la défense. - art. R*1336-14 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*2441-1 (V)
+	  - Code de la défense. - art. R*2451-1 (V)
+	  - Code de la défense. - art. R*2461-1 (V)
+	  - Code de la défense. - art. R*2471-1 (V)
+
+
+###### Article R*2213-17
+
+Les services, établissements et entreprises mentionnés à l'article R. * 1336-2 sont tenus d'exécuter par priorité les
+transports ou autres opérations de leur compétence qui leur sont assignées par délégation de service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1336-2 (V)
+
+
+###### Article R*2213-18
+
+Le ministre chargé des transports et de leurs infrastructures peut instituer toutes mesures de contrôle nécessaires à
+l'application des régimes des priorités. Il peut notamment prescrire la tenue d'une comptabilité particulière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+
+###### Article R*2213-19
+
+Les ordres de réquisition de services peuvent spécifier que la désignation des opérations de transports ou de travaux à
+effectuer par priorité est faite par un service de l'Etat ou des collectivités territoriales, ou bien par un organisme
+agissant sous l'autorité et le contrôle de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+
+###### Article R2213-15
+
+Lorsque la réquisition porte sur des marchandises, en dépôt dans les magasins généraux, ou en cours de transport, l'autorité
+requérante remet l'ordre de réquisition au gérant de l'entrepôt ou des magasins généraux, au chef de gare, à l'entrepreneur
+de transport ou à ses préposés.
+
+Un inventaire est établi en trois exemplaires destinés :
+
+1° A l'autorité requérante ;
+
+2° A la personne qui a la garde des marchandises ;
+
+3° Pour avis aux ayants droit connus ou aux expéditeurs des marchandises.
+
+Un extrait de cet inventaire est laissé au receveur des douanes lorsque la marchandise est sous le contrôle de cette
+administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 4 : Réquisition de navires et d'aéronefs
+
+###### Article D*2213-23
+
+Les services des compagnies aériennes françaises peuvent être mis en état de réquisition. 
+
+Le cas échéant, les personnels nécessaires à l'exécution par priorité des missions prescrites en application de l'alinéa
+précédent peuvent être mis en état de réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D*2441-4 (V)
+	  - Code de la défense. - art. D*2451-4 (V)
+	  - Code de la défense. - art. D*2461-5 (V)
+	  - Code de la défense. - art. D*2471-4 (V)
+
+
+###### Article R2213-20
+
+La réquisition de l'usage ou de la propriété d'un aéronef est notifiée soit au propriétaire, soit à l'exploitant ou, à
+défaut, au commandant de bord. Sauf indication contraire, elle entraîne l'obligation de débarquer les passagers, objets,
+approvisionnements et marchandises.
+
+Lors de l'établissement de l'état descriptif, le prestataire est tenu de communiquer à l'autorité requérante tous documents
+permettant d'apprécier l'état d'usure du moteur et de la cellule, notamment les documents de bord. L'inventaire du matériel
+réquisitionné précise si ce matériel est ou non conservé à bord.
+
+Un procès-verbal de remise, sur lequel sont mentionnées éventuellement les observations des intéressés, tient lieu de reçu
+des prestations fournies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+	  - Code de la défense. - art. R2491-3 (V)
+
+
+###### Article R2213-21
+
+La réquisition de l'usage ou de la propriété des navires est notifiée à l'armateur ou, à défaut, au capitaine, maître ou
+patron. Sauf indication contraire, elle entraîne pour celui-ci l'obligation de faire éventuellement rallier au navire un port
+désigné et d'y débarquer les passagers ainsi que les marchandises, approvisionnements et objets non réquisitionnés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-3 (V)
+
+
+###### Article R2213-22
+
+En vue de l'établissement de l'état descriptif prévu à l'article R. 2213-10, l'Etat se réserve de faire procéder à une
+inspection détaillée contradictoire du navire à flot et à sec en présence de l'inspecteur de la navigation et du représentant
+du bureau de classification. La carène est repeinte si l'Etat l'estime nécessaire. 
+
+Les frais d'échouage ou de passage au bassin, y compris la conduite et le retour à quai, ainsi que ceux de peinture de carène
+sont supportés par l'armateur proportionnellement au temps qui s'est écoulé depuis le dernier carénage et en admettant que
+l'intervalle normal entre deux carénages est de six mois. Ces frais s'imputent sur les indemnités de réquisition.
+
+L'état descriptif doit être dressé d'une façon très détaillée et comporter, dans toute la mesure du possible, un plan général
+de sondage du navire (coque, ponts, cloisons). Il est établi contradictoirement, en deux originaux, outre un état descriptif
+du navire et un inventaire du matériel, des vivres et matières consommables réquisitionnés ou conservés à bord, un procès-
+verbal de remise où sont mentionnées la date de prise en charge et, s'il y a lieu, les observations des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-10 (V)
+
+
+###### Article R2213-24
+
+La réquisition d'un navire est levée au port d'attache ou de réquisition, après consultation de l'armateur, ou au lieu où
+l'Etat cesse d'en avoir l'utilisation si ce lieu se trouve en métropole.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE II : REQUISITIONS MILITAIRES
+
+##### Chapitre Ier : Conditions générales d'exercice du droit de réquisition
+
+###### Article R2221-1
+
+En temps de guerre, tout commandant d'unités ou de formations militaires, tout chef de détachement opérant isolément peut,
+même sans être porteur du carnet mentionné à l'article R. 2213-7, réquisitionner, sous sa responsabilité personnelle, les
+prestations nécessaires aux besoins des hommes et du matériel placés sous ses ordres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-7 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-11 (V)
+
+
+##### Section unique : Règles de forme et de compétence
+
+###### Article R2221-2
+
+Dans les cas prévus aux articles L. 2221-2 et L. 2221-3, les réquisitions nécessaires à la constitution et à l'entretien des
+armées sont effectuées par les autorités militaires mentionnées aux articles R. 2211-4 à R. 2211-6, selon les règles de
+délégation précisées à ces mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2221-2 (V)
+	  - Code de la défense. - art. R2211-4 (V)
+
+
+###### Article R2221-3
+
+Les ordres de réquisitions sont établis en deux exemplaires, dont l'un est remis au maire et l'autre est adressé
+immédiatement, par la voie hiérarchique, à l'officier général exerçant un commandement territorial. Il est donné reçu des
+prestations fournies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2221-4
+
+Pour l'exécution des réquisitions militaires prévues aux titres II et III du présent livre, tous les avertissements et autres
+actes qu'il est nécessaire de signifier à l'autorité militaire sont adressés à la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Chapitre III : Règles particulières à certaines prestations
+
+##### Section 1 : Réquisition de logement et de cantonnement
+
+###### Article R2223-1
+
+Lorsque des militaires doivent être logés ou cantonnés chez l'habitant, l'autorité militaire informe les communes où ils
+doivent stationner du jour de leur arrivée.
+
+Le maire de la commune ou son délégué délivre, sur présentation des ordres de route, les billets de logement, en veillant à
+réunir, autant que possible dans le même quartier, les militaires appartenant aux mêmes unités constituées, afin d'en
+faciliter le rassemblement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2223-2
+
+Les officiers appelés à réquisitionner le logement chez l'habitant ou le cantonnement de formations militaires sous leurs
+ordres consultent le recensement fait en application de l'article L. 2223-3 et ne requièrent, dans chaque commune, le
+logement que pour un nombre de soldats et de matériels inférieur ou au plus égal à celui qui est indiqué par ce recensement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2223-3 (V)
+
+
+##### Section 2 : Réquisitions relatives aux chemins de fer
+
+###### Article R2223-3
+
+Lorsqu'il y a lieu, par application de l'article L. 2223-12, de réquisitionner la totalité des moyens de transport dont
+disposent un ou plusieurs opérateurs de chemins de fer, cette réquisition est notifiée à chaque opérateur par un arrêté du
+ministre chargé des transports. Son retrait lui est notifié de la même manière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2223-12 (V)
+
+
+###### Article R2223-4
+
+En temps de guerre, les transports hors de la zone des opérations sont ordonnés par le ministre de la défense et sont
+exécutés par les opérateurs sous la direction de la Commission centrale des chemins de fer. Les transports dans la zone des
+opérations sont ordonnés par l'officier général exerçant le commandement opérationnel et sont exécutés par le service
+militaire des chemins de fer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2223-5
+
+Les dépendances des gares et de la voie ne peuvent être réquisitionnées, hors de la zone des opérations, que par le ministre
+de la défense, sur l'avis de la Commission centrale des chemins de fer, et dans la zone des opérations, que par l'officier
+général exerçant le commandement opérationnel, sur l'avis du service militaire des chemins de fer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE III : DISPOSITIONS COMMUNES  A L'ENSEMBLE DES REQUISITIONS
+
+##### Chapitre II : Recensement et classement
+
+###### Article R2232-1
+
+Le recensement de biens et de services qui est réalisé en application des dispositions de l'article L. 2232-1, susceptibles
+d'être requis à la mobilisation ou dans les cas prévus à l'article L. 1111-2, est effectué conformément à un arrêté pris par
+le ministre auquel appartiendrait l'exercice du droit de requérir la ressource ou la catégorie de ressources faisant l'objet
+du recensement. 
+
+Lorsqu'il est ordonné par les autorités militaires, le recensement des véhicules est opéré dans les conditions fixées par les
+articles L. 2223-7 à L. 2223-11. Dans les autres cas, le recensement de ces mêmes ressources est opéré conformément aux
+dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L2223-7 (V)
+	  - Code de la défense. - art. L2232-1 (V)
+
+
+###### Article R2232-2
+
+Le ministre de la défense est chargé, en temps de paix, d'arrêter le programme général annuel des recensements.A cet effet,
+une commission interministérielle réunie à la diligence du secrétariat général de la défense nationale étudie, coordonne et,
+s'il y a lieu, simplifie les programmes particuliers à chaque ministère, qui lui sont adressés avant le 1er novembre de
+chaque année, et, compte tenu des renseignements qui peuvent être fournis par des recensements autres que ceux prévus par
+l'article L. 2232-1, prépare ainsi le programme général des recensements, qui est arrêté avant le 1er janvier de chaque
+année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2232-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2232-3
+
+Les modalités pratiques du recensement sont fixées par arrêté du ministre responsable de la ressource.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2232-4
+
+Tout essai ou exercice est effectué dans les conditions fixées par arrêté du ministre responsable de la ressource.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2232-5
+
+Un arrêté conjoint du ministre de la défense et du ministre chargé du budget fixe les conditions dans lesquelles les
+personnes auxquelles un essai ou exercice impose des obligations particulières peuvent, s'il y a lieu, être indemnisées.
+
+Les indemnités sont attribuées par le ministre qui a prescrit l'essai ou exercice en cause, sur la proposition d'une
+commission dont la composition est fixée par arrêté de ce ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2232-6
+
+Les recensements de personnes prévus à l'article L. 2232-1 doivent permettre l'établissement d'un fichier national des
+ressources en main-d'œuvre et sont effectués par le ministre chargé de la main-d'œuvre avec le concours de l'Institut
+national de la statistique et des études économiques. 
+
+Les modalités de ces recensements, les conditions dans lesquelles est établi et géré le fichier national des ressources en
+main-d'œuvre et la répartition des tâches entre le ministre chargé de la main-d'œuvre et le ministre dont relève l'Institut
+national de la statistique et des études économiques sont fixées par arrêtés conjoints de ces ministres et du ministre de la
+défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2232-1 (V)
+
+
+###### Article R2232-7
+
+Les recensements peuvent comporter soit des déclarations à effectuer aux autorités désignées, dans les conditions et délais
+notifiés par tout moyen utile, soit des renseignements à fournir, par les intéressés, en réponse à un questionnaire émanant
+de l'autorité chargée du recensement.
+
+L'obligation de fournir les renseignements demandés incombe soit aux personnes faisant elles-mêmes l'objet d'un recensement,
+soit à toute personne physique ou morale, collectivités, services et organismes quels qu'ils soient, qualifiés pour connaître
+les renseignements demandés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2232-8 (V)
+
+
+###### Article R2232-8
+
+En vue d'assurer d'une façon constante la tenue à jour du fichier national des ressources en main-d'œuvre, les personnes,
+collectivités, services et organismes mentionnés au deuxième alinéa de l'article R. 2232-7 doivent déclarer les changements
+intervenus dans le domicile, la situation de famille, la nationalité, la situation professionnelle et la résidence habituelle
+des personnes visées par les recensements. 
+
+Des arrêtés conjoints du ministre chargé de la main-d'œuvre et des ministres intéressés fixent les modalités d'application du
+présent article, et notamment la nature des déclarations obligatoires, les conditions et délais dans lesquels elles doivent
+être faites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2232-7 (V)
+
+
+##### Chapitre III : Blocage préalable en vue de procéder à des réquisitions
+
+###### Article R2233-1
+
+Lorsque l'autorité qualifiée pour réquisitionner estime nécessaire de conserver à sa disposition des biens mobiliers, en vue
+d'une réquisition éventuelle, elle peut en prononcer le blocage pour une durée ne pouvant dépasser deux semaines.
+
+Cette mesure préparatoire est levée de plein droit si, à l'expiration de la durée fixée, la réquisition n'a pas été ordonnée
+ou si l'ordre de blocage n'a pas été renouvelé pour une deuxième et dernière période de même durée au maximum.
+
+L'ordre de blocage est formulé par écrit et notifié au propriétaire ou au détenteur des biens. Il a effet immédiat, le jour
+de sa notification étant considéré comme le premier jour de la durée de validité de l'ordre.
+
+Cet ordre désigne les biens bloqués et indique leur importance ainsi que le lieu où ils sont conservés.
+
+Aussitôt après notification de l'ordre de blocage, un inventaire descriptif des biens bloqués est établi à la diligence de
+l'autorité requérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-1 (V)
+
+
+###### Article R2233-2
+
+La mesure de blocage comporte, pour le propriétaire ou le détenteur des biens, l'obligation d'en assurer la garde et la
+conservation ainsi que celle de les présenter à toute demande de l'administration au lieu et dans l'état où ils se trouvaient
+au jour du blocage.
+
+Toutefois, lorsque la mesure de blocage porte sur des choses fongibles, la présentation de biens équivalents en nature,
+qualité et quantité est autorisée si l'ordre de blocage ne s'y oppose pas. La modification de leur état et leur déplacement,
+notamment en vue d'assurer leur conservation, sont possibles avec l'autorisation préalable de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2233-3
+
+Le propriétaire ou le détenteur des biens bloqués ne peut prétendre qu'au remboursement des frais prévus à l'article L.
+2233-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2233-1 (V)
+
+
+##### Chapitre IV : Règlement des réquisitions
+
+##### Section 1 : Indemnisation des réquisitions de biens ou de services
+
+##### Sous-section 1 : Evaluation directe de paiement des indemnités
+
+###### Article R2234-1
+
+Conformément aux dispositions de l'article L. 2234-1, les indemnités à allouer pour la réquisition de biens ou de services
+tiennent compte seulement de la perte effective, c'est-à-dire matérielle, directe et certaine imposée au prestataire. Tout
+bénéfice net ou profit pour celui-ci est exclu de l'indemnité de réquisition. 
+
+Le bénéfice net ou profit mentionné à l'alinéa précédent correspond à la fraction du prix d'une chose qui apparaît après
+déduction de toute dépense effective et nécessaire exposée par le prestataire ainsi que, s'il y a lieu, de la rémunération
+normale du travail et du capital et de l'amortissement de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-19 (V)
+	  - Code de la défense. - art. R2234-31 (V)
+	  - Code de la défense. - art. R2491-7 (V)
+
+
+###### Article R2234-2
+
+Le travail considéré est celui accompli par le prestataire pour élaborer la prestation requise. La rémunération normale de ce
+travail personnel est celle habituellement attribuée aux personnes salariées remplissant des fonctions analogues. La
+rémunération de la main-d'œuvre éventuellement employée par le prestataire est un élément des dépenses nécessaires.
+
+La rémunération normale du capital investi par le prestataire pour être productif de revenus correspond à un intérêt égal au
+taux des avances sur titres de la Banque de France.
+
+L'amortissement à retenir est celui couramment admis, compte tenu de la nature des immobilisations, sans que le taux adopté
+puisse être supérieur à celui effectivement pratiqué par le prestataire avant la réquisition.
+
+Si le bien requis n'est pas à l'état neuf, il y a lieu de tenir compte de sa vétusté pour l'appréciation de sa valeur vénale
+ou locative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-7 (V)
+
+
+###### Article R2234-3
+
+Les indemnités de réquisition ne sont dues qu'à partir du moment où les prestations requises sont fournies par le
+prestataire. 
+
+Toutefois, lorsque le prestataire apporte la preuve d'une perte effective, née du fait de la réquisition, dans la période
+comprise entre la notification de l'ordre de réquisition, d'une part, et son exécution ou, à défaut, la levée de la
+réquisition ou la caducité de l'ordre, d'autre part, une indemnité compensatrice est due à compter du jour où le préjudice
+est devenu effectif. 
+
+Cette indemnité est au plus égale à celle qui serait accordée, pendant une période de même durée, pour la réquisition d'usage
+du bien considéré ou pour la réquisition des services prescrits. 
+
+Les charges supplémentaires supportées par le prestataire, résultant directement des mesures particulières de prise de
+possession ou de levée de réquisitions ordonnées conformément aux articles R. 2213-8 et R. 2213-21, lui sont remboursées sur
+justifications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-21 (V)
+	  - Code de la défense. - art. R2213-8 (V)
+
+
+###### Article R2234-4
+
+L'indemnité due pour la réquisition en propriété d'un bien mobilier est déterminée en principe sur la base de tarifs ou
+barèmes établis dans les conditions précisées à l'article R. 2234-36.
+
+A défaut de tels tarifs ou barèmes, lorsque la réquisition porte sur des objets ou produits taxés ou faisant l'objet d'un
+contingentement avec prix de cession fixé par l'administration, l'indemnité allouée ne peut, en aucun cas, être supérieure au
+prix de la taxe ou au prix de cession, sans préjudice des réfactions ou déductions qui peuvent être opérées sur ce prix en
+raison, notamment, du profit, de la vétusté et du défaut de qualité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-26 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-36 (V)
+
+
+###### Article R2234-5
+
+Lorsqu'il s'agit de biens pour lesquels aucun mode d'évaluation légal ou réglementaire n'est prévu, l'indemnité est
+déterminée à partir de la valeur vénale du bien, au moyen de tous éléments tels que le prix de revient et à l'exclusion de
+tout profit pour le prestataire.
+
+Le prestataire peut prétendre, s'il y a lieu, au remboursement des droits de régie et taxes indirectes frappant certaines
+prestations, dans la mesure où l'indemnité de réquisition n'en tiendrait pas compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-6 (V)
+
+
+###### Article R2234-6
+
+Les réquisitions d'usage de biens mobiliers donnent lieu au paiement périodique d'une indemnité de privation de jouissance
+comprenant un intérêt et un amortissement. Cette indemnité est déterminée conformément aux barèmes ou tarifs prévus à
+l'article R. 2234-36 ou, à défaut, d'après la valeur du bien estimée directement dans les conditions définies au premier
+alinéa de l'article R. 2234-5.
+
+L'indemnité ne peut dépasser ni le prix légal de location, s'il en existe un pour les biens de l'espèce, ni le prix
+conventionnel de location dans le cas où le prestataire est locataire du bien requis. 
+
+Le prestataire peut obtenir, s'il y a lieu, le remboursement, sur justifications, des charges afférentes au bien requis et
+incombant normalement à l'usager.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-11 (V)
+	  - Code de la défense. - art. R2234-26 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-36 (V)
+	  - Code de la défense. - art. R2234-5 (V)
+
+
+###### Article R2234-7
+
+La réquisition de l'usage de tout ou partie d'un bien immobilier, comprenant ou non des objets mobiliers, donne droit, compte
+tenu de l'utilisation habituelle antérieure, à une indemnité périodique compensatrice de la privation de jouissance imposée
+au prestataire et, le cas échéant, de la perte effective résultant de l'empêchement d'exploiter ou d'exercer dans les lieux
+requis. 
+
+En outre, le prestataire peut prétendre, s'il y a lieu, au remboursement des prestations et fournitures individuelles
+incombant aux locataires et supportées par lui, ainsi qu'au remboursement des impôts et taxes afférents à l'usage des biens
+requis pour la période de réquisition.
+
+A défaut de tarifs ou barèmes, la rémunération des prestations requises est fixée conformément aux articles R. 2234-8 à R.
+2234-35.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-8 (V)
+
+
+###### Article R2234-8
+
+Lorsqu'il s'agit d'immeubles à usage d'habitation, l'indemnité de privation de jouissance est déterminée d'après tous
+éléments, dans la limite de la valeur locative réelle des biens requis, sans pouvoir dépasser le loyer autorisé par la loi
+ni, le cas échéant, le loyer conventionnel.
+
+L'indemnité de privation de jouissance est fixée compte tenu, d'une part, des éléments propres à l'immeuble requis, notamment
+de la catégorie, de l'état d'entretien et de vétusté, du caractère saisonnier des locations antérieures, et, d'autre part,
+des conditions d'utilisation habituelle des lieux avant la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-7 (V)
+
+
+###### Article R2234-9
+
+L'indemnité supplémentaire à allouer au prestataire pour tenir compte de la valeur de location du mobilier compris, le cas
+échéant, dans la réquisition est, en principe, égale à celle fixée pour le local nu lorsqu'il s'agit d'un mobilier normal, en
+rapport avec l'immeuble.
+
+Cette indemnité peut être inférieure si le mobilier requis est incomplet ou en mauvais état. Elle peut, au contraire, être
+supérieure, sans toutefois pouvoir dépasser le double de l'indemnité fixée pour le local nu, lorsqu'il s'agit d'un mobilier
+de valeur ou particulièrement important.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-11 (V)
+
+
+###### Article R2234-10
+
+Pour le mobilier garnissant les lieux requis et non compris dans la réquisition, le prestataire peut prétendre, sur
+justification, à une indemnité complémentaire qui varie selon que ce mobilier est ou non utilisé par lui en d'autres lieux.
+
+Lorsque le mobilier est ainsi utilisé ailleurs par le prestataire, cette indemnité correspond au remboursement des frais de
+déménagement strictement nécessaires au début et en fin d'occupation des lieux requis.
+
+Lorsque le mobilier n'est pas utilisé ailleurs, le prestataire peut prétendre, en plus de l'indemnité de déménagement, au
+remboursement périodique des frais indispensables d'entreposage, de gardiennage et de conservation en l'état des meubles
+demeurés sans emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-11 (V)
+	  - Code de la défense. - art. R2234-12 (V)
+
+
+###### Article R2234-11
+
+Lorsqu'il s'agit de locaux dans lesquels le prestataire exerce régulièrement sa profession, l'indemnité d'occupation est
+déterminée, compte tenu du caractère professionnel de ces locaux, suivant les modalités fixées à l'article R. 2234-9. 
+
+Le prestataire a droit, en outre, pour le mobilier requis, à l'indemnité supplémentaire prévue à l'article R. 2234-10 et,
+pour le matériel professionnel requis, à une indemnité calculée conformément au premier alinéa de l'article R. 2234-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-10 (V)
+	  - Code de la défense. - art. R2234-6 (V)
+	  - Code de la défense. - art. R2234-9 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-13 (V)
+
+
+###### Article R2234-12
+
+En cas de transfert du siège de la profession, les indemnités ci-dessus sont limitées aux seuls éléments non transférés, le
+prestataire pouvant prétendre, d'autre part, à une indemnité correspondant au montant des dépenses strictement nécessaires
+pour réaliser le transport du mobilier et du matériel non requis, ainsi que la réinstallation dans un nouveau local. 
+
+Lorsque le prestataire procède à l'enlèvement du mobilier et du matériel non requis, mais ne les utilise pas ailleurs, il
+peut prétendre, sur justification, à l'indemnité prévue à la fin du troisième alinéa de l'article R. 2234-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-10 (V)
+
+
+###### Article R2234-13
+
+Lorsque les locaux réquisitionnés sont occupés par un organisme privé fonctionnant dans un but non lucratif, l'indemnité est
+déterminée conformément aux dispositions des articles R. 2234-11 et R. 2234-12, à l'exclusion de tout intérêt sur la valeur
+des éléments mobiliers requis appartenant à cette collectivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-11 (V)
+
+
+###### Article R2234-14
+
+La réquisition de l'usage d'un bien immobilier appartenant à une collectivité territoriale ou à un établissement public donne
+droit, à titre de privation de jouissance, si ce bien n'est pas productif de revenus, à une indemnité périodique d'occupation
+correspondant :
+
+1° Aux dépenses supplémentaires et inévitables imposées du fait de l'occupation totale ou partielle ;
+
+2° Aux dépenses normales d'entretien de l'immeuble ;
+
+3° Le cas échéant, aux frais de transfert et de réinstallation des services évincés lorsque leur maintien en fonctionnement
+est justifié par l'intérêt public.
+
+Lorsque l'immeuble requis procure des recettes, l'indemnité d'occupation est calculée suivant des modalités analogues à
+celles qui s'appliquent à la réquisition d'un bien privé pouvant être assimilé à celui qui est effectivement requis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-15
+
+La transformation d'une réquisition d'usage d'un bien mobilier en réquisition de propriété donne lieu à l'émission d'un
+nouvel ordre de réquisition, qui est notifié au prestataire ou à son représentant.
+
+De l'indemnité due pour la réquisition en propriété, évaluée au jour de cette notification, compte tenu de l'état du bien au
+jour de la réquisition d'usage, il y a lieu de déduire les sommes qui, dans l'indemnité allouée pour l'usage, correspondent à
+l'amortissement du bien pendant la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-16
+
+Les indemnités dues pour les réquisitions d'usage ou de services peuvent être révisées chaque fois que les prix courants et
+licites des locations ou des services de même nature que les prestations considérées varient de 10 % au moins depuis le début
+de la réquisition ou de la dernière révision d'indemnité qui a pu intervenir. 
+
+Les indemnités sont révisées proportionnellement à la variation constatée du prix des prestations en cause. 
+
+La révision peut être effectuée d'office par l'administration ou sur demande justifiée des prestataires, cette demande ne
+valant que pour une seule variation de prix et prenant effet à compter du premier jour du mois qui suit la date de
+franchissement du seuil de révision susmentionné. 
+
+Les dispositions du présent article ne sont pas applicables aux prestations dont l'indemnisation fait l'objet de tarifs ou
+barèmes établis dans les conditions prévues à l'article L. 2234-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-5 (V)
+
+
+###### Article R2234-17
+
+Les indemnités dues aux prestataires sont liquidées et payées dans le plus bref délai. Lorsque l'indemnité due pour une
+réquisition n'a pas été ainsi réglée dans un délai de trois mois à compter de la prise de possession définitive ou temporaire
+du bien ou du début de l'exécution des services prescrits, le prestataire peut formuler une demande d'acompte qui est
+satisfaite dans le délai maximal d'un mois. Il en est de même lorsque l'indemnité compensatrice de dommages n'a pas été
+réglée dans un délai de six mois à compter de la constatation contradictoire des dommages.
+
+L'acompte accordé au prestataire est au moins égal à 50 % du montant de la liquidation provisoire de l'indemnité limité,
+quand il s'agit de dommages, par le maximum fixé à l'article L. 2234-19.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+
+
+###### Article R2234-18
+
+Les mandats de paiement sont délivrés au nom des ayants droit pour les marchandises placées en entrepôt ou dans les magasins
+généraux, ou au nom du transporteur pour les marchandises en cours de transport.
+
+Le mandatement des indemnités fixées d'après les tarifs et les barèmes prévus au présent chapitre se fait directement au nom
+des prestataires ou, en ce qui concerne les réquisitions collectives, telles que le logement et le cantonnement, au nom du
+receveur municipal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Sous-section 2 : Dispositions intéressant les entreprises
+
+###### Article R2234-19
+
+Dans le cas d'une réquisition de services adressée à une entreprise, lorsque la prestation est de même nature que celles
+habituellement fournies à la clientèle normale, l'indemnité due est calculée en partant du prix commercial normal et licite
+de la prestation, déterminé en tenant compte de l'activité de l'entreprise au moment de la réquisition et diminué du profit,
+à exclure conformément aux dispositions des articles R. 2234-1 et R. 2234-2.S'il y a lieu, des barèmes d'indemnités peuvent
+être établis, dans les conditions définies à l'article L. 2234-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-5 (V)
+	  - Code de la défense. - art. R2234-1 (V)
+
+
+###### Article R2234-20
+
+Si la prestation requise est différente de celle habituellement fournie par l'entreprise, l'indemnité est déterminée en
+ajoutant à une indemnité calculée conformément aux dispositions des articles R. 2234-21 à R. 2234-23 les charges et frais
+d'exploitation afférents à l'exécution des services prescrits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2234-21 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-21
+
+Lorsque l'immeuble requis est affecté à une exploitation autre qu'agricole, non transférable, et que l'entreprise, compte
+tenu, le cas échéant, de son caractère saisonnier, est en activité au moment de la réquisition, l'indemnité est calculée en
+partant de la valeur de l'ensemble des éléments de l'actif requis.
+
+Cette valeur est déterminée par tous moyens, compte tenu, notamment, des déclarations faites par les contribuables pour
+l'assiette des impôts au titre des trois derniers exercices clos avant la réquisition et des évaluations administratives
+rendues définitives en vertu des lois fiscales.
+
+L'évaluation détaillée de cette valeur est fournie, sur leur demande, aux autorités chargées du règlement des réquisitions et
+aux commissions d'évaluation par les services compétents du ministère chargé des domaines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-6 (V)
+
+
+###### Article R2234-22
+
+Lorsque la réquisition totale ou partielle entraîne l'arrêt complet de l'entreprise, et que son transfert ne peut être opéré,
+l'indemnité d'occupation comprend :
+
+1° Un intérêt calculé sur la valeur de l'ensemble des éléments, corporels et incorporels, de l'actif requis, au taux des
+avances sur titres de la Banque de France ;
+
+2° Un amortissement, calculé sur la valeur des éléments corporels de l'actif requis et dont le taux ne peut être, en aucun
+cas, supérieur à celui admis pour l'entreprise au cours des trois derniers exercices pour la détermination des bases de
+l'impôt sur les sociétés ou la taxe proportionnelle frappant les bénéfices industriels et commerciaux.
+
+Lorsque la réquisition partielle n'entraîne pas l'arrêt complet de l'entreprise, l'indemnité est calculée suivant les
+principes ci-dessus, compte tenu de la réduction apportée à l'activité normale de l'entreprise par la réquisition, à
+l'exclusion de toute autre cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2491-7 (V)
+
+
+###### Article R2234-23
+
+S'il existe dans l'entreprise des dettes spécifiquement afférentes aux éléments corporels de l'actif requis, le prestataire
+prélève les charges de ces dettes sur l'intérêt assurant la rémunération du capital que représente la valeur des éléments de
+l'actif requis. 
+
+La majoration éventuelle prévue par l'article L. 2234-2 n'est accordée au prestataire que dans la mesure où ces charges
+dépassent cet intérêt. 
+
+Ces charges comprennent l'intérêt conventionnel à servir aux prêteurs. 
+
+Dès lors que l'entreprise est tenue, par le contrat d'emprunt, de faire un amortissement financier de l'emprunt, les charges
+comprennent cet amortissement, c'est-à-dire la part d'annuité des emprunts amortissables de longue durée correspondant au
+remboursement du capital, et non le remboursement de dettes à échéance fixe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-2 (V)
+
+
+###### Article R2234-24
+
+Dans le cas où le transfert de l'entreprise peut être opéré, l'indemnité de réquisition correspond au montant des dépenses
+strictement nécessaires pour réaliser ce transfert, auquel s'ajoute une indemnité d'occupation limitée aux seuls éléments
+corporels requis et calculée conformément aux dispositions de l'article R. 2234-25. 
+
+Les dépenses prévues à l'alinéa précédent sont : 
+
+1° Les dépenses du transfert proprement dit, c'est-à-dire les frais nécessaires de déménagement au début et à la fin de la
+réquisition ; 
+
+2° Les dépenses de réalisation du transfert, c'est-à-dire les frais strictement nécessaires pour la réinstallation de
+l'entreprise dans le nouveau local. 
+
+Le cas échéant, il est alloué une indemnité complémentaire temporaire destinée à compenser la réduction d'activité constatée
+après le transfert ; cette indemnité est calculée dans les conditions fixées aux articles R. 2234-26 à R. 2234-29.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-25 (V)
+	  - Code de la défense. - art. R2234-26 (V)
+
+
+###### Article R2234-25
+
+Lorsque l'entreprise n'est pas en activité au moment de la réquisition, l'indemnité de privation de jouissance est déterminée
+d'après tous éléments dans la limite de la valeur locative des biens immobiliers et mobiliers requis, sans pouvoir dépasser
+le loyer conventionnel pour la partie afférente aux biens dont le prestataire n'est pas propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-24 (V)
+
+
+###### Article R2234-26
+
+Lorsque la réquisition, de propriété ou d'usage, de biens mobiliers a directement pour effet de réduire l'activité d'une
+entreprise, le prestataire a droit, en complément de l'indemnité prévue aux articles R. 2234-4 à R. 2234-5 ou à l'article R.
+2234-6 et dans la mesure où il justifie d'un préjudice matériel et certain imputable exclusivement à la réquisition, au
+paiement d'une indemnité temporaire destinée à compenser cette réduction d'activité. 
+
+Cette indemnité complémentaire ne peut être accordée que sur demande motivée du prestataire. Celui-ci n'est autorisé à
+présenter une telle demande qu'à l'expiration d'un délai de trois mois à compter du jour de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-24 (V)
+	  - Code de la défense. - art. R2234-75 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-4 (V)
+	  - Code de la défense. - art. R2234-6 (V)
+
+
+###### Article R2234-27
+
+La preuve de la réduction d'activité de l'entreprise doit être rapportée par le prestataire et peut se faire par tous moyens,
+notamment par la production des documents comptables permettant d'établir les résultats des années antérieures à la
+réquisition et ceux de la gestion de l'entreprise depuis la réquisition. Si l'administration apporte la preuve que les
+éléments fournis par le prestataire sont inexacts ou que la réduction d'activité est imputable à une cause étrangère à la
+réquisition, telle que la conjoncture économique, l'indemnité complémentaire peut être refusée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-28
+
+L'indemnité complémentaire est d'abord accordée pour une période qui ne saurait excéder six mois ; elle pourra ensuite être
+reconduite, totalement ou partiellement, pour des périodes successives au plus égales à six mois, à condition que le
+prestataire renouvelle sa demande en apportant les preuves nécessaires et compte tenu des possibilités de reprise de
+l'activité de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-29
+
+L'indemnité, proportionnelle à la réduction d'activité constatée, est déterminée sur les mêmes bases que l'indemnité dite de
+post-réquisition prévue au quatrième alinéa de l'article L. 2234-19, déduction étant faite ensuite de l'intérêt calculé sur
+le montant des éléments mobiliers requis. Une indemnité complémentaire n'est ainsi allouée que si cet intérêt est inférieur à
+l'indemnité de post-réquisition qui serait accordée pour la même réduction d'activité. 
+
+Toute demande tendant à proroger l'indemnité complémentaire au-delà d'un an est soumise à l'avis du comité consultatif
+mentionné à l'article R. 2234-96 qui se prononce sur le maintien de l'indemnité, son importance et sa durée. Les conclusions
+de cet avis constituent des limites que la décision administrative ne saurait dépasser.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article R2234-30
+
+Lorsque la réquisition porte sur tout ou partie d'une exploitation agricole, comprenant ou non des immeubles bâtis et du
+matériel, le règlement des indemnités fait l'objet d'une détermination par périodes culturales, compte tenu des coutumes et
+usages locaux d'après les renseignements obtenus auprès des chambres départementales d'agriculture ou des services
+départementaux compétents du ministère chargé de l'agriculture.
+
+L'indemnité périodique de privation de jouissance due au prestataire est déterminée d'après tous éléments, dans la limite des
+fermages fixés dans chaque département par le préfet, conformément aux dispositions des articles L. 411-11 et R. 411-9-6 du
+code rural, pour les exploitations similaires de la région considérée, sans pouvoir dépasser, pour les éléments
+d'exploitation pris à bail, le montant du fermage conventionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-31 (V)
+	  - Code de la défense. - art. R2234-34 (V)
+	  - Code de la défense. - art. R2234-35 (V)
+	  - Code de la défense. - art. R2234-73 (V)
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+	**Cite**:
+
+	  - Code rural (V)
+	  - Code rural - art. R411-9-6 (V)
+
+
+###### Article R2234-31
+
+Lorsque le transfert de l'exploitation agricole ne peut pas être opéré et si le prestataire justifie d'une perte due à
+l'empêchement partiel ou total de poursuivre son exploitation, l'indemnité de réquisition prévue à l'article R. 2234-30 est
+augmentée de manière à atteindre la valeur des récoltes que la réquisition empêche de faire, déduction faite des frais non
+engagés et du profit au sens de l'article R. 2234-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-1 (V)
+	  - Code de la défense. - art. R2234-30 (V)
+
+
+###### Article R2234-32
+
+La production moyenne des trois dernières années culturales précédant la réquisition est calculée d'après les déclarations du
+prestataire auprès des administrations financières intéressées ou, à défaut, auprès des services agricoles et, en cas
+d'absence de déclaration, d'après les rendements de la région pour les cultures de même nature. La production ainsi
+déterminée est affectée d'un coefficient d'ajustement pour tenir compte de la moyenne des récoltes de l'année considérée dans
+la même région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-33 (V)
+	  - Code de la défense. - art. R2234-34 (V)
+	  - Code de la défense. - art. R2234-35 (V)
+
+
+###### Article R2234-33
+
+L'indemnité due au prestataire est égale à la valeur de la production empêchée, déterminée comme il est indiqué à l'article
+R. 2234-32, de laquelle il y a lieu de déduire : 
+
+1° Les frais de culture non engagés par le prestataire en vue de cette production qui comprennent notamment l'achat de
+semences et d'engrais, les frais de main-d'œuvre, l'amortissement partiel du matériel non utilisé ; 
+
+2° Un pourcentage correspondant au profit éventuel dont le taux est fixé après avis de la direction départementale de
+l'équipement et de l'agriculture. Elle est payable périodiquement à terme échu, compte tenu des coutumes et usages locaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-32 (V)
+
+
+###### Article R2234-34
+
+Si l'exploitation agricole peut être transférée, en tout ou partie, hors des lieux requis, il est alloué au prestataire, en
+plus de l'indemnité de privation de jouissance prévue à l'article R. 2234-30, une indemnité complémentaire destinée à le
+rembourser, sur justifications, des frais directement nécessaires pour reconstituer son exploitation. 
+
+Cette indemnité comprend : 
+
+1° Les dépenses de transfert proprement dit, c'est-à-dire les frais de déménagement du cheptel vif et des réserves stockées
+pour sa subsistance, des engrais et semences, du matériel et, éventuellement, du mobilier ; 
+
+2° Les frais nécessités par la mise en état de culture de la nouvelle exploitation dans la limite de la superficie de
+l'exploitation antérieure. 
+
+En cas de transfert partiel, une indemnité calculée comme prévu aux articles R. 2234-32 et R. 2234-33 se substituant à
+l'indemnité de privation de jouissance peut être allouée, sur justifications, pour la portion de production non retrouvée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-30 (V)
+	  - Code de la défense. - art. R2234-32 (V)
+
+
+###### Article R2234-35
+
+D'autres indemnités complémentaires peuvent être allouées pour compenser les préjudices éventuels non indemnisés au titre des
+articles R. 2234-30 et R. 2234-32 à R. 2234-34. Ces préjudices peuvent résulter notamment : 
+
+1° Des frais engagés en vue de la récolte que la réquisition empêche de faire ; 
+
+2° Des frais dus à la nécessité de modifier le système de culture ; 
+
+3° De la vente forcée au-dessous des cours licites du cheptel vif ou mort ; 
+
+4° De la perte des avantages en nature ; 
+
+5° Des frais de conservation des éléments d'exploitation inutilisés et non transférés.
+
+L'allocation de ces indemnités complémentaires, non périodiques et non renouvelables, n'est consentie que sur demande
+formelle du prestataire et production par lui de toutes justifications utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-30 (V)
+	  - Code de la défense. - art. R2234-32 (V)
+
+
+##### Sous-section 3 : Evaluation des indemnités par voie de barèmes
+
+###### Article R2234-36
+
+Les tarifs et barèmes d'indemnisation établis conformément aux dispositions de l'article L. 2234-5 se classent en deux
+catégories : 
+
+1° Les tarifs qui fixent, en valeur absolue, le montant de l'indemnisation des prestations, notamment les tarifs de logement
+et de cantonnement. Ces tarifs peuvent être révisés pour tenir compte de l'évolution de la conjoncture économique ; 
+
+2° Les barèmes établis par référence soit à des tarifs fixés pour d'autres fins que les réquisitions par les ministres
+responsables, soit à des cours commerciaux usuels. Ces barèmes fixent, en vue d'exclure le profit, les taux d'abattement à
+appliquer aux tarifs et cours susmentionnés. Ils suivent les variations de ces derniers sans qu'il soit besoin de les
+soumettre à un nouvel examen du comité consultatif mentionné à l'article R. 2234-96. 
+
+Toutefois, en cas de modification des marges bénéficiaires incluses dans le prix des biens mentionnés par les barèmes se
+référant à des cours commerciaux, ces barèmes sont sujets à révision dans les formes prévues pour leur établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 9 février 2010 (V)
+	  - Code de la défense. - art. R2234-4 (V)
+	  - Code de la défense. - art. R2234-6 (V)
+	  - Code de la défense. - art. R2234-96 (V)
+	  - Code de la défense. - art. R2491-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-5 (V)
+
+
+###### Article R2234-37
+
+Les tarifs alloués à l'habitant, propriétaire ou locataire, d'un immeuble requis pour le logement et le cantonnement des
+militaires ou des personnes mentionnées à l'article R. 2213-13 sont fixés par arrêté interministériel après avis du comité
+consultatif mentionné à l'article R. 2234-96. 
+
+Ces tarifs tiennent compte de l'importance de la localité et des prestations fournies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-13 (V)
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article R2234-38
+
+Les tarifs des prix de base des véhicules automobiles requis en propriété, établis conformément aux articles L. 2234-5 et L.
+2234-6, tiennent compte de la marque, du type et de l'ancienneté de fabrication. Ils tiennent compte également de la valeur
+de l'outillage, des accessoires et des ingrédients nécessaires au fonctionnement et à l'entretien courant, tels qu'ils sont
+normalement livrés par le constructeur avec les véhicules neufs. 
+
+La majoration ou la réduction de l'indemnité prévue à l'article L. 2234-6 tient compte notamment de l'état mécanique et
+général du véhicule réquisitionné ainsi que de l'usure des pneumatiques. 
+
+Ces tarifs sont révisés, dans un délai maximal de trois mois, lorsque les prix courants et licites ont varié de 5 % au moins
+depuis la date de mise en vigueur des derniers tarifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-5 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-39 (V)
+	  - Code de la défense. - art. R2234-40 (V)
+
+
+###### Article R2234-39
+
+Par dérogation aux dispositions de l'article R. 2234-38, le ministre de la défense fixe, dans chaque cas d'espèce,
+l'indemnité à allouer aux prestataires de véhicules exceptionnels ou qui ne font qu'exceptionnellement l'objet de
+réquisitions et, pour ces raisons, ne figurent pas dans les tarifs de prix établis à l'avance. 
+
+En cas de refus pour le prestataire de l'indemnité offerte, le dossier est soumis pour avis à la commission d'évaluation
+conformément aux dispositions des articles R. 2234-87 et R. 2234-88.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-38 (V)
+	  - Code de la défense. - art. R2234-87 (V)
+
+
+###### Article R2234-40
+
+L'indemnisation des accessoires et de l'outillage reçus avec le véhicule, en supplément de ceux dont il est normalement
+pourvu, est déterminée par les tarifs, ou, à défaut, par estimation directe. Elle s'ajoute à celle fixée comme il est indiqué
+aux articles R. 2234-38 et R. 2234-39 pour le véhicule. 
+
+En outre, une indemnité est accordée pour le carburant livré avec le véhicule. Son montant est calculé selon les prix en
+vigueur dans le département où s'effectue la réquisition.
+
+L'absence d'accessoires ou d'outillage qui normalement accompagnent le véhicule donne lieu à diminution, correspondant à leur
+valeur, du prix de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-38 (V)
+
+
+###### Article R2234-41
+
+Pour régler la réquisition en propriété des animaux non destinés à l'abattage, les tarifs des prix de base fixent des prix
+supérieurs, moyens et inférieurs, établis chaque année en prenant, le cas échéant, comme point de départ le prix budgétaire,
+le prix moyen de chaque série d'âge étant appliqué à un animal reconnu sain. 
+
+Toutefois, pour certains animaux de très grande valeur, dont la réquisition n'est intervenue qu'en raison de motifs
+exceptionnels, la commission de réquisition peut proposer une indemnité excédant le prix supérieur fixé au barème. Elle émet
+un avis motivé, au vu duquel le ministre dont le département est bénéficiaire de la réquisition fixe le montant de
+l'indemnité proposée au prestataire. 
+
+En cas de refus de celui-ci de l'indemnité offerte, le dossier est soumis, pour avis, à la commission d'évaluation,
+conformément aux articles R. 2234-87 et R. 2234-88.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-87 (V)
+
+
+###### Article R2234-42
+
+Les tarifs ou barèmes établis pour le règlement des réquisitions en propriété d'animaux destinés à l'abattage tiennent compte
+de la catégorie, de la qualité, du poids et des cours moyens officiellement reconnus dans les diverses régions d'élevage. Ils
+comportent des correctifs pour tenir compte des variations saisonnières des prix.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 2 : Effets de la réquisition sur les contrats d'assurance
+
+###### Article R2234-43
+
+Les règles relatives à l'exécution des contrats d'assurance au titre des réquisitions sont définies aux articles R. 160-9 et
+R. 160-11 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code des assurances - art. R*160-11 (V)
+	  - Code des assurances - art. R*160-9 (V)
+
+
+##### Section 3 : Conséquences des travaux effectués par l'Etat sur des immeubles, des navires ou des aéronefs réquisitionnés
+
+###### Article R2234-44
+
+Les dispositions des articles L. 2234-11 à L. 2234-15 concernent les immeubles de toute nature et s'étendent notamment aux
+réquisitions d'usage prononcées au profit de particuliers occupant dans l'intérêt de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-11 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-46 (V)
+
+
+###### Article R2234-45
+
+Les administrations publiques bénéficiaires des réquisitions ou occupations d'immeubles ont la faculté d'enlever les
+aménagements amovibles ou fixes réalisés par elles, sous réserve de payer, éventuellement, aux prestataires une indemnité
+compensatrice des dégâts occasionnés par l'enlèvement de ces aménagements. 
+
+Cette indemnité est, le cas échéant, calculée conformément aux dispositions des articles L. 2234-17 à L. 2234-19.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-17 (V)
+
+
+###### Article R2234-46
+
+Les réparations, qui sont normalement à la charge d'un locataire, demeurent à la charge de l'Etat ou, le cas échéant, du
+bénéficiaire de la réquisition au sens de l'article R. 2234-44.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-44 (V)
+
+
+###### Article R2234-47
+
+Les travaux de gros entretien, qui restent à la charge du propriétaire, sont ceux prévus à l'article 1720 du code civil. 
+
+Toutefois, lorsque les dépenses nécessaires sont faites par l'Etat ou le bénéficiaire de la réquisition, au lieu et place du
+propriétaire, leur remboursement s'effectue par voie de compensation, dans la limite des sommes revenant à celui-ci au titre
+de la réquisition. 
+
+Lorsque le montant de la dépense faite au lieu et place du propriétaire excède le montant des indemnités dues par l'Etat, le
+surplus est remboursé par le propriétaire en dix annuités au plus. 
+
+La créance de l'Etat est recouvrée dans les conditions prévues à l'article R. 2234-53.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code civil - art. 1720 (V)
+	  - Code de la défense. - art. R2234-53 (V)
+
+
+###### Article R2234-48
+
+Dès que la réquisition est levée ou que l'occupation est terminée, un inventaire descriptif comportant un état des lieux est
+établi dans les conditions précisées à l'article R. 2213-10.
+
+L'état des lieux comporte : 
+
+1° La description complète des dégâts imputables aux services occupants ; 
+
+2° Le relevé détaillé de tous les aménagements, améliorations, embellissements et constructions réalisés par l'Etat ou par le
+bénéficiaire de la réquisition ; 
+
+3° Le relevé détaillé des travaux de gros entretien exécutés éventuellement par l'Etat ou par le bénéficiaire de la
+réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-10 (V)
+
+
+###### Article R2234-49
+
+Lorsque le prestataire est locataire de l'immeuble, l'état des lieux se rapportant aux travaux d'amélioration ou de
+transformation est établi en sa présence ainsi qu'en présence du propriétaire dûment convoqué ou de leurs représentants
+respectifs.
+
+Les usufruitiers ou les titulaires d'un droit d'usage ou d'habitation, s'il en existe, sont également convoqués pour
+assister, en personne ou par représentant, à l'établissement de l'état des lieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-50
+
+Sont considérés comme ayant entraîné une moins-value de l'immeuble les travaux tels que constructions, aménagements ou
+transformations dont l'exécution se traduit par une diminution de sa valeur vénale, compte tenu du changement de destination
+qui a pu en résulter.
+
+L'indemnité de moins-value est égale à cette diminution de valeur. Toutefois, si le montant des travaux estimés nécessaires
+pour faire disparaître les causes de moins-value est inférieur, l'indemnité est réduite à ce montant.
+
+A défaut d'accord amiable, l'indemnité est fixée après avis de la commission départementale d'évaluation des réquisitions et
+réglée comme en matière de réquisition, conformément aux dispositions des articles L. 2234-21 et L. 2234-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-21 (V)
+
+
+###### Article R2234-51
+
+Sont considérés comme ayant apporté une plus-value à l'immeuble les travaux, tels que constructions et aménagements, dont
+l'exécution procure une augmentation de la valeur vénale de l'immeuble, cette valeur tenant compte éventuellement du
+changement de destination de l'immeuble.
+
+La plus-value réelle est égale à la différence entre la valeur vénale de l'immeuble, compte tenu des travaux exécutés, et la
+valeur vénale qu'aurait cet immeuble si ces travaux n'avaient pas été réalisés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-52
+
+Lorsque les travaux exécutés apportent à l'immeuble une plus-value dépassant 5 % de sa valeur vénale, le propriétaire verse à
+l'Etat une indemnité calculée dans les conditions suivantes :
+
+1° Toute plus-value ou fraction de plus-value inférieure ou au maximum égale à 5 % de la valeur vénale de l'immeuble, compte
+non tenu des travaux exécutés, n'est pas comptée dans le calcul de l'indemnité à verser ;
+
+2° La fraction de plus-value supérieure à 5 % et au maximum égale à 10 % de la valeur vénale de l'immeuble n'est comptée que
+pour moitié de son montant ;
+
+3° La fraction de plus-value supérieure à 10 % et au maximum égale à 50 % de ladite valeur vénale n'est comptée que pour les
+deux tiers ;
+
+4° La fraction de plus-value supérieure à 50 % de la même valeur vénale n'est comptée que pour les neuf dixièmes de son
+montant.
+
+L'indemnité définitive de plus-value due à l'Etat est égale à la somme de ces divers décomptes partiels, sans pouvoir
+toutefois excéder la valeur des travaux, appréciée au jour de la décision fixant cette indemnité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-58 (V)
+
+
+###### Article R2234-53
+
+L'indemnité de plus-value se compense, de plein droit, avec l'indemnité qui peut être due au propriétaire par l'Etat pour
+détérioration de l'immeuble dépassant celle que comporte l'usage normal.
+
+L'indemnité ou la partie de l'indemnité de plus-value ainsi compensée s'impute sur les premières annuités dues par le
+propriétaire, lesquelles sont calculées compte tenu de l'escompte de 1 % prévu à l'article R. 2234-55. 
+
+La créance de l'Etat au titre de la plus-value est liquidée par l'administration chargée du règlement des indemnités
+d'occupation. 
+
+Le service des domaines est chargé du recouvrement de l'indemnité de plus-value. 
+
+Le cas échéant, les poursuites sont diligentées par ses soins conformément aux dispositions des articles L. 2323-4 à L.
+2323-6 du code général de la propriété des personnes publiques. 
+
+Lorsqu'il est procédé à la vente forcée de l'immeuble pour permettre au Trésor de recouvrer sa créance impayée, le
+propriétaire n'est tenu de payer sa dette que dans la limite du produit net de la vente, déduction faite de la valeur vénale
+de l'immeuble, compte non tenu des travaux exécutés et du prix de vente du terrain s'il s'agit d'un immeuble bâti.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. L2323-4 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-47 (V)
+	  - Code de la défense. - art. R2491-8 (V)
+
+
+###### Article R2234-54
+
+L'indemnité de plus-value est fixée par accord amiable ou, à défaut, après avis de la commission d'évaluation des
+réquisitions, par décision administrative. Dans ce dernier cas, elle est notifiée au propriétaire de l'immeuble dans les
+conditions définies à l'article L. 2234-21. 
+
+La commission d'évaluation des réquisitions détermine si la destination de l'immeuble a été ou non modifiée par les travaux
+exécutés au cours de l'occupation et se prononce sur le montant de l'indemnité. 
+
+En cas de refus formulé dans le délai imparti, il appartient à l'administration liquidatrice de l'indemnité d'intenter une
+action devant les juridictions civiles, qui statuent dans les limites normales de leur taux de compétence. 
+
+Le contentieux est suivi par l'administration chargée de la liquidation de la plus-value.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-21 (V)
+
+
+###### Article R2234-55
+
+L'indemnité de plus-value est recouvrée par l'Etat par annuités égales, qui ne portent pas intérêt, et dont le montant est
+fixé de telle sorte que le total de la dette soit soldé en vingt ans au maximum.
+
+Toutefois, ce montant annuel n'est pas inférieur à 1 % de la valeur vénale de l'immeuble, compte non tenu des travaux
+exécutés par l'Etat.
+
+Le propriétaire a toujours la faculté de se libérer par anticipation d'une ou plusieurs annuités entières. En ce cas, il
+bénéficie sur chaque annuité versée d'avance d'un escompte de 1 % par année d'anticipation.
+
+En cas de vente de l'immeuble à un tiers, le montant de l'indemnité de plus-value restant dû, diminué de l'escompte prévu ci-
+dessus, est immédiatement exigible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-53 (V)
+
+
+###### Article R2234-56
+
+Le propriétaire qui, dans le cas prévu au deuxième alinéa de l'article L. 2234-14, désire céder son immeuble à l'Etat adresse
+une offre de vente à l'administration liquidatrice de l'indemnité par lettre recommandée avec demande d'avis de réception. 
+
+Cette offre est, à peine de forclusion, souscrite dans les trois mois de la notification à l'intéressé de la décision
+définitive fixant le montant de l'indemnité de plus-value ; cependant, le ministre chargé de l'économie et des finances peut
+relever de cette déchéance le propriétaire qui justifie n'avoir pu agir dans le délai prescrit. 
+
+La décision d'acquérir est prise par le ministre chargé de l'économie et des finances après consultation du service des
+domaines.L'acte d'acquisition est passé par le service des domaines. 
+
+Si le ministre chargé de l'économie et des finances décide de ne pas réaliser l'acquisition, l'administration liquidatrice de
+l'indemnité notifie cette décision au propriétaire et l'informe que la créance du Trésor est ramenée à 50 % de la valeur
+vénale de l'immeuble, compte tenu des travaux exécutés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-14 (V)
+
+
+###### Article R2234-57
+
+Le propriétaire qui, dans le cas prévu au troisième alinéa de l'article L. 2234-14, opte pour la cession de son immeuble à
+l'Etat en informe l'administration liquidatrice de l'indemnité par lettre recommandée avec demande d'avis de réception. 
+
+Cette option est irrévocable et est formulée, à peine de forclusion, dans les trois mois de la notification à l'intéressé de
+la décision reconnaissant le changement apporté à la destination de l'immeuble et fixant le montant de l'indemnité de plus-
+value. 
+
+Cette notification comporte l'indication de la valeur vénale de l'immeuble appréciée par la commission d'évaluation, compte
+non tenu de la plus-value apportée par les travaux exécutés. Lorsqu'il s'agit de propriétés bâties, cette notification
+indique, en outre, la valeur attribuée au terrain par la commission d'évaluation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-14 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-58 (V)
+
+
+###### Article R2234-58
+
+Le ministre chargé de l'économie et des finances peut relever de la déchéance le propriétaire qui justifie n'avoir pu faire
+connaître son option dans le délai prescrit au deuxième alinéa de l'article R. 2234-57. 
+
+Le propriétaire, qui n'a pas formulé son option dans les formes et délais indiqués ci-dessus et qui n'a pas été relevé de la
+forclusion, est réputé accepter le paiement de l'indemnité de plus-value dans les conditions prévues par les articles R.
+2234-52 et R. 2234-53.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-52 (V)
+	  - Code de la défense. - art. R2234-57 (V)
+
+
+###### Article R2234-59
+
+L'acquisition de l'immeuble par l'Etat est réalisée moyennant un prix égal à la valeur vénale de cet immeuble au jour du
+transfert de la propriété, déduction faite de la plus-value apportée par les travaux exécutés et des sommes allouées à titre
+d'amortissement dans l'indemnité d'occupation. S'il s'agit d'un immeuble bâti, ce prix tient compte de la valeur vénale du
+terrain.
+
+Lorsqu'il y a lieu à consultation du service des domaines, cet organisme se prononce uniquement sur l'affectation qu'il
+convient de donner à l'immeuble. L'acte d'acquisition est passé par le service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-60
+
+L'intention de l'Etat de procéder au recouvrement de l'indemnité de plus-value est notifiée au propriétaire par
+l'administration liquidatrice de l'indemnité, par lettre recommandée avec avis de réception.
+
+Le service des domaines, à la demande de l'administration liquidatrice de l'indemnité, fait procéder à l'inscription de
+l'hypothèque de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-61
+
+Le règlement de la situation résultant des travaux exécutés par les affectataires privés occupant dans l'intérêt de l'Etat
+est effectué par celui-ci dans les conditions prévues à la présente section.
+
+Dans ce cas, le remboursement des sommes versées par l'Etat au titre de la moins-value est poursuivi à l'encontre de
+l'affectataire selon la procédure des ordres de versement. Quant aux sommes versées par le propriétaire au titre de la plus-
+value, elles sont mandatées au profit de l'affectataire, au fur et à mesure de leur recouvrement par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-62
+
+Lorsque les travaux exécutés par l'Etat ont entraîné un empiètement sur un fonds voisin de celui occupé par accord amiable ou
+par voie de réquisition, le fonds qui a supporté l'empiètement est considéré, pour la partie utile à ces travaux, comme ayant
+fait l'objet d'une réquisition dont il y a lieu de remplir les formalités le plus tôt possible. La situation en découlant est
+réglée conformément aux dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-63
+
+Les travaux envisagés à l'article L. 2234-16 sont, notamment, ceux qui apportent un changement dans les caractéristiques
+commerciales ou les qualités nautiques du navire, ou affectent sa durée d'utilisation ou encore le volume et le rythme des
+réparations ou des travaux d'entretien. 
+
+Les installations nouvelles établies par l'Etat sur un navire réquisitionné sont supprimées si le propriétaire en fait la
+demande. Il en est de même pour le matériel nouveau dont a été muni le navire. 
+
+Dans le cas où les installations maintenues, les travaux exécutés et le matériel nouveau ont apporté une plus-value au
+navire, le propriétaire paye une indemnité qui ne peut être supérieure à la valeur des installations et du matériel nouveau
+ou au coût des travaux, appréciés au jour de la décision fixant le montant de la plus-value. 
+
+Si ces travaux, installations et matériel nouveau ont entraîné une moins-value, l'Etat paye au propriétaire une indemnité qui
+ne peut dépasser la valeur du navire calculée dans les conditions prévues au premier alinéa de l'article L. 2234-19. 
+
+Les indemnités de plus-value et de moins-value sont fixées, compte tenu des dispositions du présent article, par accord
+amiable avec le propriétaire ou, à défaut, par décision administrative après avis de la commission spéciale d'évaluation des
+réquisitions de navires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-16 (V)
+	  - Code de la défense. - art. L2234-19 (V)
+
+
+###### Article R2234-64
+
+L'Etat peut procéder, sur les aéronefs réquisitionnés en usage, à tous travaux destinés à ses besoins même s'ils ont pour
+effet de changer la destination de ces aéronefs. 
+
+Dès que la réquisition est levée, il est établi, dans les conditions définies à l'article R. 2213-10, un inventaire et un
+état descriptif mentionnant, en particulier, le relevé détaillé des travaux exécutés par l'Etat. 
+
+Pour l'appréciation et le paiement de la plus-value ou de la moins-value apportée aux aéronefs par les travaux exécutés au
+cours de la réquisition, les dispositions prévues pour les immeubles sont applicables par analogie, sous réserve de
+substituer à la commission départementale d'évaluation la commission spéciale d'évaluation des réquisitions d'aéronefs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-10 (V)
+
+
+##### Section 4 : Indemnisation des dommages
+
+###### Article R2234-65
+
+La détérioration ou la dégradation, la destruction et la perte des biens réquisitionnés en usage constituent des dommages
+indemnisables dans les conditions précisées à l'article R. 2234-70 et à l'article R. 160-11 du code des assurances, lorsque
+l'Etat est responsable aux termes de l'article L. 2234-17 du présent code. 
+
+La nature et l'étendue des dommages sont déterminées par comparaison des états descriptifs et inventaires dressés lors de la
+prise de possession et de ceux établis à la levée de la réquisition ou, à défaut, par tous moyens. 
+
+Les dommages sont évalués dès que possible : 
+
+1° Après la cessation de la réquisition, en cas de réquisition d'usage ; 
+
+2° Aussitôt après leur constatation contradictoire, en cas de réquisition de services. 
+
+Les dommages causés par un fait de guerre à un bien mobilier réquisitionné ouvrent droit à indemnisation lorsque la
+réquisition est la cause directe et certaine du maintien ou du transfèrement de ce bien dans une zone particulièrement
+exposée aux attaques de l'ennemi ou aux actions de guerre de quelque nature qu'elles soient.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-17 (V)
+	  - Code de la défense. - art. R2234-70 (V)
+	  - Code des assurances - art. R*160-11 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-85 (V)
+
+
+###### Article R2234-66
+
+Sont considérées comme faisant l'objet d'une occupation commune aux termes des deuxième et troisième alinéas de l'article L.
+2234-17 les parties d'immeubles dans lesquelles le prestataire ou ses préposés ainsi que les bénéficiaires de la réquisition
+ont librement accès.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-17 (V)
+
+
+###### Article R2234-67
+
+En cas de réquisition de services, la responsabilité de l'Etat prévue à l'article L. 2234-17 ne peut porter que sur les
+dommages causés aux seuls biens utilisés pour l'exécution de la réquisition. Le prestataire fait constater immédiatement ces
+dommages et, si nécessaire, procéder sans retard à leur réparation afin de ne pas entraver l'exécution de la réquisition.
+Toutefois, pour les biens qui subissent une usure anormale n'empêchant pas l'exécution du service prescrit, le dommage est
+constaté en fin de réquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-17 (V)
+
+
+###### Article R2234-68
+
+Le règlement des seuls dommages corporels dont l'Etat est responsable aux termes de l'article L. 2234-17 est instruit et
+opéré selon les modalités prévues pour les réparations civiles, dans la mesure où ces dommages ne sont pas indemnisés au
+titre d'une autre législation, et notamment d'une législation de sécurité sociale. Dans cette hypothèse, il est fait
+application, suivant le cas, des articles L. 376-1 et L. 454-1 du code de sécurité sociale.
+
+L'aggravation anormale du risque mentionnée par l'article L. 2234-17 du présent code résulte du dépassement, nécessité par
+l'exécution de la réquisition, des normes d'utilisation ou de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-17 (V)
+	  - Code de la sécurité sociale. - art. L376-1 (V)
+	  - Code de la sécurité sociale. - art. L454-1 (V)
+
+
+###### Article R2234-69
+
+En cas de réquisition de logement et de cantonnement au profit des militaires, le règlement des dommages dont l'Etat est
+responsable est instruit et opéré conformément aux dispositions des articles L. 2234-1 à L. 2234-25. 
+
+En ce qui concerne le logement et le cantonnement chez l'habitant au profit, notamment, des réfugiés, des sinistrés et de
+certains personnels déplacés et de leur famille, l'arrêté interministériel prévu à l'article R. 2213-13 fixe les modalités de
+constatation et la procédure de règlement des dommages consécutifs à la réquisition, en s'inspirant des dispositions prévues
+pour les dommages de cantonnement causés par les militaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-1 (V)
+	  - Code de la défense. - art. R2213-13 (V)
+
+
+###### Article R2234-70
+
+Les frais de remise en état ou de remplacement des biens endommagés sont d'abord déterminés, au moyen de tous éléments au
+jour de la levée de la réquisition. Le montant des frais ainsi évalués est, s'il y a lieu, révisé pour tenir compte de la
+conjoncture économique au jour de la décision administrative. 
+
+De la somme ainsi obtenue, il convient, pour fixer l'indemnité compensatrice à allouer au prestataire, conformément à
+l'article L. 2234-18, de déduire un certain pourcentage correspondant : 
+
+1° A la vétusté du bien au jour de la prise de possession, telle qu'elle résulte de l'état descriptif ou de l'inventaire
+établi à cette époque ; 
+
+2° A l'usure normale du bien durant la réquisition, cette usure étant déjà indemnisée par l'amortissement inclus dans
+l'indemnité de réquisition. 
+
+Pour les biens à ce point dégradés ou détériorés qu'il faille envisager leur remplacement, il est déduit, en outre, le
+montant de leur valeur résiduelle appréciée à la date de la décision administrative fixant l'indemnité compensatrice. 
+
+Lorsque la remise en état des biens immobiliers endommagés nécessite le concours d'un architecte, les honoraires normaux de
+celui-ci sont remboursés au prestataire sur justification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-18 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-65 (V)
+
+
+###### Article R2234-71
+
+A la demande de l'administration, le prestataire fournit le relevé des sommes éventuellement dépensées, après réquisition,
+pour la remise en état de son bien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-72
+
+Pour avoir droit à l'indemnité de post-réquisition, prévue à l'article L. 2234-19, le prestataire apporte la preuve que les
+travaux de remise en état, nécessités par les dommages dont l'Etat est responsable, font obstacle à la jouissance, totale ou
+partielle, de son bien et lui occasionnent, de ce fait, un préjudice. Cette indemnité, calculée d'après l'indemnité de
+réquisition du bien diminuée de l'amortissement correspondant à l'usage, est proportionnelle à la privation de jouissance
+constatée et ne peut être allouée que pour le temps strictement indispensable à une exécution normale des travaux. Elle fait
+l'objet de réductions successives, au fur et à mesure de l'exécution des travaux, pour tenir compte des portions de biens
+dont la jouissance est retrouvée par le prestataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-73 (V)
+
+
+###### Article R2234-73
+
+Lorsque des dommages ont été causés à une exploitation agricole au cours de sa réquisition, l'indemnité de remise en état à
+allouer au prestataire a pour but de permettre la reconstitution des biens dans l'état où ils se trouvaient au début de la
+période culturale au cours de laquelle a été prononcée la réquisition. 
+
+Toutefois si, malgré les travaux de remise en état, la capacité de production de ces biens reste temporairement réduite, une
+indemnité forfaitaire dite " de perte de productivité " est allouée, conformément à l'article L. 2234-19, pour tenir compte
+de la diminution de valeur vénale de ces biens. Lorsque la perte de productivité est définitive, elle constitue une moins-
+value à indemniser comme telle. 
+
+Le temps strictement nécessaire à la remise en état d'une exploitation agricole endommagée est compté depuis la date de la
+levée de la réquisition, mais l'indemnité de post-réquisition, prévue à l'article R. 2234-72, n'est allouée que pour la
+portion de ce temps qui excède la fin de la période culturale déjà indemnisée au titre de l'article R. 2234-30, et uniquement
+pour les biens dont la jouissance est rendue impossible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+	  - Code de la défense. - art. R2234-30 (V)
+	  - Code de la défense. - art. R2234-72 (V)
+
+
+###### Article R2234-74
+
+Lorsqu'il y a lieu à application du dernier alinéa de l'article L. 2234-19, l'indemnité compensatrice de frais qu'il prévoit
+est un élément de l'indemnité de remise en état et entre, de ce fait, en ligne de compte pour la comparaison de celle-ci avec
+la valeur vénale définie au premier alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+
+
+###### Article R2234-75
+
+Lorsque les dommages ont été causés à un navire au cours de sa réquisition, l'Etat exécute ou fait exécuter à son compte les
+travaux et remplacements nécessaires pour remettre le navire et son matériel dans l'état indiqué par l'inventaire et l'état
+descriptif dressés lors de la prise de possession, sous réserve de l'usure normale qui est couverte par l'amortissement
+inclus dans l'indemnité de réquisition. 
+
+Ces travaux et remplacements à la charge de l'Etat sont constatés contradictoirement lors de l'établissement du procès-verbal
+de levée de réquisition, sur lequel est indiquée la durée probable totale de l'immobilisation qui en résulte. 
+
+Depuis le jour de la levée de réquisition jusqu'au jour où le navire est restitué après remise en état à son armateur, celui-
+ci perçoit une indemnité de post-réquisition. Cette indemnité est calculée dans les conditions prévues au quatrième alinéa de
+l'article L. 2234-19. Elle est exclusive de l'indemnité complémentaire prévue aux articles R. 2234-26 à R. 2234-29.
+
+Toutefois, l'Etat peut se libérer de l'obligation de remise en état par le paiement d'une indemnité forfaitaire tenant compte
+du coût estimé des travaux et remplacements, ainsi qu'éventuellement du délai pendant lequel l'armateur aurait eu droit à
+l'indemnité de post-réquisition. 
+
+Cette indemnité est fixée par accord amiable avec l'armateur ou, à défaut, par décision administrative, après avis de la
+commission spéciale d'évaluation des réquisitions de navires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-19 (V)
+	  - Code de la défense. - art. R2234-26 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-76 (V)
+
+
+###### Article R2234-76
+
+Les modalités de réparation des dommages causés aux aéronefs lors de réquisitions d'usage sont celles prévues à l'article R.
+2234-75 pour les navires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-75 (V)
+
+
+##### Section 5 : Procédure de règlement des indemnités
+
+##### Sous-section 1 : Procédure générale d'indemnisation
+
+###### Article D2234-97
+
+Le comité consultatif interministériel de règlement des réquisitions comprend :
+
+― un contrôleur général des armées, désigné par le ministre de la défense, président ;
+
+― un représentant du Premier ministre ;
+
+― deux représentants du ministre de l'intérieur ;
+
+― deux représentants du ministre chargé du budget ;
+
+― un représentant du ministre chargé de l'équipement ;
+
+― six représentants du ministre de la défense.
+
+Sont convoqués par le président en fonction de l'ordre du jour des séances, avec voix consultative :
+
+― un représentant de chaque ministère spécialement compétent pour les affaires examinées par le comité ;
+
+― des représentants des organisations professionnelles mentionnées au dernier alinéa de l'article R. 2234-96.
+
+Le secrétariat du comité est assuré par la direction centrale du commissariat de l'armée de terre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D2441-3 (M)
+	  - Code de la défense. - art. D2451-3 (M)
+	  - Code de la défense. - art. D2461-4 (M)
+	  - Code de la défense. - art. D2471-5 (M)
+
+
+###### Article D2234-98
+
+Le comité se réunit sur convocation de son président. Celui-ci fixe l'ordre du jour et désigne les rapporteurs. Ceux-ci sont
+choisis, en raison de leur compétence particulière et selon la nature des affaires à examiner, soit parmi les membres du
+comité, soit en dehors de lui. 
+
+Le comité peut également, sur décision de son président, fonctionner sous forme de sections, notamment lorsqu'il s'agit de
+questions juridiques ou d'établissement de barèmes. Ces sections, présidées par le président du comité, ou son suppléant
+désigné par le ministre de la défense, ou par un des membres du comité désigné par le président, comprennent un minimum de
+quatre membres représentant les administrations civiles et militaires. Dans les cas prévus à l'article R. 2234-96, les
+organisations professionnelles intéressées sont invitées à désigner un nombre de représentants égal au nombre de
+représentants des administrations civiles et militaires. 
+
+Les sections ainsi constituées formulent un avis au nom du comité, à moins que le président ou le comité n'en décident
+autrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article D2234-99
+
+Le comité ne peut valablement délibérer que si les membres présents sont au moins au nombre de six. En section, le nombre des
+membres présents doit atteindre au moins les deux tiers de l'effectif prévu par la convocation.
+
+Les avis sont adoptés à la majorité des membres présents. En cas de partage des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article D2234-100
+
+Le président peut, en vue de l'examen d'une affaire ou d'une catégorie d'affaires déterminées, faire appel, pour
+l'information du comité, à toutes personnes qualifiées appartenant ou non à l'administration. Ces personnes ne participent
+pas aux votes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R*2234-95
+
+Une action générale de coordination sur le règlement des réquisitions est exercé, au nom du Premier ministre, par le ministre
+de la défense. 
+
+Le ministre de la défense adresse, à cet effet, des directives aux autorités et, par l'intermédiaire des préfets, aux
+commissions qui interviennent dans la liquidation et le règlement des indemnités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 2009 - art. 7 (Ab)
+	  - Arrêté du 29 juillet 2014 - art. 9 (V)
+	  - Code de la défense. - art. R*2441-1 (V)
+	  - Code de la défense. - art. R*2451-1 (V)
+	  - Code de la défense. - art. R*2461-1 (V)
+	  - Code de la défense. - art. R*2471-1 (V)
+
+
+###### Article R2234-77
+
+Les commissions paritaires départementales d'évaluation des réquisitions, prévues à l'article L. 2234-20, sont constituées
+par les préfets qui en désignent les membres. 
+
+Chacune des administrations intéressées au règlement des réquisitions y est représentée. 
+
+Après entente avec les directeurs ou chefs de service départementaux des administrations civiles intéressées et, en ce qui
+concerne le ministère de la défense, avec les officiers généraux exerçant un commandement territorial, le préfet établit la
+liste des fonctionnaires ou officiers susceptibles de représenter les administrations à la commission départementale
+d'évaluation des réquisitions. 
+
+Le préfet détermine en outre les groupements prévus à l'article L. 2234-20 qu'il estime devoir être représentés à la
+commission en raison des intérêts qu'ils ont dans le règlement des réquisitions. Chaque groupement présente une liste de
+plusieurs candidats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-20 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-81 (V)
+	  - Code de la défense. - art. R2491-5 (V)
+
+
+###### Article R2234-78
+
+Lorsqu'il est nécessaire de constituer la commission départementale d'évaluation des réquisitions, le préfet, sous réserve
+des dispositions particulières faisant l'objet de l'article R. 2234-81, désigne, en fonction du nombre, de l'importance et de
+la nature des affaires à examiner, les membres titulaires et leurs suppléants qu'il choisit sur les listes établies à cet
+effet. Le nombre des membres titulaires de la commission, y compris le président choisi par le préfet, n'est pas inférieur à
+quatre et ne peut excéder vingt-quatre : le nombre des suppléants est identique. 
+
+Un des représentants des administrations fait fonction de rapporteur. Toutefois, le préfet peut adjoindre des rapporteurs,
+choisis en raison de leur compétence technique, parmi les fonctionnaires en service dans le département ou désignés, à la
+demande du préfet, par les autorités militaires, parmi les officiers ou fonctionnaires sous leurs ordres. Les rapporteurs ont
+voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-81 (V)
+
+
+###### Article R2234-79
+
+La commission peut être divisée en sections de quatre membres au minimum. Chaque section comprend un nombre égal de
+représentants des administrations, y compris le président, et de membres appartenant aux autres catégories. Le préfet
+répartit les membres entre les sections et choisit leur président.
+
+La section émet un avis au nom de la commission sur les affaires qui lui sont attribuées.
+
+Le nombre de membres dont la présence est exigée pour délibérer est les trois quarts du nombre total des membres pour les
+sections et les deux tiers pour la commission plénière.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Le président est assisté, dans l'exercice de ses fonctions, par un secrétaire désigné par le préfet parmi le personnel de la
+préfecture.
+
+L'organisation matérielle de la commission est assurée par les soins de l'administration préfectorale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-80
+
+Le président de la commission départementale d'évaluation est saisi des dossiers de réquisitions par le préfet. Il répartit,
+s'il y a lieu, les affaires entre les sections et les fait examiner par le ou les rapporteurs selon leur ordre d'arrivée et
+leur urgence.
+
+Il fixe la date de convocation de la commission et décide de la périodicité de ses réunions en fonction du nombre d'affaires
+à examiner.
+
+Lorsque la commission départementale fonctionne en sections, sont cependant examinés en commission plénière les dossiers qui
+lui sont soumis par son président, ainsi que ceux pour lesquels deux membres au moins d'une section en ont formulé la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-81
+
+Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de
+réquisitions de services comportant des prestations immobilières, elle est composée de douze membres :
+
+1° Un membre de l'administration préfectorale, président ;
+
+2° Le directeur des services fiscaux du département (contributions directes et cadastre) ou son représentant ;
+
+3° Le directeur des services fiscaux du département (contributions indirectes) ou son représentant ;
+
+4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ;
+
+5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ;
+
+6° Le président de la chambre de commerce et d'industrie ou son délégué ;
+
+7° Le président de la chambre d'agriculture ou son délégué ;
+
+8° Le président de la chambre des métiers ou son délégué ;
+
+9° Le président de la chambre des notaires ou son délégué ;
+
+10° Un représentant de la propriété bâtie désigné par le préfet sur la proposition des groupements locaux qualifiés ;
+
+11° Un représentant de l'hôtellerie désigné par le préfet sur la proposition des groupements locaux qualifiés.
+
+Les dispositions des articles R. 2234-77 à R. 2234-80 sont applicables à la commission d'évaluation faisant l'objet du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-78 (V)
+	  - Code de la défense. - art. R2491-5 (V)
+
+
+###### Article R2234-82
+
+La compétence de la commission départementale d'évaluation s'étend à tous les dossiers de réquisitions qui lui sont soumis
+par les administrations bénéficiaires de réquisitions. 
+
+Echappent cependant à cette compétence les affaires relevant des attributions des commissions spéciales d'évaluation prévues
+à l'article R. 2234-84 et, en ce qui concerne l'emploi des personnes, les réquisitions prévues aux articles L. 2113-1, L.
+2113-2, L. 2212-1 à L. 2212-3 et L. 2213-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2113-1 (V)
+	  - Code de la défense. - art. L2212-1 (V)
+	  - Code de la défense. - art. L2213-2 (V)
+	  - Code de la défense. - art. R2234-84 (V)
+
+
+###### Article R2234-83
+
+La commission d'évaluation apprécie sur pièces les affaires qui lui sont soumises, mais elle peut, si elle l'estime
+nécessaire, entendre ou consulter toutes personnes qualifiées. Le prestataire est autorisé, en tout état de cause, à adresser
+un mémoire pour exposer son point de vue à la commission. Le prestataire est entendu par la commission s'il en fait la
+demande. 
+
+La commission d'évaluation évalue, conformément aux dispositions prévues aux articles L. 2234-1 à L. 2234-25, et d'après tous
+éléments, l'indemnité correspondant à la prestation fournie. Elle formule un avis motivé que le président transmet, avec le
+dossier, à l'autorité chargée de fixer le montant de l'indemnité à allouer au prestataire. 
+
+Au cas où la commission s'estimerait insuffisamment éclairée, son président en informe le préfet et poursuit l'enquête tant
+auprès de l'administration requérante qu'auprès de toute personne susceptible de donner des renseignements utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-1 (V)
+
+
+###### Article R2234-84
+
+Les commissions spéciales d'évaluation, prévues à l'article L. 2234-20, sont instituées, notamment, pour le règlement des
+réquisitions de navires et d'aéronefs. 
+
+La composition paritaire de ces commissions, leurs attributions, leur fonctionnement et leur compétence territoriale qui peut
+être nationale, régionale ou départementale, sont définis par décrets contresignés du ministre responsable de la ressource,
+du ministre de la défense et du ministre chargé de l'économie et des finances, après consultation du comité consultatif prévu
+à l'article R. 2234-96. 
+
+Le président et les membres de ces commissions spéciales d'évaluation sont désignés par le ministre responsable, qui peut
+déléguer ce droit au préfet ou, pour les réquisitions de navires, au commandant de la région maritime et, pour les
+réquisitions d'aéronefs, au chef d'état-major de l'armée de l'air ou à l'officier général de l'armée de l'air ayant reçu
+délégation à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-20 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-82 (V)
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article R2234-85
+
+Pour obtenir le règlement de sa créance, le prestataire formule une demande, sur papier libre, en y joignant toutes
+justifications nécessaires, avec pièces à l'appui le cas échéant. 
+
+Lorsqu'il s'agit de réquisition d'usage ou de services et que les prestations s'échelonnent dans le temps, la demande
+d'indemnité formulée par le prestataire suffit, sans qu'il soit besoin de la renouveler ultérieurement. 
+
+Par contre, si des dommages sont causés en cours de réquisition, il appartient au prestataire de formuler une demande
+spéciale pour obtenir le règlement des indemnités dues au titre de ces dommages, conformément aux dispositions des articles
+R. 2234-65 à R. 2234-76.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-65 (V)
+
+
+###### Article R2234-86
+
+L'autorité chargée de la liquidation, saisie de la demande d'indemnisation, adresse au prestataire des propositions de
+règlement amiable en lui fixant un délai pour faire connaître sa réponse.
+
+En cas d'acceptation dans le délai imparti, l'indemnité est mandatée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-87 (V)
+	  - Code de la défense. - art. R2234-90 (V)
+
+
+###### Article R2234-87
+
+En cas de silence du prestataire dans le délai prévu à l'article R. 2234-86 ou de refus du montant de l'indemnité proposée,
+le dossier est soumis à la commission d'évaluation des réquisitions, pour avis. 
+
+Le prestataire est avisé de cette transmission. 
+
+L'autorité chargée de la liquidation fixe l'indemnité après avoir pris connaissance de l'avis de la commission d'évaluation. 
+
+La décision est notifiée au prestataire, par lettre recommandée avec demande d'avis de réception, en lui faisant connaître le
+délai dans lequel il adresse son refus ou son acceptation. 
+
+Faute de réponse dans le délai fixé, qui commence à courir à compter de la date portée sur l'avis de réception, et peut
+varier entre deux semaines et trois mois suivant la nature, l'importance et la complexité de la prestation fournie ou des
+dommages à réparer, l'indemnité est considérée comme acceptée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2234-39 (V)
+	  - Code de la défense. - art. R2234-41 (V)
+	  - Code de la défense. - art. R2234-88 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-86 (V)
+
+
+###### Article R2234-88
+
+Par dérogation à l'article R. 2234-87, lorsque la réquisition est réglée selon les tarifs ou barèmes établis conformément aux
+dispositions de l'article L. 2234-5, le montant de l'indemnité est arrêté par l'autorité chargée de la liquidation, sans que
+l'affaire soit soumise à la commission d'évaluation, et il est mandaté dans le moindre délai. 
+
+En cas de contestation, le prestataire peut exercer un recours devant la juridiction de droit commun dans les conditions
+prévues à l'article L. 2234-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-22 (V)
+	  - Code de la défense. - art. L2234-5 (V)
+	  - Code de la défense. - art. R2234-87 (V)
+
+
+###### Article R2234-89
+
+Lorsque le prestataire n'est pas le propriétaire des biens requis en usage, le mandatement au nom du prestataire n'est opéré
+qu'après l'expiration d'un délai de deux semaines ayant pour point de départ la remise au propriétaire d'une lettre
+recommandée avec avis de réception, laquelle l'informe du mandatement à venir afin qu'il puisse, éventuellement, faire
+opposition au paiement entre les mains du comptable assignataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-90
+
+Dans le cas de réquisitions de logements prononcées au profit de particuliers, l'administration requérante peut,
+préalablement à la procédure prévue aux articles R. 2234-86 et R. 2234-87, inviter les bénéficiaires des réquisitions et les
+prestataires à conclure, dans un délai qu'elle détermine, un accord pour régler les prestations requises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-86 (V)
+
+
+###### Article R2234-91
+
+Les litiges relatifs à l'indemnisation des réquisitions sont portés devant le tribunal d'instance lorsque le montant de la
+demande n'excède pas les taux de compétence prévus à l'article L. 221-4 du code de l'organisation judiciaire, ou lorsque,
+s'agissant d'une réquisition d'usage d'une durée supérieure à une année, le montant de l'indemnité annuelle est inférieur à
+ces taux. 
+
+Le tribunal de grande instance est compétent dans les autres cas, ainsi que pour les litiges relatifs à l'acquisition par
+l'Etat, en application de l'article L. 2234-14, d'un immeuble réquisitionné. 
+
+L'assignation est valablement délivrée soit au ministre, soit aux autorités désignées par lui en application de l'article L.
+2234-20.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L221-4 (V)
+	  - Code de la défense. - art. L2234-14 (V)
+	  - Code de la défense. - art. L2234-20 (V)
+
+
+###### Article R2234-92
+
+Les litiges relatifs à l'indemnisation des réquisitions relèvent de la juridiction dans le ressort de laquelle la prestation
+a été fournie.
+
+Cependant, en ce qui concerne les réquisitions prononcées par les autorités maritimes ou aériennes, la juridiction compétente
+est celle du ressort dont relève l'autorité chargée du règlement et de la procédure contentieuse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-93
+
+Si le prestataire est locataire ou sous-locataire du bien requis, il demeure tenu de payer le loyer au propriétaire ou au
+locataire principal dans la limite prévue à l'article L. 2234-23. 
+
+Toutefois si, à la date à laquelle le paiement du loyer est exigible, l'indemnité de réquisition n'est pas versée au
+prestataire qui a saisi l'autorité chargée de la liquidation, celui-ci peut différer le paiement de son loyer jusqu'au jour
+où il perçoit le montant de l'indemnité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-23 (V)
+
+
+###### Article R2234-94
+
+Les demandes de renseignements adressées par une commission d'évaluation des réquisitions aux administrations publiques sont
+formulées par écrit. Elles sont signées par le président de la commission ou par le président de la section compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-96
+
+Le ministre de la défense est assisté du comité consultatif interministériel de règlement des réquisitions mentionné au 4° du
+I de l'article L. 2234-25. 
+
+Ce comité examine les projets de textes à caractère général relatifs au règlement des réquisitions qui lui sont soumis par le
+ministre. 
+
+Il est consulté pour l'institution et la constitution des commissions spéciales d'évaluation prévues à l'article R. 2234-84
+et pour l'établissement des barèmes d'indemnisation prévus à l'article R. 2234-36. 
+
+En outre, il peut être appelé à émettre un avis sur toute difficulté qui lui serait soumise par le ministre de la défense. 
+
+Quand le comité prépare ou examine les barèmes et tarifs prévus à l'article R. 2234-36, des représentants des organisations
+professionnelles intéressées sont désignés pour l'assister.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 9 février 2010 (V)
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2234-98 (V)
+	  - Code de la défense. - art. R2234-29 (V)
+	  - Code de la défense. - art. R2234-36 (V)
+	  - Code de la défense. - art. R2234-37 (V)
+	  - Code de la défense. - art. R2234-84 (V)
+	  - Code de la défense. - art. R2491-4 (V)
+	  - Code de la défense. - art. R2491-9 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-25 (V)
+
+
+##### Sous-section 2 : Procédure relative aux réquisitions de logement et de cantonnement au profit des militaires
+
+###### Article R2234-101
+
+Les habitants qui ont à se plaindre des réquisitions de logement ou de cantonnement au profit des militaires adressent leurs
+réclamations par l'intermédiaire du maire, qui en délivre accusé de réception, indiquant la date et l'heure de dépôt, au
+commandant de la formation, afin qu'il y soit fait droit si elles sont fondées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (M)
+	  - Code de la défense. - art. R2451-2 (M)
+	  - Code de la défense. - art. R2461-2 (M)
+	  - Code de la défense. - art. R2471-2 (M)
+
+
+###### Article R2234-102
+
+S'il est reconnu que les dégâts ou dommages ont été commis par la formation militaire, procès-verbal en est dressé
+contradictoirement par le maire et par l'officier chargé d'examiner la réclamation, en présence de l'intéressé ou de son
+représentant, ou celui-ci dûment convoqué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2234-103
+
+Si la réclamation n'est pas reconnue fondée, elle est remise par l'officier au maire, qui la fait parvenir au réclamant.
+L'officier mentionne succinctement les raisons pour lesquelles il ne l'a pas admise.
+
+L'habitant peut requérir le juge du tribunal d'instance du ressort dans lequel sont situés les immeubles où les dégâts ont
+été commis aux fins de procéder à des mesures d'instruction sur place à l'effet d'établir les causes et la nature des dégâts.
+L'Etat sera représenté à cette enquête par un officier désigné par le service du commissariat de l'armée de terre.
+
+Copie du procès-verbal est délivrée à l'intéressé, qui la joint à la réclamation rejetée par l'officier pour faire valoir ses
+droits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Chapitre VI : Dispositions pénales
+
+##### Section unique : Réquisitions militaires
+
+###### Article R2236-1
+
+En temps de paix, est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour une personne de refuser
+d'obtempérer à un ordre de réquisition militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2236-2
+
+En temps de paix, est puni de l'amende prévue pour les contraventions de la 4e classe le fait pour une personne d'abandonner
+le service pour lequel elle est personnellement requise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2236-3
+
+En cas de mobilisation des forces armées et dans les circonstances mentionnées à l'article L. 1111-2, est puni de l'amende
+prévue pour les contraventions de la 5e classe le fait, pour les exploitants des établissements industriels, d'inexécuter
+sciemment les ordres de réquisition qui leur ont été adressés. 
+
+Le tribunal peut, en outre, prononcer, dans les conditions prévues aux alinéas 2 à 5 de l'article 131-21 du code pénal, la
+confiscation des matières, produits ou objets indûment livrés à des tiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21 (V)
+	  - Code de la défense. - art. L1111-2 (V)
+
+
+### LIVRE III : REGIMES JURIDIQUES DE DEFENSE  D'APPLICATION PERMANENTE
+
+#### TITRE Ier : LE SECRET DE LA DEFENSE NATIONALE
+
+##### Chapitre Ier : Protection du secret de la défense nationale
+
+###### Article D*2311-12
+
+Pour l'exercice de ses attributions mentionnées aux articles R. 2311-10 et R. 2311-11, le secrétaire général de la défense
+nationale dispose d'un service de sécurité de défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D*2441-4 (V)
+	  - Code de la défense. - art. D*2451-4 (V)
+	  - Code de la défense. - art. D*2461-5 (V)
+	  - Code de la défense. - art. D*2471-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-10 (V)
+
+
+###### Article R2311-1
+
+Les renseignements, procédés, objets, documents, données informatisées ou fichiers présentant un caractère de secret de la
+défense nationale sont dénommés dans le présent chapitre : « informations ou supports protégés ».
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 17 (VT)
+	  - Arrêté du 28 avril 2011 - art. 1 (V)
+	  - Arrêté du 28 avril 2011 - art. 2 (V)
+	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-350 du 27 mars 2015 - art. 10 (V)
+	  - Décret n°2015-350 du 27 mars 2015 - art. 18 (V)
+	  - Décret n°2016-86 du 1er février 2016 - art. 21 (V)
+	  - Arrêté du 29 mars 2016 - art. 5 (VD)
+	  - Décret n°2016-522 du 27 avril 2016 - art. 10 (V)
+	  - Décret n°2017-20 du 9 janvier 2017 - art. 1
+	  - Code de la défense. - art. R*1411-11-1 (V)
+	  - Code de la défense. - art. R*1411-11-3 (V)
+	  - Code de la défense. - art. R1143-6 (V)
+	  - Code de la défense. - art. R1332-18 (V)
+	  - Code de la défense. - art. R1332-19 (V)
+	  - Code de la défense. - art. R1332-21 (V)
+	  - Code de la défense. - art. R1332-22 (V)
+	  - Code de la défense. - art. R1332-24 (V)
+	  - Code de la défense. - art. R1332-25 (V)
+	  - Code de la défense. - art. R1332-32 (V)
+	  - Code de la défense. - art. R1332-35 (V)
+	  - Code de la défense. - art. R1332-37 (V)
+	  - Code de la défense. - art. R1332-5 (V)
+	  - Code de la défense. - art. R1332-6 (V)
+	  - Code de la défense. - art. R1333-16 (V)
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+	  - Code de la défense. - art. R3423-4 (V)
+	  - Code de la santé publique - art. R5313-6-2 (V)
+	  - Code des marchés publics - art. 45 (VT)
+	  - Code monétaire et financier - art. R153-2 (V)
+	  - Code monétaire et financier - art. R153-5 (V)
+	  - Code pénal - art. R413-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2311-2
+
+Les informations ou supports protégés font l'objet d'une classification comprenant trois niveaux :
+
+1° Très Secret-Défense ;
+
+2° Secret-Défense ;
+
+3° Confidentiel-Défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre Ier : 1 à 18) (Ab)
+	  - Arrêté du 22 mars 2011 - art. 3 (V)
+	  - Arrêté du 22 mars 2011 - art. 4 (V)
+	  - Arrêté du 6 août 2012 - art. (V)
+	  - Arrêté du 6 août 2012 - art. 6 (V)
+	  - Arrêté du 28 décembre 2012 - art. 12 (V)
+	  - Arrêté du 24 janvier 2013 - art. 3 (V)
+	  - Décret n°2016-247 du 3 mars 2016 - art. 3 (V)
+	  - Code de la défense. - art. R2311-11 (V)
+
+
+###### Article R2311-3
+
+Le niveau Très Secret-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire
+très gravement à la défense nationale et qui concernent les priorités gouvernementales en matière de défense.
+
+Le niveau Secret-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire
+gravement à la défense nationale.
+
+Le niveau Confidentiel-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire à
+la défense nationale ou pourrait conduire à la découverte d'un secret de la défense nationale classifié au niveau Très
+Secret-Défense ou Secret-Défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R532-21 (V)
+	  - Code de l'environnement - art. R532-33 (V)
+
+
+###### Article R2311-4
+
+Les informations ou supports protégés portent la mention de leur niveau de classification.
+
+Les modifications ou suppressions des mentions sont décidées par les autorités qui ont procédé à la classification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre III : 39 à 69) (Ab)
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre V : 85 à 94) (Ab)
+	  - Code de l'environnement - art. R532-33 (V)
+
+
+###### Article R2311-5
+
+Le Premier ministre détermine les critères et les modalités d'organisation de la protection des informations ou supports
+protégés classifiés au niveau Très Secret-Défense.
+
+Pour les informations ou supports protégés classifiés au niveau Très Secret-Défense, le Premier ministre définit les
+classifications spéciales dont ils font l'objet et qui correspondent aux différentes priorités gouvernementales.
+
+Dans les conditions fixées par le Premier ministre, chaque ministre, pour ce qui relève de ses attributions, détermine les
+informations ou supports protégés qu'il y a lieu de classifier à ce niveau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2311-6
+
+Dans les conditions fixées par le Premier ministre, les informations ou supports protégés classifiés au niveau Secret-Défense
+ou Confidentiel-Défense, ainsi que les modalités d'organisation de leur protection, sont déterminés par chaque ministre pour
+le département dont il a la charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2015 - art. 16 (VT)
+	  - Arrêté du 19 octobre 2016 - art. 16 (VD)
+
+
+###### Article R2311-7
+
+Nul n'est qualifié pour connaître des informations ou supports protégés s'il n'a fait au préalable l'objet d'une décision
+d'habilitation et s'il n'a besoin de les connaître pour l'accomplissement de sa fonction ou de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre II : 19 à 38) (Ab)
+	  - Arrêté du 3 septembre 2010 - art. 2 (V)
+	  - Arrêté du 3 septembre 2010 - art. 4 (V)
+	  - Arrêté du 3 septembre 2010 - art. 5 (V)
+	  - Arrêté du 3 septembre 2010 - art. 7 (V)
+	  - Arrêté du 3 septembre 2010 - art. 8 (V)
+	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-1405 du 5 novembre 2015 - art. Annexe 1 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 4 (V)
+	  - Code de l'environnement - art. R512-61 (V)
+	  - Code de la défense. - art. D1332-5-1 (V)
+	  - Code de la défense. - art. R1332-41-20 (V)
+	  - Code de la défense. - art. R2311-7-2 (V)
+	  - Code de la défense. - art. R2321-2 (V)
+	  - Code de la santé publique - art. R1333-107 (V)
+	  - Code du domaine de l'Etat - art. R127-1 (Ab)
+
+
+###### Article R2311-8
+
+La décision d'habilitation précise le niveau de classification des informations ou supports protégés dont le titulaire peut
+connaître. Elle intervient à la suite d'une procédure définie par le Premier ministre.
+
+Elle est prise par le Premier ministre pour le niveau Très Secret-Défense et indique notamment la ou les catégories spéciales
+auxquelles la personne habilitée a accès.
+
+Pour les niveaux de classification Secret-Défense et Confidentiel-Défense, la décision d'habilitation est prise par chaque
+ministre pour le département dont il a la charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R 536-6-1 (V)
+	  - Code de l'environnement - art. R532-34 (V)
+	  - Code de la défense. - art. D3126-6 (V)
+
+
+###### Article R2311-9
+
+Le ministre de la défense ou le commandement est habilité à restreindre l'usage de moyens de communication et d'information,
+quels qu'ils soient, pour assurer la protection des militaires en opération, l'exécution de la mission ou la sécurité des
+activités militaires.
+
+La détention et l'usage d'appareils photographiques, cinématographiques, téléphoniques, télématiques ou enregistreurs ainsi
+que de postes émetteurs ou récepteurs de radiodiffusion ou télévision dans les enceintes et établissements militaires ou en
+campagne, dans les cantonnements et véhicules, ainsi qu'à bord des bâtiments de la flotte et des aéronefs, peuvent être
+soumis à autorisation préalable.
+
+La publication ou la cession de films, de photographies ou d'enregistrements pris dans les enceintes, établissements
+militaires, bâtiments de la flotte et aéronefs, ou à l'occasion d'opérations, de manœuvre ou de toute autre activité
+militaire est soumise à l'autorisation préalable du commandant de la formation administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R 536-6-1 (V)
+	  - Code de l'environnement - art. R532-34 (V)
+
+
+###### Article R2311-10
+
+Sous l'autorité du Premier ministre, le secrétaire général de la défense nationale est chargé d'étudier, de prescrire et de
+coordonner sur le plan interministériel les mesures propres à assurer la protection des secrets intéressant la défense
+nationale.
+
+Le secrétaire général de la défense nationale veille à la mise en œuvre de ces mesures. Il a qualité pour la contrôler. Il a
+la possibilité en toutes circonstances de saisir, par l'intermédiaire des ministres intéressés, les services qui concourent à
+la répression des délits.
+
+Les attributions de sécurité de défense définies ci-dessus n'affectent pas les responsabilités propres des ministres en cette
+matière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D*2311-12 (V)
+	  - Code de la défense. - art. R2311-11 (V)
+
+
+###### Article R2311-11
+
+Le secrétaire général de la défense nationale, conformément aux dispositions de l'article R. 2311-10, prescrit, coordonne et
+contrôle l'application des mesures propres à assurer la protection du secret dans les rapports entre la France et les Etats
+étrangers. 
+
+Il assure, en application des accords internationaux, la sécurité des informations classifiées confiées à la France. 
+
+Il définit les mesures propres à assurer la protection des informations nationales confiées à des Etats étrangers ou à des
+organisations internationales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-10 (V)
+
+
+##### Chapitre III : Règles spéciales
+
+##### Section 1 : Archives de la défense
+
+###### Article R2313-1
+
+Les règles relatives aux services d'archives relevant du ministère de la défense sont définies par le décret n° 79-1035 du 3
+décembre 1979 relatif aux archives de la défense et par l'article 4 du décret n° 79-1037 du 3 décembre 1979 relatif à la
+compétence des services d'archives publics et à la coopération entre les administrations pour la collecte, la conservation et
+la communication des archives publiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°79-1035 du 3 décembre 1979, v. init.
+	  - Décret n°79-1037 du 3 décembre 1979, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+##### Section 2 : Urbanisme et environnement
+
+##### Sous-section 1 : Exemption du permis de construire
+
+###### Article R2313-2
+
+Les règles relatives au régime d'exemption du permis de construire applicables aux installations intéressant la défense
+nationale sont définies à l'article R. 421-8 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-8 (V)
+
+
+##### Sous-section 2 : Installations classées
+
+###### Article R2313-3
+
+Les dispositions relatives aux installations classées relevant du ministère de la défense sont définies aux articles R. 517-1
+à R. 517-8 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R517-1 (V)
+
+
+##### Sous-section 3 : Expropriation pour cause d'utilité publique
+
+###### Article R2313-4
+
+Les règles relatives à la commission d'examen des opérations immobilières présentant un caractère secret sont définies par
+les articles R. 11-17, R. 11-17-1 et R. 11-17-2 du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2451-2 (M)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-17 (V)
+
+
+##### Sous-section 4 : Enquêtes publiques
+
+###### Article R2313-5
+
+Les règles relatives à la protection du secret de la défense nationale, dans le cadre des enquêtes publiques menées en
+matière environnementale, sont définies par l'article R. 123-44 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-44 (V)
+
+
+##### Sous-section 5 : Réglementation relative à l'eau
+
+###### Article R2313-6
+
+Les règles relatives à l'application de la réglementation relative à l'eau pour les opérations, travaux ou activités
+concernant des installations ou des enceintes relevant du ministère de la défense sont définies par les articles R. 217-1 à
+R. 217-10 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R217-1 (V)
+
+
+#### TITRE II : SECURITE DES SYSTEMES D'INFORMATION
+
+##### Chapitre Ier : Responsabilités
+
+##### Section unique : Commission interministérielle pour la sécurité des systèmes d'information
+
+###### Article D2321-1
+
+La commission interministérielle pour la sécurité des systèmes d'information, placée auprès du secrétaire général de la
+défense nationale, a pour mission d'assurer la concertation entre les départements ministériels sur les questions relatives à
+la sécurité des systèmes d'information qui se posent aux administrations. Elle peut être consultée par le Premier ministre
+sur la politique à conduire en matière de sécurité des systèmes d'information. Elle peut prêter son concours aux services et
+organismes publics qui en font la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D*1132-55 (V)
+	  - Code de la défense. - art. D2441-3 (V)
+	  - Code de la défense. - art. D2451-3 (V)
+	  - Code de la défense. - art. D2461-4 (V)
+	  - Code de la défense. - art. D2471-5 (V)
+
+
+###### Article D2321-2
+
+La commission interministérielle pour la sécurité des systèmes d'information est chargée d'harmoniser les conceptions, les
+méthodes et les programmes d'équipement des administrations de l'Etat en matière de sécurité des systèmes d'information et de
+favoriser l'élaboration de solutions nouvelles.
+
+A ce titre :
+
+1° Elle assure la collecte et la diffusion des informations sur les évolutions de toute nature pouvant affecter la sécurité
+des systèmes d'information ;
+
+2° Elle facilite les échanges d'informations entre les départements ministériels sur leurs projets en matière de sécurité des
+systèmes d'informations ;
+
+3° Elle participe à l'orientation des recherches, études et travaux lancés en France en vue de répondre aux besoins exprimés
+par les départements ministériels ;
+
+4° Elle propose des mesures réglementaires et des textes normatifs susceptibles d'améliorer la protection des systèmes
+d'information dont les départements ministériels ont la responsabilité.
+
+La commission interministérielle pour la sécurité des systèmes d'information est tenue informée des crédits consacrés à la
+sécurité des systèmes d'information dans les budgets ministériels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+
+
+###### Article D2321-3
+
+La commission interministérielle pour la sécurité des systèmes d'information est présidée par le secrétaire général de la
+défense nationale. Elle comprend :
+
+1° Un représentant des ministres chargés des finances, de l'industrie, des télécommunications, de l'emploi, de la santé, de
+la justice, de l'intérieur, de l'éducation nationale, des affaires étrangères, de la défense, de l'équipement, des
+transports, de la culture, de l'agriculture, de l'environnement, de l'aménagement du territoire, de la fonction publique, de
+la jeunesse, des sports et de la recherche ;
+
+2° Un représentant du chef de l'état-major particulier du Président de la République ;
+
+3° Un représentant du chef du cabinet militaire du Premier ministre.
+
+Le directeur central de la sécurité des systèmes d'information est membre de droit de la commission. Il en assure la
+présidence en cas d'empêchement du secrétaire général de la défense nationale.
+
+La commission interministérielle pour la sécurité des systèmes d'information peut entendre, sur convocation de son président,
+des représentants d'autres administrations ou organismes publics intéressés par une question inscrite à l'ordre du jour et,
+plus généralement, toute personne qualifiée dont elle juge la présence utile.
+
+Le secrétariat de la commission est assuré par la direction centrale de la sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article D2321-4
+
+La commission interministérielle pour la sécurité des systèmes d'information se réunit au moins deux fois par an en formation
+plénière sur convocation de son président. En fonction de la nature des sujets traités, elle peut être réunie en formation
+restreinte aux ministères intéressés, à l'initiative de son président.
+
+Le président fixe l'ordre du jour des réunions. Les départements ministériels adressent au secrétariat de la commission les
+points qu'ils souhaitent y voir figurer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+
+
+###### Article D2321-5
+
+La commission interministérielle pour la sécurité des systèmes d'information peut créer des sous-commissions ou groupes de
+travail dont elle fixe le mandat et qui lui rendent compte de leurs travaux.
+
+Chaque sous-commission est animée par un président choisi en raison de sa compétence. Ce président est nommé, sur proposition
+du directeur central de la sécurité des systèmes d'information, par le secrétaire général de la défense nationale.
+
+Les sous-commissions se réunissent à l'initiative de leur président aussi souvent que leur mandat l'exige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+
+###### Article D2321-6
+
+Le président de la commission et les présidents des sous-commissions peuvent, pour des questions déterminées, faire appel à
+toute personne dont le concours leur paraît souhaitable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+
+
+###### Article D2321-7
+
+Pour l'exercice de ses attributions en matière de sécurité des systèmes d'information, le secrétaire général de la défense
+nationale dispose de la direction centrale de la sécurité et des systèmes d'information du secrétariat général de la défense
+nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Chapitre II : Cryptologie
+
+###### Article R2322-1
+
+Les règles relatives à la définition, aux moyens, aux conventions et à l'utilisation de la cryptologie sont définies par le
+décret n° 2007-663 du 2 mai 2007 pris pour l'application des articles 30, 31 et 36 de la loi n° 2004-575 du 21 juin 2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 30 (V)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 31 (V)
+	  - Loi n°2004-575 du 21 juin 2004 - art. 36 (V)
+	  - Décret n°2007-663 du 2 mai 2007 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+### LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER
+
+#### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE
+
+##### Chapitre unique
+
+###### Article R2431-1
+
+Pour l'application de la présente partie du code à Mayotte, les références énumérées ci-après sont remplacées ainsi :
+
+1° La référence au département est remplacée par la référence à Mayotte ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence au tribunal d'instance et tribunal de grande instance est remplacée par la référence au tribunal de première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA
+
+##### Chapitre unique
+
+###### Article D*2441-4
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, l'article D. * 2213-23 ; 
+
+2° Au livre III, l'article D. * 2311-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D*2213-23 (V)
+	  - Code de la défense. - art. D*2311-12 (V)
+
+
+###### Article D2441-3
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+
+2° Au livre III, les articles D. 2321-1 à D. 2321-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2321-1 (V)
+
+
+###### Article R*2441-1
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, l'article R. * 2151-7 ; 
+
+2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*2151-7 (V)
+	  - Code de la défense. - art. R*2211-2 (V)
+	  - Code de la défense. - art. R*2213-16 (V)
+	  - Code de la défense. - art. R*2234-95 (V)
+
+
+###### Article R2441-2
+
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, les articles R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+
+2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
+
+3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2141-1 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2322-1 (V)
+
+
+###### Article R2441-5
+
+Pour l'application de la présente partie du code dans les îles Wallis et Futuna, les références énumérées ci-après sont
+remplacées ainsi :
+
+1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence à la commune est remplacée par la référence à la circonscription ;
+
+4° La référence au maire est remplacée par la référence au chef de circonscription ;
+
+5° La référence à la mairie est remplacée par la référence à la circonscription.
+
+6° La référence au tribunal d'instance et tribunal de grande instance est remplacée par la référence au tribunal de première
+instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE
+
+##### Chapitre unique
+
+###### Article D*2451-4
+
+Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, l'article D. * 2213-23 ; 
+
+2° Au livre III, l'article D. * 2311-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D*2213-23 (V)
+	  - Code de la défense. - art. D*2311-12 (V)
+
+
+###### Article D2451-3
+
+Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+
+2° Au livre III, les articles D. 2321-1 à D. 2321-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2321-1 (V)
+
+
+###### Article R*2451-1
+
+Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, l'article R. * 2151-7 ; 
+
+2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*2151-7 (V)
+	  - Code de la défense. - art. R*2211-2 (V)
+	  - Code de la défense. - art. R*2213-16 (V)
+	  - Code de la défense. - art. R*2234-95 (V)
+
+
+###### Article R2451-2
+
+Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+
+2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
+
+3° Au livre III, les articles R. 2311-1 à R. 2311-11, R. 2313-4 et R. 2322-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2112-1 (V)
+	  - Code de la défense. - art. R2141-1 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2313-4 (V)
+	  - Code de la défense. - art. R2322-1 (V)
+
+
+###### Article R2451-5
+
+Pour l'application de la présente partie du code en Polynésie française, les références énumérées ci-après sont remplacées
+ainsi :
+
+1° La référence au département est remplacée par la référence à la Polynésie française ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE
+
+##### Chapitre unique
+
+###### Article D*2461-5
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, l'article D. * 2213-23 ; 
+
+2° Au livre III, l'article D. * 2311-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D*2213-23 (V)
+	  - Code de la défense. - art. D*2311-12 (V)
+
+
+###### Article D2461-4
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+
+2° Au livre III les articles D. 2321-1 à D. 2321-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2321-1 (V)
+
+
+###### Article R*2461-1
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, l'article R. * 2151-7 ; 
+
+2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*2151-7 (V)
+	  - Code de la défense. - art. R*2211-2 (V)
+	  - Code de la défense. - art. R*2213-16 (V)
+	  - Code de la défense. - art. R*2234-95 (V)
+
+
+###### Article R2461-2
+
+Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+
+2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
+
+3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2112-1 (V)
+	  - Code de la défense. - art. R2141-1 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2322-1 (V)
+
+
+###### Article R2461-3
+
+Pour l'application de l'article R. 2112-1 en Nouvelle-Calédonie, les mots : aux articles R. 2124-2 à R. 2124-5 du code
+général des collectivités territoriales sont remplacés par les mots : aux articles R. 124-1 et R. 124-3 à R. 124-6 du code
+des communes de Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. R124-1 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. R124-3 (V)
+	  - Code général des collectivités territoriales - art. R2124-2 (V)
+	  - Code de la défense. - art. R2112-1 (V)
+
+
+###### Article R2461-6
+
+Pour l'application de la présente partie du code en Nouvelle-Calédonie, les références énumérées ci-après sont remplacées
+ainsi :
+
+1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES
+
+##### Chapitre unique
+
+###### Article D*2471-4
+
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, l'article D. * 2213-23 ; 
+
+2° Au livre III, l'article D. * 2311-12.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°61-1300 du 30 novembre 1961, v. init.
+	  - Code de la défense. - art. D*2213-23 (V)
+	  - Code de la défense. - art. D*2311-12 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+
+###### Article D2471-5
+
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+
+2° Au livre III, les articles D. 2321-1 à D. 2321-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2321-1 (V)
+
+
+###### Article R*2471-1
+
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, l'article R. * 2151-7 ; 
+
+2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-253 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*2151-7 (V)
+	  - Code de la défense. - art. R*2211-2 (V)
+	  - Code de la défense. - art. R*2213-16 (V)
+	  - Code de la défense. - art. R*2234-95 (V)
+
+
+###### Article R2471-2
+
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
+
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+
+2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-; 
+
+3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°61-1300 du 30 novembre 1961, v. init.
+	  - Code de la défense. - art. R2112-1 (V)
+	  - Code de la défense. - art. R2141-1 (V)
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2322-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2471-3
+
+Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises, les références
+énumérées ci-après sont remplacées ainsi :
+
+1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence à la commune est remplacée par la référence au district ;
+
+4° La référence au maire est remplacée par la référence au chef de district ;
+
+5° La référence à la mairie est remplacée par la référence au district.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN
+
+##### Chapitre Ier : Saint-Barthélémy
+
+###### Article R2481-1
+
+Pour l'application de la présente partie du code à Saint-Barthélemy, les références énumérées ci-après sont remplacées
+ainsi :
+
+1° La référence au département est remplacée par la référence à Saint-Barthélemy ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence au tribunal d'instance et de grande instance est remplacée par la référence au tribunal de première
+instance ;
+
+4° La référence au maire est remplacée par la référence au président du conseil territorial ;
+
+5° La référence au conseil municipal est remplacée par la référence au conseil territorial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Chapitre II : Saint-Martin
+
+###### Article R2482-1
+
+Pour l'application de la présente partie du code à Saint-Martin, les références énumérées ci-après sont remplacées ainsi :
+
+1° La référence au département est remplacée par la référence à Saint-Martin ;
+
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence au tribunal d'instance et de grande instance est remplacée par la référence au tribunal de première
+instance ;
+
+4° La référence au maire est remplacée par la référence au président du conseil territorial ;
+
+5° La référence au conseil municipal est remplacée par la référence au conseil territorial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES
+
+##### Chapitre unique
+
+##### Section 1 : Réquisition de biens et de services.
+
+###### Article R2491-1
+
+Pour l'adaptation des articles R. 2213-1 à R. 2213-24 et R. 2233-1 à R. 2234-96 relatifs aux réquisitions de biens et de
+services, les dispositions du présent chapitre sont applicables à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna,
+en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-1 (V)
+	  - Code de la défense. - art. R2233-1 (V)
+
+
+###### Article R2491-2
+
+Le représentant de l'Etat et le commandant supérieur des forces armées dans la collectivité d'outre-mer considérée, en
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises peuvent sous-déléguer en totalité ou en partie
+l'exercice du droit de réquisition aux chefs des circonscriptions administratives et aux commandants militaires subordonnés.
+La sous-délégation est toujours écrite. Elle est révocable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-3
+
+Le représentant de l'Etat a qualité pour prendre par arrêté toute mesure qui, aux termes des articles R. 2213-1 à R. 2213-15,
+R. 2213-20 à R. 2234-96 et du titre III du livre II de la présente partie du code, nécessiterait l'intervention d'un arrêté
+ministériel ou interministériel. 
+
+Il en rend compte sans délai au ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2213-1 (V)
+	  - Code de la défense. - art. R2213-20 (V)
+
+
+###### Article R2491-4
+
+Dans chaque collectivité d'outre-mer, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, les
+tarifs et barèmes d'indemnisation établis en application de l'article L. 2234-5 et conformément aux dispositions de l'article
+R. 2234-36 sont définis par arrêté du représentant de l'Etat dans la collectivité sur avis de la commission territoriale
+d'évaluation des réquisitions. Le comité consultatif interministériel de règlement des réquisitions prévu à l'article R.
+2234-96 en est tenu informé par le ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-5 (V)
+	  - Code de la défense. - art. R2234-36 (V)
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article R2491-5
+
+Le représentant de l'Etat fixe par arrêté la composition et les règles de fonctionnement de la commission d'évaluation des
+réquisitions prévues aux articles R. 2234-77 et R. 2234-81.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-77 (V)
+	  - Code de la défense. - art. R2234-81 (V)
+
+
+###### Article R2491-6
+
+Pour l'application de l'article R. 2234-21, la valeur de l'ensemble des éléments de l'actif requis est fournie sur demande
+aux autorités chargées du règlement des réquisitions et à la commission d'évaluation par le trésorier-payeur général, en
+liaison, en tant que de besoin, avec les services d'Etat ou territoriaux compétents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-21 (V)
+
+
+###### Article R2491-7
+
+Pour l'application des articles R. 2234-1, R. 2234-2 et R. 2234-22, les termes : taux des avances sur titre de la Banque de
+France sont remplacés par ceux de : taux applicable par l'institut d'émission d'outre-mer aux facilités de mise en pension
+d'effets à court terme. 
+
+Dans le cas de suspension d'assurance prévu à l'article R. * 160-9 du code des assurances, la portion de prime payée d'avance
+et afférente au temps où le risque n'est pas encouru est conservée par l'assureur au crédit de l'assuré et porte intérêt aux
+taux définis à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-1 (V)
+	  - Code de la défense. - art. R2234-2 (V)
+	  - Code de la défense. - art. R2234-22 (V)
+	  - Code des assurances - art. R*160-9 (V)
+
+
+###### Article R2491-8
+
+Pour l'application de l'article R. 2234-53, la créance de l'Etat au titre de la plus-value prévue par l'article L. 2234-14
+est recouvrée par le service local du Trésor. 
+
+Le cas échéant, les poursuites sont diligentées par les soins du trésorier-payeur général selon les règles applicables dans
+le territoire au recouvrement des créances de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2234-14 (V)
+	  - Code de la défense. - art. R2234-53 (V)
+
+
+###### Article R2491-9
+
+Pour l'application de l'article R. 2234-96, lorsque le comité consultatif interministériel de règlement des réquisitions
+prépare ou examine des projets de textes applicables aux collectivités d'outre-mer, à la Nouvelle-Calédonie et aux Terres
+australes et antarctiques françaises, il comprend un représentant du ministre de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-96 (V)
+
+
+###### Article R2491-10
+
+Les recensements peuvent comporter non seulement des déclarations faites aux autorités municipales ou aux administrations
+dans les conditions notifiées par voie d'affiches ou autrement, mais aussi l'obligation de présenter les ressources soumises
+au recensement au lieu, au point et à l'heure fixés ou de se soumettre à la visite sur place des ressources à recenser par
+les autorités qui en sont chargées.
+
+L'obligation de fournir les renseignements demandés ou de présenter les ressources à recenser incombe à toute personne en
+mesure de donner ces renseignements, et notamment aux propriétaires, occupants ou détenteurs et à tous préposés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+##### Section 2 : Réquisitions militaires.
+
+###### Article R2491-11
+
+Pour l'adaptation des articles R. 2221-1 à R. 2223-5 relatifs aux réquisitions militaires, les dispositions du présent
+chapitre sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans
+les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2221-1 (V)
+
+
+###### Article R2491-12
+
+En cas de mobilisation générale, ainsi que dans le cas où sont survenus des actes d'hostilité et où les communications sont
+interrompues avec la métropole, le droit de requérir peut être délégué, en cas de nécessité absolue, à toute autorité
+française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-13
+
+Le droit de requérir peut être délégué, par les autorités militaires énumérées à l'article R. 2211-5, aux officiers du
+commissariat et aux officiers commandant les détachements. 
+
+Dans les cas limitativement rappelés ci-après, le droit de réquisition peut être également délégué : 
+
+1° Pour les réquisitions à exercer en vue de la formation des approvisionnements nécessaires à la subsistance des habitants
+soit d'un point d'appui, soit d'une zone d'opérations militaires, par le représentant de l'Etat, le commandant du point
+d'appui ou le commandant des troupes en opération, aux maires. 
+
+La même délégation peut être donnée pour le même objet aux ingénieurs des travaux publics de l'Etat exerçant leur activité
+dans les collectivités territoriales. 
+
+La délégation indique de manière précise la nature et l'importance des prestations pouvant faire l'objet des réquisitions. 
+
+2° Pour la réquisition des établissements industriels et des marchandises déposées dans les entrepôts de douane, dans les
+magasins généraux ou en cours de transport par voie ferrée, réquisition prévue aux articles L. 2223-18 et L. 2223-19, par les
+représentants de l'Etat, aux autorités administratives placées sous leurs ordres. 
+
+3° En cas de mobilisation seulement : 
+
+a) Par les commandants supérieurs, ou commandants militaires, aux présidents des commissions de réception du service du
+ravitaillement instituées sur les territoires placés sous leur commandement ; 
+
+b) Pour les réquisitions visant les voies navigables prévues à l'article L. 2223-17, par les représentants de l'Etat ou par
+l'autorité militaire, aux ingénieurs des travaux publics de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2223-17 (V)
+	  - Code de la défense. - art. L2223-18 (V)
+	  - Code de la défense. - art. L2223-19 (V)
+	  - Code de la défense. - art. R2211-5 (V)
+
+
+###### Article R2491-14
+
+Exceptionnellement et seulement en temps de guerre, tout commandant de formation militaire ou chef de détachement opérant
+isolément peut requérir, sous sa responsabilité personnelle, les prestations nécessaires aux besoins quotidiens des hommes et
+du matériel à sa disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-15
+
+Sauf cas de force majeure ou d'extrême urgence, l'autorité administrative requise répartit les prestations exigées, avec
+l'assistance de deux habitants de la localité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-16
+
+En dehors des communes, l'autorité administrative requise, ou informée par l'autorité militaire des réquisitions notifiées
+aux collectivités territoriales ou aux particuliers adresse, dans le plus bref délai, à la commission compétente, avec une
+copie de l'ordre de réquisition, un état nominatif contenant l'indication de toutes les personnes ou collectivités qui ont
+fourni des prestations, avec la mention des quantités livrées, des prix réclamés par chacune d'elles et de la date des
+réquisitions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-17
+
+Les infractions aux dispositions du présent chapitre sont jugées en temps de paix par les tribunaux dont relèvent les
+contrevenants et en temps de guerre par les juridictions militaires. Elles sont sanctionnées par les peines prévues par les
+dispositions du chapitre 6 du titre III du livre II de la présente partie relatif aux sanctions pénales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+###### Article R2491-18
+
+Le représentant de l'Etat peut préciser les conditions d'application des dispositions du présent chapitre par voie d'arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art.
 
 
 ## PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE
@@ -41402,7 +46412,7 @@ prendre la forme d'activités de terrorisme, d'espionnage, de subversion, de sab
 
 3° De contribuer à assurer la protection des personnes susceptibles d'avoir accès à des informations protégées ou à des
 zones, des matériels ou des installations sensibles. En particulier, elle met en œuvre la procédure d'habilitation prévue par
-l'article 8 du décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale ; 
+l'article R. 2311-8 du code de la défense ; 
 
 4° De participer aux études de sécurité et à l'élaboration des textes réglementaires en rapport avec le traitement de
 l'information, notamment en matière de traitement automatisé, et de contrôler l'application des mesures de sécurité
@@ -41412,18 +46422,18 @@ l'information, notamment en matière de traitement automatisé, et de contrôler
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°98-608 du 17 juillet 1998, v. init.
-	  - Code de la défense. - art. L2331-1 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3126-8 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2331-1 (V)
+	  - Code de la défense. - art. R2311-8 (V)
 
 
 ###### Article D3126-7
@@ -54910,8 +59920,8 @@ l'office ou appelées à travailler pour lui, à quelque titre que ce soit, sont
 en ce qui concerne les délibérations, échanges de vues et travaux dont ils ont connaissance.
 
 A cet effet, ils doivent veiller à la protection des secrets et des informations concernant la défense nationale dans les
-conditions prévues par le décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale
-ainsi que par la réglementation prises pour son application. 
+conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la
+défense nationale ainsi que par la réglementation prises pour leur application. 
 
 Sans préjudice des poursuites pénales pouvant être exercées pour violation du secret professionnel ou de secrets touchant la
 défense, l'exclusion immédiate et sans indemnité pourra être prononcée au cas de manquement aux obligations résultant du
@@ -54919,13 +59929,13 @@ présent article.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+
 	**Cite**:
 
-	  - Décret n°98-608 du 17 juillet 1998, v. init.
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Code de la défense. - art. R2311-1 (V)
 
 
 ##### Section 2 : Organisation administrative et financière
@@ -66838,7 +71848,7 @@ l'une des mentions suivantes :
 
 ###### Article D4152-1
 
-L'enseignement militaire supérieur, placé sous l'autorité du ministre de la défense, a pour mission de préparer des
+L'enseignement militaire supérieur, placé sous l'autorité du ministre de la défense, a pour mission de préparer les
 officiers :
 
 1° A tenir des postes demandant une qualification élevée dans certaines techniques ;
@@ -66849,9 +71859,9 @@ officiers :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 
 ###### Article D4152-2
@@ -66862,16 +71872,16 @@ L'enseignement militaire supérieur comprend plusieurs degrés :
 délivrance d'un diplôme ;
 
 2° Le deuxième degré prépare à l'exercice de certaines fonctions d'état-major ou de direction et de commandements
-importants ; l'aptitude à l'exercice de ces fonctions ou commandements est sanctionnée par la délivrance d'un brevet.
+importants ; l'aptitude à l'exercice de ces fonctions ou commandements est sanctionnée par la délivrance d'un brevet ;
 
 3° Au-dessus du deuxième degré, cet enseignement apporte à certains officiers appelés à de hautes responsabilités un
 élargissement de leurs connaissances dans les domaines de la politique militaire et de l'emploi des forces.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 	**Cité par**:
 
@@ -66881,61 +71891,86 @@ importants ; l'aptitude à l'exercice de ces fonctions ou commandements est sanc
 
 ###### Article D4152-3
 
-Le chef d'état-major des armées fixe l'orientation générale de l'enseignement militaire supérieur.
+Le chef d'état-major des armées décide des objectifs généraux de l'enseignement militaire supérieur.
 
-Il dispose à cette fin d'un conseil d'orientation de l'enseignement militaire supérieur dont l'organisation et le
-fonctionnement sont fixés par arrêté du ministre de la défense.
+Un conseil de l'enseignement militaire supérieur, placé sous sa présidence ou celle de son représentant, l'assiste dans la
+détermination des objectifs, en matière d'enseignement, de recherche et de documentation ainsi que des moyens à y consacrer.
+
+Un conseil de perfectionnement de l'enseignement militaire supérieur s'assure que l'enseignement dispensé est conforme à ces
+objectifs.
+
+La composition, l'organisation, le fonctionnement et les attributions de ces conseils sont précisés par arrêté du ministre de
+la défense.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+
+
+###### Article D4152-4
 
 Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire supérieur des premier et deuxième degrés
 relève du chef d'état-major concerné. A la délégation générale pour l'armement, cet enseignement relève du délégué général
 pour l'armement.
 
 Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central
-du service des essences des armées et le directeur des affaires juridiques peuvent être chargés de diriger l'enseignement
-conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation rattachée.
+du service des essences des armées et, pour la justice militaire, le directeur des affaires juridiques peuvent être chargés
+de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation rattachée.
 
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du
 deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-
-###### Article D4152-4
-
-Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
-désignés par le chef d'état-major. A la délégation générale pour l'armement, dans la gendarmerie nationale, le service de
-santé des armées, le service des essences des armées et la justice militaire, ils sont désignés par le délégué ou le
-directeur.
-
-Ces désignations sont effectuées :
-
-1° S'agissant du premier degré, dans les conditions fixées par instructions du ministre de la défense ;
-
-2° S'agissant du deuxième degré :
-
-a) Soit à la suite d'un concours ;
-
-b) Soit sur proposition d'une commission dont la composition est fixée par arrêté du ministre de la défense.
-
-Les officiers admis à suivre l'enseignement au-dessus du deuxième degré sont désignés par le ministre de la défense sur
-proposition du chef d'état-major des armées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 
 ###### Article D4152-5
 
-Les diplômes et brevets de l'enseignement militaire supérieur visés à l'article D. 4152-2 sont attribués par le ministre de
-la défense sur proposition du délégué général pour l'armement ou du chef d'état-major ou directeur sous l'autorité duquel a
-été dispensé l'enseignement. 
+Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
+désignés par le chef d'état-major de l'armée concernée. A la délégation générale pour l'armement, dans la gendarmerie
+nationale, le service de santé des armées, le service des essences des armées et la justice militaire, ils sont désignés par
+le délégué ou le directeur concerné.
+
+Ces désignations sont effectuées :
+
+1° Pour l'admission à l'enseignement du premier degré, dans les conditions fixées par instructions du ministre de la
+défense ;
+
+2° Pour l'admission à l'enseignement du deuxième degré :
+
+a) soit à la suite d'un concours ;
+
+b) soit sur proposition d'une commission dont la composition est fixée par arrêté du ministre de la défense.
+
+Les officiers admis à suivre l'enseignement au-dessus du deuxième degré sont désignés par le ministre de la défense sur
+proposition du chef d'état-major des armées.
+
+Le chef d'état-major des armées veille à l'harmonisation des conditions d'admission des auditeurs et des stagiaires de
+l'enseignement militaire supérieur interarmées.
+
+Des officiers étrangers peuvent être admis à suivre l'enseignement militaire supérieur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D4152-6 (V)
+
+
+###### Article D4152-6
+
+Les diplômes et les brevets de l'enseignement militaire supérieur visés à l'article D. 4152-2 sont attribués par le ministre
+de la défense sur proposition du délégué général pour l'armement, du chef d'état-major ou du directeur, sous l'autorité
+duquel a été dispensé l'enseignement. 
 
 La liste des diplômes est fixée par arrêté du ministre de la défense. 
 
@@ -66948,36 +71983,16 @@ service d'état-major ;
 formation militaire supérieure scientifique et technique ; 
 
 3° Le brevet de qualification militaire supérieure, délivré sur proposition d'une commission, dans la limite de 20 % du
-nombre des brevets d'études militaires supérieures et brevets techniques délivrés annuellement aux officiers supérieurs qui
-auront fourni dans des postes de responsabilité la preuve de leur haute qualification. 
+nombre des brevets d'études militaires supérieures et des brevets techniques délivrés annuellement aux officiers supérieurs
+qui auront fourni dans des postes de responsabilité la preuve de leur haute qualification. 
 
 Les conditions d'application du présent article sont fixées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. D4152-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D4152-6 (V)
-
-
-###### Article D4152-6
-
-La liste des officiers titulaires des brevets visés à l'article D. 4152-5 est publiée au Journal officiel de la République
-française.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 	**Cité par**:
 
@@ -66986,100 +72001,123 @@ française.
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4152-5 (V)
+	  - Code de la défense. - art. D4152-2
 
-
-##### Section 2 : Collège interarmées de défense
 
 ###### Article D4152-7
 
-Le collège interarmées de défense relève du chef d'état-major des armées.
-
-Il prépare les officiers supérieurs des trois armées et de la gendarmerie nationale à assumer des responsabilités d'état-
-major, de commandement et de direction au sein de leur armée d'appartenance, des organismes et états-majors interarmées ou
-interalliés et à tout autre poste où s'élabore et s'exécute la politique de défense.
-
-L'enseignement du collège interarmées de défense peut également être dispensé à des ingénieurs de l'armement, à des officiers
-des services interarmées et à des officiers étrangers.
-
-La scolarité au sein du collège interarmées de défense est sanctionnée par l'attribution du brevet d'études militaires
-supérieures.
+La liste des officiers titulaires des brevets visés à l'article D. 4152-6 est publiée au Journal officiel de la République
+française.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
+	**Cite**:
+
+	  - Code de la défense. - art. D4152-6
+
+
+##### Section 2 : Direction de l'enseignement militaire supérieur
 
 ###### Article D4152-8
 
-Le collège interarmées de défense contribue au développement des études et de la recherche dans les domaines stratégique et
-tactique.
+La direction de l'enseignement militaire supérieur est un organisme interarmées qui relève du chef d'état-major des armées.
+
+Cet organisme est dirigé par un officier général.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 
 ###### Article D4152-9
 
-Le chef d'état-major des armées fixe les directives concernant l'enseignement dispensé au sein du collège interarmées de
-défense.
+La direction de l'enseignement militaire supérieur :
 
-Cet enseignement comprend une formation interarmées et une formation spécifique à l'armée d'appartenance des stagiaires, ou à
-la gendarmerie, définie en accord avec le chef d'état-major d'armée concerné ou le directeur général de la gendarmerie
-nationale.
+1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur à caractère
+interarmées et les conditions de sa mise en œuvre, en vue notamment d'en conforter le rayonnement en France et à l'étranger ;
+
+2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
+cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ;
+
+3° Prépare les officiers supérieurs des forces armées, de la délégation générale pour l'armement et de la justice militaire à
+exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
+interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique
+de défense et de sécurité ;
+
+4° Contribue au développement et au rayonnement des études et de la recherche en matière de défense et de sécurité
+nationale ;
+
+5° Constitue, entretient et met à la disposition des chercheurs et des étudiants un fonds documentaire de référence au plan
+national et international dans les domaines de la défense et de la sécurité nationale.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 4 mars 2009 - art. 7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+
 
 ###### Article D4152-10
 
-Un conseil d'orientation propose au chef d'état-major des armées l'orientation générale de l'enseignement militaire supérieur
-et un conseil de perfectionnement s'assure que l'enseignement dispensé au collège interarmées de défense est conforme à cette
-orientation.
+La direction de l'enseignement militaire supérieur comprend :
 
-Les attributions, l'organisation et le fonctionnement de ces conseils sont fixés par arrêté du ministre de la défense.
+1° Le centre des hautes études militaires ;
+
+2° Le collège interarmées de défense ;
+
+3° La division de la recherche et de la documentation.
+
+Son organisation est fixée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 4 mars 2009 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+
 
 ###### Article D4152-11
 
-L'organisation et les modalités de fonctionnement du collège interarmées de défense sont fixées par le chef d'état-major des
-armées.
+Le conseil scientifique de la division de la recherche et de la documentation propose les axes de recherche et les
+orientations générales de la politique de documentation de la division de la recherche et de la documentation. Il donne un
+avis pour le recrutement des chercheurs et des enseignants de l'enseignement militaire supérieur.
 
-Celui-ci veille à l'harmonisation des conditions d'admission des stagiaires qui sont désignés par les chefs d'état-major, le
-délégué général pour l'armement ou le directeur général de la gendarmerie nationale.
+Un arrêté du ministre de la défense précise la composition, les attributions et les modalités de fonctionnement de ce
+conseil.
+
+**Nota:**
+
+Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+scientifique de la division de la recherche et de la documentation).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-256 du 4 mars 2009 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2009-630 du 6 juin 2009 - art. (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1220 du 15 octobre 2010 - art. 3
 
 
 ###  LIVRE II : RÉSERVE MILITAIRE

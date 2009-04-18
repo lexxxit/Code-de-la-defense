@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-03-07
+Version Consolidée au 2009-04-19
 
 # Partie législative
 
@@ -32002,7 +32002,7 @@ prises par un autre Etat ou par un groupe d'Etats.
 
 ##### Chapitre VI : Transports et hydrocarbures
 
-##### Section 1 : Organisation des transports pour la défense
+##### Section 1 : Transports et travaux
 
 ##### Sous-section 1 : Dispositions générales
 
@@ -32131,272 +32131,6 @@ confiée au ministre de la défense pour une période définie.
 
 	  - Code de la défense. - art. R*1336-9 (V)
 
-
-##### Sous-section 4 : Circulation routière pour la défense
-
-###### Article R1336-33
-
-La circulation routière pour la défense a pour objet d'organiser, dans les cas prévus à l'article L. 1111-2, les déplacements
-sur voie routière de telle sorte qu'ils s'effectuent en sécurité et dans le cadre des priorités fixées par le Premier
-ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1641-2 (M)
-	  - Code de la défense. - art. R1651-3 (M)
-	  - Code de la défense. - art. R1661-3 (M)
-
-
-###### Article R1336-34
-
-A cette fin, sont établis des plans de circulation routière pour la défense, couvrant les besoins civils et militaires
-propres à assurer, selon les possibilités du réseau routier, l'exécution des déplacements, leur contrôle, leur discipline, la
-sécurité des usagers ainsi que l'application des mesures pouvant résulter de dispositions de régulation.
-
-Ces plans définissent les réseaux d'itinéraires utilisables et préciser les conditions de leur utilisation.
-
-A cet effet :
-
-1° Ils déterminent les mesures liées à l'interdiction temporaire de ces itinéraires ou de certaines de leurs sections ou,
-éventuellement, de parties de territoire, à la circulation générale au bénéfice de transports prioritaires ;
-
-2° Ils préparent les réglementations complémentaires, temporaires ou particulières ;
-
-3° Ils estiment les moyens en personnel et en matériel nécessaires à leur application.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1336-35
-
-A l'échelon national, les plans de circulation routière pour la défense sont établis par le ministre chargé des transports,
-par délégation du Premier ministre, après avis d'un comité interministériel présidé par le ministre chargé des transports ou
-son représentant et composé de représentants du ministre de l'intérieur, du ministre de la défense et, en tant que de besoin,
-de tout autre ministre.
-
-A l'échelon territorial, les plans de circulation routière pour la défense peuvent être établis par les préfets, après avis
-des comité interservices qu'ils président, composés de représentants de l'autorité militaire territoriale et des chefs des
-services déconcentrés intéressés. Ces comités sont mis à la disposition de l'autorité militaire dans les cas, prévus aux
-articles L. 1221-1 et L. 1321-2, où elle est investie des pouvoirs relatifs à la défense civile. 
-
-Les plans de circulation routière pour la défense sont établis compte tenu des besoins prioritaires de défense exprimés par
-les ministres utilisateurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1221-1 (V)
-	  - Code de la défense. - art. L1321-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1336-38 (V)
-
-
-###### Article R1336-36
-
-Sauf dans les cas prévus aux articles L. 1221-1 et L. 1321-2, où l'autorité militaire est investie des pouvoirs relatifs à la
-défense civile, le ministre de l'intérieur est responsable de la mise en oeuvre des plans de circulation routière pour la
-défense. Il dispose à cet effet d'un centre opérationnel interministériel composé des représentants du ministre de la
-défense, du ministre chargé des transports et en tant que de besoin, de tout autre ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1221-1 (V)
-	  - Code de la défense. - art. L1321-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1336-38 (V)
-
-
-###### Article R1336-37
-
-Le ministre de l'intérieur et les préfets pour l'exécution des missions de circulation routière pour la défense utilisent,
-outre les forces de police et de gendarmerie, les unités militaires de circulation routière mises éventuellement à leur
-disposition pour faciliter les déplacements des forces armées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1336-38
-
-Un décret précise, en tant que de besoin, la composition et les conditions de fonctionnement des comités interservices prévus
-à l'article R. 1336-35 et du centre opérationnel interministériel prévu à l'article R. 1336-36.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°80-1096 du 22 décembre 1980 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R1336-35 (V)
-	  - Code de la défense. - art. R1336-36 (V)
-
-
-##### Sous-section 5 : Transports militaires par voie ferrée
-
-###### Article D1336-39
-
-Sous l'autorité du ministre de la défense, le service militaire des chemins de fer veille et participe en toutes
-circonstances à la bonne exécution des transports militaires par voie ferrée, conformément aux besoins exprimés par le
-commandement militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-201 du 19 mars 1975 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1621-7 (V)
-
-
-###### Article D1336-40
-
-Le chef d'état-major de l'armée de terre est chargé de l'organisation et de la mise en oeuvre du service militaire des
-chemins de fer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-201 du 19 mars 1975 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Décret n°2014-620 du 13 juin 2014 (V)
-
-
-###### Article D1336-41
-
-Le service militaire des chemins de fer comprend : 
-
-1° Des militaires spécialistes des transports par voie ferrée, affectés dans certains organismes militaires chargés des
-transports ainsi qu'à la commission centrale des chemins de fer et dans ses commissions subordonnées, dont l'organisation et
-les règles de fonctionnement font l'objet d'un arrêté conjoint du ministre de la défense et du ministre chargé des
-transports ; 
-
-2° Des unités de chemins de fer de campagne, constituées au titre des corps spéciaux. Ces unités sont destinées à assurer la
-construction, la réparation et l'exploitation des voies ferrées, notamment dans les circonstances particulières prévues au 3°
-de l'article R. * 1336-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-201 du 19 mars 1975 - art. 3 (M)
-	  - Décret n°75-201 du 19 mars 1975 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1336-2 (V)
-
-
-###### Article D1336-42
-
-Afin de faciliter les opérations d'embarquement ou de débarquement des troupes et des matériels, ainsi que l'acheminement des
-transports militaires, le service militaire des chemins de fer dispose de moyens qui lui appartiennent en propre et qui
-comprennent :
-
-1° Des moyens fixes : terrains, bâtiments et installations de la voie, à l'exclusion des embranchements particuliers
-militaires, incorporés dans le domaine public du chemin de fer et, à ce titre, gérés par la Société nationale des chemins de
-fer français ou, éventuellement, par toute entreprise titulaire d'une concession ferroviaire, entretenus par elle à l'aide de
-crédits mis à sa disposition par l'autorité militaire.
-
-Toutefois, pour certaines catégories d'installations que la Société nationale des chemins de fer français a la faculté
-d'utiliser pour les besoins de son trafic commercial du temps de paix, un accord particulier, conclu entre le ministre de la
-défense et le ministre chargé des transports, règle les conditions de sa participation financière. Des conventions identiques
-peuvent être également conclues avec les entreprises mentionnées à l'alinéa précédent ;
-
-2° Des moyens mobiles : accessoires d'embarquement entreposés dans les emprises de la Société nationale des chemins de fer
-français et wagons spéciaux immatriculés au régime des wagons de particuliers.
-
-Ces matériels sont agréés et entretenus par l'administration militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-201 du 19 mars 1975 - art. 4 (M)
-	  - Décret n°75-201 du 19 mars 1975 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-
-##### Section 1 : Transports et travaux
-
-##### Sous-section 1 : Dispositions générales
 
 ##### Sous-section 2 : Dispositions particulières
 
@@ -32740,7 +32474,265 @@ suivre par les personnes et les entreprises qui détiennent les moyens de transp
 
 ##### Sous-section 4 : Circulation routière pour la défense
 
+###### Article R1336-33
+
+La circulation routière pour la défense a pour objet d'organiser, dans les cas prévus à l'article L. 1111-2, les déplacements
+sur voie routière de telle sorte qu'ils s'effectuent en sécurité et dans le cadre des priorités fixées par le Premier
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1111-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1641-2 (M)
+	  - Code de la défense. - art. R1651-3 (M)
+	  - Code de la défense. - art. R1661-3 (M)
+
+
+###### Article R1336-34
+
+A cette fin, sont établis des plans de circulation routière pour la défense, couvrant les besoins civils et militaires
+propres à assurer, selon les possibilités du réseau routier, l'exécution des déplacements, leur contrôle, leur discipline, la
+sécurité des usagers ainsi que l'application des mesures pouvant résulter de dispositions de régulation.
+
+Ces plans définissent les réseaux d'itinéraires utilisables et préciser les conditions de leur utilisation.
+
+A cet effet :
+
+1° Ils déterminent les mesures liées à l'interdiction temporaire de ces itinéraires ou de certaines de leurs sections ou,
+éventuellement, de parties de territoire, à la circulation générale au bénéfice de transports prioritaires ;
+
+2° Ils préparent les réglementations complémentaires, temporaires ou particulières ;
+
+3° Ils estiment les moyens en personnel et en matériel nécessaires à leur application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+
+###### Article R1336-35
+
+A l'échelon national, les plans de circulation routière pour la défense sont établis par le ministre chargé des transports,
+par délégation du Premier ministre, après avis d'un comité interministériel présidé par le ministre chargé des transports ou
+son représentant et composé de représentants du ministre de l'intérieur, du ministre de la défense et, en tant que de besoin,
+de tout autre ministre.
+
+A l'échelon territorial, les plans de circulation routière pour la défense peuvent être établis par les préfets, après avis
+des comité interservices qu'ils président, composés de représentants de l'autorité militaire territoriale et des chefs des
+services déconcentrés intéressés. Ces comités sont mis à la disposition de l'autorité militaire dans les cas, prévus aux
+articles L. 1221-1 et L. 1321-2, où elle est investie des pouvoirs relatifs à la défense civile. 
+
+Les plans de circulation routière pour la défense sont établis compte tenu des besoins prioritaires de défense exprimés par
+les ministres utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1221-1 (V)
+	  - Code de la défense. - art. L1321-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1336-38 (V)
+
+
+###### Article R1336-36
+
+Sauf dans les cas prévus aux articles L. 1221-1 et L. 1321-2, où l'autorité militaire est investie des pouvoirs relatifs à la
+défense civile, le ministre de l'intérieur est responsable de la mise en oeuvre des plans de circulation routière pour la
+défense. Il dispose à cet effet d'un centre opérationnel interministériel composé des représentants du ministre de la
+défense, du ministre chargé des transports et en tant que de besoin, de tout autre ministre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1221-1 (V)
+	  - Code de la défense. - art. L1321-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1336-38 (V)
+
+
+###### Article R1336-37
+
+Le ministre de l'intérieur et les préfets pour l'exécution des missions de circulation routière pour la défense utilisent,
+outre les forces de police et de gendarmerie, les unités militaires de circulation routière mises éventuellement à leur
+disposition pour faciliter les déplacements des forces armées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+
+###### Article R1336-38
+
+Un décret précise, en tant que de besoin, la composition et les conditions de fonctionnement des comités interservices prévus
+à l'article R. 1336-35 et du centre opérationnel interministériel prévu à l'article R. 1336-36.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°80-1096 du 22 décembre 1980 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1336-35 (V)
+	  - Code de la défense. - art. R1336-36 (V)
+
+
 ##### Sous-section 5 : Transports militaires par voie ferrée
+
+###### Article D1336-39
+
+Sous l'autorité du ministre de la défense, le service militaire des chemins de fer veille et participe en toutes
+circonstances à la bonne exécution des transports militaires par voie ferrée, conformément aux besoins exprimés par le
+commandement militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-201 du 19 mars 1975 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1621-7 (V)
+
+
+###### Article D1336-40
+
+Le chef d'état-major de l'armée de terre est chargé de l'organisation et de la mise en oeuvre du service militaire des
+chemins de fer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-201 du 19 mars 1975 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+	**Cité par**:
+
+	  - Décret n°2014-620 du 13 juin 2014 (V)
+
+
+###### Article D1336-41
+
+Le service militaire des chemins de fer comprend : 
+
+1° Des militaires spécialistes des transports par voie ferrée, affectés dans certains organismes militaires chargés des
+transports ainsi qu'à la commission centrale des chemins de fer et dans ses commissions subordonnées, dont l'organisation et
+les règles de fonctionnement font l'objet d'un arrêté conjoint du ministre de la défense et du ministre chargé des
+transports ; 
+
+2° Des unités de chemins de fer de campagne, constituées au titre des corps spéciaux. Ces unités sont destinées à assurer la
+construction, la réparation et l'exploitation des voies ferrées, notamment dans les circonstances particulières prévues au 3°
+de l'article R. * 1336-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-201 du 19 mars 1975 - art. 3 (M)
+	  - Décret n°75-201 du 19 mars 1975 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1336-2 (V)
+
+
+###### Article D1336-42
+
+Afin de faciliter les opérations d'embarquement ou de débarquement des troupes et des matériels, ainsi que l'acheminement des
+transports militaires, le service militaire des chemins de fer dispose de moyens qui lui appartiennent en propre et qui
+comprennent :
+
+1° Des moyens fixes : terrains, bâtiments et installations de la voie, à l'exclusion des embranchements particuliers
+militaires, incorporés dans le domaine public du chemin de fer et, à ce titre, gérés par la Société nationale des chemins de
+fer français ou, éventuellement, par toute entreprise titulaire d'une concession ferroviaire, entretenus par elle à l'aide de
+crédits mis à sa disposition par l'autorité militaire.
+
+Toutefois, pour certaines catégories d'installations que la Société nationale des chemins de fer français a la faculté
+d'utiliser pour les besoins de son trafic commercial du temps de paix, un accord particulier, conclu entre le ministre de la
+défense et le ministre chargé des transports, règle les conditions de sa participation financière. Des conventions identiques
+peuvent être également conclues avec les entreprises mentionnées à l'alinéa précédent ;
+
+2° Des moyens mobiles : accessoires d'embarquement entreposés dans les emprises de la Société nationale des chemins de fer
+français et wagons spéciaux immatriculés au régime des wagons de particuliers.
+
+Ces matériels sont agréés et entretenus par l'administration militaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°75-201 du 19 mars 1975 - art. 4 (M)
+	  - Décret n°75-201 du 19 mars 1975 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
 
 ##### Section 2 : Hydrocarbures
 
@@ -68389,13 +68381,16 @@ Dans cette position, le militaire peut être placé dans l'une des situations me
 
 ###### Article R4138-2
 
-Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense.
+Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense. 
+
+Le congé d'accompagnement d'une personne en fin de vie prévu à l'article L. 4138-6 du code de la défense est accordé par le
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 3
 
 	**Cité par**:
 
@@ -68405,8 +68400,9 @@ Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-2
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-27 (V)
-	  - Code de la défense. - art. R4138-4 (V)
+	  - Code de la défense. - art. L4138-6
+	  - Code de la défense. - art. R4138-27
+	  - Code de la défense. - art. R4138-4
 
 
 #####  Sous-section 1 : Congé de maladie
@@ -68763,13 +68759,21 @@ A l'exclusion des permissions pour événements familiaux, la détermination de 
 permission tient compte des nécessités du service. Lorsque les circonstances l'exigent, le ministre de la défense ou
 l'autorité militaire peut rappeler le militaire en permission, le droit au bénéfice de la fraction restante étant maintenu.
 
-Les samedis, dimanches et les jours de fête légale ne viennent pas en déduction des droits à permissions.
+Ne viennent pas en déduction des droits à permissions : 
+
+1° Les samedis et dimanches ou, lorsque des militaires sont affectés dans des pays étrangers dans lesquels les jours non
+travaillés ne sont pas les samedis et les dimanches, le ou les jours non travaillés localement dans la limite de deux
+jours ; 
+
+2° Les jours de fête légale. Toutefois, le commandant des troupes françaises prépositionnées à l'étranger ou l'autorité
+équivalente peut planifier, dans la limite du nombre de jours de fête légale, les jours de fête française ou locale ne
+faisant pas l'objet d'un décompte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 1
 
 
 ###### Article R4138-18
@@ -68948,12 +68952,16 @@ militaire est lié par un pacte civil de solidarité ou de l'enfant du militaire
 
 ###### Article R4138-27
 
-Le congé de fin de campagne prévu à l'article L. 4138-5 est accordé au militaire à l'issue d'un embarquement ou d'un séjour,
-de plus de onze mois consécutifs, effectué en dehors : 
+Le congé de fin de campagne prévu à l'article L. 4138-5 du code de la défense est accordé au militaire à l'issue d'un
+embarquement ou d'un séjour, de plus de onze mois consécutifs, effectué : 
 
-1° De l'un des Etats dont la liste est fixée par arrêté du ministre de la défense ; 
+1° En dehors de l'un des Etats dont la liste est fixée par arrêté du ministre de la défense ; 
 
-2° D'un département ou d'une collectivité d'outre-mer, ou de la Nouvelle-Calédonie, s'il y était domicilié avant son départ. 
+2° En dehors d'un département ou d'une collectivité d'outre-mer, ou de la Nouvelle-Calédonie, dans lequel il était domicilié
+avant son départ ; 
+
+3° Dans un département ou une collectivité d'outre-mer ou en Nouvelle-Calédonie, lorsqu'il était domicilié en France
+métropolitaine avant son départ. 
 
 La durée de ce congé correspond à la durée totale des permissions annuelles de longue durée prévues à l'article R. 4138-19,
 dont l'intéressé n'a pas pu bénéficier, pour raisons de service, au cours du séjour ou de l'embarquement. Cette durée ne peut
@@ -68971,9 +68979,9 @@ droit au bénéfice de la fraction restante du congé de fin de campagne étant 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 2
 
 	**Cité par**:
 
@@ -68988,9 +68996,9 @@ droit au bénéfice de la fraction restante du congé de fin de campagne étant 
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-5 (V)
-	  - Code de la défense. - art. L4138-6 (V)
-	  - Code de la défense. - art. R4138-19 (V)
+	  - Code de la défense. - art. L4138-5
+	  - Code de la défense. - art. L4138-6
+	  - Code de la défense. - art. R4138-19
 
 
 #####  Sous-section 7 : Congé de reconversion
@@ -69074,9 +69082,10 @@ publics ou privés, mentionnés à l'article L. 86-1 du code des pensions civile
 
 ###### Article R4138-30
 
-L'affectation d'un militaire, par arrêté, auprès d'une personne morale autre que l'Etat mentionnée au 2° de l'article L.
-4138-2 est subordonnée à la signature d'une convention, soumise à l'agrément du Premier ministre, entre le ministre de la
-défense et la personne morale intéressée ou son autorité de tutelle. 
+L'affectation d'un militaire, pour une durée limitée, en application de l'article L. 4138-2 du code de la défense est
+prononcée par arrêté du ministre de la défense. Lorsqu'elle est prononcée auprès d'une des personnes morales mentionnées au
+2° de l'article L. 4138-2 du code de la défense autre que l'Etat, elle est subordonnée à la signature d'une convention entre
+le ministre de la défense et la personne morale intéressée. 
 
 La convention, conclue pour une durée maximale de dix ans, est examinée par l'autorité chargée du contrôle financier, dans
 les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations
@@ -69091,12 +69100,12 @@ contrôle et de l'évaluation desdites activités.
 
 	**Cite**:
 
-	  - Décret n°2005-54 du 27 janvier 2005 (V)
-	  - Code de la défense. - art. L4138-2 (V)
+	  - Décret n°2005-54 du 27 janvier 2005
+	  - Code de la défense. - art. L4138-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 4
 
 
 ###### Article R4138-31
@@ -71226,14 +71235,11 @@ l'article L. 4139-13, la démission de l'état de militaire de carrière ou la r
 vertu d'un contrat est effective sous réserve d'en avoir avisé l'autorité militaire deux mois avant la date souhaitée de
 cessation de l'état militaire. La durée de ce préavis peut être réduite d'un commun accord.
 
-L'acceptation de la démission de l'état de militaire de carrière ou de la résiliation du contrat du militaire servant en
-vertu d'un contrat est prononcée par un arrêté du ministre de la défense.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 5
 
 	**Cité par**:
 
@@ -71245,20 +71251,20 @@ vertu d'un contrat est prononcée par un arrêté du ministre de la défense.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-13 (V)
+	  - Code de la défense. - art. L4139-13
 
 
 ###### Article R4139-47
 
-La cessation de l'état de militaire de carrière résultant soit de l'application des dispositions du deuxième alinéa de
-l'article L. 4139-13, soit de la perte du grade prévue au 2° de l'article L. 4139-14, est prononcée par arrêté du ministre de
-la défense.
+La cessation de l'état de militaire résultant soit de l'application des dispositions de l'article L. 4139-13 du code de la
+défense, soit des dispositions du 1° ou du 2° de l'article L. 4139-14 du même code est prononcée par arrêté du ministre de la
+défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 5
 
 	**Cité par**:
 
@@ -71269,8 +71275,8 @@ la défense.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-13 (V)
-	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. L4139-13
+	  - Code de la défense. - art. L4139-14
 
 
 ###### Article R4139-48
@@ -71294,13 +71300,14 @@ conditions prévues aux articles R. 4137-92 et R. 4137-113.
 ###### Article R4139-49
 
 Le ministre de la défense est autorisé à déléguer par arrêté aux commandants de formation administrative ou aux autorités
-dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient des articles R. 4139-46 et R. 4139-47.
+dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient des articles R. 4138-2, R. 4138-47, R.
+4138-58, R. 4138-59, R. 4138-67, R. 4138-68, R. 4138-71, R. 4138-73 et R. 4139-47.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-422 du 16 avril 2009 - art. 5
 
 	**Cité par**:
 
@@ -71308,7 +71315,12 @@ dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4139-46 (V)
+	  - Code de la défense. - art. R4138-2
+	  - Code de la défense. - art. R4138-47
+	  - Code de la défense. - art. R4138-58
+	  - Code de la défense. - art. R4138-67
+	  - Code de la défense. - art. R4138-71
+	  - Code de la défense. - art. R4139-47
 
 
 #####  Sous-section 2 : Lien au service

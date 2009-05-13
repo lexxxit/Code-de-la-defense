@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-04-19
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -8447,26 +8447,11 @@ même jugement.
 L'autorité administrative peut prescrire ou faire effectuer la mise hors d'usage, aux frais du délinquant, du matériel avant
 sa mise aux enchères publiques. 
 
-II.-Les personnes morales peuvent être déclarées responsables pénalement de ces infractions dans les conditions prévues par
-l'article 121-2 du code pénal. 
-
-Les peines encourues par ces personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées aux 1°, 2°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal.
+II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
+des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 24
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -8487,12 +8472,20 @@ Les peines encourues par ces personnes morales sont :
 	  - Code pénal - art. 321-6-1 (V)
 	  - Code pénal - art. 421-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
-	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. L2332-1
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 24 (Ab)
 
 
 ###### Article L2339-3
@@ -8508,21 +8501,15 @@ dispositions de l'article L. 2332-2 ;
 3° Le fait de céder ou de vendre des matériels de guerre, des armes, des munitions ou leurs éléments constitutifs à un
 mineur, hors les cas où cette vente est autorisée dans les conditions fixées par décret en Conseil d'Etat. 
 
-II.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du
-code pénal, de ces infractions. 
-
-Les peines encourues par les personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées aux 2°, 4°, 5°, 8° et 9° de l'article 131-39 du code pénal.
+II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
+des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cité par**:
 
@@ -8537,17 +8524,16 @@ Les peines encourues par les personnes morales sont :
 	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code de la défense. - art. L2332-10 (V)
-	  - Code de la défense. - art. L2332-2 (V)
-	  - Code de la défense. - art. L2332-6 (V)
-	  - Code de la défense. - art. L2332-9 (V)
-	  - Code de la défense. - art. L2335-2 (V)
-	  - Code de la défense. - art. L2336-2 (V)
+	  - Code de la défense. - art. L2332-1
+	  - Code de la défense. - art. L2332-10
+	  - Code de la défense. - art. L2332-2
+	  - Code de la défense. - art. L2332-6
+	  - Code de la défense. - art. L2332-9
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2336-2
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 25
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 25 (Ab)
 
 
@@ -11424,17 +11410,16 @@ II.-Les personnes physiques coupables de l'une des infractions prévues aux arti
 
 ###### Article L2342-78
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions définies aux articles L. 2342-57 à L. 2342-62, L. 2342-64 à L. 2342-71, L. 2342-74 et L. 2342-79. 
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 2342-57 à L. 2342-62, L. 2342-64 à L. 2342-71, L. 2342-74 et L. 2342-79 encourent, outre
+l'amende suivant les modalités prévues par l'article 131-38 du code pénal : 
 
-Les peines encourues par les personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
+1° (Abrogé) ; 
 
 2° Dans les cas prévus par les articles L. 2342-57 à L. 2342-61, les peines mentionnées à l'article 131-39 du code pénal ; 
 
 3° Dans les cas prévus par les articles L. 2342-62, L. 2342-64 à L. 2342-71, L. 2342-74 et L. 2342-79, les peines mentionnées
-aux 2° à 9° de l'article 131-39 du code pénal.
+aux 2° à 9° de l'article 131-39 du code pénal. 
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -11445,18 +11430,17 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Loi n°98-467 du 17 juin 1998 - art. 79 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39
 	  - Code de la défense. - art. L2342-57 (V)
-	  - Code de la défense. - art. L2342-62 (V)
+	  - Code de la défense. - art. L2342-62
 	  - Code de la défense. - art. L2342-64 (V)
 	  - Code de la défense. - art. L2342-74 (V)
 	  - Code de la défense. - art. L2342-79 (V)
@@ -12013,14 +11997,9 @@ L. 2343-3, encourent également les peines complémentaires prévues aux article
 
 ###### Article L2343-11
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, des infractions prévues à l'article L. 2343-9, sous réserve des dispositions de l'article L. 2343-3. 
-
-Les peines encourues par les personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 2343-9, sous réserve des dispositions de l'article L. 2343-3, encourent, outre l'amende
+suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
@@ -12031,10 +12010,9 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Loi n°98-564 du 8 juillet 1998 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-07-08
 
 # Partie législative
 
@@ -71530,6 +71530,28 @@ L'officier général est alors réadmis en deuxième section ou radié des cadre
 
 	  - Code de la défense. - art. L4141-3 (V)
 	  - Code de la défense. - art. R4141-4 (V)
+
+
+###### Article R4141-7
+
+A titre exceptionnel, un officier général peut être replacé de la deuxième section en première section, par décret du
+Président de la République, pour exercer des fonctions d'encadrement comportant de hautes responsabilités par dérogation à
+l'âge fixé par le 1° de l'article R. 4141-3 et dans la limite d'une durée maximale de quatre ans au-delà de cet âge. 
+
+Le décret fixe la durée des fonctions auxquelles il peut être mis fin à tout moment.
+
+A l'expiration des fonctions en première section, l'officier général est réadmis en deuxième section ou radié des cadres sur
+sa demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-831 du 6 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4141-3
 
 
 ####  TITRE V : FORMATION DES MILITAIRES

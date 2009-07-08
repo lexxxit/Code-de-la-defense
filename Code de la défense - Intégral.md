@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-07-08
+Version Consolidée au 2009-07-09
 
 # Partie législative
 
@@ -20885,31 +20885,6 @@ protection du secret de défense.
 	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 
-###### Article D1132-9
-
-Le secrétaire général de la défense nationale instruit les demandes d'autorisation présentées en application de l'article
-226-3 du code pénal. Il préside la commission chargée d'émettre un avis sur ces demandes d'autorisation et en assure le
-secrétariat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-78 du 25 janvier 1978 - art. 7-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-834 du 7 juillet 2009 - art. 10
-
-	**Cite**:
-
-	  - Code pénal - art. 226-3
-
-
 ###### Article R1132-1
 
 Le secrétariat général de la défense nationale constitue un service du Premier ministre.
@@ -31376,7 +31351,7 @@ leurs installations et les prestations à fournir dans les cas prévus à l'arti
 Ces dispositions sont établies sur la base des avis, recommandations ou décisions : 
 
 1° Du secrétariat général de la défense nationale au titre des missions dévolues à la commission de défense nationale en
-matière de communications électroniques et à la direction centrale de la sécurité des systèmes d'information ; 
+matière de communications électroniques et à l'Agence nationale de la sécurité des systèmes d'information ; 
 
 2° De la commission interministérielle de coordination des réseaux et services de communications électroniques pour la
 défense et la sécurité publique, lorsqu'il s'agit de la sécurité des réseaux et de la fourniture de prestations nécessaires
@@ -31392,12 +31367,12 @@ l'article L. 97-1 du code des postes et des communications électroniques.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1036 1993-09-02 art. 3
 	  - Décret n°93-1036 du 2 septembre 1993 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -31406,9 +31381,9 @@ l'article L. 97-1 du code des postes et des communications électroniques.
 
 	**Cite**:
 
-	  - Code des postes et des communications électroni... - art. L97-1 (T)
-	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. R1334-1 (V)
+	  - Code des postes et des communications électroniques - art. L97-1
+	  - Code de la défense. - art. L1111-2
+	  - Code de la défense. - art. R1334-1
 
 
 ###### Article R1334-4
@@ -42977,31 +42952,36 @@ sécurité des systèmes d'information dans les budgets ministériels.
 ###### Article D2321-3
 
 La commission interministérielle pour la sécurité des systèmes d'information est présidée par le secrétaire général de la
-défense nationale. Elle comprend :
+défense nationale. Elle comprend : 
 
 1° Un représentant des ministres chargés des finances, de l'industrie, des télécommunications, de l'emploi, de la santé, de
 la justice, de l'intérieur, de l'éducation nationale, des affaires étrangères, de la défense, de l'équipement, des
 transports, de la culture, de l'agriculture, de l'environnement, de l'aménagement du territoire, de la fonction publique, de
-la jeunesse, des sports et de la recherche ;
+la jeunesse, des sports et de la recherche ; 
 
-2° Un représentant du chef de l'état-major particulier du Président de la République ;
+2° Un représentant du chef de l'état-major particulier du Président de la République ; 
 
-3° Un représentant du chef du cabinet militaire du Premier ministre.
+3° Un représentant du chef du cabinet militaire du Premier ministre. 
 
-Le directeur central de la sécurité des systèmes d'information est membre de droit de la commission. Il en assure la
-présidence en cas d'empêchement du secrétaire général de la défense nationale.
+Le directeur général de l'Agence nationale de la sécurité des systèmes d'information est membre de droit de la commission. Il
+en assure la présidence en cas d'empêchement du secrétaire général de la défense nationale. 
 
 La commission interministérielle pour la sécurité des systèmes d'information peut entendre, sur convocation de son président,
 des représentants d'autres administrations ou organismes publics intéressés par une question inscrite à l'ordre du jour et,
-plus généralement, toute personne qualifiée dont elle juge la présence utile.
+plus généralement, toute personne qualifiée dont elle juge la présence utile. 
 
-Le secrétariat de la commission est assuré par la direction centrale de la sécurité des systèmes d'information.
+Le secrétariat de la commission est assuré par l'Agence nationale de la sécurité des systèmes d'information.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 
 ###### Article D2321-4
@@ -43068,14 +43048,17 @@ toute personne dont le concours leur paraît souhaitable.
 ###### Article D2321-7
 
 Pour l'exercice de ses attributions en matière de sécurité des systèmes d'information, le secrétaire général de la défense
-nationale dispose de la direction centrale de la sécurité et des systèmes d'information du secrétariat général de la défense
-nationale.
+nationale dispose de l'Agence nationale de la sécurité des systèmes d'information.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 
 ##### Chapitre II : Cryptologie

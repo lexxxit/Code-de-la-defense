@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-07-09
+Version Consolidée au 2009-07-17
 
 # Partie législative
 
@@ -22201,14 +22201,52 @@ représentés le ministre chargé de l'économie et les ministres utilisateurs d
 
 ###### Article R*1142-1
 
-Le ministre de la défense, responsable de l'exécution de la politique militaire, assume, conformément aux directives
-générales du Premier ministre, les missions découlant de l'article L. 1142-1. 
+Le ministre de la défense prépare et met en œuvre la politique de défense conformément aux directives données par le Premier
+ministre en application de l'article L. 1131-1.
 
-Il traduit en ordres et instructions pour les autorités subordonnées les directives prises par le Premier ministre en
-application de l'article L. 1131-1. 
+I.-Au titre de l'autorité qu'il exerce sur les armées, directions et services : 
 
-Il est responsable de la sécurité des moyens militaires de défense et de la politique relative aux anciens combattants et
-victimes de guerre.
+1° Il fixe l'organisation des armées, ainsi que des directions et services du ministère ; 
+
+2° Il établit la programmation des effectifs, des équipements et des infrastructures ; il en contrôle la mise en œuvre ; 
+
+3° Il définit la politique des ressources humaines et veille au respect des droits et obligations des militaires ; 
+
+4° Il organise le soutien des personnels et du matériel et fixe les orientations de la gestion du patrimoine immobilier ; 
+
+5° Il définit les conditions de la contribution du service de santé des armées à la politique de santé publique ; 
+
+6° Il propose et met en œuvre les politiques de coopération et d'exportation relatives aux équipements de défense ; 
+
+7° Il définit les missions relevant de sa compétence confiées aux formations spécialisées de la gendarmerie. 
+
+Il définit également la mission militaire des prévôts à l'exception des missions de police judiciaire militaire prévues à
+l'article L. 411-2 du code de justice militaire. 
+
+Il exerce son autorité sur les personnels militaires de la gendarmerie engagés dans des missions militaires à l'intérieur
+comme à l'extérieur du territoire national ; 
+
+8° Il propose la nomination et l'affectation des officiers généraux. 
+
+II.-Au titre de la mise en condition d'emploi et de la sécurité des armées, il est responsable de la sécurité des moyens
+militaires de défense et de la préparation des armées. 
+
+III.-Au titre de la politique internationale de défense : 
+
+1° Il conduit les négociations internationales intéressant la défense ; 
+
+2° Il propose la nomination des attachés de défense. 
+
+IV.-Il est responsable de la prospective de défense.
+
+V.-Au titre de la politique industrielle et de recherche dans les domaines intéressant la défense : 
+
+1° Il définit la stratégie et détermine les actions à mener ; 
+
+2° Il fixe les orientations de l'action des organismes intervenant dans le domaine de la défense dont il assure la tutelle ; 
+
+3° Il assure, notamment par l'intermédiaire de commissaires du Gouvernement, le contrôle des industries participant à
+l'exécution de marchés relatifs à des matériels de guerre.
 
 **Liens relatifs à cet article**
 
@@ -22220,70 +22258,73 @@ victimes de guerre.
 
 	**Anciens textes**:
 
-	  - Décret n°2005-506 du 19 mai 2005 - art. 1, v. init.
 	  - Décret n°2005-506 du 19 mai 2005 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1131-1 (V)
-	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L1131-1
+	  - Code de justice militaire. - art. L411-2
 
 
 ###### Article R*1142-2
 
-Le ministre de la défense exerce les attributions qui lui sont dévolues par le code de la justice militaire.
+Le ministre de la défense propose et met en œuvre : 
+
+1° La politique relative aux anciens combattants et victimes de guerre ; 
+
+2° La politique relative au service national.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-506 du 19 mai 2005 - art. 2, v. init.
 	  - Décret n°2005-506 du 19 mai 2005 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 1
 
 
 ###### Article R*1142-3
 
-Le ministre de la défense, conformément aux décisions gouvernementales :
-
-1° Suit les négociations internationales intéressant la défense ;
-
-2° Dirige les missions militaires à l'étranger et les représentations militaires au sein des organismes interalliés.
+Le ministre de la défense exerce les attributions qui lui sont dévolues par le code de justice militaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-506 du 19 mai 2005 - art. 3, v. init.
 	  - Décret n°2005-506 du 19 mai 2005 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 1
 
 
 ###### Article R*1142-4
 
-Le ministre de la défense préside le comité ministériel de défense dont les attributions, la composition et le fonctionnement
-sont déterminés par arrêté.
+Le ministre de la défense préside le comité exécutif ministériel chargé de l'éclairer sur les choix à opérer pour l'exercice
+de ses attributions. 
+
+Ce comité est composé notamment du chef d'état-major des armées, du délégué général pour l'armement et du secrétaire général
+pour l'administration. 
+
+Il préside également le comité ministériel d'investissement et le comité des ressources humaines. 
+
+Les attributions, la composition et le fonctionnement de ces comités sont précisés par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-506 du 19 mai 2005 - art. 5, v. init.
 	  - Décret n°2005-506 du 19 mai 2005 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 1
 
 
 ##### Section 2 : Intérieur
@@ -43986,49 +44027,26 @@ Le représentant de l'Etat peut préciser les conditions d'application des dispo
 
 ##### Chapitre unique
 
-###### Article D3111-2
-
-L'administration centrale est organisée conformément aux dispositions du décret n° 2000-1178 du 4 décembre 2000 portant
-organisation de l'administration centrale du ministère de la défense.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2000-1178 du 4 décembre 2000
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 2
-
-
 ##### Section 1 : Le ministre de la défense
 
 ###### Article R*3111-1
 
-Dans l'exercice de ses attributions, le ministre de la défense est assisté :
+Dans l'exercice de ses attributions, le ministre de la défense est assisté : 
 
-1° En matière d'organisation générale des forces, de choix capacitaires, de préparation et d'emploi, par un chef d'état-major
-des armées ;
+1° Par le chef d'état-major des armées pour les missions définies à l'article R. * 3121-2, notamment :
 
-2° En matière de recherche, de réalisation d'équipements des forces et de politiques technique et industrielle, par un
-délégué général pour l'armement ;
+- l'organisation générale des armées et des organismes interarmées placés sous l'autorité de ce dernier, leur préparation et
+leur mise en condition d'emploi ;
 
-3° Dans tous les domaines de l'administration générale du ministère, et notamment en matière budgétaire, financière,
-juridique, patrimoniale, sociale et de ressources humaines, par un secrétaire général pour l'administration.
+- les choix capacitaires ; 
 
-Le chef d'état-major des armées, le délégué général pour l'armement et le secrétaire général pour l'administration sont
-nommés, sur proposition du ministre de la défense, par décret en conseil des ministres.
+2° Par le délégué général pour l'armement en matière de recherche, de réalisation d'équipements des forces, de relations
+internationales concernant l'armement et de politique industrielle concernant la défense ; 
+
+3° Par le secrétaire général pour l'administration dans tous les domaines de l'administration générale du ministère,
+notamment en matière budgétaire, financière, juridique, patrimoniale, immobilière, sociale et de ressources humaines.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 	**Cité par**:
 
@@ -44038,6 +44056,14 @@ nommés, sur proposition du ministre de la défense, par décret en conseil des 
 	  - Code de la défense. - art. R*3561-1 (V)
 	  - Code de la défense. - art. R*3571-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3121-2
+
 
 #### TITRE II : ORGANISMES ET AUTORITES MILITAIRES
 
@@ -44046,111 +44072,6 @@ nommés, sur proposition du ministre de la défense, par décret en conseil des 
 ##### Section 1 : Etat major des armées
 
 ##### Sous-section unique : Le chef d'état-major des armées
-
-###### Article R3121-1
-
-Le chef d'état-major des armées assiste le ministre dans ses attributions relatives à l'emploi des forces et à leur
-organisation générale.
-
-Il est responsable de la préparation et de l'emploi des forces, de la cohérence capacitaire des opérations d'armement et des
-relations internationales militaires. Il est également responsable, en liaison avec le délégué général pour l'armement et le
-secrétaire général pour l'administration, de l'élaboration des travaux de planification et de programmation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 11 mai 2009 (V)
-	  - Arrêté du 16 février 2010 - art. 1 (Ab)
-	  - Arrêté du 3 septembre 2012 - art. 1 (Ab)
-	  - Arrêté du 20 mars 2015 - art. 1 (V)
-	  - Code de la défense. - art. R*3541-1 (V)
-	  - Code de la défense. - art. R*3551-1 (V)
-	  - Code de la défense. - art. R*3561-1 (V)
-	  - Code de la défense. - art. R*3571-1 (V)
-	  - Code de la défense. - art. R3541-3 (V)
-	  - Code de la défense. - art. R3551-3 (V)
-	  - Code de la défense. - art. R3561-3 (V)
-	  - Code de la défense. - art. R3571-3 (V)
-
-
-###### Article R3121-2
-
-Le chef d'état-major des armées a autorité sur les chefs d'état-major de l'armée de terre, de la marine et de l'armée de
-l'air.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 2 (VD)
-	  - Code de la défense. - art. D3121-14-1 (V)
-	  - Code de la défense. - art. D3121-24 (V)
-	  - Code de la défense. - art. R*3111-1 (V)
-
-
-###### Article R3121-3
-
-Le chef d'état-major des armées élabore les plans d'emploi des forces, en application des directives du Gouvernement qui lui
-sont notifiées par le ministre, en tenant compte de la coordination internationale rendue nécessaire par tout engagement dans
-un cadre multinational.
-
-Il soumet ces plans au ministre ; il est responsable de leur exécution.
-
-Il propose au ministre l'articulation générale des forces et, par délégation, répartit entre les forces les moyens
-opérationnels.
-
-Il a autorité sur les commandements des forces.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3121-4
-
-Le chef d'état-major des armées définit les objectifs de préparation des forces. Il contrôle leur aptitude à remplir les
-missions qui leur sont assignées et en fait rapport au ministre. Il a sur elles un pouvoir permanent d'inspection.
-
-Il planifie, prescrit et dirige les exercices et manœuvres d'ensemble et détermine les ressources à y consacrer qu'il soumet
-à l'appréciation du ministre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3121-5
-
-Le chef d'état-major des armées conduit les travaux de prospective opérationnelle, évalue les risques et propose au ministre
-les orientations et priorités en matière de capacité et de posture opérationnelle. Il participe à la mise en cohérence des
-travaux prospectifs conduits dans les domaines stratégiques, opérationnels et technologiques.
-
-Il est responsable de l'élaboration de la planification, compte tenu des ressources financières appréciées par le secrétaire
-général pour l'administration.
-
-Le chef d'état-major des armées est responsable de l'élaboration de la programmation, ainsi que de l'exécution de cette
-dernière, au regard des finalités opérationnelles et de leur compatibilité avec les ressources financières appréciées par le
-secrétaire général pour l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 
 ###### Article R3121-6
 
@@ -44388,6 +44309,122 @@ armées dont l'organisation est fixée par arrêté du ministre de la défense.
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
+##### Section 1 :  Responsabilités générales du chef d'état-major des armées
+
+###### Article R*3121-1
+
+Sous l'autorité du Président de la République et du Gouvernement, et sous réserve des dispositions particulières relatives à
+la dissuasion, le chef d'état-major des armées, responsable de l'emploi des forces, assure le commandement des opérations
+militaires. 
+
+Il est le conseiller militaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 11 mai 2009 (V)
+	  - Arrêté du 16 février 2010 - art. 1 (Ab)
+	  - Arrêté du 3 septembre 2012 - art. 1 (Ab)
+	  - Arrêté du 20 mars 2015 - art. 1 (V)
+	  - Code de la défense. - art. R*3541-1 (V)
+	  - Code de la défense. - art. R*3551-1 (V)
+	  - Code de la défense. - art. R*3561-1 (V)
+	  - Code de la défense. - art. R*3571-1 (V)
+	  - Code de la défense. - art. R3541-3 (V)
+	  - Code de la défense. - art. R3551-3 (V)
+	  - Code de la défense. - art. R3561-3 (V)
+	  - Code de la défense. - art. R3571-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-2
+
+Sous l'autorité du ministre de la défense, le chef d'état-major des armées est responsable : 
+
+1° De l'organisation interarmées et de l'organisation générale des armées ; 
+
+2° De l'expression du besoin en matière de ressources humaines civiles et militaires des armées et des organismes
+interarmées. 
+
+Il participe à la définition de la politique des ressources humaines du ministère. 
+
+Au sein des armées et des organismes interarmées, il est responsable de la mise en œuvre de cette politique, de la condition
+militaire et du moral ; 
+
+3° De la définition du format d'ensemble des armées et de leur cohérence capacitaire. 
+
+A ce titre, il définit les besoins des armées et en contrôle la satisfaction. Il conduit les travaux de planification et de
+programmation ; 
+
+4° De la préparation et de la mise en condition d'emploi des armées. Il définit les objectifs de leur préparation et contrôle
+leur aptitude à remplir leurs missions. Il élabore les doctrines et concepts d'emploi des équipements et des forces ; 
+
+5° Du soutien des armées. Il en fixe l'organisation générale et les objectifs. Il assure le maintien en condition
+opérationnelle des équipements. 
+
+Il exprime le besoin en matière d'infrastructure interarmées et des armées et en vérifie la satisfaction ; 
+
+6° Du renseignement d'intérêt militaire. Il assure la direction générale de la recherche et de l'exploitation du
+renseignement militaire et a autorité sur la direction du renseignement militaire ; 
+
+7° Des relations internationales militaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 2 (VD)
+	  - Code de la défense. - art. D3121-14-1 (V)
+	  - Code de la défense. - art. D3121-24 (V)
+	  - Code de la défense. - art. R*3111-1 (V)
+
+
+###### Article R*3121-3
+
+Le chef d'état-major des armées a autorité sur les chefs d'état-major de l'armée de terre, de la marine et de l'armée de
+l'air.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-4
+
+Le chef d'état-major des armées a autorité sur les directeurs et les chefs des organismes et services interarmées qui lui
+sont rattachés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-5
+
+Le chef d'état-major des armées a autorité sur l'état-major des armées dont les attributions sont fixées par décret et
+l'organisation par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+##### Sous-section unique : Le chef d'état-major des armées
+
 ##### Section 2 : Le comité militaire des chefs d'état-major
 
 ###### Article R3121-18
@@ -44410,10 +44447,64 @@ Les attributions et les modalités de fonctionnement du comité sont fixées par
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-##### Section 3 : états-major de l'armée de terre, de la marine et de l'armée de l'air 
+##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air 
 
 
-##### Sous-section 1 : Attributions des chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air
+##### Sous-section 1 : Attributions des chefs d'état-major 
+
+###### Article R*3121-25
+
+Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air conseillent et assistent le chef d'état-major
+des armées au titre de l'expertise propre à leur armée. 
+
+Sous l'autorité du chef d'état-major des armées, ils assurent la préparation opérationnelle des forces placées sous leur
+propre autorité ; ils sont responsables, pour leur armée, du recrutement, de la formation initiale, de la discipline, du
+moral et de la condition des militaires. 
+
+Ils peuvent se voir confier par décret des responsabilités particulières en matière de maîtrise des risques liés à l'activité
+spécifique de leur armée et en matière de sûreté nucléaire. 
+
+Ils peuvent se voir confier par le chef d'état-major des armées des responsabilités, notamment pour le maintien en condition
+opérationnelle des équipements.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 21 février 2006 - art. 1 (Ab)
+	  - Arrêté du 22 août 2006 - art. 1 (Ab)
+	  - Arrêté du 7 mai 2007 - art. 1 (Ab)
+	  - Arrêté du 27 avril 2014 - art. 1 (V)
+	  - Arrêté du 27 avril 2014 - art. 1 (VD)
+	  - Code de la défense. - art. D3121-30 (V)
+	  - Code de la défense. - art. R*3541-1 (V)
+	  - Code de la défense. - art. R*3551-1 (V)
+	  - Code de la défense. - art. R*3561-1 (V)
+	  - Code de la défense. - art. R*3571-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-26
+
+Ils ont autorité sur l'état-major de leur armée dont les attributions sont fixées par décret et l'organisation par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3551-4 (V)
+	  - Code de la défense. - art. D3561-4 (V)
+	  - Code de la défense. - art. D3571-4 (V)
+	  - Code de la défense. - art. R*3541-1 (V)
+	  - Code de la défense. - art. R*3551-1 (V)
+
 
 ###### Article R3121-19
 
@@ -44544,58 +44635,7 @@ armées.
 	  - Arrêté du 20 mars 2015 - art. 2 (V)
 
 
-###### Article R3121-25
-
-Les chefs d'état-major de chaque armée disposent d'un état-major dont l'organisation est fixée par arrêté du ministre.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 21 février 2006 - art. 1 (Ab)
-	  - Arrêté du 22 août 2006 - art. 1 (Ab)
-	  - Arrêté du 7 mai 2007 - art. 1 (Ab)
-	  - Arrêté du 27 avril 2014 - art. 1 (V)
-	  - Arrêté du 27 avril 2014 - art. 1 (VD)
-	  - Code de la défense. - art. D3121-30 (V)
-	  - Code de la défense. - art. R*3541-1 (V)
-	  - Code de la défense. - art. R*3551-1 (V)
-	  - Code de la défense. - art. R*3561-1 (V)
-	  - Code de la défense. - art. R*3571-1 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
 ##### Sous-section 2 : Inspections des armées
-
-##### Paragraphe 1 : Inspection de l'armée de terre
-
-###### Article D3121-26
-
-Le chef d'état-major de l'armée de terre dispose de l'inspection de l'armée de terre, placée sous les ordres d'un officier
-général, qui porte le titre d'inspecteur de l'armée de terre.
-
-L'inspection de l'armée de terre est chargée de s'assurer de la mise en œuvre des directives fixées par le chef d'état-major
-de l'armée de terre et de remplir les missions d'inspection et les missions spécifiques que celui-ci peut lui confier.
-
-Les attributions et l'organisation de l'inspection de l'armée de terre sont précisées par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D3551-4 (V)
-	  - Code de la défense. - art. D3561-4 (V)
-	  - Code de la défense. - art. D3571-4 (V)
-	  - Code de la défense. - art. R*3541-1 (V)
-	  - Code de la défense. - art. R*3551-1 (V)
-
 
 ##### Paragraphe 2 : Inspecteurs de la marine
 
@@ -44629,6 +44669,13 @@ L'organisation et le fonctionnement des inspections de l'armée de l'air sont fi
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
+
+##### Section 3 : états-major de l'armée de terre, de la marine et de l'armée de l'air 
+
+
+##### Sous-section 1 : Attributions des chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air
+
+##### Sous-section 2 : Inspections des armées
 
 ##### Chapitre II : La direction générale de la gendarmerie nationale
 
@@ -60456,17 +60503,23 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles D
 
 ###### Article R*3541-1
 
-Sont applicables dans les îles Wallis et Futuna les articles R. * 3111-1, R. * 3311-1 à R. * 3311-3.
+Sont applicables dans les îles Wallis et Futuna les articles R. * 3111-1 à R. * 3111-3, 
+R. * 3121-1 à R. * 3121-5,
+R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cite**:
 
+	  - Code de la défense. - art. D3121-26 (V)
 	  - Code de la défense. - art. R*3111-1 (V)
+	  - Code de la défense. - art. R*3121-1 (V)
+	  - Code de la défense. - art. R*3311-1 (V)
+	  - Code de la défense. - art. R3121-25 (V)
 
 
 ###### Article R3541-2
@@ -60491,10 +60544,11 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 
 Sont applicables dans les îles Wallis et Futuna : 
 
-1° Dans le livre Ier, les dispositions des articles R. 3121-1 à R. 3121-25, R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
+1° Dans le livre Ier, les dispositions des articles R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
 
-2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, R. 3223-1 à R. 3223-6, R.
-3223-46 à R. 3223-50, R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
+2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, R. 3223-1 à R. 3223-6, 
+R. 3223-46 à R. 3223-50, 
+R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
 
 3° Dans le livre III, les dispositions des articles R. 3321-1 à R. 3323-1 ; 
 
@@ -60502,9 +60556,9 @@ Sont applicables dans les îles Wallis et Futuna :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cité par**:
 
@@ -60512,16 +60566,16 @@ Sont applicables dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3121-1 (V)
-	  - Code de la défense. - art. R3127-1 (V)
-	  - Code de la défense. - art. R3222-1 (V)
-	  - Code de la défense. - art. R3222-13 (V)
-	  - Code de la défense. - art. R3223-1 (V)
-	  - Code de la défense. - art. R3223-46 (V)
-	  - Code de la défense. - art. R3223-56 (V)
-	  - Code de la défense. - art. R3225-1 (V)
-	  - Code de la défense. - art. R3321-1 (V)
-	  - Code de la défense. - art. R3411-1 (V)
+	  - Code de la défense. - art. R3125-1
+	  - Code de la défense. - art. R3127-1
+	  - Code de la défense. - art. R3222-1
+	  - Code de la défense. - art. R3222-13
+	  - Code de la défense. - art. R3223-1
+	  - Code de la défense. - art. R3223-46
+	  - Code de la défense. - art. R3223-56
+	  - Code de la défense. - art. R3225-1
+	  - Code de la défense. - art. R3321-1
+	  - Code de la défense. - art. R3411-1
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE
@@ -60554,17 +60608,22 @@ Sont applicables en Polynésie française les dispositions des articles D. 3121-
 
 ###### Article R*3551-1
 
-Sont applicables en Polynésie française les articles R. * 3111-1, R. * 3311-1 à R. * 3311-3.
+Sont applicables en Polynésie française les articles R. * 3111-1 à R. * 3111-3, 
+R. * 3121-1 à R. * 3121-5, R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cite**:
 
+	  - Code de la défense. - art. D3121-26 (V)
 	  - Code de la défense. - art. R*3111-1 (V)
+	  - Code de la défense. - art. R*3121-1 (V)
+	  - Code de la défense. - art. R*3311-1 (V)
+	  - Code de la défense. - art. R3121-25 (V)
 
 
 ###### Article R3551-2
@@ -60589,7 +60648,7 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 
 Sont applicables en Polynésie française : 
 
-1° Dans le livre Ier, les dispositions des articles R. 3121-1 à R. 3121-25, R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
+1° Dans le livre Ier, les dispositions des articles R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
 
 2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, R. 3223-1 à R. 3223-6, R.
 3223-46 à R. 3223-50, R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
@@ -60600,9 +60659,9 @@ Sont applicables en Polynésie française :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cité par**:
 
@@ -60610,17 +60669,16 @@ Sont applicables en Polynésie française :
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3121-1 (V)
-	  - Code de la défense. - art. R3125-1 (V)
-	  - Code de la défense. - art. R3127-1 (V)
-	  - Code de la défense. - art. R3222-1 (V)
-	  - Code de la défense. - art. R3222-13 (V)
-	  - Code de la défense. - art. R3223-1 (V)
-	  - Code de la défense. - art. R3223-46 (V)
-	  - Code de la défense. - art. R3223-56 (V)
-	  - Code de la défense. - art. R3225-1 (V)
-	  - Code de la défense. - art. R3321-1 (V)
-	  - Code de la défense. - art. R3411-1 (V)
+	  - Code de la défense. - art. R3125-1
+	  - Code de la défense. - art. R3127-1
+	  - Code de la défense. - art. R3222-1
+	  - Code de la défense. - art. R3222-13
+	  - Code de la défense. - art. R3223-1
+	  - Code de la défense. - art. R3223-46
+	  - Code de la défense. - art. R3223-56
+	  - Code de la défense. - art. R3225-1
+	  - Code de la défense. - art. R3321-1
+	  - Code de la défense. - art. R3411-1
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE
@@ -60653,18 +60711,21 @@ Sont applicables en Nouvelle-Calédonie les dispositions des D. 3121-26 à D. 31
 
 ###### Article R*3561-1
 
-Sont applicables en Nouvelle-Calédonie les articles R. * 3111-1, R. * 3311-1 à R. * 3311-3.
+Sont applicables en Nouvelle-Calédonie les articles R. * 3111-1 à R. * 3111-3, R. * 3121-1 à R. * 3121-5, R. * 3121-25, R. *
+3121-26, R. * 3311-1 à R. * 3311-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*3111-1 (V)
-	  - Code de la défense. - art. R*3311-1 (V)
+	  - Code de la défense. - art. R*3111-1
+	  - Code de la défense. - art. R*3121-1
+	  - Code de la défense. - art. R*3311-1
+	  - Code de la défense. - art. R3121-25
 
 
 ###### Article R3561-2
@@ -60689,7 +60750,7 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 
 Sont applicables en Nouvelle-Calédonie : 
 
-1° Dans le livre Ier, les dispositions des articles R. 3121-1 à R. 3121-25, R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
+1° Dans le livre Ier, les dispositions des articles R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
 
 2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, R. 3223-1 à R. 3223-6, R.
 3223-46 à R. 3223-50, R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
@@ -60700,9 +60761,9 @@ Sont applicables en Nouvelle-Calédonie :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cité par**:
 
@@ -60710,17 +60771,16 @@ Sont applicables en Nouvelle-Calédonie :
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3121-1 (V)
-	  - Code de la défense. - art. R3125-1 (V)
-	  - Code de la défense. - art. R3127-1 (V)
-	  - Code de la défense. - art. R3222-1 (V)
-	  - Code de la défense. - art. R3222-13 (V)
-	  - Code de la défense. - art. R3223-1 (V)
-	  - Code de la défense. - art. R3223-46 (V)
-	  - Code de la défense. - art. R3223-56 (V)
-	  - Code de la défense. - art. R3225-1 (V)
-	  - Code de la défense. - art. R3321-1 (V)
-	  - Code de la défense. - art. R3411-1 (V)
+	  - Code de la défense. - art. R3125-1
+	  - Code de la défense. - art. R3127-1
+	  - Code de la défense. - art. R3222-1
+	  - Code de la défense. - art. R3222-13
+	  - Code de la défense. - art. R3223-1
+	  - Code de la défense. - art. R3223-46
+	  - Code de la défense. - art. R3223-56
+	  - Code de la défense. - art. R3225-1
+	  - Code de la défense. - art. R3321-1
+	  - Code de la défense. - art. R3411-1
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES
@@ -60755,18 +60815,23 @@ publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des art
 ###### Article R*3571-1
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les articles R. * 3111-1, R. * 3311-1 à R. * 3311-3.
+publié par le décret n° 61-1300 du 30 novembre 1961, les articles R. * 3111-1 à R. * 3111-3, 
+R. * 3121-1 à R. * 3121-5, 
+R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. R*3111-1 (V)
-	  - Code de la défense. - art. R*3311-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. R*3111-1
+	  - Code de la défense. - art. R*3121-1
+	  - Code de la défense. - art. R*3311-1
+	  - Code de la défense. - art. R3121-25
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 
 ###### Article R3571-2
@@ -60792,10 +60857,10 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961 : 
 
-1° Dans le livre Ier, les dispositions des articles R. 3121-1 à R. 3121-25, R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
+1° Dans le livre Ier, les dispositions des articles R. 3125-1 à R. 3125-28, R. 3127-1 à R. 3127-7 ; 
 
-2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, R. 3223-1 à R. 3223-6, R.
-3223-46 à R. 3223-50, R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
+2° Dans le livre II, les dispositions des articles R. 3222-1 à R. 3222-10, R. 3222-13 à R. 3222-18, 
+R. 3223-1 à R. 3223-6, R. 3223-46 à R. 3223-50, R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ; 
 
 3° Dans le livre III, les dispositions des articles R. 3321-1 à R. 3323-1 ; 
 
@@ -60803,27 +60868,27 @@ publié par le décret n° 61-1300 du 30 novembre 1961 :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. R3125-1
+	  - Code de la défense. - art. R3127-1
+	  - Code de la défense. - art. R3222-1
+	  - Code de la défense. - art. R3222-13
+	  - Code de la défense. - art. R3223-1
+	  - Code de la défense. - art. R3223-46
+	  - Code de la défense. - art. R3223-56
+	  - Code de la défense. - art. R3225-1
+	  - Code de la défense. - art. R3321-1
+	  - Code de la défense. - art. R3411-1
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2017-909 du 9 mai 2017 - art. 32
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3121-1 (V)
-	  - Code de la défense. - art. R3125-1 (V)
-	  - Code de la défense. - art. R3127-1 (V)
-	  - Code de la défense. - art. R3222-1 (V)
-	  - Code de la défense. - art. R3222-13 (V)
-	  - Code de la défense. - art. R3223-1 (V)
-	  - Code de la défense. - art. R3223-46 (V)
-	  - Code de la défense. - art. R3223-56 (V)
-	  - Code de la défense. - art. R3225-1 (V)
-	  - Code de la défense. - art. R3321-1 (V)
-	  - Code de la défense. - art. R3411-1 (V)
 
 
 #### TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-07-17
+Version Consolidée au 2009-07-31
 
 # Partie législative
 
@@ -44069,7 +44069,119 @@ notamment en matière budgétaire, financière, juridique, patrimoniale, immobil
 
 ##### Chapitre Ier : Les états-majors
 
-##### Section 1 : Etat major des armées
+##### Section 1 :  Responsabilités générales du chef d'état-major des armées
+
+###### Article R*3121-1
+
+Sous l'autorité du Président de la République et du Gouvernement, et sous réserve des dispositions particulières relatives à
+la dissuasion, le chef d'état-major des armées, responsable de l'emploi des forces, assure le commandement des opérations
+militaires. 
+
+Il est le conseiller militaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 11 mai 2009 (V)
+	  - Arrêté du 16 février 2010 - art. 1 (Ab)
+	  - Arrêté du 3 septembre 2012 - art. 1 (Ab)
+	  - Arrêté du 20 mars 2015 - art. 1 (V)
+	  - Code de la défense. - art. R*3541-1 (V)
+	  - Code de la défense. - art. R*3551-1 (V)
+	  - Code de la défense. - art. R*3561-1 (V)
+	  - Code de la défense. - art. R*3571-1 (V)
+	  - Code de la défense. - art. R3541-3 (V)
+	  - Code de la défense. - art. R3551-3 (V)
+	  - Code de la défense. - art. R3561-3 (V)
+	  - Code de la défense. - art. R3571-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-2
+
+Sous l'autorité du ministre de la défense, le chef d'état-major des armées est responsable : 
+
+1° De l'organisation interarmées et de l'organisation générale des armées ; 
+
+2° De l'expression du besoin en matière de ressources humaines civiles et militaires des armées et des organismes
+interarmées. 
+
+Il participe à la définition de la politique des ressources humaines du ministère. 
+
+Au sein des armées et des organismes interarmées, il est responsable de la mise en œuvre de cette politique, de la condition
+militaire et du moral ; 
+
+3° De la définition du format d'ensemble des armées et de leur cohérence capacitaire. 
+
+A ce titre, il définit les besoins des armées et en contrôle la satisfaction. Il conduit les travaux de planification et de
+programmation ; 
+
+4° De la préparation et de la mise en condition d'emploi des armées. Il définit les objectifs de leur préparation et contrôle
+leur aptitude à remplir leurs missions. Il élabore les doctrines et concepts d'emploi des équipements et des forces ; 
+
+5° Du soutien des armées. Il en fixe l'organisation générale et les objectifs. Il assure le maintien en condition
+opérationnelle des équipements. 
+
+Il exprime le besoin en matière d'infrastructure interarmées et des armées et en vérifie la satisfaction ; 
+
+6° Du renseignement d'intérêt militaire. Il assure la direction générale de la recherche et de l'exploitation du
+renseignement militaire et a autorité sur la direction du renseignement militaire ; 
+
+7° Des relations internationales militaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 2 (VD)
+	  - Code de la défense. - art. D3121-14-1 (V)
+	  - Code de la défense. - art. D3121-24 (V)
+	  - Code de la défense. - art. R*3111-1 (V)
+
+
+###### Article R*3121-3
+
+Le chef d'état-major des armées a autorité sur les chefs d'état-major de l'armée de terre, de la marine et de l'armée de
+l'air.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-4
+
+Le chef d'état-major des armées a autorité sur les directeurs et les chefs des organismes et services interarmées qui lui
+sont rattachés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
+
+###### Article R*3121-5
+
+Le chef d'état-major des armées a autorité sur l'état-major des armées dont les attributions sont fixées par décret et
+l'organisation par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+
 
 ##### Sous-section unique : Le chef d'état-major des armées
 
@@ -44308,122 +44420,6 @@ armées dont l'organisation est fixée par arrêté du ministre de la défense.
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
-
-##### Section 1 :  Responsabilités générales du chef d'état-major des armées
-
-###### Article R*3121-1
-
-Sous l'autorité du Président de la République et du Gouvernement, et sous réserve des dispositions particulières relatives à
-la dissuasion, le chef d'état-major des armées, responsable de l'emploi des forces, assure le commandement des opérations
-militaires. 
-
-Il est le conseiller militaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 11 mai 2009 (V)
-	  - Arrêté du 16 février 2010 - art. 1 (Ab)
-	  - Arrêté du 3 septembre 2012 - art. 1 (Ab)
-	  - Arrêté du 20 mars 2015 - art. 1 (V)
-	  - Code de la défense. - art. R*3541-1 (V)
-	  - Code de la défense. - art. R*3551-1 (V)
-	  - Code de la défense. - art. R*3561-1 (V)
-	  - Code de la défense. - art. R*3571-1 (V)
-	  - Code de la défense. - art. R3541-3 (V)
-	  - Code de la défense. - art. R3551-3 (V)
-	  - Code de la défense. - art. R3561-3 (V)
-	  - Code de la défense. - art. R3571-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
-
-
-###### Article R*3121-2
-
-Sous l'autorité du ministre de la défense, le chef d'état-major des armées est responsable : 
-
-1° De l'organisation interarmées et de l'organisation générale des armées ; 
-
-2° De l'expression du besoin en matière de ressources humaines civiles et militaires des armées et des organismes
-interarmées. 
-
-Il participe à la définition de la politique des ressources humaines du ministère. 
-
-Au sein des armées et des organismes interarmées, il est responsable de la mise en œuvre de cette politique, de la condition
-militaire et du moral ; 
-
-3° De la définition du format d'ensemble des armées et de leur cohérence capacitaire. 
-
-A ce titre, il définit les besoins des armées et en contrôle la satisfaction. Il conduit les travaux de planification et de
-programmation ; 
-
-4° De la préparation et de la mise en condition d'emploi des armées. Il définit les objectifs de leur préparation et contrôle
-leur aptitude à remplir leurs missions. Il élabore les doctrines et concepts d'emploi des équipements et des forces ; 
-
-5° Du soutien des armées. Il en fixe l'organisation générale et les objectifs. Il assure le maintien en condition
-opérationnelle des équipements. 
-
-Il exprime le besoin en matière d'infrastructure interarmées et des armées et en vérifie la satisfaction ; 
-
-6° Du renseignement d'intérêt militaire. Il assure la direction générale de la recherche et de l'exploitation du
-renseignement militaire et a autorité sur la direction du renseignement militaire ; 
-
-7° Des relations internationales militaires.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 2 (VD)
-	  - Code de la défense. - art. D3121-14-1 (V)
-	  - Code de la défense. - art. D3121-24 (V)
-	  - Code de la défense. - art. R*3111-1 (V)
-
-
-###### Article R*3121-3
-
-Le chef d'état-major des armées a autorité sur les chefs d'état-major de l'armée de terre, de la marine et de l'armée de
-l'air.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
-
-
-###### Article R*3121-4
-
-Le chef d'état-major des armées a autorité sur les directeurs et les chefs des organismes et services interarmées qui lui
-sont rattachés.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
-
-
-###### Article R*3121-5
-
-Le chef d'état-major des armées a autorité sur l'état-major des armées dont les attributions sont fixées par décret et
-l'organisation par arrêté.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
-
-
-##### Sous-section unique : Le chef d'état-major des armées
 
 ##### Section 2 : Le comité militaire des chefs d'état-major
 
@@ -44669,13 +44665,6 @@ L'organisation et le fonctionnement des inspections de l'armée de l'air sont fi
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
-
-##### Section 3 : états-major de l'armée de terre, de la marine et de l'armée de l'air 
-
-
-##### Sous-section 1 : Attributions des chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air
-
-##### Sous-section 2 : Inspections des armées
 
 ##### Chapitre II : La direction générale de la gendarmerie nationale
 
@@ -64267,21 +64256,25 @@ Dans les autres domaines, les aspirants sont soumis aux dispositions applicables
 
 ###### Article R4131-8
 
-Les jeunes gens ayant souscrit un contrat d'engagement en vue de servir en qualité d'officier sous contrat ainsi que les
-sous-officiers de carrière, sous réserve qu'ils aient démissionné, les sous-officiers engagés et les volontaires dans les
-armées peuvent être nommés aspirants après avoir satisfait à un cycle de formation donnant accès à ce grade.
+Les élèves officiers de carrière sont nommés aspirant : 
+
+1° Dès leur admission dans les écoles militaires d'élèves officiers de carrière ou les écoles de formation spécialisées, sauf
+les officiers sous contrat qui conservent leur grade lors de leur entrée en école ; 
+
+2° Dès leur admission dans les écoles du service de santé des armées pour les élèves vétérinaires, dès leur admission en
+deuxième année des études universitaires pour les élèves médecins, pharmaciens, et chirurgiens-dentistes.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°2008-937 du 12 septembre 2008 - art. 1 (VD)
 	  - Décret n°2008-961 du 12 septembre 2008 - art. 21 (VD)
 	  - Code de la défense. - art. R4131-10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 3
 
 
 ###### Article R4131-9
@@ -64320,18 +64313,14 @@ ministre de la défense, selon la procédure de l'article L. 4134-2.
 
 ###### Article R4131-11
 
-Les élèves de l'Ecole polytechnique sont nommés aspirants dans les conditions prévues à l'article 4 de la loi n° 70-631 du 15
-juillet 1970 relative à l'Ecole polytechnique.
+Les élèves français de l'Ecole polytechnique sont nommés aspirant dès leur admission à l'Ecole polytechnique, par arrêté du
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°70-631 du 15 juillet 1970 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2008-948 du 12 septembre 2008 - art. 6
 
 
 ###### Article R4131-12

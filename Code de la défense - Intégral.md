@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-07-31
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -13,22 +13,22 @@ Version Consolidée au 2009-07-31
 
 ###### Article L1111-1
 
-La défense a pour objet d'assurer en tout temps, en toutes circonstances et contre toutes les formes d'agression, la sécurité
-et l'intégrité du territoire, ainsi que la vie de la population.
+La stratégie de sécurité nationale a pour objet d'identifier l'ensemble des menaces et des risques susceptibles d'affecter la
+vie de la Nation, notamment en ce qui concerne la protection de la population, l'intégrité du territoire et la permanence des
+institutions de la République, et de déterminer les réponses que les pouvoirs publics doivent y apporter. 
 
-Elle pourvoit de même au respect des alliances, traités et accords internationaux.
+L'ensemble des politiques publiques concourt à la sécurité nationale. 
+
+La politique de défense a pour objet d'assurer l'intégrité du territoire et la protection de la population contre les
+agressions armées. Elle contribue à la lutte contre les autres menaces susceptibles de mettre en cause la sécurité nationale.
+Elle pourvoit au respect des alliances, des traités et des accords internationaux et participe, dans le cadre des traités
+européens en vigueur, à la politique européenne de sécurité et de défense commune.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 1er, alinéas 1 et 2
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -43,6 +43,10 @@ Elle pourvoit de même au respect des alliances, traités et accords internation
 	  - Code de la sécurité intérieure - art. R732-19 (VD)
 	  - Code des marchés publics - art. 176 (VT)
 	  - Code des marchés publics - art. 4 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 ###### Article L1111-2
@@ -164,28 +168,31 @@ l'article L. 2141-3.
 
 ###### Article L1111-3
 
-La politique de la défense est définie en conseil des ministres.
+La politique de défense est définie en conseil des ministres. 
 
-Les décisions en matière de direction générale de la défense sont arrêtées en conseil de défense.
+Les décisions en matière de direction générale de la défense et de direction politique et stratégique de la réponse aux
+crises majeures sont arrêtées en conseil de défense et de sécurité nationale. 
 
-Les décisions en matière de direction militaire de la défense sont arrêtées en conseil de défense restreint.
+Les décisions en matière de direction militaire de la défense sont arrêtées en conseil de défense et de sécurité nationale
+restreint. 
 
 Les décisions en matière de direction militaire de la défense visent en particulier la définition des buts à atteindre,
 l'approbation des plans correspondants, la répartition générale des forces entre les commandants en chef ou interarmées et
 les mesures destinées à pourvoir aux besoins des forces.
 
+Les orientations en matière de renseignement sont arrêtées en Conseil national du renseignement, formation spécialisée du
+conseil de défense et de sécurité nationale.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 7, art. 11, alinéa 3
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 11 (Ab)
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -217,43 +224,17 @@ ministres dans l'ordre indiqué par le décret portant composition du Gouverneme
 
 ###### Article L1121-1
 
-Le conseil de défense est présidé par le Président de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 10, alinéa 1
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*1131-1 (VD)
-
-
-###### Article L1121-2
-
-Le conseil de défense restreint est présidé par le Président de la République, qui peut se faire suppléer par le Premier
+Le conseil de défense et de sécurité nationale, de même que ses formations restreintes ou spécialisées, notamment le Conseil
+national du renseignement, sont présidés par le Président de la République, qui peut se faire suppléer par le Premier
 ministre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 11, alinéa 1
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 11 (Ab)
+	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 10 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
@@ -266,14 +247,14 @@ ministre.
 
 ###### Article L1122-1
 
-La composition et les modalités de convocation du conseil de défense sont fixées par décret en conseil des ministres.
+La composition et les modalités de convocation du  conseil de défense et de sécurité nationale sont fixées par décret en
+conseil des ministres.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 #### TITRE III : LE PREMIER MINISTRE
@@ -282,10 +263,15 @@ La composition et les modalités de convocation du conseil de défense sont fix�
 
 ###### Article L1131-1
 
+Le Premier ministre dirige l'action du Gouvernement en matière de sécurité nationale.
+
 Le Premier ministre responsable de la défense nationale exerce la direction générale et la direction militaire de la défense.
 A ce titre, il formule les directives générales pour les négociations concernant la défense et suit le développement de ces
 négociations. Il décide de la préparation et de la conduite supérieure des opérations et assure la coordination de l'activité
 en matière de défense de l'ensemble des départements ministériels.
+
+Le Premier ministre prépare et coordonne l'action des pouvoirs publics en cas de crise majeure. Il coordonne l'action
+gouvernementale en matière d'intelligence économique.
 
 **Liens relatifs à cet article**
 
@@ -293,10 +279,9 @@ en matière de défense de l'ensemble des départements ministériels.
 
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -309,20 +294,14 @@ en matière de défense de l'ensemble des départements ministériels.
 
 ###### Article L1141-1
 
-Chaque ministre est responsable de la préparation et de l'exécution des mesures de la défense incombant au département dont
-il a la charge.
+Chaque ministre est responsable, sous l'autorité du Premier ministre, de la préparation et de l'exécution des mesures de
+défense et de sécurité nationale incombant au département dont il a la charge.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 15, alinéa 1
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -336,6 +315,10 @@ il a la charge.
 	  - Code de la défense. - art. R*1336-1 (V)
 	  - Code de la défense. - art. R*1336-12 (V)
 	  - Code des transports - art. L1253-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 ###### Article L1141-2
@@ -517,22 +500,32 @@ ou, à défaut, par une commission spéciale d'évaluation instituée conformém
 
 ###### Article L1142-1
 
-Le ministre de la défense est responsable, sous l'autorité du Premier ministre, de l'exécution de la politique militaire et
-en particulier de l'organisation, de la gestion, de la mise en condition d'emploi et de la mobilisation de l'ensemble des
-forces ainsi que de l'infrastructure militaire qui leur est nécessaire. 
+Le ministre de la défense est responsable de la préparation et de la mise en œuvre de la politique de défense. Il est en
+particulier chargé de l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en condition d'emploi et
+de la mobilisation des forces armées. 
 
-Il assiste le Premier ministre en ce qui concerne leur mise en oeuvre. 
+Il a autorité sur les armées et leurs services. Il veille à ce que les armées disposent des moyens nécessaires à leur
+entretien, leur équipement et leur entraînement. Il est responsable de leur sécurité. 
 
-Il a autorité sur l'ensemble des forces et services des armées et est responsable de leur sécurité. 
+Il est également chargé :
 
-Dès la mise en garde définie à l'article L. 2141-1, le ministre de la défense dispose en matière de communications,
-transports, télécommunications et répartition des ressources générales des priorités correspondant aux besoins des armées.
+- de la prospective de défense ;
+
+- du renseignement extérieur et du renseignement d'intérêt militaire ;
+
+- de l'anticipation et du suivi des crises intéressant la défense ;
+
+- de la politique industrielle et de recherche et de la politique sociale propres au secteur de la défense. 
+
+Il contribue à l'élaboration et à la mise en œuvre de la politique d'exportation des équipements de défense. 
+
+En matière de communication, de transports, et pour la répartition des ressources générales, le ministre de la défense
+dispose, dès la mise en garde définie à l'article L. 2141-1, d'un droit de priorité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 16, alinéas 1, 2, 3 et 4
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 16 (Ab)
 
 	**Cité par**:
@@ -557,35 +550,50 @@ transports, télécommunications et répartition des ressources générales des 
 	  - Code de la défense. - art. R*1336-1 (V)
 	  - Code de la santé publique - art. R1338-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2141-1 (V)
+	  - Code de la défense. - art. L2141-1
 
 
 ##### Section 2 : Intérieur
 
 ###### Article L1142-2
 
-Le ministre de l'intérieur prépare en permanence et met en oeuvre la défense civile.
+Le ministre de l'intérieur est responsable de la préparation et de l'exécution des politiques de sécurité intérieure et de
+sécurité civile qui concourent à la défense et à la sécurité nationale et il est, à ce titre, sur le territoire de la
+République, responsable de l'ordre public, de la protection des personnes et des biens ainsi que de la sauvegarde des
+installations et ressources d'intérêt général. 
 
-Il est responsable à ce titre de l'ordre public, de la protection matérielle et morale des personnes et de la sauvegarde des
-installations et ressources d'intérêt général.
+A ce titre : 
 
-Il prépare, coordonne et contrôle l'exécution des mesures de défense civile incombant aux divers départements ministériels.
+1° Il est chargé de l'anticipation et du suivi des crises susceptibles d'affecter la sécurité intérieure et la sécurité
+civile ; 
 
-Son action se développe sur le territoire en liaison avec les autorités militaires et concourt au maintien de leur liberté
-d'action.
+2° Il contribue à la planification interministérielle en matière de sécurité nationale. Il prépare les plans à dominante
+d'ordre public, de protection et de sécurité civiles ; 
+
+3° Il assure la conduite opérationnelle des crises ; 
+
+4° Il s'assure de la transposition et de l'application de l'ensemble de la planification gouvernementale par les
+représentants de l'Etat dans les zones de défense et de sécurité, les départements et les collectivités d'outre-mer ; 
+
+5° Il est responsable du renseignement intérieur, sans préjudice des compétences des ministres chargés de l'économie et du
+budget. 
+
+En matière de sécurité économique, sous réserve des compétences du ministre de la défense dans le domaine de l'armement, le
+ministre de l'intérieur assure la protection du patrimoine matériel et immatériel de l'économie française. 
+
+Son action s'exerce sur le territoire en liaison avec les autorités militaires en s'appuyant sur le représentant de l'Etat
+dans les zones de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 17, alinéas 1, 2, 3 et 4
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 17 (Ab)
 
 	**Cité par**:
@@ -602,33 +610,33 @@ d'action.
 	  - Code de la défense. - art. R*1311-1 (V)
 	  - Code de la défense. - art. R1142-35 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
-##### Section 3 : Economie, finances et industrie.
+##### Section 3 : Economie et budget
 
 ###### Article L1142-3
 
-Le ministre chargé de l'économie oriente aux fins de la défense l'action des ministres responsables de la production, de la
-réunion et de l'utilisation des diverses catégories de ressources ainsi que de l'aménagement industriel du territoire.
+Le ministre chargé de l'économie est responsable de la préparation et de l'exécution de la politique de sécurité économique.
+Il prend les mesures de sa compétence garantissant la continuité de l'activité économique en cas de crise majeure et assure
+la protection des intérêts économiques de la Nation. 
 
-Son action s'étend à la répartition primaire des ressources mentionnées au premier alinéa, ainsi qu'à la fixation des prix et
-à l'organisation des opérations commerciales d'importations et d'exportations.
+Il oriente l'action des ministres responsables de la production, de l'approvisionnement et de l'utilisation des ressources
+nécessaires à la défense et à la sécurité nationale. 
+
+Conjointement avec le ministre chargé du budget, il assure la surveillance des flux financiers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 18, alinéas 1 et 3
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -638,77 +646,112 @@ Son action s'étend à la répartition primaire des ressources mentionnées au p
 
 ###### Article L1142-4
 
-Le ministre chargé des finances prépare dès le temps de paix et arrête dans les cas prévus à l'article L. 1111-2 les mesures
-d'ordre financier que nécessite la conduite de la guerre. Il fixe les conditions des achats et des paiements à l'étranger, en
-accord avec les départements ministériels ou les organismes acheteurs et payeurs.
+Le ministre chargé du budget contribue à la défense et à la sécurité nationale, notamment par l'action des services placés
+sous son autorité en matière de contrôle douanier.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. L1111-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1938-07-11 art. 56
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 ###### Article L1142-5
 
-Des décrets en Conseil d'Etat définissent les modalités d'application des dispositions des articles L. 1141-1, L. 1141-2, L.
-1142-1, L. 1142-2 et L. 1142-3.
+Le ministre chargé de l'économie et le ministre chargé du budget arrêtent les mesures d'ordre financier que nécessite la
+conduite de la guerre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 20, ecqc art. 15 à 19
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1141-1 (V)
-	  - Code de la défense. - art. L1141-2 (V)
-	  - Code de la défense. - art. L1142-1 (V)
-	  - Code de la défense. - art. L1142-2 (V)
-	  - Code de la défense. - art. L1142-3 (V)
+	  - Code de la défense. - art. L1141-1
+	  - Code de la défense. - art. L1141-2
+	  - Code de la défense. - art. L1142-1
+	  - Code de la défense. - art. L1142-2
+	  - Code de la défense. - art. L1142-3
 
 
 ##### Section 4 : Affaires étrangères
 
 ###### Article L1142-6
 
-Le ministre des affaires étrangères, sous l'autorité du Premier ministre, continue d'exercer ses attributions en matière
-d'action à l'étranger dans les cas prévus à l'article L. 1111-2.
+Le ministre des affaires étrangères traduit, dans l'action diplomatique au niveau européen et au niveau international, les
+priorités de la stratégie de sécurité nationale et de la politique de défense. 
 
-Sous réserve des attributions des commandants des forces, des décrets en conseil des ministres décident des mesures générales
-à prendre, tant sur terre que sur mer et dans l'air, contre le commerce et les communications de l'ennemi. Il appartient aux
-départements ministériels intéressés d'en assurer l'exécution sous le contrôle du ministre des affaires étrangères.
+Il anime la coopération de défense et de sécurité. 
+
+Il coordonne la gestion des crises extérieures ainsi que la planification civile de celles-ci avec le concours de l'ensemble
+des ministères et des services de l'Etat concernés. 
+
+Il continue d'exercer ses attributions en matière d'action à l'étranger dans les cas prévus à l'article L. 1111-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1938-07-11 art. 43, alinéas 1 et 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L1111-2
+
+
+##### Section 5 : Justice
+
+###### Article L1142-7
+
+Le ministre de la justice assure en toutes circonstances la continuité de l'activité pénale ainsi que l'exécution des
+peines. 
+
+Il concourt, par la mise en œuvre de l'action publique et l'entraide judiciaire internationale, à la lutte contre les
+atteintes aux intérêts fondamentaux de la Nation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
+
+
+##### Section 6 : Autres ministres
+
+###### Article L1142-8
+
+Le ministre chargé de la santé est responsable de l'organisation et de la préparation du système de santé et des moyens
+sanitaires nécessaires à la connaissance des menaces sanitaires graves, à leur prévention, à la protection de la population
+contre ces dernières, ainsi qu'à la prise en charge des victimes. 
+
+Il contribue à la planification interministérielle en matière de défense et de sécurité nationale en ce qui concerne son
+volet sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
+
+
+###### Article L1142-9
+
+Les ministres chargés de l'environnement, des transports, de l'énergie et de l'industrie sont responsables, chacun en ce qui
+le concerne, en matière de maîtrise des risques naturels et technologiques, de transports, de production et
+d'approvisionnements énergétiques ainsi que d'infrastructures, de la satisfaction des besoins de la défense et de la sécurité
+nationale et, en toutes circonstances, de la continuité des services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 ### LIVRE II : ORGANISATION TERRITORIALE ET OPÉRATIONNELLE DE LA DÉFENSE
@@ -861,16 +904,16 @@ civiles sans une réquisition légale.
 
 Le ministre de l'intérieur reçoit du ministre de la défense, pour le développement et la mise en oeuvre de ses moyens, le
 soutien des services et de l'infrastructure des armées et, notamment pour le maintien de l'ordre public, l'appui éventuel de
-forces militaires.
+forces militaires. 
 
 Dans les zones où se développent des opérations militaires et sur décision du Gouvernement, le commandement militaire désigné
 à cet effet devient responsable de l'ordre public et exerce la coordination des mesures de défense civile avec les opérations
-militaires.
+militaires. 
 
 En cas de menace portant sur une ou plusieurs installations prioritaires de défense, le commandement militaire désigné à cet
 effet peut être chargé, par décret en conseil des ministres, de la responsabilité de l'ordre public et de la coordination des
 mesures de défense civile avec les mesures militaires de défense à l'intérieur du ou des secteurs de sécurité délimités
-autour de ces installations par le Président de la République en conseil de défense.
+autour de ces installations par le Président de la République en  conseil de défense et de sécurité nationale. 
 
 Des décrets en Conseil d'Etat définissent les modalités d'application des dispositions du présent article.
 
@@ -878,14 +921,8 @@ Des décrets en Conseil d'Etat définissent les modalités d'application des dis
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 17, alinéas 5, 6 et 7, art. 20, ecqc art. 17
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 17 (Ab)
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -902,6 +939,10 @@ Des décrets en Conseil d'Etat définissent les modalités d'application des dis
 	  - Code de la sécurité intérieure - art. L234-3 (V)
 	  - Code de la sécurité intérieure - art. R732-28 (VD)
 	  - Code général des collectivités territoriales - art. R2513-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
 
 
 ##### Chapitre II : Protection contre les menaces aériennes
@@ -1670,18 +1711,13 @@ Le Gouvernement fait un rapport annuel au Parlement sur l'application des dispos
 
 Les infractions aux dispositions du présent chapitre et aux dispositions réglementaires afférentes sont constatées par les
 officiers et agents de police judiciaire, les agents des services des douanes, les agents de la répression des fraudes, le
-haut fonctionnaire de défense placé auprès du ministre de l'industrie, les agents en charge de la métrologie légale.
+haut fonctionnaire de défense placé auprès du    ministre chargé de l'énergie, les agents en charge de la métrologie légale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°80-572 du 25 juillet 1980 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 15
 
 	**Cité par**:
 
@@ -6351,20 +6387,23 @@ classification ne relèvent pas des seules autorités françaises.
 L'avis de la Commission consultative du secret de la défense nationale est rendu à la suite de la demande d'une juridiction
 française.
 
+Le président de la Commission consultative du secret de la défense nationale, ou son représentant, membre de la commission,
+est chargé de donner, à la suite d'une demande d'un magistrat, un avis sur la déclassification temporaire aux fins de
+perquisition de lieux ayant fait l'objet d'une classification.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°98-567 du 8 juillet 1998 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
 
 	**Cite**:
 
-	  - Code pénal - art. 413-9 (V)
+	  - Code pénal - art. 413-9
 
 
 ###### Article L2312-2
@@ -6435,11 +6474,16 @@ Le président est ordonnateur des dépenses de la commission. Il nomme les agent
 
 Une juridiction française dans le cadre d'une procédure engagée devant elle peut demander la déclassification et la
 communication d'informations, protégées au titre du secret de la défense nationale, à l'autorité administrative en charge de
-la classification.
+la classification. 
 
 Cette demande est motivée.
 
-L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale.
+L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale. 
+
+Un magistrat, dans le cadre d'une procédure engagée devant lui, peut demander la déclassification temporaire aux fins de
+perquisition de lieux protégés au titre du secret de la défense nationale au président de la commission. Celui-ci est saisi
+et fait connaître son avis à l'autorité administrative en charge de la classification dans les conditions prévues par
+l'article 56-4 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -6447,10 +6491,9 @@ L'autorité administrative saisit sans délai la Commission consultative du secr
 
 	  - Loi n°98-567 du 8 juillet 1998 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
 
 	**Cité par**:
 
@@ -6465,10 +6508,16 @@ L'autorité administrative saisit sans délai la Commission consultative du secr
 
 Le président de la commission peut mener toutes investigations utiles. 
 
-Les membres de la commission sont autorisés à connaître de toute information classifiée dans le cadre de leur mission. 
+Les membres de la commission sont autorisés à connaître de toute information classifiée et d'accéder à tout lieu classifié
+dans le cadre de leur mission. 
 
 Ils sont astreints au respect du secret de la défense nationale protégé en application des articles 413-9 et suivants du code
 pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance à raison de leurs fonctions. 
+
+Pour l'accomplissement de sa mission, la commission, ou sur délégation de celle-ci son président, est habilitée, nonobstant
+les dispositions des articles 56 et 97 du code de procédure pénale, à procéder à l'ouverture des scellés des éléments
+classifiés qui lui sont remis. La commission en fait mention dans son procès-verbal de séance. Les documents sont restitués à
+l'autorité administrative par la commission lors de la transmission de son avis. 
 
 La commission établit son règlement intérieur.
 
@@ -6478,14 +6527,14 @@ La commission établit son règlement intérieur.
 
 	  - Loi n°98-567 du 8 juillet 1998 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
 
 	**Cite**:
 
-	  - Code pénal - art. 413-9 (V)
+	  - Code pénal - art. 413-9
+	  - Code de procédure pénale - art. 56
 
 
 ###### Article L2312-6
@@ -6533,6 +6582,33 @@ L'avis de la commission est transmis à l'autorité administrative ayant procéd
 
 	  - Code de la défense. - art. L2312-7-1 (VT)
 	  - Code de la défense. - art. L2312-8 (M)
+
+
+###### Article L2312-7-1
+
+L'avis du président de la Commission consultative du secret de la défense nationale sur la déclassification d'un lieu aux
+fins de perquisition, dont le sens peut être favorable, favorable à la déclassification partielle ou défavorable, prend en
+considération les éléments mentionnés au premier alinéa de l'article L. 2312-7.
+
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 2312-7-1 du code de la défense. La déclaration d'inconstitutionnalité prend effet le 1er
+décembre 2011 dans les conditions fixées au considérant 38.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
+
+	**Abrogé par**:
+
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2312-7
 
 
 ###### Article L2312-8
@@ -8925,6 +9001,24 @@ agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou
 	  - Code de la défense. - art. L2339-2 (V)
 	  - Code de la défense. - art. L2339-8 (V)
 
+
+#### TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS
+
+##### Chapitre Ier : Dispositions générales
+
+##### Chapitre II : Fabrication et commerce
+
+##### Chapitre III : Contrôle administratif des marchés relatifs aux matériels de guerre
+
+##### Chapitre V : Importations et exportations
+
+##### Chapitre VI : Acquisition et détention
+
+##### Chapitre VII : Conservation, perte et transfert de propriété
+
+##### Chapitre VIII : Port, transport et usage
+
+##### Chapitre IX : Dispositions pénales
 
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
 
@@ -17867,23 +17961,23 @@ L'âge maximal de maintien en première section est de soixante-cinq ans ;
         <table>
           <thead>
             <tr>
-              <th bgcolor="#efeff7" width="130" align="center">
+              <th align="center" bgcolor="#efeff7" width="130">
 
 </th>
-              <th bgcolor="#efeff7" align="center" width="65">
+              <th align="center" bgcolor="#efeff7" width="65">
 
 <font size="1">OFFICIERS subalternes ou dénomination correspondante</font>
 
 </th>
-              <th align="center" width="65" bgcolor="#efeff7">
+              <th width="65" bgcolor="#efeff7" align="center">
 
 <font size="1">COMMANDANT ou dénomination correspondante</font>
               </th>
-              <th align="center" width="65" bgcolor="#efeff7">
+              <th align="center" bgcolor="#efeff7" width="65">
 
 <font size="1">LIEUTENANT-COLONEL ou dénomination correspondante</font>
               </th>
-              <th bgcolor="#efeff7" width="65" align="center">
+              <th bgcolor="#efeff7" align="center" width="65">
 
 <font size="1">COLONEL ou dénomination correspondante</font>
               </th>
@@ -17899,7 +17993,7 @@ L'âge maximal de maintien en première section est de soixante-cinq ans ;
 
 Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
 officiers mécaniciens de l'air</td>
-              <td align="center" colspan="4">
+              <td colspan="4" align="center">
 
 57</td>
               <td align="center">
@@ -17927,7 +18021,7 @@ Officiers de l'air</td>
               <td colspan="2" align="center">
 
 50</td>
-              <td colspan="2" align="center">
+              <td align="center" colspan="2">
 
 54</td>
               <td align="center">
@@ -17939,7 +18033,7 @@ Officiers de l'air</td>
 
 Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs
 militaires des essences, administrateurs des affaires maritimes</td>
-              <td colspan="4" align="center">
+              <td align="center" colspan="4">
 
 60</td>
               <td align="center">
@@ -17972,8 +18066,8 @@ Militaires infirmiers et techniciens des hôpitaux des armées (officiers)</td>
               <td align="left">
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
-maritimes, professeurs de l'enseignement maritime</td>
-              <td colspan="4" align="center">
+maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense</td>
+              <td align="center" colspan="4">
 
 64</td>
               <td align="center">
@@ -17985,7 +18079,7 @@ maritimes, professeurs de l'enseignement maritime</td>
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
 sein de la trésorerie aux armées, aumôniers militaires</td>
-              <td align="center" colspan="4">
+              <td colspan="4" align="center">
 
 64</td>
               <td align="center">
@@ -18013,26 +18107,26 @@ demande agréée, être maintenus en service au-delà de la limite d'âge par p�
 <table>
     <thead>
       <tr>
-        <th bgcolor="#efeff7" width="130" align="center">
+        <th align="center" bgcolor="#efeff7" width="130">
 
 </th>
-        <th bgcolor="#efeff7" align="center" width="65">
+        <th align="center" bgcolor="#efeff7" width="65">
 
 <font size="1">SERGENT ou dénomination correspondante</font>
         </th>
-        <th align="center" bgcolor="#efeff7" width="65">
+        <th bgcolor="#efeff7" align="center" width="65">
 
 <font size="1">SERGENT-CHEF ou dénomination correspondante</font>
         </th>
-        <th bgcolor="#efeff7" width="65" align="center">
+        <th bgcolor="#efeff7" align="center" width="65">
 
 <font size="1">ADJUDANT ou dénomination correspondante</font>
         </th>
-        <th align="center" bgcolor="#efeff7" width="65">
+        <th bgcolor="#efeff7" width="65" align="center">
 
 <font size="1">ADJUDANT-CHEF ou dénomination correspondante</font>
         </th>
-        <th width="65" bgcolor="#efeff7" align="center">
+        <th align="center" bgcolor="#efeff7" width="65">
 
 <font size="1">MAJOR</font>
         </th>
@@ -18044,7 +18138,7 @@ demande agréée, être maintenus en service au-delà de la limite d'âge par p�
 
 Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant), corps de soutien technique
 et administratif de la gendarmerie nationale</td>
-        <td align="center" colspan="2">
+        <td colspan="2" align="center">
 
 45</td>
         <td align="center">
@@ -18061,7 +18155,7 @@ et administratif de la gendarmerie nationale</td>
         <td align="left">
 
 Sous-officiers de gendarmerie</td>
-        <td align="center" colspan="4">
+        <td colspan="4" align="center">
 
 56 (y compris le garde de gendarmerie)</td>
         <td align="center">
@@ -18072,10 +18166,10 @@ Sous-officiers de gendarmerie</td>
         <td align="left">
 
 Sous-officiers du personnel navigant de l'armée de l'air</td>
-        <td align="center" colspan="3">
+        <td colspan="3" align="center">
 
 45</td>
-        <td align="center" colspan="2">
+        <td colspan="2" align="center">
 
 50</td>
       </tr>
@@ -18084,7 +18178,7 @@ Sous-officiers du personnel navigant de l'armée de l'air</td>
 
 Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers
 mariniers de carrière des ports (marine)</td>
-        <td align="center" colspan="5">
+        <td colspan="5" align="center">
 
 57</td>
       </tr>
@@ -18106,7 +18200,7 @@ Fonctionnaires détachés au sein de la poste interarmées, fonctionnaires déta
 sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois armées), maîtres ouvriers (terre), maîtres
 ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière (air), commis greffiers et huissiers
 appariteurs</td>
-        <td colspan="5" align="center">
+        <td align="center" colspan="5">
 
 64</td>
       </tr>
@@ -18122,10 +18216,10 @@ les suivantes :
 <table>
     <thead>
       <tr>
-        <th align="center" bgcolor="#efeff7" width="234">
+        <th width="234" align="center" bgcolor="#efeff7">
 
 </th>
-        <th width="221" align="center" bgcolor="#efeff7">
+        <th align="center" width="221" bgcolor="#efeff7">
 
 <font size="1">LIMITE DE DURÉE DES SERVICES
 
@@ -18185,10 +18279,6 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 
 	  - Loi n°2005-270 du 24 mars 2005 - art. 90 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
-
 	**Cité par**:
 
 	  - Décret n°2008-946 du 12 septembre 2008 - art. 44 (VD)
@@ -18203,6 +18293,10 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 	  - Code de la défense. - art. R4141-3 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L242-6 (VD)
 	  - Code des pensions militaires d'invalidité et de... - art. L405 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2009-928 du 29 juillet 2009 - art. 18
 
 	**Cite**:
 
@@ -20212,6 +20306,8 @@ l'expropriation pour cause d'utilité publique.
 #### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE
 
 ##### Chapitre unique.
+
+##### Chapitre unique : Répression des infractions relatives aux servitudes militaires
 
 ###### Article L5121-1
 

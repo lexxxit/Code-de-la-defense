@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-07
 
 # Partie législative
 
@@ -502,7 +502,7 @@ ou, à défaut, par une commission spéciale d'évaluation instituée conformém
 
 Le ministre de la défense est responsable de la préparation et de la mise en œuvre de la politique de défense. Il est en
 particulier chargé de l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en condition d'emploi et
-de la mobilisation des forces armées. 
+de la mobilisation des forces armées, sous réserve des dispositions de l'article L. 3225-1. 
 
 Il a autorité sur les armées et leurs services. Il veille à ce que les armées disposent des moyens nécessaires à leur
 entretien, leur équipement et leur entraînement. Il est responsable de leur sécurité. 
@@ -552,11 +552,12 @@ dispose, dès la mise en garde définie à l'article L. 2141-1, d'un droit de pr
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
+	  - Loi n°2009-971 du 3 août 2009 - art. 1
 
 	**Cite**:
 
 	  - Code de la défense. - art. L2141-1
+	  - Code de la défense. - art. L3225-1 (V)
 
 
 ##### Section 2 : Intérieur
@@ -879,10 +880,20 @@ mesures nécessaires à l'exécution des plans de défense intérieure ou extér
 
 ###### Article L1321-1
 
-Aucune force militaire ne peut agir sur le territoire de la République pour les besoins de la défense et de la sécurité
-civiles sans une réquisition légale.
+Aucune force armée ne peut agir sur le territoire de la République pour les besoins de la défense et de la sécurité civiles
+sans une réquisition légale.
+
+Le premier alinéa n'est pas applicable à la gendarmerie nationale. Toutefois, lorsque le maintien de l'ordre public nécessite
+le recours à des moyens militaires spécifiques, leur utilisation est soumise à autorisation dans des conditions définies par
+décret en Conseil d'Etat.
+
+Les conditions d'usage des armes à feu pour le maintien de l'ordre public sont définies à l'article 431-3 du code pénal.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 4
 
 	**Cité par**:
 
@@ -890,14 +901,13 @@ civiles sans une réquisition légale.
 	  - Code de la défense. - art. L2338-3 (V)
 	  - Code pénal - art. 122-4-1 (Ab)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1791-09-14 art. 8
+	  - Code pénal - art. 431-3
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Code de la sécurité intérieure - art. L214-1 (VD)
 
 
 ###### Article L1321-2
@@ -6784,7 +6794,7 @@ titre III de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'écono
 	  - Code de la défense. - art. L2471-1 (V)
 
 
-#### TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS SOUMIS À AUTORISATION
+#### TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS
 
 ##### Chapitre Ier : Dispositions générales
 
@@ -9001,24 +9011,6 @@ agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou
 	  - Code de la défense. - art. L2339-2 (V)
 	  - Code de la défense. - art. L2339-8 (V)
 
-
-#### TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS
-
-##### Chapitre Ier : Dispositions générales
-
-##### Chapitre II : Fabrication et commerce
-
-##### Chapitre III : Contrôle administratif des marchés relatifs aux matériels de guerre
-
-##### Chapitre V : Importations et exportations
-
-##### Chapitre VI : Acquisition et détention
-
-##### Chapitre VII : Conservation, perte et transfert de propriété
-
-##### Chapitre VIII : Port, transport et usage
-
-##### Chapitre IX : Dispositions pénales
 
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
 
@@ -13489,20 +13481,15 @@ Les forces armées comprennent :
 Les forces armées de la République sont au service de la nation. La mission des armées est de préparer et d'assurer par la
 force des armes la défense de la patrie et des intérêts supérieurs de la nation.
 
-La gendarmerie a pour mission de veiller à la sûreté publique et d'assurer le maintien de l'ordre et l'exécution des lois.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-662 1972-07-13 art. 1 alinéa 1
 	  - Loi n°72-662 du 13 juillet 1972 - art. 1 (M)
-	  - Loi an VI-germinal-28 art. 1er
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2009-971 du 3 août 2009 - art. 1
 
 	**Cité par**:
 
@@ -13511,6 +13498,73 @@ La gendarmerie a pour mission de veiller à la sûreté publique et d'assurer le
 	  - Code de la défense. - art. L3551-1 (V)
 	  - Code de la défense. - art. L3561-1 (V)
 	  - Code de la défense. - art. L3571-1 (V)
+
+
+###### Article L3211-3
+
+La gendarmerie nationale est une force armée instituée pour veiller à l'exécution des lois.
+
+La police judiciaire constitue l'une de ses missions essentielles.
+
+La gendarmerie nationale est destinée à assurer la sécurité publique et l'ordre public, particulièrement dans les zones
+rurales et périurbaines, ainsi que sur les voies de communication.
+
+Elle contribue à la mission de renseignement et d'information des autorités publiques, à la lutte contre le terrorisme, ainsi
+qu'à la protection des populations.
+
+Elle participe à la défense de la patrie et des intérêts supérieurs de la nation, notamment au contrôle et à la sécurité des
+armements nucléaires.
+
+L'ensemble de ses missions, civiles et militaires, s'exécute sur toute l'étendue du territoire national, hors de celui-ci en
+application des engagements internationaux de la France, ainsi qu'aux armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L421-1 (VD)
+
+
+#### TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE
+
+##### Chapitre V : Organisation de la gendarmerie nationale
+
+###### Article L3225-1
+
+Sans préjudice des attributions de l'autorité judiciaire pour l'exercice de ses missions judiciaires, la gendarmerie
+nationale est placée sous l'autorité du ministre de l'intérieur, responsable de son organisation, de sa gestion, de sa mise
+en condition d'emploi et de l'infrastructure militaire qui lui est nécessaire. Pour l'exécution de ses missions militaires,
+notamment lorsqu'elle participe à des opérations des forces armées à l'extérieur du territoire national, la gendarmerie
+nationale est placée sous l'autorité du ministre de la défense.
+
+Le ministre de la défense participe à la gestion des ressources humaines de la gendarmerie nationale dans des conditions
+définies par décret en Conseil d'Etat et exerce à l'égard des personnels militaires de la gendarmerie nationale les
+attributions en matière de discipline.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-331 du 18 mars 2016 - art. 1
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L3531-1 (V)
+	  - Code de la défense. - art. L3551-1 (M)
+	  - Code de la défense. - art. L3561-1 (M)
+	  - Code de la défense. - art. L3571-1 (M)
+	  - Code des pensions militaires d'invalidité et de... - art. D401 ter (Ab)
+	  - Code des pensions militaires d'invalidité et de... - art. R513-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L421-2 (VD)
 
 
 ### LIVRE IV : ÉTABLISSEMENTS PUBLICS
@@ -14174,19 +14228,14 @@ le même objet applicables localement.
 
 ###### Article L3531-1
 
-Sont applicables à Mayotte les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2 et L. 3421-1 à
-L. 3422-7 du code de la défense.
+Sont applicables à Mayotte les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3, L. 3225-1 et
+L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Loi n°2009-971 du 3 août 2009 - art. 24
 
 	**Cite**:
 
@@ -14194,7 +14243,7 @@ L. 3422-7 du code de la défense.
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3225-1 (V)
 	  - Code de la défense. - art. L3421-1 (V)
 
 
@@ -14234,27 +14283,21 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 
 ###### Article L3551-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2
-et L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables en Polynésie française les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3,
+L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Loi n°2009-971 du 3 août 2009 - art. 24
 
 	**Cite**:
 
 	  - Code de la défense. - art. L3125-1 (V)
 	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3225-1 (V)
 	  - Code de la défense. - art. L3421-1 (V)
 
 
@@ -14264,19 +14307,14 @@ et L. 3421-1 à L. 3422-7 du code de la défense.
 
 ###### Article L3561-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, 
-L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3,
+L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Loi n°2009-971 du 3 août 2009 - art. 24
 
 	**Cite**:
 
@@ -14284,7 +14322,7 @@ L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3225-1 (V)
 	  - Code de la défense. - art. L3421-1 (V)
 
 
@@ -14295,8 +14333,8 @@ L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
 ###### Article L3571-1
 
 Sous réserve des dispositions du traité de l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1, 
-L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
+applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L.
+3211-1 à L. 3211-3, L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
@@ -14307,17 +14345,12 @@ L. 3125-2, L. 3125-3, L. 3211-1, L. 3211-2 et L. 3421-1 à L. 3422-7 du code de 
 	  - Code de la défense. - art. L3125-2 (V)
 	  - Code de la défense. - art. L3125-3 (V)
 	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3211-2 (V)
+	  - Code de la défense. - art. L3225-1 (V)
 	  - Code de la défense. - art. L3421-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Loi n°2009-971 du 3 août 2009 - art. 24
 
 
 ## PARTIE 4 : LE PERSONNEL MILITAIRE
@@ -15062,7 +15095,7 @@ de gendarmerie et nommés au 1er échelon du grade de gendarme :
 2° A titre exceptionnel, lorsqu'ils ont été grièvement blessés à l'occasion d'une mission de police. 
 
 En cas d'inaptitude physique, sur avis médical, ils peuvent faire l'objet d'un reclassement au sein d'un corps de
-fonctionnaires relevant de l'autorité du ministre de la défense. La titularisation est prononcée, le cas échéant, après avis
+fonctionnaires relevant de l'autorité du ministre de l'intérieur. La titularisation est prononcée, le cas échéant, après avis
 de la commission administrative paritaire du corps d'accueil. 
 
 II.-Les prescriptions de l'article L. 50 du code des pensions civiles et militaires de retraite sont applicables aux
@@ -15079,13 +15112,13 @@ militaires de la gendarmerie nommés dans les conditions prévues au I.
 	  - Loi n°2003-239 du 18 mars 2003 - art. 112 (V)
 	  - Code de la sécurité intérieure - art. L113-1 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2009-971 du 3 août 2009 - art. 22
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L50 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L50
 
 
 ##### Section 3 : Protection juridique et responsabilité pénale
@@ -15866,6 +15899,36 @@ La durée totale de ce volontariat ne peut excéder vingt-quatre mois.
 	  - Code de la défense. - art. L4132-11
 
 
+##### Section 4 :  Dispositions relatives à l'accès des fonctionnaires civils aux corps militaires
+
+###### Article L4132-13
+
+Tous les corps militaires sont accessibles par la voie du détachement suivi, le cas échéant, d'une intégration, aux
+fonctionnaires régis par la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, nonobstant
+l'absence de disposition ou toute disposition contraire prévue par les statuts particuliers de ces corps. 
+
+Le détachement s'effectue entre corps et cadres d'emplois de niveau comparable, apprécié au regard des conditions de
+recrutement ou de la nature des missions. 
+
+Lorsque l'exercice de fonctions du corps d'accueil est soumis à la détention d'un titre ou d'un diplôme spécifique, l'accès à
+ces fonctions est subordonné à la détention de ce titre ou de ce diplôme. 
+
+Le fonctionnaire détaché dans un corps qui est admis à poursuivre son détachement au-delà d'une période de cinq ans se voit
+proposer une intégration dans ce corps. 
+
+Les modalités d'application du présent article sont précisées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983
+
+	**Créé par**:
+
+	  - Loi n°2009-972 du 3 août 2009 - art. 3
+
+
 ##### Chapitre III : Changement d'armée ou de corps
 
 ###### Article L4133-1
@@ -15963,15 +16026,13 @@ le rang dans la liste d'ancienneté et l'avancement.
 L'octroi et le retrait des grades conférés à titre temporaire sont prononcés par arrêté du ministre de la défense, sans qu'il
 soit fait application des dispositions des articles L. 4134-1 et L. 4136-3.
 
+Pour la gendarmerie nationale, l'octroi et le retrait des grades conférés à titre temporaire, à l'exclusion de ceux conférés
+dans les cadre d'une mission militaire, sont prononcés par arrêté du ministre de l'intérieur.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 34
 	  - Loi n°2005-270 du 24 mars 2005 - art. 34 (Ab)
 
 	**Cité par**:
@@ -15988,10 +16049,14 @@ soit fait application des dispositions des articles L. 4134-1 et L. 4136-3.
 	  - Décret n°2016-422 du 8 avril 2016 - art. 5 (V)
 	  - Code de la défense. - art. R4131-10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 16
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4134-1 (V)
-	  - Code de la défense. - art. L4136-3 (V)
+	  - Code de la défense. - art. L4134-1
+	  - Code de la défense. - art. L4136-3
 
 
 ##### Chapitre V : Notation
@@ -16091,6 +16156,8 @@ Une commission dont les membres, d'un grade supérieur à celui des intéressés
 présente à ce dernier tous les éléments d'appréciation nécessaires, notamment l'ordre de préférence et les notations données
 aux candidats par leurs supérieurs hiérarchiques.
 
+Pour les militaires de la gendarmerie nationale, le ministre compétent est le ministre de l'intérieur. 
+
 Sous réserve des nécessités du service, les promotions ont lieu dans l'ordre du tableau d'avancement.
 
 Si le tableau n'a pas été épuisé, les militaires qui y figurent sont reportés en tête du tableau suivant.
@@ -16185,14 +16252,13 @@ Les statuts particuliers précisent les conditions d'application du présent art
 	  - Code de la défense. - art. R4133-5 (V)
 	  - Code de la défense. - art. R4133-8 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 38
 	  - Loi n°2005-270 du 24 mars 2005 - art. 38 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
 
 
 ###### Article L4136-4
@@ -16389,7 +16455,7 @@ règles de la procédure qui leur sont applicables.
 
 Le ministre de la défense ou les autorités habilitées à cet effet prononcent les sanctions disciplinaires et professionnelles
 prévues aux articles L.4137-1 et L.4137-2, après consultation, s'il y a lieu, de l'un des conseils prévus à l'article
-L.4137-3. Toutefois, la radiation des cadres ne peut être prononcée que par l'autorité de nomination.
+L.4137-3.
 
 **Liens relatifs à cet article**
 
@@ -16399,7 +16465,7 @@ L.4137-3. Toutefois, la radiation des cadres ne peut être prononcée que par l'
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
 
 	**Cite**:
 
@@ -16793,8 +16859,9 @@ conditions d'affiliation au régime de retraite sont fixées par décret en Cons
 
 Le détachement est prononcé de droit, sur demande agréée ou d'office.
 
-Le détachement d'office est prononcé par le ministre de la défense après avis d'une commission comprenant un officier général
-et deux militaires de grade égal ou supérieur à celui des intéressés.
+Le détachement d'office est prononcé par le ministre de la défense ou, pour les militaires de la gendarmerie nationale, par
+le ministre de l'intérieur, après avis d'une commission comprenant un officier général et deux militaires de grade égal ou
+supérieur à celui des intéressés.
 
 Le militaire détaché est soumis à l'ensemble des règles régissant la fonction qu'il exerce par l'effet de son détachement, à
 l'exception de toute disposition prévoyant le versement d'indemnités de licenciement ou de fin de carrière.
@@ -16812,13 +16879,8 @@ de cette contribution est fixé par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 51
 	  - Loi n°2005-270 du 24 mars 2005 - art. 51 (Ab)
 
 	**Cité par**:
@@ -16838,6 +16900,10 @@ de cette contribution est fixé par décret.
 	  - Code de la défense. - art. L4121-3 (V)
 	  - Code de la défense. - art. R4138-46 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L405 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
 
 
 ###### Article L4138-9
@@ -17945,333 +18011,477 @@ prévoit notamment les conditions de préavis et d'indemnisation des intéressé
 
 ###### Article L4139-16
 
-I.-Les limites d'âge et âges maximaux de maintien en première section des militaires sont : 
+I.-Les limites d'âge et âges maximaux de maintien en première section des   militaires sont : 
 
-1° Dans le corps militaire du contrôle général des armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
+1° Dans le corps militaire du contrôle général des   armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
 général, soixante-quatre ans.
 
-L'âge maximal de maintien en première section est de soixante-cinq ans ; 
+L'âge maximal de maintien en   première section est de soixante-cinq ans ; 
 
-2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : 
+2° Pour les officiers des armées et   formations rattachées, telles que définies par le tableau ci-après : 
 
 <table>
+    <thead>
+      <tr>
+        <th>
+
+</th>
+        <th>
+
+OFFICIERS 
+
+subalternes 
+
+ou   dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+COMMANDANT 
+
+ou   dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+LIEUTENANT-
+
+colonel   
+
+ou dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+COLONEL 
+
+ou   
+
+dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+ÂGE MAXIMAL   
+
+de maintien 
+
+en première section 
+
+des officiers généraux   
+
+</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+
+Officiers des armes de l'armée de terre,   officiers de marine, officiers spécialisés de la marine, officiers des bases et
+officiers   mécaniciens de l'air 
+
+</td>
+        <td align="center" colspan="4">
+
+57
+
+</td>
+        <td align="center">
+
+61
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Officiers de gendarmerie 
+
+</td>
+        <td align="center">
+
+57
+
+</td>
+        <td> </td>
+        <td> </td>
+        <td align="center">
+
+58
+
+</td>
+        <td align="center">
+
+61
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Officiers de l'air 
+
+</td>
+        <td colspan="2" align="center">
+
+50
+
+</td>
+        <td colspan="2" align="center">
+
+54
+
+</td>
+        <td align="center">
+
+61
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et   administratifs,
+ingénieurs militaires des essences, administrateurs des affaires maritimes 
+
+</td>
+        <td colspan="4" align="center">
+
+60
+
+</td>
+        <td align="center">
+
+62
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes 
+
+</td>
+        <td colspan="4" align="center">
+
+60
+
+</td>
+        <td align="center">
+
+65
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Militaires infirmiers et   techniciens des hôpitaux des armées (officiers) 
+
+</td>
+        <td colspan="4" align="center">
+
+60</td>
+        <td align="center">
+
+-
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Ingénieurs de l'armement, ingénieurs   des études et techniques de l'armement, ingénieurs des études et techniques   des
+travaux maritimes, professeurs de l'enseignement maritime, ingénieurs militaires   d'infrastructure de la défense 
+
+</td>
+        <td colspan="4" align="center">
+
+64
+
+</td>
+        <td align="center">
+
+65
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Officiers greffiers, chefs de musique, fonctionnaires   détachés au sein de la poste interarmées, fonctionnaires détachés au
+sein de la trésorerie aux armées, aumôniers militaires 
+
+</td>
+        <td align="center" colspan="4">
+
+64
+
+</td>
+        <td align="center">
+
+-
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+Les officiers du service de   santé des armées du grade de chef des services qui ne sont pas régis par les   dispositions du
+chapitre Ier du titre IV relatif aux officiers généraux peuvent être   temporairement maintenus en activité au-delà de l'âge
+de soixante ans,   pour une durée déterminée en fonction des emplois à pourvoir, sans   toutefois pouvoir servir au-delà de
+l'âge de soixante-cinq ans. Dans ce cas, la limite   d'âge retenue pour l'application du 1° du I de l'article L. 14 du code
+des pensions civiles et militaires de   retraite correspond au terme de la durée ainsi déterminée. 
+
+Le chef des   orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine   peuvent, sur
+demande agréée, être maintenus en service au-delà de la limite   d'âge par périodes de deux ans renouvelables ; 
+
+3° Pour les sous-officiers   des armées et des formations rattachées, telles que définies par le tableau   ci-après : 
+
+<table>
+    <thead>
+      <tr>
+        <th>
+
+</th>
+        <th>
+
+SERGENT 
+
+ou dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+SERGENT-CHEF 
+
+ou dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+ADJUDANT 
+
+ou dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+ADJUDANT-CHEF 
+
+ou dénomination 
+
+correspondante 
+
+</th>
+        <th>
+
+MAJOR 
+
+</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+
+Sous-officiers de carrière de l'armée de terre, de la marine   ou de l'air (personnel non navigant) 
+
+</td>
+        <td align="center">
+
+45
+
+</td>
+        <td> </td>
+        <td align="center">
+
+50
+
+</td>
+        <td align="center">
+
+56
+
+</td>
+        <td align="center">
+
+57
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et   administratif de la gendarmerie nationale 
+
+</td>
+        <td align="center" colspan="4">
+
+56 (y compris le grade de gendarme) 
+
+</td>
+        <td align="center">
+
+57</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Sous-officiers du personnel navigant de l'armée de l'air 
+
+</td>
+        <td align="center" colspan="3">
+
+45
+
+</td>
+        <td colspan="2" align="center">
+
+50
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Militaires infirmiers et techniciens des hôpitaux des armées   (sous-officiers), major des ports (marine) et officiers
+mariniers de carrière des ports (marine) 
+
+</td>
+        <td colspan="5" align="center">
+
+57 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Sous-officiers du service des essences des armées
+
+</td>
+        <td colspan="2" align="center">
+
+-
+
+</td>
+        <td align="center" colspan="3">
+
+60
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Fonctionnaires détachés au sein de la poste interarmées,   fonctionnaires détachés au sein de la trésorerie aux armées,
+majors   sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois   armées), maîtres ouvriers (terre),
+maîtres ouvriers, tailleurs et cordonniers (marine),   musicien sous-officier de carrière (air), commis greffiers et
+huissiers appariteurs 
+
+</td>
+        <td align="center" colspan="5">
+
+64
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+Les musiciens des orchestres de la garde républicaine peuvent, sur demande   agréée, être maintenus en service au-delà de
+cette limite d'âge par   périodes de deux ans renouvelables. 
+
+II.-Sans préjudice des dispositions de   l'article L. 4132-12, les limites de durée de service des militaires sous contrat
+sont les suivantes :   
+
+<table>
+  <thead>
+    <tr>
+      <td> </td>
+      <td>
+
+LIMITE   DE DURÉE DES SERVICES 
+
+(année) 
+
+</td>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>
-        <table>
-          <thead>
-            <tr>
-              <th align="center" bgcolor="#efeff7" width="130">
 
-</th>
-              <th align="center" bgcolor="#efeff7" width="65">
+Officiers sous   contrat 
 
-<font size="1">OFFICIERS subalternes ou dénomination correspondante</font>
+</td>
+      <td>
 
-</th>
-              <th width="65" bgcolor="#efeff7" align="center">
+20 
 
-<font size="1">COMMANDANT ou dénomination correspondante</font>
-              </th>
-              <th align="center" bgcolor="#efeff7" width="65">
+</td>
+    </tr>
+    <tr>
+      <td>
 
-<font size="1">LIEUTENANT-COLONEL ou dénomination correspondante</font>
-              </th>
-              <th bgcolor="#efeff7" align="center" width="65">
+Militaires   commissionnés 
 
-<font size="1">COLONEL ou dénomination correspondante</font>
-              </th>
-              <th bgcolor="#efeff7" width="65" align="center">
+</td>
+      <td>
 
-<font size="1">AGE MAXIMAL de maintien en première section des officiers généraux</font>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td align="left">
+15
 
-Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
-officiers mécaniciens de l'air</td>
-              <td colspan="4" align="center">
+</td>
+    </tr>
+    <tr>
+      <td>
 
-57</td>
-              <td align="center">
+Militaires   engagés 
 
-61</td>
-            </tr>
-            <tr>
-              <td align="left">
+</td>
+      <td>
 
-Officiers de gendarmerie</td>
-              <td align="center" colspan="3">
+25
 
-57</td>
-              <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td>
 
-58</td>
-              <td align="center">
+Volontaires dans   les armées 
 
-61</td>
-            </tr>
-            <tr>
-              <td align="left">
+</td>
+      <td>
 
-Officiers de l'air</td>
-              <td colspan="2" align="center">
+5 
 
-50</td>
-              <td align="center" colspan="2">
-
-54</td>
-              <td align="center">
-
-61</td>
-            </tr>
-            <tr>
-              <td align="left">
-
-Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs
-militaires des essences, administrateurs des affaires maritimes</td>
-              <td align="center" colspan="4">
-
-60</td>
-              <td align="center">
-
-62</td>
-            </tr>
-            <tr>
-              <td align="left">
-
-Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes</td>
-              <td align="center" colspan="4">
-
-60</td>
-              <td align="center">
-
-65</td>
-            </tr>
-            <tr>
-              <td align="left">
-
-Militaires infirmiers et techniciens des hôpitaux des armées (officiers)</td>
-              <td align="center" colspan="4">
-
-60</td>
-              <td align="center">
-
-- </td>
-            </tr>
-            <tr>
-              <td align="left">
-
-Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
-maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense</td>
-              <td align="center" colspan="4">
-
-64</td>
-              <td align="center">
-
-65</td>
-            </tr>
-            <tr>
-              <td align="left">
-
-Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
-sein de la trésorerie aux armées, aumôniers militaires</td>
-              <td colspan="4" align="center">
-
-64</td>
-              <td align="center">
-
-- </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
+</td>
     </tr>
   </tbody>
 </table>
 
-Les officiers du service de santé des armées du grade de chef des services qui ne sont pas régis par les dispositions du
-chapitre Ier du titre IV relatif aux officiers généraux peuvent être temporairement maintenus en activité au-delà de l'âge de
-soixante ans, pour une durée déterminée en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge de
-soixante-cinq ans. Dans ce cas, la limite d'âge retenue pour l'application du 1° du I de l'article L.14 du code des pensions
-civiles et militaires de retraite correspond au terme de la durée ainsi déterminée. 
+Le chef   des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde   républicaine peuvent, sur
+demande agréée, être maintenus en service   au-delà de la durée de service par périodes de deux ans renouvelables.   
 
-Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
-demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ; 
-
-3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après :
-
-<table>
-    <thead>
-      <tr>
-        <th align="center" bgcolor="#efeff7" width="130">
-
-</th>
-        <th align="center" bgcolor="#efeff7" width="65">
-
-<font size="1">SERGENT ou dénomination correspondante</font>
-        </th>
-        <th bgcolor="#efeff7" align="center" width="65">
-
-<font size="1">SERGENT-CHEF ou dénomination correspondante</font>
-        </th>
-        <th bgcolor="#efeff7" align="center" width="65">
-
-<font size="1">ADJUDANT ou dénomination correspondante</font>
-        </th>
-        <th bgcolor="#efeff7" width="65" align="center">
-
-<font size="1">ADJUDANT-CHEF ou dénomination correspondante</font>
-        </th>
-        <th align="center" bgcolor="#efeff7" width="65">
-
-<font size="1">MAJOR</font>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left">
-
-Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant), corps de soutien technique
-et administratif de la gendarmerie nationale</td>
-        <td colspan="2" align="center">
-
-45</td>
-        <td align="center">
-
-50</td>
-        <td align="center">
-
-56</td>
-        <td align="center">
-
-57</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Sous-officiers de gendarmerie</td>
-        <td colspan="4" align="center">
-
-56 (y compris le garde de gendarmerie)</td>
-        <td align="center">
-
-57</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Sous-officiers du personnel navigant de l'armée de l'air</td>
-        <td colspan="3" align="center">
-
-45</td>
-        <td colspan="2" align="center">
-
-50</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers
-mariniers de carrière des ports (marine)</td>
-        <td colspan="5" align="center">
-
-57</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Sous-officiers du service des essences des armées</td>
-        <td align="center" colspan="2">
-
-- </td>
-        <td colspan="3" align="center">
-
-60</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, majors
-sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois armées), maîtres ouvriers (terre), maîtres
-ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière (air), commis greffiers et huissiers
-appariteurs</td>
-        <td align="center" colspan="5">
-
-64</td>
-      </tr>
-    </tbody>
-  </table>
-
-Les musiciens des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de cette
-limite d'âge par périodes de deux ans renouvelables. 
-
-II.-Sans préjudice des dispositions de l'article L.4132-12, les limites de durée de service des militaires sous contrat sont
-les suivantes : 
-
-<table>
-    <thead>
-      <tr>
-        <th width="234" align="center" bgcolor="#efeff7">
-
-</th>
-        <th align="center" width="221" bgcolor="#efeff7">
-
-<font size="1">LIMITE DE DURÉE DES SERVICES
-
-(année)</font>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left">
-
-Officiers sous contrat</td>
-        <td align="center">
-
-20</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Militaires commissionnés</td>
-        <td align="center">
-
-15</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Militaires engagés</td>
-        <td align="center">
-
-25</td>
-      </tr>
-      <tr>
-        <td align="left">
-
-Volontaires dans les armées</td>
-        <td align="center">
-
-5</td>
-      </tr>
-    </tbody>
-  </table>
-
-Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
-demande agréée, être maintenus en service au-delà de la durée de service par périodes de deux ans renouvelables. 
-
-Les officiers sous contrat et les militaires commissionnés atteignant leur limite de durée de service sont, sur leur demande,
-maintenus en service pour une durée maximum de dix trimestres et dans la limite de la durée d'assurance nécessaire pour
-obtenir le pourcentage maximum de la pension mentionné à l'article L.13 du code des pensions civiles et militaires de
+Les officiers sous contrat et les militaires commissionnés atteignant leur limite de   durée de service sont, sur leur
+demande, maintenus en service pour une durée maximum   de dix trimestres et dans la limite de la durée d'assurance nécessaire
+pour obtenir le   pourcentage maximum de la pension mentionné à l'article L. 13 du code des pensions civiles et militaires de
 retraite. 
 
-Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
+Cette prolongation de service est prise en compte au titre de la constitution et de la   liquidation du droit à pension.
 
 **Liens relatifs à cet article**
 
@@ -18296,7 +18506,7 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 18
+	  - Loi n°2009-971 du 3 août 2009 - art. 8
 
 	**Cite**:
 
@@ -18317,9 +18527,10 @@ Les officiers généraux sont répartis en deux sections :
 cadres ;
 
 2° La deuxième section comprend les officiers généraux qui, n'appartenant pas à la première section, sont maintenus à la
-disposition du ministre de la défense. Lorsqu'ils sont employés pour les nécessités de l'encadrement, ces officiers généraux
-sont replacés en première section pour une durée déterminée dans les conditions et selon les modalités fixées par décret en
-Conseil d'Etat.
+disposition du ministre de la défense. Les officiers généraux de la gendarmerie nationale sont maintenus à la disposition du
+ministre de la défense et du ministre de l'intérieur, pour les missions qui relèvent de leur autorité.  Lorsqu'ils sont
+employés pour les nécessités de l'encadrement, les officiers généraux visés au présent 2° sont replacés en première section
+pour une durée déterminée dans les conditions et selon les modalités fixées par décret en Conseil d'Etat. 
 
 Les officiers généraux peuvent être radiés des cadres.
 
@@ -18332,14 +18543,13 @@ Les officiers généraux peuvent être radiés des cadres.
 	  - Code de la défense. - art. R4141-1 (V)
 	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 76
 	  - Loi n°2005-270 du 24 mars 2005 - art. 76 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
 
 
 ###### Article L4141-2
@@ -18423,32 +18633,35 @@ d'un officier général appartenant au conseil intéressé, désigné par le min
 
 Les dispositions de l'article L. 4121-2, du troisième alinéa de l'article L. 4123-2, de l'article L. 4123-10 et du b du 3° de
 l'article L. 4137-2 sont applicables à l'officier général de la deuxième section lorsqu'il n'est pas replacé en première
-section par le ministre de la défense en fonction des nécessités de l'encadrement.
+section par le   ministre de la défense ou, pour l'officier général de la gendarmerie nationale, par le ministre de la
+défense ou le ministre de l'intérieur, pour les missions qui relèvent de leur autorité, en fonction des nécessités de
+l'encadrement.
 
 L'intéressé perçoit une solde de réserve calculée dans les conditions fixées par le code des pensions civiles et militaires
 de retraite. 
 
-Le versement de la solde de réserve est suspendu lorsque l'officier général replacé en première section par le ministre de la
-défense, conformément aux dispositions de l'article L. 4141-1, jusqu'au terme du placement temporaire en première section.
+Le versement de la solde de réserve est suspendu lorsque l'officier général est replacé en première section par le   ministre
+de la défense ou, pour l'officier général de la gendarmerie nationale, par le ministre de la défense ou le ministre de
+l'intérieur, pour les missions qui relèvent de leur autorité, conformément aux dispositions de l'article L. 4141-1, jusqu'au
+terme du placement temporaire en première section.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 79
 	  - Loi n°2005-270 du 24 mars 2005 - art. 79 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4121-2 (V)
-	  - Code de la défense. - art. L4123-10 (V)
-	  - Code de la défense. - art. L4123-2 (V)
-	  - Code de la défense. - art. L4137-2 (V)
-	  - Code de la défense. - art. L4141-1 (V)
+	  - Code de la défense. - art. L4121-2
+	  - Code de la défense. - art. L4123-10
+	  - Code de la défense. - art. L4123-2
+	  - Code de la défense. - art. L4137-2
+	  - Code de la défense. - art. L4141-1
 
 
 ###### Article L4141-5
@@ -18733,6 +18946,64 @@ services de la trésorerie aux armées et de la poste interarmées.
 	  - Code de la défense. - art. L4138-2 (V)
 
 
+##### Chapitre V : Militaires de la gendarmerie nationale
+
+
+
+
+###### Article L4145-1
+
+Le personnel militaire de la gendarmerie nationale comprend :
+
+1° Les officiers et les sous-officiers de gendarmerie ;
+
+2° Les officiers du corps technique et administratif de la gendarmerie nationale et les sous-officiers du corps de soutien
+technique et administratif de la gendarmerie nationale ;
+
+3° Les volontaires des armées, en service au sein de la gendarmerie nationale ;
+
+4° Les officiers, sous-officiers et militaires du rang réservistes de la gendarmerie nationale.
+
+Les officiers, sous-officiers et militaires du rang réservistes de la gendarmerie nationale renforcent les unités d'active,
+individuellement ou en formations constituées. Employés par priorité dans des fonctions opérationnelles, ils participent
+aussi aux fonctions de soutien.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-1391 du 17 novembre 2006 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 9
+
+
+###### Article L4145-2
+
+Les officiers et sous-officiers de gendarmerie, du fait de la nature et des conditions d'exécution de leurs missions, sont
+soumis à des sujétions et des obligations particulières en matière d'emploi et de logement en caserne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 9
+
+
+###### Article L4145-3
+
+En contrepartie des sujétions et obligations qui leur sont applicables, les officiers et sous-officiers de gendarmerie
+bénéficient d'un classement indiciaire spécifique et peuvent bénéficier de conditions particulières en matière de régime
+indemnitaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-971 du 3 août 2009 - art. 9
+
+
 ### LIVRE II : RÉSERVE MILITAIRE
 
 #### TITRE Ier : DISPOSITIONS COMMUNES
@@ -19015,14 +19286,15 @@ environnement civil ;
 5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9. 
 
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
-réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4.
+réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4. 
 
 Cette clause est soumise à l'accord de l'employeur. 
 
 Ces missions peuvent s'exercer en dehors du territoire national. 
 
 Le volontaire peut, au titre de son engagement à servir dans la réserve opérationnelle, être admis à servir, par arrêté du
-ministre de la défense, dans l'intérêt de la défense et pour une durée limitée, auprès d'une administration de l'Etat, d'un
+ministre de la défense ou par arrêté du ministre de l'intérieur pour les réservistes de la gendarmerie nationale, dans
+l'intérêt de la défense et de la sécurité nationale, pour une durée limitée, auprès d'une administration de l'Etat, d'un
 établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une
 organisation internationale.
 
@@ -19043,7 +19315,7 @@ organisation internationale.
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 6
+	  - Loi n°2009-971 du 3 août 2009 - art. 10
 
 	**Cite**:
 
@@ -19109,9 +19381,10 @@ outre obtenir l'accord de son employeur, sous réserve des dispositions de l'art
 refus, cette décision doit être motivée et notifiée à l'intéressé ainsi qu'à l'autorité militaire dans les quinze jours qui
 suivent la réception de la demande. 
 
-Lorsque les circonstances l'exigent, le ministre de la défense peut, par arrêté pris dans des conditions fixées par décret en
-Conseil d'Etat, faire appel, sous un préavis de quinze jours, aux réservistes qui ont souscrit un contrat comportant la
-clause de réactivité prévue à l'article L. 4221-1. Ce délai peut être réduit avec l'accord de l'employeur. 
+Lorsque les circonstances l'exigent, le ministre de la défense ou le ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale peut, par arrêté pris dans des conditions fixées par décret en Conseil d'Etat, faire appel, sous un
+préavis de quinze jours, aux réservistes qui ont souscrit un contrat comportant la clause de réactivité prévue à l'article L.
+4221-1. Ce délai peut être réduit avec l'accord de l'employeur. 
 
 Des mesures tendant à faciliter, au-delà des obligations prévues par le présent livre, l'engagement, l'activité et la
 réactivité dans la réserve peuvent résulter du contrat de travail, de clauses particulières de l'engagement à servir dans la
@@ -19122,8 +19395,6 @@ conventions conclues entre l'employeur et le ministre de la défense.
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 1999-10-22 art. 10, à l'exception du dernier alinéa
-	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (Ab)
 
 	**Cité par**:
@@ -19136,13 +19407,13 @@ conventions conclues entre l'employeur et le ministre de la défense.
 	  - Code de la défense. - art. R4221-13 (V)
 	  - Code de la défense. - art. R4221-14 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2009-971 du 3 août 2009 - art. 11
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-5 (V)
+	  - Code de la défense. - art. L4221-5
 
 
 ###### Article L4221-5
@@ -19237,7 +19508,8 @@ notamment :
 
 2° Les conditions de l'exercice de la tutelle technique de l'entreprise sur les réservistes ; 
 
-3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée au ministère de la défense.
+3° Les modalités selon lesquelles la solde versée aux réservistes est remboursée au ministère de la défense et, pour les
+réservistes de la gendarmerie nationale, au ministère de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -19250,13 +19522,13 @@ notamment :
 	  - Décret n°2000-1170 du 1 décembre 2000 - art. 15-5 (Ab)
 	  - Code de la défense. - art. R4221-15 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2009-971 du 3 août 2009 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-7 (V)
+	  - Code de la défense. - art. L4221-7
 
 
 ###### Article L4221-9
@@ -19412,9 +19684,9 @@ l'obligation de disponibilité peut être décidé par décret en conseil des mi
 
 ###### Article L4231-5
 
-En cas de troubles graves ou de menaces de troubles graves à l'ordre public, le ministre de la défense peut être autorisé par
-décret à faire appel, pour une durée déterminée, à tout ou partie des réservistes de la gendarmerie nationale soumis à
-l'obligation de disponibilité.
+En cas de troubles graves ou de menaces de troubles graves à l'ordre public, le ministre de la défense ou le ministre de
+l'intérieur peuvent être autorisés par décret, pour les missions qui relèvent de leur autorité, à faire appel, pour une durée
+déterminée, à tout ou partie des réservistes de la gendarmerie nationale soumis à l'obligation de disponibilité.
 
 **Liens relatifs à cet article**
 
@@ -19434,9 +19706,17 @@ l'obligation de disponibilité.
 	  - Code de la défense. - art. L4271-4 (V)
 	  - Code de la défense. - art. L4271-5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2009-971 du 3 août 2009 - art. 14
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L421-3 (VD)
 
 
 #### TITRE IV : RÉSERVE CITOYENNE
@@ -19897,13 +20177,13 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 
 
 ###### Article L4371-1
 
-Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4144-1.
+Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Loi n°2009-971 du 3 août 2009 - art. 24
 
 	**Cite**:
 
@@ -20304,8 +20584,6 @@ l'expropriation pour cause d'utilité publique.
 
 
 #### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE
-
-##### Chapitre unique.
 
 ##### Chapitre unique : Répression des infractions relatives aux servitudes militaires
 

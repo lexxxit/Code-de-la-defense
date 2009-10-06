@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-09-19
+Version Consolidée au 2009-10-07
 
 # Partie législative
 
@@ -34017,155 +34017,6 @@ ressources.
 
 ### LIVRE IV : MISE EN OEUVRE DE LA DÉFENSE MILITAIRE
 
-#### TITRE Ier : ENGAGEMENT DES FORCES NUCLÉAIRES
-
-##### Chapitre unique
-
-##### Section 3 : Inspection des armements nucléaires.
-
-###### Article R*1411-12
-
-L'inspection des armements nucléaires est confiée à un officier général, placé sous l'autorité directe du Président de la
-République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-592 du 5 juillet 2001 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-
-###### Article R*1411-13
-
-L'inspecteur des armements nucléaires est chargé de vérifier la pertinence et la bonne application de l'ensemble des mesures
-concourant au contrôle gouvernemental de la dissuasion nucléaire. 
-
-Dans ce domaine, il a, seul, pouvoir d'inspection direct et permanent. Ce pouvoir s'applique à l'organisation et aux
-procédures de contrôle, aux dispositifs techniques et aux liaisons nécessaires à ce contrôle, ainsi qu'à tout ce qui concourt
-à la disponibilité des moyens.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2015-1029 du 19 août 2015 - art. 3 (V)
-	  - Code de la défense. - art. R*1411-11-1 (V)
-
-
-###### Article R*1411-14
-
-En ce qui concerne l'intégrité des moyens de la dissuasion nucléaire, la compétence de l'inspecteur des armements nucléaires
-s'étend à tout organisme et à tout établissement qui contribue à la réalisation et au maintien en condition opérationnelle de
-ces moyens.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-702 du 29 avril 2002 - art. 1 (Ab)
-	  - Décret n°2002-702 du 29 avril 2002 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1631-6 (V)
-	  - Code de la défense. - art. D1641-5 (V)
-	  - Code de la défense. - art. D1651-6 (V)
-	  - Code de la défense. - art. D1661-6 (V)
-	  - Code de la défense. - art. D1671-6 (V)
-
-
-###### Article R*1411-15
-
-L'inspecteur des armements nucléaires est consulté lors de la définition des systèmes et procédures du contrôle
-gouvernemental. Il donne son avis sur la validité des dispositions ou mesures prises et propose toute modification qui lui
-apparaîtrait nécessaire. 
-
-L'inspecteur des armements nucléaires est consulté sur les modalités de mise en œuvre du contrôle gouvernemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-702 du 29 avril 2002 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1411-17 (M)
-
-
-###### Article R*1411-16
-
-L'inspecteur des armements nucléaires est destinataire de tous les comptes rendus d'inspection ou d'audit émis par les
-instances de contrôle ou les autres organismes mandatés qui contribuent au contrôle gouvernemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-702 du 29 avril 2002 - art. 4 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 15 juillet 2008 - art. Annexe (V)
-	  - Code de la défense. - art. R*1411-11-12 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-
-###### Article R*1411-17
-
-La sûreté nucléaire participe à la crédibilité et à la pérennité de la dissuasion.A cette fin, l'inspecteur des armements
-nucléaires s'assure de la cohérence des mesures prises au regard des exigences de la dissuasion, notamment auprès du délégué
-à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-702 du 29 avril 2002 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-
-###### Article R*1411-18
-
-L'inspecteur des armements nucléaires rend compte de ses activités au Président de la République et en tient informé le
-Premier ministre. 
-
-Il en informe également, dans le domaine de leurs attributions respectives, le ministre de la défense et le chef d'état-major
-des armées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-702 du 29 avril 2002 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-
 #### TITRE Ier : LA DISSUASION NUCLEAIRE
 
 ##### Chapitre Ier : Préparation, mise en œuvre et contrôle gouvernemental de la dissuasion nucléaire
@@ -34459,6 +34310,149 @@ ministre.
 
 
 ##### Section 3 : Inspection des armements nucléaires.
+
+###### Article R*1411-12
+
+L'inspection des armements nucléaires est confiée à un officier général, placé sous l'autorité directe du Président de la
+République.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-592 du 5 juillet 2001 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+
+###### Article R*1411-13
+
+L'inspecteur des armements nucléaires est chargé de vérifier la pertinence et la bonne application de l'ensemble des mesures
+concourant au contrôle gouvernemental de la dissuasion nucléaire. 
+
+Dans ce domaine, il a, seul, pouvoir d'inspection direct et permanent. Ce pouvoir s'applique à l'organisation et aux
+procédures de contrôle, aux dispositifs techniques et aux liaisons nécessaires à ce contrôle, ainsi qu'à tout ce qui concourt
+à la disponibilité des moyens.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-1029 du 19 août 2015 - art. 3 (V)
+	  - Code de la défense. - art. R*1411-11-1 (V)
+
+
+###### Article R*1411-14
+
+En ce qui concerne l'intégrité des moyens de la dissuasion nucléaire, la compétence de l'inspecteur des armements nucléaires
+s'étend à tout organisme et à tout établissement qui contribue à la réalisation et au maintien en condition opérationnelle de
+ces moyens.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-702 du 29 avril 2002 - art. 1 (Ab)
+	  - Décret n°2002-702 du 29 avril 2002 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1631-6 (V)
+	  - Code de la défense. - art. D1641-5 (V)
+	  - Code de la défense. - art. D1651-6 (V)
+	  - Code de la défense. - art. D1661-6 (V)
+	  - Code de la défense. - art. D1671-6 (V)
+
+
+###### Article R*1411-15
+
+L'inspecteur des armements nucléaires est consulté lors de la définition des systèmes et procédures du contrôle
+gouvernemental. Il donne son avis sur la validité des dispositions ou mesures prises et propose toute modification qui lui
+apparaîtrait nécessaire. 
+
+L'inspecteur des armements nucléaires est consulté sur les modalités de mise en œuvre du contrôle gouvernemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-702 du 29 avril 2002 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1411-17 (M)
+
+
+###### Article R*1411-16
+
+L'inspecteur des armements nucléaires est destinataire de tous les comptes rendus d'inspection ou d'audit émis par les
+instances de contrôle ou les autres organismes mandatés qui contribuent au contrôle gouvernemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-702 du 29 avril 2002 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 15 juillet 2008 - art. Annexe (V)
+	  - Code de la défense. - art. R*1411-11-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+
+###### Article R*1411-17
+
+La sûreté nucléaire participe à la crédibilité et à la pérennité de la dissuasion.A cette fin, l'inspecteur des armements
+nucléaires s'assure de la cohérence des mesures prises au regard des exigences de la dissuasion, notamment auprès du délégué
+à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-702 du 29 avril 2002 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
+
+###### Article R*1411-18
+
+L'inspecteur des armements nucléaires rend compte de ses activités au Président de la République et en tient informé le
+Premier ministre. 
+
+Il en informe également, dans le domaine de leurs attributions respectives, le ministre de la défense et le chef d'état-major
+des armées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-702 du 29 avril 2002 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+
 
 ##### Chapitre II : Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense
 
@@ -44343,6 +44337,24 @@ notamment en matière budgétaire, financière, juridique, patrimoniale, immobil
 	  - Code de la défense. - art. R3121-2
 
 
+##### Section 2 :  Organisation de l'administration centrale
+
+###### Article D3111-2
+
+L'administration centrale est organisée conformément aux dispositions du décret n° 2009-1178 du 5 octobre 2009 portant
+organisation de l'administration centrale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2009-1178 du 5 octobre 2009
+
+	**Créé par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 5
+
+
 #### TITRE II : ORGANISMES ET AUTORITES MILITAIRES
 
 ##### Chapitre Ier : Les états-majors
@@ -44461,23 +44473,21 @@ l'organisation par arrêté.
 	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
 
 
-##### Sous-section unique : Le chef d'état-major des armées
+##### Paragraphe 1 : Emploi des forces
 
-###### Article R3121-6
+###### Article D3121-6
 
-Le chef d'état-major des armées garantit la cohérence capacitaire des opérations d'armement conduites par le délégué général
-pour l'armement et dont le secrétaire général pour l'administration assure le suivi et la cohérence financière. Il prend ou
-soumet au ministre les arbitrages nécessaires à cette fin. Il préside, à ce titre, le conseil des systèmes de forces.
+Responsable de l'emploi des forces et commandant les opérations militaires, le chef d'état-major des armées traduit les
+directives du Président de la République et du Gouvernement en ordres dont il lui est rendu compte de l'exécution. 
 
-Le chef d'état-major des armées assure, en liaison avec le délégué général pour l'armement, le secrétaire général pour
-l'administration et le directeur général de la gendarmerie nationale, la cohérence physico-financière des opérations liées à
-la mise au point, la préparation opérationnelle, l'emploi et le soutien des forces.
+En fonction des éventuelles évolutions de la situation générale et des capacités des forces, il propose les mesures
+militaires adaptées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -44488,117 +44498,169 @@ la mise au point, la préparation opérationnelle, l'emploi et le soutien des fo
 	  - Code de la défense. - art. D3571-4 (V)
 
 
-###### Article R3121-7
+###### Article D3121-7
 
-Le chef d'état-major des armées participe à la préparation du budget du ministère conduite par le secrétaire général pour
-l'administration et donne au ministre son avis sur les priorités à satisfaire au regard des missions assignées aux forces.
+Conseiller militaire du Gouvernement, il est consulté sur les orientations stratégiques résultant de la politique de défense
+et de sécurité du Gouvernement. 
 
-Il est tenu informé par le secrétaire général pour l'administration de l'exécution du budget lorsque la disponibilité ou
-l'emploi des forces sont affectés de façon substantielle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3121-8
-
-Le chef d'état-major des armées est responsable de l'organisation interarmées. Il a autorité sur les organismes interarmées
-institués par le ministre.
-
-Il veille à la cohérence de l'organisation des armées et donne, à ce titre, son avis sur les propositions des chefs d'état-
-major, qu'il transmet au ministre.
+Il instruit, dans le domaine de ses attributions, les questions à soumettre aux conseils et comités de défense et de sécurité
+nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+
+
+##### Paragraphe 2 :  Préparation et mise en condition d'emploi des armées
+
+###### Article D3121-8
+
+En matière de préparation et de mise en condition d'emploi des armées, le chef d'état-major des armées : 
+
+I. - Est responsable de l'élaboration et de l'exécution des plans d'emploi des forces. 
+
+Il fait élaborer et valide les concepts et les doctrines d'emploi des forces, ainsi que les plans de mobilisation. 
+
+II. - Définit les objectifs de préparation opérationnelle des armées. Il contrôle leur aptitude à remplir les missions
+assignées et rend compte au ministre. 
+
+Il dirige la préparation opérationnelle de niveau interarmées et oriente l'entraînement des armées, services et organismes
+interarmées. 
+
+III. - Au titre du renseignement d'intérêt militaire, il participe à l'élaboration et à l'exploitation du renseignement de
+défense et de sécurité nationale. 
+
+Il est membre du Conseil national du renseignement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-9
+##### Paragraphe 3 : Constitution des capacités militaires
 
-Le chef d'état-major des armées élabore les directives en matière de soutien et fixe aux armées leurs priorités dans des
-contrats opérationnels. Il définit les priorités interarmées en matière d'infrastructures, approuve celles des armées et
-veille à leur prise en compte.
+###### Article D3121-9
+
+En matière de définition du format d'ensemble des armées et de leur cohérence capacitaire, le chef d'état-major des armées : 
+
+I. - Conduit les travaux de prospective opérationnelle, évalue les risques, les menaces et les situations d'emploi
+potentielles. Il propose au ministre les orientations et priorités en matière de capacités et de posture opérationnelle. Il
+participe à la coordination des travaux prospectifs du ministère. 
+
+II. - Est responsable du besoin opérationnel et s'assure de la cohérence capacitaire globale des armées : ressources
+humaines, équipements, organisation, soutiens, préparation, concepts et doctrines. Il propose au ministre les arbitrages
+nécessaires dans ces domaines. 
+
+A ce titre, il est responsable : 
+
+- de l'identification des capacités nécessaires aux armées pour remplir leurs missions actuelles et futures et de leur mise
+en cohérence ; 
+
+- de la conduite des travaux de planification des capacités militaires en tenant compte des ressources financières
+affectées ; 
+
+- de l'élaboration et de l'actualisation de la programmation militaire, au regard des finalités opérationnelles, de leur
+compatibilité avec les ressources financières appréciées par le secrétaire général pour l'administration et des contraintes
+techniques et industrielles appréciées par le délégué général pour l'armement ; 
+
+Il veille également au respect de la cohérence capacitaire dans l'exécution de la programmation militaire. 
+
+III. - Propose au ministre les investissements nécessaires à la constitution des forces, à la préparation opérationnelle, à
+l'emploi et au soutien des armées, en veillant à leur cohérence physico-financière. 
+
+A cet effet, il prend l'avis du délégué général pour l'armement et du secrétaire général pour l'administration. 
+
+IV. - Participe à la préparation du budget du ministère, conduite par le secrétaire général pour l'administration, et propose
+au ministre les priorités à satisfaire au regard des missions assignées aux armées. 
+
+Il élabore et exécute les programmes budgétaires placés sous sa responsabilité. Il contribue à la préparation des autres
+programmes budgétaires du ministère. 
+
+V. - En matière de gouvernance des opérations d'armement, est responsable de la phase initiale d'analyse et d'expression du
+besoin et de la phase d'emploi des équipements. Il contribue également aux travaux menés sous la responsabilité du délégué
+général pour l'armement lors de la phase de réalisation des équipements. 
+
+Il élabore, enfin, en prenant avis du délégué général pour l'armement, les directives relatives au soutien dans les
+opérations d'armement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-10
+##### Paragraphe 4 : Ressources humaines
 
-Le chef d'état-major des armées assure la direction générale de la recherche et de l'exploitation du renseignement militaire.
-Il participe à l'élaboration et à l'exploitation du renseignement de défense.
+###### Article D3121-10
+
+En matière de ressources humaines, le chef d'état-major des armées est responsable de l'adéquation de la ressource humaine
+militaire et civile, d'active et de réserve aux besoins des armées, des services et des organismes interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-11
+###### Article D3121-11
 
-Sous l'autorité du ministre de la défense et selon ses directives, le chef d'état-major des armées :
+Le chef d'état-major des armées est responsable : 
 
-1° Est chargé des relations avec les armées étrangères, il dirige les missions militaires à l'étranger et en assure la
-gestion ;
+I. - De la politique relative à l'encadrement supérieur militaire issu des armées et des services et organismes interarmées,
+ainsi que de sa mise en œuvre ; 
 
-2° Organise, dans le cadre de la politique de coopération militaire internationale, la participation des armées, en prépare
-les programmes et en dresse les bilans ;
+II. - De l'organisation de la discipline des militaires affectés dans les services et organismes interarmées et des
+militaires engagés en opérations. Il s'assure de la cohérence de l'organisation de la discipline dans les armées. 
 
-3° Prépare, en liaison avec le délégué aux affaires stratégiques, les instructions du ministre aux représentants militaires
-auprès des organismes internationaux et veille à leur application ;
+III. - De la formation dans les armées. 
 
-4° Négocie, avec le soutien du secrétaire général pour l'administration, et signe, conformément aux directives du ministre,
-les accords militaires opérationnels ;
-
-5° Suit les négociations internationales qui peuvent avoir une incidence sur l'emploi ou la nature des forces, en liaison
-avec le secrétaire général de la défense nationale.
+IV. - De la définition des besoins, du pilotage des effectifs et de la masse salariale associée, et de la mise en œuvre de la
+politique du personnel civil relevant de son autorité. Il participe au dialogue social.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-12
+###### Article D3121-12
 
-Le chef d'état-major des armées élabore les concepts d'emploi et la doctrine interarmées. Il est responsable, avec les chefs
-d'état-major d'armée en ce qui concerne leur armée, de l'enseignement militaire supérieur interarmées.
+Il propose au ministre : 
 
-Il est responsable de l'organisation de la discipline des militaires affectés dans les formations relevant de son autorité, à
-l'exception des formations rattachées. Il est également responsable de l'organisation de la discipline des militaires engagés
-en opérations.
+I. - Les affectations des officiers généraux issus des armées et des services et organismes interarmées, ainsi que les
+nominations des commandants de forces. 
+
+II. - Les affectations aux postes d'attaché de défense issus des armées et est consulté pour celles relevant de la direction
+générale de l'armement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -44606,18 +44668,15 @@ en opérations.
 	  - Code de la défense. - art. D3121-24-1 (V)
 
 
-###### Article R3121-13
+###### Article D3121-13
 
-Le chef d'état-major des armées, sur avis du chef d'état-major de l'armée intéressée, propose au ministre les nominations aux
-commandements des forces, ainsi que les affectations aux postes interarmées, aux postes de chef de mission de liaison avec
-les organismes interalliés et aux postes d'attachés des forces armées et d'attachés militaires, navals et de l'air à
-l'étranger.
+Il est responsable de l'enseignement militaire supérieur du personnel des armées, services et organismes interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -44625,19 +44684,40 @@ l'étranger.
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-14
+##### Paragraphe 5 : Relations internationales militaires
 
-Le chef d'état-major des armées est responsable, dans le cadre de la programmation, de la définition du format d'ensemble des
-armées à laquelle participe le secrétaire général pour l'administration.
+###### Article D3121-14
 
-Il participe à la détermination de la politique générale du personnel civil et militaire élaborée et mise en œuvre par le
-secrétaire général pour l'administration.
+En matière de relations internationales militaires, le chef d'état-major des armées : 
+
+- est chargé des relations avec les armées étrangères et les structures militaires de l'Union européenne et de l'Organisation
+du traité de l'Atlantique Nord ; 
+
+- organise, dans le cadre de la politique de coopération militaire internationale, la participation des armées, en prépare
+les programmes et en dresse les bilans ; 
+
+- prépare, avec le directeur chargé des affaires stratégiques et le délégué général pour l'armement, les instructions du
+ministre aux attachés de défense et aux représentants militaires placés auprès des organismes internationaux ; il veille à
+leur application ; 
+
+- suit les négociations internationales qui peuvent avoir une incidence sur l'emploi ou la nature des forces, en liaison avec
+le secrétaire général de la défense nationale ; 
+
+- siège au comité militaire de certaines organisations internationales ; 
+
+- négocie, avec le soutien du secrétaire général pour l'administration, et signe les accords militaires opérationnels ; 
+
+- présente la position nationale dans les travaux de planification et de programmation des capacités conduits dans un cadre
+international ; 
+
+- est responsable de la conduite des négociations relatives à la maîtrise des armements conventionnels.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -44647,39 +44727,37 @@ secrétaire général pour l'administration.
 	  - Code de la défense. - art. D3121-24-1 (V)
 
 
-###### Article R3121-15
+##### Paragraphe 6 : Soutien des armées
 
-Le chef d'état-major des armées propose chaque année au ministre les projets d'enquête qu'il estime souhaitable de confier au
-contrôle général des armées.
+###### Article D3121-15
+
+Le chef d'état-major des armées est responsable du soutien et de l'administration des armées, des services et organismes
+interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (M)
 
 
-###### Article R3121-16
+##### Paragraphe 7 : Responsabilités diverses
 
-Sous l'autorité du Président de la République et du Gouvernement, le chef d'état-major des armées assure le commandement de
-l'ensemble des opérations militaires, sous réserve des dispositions particulières relatives aux moyens de la dissuasion.
+###### Article D3121-16
 
-Il est le conseiller militaire du Gouvernement. Il propose les décisions à caractère militaire qu'appelle la situation
-générale et des capacités des forces. Il instruit, dans le domaine de ses attributions, les questions à soumettre aux
-conseils et comités de défense. Il traduit les directives du Gouvernement en ordres d'application pour les commandements
-opérationnels, territoriaux ou spécialisés, qui lui rendent compte de leur exécution.
-
-Il est consulté sur les orientations stratégiques résultant de la politique de défense du Gouvernement.
+Le chef d'état-major des armées est responsable de l'organisation de la maîtrise des risques pour les services et organismes
+interarmées placés sous son autorité. Il veille à la cohérence et à la coordination des organisations de maîtrise des risques
+des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -44687,44 +44765,288 @@ Il est consulté sur les orientations stratégiques résultant de la politique d
 	  - Code de la défense. - art. D3121-24 (V)
 
 
-###### Article R3121-17
+###### Article D3121-17
 
-Pour l'exercice des attributions définies au présent chapitre, le chef d'état-major des armées dispose de l'état-major des
-armées dont l'organisation est fixée par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-##### Section 2 : Le comité militaire des chefs d'état-major
-
-###### Article R3121-18
-
-Les chefs d'état-major réunis sous la présidence du chef d'état-major des armées constituent le comité militaire des chefs
-d'état-major.
-
-Les chefs d'état-major sont consultés, chaque fois que nécessaire, sur l'emploi des moyens relevant de leur armée.
-
-Les attributions et les modalités de fonctionnement du comité sont fixées par arrêté du ministre de la défense.
+Le chef d'état-major des armées propose l'organisation générale des armées. Il élabore les directives correspondantes pour
+les commandements, les services et organismes interarmées, et les armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+
+
+###### Article D3121-18
+
+Le chef d'état-major des armées exerce outre-mer et à l'étranger le commandement organique des formations interarmées et des
+dispositifs permanents interarmées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3121-24 (V)
 
 
+###### Article D3121-19
+
+Le chef d'état-major des armées : 
+
+I. - Dispose d'un officier général adjoint, major général des armées, qui le seconde et le supplée dans l'exercice de ses
+attributions. 
+
+II. - Dispose du pouvoir permanent d'inspection sur les armées, les services et organismes interarmées. 
+
+III. - Préside le conseil des chefs d'état-major dont sont membres les chefs d'état-major de l'armée de terre, de la marine
+et de l'armée de l'air, ainsi que le major général des armées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 octobre 2009 - art. 1 (V)
+
+
+###### Article D3121-20
+
+Pour l'exercice de ses attributions, le chef d'état-major des armées dispose de l'état-major des armées, d'autorités et
+d'organismes interarmées dont la liste est fixée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3121-32 (V)
+
+
+##### Section 2 :  L'état-major des armées
+
+###### Article D3121-21
+
+L'état-major des armées assiste le chef d'état-major des armées. 
+
+Il est placé sous les ordres du major général des armées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3121-13
+	  - Code de la défense. - art. R3121-14
+	  - Code de la défense. - art. R3121-22
+
+
+###### Article D3121-22
+
+Le major général des armées est assisté d'un officier général adjoint, de cinq sous-chefs d'état-major et d'officiers
+généraux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3121-21 (V)
+
+
+###### Article D3121-23
+
+Sous l'autorité du major général des armées, les sous-chefs d'état-major veillent à la cohérence de l'ensemble des actions
+conduites au sein de l'état-major des armées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
+
+
+###### Article D3121-24
+
+Les sous-chefs d'état-major exercent les attributions ci-dessous, relevant des domaines dont ils sont particulièrement
+chargés. 
+
+Ils disposent chacun d'un officier général adjoint. 
+
+Leurs attributions sont : 
+
+I.-Pour le sous-chef d'état-major opérations : les attributions relevant des 2° et 4° de l'article R. * 3121-2 et des
+articles D. 3121-6 et D. 3121-8. 
+
+II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2 et de l'article D.
+3121-9. 
+
+III.-Pour le sous-chef d'état-major ressources humaines : les attributions relevant du 2° de l'article R. * 3121-2, de
+l'article D. 3121-10, des paragraphes II, III et IV de l'article D. 3121-11 et des articles D. 3121-13 et D. 3121-18. 
+
+Il contribue aux travaux liés à la définition de la politique relative à l'encadrement supérieur militaire. 
+
+IV.-Pour le sous-chef d'état-major relations internationales : les attributions relevant du paragraphe II de l'article D.
+3121-12 et de l'article D. 3121-14.
+
+V.-Pour le sous-chef d'état-major soutien : les attributions relevant du 5° de l'article R. * 3121-2 et des articles D.
+3121-15, D. 3121-16 et D. 3121-18.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2012 - art. 2 (Ab)
+	  - Arrêté du 20 mars 2015 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*3121-2
+	  - Code de la défense. - art. R3121-10
+	  - Code de la défense. - art. R3121-11
+	  - Code de la défense. - art. R3121-12
+	  - Code de la défense. - art. R3121-13
+	  - Code de la défense. - art. R3121-14
+	  - Code de la défense. - art. R3121-15
+	  - Code de la défense. - art. R3121-18
+	  - Code de la défense. - art. R3121-6
+	  - Code de la défense. - art. R3121-9
+
+
 ##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air 
 
 
 ##### Sous-section 1 : Attributions des chefs d'état-major 
+
+###### Article D3121-27
+
+Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air assistent et conseillent le chef d'état-major
+des armées ; ils lui apportent l'expertise propre à leur armée.A cet effet, ils s'appuient sur leur propre état-major ou
+sollicitent l'état-major des armées et les services et organismes interarmées qui lui sont rattachés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+
+###### Article D3121-28
+
+En ce qui concerne la préparation des forces relevant de leur armée, ils : 
+
+- sont responsables de l'instruction et de l'entraînement ; 
+
+- soumettent au chef d'état-major des armées les concepts et doctrines d'emploi des forces ; 
+
+- lui rendent compte de l'aptitude opérationnelle des forces ; 
+
+- lui proposent les plans de mobilisation du personnel et du matériel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+
+###### Article D3121-29
+
+En matière de capacités militaires : 
+
+- ils proposent au chef d'état-major des armées leurs objectifs d'état-major ; 
+
+- ils sont responsables de l'évaluation opérationnelle des prototypes et prononcent la mise en service opérationnel des
+matériels livrés, ainsi que leur retrait du service, après avoir pris l'avis du chef d'état-major des armées ; 
+
+- ils proposent au chef d'état-major des armées les doctrines et concepts d'emploi des équipements relevant de leur armée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+
+###### Article D3121-30
+
+En matière de ressources humaines, ils sont responsables pour le personnel militaire de leur armée : 
+
+- du recrutement et de la formation initiale ; 
+
+- de la discipline, du moral et de la condition du personnel ; 
+
+- des parcours professionnels et de carrière du personnel, à l'exception de l'encadrement supérieur militaire ; 
+
+- de la gestion des effectifs, des emplois et des compétences ; 
+
+- de l'administration du personnel, à l'exception des officiers généraux, sous réserve des attributions des services de
+soutien interarmées. 
+
+Pour le personnel civil relevant de leur autorité, ils assurent le pilotage des effectifs et de la masse salariale associée,
+en définissant notamment les expressions de besoins annuels et en participant à la mise en œuvre de cette politique. Ils
+participent en tant que de besoin aux différentes instances de concertation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+
+###### Article D3121-31
+
+Ils proposent au chef d'état-major des armées l'organisation particulière de leur armée et le plan de stationnement des
+unités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+
+###### Article D3121-32
+
+I.-Ils définissent les besoins de leur armée en matière de soutien et d'infrastructures, et les soumettent au chef d'état-
+major des armées. 
+
+II.-Ils sont responsables du maintien en condition opérationnelle des équipements de leur armée, dans le cadre des directives
+et des arbitrages financiers du chef d'état-major des armées, à l'exception des équipements dont le soutien relève de la
+direction générale de l'armement ou des services interarmées prévus à l'article D. 3121-20. 
+
+III.-Ils tiennent le chef d'état-major des armées informé de la disponibilité des moyens qu'ils mettent à la disposition des
+commandants des forces.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3121-20 (V)
+
 
 ###### Article R*3121-25
 
@@ -44778,170 +45100,6 @@ Ils ont autorité sur l'état-major de leur armée dont les attributions sont fi
 	  - Code de la défense. - art. D3571-4 (V)
 	  - Code de la défense. - art. R*3541-1 (V)
 	  - Code de la défense. - art. R*3551-1 (V)
-
-
-###### Article R3121-19
-
-Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air, selon les besoins exprimés et les plans
-d'emploi élaborés par le chef d'état-major des armées :
-
-1° Sont chargés d'établir les concepts d'emploi et la doctrine de leur armée respective en cohérence avec la doctrine
-interarmées ; ils sont responsables, dans ce cadre, de l'instruction, de l'entraînement et de l'organisation qu'elle
-implique ;
-
-2° Adressent au chef d'état-major des armées leurs propositions en matière de planification et de programmation des moyens et
-du format de leur armée respective, compte tenu des possibilités techniques et financières. Ils sont responsables de la
-cohérence organique de leur armée devant le chef d'état-major des armées ;
-
-3° Etablissent des plans de mobilisation du personnel et du matériel de leur armée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 27 octobre 2009 - art. 1 (V)
-
-
-###### Article R3121-20
-
-Les chefs d'état-major de chaque armée participent, sous l'autorité du chef d'état-major des armées, à la préparation du
-budget. A ce titre, ils évaluent, dans le cadre de la programmation prévue, les ressources financières correspondant aux
-besoins de leur armée.
-
-Ils rendent compte au chef d'état-major des armées des conséquences du projet de budget arrêté par le ministre au regard de
-la préparation de leur armée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D3121-32 (V)
-
-
-###### Article R3121-21
-
-Les chefs d'état-major de chaque armée sont responsables de la formation, du moral et de la discipline des militaires de leur
-armée. Ils sont, en outre, responsables de l'organisation de la discipline des militaires affectés dans une formation de leur
-armée. Ils veillent à la condition des militaires de leur armée. Ils assurent l'administration des militaires de leur armée,
-à l'exception de celle des officiers généraux, qui relève directement du ministre. 
-
-En matière d'opérations d'armement, ils définissent les objectifs d'état-major, approuvent les caractéristiques techniques
-qui sont fournies par le délégué général pour l'armement au chef d'état-major des armées et lui adressent leur avis sur le
-lancement des programmes correspondants, dirigent l'évaluation opérationnelle des prototypes et sont responsables de la mise
-en place dans les forces des matériels fabriqués. 
-
-Ils expriment les besoins en matière d'infrastructure de leur armée, proposent au secrétaire général pour l'administration
-les programmes correspondants en fonction des priorités définies par le chef d'état-major des armées et en suivent la
-réalisation. 
-
-Ils proposent au ministre les mesures relatives au recrutement, à l'affectation et à l'avancement, sous réserve des
-dispositions des articles R. 3121-13, R. 3121-14 et R. 3121-22.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3121-13 (V)
-	  - Code de la défense. - art. R3121-14 (V)
-	  - Code de la défense. - art. R3121-22 (V)
-
-
-###### Article R3121-22
-
-Les chefs d'état-major sont consultés par le ministre avant toute affectation d'officier général de leur armée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D3121-21 (V)
-
-
-###### Article R3121-23
-
-Les chefs d'état-major de chaque armée tiennent le chef d'état-major des armées informé de l'état des disponibilités des
-moyens opérationnels et mettent ces moyens à la disposition des commandants des forces. Ils organisent et assurent
-l'entretien et le soutien logistique de leur armée dans le cadre des directives du chef d'état-major des armées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3121-24
-
-Les chefs d'état-major de chaque armée exercent l'autorité organique sur les organismes à vocation interarmées relevant de
-leur armée.
-
-Ils donnent aux services placés directement sous leur autorité les directives qui découlent de la programmation des moyens de
-leur armée.
-
-Ils définissent les besoins de leur armée en matière de soutien interarmées et les soumettent au chef d'état-major des
-armées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 3 septembre 2012 - art. 2 (Ab)
-	  - Arrêté du 20 mars 2015 - art. 2 (V)
-
-
-##### Sous-section 2 : Inspections des armées
-
-##### Paragraphe 2 : Inspecteurs de la marine
-
-###### Article D3121-27
-
-Les attributions des inspecteurs placés sous les ordres du chef d'état-major de la marine sont fixées par arrêté du ministre
-de la défense.
-
-L'organisation et le fonctionnement des inspections de la marine sont fixés par instruction ministérielle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-##### Paragraphe 3 : Inspecteurs de l'armée de l'air
-
-
-###### Article D3121-28
-
-Les attributions des inspecteurs placés sous les ordres du chef d'état-major de l'armée de l'air sont fixées par arrêté du
-ministre de la défense.
-
-L'organisation et le fonctionnement des inspections de l'armée de l'air sont fixés par instruction ministérielle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
 ##### Chapitre II : La direction générale de la gendarmerie nationale
@@ -45332,19 +45490,19 @@ qu'ils donnent et des mesures qu'ils prescrivent lorsque ces instructions ou mes
 administratif et financier du département.
 
 A cet effet, en dehors des documents soumis à l'examen du contrôle en application des dispositions de l'article précédent, la
-délégation générale pour l'armement, le secrétariat général pour l'administration, les états-majors, directions et services
-lui adressent tous documents utiles et l'avisent de la réunion des commissions où les intérêts administratifs, économiques ou
+direction générale de l'armement, le secrétariat général pour l'administration, les états-majors, directions et services lui
+adressent tous documents utiles et l'avisent de la réunion des commissions où les intérêts administratifs, économiques ou
 financiers du département sont débattus ou peuvent être engagés. Le contrôleur peut prendre part aux travaux de ces
-commissions. Lorsqu'il n'est pas représenté, il peut demander qu'une copie des procès-verbaux lui soit adressée.
+commissions. Lorsqu'il n'est pas représenté, il peut demander qu'une copie des procès-verbaux lui soit adressée. 
 
 Son information peut être complétée par la communication de tout autre document ou renseignement qu'il juge utile de
 demander.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3123-9
@@ -45536,30 +45694,30 @@ Des arrêtés ministériels fixent les modalités d'application des dispositions
 
 ###### Article D3124-1
 
-Un officier général de chacune des trois armées, de la gendarmerie nationale et de la délégation générale pour l'armement
+Un officier général de chacune des trois armées, de la gendarmerie nationale et de la direction générale de l'armement
 portant le titre d'inspecteur général des armées et relevant directement du ministre remplit, sous l'autorité de celui-ci,
 des missions d'inspection, d'étude et d'information s'étendant à l'ensemble des armées, de la gendarmerie nationale, de la
-délégation générale pour l'armement.
+direction générale de l'armement. 
 
 Les inspecteurs généraux de chacune des trois armées et de la gendarmerie nationale portent notamment leur attention sur
-l'aptitude des forces armées à mener des opérations interarmées.
+l'aptitude des forces armées à mener des opérations interarmées. 
 
 Ces missions et, le cas échéant, les modalités de leur accomplissement sont fixées par le ministre de la défense,
 éventuellement sur proposition du chef d'état-major des armées, du délégué général pour l'armement, des chefs d'état-major de
-chacune des armées ou du directeur général de la gendarmerie nationale.
+chacune des armées ou du directeur général de la gendarmerie nationale. 
 
 Agissant, individuellement ou collectivement, suivant les directives du ministre, ils tirent les enseignements des
 inspections des forces, services et établissements ainsi que de manœuvres et exercices nationaux ou interalliés. Ils rendent
-compte au ministre de leurs constatations et lui font toutes propositions utiles.
+compte au ministre de leurs constatations et lui font toutes propositions utiles. 
 
 Sur décision du ministre, leurs rapports peuvent être communiqués au chef d'état-major des armées, au délégué général pour
 l'armement, au chef d'état-major de l'armée intéressée, au directeur général de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -45570,8 +45728,8 @@ l'armement, au chef d'état-major de l'armée intéressée, au directeur génér
 ###### Article D3124-2
 
 Conseillers permanents du ministre, les inspecteurs généraux sont consultés sur toute étude faite par les états-majors, la
-délégation générale pour l'armement, la direction générale de la gendarmerie nationale en matière de doctrine générale
-d'emploi et d'organisation.
+direction générale de l'armement, la direction générale de la gendarmerie nationale en matière de doctrine générale d'emploi
+et d'organisation. 
 
 Ils sont tenus informés par le chef d'état-major des armées des plans d'emploi des forces et par le délégué général pour
 l'armement, le chef d'état-major de leur armée d'appartenance, le directeur général de la gendarmerie nationale du plan
@@ -45580,9 +45738,9 @@ opérationnelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3124-3
@@ -45601,13 +45759,13 @@ les informations qu'ils jugent nécessaires.
 
 Chaque inspecteur général possède un droit d'inspection général et permanent sur l'ensemble des forces et services de son
 armée d'appartenance, ou de la gendarmerie nationale, sauf pour le contrôle gouvernemental de l'engagement des forces
-nucléaires, l'application des directives d'emploi de ces forces et la situation des matières nucléaires. L'officier général
-de l'armement inspecteur général des armées possède de même un droit d'inspection général sur l'ensemble de la délégation
-générale pour l'armement.
+nucléaires, l'application des directives d'emploi de ces forces et la situation des matières nucléaires.L'officier général de
+l'armement inspecteur général des armées possède de même un droit d'inspection général sur l'ensemble de la     direction
+générale de l'armement. 
 
 Chaque inspecteur général reçoit les rapports d'inspection établis par les inspecteurs subordonnés respectivement au délégué
 général pour l'armement, au chef d'état-major de son armée d'appartenance ou au directeur général de la gendarmerie
-nationale.
+nationale. 
 
 Il peut, avec l'accord du délégué général pour l'armement, du chef d'état-major concerné ou du directeur général de la
 gendarmerie nationale, faire exécuter par ces inspecteurs toutes les inspections d'ordre général relevant de leur compétence
@@ -45615,9 +45773,9 @@ qu'il estime nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -45627,10 +45785,10 @@ qu'il estime nécessaires.
 
 ###### Article D3124-5
 
-Dans chaque armée, la gendarmerie nationale et la délégation générale pour l'armement, l'inspecteur général est consulté par
-le délégué général, le chef d'état-major ou le directeur général pour la définition de la politique de gestion et la
-préparation des mesures individuelles intéressant les officiers généraux de son armée, de la gendarmerie nationale ou de la
-délégation générale pour l'armement. 
+Dans chaque armée, la gendarmerie nationale et la direction générale de l'armement, l'inspecteur général est consulté par le
+délégué général, le chef d'état-major ou le directeur général pour la définition de la politique de gestion et la préparation
+des mesures individuelles intéressant les officiers généraux de son armée, de la gendarmerie nationale ou de la direction
+générale de l'armement. 
 
 Il formule tout avis qu'il estime nécessaire sur les décisions individuelles concernant les autres personnels militaires. 
 
@@ -45639,14 +45797,14 @@ l'encontre des sanctions disciplinaires et professionnelles ainsi que la suspens
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4137-138 (V)
-	  - Code de la défense. - art. R4137-139 (V)
+	  - Code de la défense. - art. R4137-138
+	  - Code de la défense. - art. R4137-139
 
 
 ###### Article D3124-6
@@ -46607,13 +46765,13 @@ militaire nécessaire à l'exercice des responsabilités qui sont confiées à c
 
 Pour l'accomplissement des missions définies aux articles D. 3126-10 et D. 3126-11, la direction du renseignement militaire
 dispose du concours de l'ensemble des organismes contribuant au renseignement d'intérêt militaire, notamment de ceux qui
-relèvent de la gendarmerie nationale et de la délégation générale pour l'armement.
+relèvent de la gendarmerie nationale et de la     direction générale de l'armement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -46621,7 +46779,7 @@ relèvent de la gendarmerie nationale et de la délégation générale pour l'ar
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3126-10 (V)
+	  - Code de la défense. - art. D3126-10
 
 
 ###### Article D3126-13
@@ -49830,27 +49988,6 @@ attributions de défense.
 
 ##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
-###### Article R 3233-13
-
-La DIRISI participe à la conception et à la conduite des programmes d'équipement qui relèvent de sa compétence pour ce qui
-concerne l'exploitation et le soutien, en liaison avec les directeurs de programmes désignés en application du décret n°
-2005-72 du 31 janvier 2005, fixant les attributions et l'organisation de la délégation générale pour l'armement, et l'équipe
-intégrée que chacun d'eux anime. 
-
-Elle participe à la coordination et à l'expertise globale des systèmes d'information et de communication au sein du ministère
-de la défense.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-72 du 31 janvier 2005 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
 ###### Article R3233-10
 
 La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI) est un service de
@@ -49915,6 +50052,35 @@ organismes de la défense.
 	**Nouveaux textes**:
 
 	  - Code de la défense. - art. R3232-23 (V)
+
+
+###### Article R3233-13
+
+La DIRISI participe à la conception et à la conduite des programmes d'équipement qui relèvent de sa compétence pour ce qui
+concerne l'exploitation et le soutien, en liaison avec les directeurs de programmes désignés en application du décret n°
+2005-72 du 31 janvier 2005, fixant les attributions et l'organisation de la     direction générale de l'armement, et l'équipe
+intégrée que chacun d'eux anime. 
+
+Elle participe à la coordination et à l'expertise globale des systèmes d'information et de communication au sein du ministère
+de la défense.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-72 du 31 janvier 2005
+
+	**Modifié par**:
+
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-24 (V)
 
 
 ###### Article R3233-14
@@ -50099,27 +50265,35 @@ L'organisation et le fonctionnement de ce comité sont précisés par un arrêt�
 ###### Article R3233-22
 
 La SIMMAD élabore les règles générales de maintien en condition opérationnelle des matériels aéronautiques des armées, de la
-gendarmerie nationale et de la délégation générale pour l'armement en fonction du besoin opérationnel exprimé par celles-ci
-et les fait appliquer conformément aux instructions techniques de la délégation générale pour l'armement, adaptées pour tenir
+gendarmerie nationale et de la direction générale de l'armement en fonction du besoin opérationnel exprimé par celles-ci et
+les fait appliquer conformément aux instructions techniques de la direction générale de l'armement, adaptées pour tenir
 compte des spécificités du soutien des matériels aéronautiques. Elle participe, en liaison avec ces organismes et l'état-
-major des armées, à la définition de la politique logistique et à sa mise en œuvre.
+major des armées, à la définition de la politique logistique et à sa mise en œuvre. 
 
 Les matériels mentionnés au premier alinéa, dont la liste est fixée par arrêté du ministre de la défense, comprennent les
-matériels aériens et les matériels aéronautiques non aéroportés et certains systèmes d'armes et de missiles non aéroportés.
+matériels aériens et les matériels aéronautiques non aéroportés et certains systèmes d'armes et de missiles non aéroportés. 
 
 En outre, la SIMMAD peut être chargée, dans les conditions fixées par le ministre de la défense, d'assurer sa mission au
 profit d'organismes extérieurs au ministère ou de participer à des programmes développés en coopération internationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 9 février 2016 (V)
-	  - Code de la défense. - art. R3233-23 (V)
+	  - Code de la défense. - art. R3233-23 (T)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-32 (V)
 
 
 ###### Article R3233-23
@@ -50128,18 +50302,26 @@ Pour l'ensemble des matériels mentionnés à l'article R. 3233-22, la SIMMAD es
 
 1° D'assurer la meilleure disponibilité des aéronefs et d'en maîtriser les coûts ; 
 
-2° De garantir la cohérence des actions de maintien en condition opérationnelle et de proposer à la délégation générale pour
+2° De garantir la cohérence des actions de maintien en condition opérationnelle et de proposer à la direction générale de
 l'armement, aux armées et à la direction générale de la gendarmerie nationale les actions correspondantes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-33 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3233-22 (V)
+	  - Code de la défense. - art. R3233-22 (T)
 
 	**Cité par**:
 
@@ -50172,12 +50354,12 @@ b) Des matériels sol et d'environnement à caractère aéronautique qui ne font
 de sécurité nucléaire ; 
 
 c) Des matériels aéronautiques déjà qualifiés et ne nécessitant pas de complément de qualification, hormis les matériels qui
-relèvent de la compétence de la délégation générale pour l'armement ; 
+relèvent de la compétence de la     direction générale de l'armement ; 
 
-7° Définit ses instructions d'achat en concertation avec les services compétents de la délégation générale pour l'armement et
-en cohérence avec les instructions d'achat des armées et de la gendarmerie nationale ; 
+7° Définit ses instructions d'achat en concertation avec les services compétents de la     direction générale de l'armement
+et en cohérence avec les instructions d'achat des armées et de la gendarmerie nationale ; 
 
-8° Définit sa politique de qualité en concertation avec les services compétents de la délégation générale pour l'armement et
+8° Définit sa politique de qualité en concertation avec les services compétents de la     direction générale de l'armement et
 en cohérence avec les politiques de qualité des armées et de la gendarmerie nationale ; 
 
 9° Gère les stocks de rechanges et les outillages spécifiques appartenant à l'Etat, hormis ceux du service de la maintenance
@@ -50187,39 +50369,43 @@ Elle est associée au processus d'approvisionnement du service de la maintenance
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°2005-1727 du 30 décembre 2005 - art. Annexe (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article R3233-25
 
-Pour les matériels de son périmètre de gestion, la SIMMAD est chargée :
+Pour les matériels de son périmètre de gestion, la SIMMAD est chargée : 
 
 1° De réaliser les approvisionnements nécessaires à tous les niveaux techniques d'intervention ; hormis les
-approvisionnements de la responsabilité de la délégation générale pour l'armement ;
+approvisionnements de la responsabilité de la     direction générale de l'armement ; 
 
 2° De prononcer les mouvements ainsi que les décisions relatives aux prêts, aux cessions et à l'élimination des matériels de
-sa compétence ;
+sa compétence ; 
 
-3° D'animer le traitement des faits techniques ;
+3° D'animer le traitement des faits techniques ; 
 
 4° De faire assurer les opérations d'entretien et de réparation dans l'industrie et dans les établissements relevant de la
-délégation générale pour l'armement ;
+direction générale de l'armement ; 
 
-5° D'animer les études relatives à l'évolution des opérations de maintien en condition opérationnelle ;
+5° D'animer les études relatives à l'évolution des opérations de maintien en condition opérationnelle ; 
 
 6° D'étudier les mesures propres à améliorer la disponibilité, la fiabilité et le coût de fonctionnement des matériels.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-35 (V)
 
 
 ###### Article R3233-26
@@ -50956,43 +51142,43 @@ l'armement nommé par arrêté du ministre de la défense pour une durée de tro
 ###### Article D3331-3
 
 I. ― Le Conseil général de l'armement comprend, outre le président et le vice-président, des membres de droit et des membres
-titulaires.
+titulaires. 
 
-II. ― Sont membres de droit :
+II. ― Sont membres de droit : 
 
-1° Le délégué général pour l'armement ;
+1° Le délégué général pour l'armement ; 
 
-2° L'inspecteur général des armées-armement ;
+2° L'inspecteur général des armées-armement ; 
 
-3° L'inspecteur de l'armement chef de l'inspection de l'armement ;
+3° L'inspecteur de l'armement chef de l'inspection de l'armement ; 
 
-4° Le directeur des ressources humaines de la délégation générale pour l'armement ;
+4° Le directeur des ressources humaines de la     direction générale de l'armement ; 
 
-5° Le secrétaire général du Conseil général de l'armement.
+5° Le secrétaire général du Conseil général de l'armement. 
 
-III. ― Sont membres titulaires :
+III. ― Sont membres titulaires : 
 
-1° Cinq personnalités qualifiées ;
+1° Cinq personnalités qualifiées ; 
 
-2° Un officier en position d'activité appartenant à l'un des corps militaires de l'armement ;
+2° Un officier en position d'activité appartenant à l'un des corps militaires de l'armement ; 
 
 3° Cinq officiers choisis parmi les personnels des corps militaires de l'armement exerçant des fonctions à l'extérieur de la
-délégation générale pour l'armement.
+direction générale de l'armement. 
 
 IV. ― Les membres titulaires sont nommés, sur proposition conjointe du vice-président du Conseil général de l'armement et du
 délégué général pour l'armement, par arrêté du ministre de la défense pour une durée de trois ans renouvelable.
 
 V. ― En cas de cessation de fonctions de l'un des membres titulaires, un nouveau membre est désigné pour la durée restant à
-courir du mandat de son prédécesseur.
+courir du mandat de son prédécesseur. 
 
 VI. ― Le Conseil général de l'armement peut faire participer à ses travaux, avec voix consultative, des inspecteurs de
 l'armement ainsi que des personnes choisies en raison de leurs compétences.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3331-4
@@ -51009,41 +51195,41 @@ jour de chaque session.
 
 ###### Article D3331-5
 
-Le Conseil général de l'armement dispose d'une structure permanente placée sous l'autorité du vice-président.
+Le Conseil général de l'armement dispose d'une structure permanente placée sous l'autorité du vice-président. 
 
 Cette structure permanente comprend un secrétariat général, une section études générales, une section études techniques et
-une section carrières.
+une section carrières. 
 
 Le secrétaire général et les présidents de section sont des ingénieurs généraux ou des ingénieurs en chef de l'armement, en
 activité, nommés par le ministre de la défense sur proposition du délégué général pour l'armement, après avis du vice-
-président du Conseil général de l'armement.
+président du Conseil général de l'armement. 
 
-Le secrétaire général assure la gestion des moyens de la structure permanente du Conseil général de l'armement.
+Le secrétaire général assure la gestion des moyens de la structure permanente du Conseil général de l'armement. 
 
-La structure permanente peut associer à ses travaux des personnalités qualifiées extérieures.
+La structure permanente peut associer à ses travaux des personnalités qualifiées extérieures. 
 
-La structure permanente bénéficie en tant que de besoin du concours de la délégation générale pour l'armement. Elle peut
+La structure permanente bénéficie en tant que de besoin du concours de la     direction générale de l'armement. Elle peut
 demander le concours des inspecteurs de l'armement dans les conditions fixées par une instruction particulière du ministre de
 la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3331-6
 
 Un arrêté du ministre de la défense fixe les modalités d'application du présent chapitre et, notamment, les attributions du
-secrétaire général et des présidents de section ainsi que les modalités du soutien apporté par la délégation générale pour
+secrétaire général et des présidents de section ainsi que les modalités du soutien apporté par la     direction générale de
 l'armement au Conseil général de l'armement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 #### TITRE IV : LE COMITE CONSULTATIF DE SANTE DES ARMEES
@@ -51503,61 +51689,61 @@ formation et d'un conseil de la recherche.
 
 ###### Article R3411-7
 
-I. ― Le conseil d'administration de l'institut comprend vingt-sept membres :
+I. ― Le conseil d'administration de l'institut comprend vingt-sept membres : 
 
-1° Trois représentants du ministre de la défense, membres de droit :
+1° Trois représentants du ministre de la défense, membres de droit : 
 
-a) Le directeur des ressources humaines de la délégation générale pour l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
 
-b) Le directeur des affaires financières du secrétariat général pour l'administration, ou son représentant ;
+b) Le directeur des affaires financières du secrétariat général pour l'administration, ou son représentant ; 
 
-c) L'inspecteur de l'armement en charge de l'aéronautique et de l'espace.
+c) L'inspecteur de l'armement en charge de l'aéronautique et de l'espace. 
 
-2° Un directeur de l'administration centrale de la délégation générale pour l'armement nommé par arrêté du ministre de la
-défense, ou son représentant ;
+2° Un directeur de l'administration centrale de la     direction générale de l'armement nommé par arrêté du ministre de la
+défense, ou son représentant ; 
 
-3° Cinq autres représentants de l'Etat nommés par arrêté du ministre de la défense sur proposition du ministre intéressé :
+3° Cinq autres représentants de l'Etat nommés par arrêté du ministre de la défense sur proposition du ministre intéressé : 
 
-a) Un représentant du ministre chargé de l'industrie ;
+a) Un représentant du ministre chargé de l'industrie ; 
 
-b) Un représentant du ministre chargé de l'enseignement supérieur ;
+b) Un représentant du ministre chargé de l'enseignement supérieur ; 
 
-c) Un représentant du ministre chargé de l'espace ;
+c) Un représentant du ministre chargé de l'espace ; 
 
-d) Un représentant du ministre chargé de l'aviation civile ;
+d) Un représentant du ministre chargé de l'aviation civile ; 
 
-e) Un représentant du ministre chargé du budget.
+e) Un représentant du ministre chargé du budget. 
 
-4° Le président de l'Office national d'études et de recherches aérospatiales ou son représentant, membre de droit ;
+4° Le président de l'Office national d'études et de recherches aérospatiales ou son représentant, membre de droit ; 
 
 5° Cinq personnalités qualifiées nommées, en raison de leurs compétences professionnelles, scientifiques ou académiques
-correspondant aux activités de l'institut, par arrêté du ministre de la défense ;
+correspondant aux activités de l'institut, par arrêté du ministre de la défense ; 
 
 6° Un représentant du conseil régional de la région du siège de l'établissement désigné par le président du conseil
-régional ;
+régional ; 
 
 7° Deux représentants des associations des anciens élèves nommés par arrêté du ministre de la défense sur proposition du
-président de chaque association ;
+président de chaque association ; 
 
 8° Six représentants du personnel élus au scrutin majoritaire uninominal à deux tours parmi les personnels d'enseignement et
 de recherche, les personnels techniques d'enseignement et de recherche, les personnels technique et administratif et
 comprenant quatre représentants du personnel d'enseignement et de recherche et deux représentants du personnel technique et
-administratif de l'institut ;
+administratif de l'institut ; 
 
-9° Deux étudiants civils élus ;
+9° Deux étudiants civils élus ; 
 
-10° Un élève ingénieur des corps de l'armement désigné par le directeur général de l'institut sur proposition des élèves.
+10° Un élève ingénieur des corps de l'armement désigné par le directeur général de l'institut sur proposition des élèves. 
 
-II. ― Un arrêté du ministre de la défense précise les modalités des élections prévues aux 8° et 9° du I.
+II. ― Un arrêté du ministre de la défense précise les modalités des élections prévues aux 8° et 9° du I. 
 
 III. ― Le directeur général de l'institut, l'autorité chargée du contrôle financier de l'établissement ou son représentant et
 l'agent comptable assistent aux séances du conseil avec voix consultative.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -52045,29 +52231,29 @@ III. ― Les élèves, auditeurs et stagiaires sont désignés pour la présente
 
 ###### Article D3411-40
 
-Le conseil de la formation de l'Ecole nationale supérieure de techniques avancées comprend :
+Le conseil de la formation de l'Ecole nationale supérieure de techniques avancées comprend : 
 
-1° Le directeur de l'école ou son représentant, président ;
+1° Le directeur de l'école ou son représentant, président ; 
 
-2° Le directeur de la formation et de la recherche ;
+2° Le directeur de la formation et de la recherche ; 
 
-3° Les responsables des départements d'enseignement ;
+3° Les responsables des départements d'enseignement ; 
 
-4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ;
+4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ; 
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Trois représentants de la     direction générale de l'armement ; 
 
 6° Cinq personnalités extérieures, dont une ayant la qualité d'ancien élève de l'école, choisies par le conseil
-d'administration, après avis du directeur ;
+d'administration, après avis du directeur ; 
 
 7° Trois représentants des étudiants, dont obligatoirement un stagiaire de troisième cycle, désignés par le directeur après
 avis des étudiants.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3411-41
@@ -52090,28 +52276,28 @@ Il donne son avis sur toute question qui lui est soumise par le directeur de l'�
 
 ###### Article D3411-42
 
-Le conseil de la recherche de l'Ecole nationale supérieure de techniques avancées comprend :
+Le conseil de la recherche de l'Ecole nationale supérieure de techniques avancées comprend : 
 
-1° Le directeur de l'école ou son représentant, président ;
+1° Le directeur de l'école ou son représentant, président ; 
 
-2° Le directeur de la formation et de la recherche ;
+2° Le directeur de la formation et de la recherche ; 
 
-3° Les responsables des laboratoires de recherche de l'école ;
+3° Les responsables des laboratoires de recherche de l'école ; 
 
 4° Trois représentants du personnel des laboratoires de l'école, dont au moins un chercheur ou ingénieur, désignés par ce
-personnel ;
+personnel ; 
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Trois représentants de la     direction générale de l'armement ; 
 
-6° Cinq personnalités extérieures choisies par le conseil d'administration ;
+6° Cinq personnalités extérieures choisies par le conseil d'administration ; 
 
 7° Trois représentants des stagiaires de troisième cycle désignés par le directeur après avis de ces stagiaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3411-43
@@ -52172,58 +52358,58 @@ directeur, assisté d'un conseil de la formation et d'un conseil de la recherche
 
 ###### Article R3411-33
 
-I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-quatre membres.
+I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-quatre membres. 
 
-Il comprend :
+Il comprend : 
 
-1° Huit représentants de l'Etat :
+1° Huit représentants de l'Etat : 
 
-a) Le directeur des ressources humaines de la délégation générale pour l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
 
-b) Un directeur de l'administration centrale de la délégation générale pour l'armement, ou son représentant ;
+b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ; 
 
-c) Le directeur des affaires financières du ministère de la défense, ou son représentant ;
+c) Le directeur des affaires financières du ministère de la défense, ou son représentant ; 
 
-d) Un inspecteur de l'armement ;
+d) Un inspecteur de l'armement ; 
 
-e) Un représentant du ministre chargé de l'industrie ;
+e) Un représentant du ministre chargé de l'industrie ; 
 
-f) Un représentant du ministre chargé de l'enseignement supérieur ;
+f) Un représentant du ministre chargé de l'enseignement supérieur ; 
 
-g) Un représentant du ministre chargé de la mer ;
+g) Un représentant du ministre chargé de la mer ; 
 
-h) Un représentant du ministre chargé du budget.
+h) Un représentant du ministre chargé du budget. 
 
-2° Huit personnalités :
+2° Huit personnalités : 
 
-a) Le directeur général de l'Ecole polytechnique ou son représentant ;
+a) Le directeur général de l'Ecole polytechnique ou son représentant ; 
 
 b) Cinq personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux
-activités de l'école ;
+activités de l'école ; 
 
-c) Un représentant du conseil régional de la région Ile-de-France ;
+c) Un représentant du conseil régional de la région Ile-de-France ; 
 
-d) Un représentant de l'association des anciens élèves de l'école.
+d) Un représentant de l'association des anciens élèves de l'école. 
 
-3° Huit représentants du personnel et des étudiants :
+3° Huit représentants du personnel et des étudiants : 
 
-a) Quatre membres du personnel d'enseignement et de recherche de l'école ;
+a) Quatre membres du personnel d'enseignement et de recherche de l'école ; 
 
-b) Un membre du personnel technique ou administratif de l'école ;
+b) Un membre du personnel technique ou administratif de l'école ; 
 
 c) Trois étudiants, dont obligatoirement un ingénieur de l'armement et un étudiant civil, désignés par le directeur de
-l'école sur proposition des catégories d'étudiants concernées.
+l'école sur proposition des catégories d'étudiants concernées. 
 
-II. ― Les représentants des personnels sont élus suivant des modalités fixées par arrêté du ministre de la défense.
+II. ― Les représentants des personnels sont élus suivant des modalités fixées par arrêté du ministre de la défense. 
 
 Le directeur de l'école, le contrôleur financier et l'agent comptable assistent aux séances du conseil avec voix
 consultative.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -52786,31 +52972,31 @@ d'étudiants.
 
 ###### Article D3411-68
 
-Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend :
+Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend : 
 
-1° Le directeur de l'école ou son représentant, président ;
+1° Le directeur de l'école ou son représentant, président ; 
 
-2° Le directeur scientifique ;
+2° Le directeur scientifique ; 
 
 3° Trois représentants de l'administration de l'école choisis parmi les responsables de l'organisation et de la réalisation
 des formations à l'école. La liste de ces représentants est arrêtée par le directeur, après avis du conseil
-d'administration ;
+d'administration ; 
 
-4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ;
+4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ; 
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Trois représentants de la     direction générale de l'armement ; 
 
 6° Cinq personnalités extérieures, dont une ayant la qualité d'ancien élève de l'école, choisies par le conseil
-d'administration, après avis du directeur ;
+d'administration, après avis du directeur ; 
 
 7° Trois représentants des étudiants, dont obligatoirement un stagiaire de troisième cycle, désignés par le directeur après
 avis des étudiants.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -52837,28 +53023,28 @@ Il entend, en tant que de besoin, les rapports des responsables pédagogiques de
 
 ###### Article D3411-70
 
-Le conseil de la recherche de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend :
+Le conseil de la recherche de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend : 
 
-1° Le directeur de l'école ou son représentant, président ;
+1° Le directeur de l'école ou son représentant, président ; 
 
-2° Le directeur scientifique ;
+2° Le directeur scientifique ; 
 
-3° Les responsables des laboratoires de recherche de l'école ;
+3° Les responsables des laboratoires de recherche de l'école ; 
 
 4° Trois représentants du personnel des laboratoires de l'école, dont au moins un chercheur ou ingénieur, désignés par ce
-personnel ;
+personnel ; 
 
-5° Trois représentants de la délégation générale pour l'armement ;
+5° Trois représentants de la     direction générale de l'armement ; 
 
-6° Cinq personnalités extérieures choisies par le conseil d'administration ;
+6° Cinq personnalités extérieures choisies par le conseil d'administration ; 
 
 7° Trois représentants des stagiaires de troisième cycle désignés par le directeur après avis de ces stagiaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D3411-71
@@ -52938,60 +53124,60 @@ d'administration et dirigée par un directeur, assisté d'un conseil de la forma
 ###### Article R3411-61
 
 I. ― Le conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est
-composé de vingt-quatre membres.
+composé de vingt-quatre membres. 
 
-Il comprend :
+Il comprend : 
 
-1° Neuf représentants de l'Etat :
+1° Neuf représentants de l'Etat : 
 
-a) Le directeur des ressources humaines de la délégation générale pour l'armement, ou son représentant ;
+a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
 
-b) Un directeur de l'administration centrale de la délégation générale pour l'armement, ou son représentant ;
+b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ; 
 
-c) Le directeur des affaires financières du ministère de la défense, ou son représentant ;
+c) Le directeur des affaires financières du ministère de la défense, ou son représentant ; 
 
-d) Un inspecteur de l'armement ;
+d) Un inspecteur de l'armement ; 
 
-e) Un représentant du chef d'état-major des armées ;
+e) Un représentant du chef d'état-major des armées ; 
 
-f) Un représentant du ministre chargé de l'industrie ;
+f) Un représentant du ministre chargé de l'industrie ; 
 
-g) Un représentant du ministre chargé de l'enseignement supérieur ;
+g) Un représentant du ministre chargé de l'enseignement supérieur ; 
 
-h) Un représentant du ministre chargé de la mer ;
+h) Un représentant du ministre chargé de la mer ; 
 
-i) Un représentant du ministre chargé du budget ;
+i) Un représentant du ministre chargé du budget ; 
 
-2° Sept personnalités :
+2° Sept personnalités : 
 
-a) Le directeur général de l'institut supérieur de l'aéronautique et de l'espace ;
+a) Le directeur général de l'institut supérieur de l'aéronautique et de l'espace ; 
 
 b) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant
-aux activités de l'école ;
+aux activités de l'école ; 
 
-c) Un représentant de l'association des anciens élèves de l'école ;
+c) Un représentant de l'association des anciens élèves de l'école ; 
 
-d) Un représentant du conseil régional de la région Bretagne ;
+d) Un représentant du conseil régional de la région Bretagne ; 
 
-3° Huit représentants du personnel et des étudiants :
+3° Huit représentants du personnel et des étudiants : 
 
-a) Quatre membres du personnel d'enseignement et de recherche de l'école ;
+a) Quatre membres du personnel d'enseignement et de recherche de l'école ; 
 
-b) Un membre du personnel technique ou administratif de l'école ;
+b) Un membre du personnel technique ou administratif de l'école ; 
 
 c) Trois étudiants, dont obligatoirement un ingénieur des études et techniques d'armement et un étudiant civil, désignés par
-le directeur de l'école sur proposition des catégories d'étudiants concernées.
+le directeur de l'école sur proposition des catégories d'étudiants concernées. 
 
-II. ― Les représentants des personnels sont élus suivant des modalités fixées par arrêté du ministre de la défense.
+II. ― Les représentants des personnels sont élus suivant des modalités fixées par arrêté du ministre de la défense. 
 
 Le directeur de l'école, le contrôleur financier et l'agent comptable assistent aux séances du conseil avec voix
 consultative.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -53970,7 +54156,7 @@ suivantes :
 
 7° Commandants de formations administratives au sein desquelles il a été créé un cercle ou un foyer ; 
 
-8° Directeur d'établissements de services ou de centres de la délégation générale pour l'armement ; 
+8° Directeur d'établissements de services ou de centres de la direction générale de l'armement ; 
 
 9° Autorité désignée par le chef d'état-major des armées pour assurer le contrôle administratif des éléments français
 déployés à l'étranger. 
@@ -53984,9 +54170,13 @@ Les autorités énumérées ci-dessus peuvent déléguer leur signature à l'un 
 	  - Arrêté du 9 juillet 1998 - art. 1 (V)
 	  - Code de la défense. - art. R3412-5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3412-16 (V)
 
 
 ###### Article R3412-18
@@ -54011,23 +54201,23 @@ foyers ainsi que les modalités d'exercice de leur contrôle interne.
 ###### Article R3412-19
 
 Chaque cercle ou foyer transmet au chef d'état-major dont il relève, au directeur général de la gendarmerie nationale, au
-directeur de service commun ou au directeur central dans le cas de la délégation générale pour l'armement un rapport annuel
-relatif à sa gestion et à son activité ainsi qu'un compte de résultat et un bilan dans leur forme simplifiée.
+directeur de service commun ou au directeur central dans le cas de la     direction générale de l'armement un rapport annuel
+relatif à sa gestion et à son activité ainsi qu'un compte de résultat et un bilan dans leur forme simplifiée. 
 
-Une synthèse de ces rapports est adressée :
+Une synthèse de ces rapports est adressée : 
 
-― au chef d'état-major des armées par chaque chef d'état-major ;
+― au chef d'état-major des armées par chaque chef d'état-major ; 
 
-― au délégué général pour l'armement par le directeur central dans le cas de la délégation générale pour l'armement ;
+― au délégué général pour l'armement par le directeur central dans le cas de la     direction générale de l'armement ; 
 
 ― au ministre de la défense par le chef d'état-major des armées, le directeur général de la gendarmerie nationale et le
 délégué général pour l'armement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ##### Section 3 : Dispositions spécifiques aux foyers
@@ -60339,18 +60529,18 @@ du ministre de la défense, du ministre chargé de la recherche et du ministre c
 
 Le président du conseil d'administration est également assisté par un directeur technique général qui prépare, anime et suit
 les activités techniques de l'office et notamment les études et essais effectués pour le compte des directions et services
-techniques de la délégation générale pour l'armement, de la direction générale de l'aviation civile, du Centre national
-d'études spatiales ou des industriels.
+techniques de la     direction générale de l'armement, de la direction générale de l'aviation civile, du Centre national
+d'études spatiales ou des industriels. 
 
-Le directeur technique général participe aux réunions du conseil d'administration sans prendre part aux votes.
+Le directeur technique général participe aux réunions du conseil d'administration sans prendre part aux votes. 
 
 Il est nommé par le président du conseil d'administration, avec l'agrément du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article R3423-19
@@ -60459,33 +60649,33 @@ recherches suivant une procédure dont il fixe les modalités.
 
 ###### Article R3423-23
 
-I. ― Le comité scientifique et technique comprend :
+I. ― Le comité scientifique et technique comprend : 
 
-1° Deux membres de droit :
+1° Deux membres de droit : 
 
-a) Le directeur scientifique général de l'office, président ;
+a) Le directeur scientifique général de l'office, président ; 
 
-b) Le chef du service des recherches de la direction des recherches, études et techniques du ministère de la défense ;
+b) Le chef du service des recherches de la direction des recherches, études et techniques du ministère de la défense ; 
 
 2° Vingt membres nommés en raison de leur compétence scientifique et technique, pour une durée de trois ans, par arrêté du
-ministre de la défense, après consultation des ministres chargés de la recherche et de l'aviation civile :
+ministre de la défense, après consultation des ministres chargés de la recherche et de l'aviation civile : 
 
-a) Quatre personnalités scientifiques ;
+a) Quatre personnalités scientifiques ; 
 
-b) Quatre personnalités appartenant à l'industrie aérospatiale ;
+b) Quatre personnalités appartenant à l'industrie aérospatiale ; 
 
-c) Deux représentants de la délégation générale pour l'armement ;
+c) Deux représentants de la     direction générale de l'armement ; 
 
-d) Un représentant du ministère chargé de la recherche ;
+d) Un représentant du ministère chargé de la recherche ; 
 
-e) Un représentant de la direction générale de l'aviation civile ;
+e) Un représentant de la direction générale de l'aviation civile ; 
 
-f) Un représentant du Centre national d'études spatiales ;
+f) Un représentant du Centre national d'études spatiales ; 
 
-g) Un représentant du Centre national de la recherche scientifique ;
+g) Un représentant du Centre national de la recherche scientifique ; 
 
 h) Six représentants du personnel de l'office choisis après consultation des organisations syndicales représentatives à
-l'office.
+l'office. 
 
 II. ― Le président du conseil d'administration et le directeur technique général de l'office peuvent participer aux réunions
 du comité scientifique et technique. Le directeur scientifique de la direction des recherches, études et techniques du
@@ -60494,9 +60684,9 @@ ministère de la défense et le directeur des programmes aéronautiques civils d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article R3423-24
@@ -60768,15 +60958,26 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 
 ###### Article D3541-4
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles D. 3121-26 à D. 3124-11, D. 3126-1 à D.
-3126-14, D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D.
-3224-18, D. 3232-1 à D. 3232-8.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14,
+D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D. 3224-18,
+D. 3232-1 à D. 3232-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3126-1
+	  - Code de la défense. - art. D3222-11
+	  - Code de la défense. - art. D3222-12
+	  - Code de la défense. - art. D3222-19
+	  - Code de la défense. - art. D3223-51
+	  - Code de la défense. - art. D3223-7
+	  - Code de la défense. - art. D3224-13
+	  - Code de la défense. - art. R3121-6
 
 
 ###### Article R*3541-1
@@ -60862,26 +61063,15 @@ R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ;
 
 ###### Article D3551-4
 
-Sont applicables en Polynésie française les dispositions des articles D. 3121-26 à D. 3124-11, D. 3126-1 à D. 3126-14, D.
+Sont applicables en Polynésie française les dispositions des articles    D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D.
 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D. 3224-18, D.
 3232-1 à D. 3232-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. D3121-26 (V)
-	  - Code de la défense. - art. D3126-1 (V)
-	  - Code de la défense. - art. D3222-11 (V)
-	  - Code de la défense. - art. D3222-19 (V)
-	  - Code de la défense. - art. D3223-51 (V)
-	  - Code de la défense. - art. D3223-7 (V)
-	  - Code de la défense. - art. D3224-13 (V)
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 4
 
 
 ###### Article R*3551-1
@@ -60965,26 +61155,15 @@ Sont applicables en Polynésie française :
 
 ###### Article D3561-4
 
-Sont applicables en Nouvelle-Calédonie les dispositions des D. 3121-26 à D. 3124-11, D. 3126-1 à D. 3126-14, D. 3222-11 et D.
-3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D. 3224-18, D. 3232-1 à D.
+Sont applicables en Nouvelle-Calédonie les dispositions des    D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D. 3222-11 et
+D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D. 3224-18, D. 3232-1 à D.
 3232-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. D3121-26 (V)
-	  - Code de la défense. - art. D3126-1 (V)
-	  - Code de la défense. - art. D3222-11 (V)
-	  - Code de la défense. - art. D3222-19 (V)
-	  - Code de la défense. - art. D3223-51 (V)
-	  - Code de la défense. - art. D3223-7 (V)
-	  - Code de la défense. - art. D3224-13 (V)
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 4
 
 
 ###### Article R*3561-1
@@ -61068,26 +61247,19 @@ Sont applicables en Nouvelle-Calédonie :
 ###### Article D3571-4
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles D. 3121-26 à D. 3124-11, D. 3126-1 à D.
+publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles    D. 3121-6 à D. 3124-11, D. 3126-1 à D.
 3126-14, D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3224-13 à D.
 3224-18, D. 3232-1 à D. 3232-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. D3121-26 (V)
-	  - Code de la défense. - art. D3126-1 (V)
-	  - Code de la défense. - art. D3222-11 (V)
-	  - Code de la défense. - art. D3222-19 (V)
-	  - Code de la défense. - art. D3223-51 (V)
-	  - Code de la défense. - art. D3223-7 (V)
-	  - Code de la défense. - art. D3224-13 (V)
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+
+	**Modifié par**:
+
+	  - Décret n°2009-1177 du 5 octobre 2009 - art. 4
 
 
 ###### Article R*3571-1
@@ -63638,27 +63810,27 @@ par les membres du conseil.
 
 ###### Article R4124-6
 
-Les conseils de la fonction militaire, instances nationales de consultation et de concertation, sont :
+Les conseils de la fonction militaire, instances nationales de consultation et de concertation, sont : 
 
-1° Le conseil de la fonction militaire de l'armée de terre ;
+1° Le conseil de la fonction militaire de l'armée de terre ; 
 
-2° Le conseil de la fonction militaire de la marine nationale ;
+2° Le conseil de la fonction militaire de la marine nationale ; 
 
-3° Le conseil de la fonction militaire de l'armée de l'air ;
+3° Le conseil de la fonction militaire de l'armée de l'air ; 
 
-4° Le conseil de la fonction militaire de la gendarmerie nationale ;
+4° Le conseil de la fonction militaire de la gendarmerie nationale ; 
 
-5° Le conseil de la fonction militaire de la délégation générale pour l'armement ;
+5° Le conseil de la fonction militaire de la     direction générale de l'armement ; 
 
-6° Le conseil de la fonction militaire du service de santé des armées ;
+6° Le conseil de la fonction militaire du service de santé des armées ; 
 
 7° Le conseil de la fonction militaire du service des essences des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -72056,8 +72228,8 @@ la défense.
 ###### Article D4152-4
 
 Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire supérieur des premier et deuxième degrés
-relève du chef d'état-major concerné. A la délégation générale pour l'armement, cet enseignement relève du délégué général
-pour l'armement.
+relève du chef d'état-major concerné. A la direction générale de l'armement, cet enseignement relève du délégué général pour
+l'armement. 
 
 Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central
 du service des essences des armées et, pour la justice militaire, le directeur des affaires juridiques peuvent être chargés
@@ -72070,32 +72242,32 @@ deuxième degré sont placés sous l'autorité directe du chef d'état-major des
 
 	**Modifié par**:
 
-	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D4152-5
 
 Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
-désignés par le chef d'état-major de l'armée concernée. A la délégation générale pour l'armement, dans la gendarmerie
+désignés par le chef d'état-major de l'armée concernée.A la     direction générale de l'armement, dans la gendarmerie
 nationale, le service de santé des armées, le service des essences des armées et la justice militaire, ils sont désignés par
-le délégué ou le directeur concerné.
+le délégué ou le directeur concerné. 
 
-Ces désignations sont effectuées :
+Ces désignations sont effectuées : 
 
 1° Pour l'admission à l'enseignement du premier degré, dans les conditions fixées par instructions du ministre de la
-défense ;
+défense ; 
 
-2° Pour l'admission à l'enseignement du deuxième degré :
+2° Pour l'admission à l'enseignement du deuxième degré : 
 
-a) soit à la suite d'un concours ;
+a) soit à la suite d'un concours ; 
 
-b) soit sur proposition d'une commission dont la composition est fixée par arrêté du ministre de la défense.
+b) soit sur proposition d'une commission dont la composition est fixée par arrêté du ministre de la défense. 
 
 Les officiers admis à suivre l'enseignement au-dessus du deuxième degré sont désignés par le ministre de la défense sur
-proposition du chef d'état-major des armées.
+proposition du chef d'état-major des armées. 
 
 Le chef d'état-major des armées veille à l'harmonisation des conditions d'admission des auditeurs et des stagiaires de
-l'enseignement militaire supérieur interarmées.
+l'enseignement militaire supérieur interarmées. 
 
 Des officiers étrangers peuvent être admis à suivre l'enseignement militaire supérieur.
 
@@ -72103,7 +72275,7 @@ Des officiers étrangers peuvent être admis à suivre l'enseignement militaire 
 
 	**Modifié par**:
 
-	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 	**Cité par**:
 
@@ -72181,21 +72353,22 @@ Cet organisme est dirigé par un officier général.
 
 ###### Article D4152-9
 
-La direction de l'enseignement militaire supérieur :
+La direction de l'enseignement militaire supérieur : 
 
 1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur à caractère
-interarmées et les conditions de sa mise en œuvre, en vue notamment d'en conforter le rayonnement en France et à l'étranger ;
+interarmées et les conditions de sa mise en œuvre, en vue notamment d'en conforter le rayonnement en France et à
+l'étranger ; 
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
-cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ;
+cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ; 
 
-3° Prépare les officiers supérieurs des forces armées, de la délégation générale pour l'armement et de la justice militaire à
-exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
+3° Prépare les officiers supérieurs des forces armées, de la     direction générale de l'armement et de la justice militaire
+à exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
 interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique
-de défense et de sécurité ;
+de défense et de sécurité ; 
 
 4° Contribue au développement et au rayonnement des études et de la recherche en matière de défense et de sécurité
-nationale ;
+nationale ; 
 
 5° Constitue, entretient et met à la disposition des chercheurs et des étudiants un fonds documentaire de référence au plan
 national et international dans les domaines de la défense et de la sécurité nationale.
@@ -72208,7 +72381,7 @@ national et international dans les domaines de la défense et de la sécurité n
 
 	**Modifié par**:
 
-	  - Décret n°2009-256 du 4 mars 2009 - art. 1
+	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
 ###### Article D4152-10

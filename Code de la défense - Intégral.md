@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-10-07
+Version Consolidée au 2009-10-12
 
 # Partie législative
 
@@ -47155,7 +47155,8 @@ humaines de l'armée de terre et de la direction des ressources humaines du mini
 23° Gestion et administration du personnel de réserve, sous réserve des compétences de la direction des ressources humaines
 de l'armée de terre et de la direction centrale du commissariat de l'armée de terre ; 
 
-24° Périodes militaires d'initiation ou de perfectionnement à la défense nationale ; 
+24° Périodes militaires d'initiation ou de perfectionnement à la défense nationale, sous réserve des compétences de la
+direction des ressources humaines de l'armée de terre ;  
 
 25° Contentieux des dommages, y compris, le cas échéant, pour le compte d'autres régions terre ou pour le compte d'autres
 organismes de la défense stationnés sur le territoire de la région terre, sous réserve des compétences de la direction des
@@ -47171,12 +47172,12 @@ affaires juridiques ;
 
 	**Cite**:
 
-	  - Décret n°2000-1048 du 24 octobre 2000 (V)
-	  - Code de la défense. - art. R*1212-1 (V)
+	  - Décret n°2000-1048 du 24 octobre 2000
+	  - Code de la défense. - art. R*1212-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1213 du 9 octobre 2009 - art. 1
 
 	**Cité par**:
 
@@ -47286,9 +47287,8 @@ dans le cadre de la région terre.
 
 ###### Article R3222-10
 
-Les organismes chargés de la formation du personnel de l'armée de terre et les organismes chargés de l'enseignement militaire
-supérieur relèvent du commandement de la formation de l'armée de terre, commandement organique dont les attributions et
-l'organisation sont fixées par arrêté du ministre de la défense.
+Les organismes chargés de la formation du personnel de l'armée de terre et de l'enseignement militaire supérieur relèvent de
+la direction des ressources humaines de l'armée de terre.
 
 **Liens relatifs à cet article**
 
@@ -47296,9 +47296,9 @@ l'organisation sont fixées par arrêté du ministre de la défense.
 
 	  - Décret n°78-1060 du 30 octobre 1978 - art. 2 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1213 du 9 octobre 2009 - art. 1
 
 
 ##### Sous-section 2 : La légion étrangère
@@ -69453,23 +69453,29 @@ dans l'un des organismes mentionnés au 2° de l'article L. 4138-2, sur décisio
 
 ###### Article R4138-34
 
-Le militaire qui est nommé membre du Gouvernement ou appelé à exercer une fonction publique élective dans une assemblée
-parlementaire ou dans les organes délibérants des collectivités territoriales est placé en détachement pendant la durée de sa
-fonction. Dans cette position, les restrictions à l'exercice des droits civils et politiques prévues par les dispositions des
-articles L. 4121-1 à L. 4121-5 ne lui sont pas applicables. 
+I.-Le militaire qui est nommé membre du Gouvernement ou appelé à exercer une fonction publique élective dans une assemblée
+parlementaire ou dans les organes délibérants des collectivités territoriales est placé de droit en détachement pendant la
+durée de sa fonction. 
 
-La mise en détachement est prononcée par arrêté du ministre de la défense, précisant la nature, la durée et le lieu
-d'exercice des fonctions. Le détachement est alors de droit pendant toute la durée de ces fonctions.
+Dans cette position, les restrictions à l'exercice des droits civils et politiques prévues par les dispositions des articles
+L. 4121-1 à L. 4121-5 ne lui sont pas applicables. 
+
+La mise en détachement est prononcée par arrêté du ministre de la défense, précisant la nature et la durée des fonctions.
+
+II. - La nomination dans un des emplois mentionnés à l'article 1er du décret du 24 juillet 1985 susvisé fixant les emplois
+supérieurs pour lesquels la nomination est laissée à la décision du Gouvernement emporte détachement dans l'emploi
+correspondant. Le détachement prend effet à la date d'effet de la nomination, ou à la date de l'installation dans l'emploi si
+celle-ci est postérieure à la première.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1212 du 9 octobre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4121-1 (V)
+	  - Code de la défense. - art. L4121-1
 
 	**Cité par**:
 
@@ -69490,10 +69496,7 @@ du code des pensions civiles et militaires de retraite ;
 3° Auprès d'une collectivité territoriale ou d'un établissement public autre que national ; 
 
 4° Auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions
-d'intérêt général : le nombre et la nature des emplois auxquels il est éventuellement pourvu par des militaires détachés
-doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré, approuvée par arrêté du
-ministre chargé de la fonction publique et du ou des ministres intéressés. Les associations ou fondations reconnues d'utilité
-publique sont dispensées de cette formalité ; 
+d'intérêt général ; 
 
 5° Auprès d'Etats étrangers, d'une organisation internationale intergouvernementale ou d'un organisme d'intérêt général à
 caractère international pour remplir une mission d'intérêt public. Le détachement auprès d'un organisme d'intérêt général à
@@ -69516,11 +69519,11 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 	**Cite**:
 
-	  - Décret n°2005-54 du 27 janvier 2005 (V)
+	  - Décret n°2005-54 du 27 janvier 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1212 du 9 octobre 2009 - art. 2
 
 	**Cité par**:
 
@@ -69734,22 +69737,22 @@ A l'expiration du détachement, le militaire est réintégré dans son corps d'o
 ###### Article R4138-45
 
 Le militaire de carrière en détachement remplissant les conditions prévues à l'article L. 4138-10 peut, sur demande, être
-placé, par arrêté conjoint du Premier ministre et du ministre de la défense, en position hors cadres pour continuer à servir
-dans l'administration, l'entreprise ou l'organisme dans lequel il exerce ses fonctions. 
+placé, par arrêté du ministre de la défense, en position hors cadres pour continuer à servir dans l'administration,
+l'entreprise ou l'organisme dans lequel il exerce ses fonctions. 
 
 Dans cette position, il n'est plus régi par les dispositions du livre Ier de la partie 4 législative du présent code, sous
 réserve des dispositions relatives à la démission prévues à l'article L. 4139-13.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1212 du 9 octobre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-10 (V)
-	  - Code de la défense. - art. L4139-13 (V)
+	  - Code de la défense. - art. L4138-10
+	  - Code de la défense. - art. L4139-13
 
 	**Cité par**:
 

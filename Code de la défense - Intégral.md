@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-10-12
+Version Consolidée au 2009-10-29
 
 # Partie législative
 
@@ -73047,6 +73047,72 @@ admis à servir.
 	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
+##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale
+
+###### Article R4221-17-1
+
+L'admission à servir d'un réserviste dans les conditions prévues par le dernier alinéa de l'article L. 4221-1 est subordonnée
+à la signature d'une convention entre le ministre de la défense et les autorités compétentes de l'Etat, de l'établissement
+public ou de l'organisation internationale concernés. Cette convention est conclue pour une durée maximale de trois ans
+renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4221-17-2 (V)
+
+
+###### Article R4221-17-2
+
+La convention mentionnée à l'article R. 4221-17-1 précise notamment : 
+
+1° Les objectifs poursuivis par l'emploi de chaque réserviste ; 
+
+2° Le nombre maximum de réservistes, leur mission ainsi que la nature, le niveau et la durée des activités qu'ils exercent ; 
+
+3° Les modalités de leur admission et leurs conditions d'emploi ; 
+
+4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées
+par les réservistes intéressés sont remboursés au ministère de la défense ; 
+
+5° Les modalités du contrôle et de l'évaluation desdites activités ; 
+
+6° Les modalités de retour du réserviste dans son armée ou dans sa formation rattachée lorsque celui-ci intervient avant le
+terme initialement prévu par l'arrêté mentionné au dernier alinéa de l'article L. 4221-1 du code de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-1 (V)
+	  - Code de la défense. - art. R4221-17-1
+
+
+###### Article R4221-17-3
+
+Le réserviste admis à servir auprès d'une administration de l'Etat, d'un établissement public ou d'une organisation
+internationale reste soldé par le ministère de la défense, à l'exclusion de toute autre rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+
 #####  Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle
 
 ###### Article R4221-18
@@ -73214,26 +73280,28 @@ l'armée professionnelle, soit dans la réserve.
 
 ###### Article R4221-25
 
-Pour l'avancement d'échelon à un grade déterminé, il n'est tenu compte que de la durée des services militaires et du temps
-passé dans le dernier échelon détenu.
+Pour l'avancement d'échelon à un grade déterminé, il n'est tenu compte que de la durée des services militaires. 
 
-Pour la détermination de l'ancienneté dans l'échelon :
+Pour la détermination de l'ancienneté de service exigée : 
 
 1° Toute durée d'activité supérieure ou égale à trente jours accomplie durant douze mois consécutifs équivaut à un an de
-services militaires comptabilisé depuis la date anniversaire du passage au dernier échelon détenu ;
+services militaires comptabilisé, selon les règles d'avancement applicables, depuis la date anniversaire du passage au grade
+détenu ou depuis la date anniversaire du passage au dernier échelon détenu ou depuis la date anniversaire du premier
+engagement militaire ; 
 
 2° Toute durée d'activité inférieure à trente jours accomplie durant douze mois consécutifs, ajoutée à celles réalisées dans
 les douze mois ou vingt-quatre mois suivants, équivaut, à concurrence de trente jours cumulés, à un an de services militaires
-comptabilisé depuis la date anniversaire du passage au dernier échelon détenu.
+comptabilisé, selon les règles d'avancement applicables, depuis la date anniversaire du passage au grade détenu ou depuis la
+date anniversaire du passage au dernier échelon détenu ou depuis la date anniversaire du premier engagement militaire. 
 
 La durée des services militaires correspond à celle des périodes d'activités pour lesquelles ils ont été convoqués en vertu
 d'un contrat d'engagement ou au titre de la disponibilité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1304 du 26 octobre 2009 - art. 2
 
 
 ###### Article R4221-26

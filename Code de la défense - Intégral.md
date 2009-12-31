@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-12-30
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -21314,13 +21314,15 @@ le fonctionnement.
 
 ##### Section 2 : Institut des hautes études de la défense nationale
 
+##### Sous-section 1 : Dispositions générales
+
 ###### Article R1132-12
 
 L'Institut des hautes études de défense nationale est un établissement public national à caractère administratif. Il est
-placé sous la tutelle du Premier ministre.
+placé sous la tutelle du Premier ministre. 
 
-Son siège, fixé à l'Ecole militaire, à Paris, peut être modifié par décision du Premier ministre prise sur proposition du
-conseil d'administration.
+Le siège de l'établissement est fixé à l'Ecole militaire à Paris. Il peut être modifié par décision du Premier ministre prise
+sur proposition du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21328,9 +21330,9 @@ conseil d'administration.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21344,14 +21346,28 @@ conseil d'administration.
 
 ###### Article R1132-13
 
-L'institut a pour mission de réunir des responsables de haut niveau appartenant à la fonction publique civile et militaire et
-aux autres secteurs d'activité de la nation en vue d'approfondir en commun leur connaissance des grands problèmes de défense.
+L'Institut des hautes études de défense nationale a pour mission de développer l'esprit de défense et de sensibiliser aux
+questions internationales. 
 
-A ce titre, l'institut peut conduire des études et des recherches et apporter son concours aux ministères et aux
-établissements d'enseignement supérieur et de recherche dans le domaine de la défense.
+A ce titre : 
 
-En liaison avec le ministre chargé de l'enseignement supérieur, il contribue à promouvoir les enseignements universitaires de
-défense.
+- il réunit des responsables de haut niveau appartenant à la fonction publique civile et militaire ainsi qu'aux différents
+secteurs d'activité de la Nation, des Etats membres de l'Union européenne ou d'autres Etats, en vue d'approfondir en commun
+leur connaissance des questions de défense, de politique étrangère, d'armement et d'économie de défense ; 
+
+- il prépare à l'exercice de responsabilités de cadres supérieurs militaires et civils, français ou étrangers, exerçant leur
+activité dans le domaine de la défense, de la politique étrangère, de l'armement et de l'économie de défense ; 
+
+- il contribue à promouvoir et à diffuser toutes connaissances utiles en matière de défense, de relations internationales,
+d'armement et d'économie de défense.A cette fin, il coopère avec les autres organismes chargés de la diffusion des savoirs en
+matière de défense et de sécurité nationale, notamment avec les associations d'auditeurs. 
+
+Dans les domaines relevant de sa mission, l'institut peut conduire, seul ou en coopération avec d'autres organismes français
+ou étrangers, des études et des recherches. Il peut apporter son concours aux ministères et aux établissements d'enseignement
+supérieur et de recherche. 
+
+En liaison avec le ministre chargé de l'enseignement supérieur, il promeut les enseignements universitaires portant sur les
+questions de défense, de relations internationales, d'armement et d'économie de défense.
 
 **Liens relatifs à cet article**
 
@@ -21359,9 +21375,9 @@ défense.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21370,8 +21386,16 @@ défense.
 
 ###### Article R1132-14
 
-L'institut organise chaque année une session nationale, des sessions régionales dans le ressort des zones de défense et des
-cycles de perfectionnement, d'information et d'études.
+L'institut organise chaque année : 
+
+- une ou plusieurs sessions nationales générales ou thématiques ; 
+
+- des sessions et formations européennes et des sessions internationales ; 
+
+- des sessions régionales. 
+
+Il peut organiser, notamment en liaison avec les organismes de formation et de recherche en matière de sécurité, tout cycle
+d'information, de perfectionnement ou d'études utile à l'exercice de sa mission.
 
 **Liens relatifs à cet article**
 
@@ -21379,37 +21403,23 @@ cycles de perfectionnement, d'information et d'études.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-15
 
-Les personnes admises à suivre les sessions nationales et régionales de l'institut sont désignées par arrêté du Premier
-ministre sur proposition du directeur de l'institut.
+Les auditeurs admis à suivre les sessions nationales ou régionales sont désignés par arrêté du Premier ministre sur
+proposition du directeur de l'institut. 
 
-Elles sont choisies parmi :
-
-1° Les magistrats et fonctionnaires d'un rang correspondant au moins à celui d'administrateur civil et dont les candidatures
-sont présentées par les ministres concernés. Des fonctionnaires appartenant à des corps de catégorie A et appelés à exercer
-de hautes responsabilités peuvent également être retenus ;
-
-2° Les officiers, de grade égal ou supérieur à celui de lieutenant-colonel ou équivalent, proposés par le ministre de la
-défense ;
-
-3° Les personnalités civiles exerçant des responsabilités importantes dans les différents secteurs d'activité de la nation.
-Leurs candidatures sont présentées par des associations professionnelles ou par les candidats eux-mêmes pour les sessions
-nationales, par les préfets des zones de défense concernées pour les sessions régionales.
-
-Les officiers généraux et supérieurs désignés pour suivre la session du centre des hautes études militaires par décision du
-ministre de la défense sont de droit membres de la session nationale de l'institut.
+Les officiers désignés pour suivre la session du Centre des hautes études militaires par décision du ministre de la défense
+sont de droit auditeurs d'une session nationale de l'institut.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°97-817 du 5 septembre 1997 - art. 4 (M)
 	  - Décret n°97-817 du 5 septembre 1997 - art. 4 (Ab)
 
 	**Cité par**:
@@ -21418,18 +21428,16 @@ ministre de la défense sont de droit membres de la session nationale de l'insti
 	  - Décret n°2014-1264 du 23 octobre 2014 - art. (VD)
 	  - Code de la défense. - art. R1132-17 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-16
 
-Les cycles de perfectionnement, d'information et d'études sont ouverts à des personnes choisies par le directeur de
-l'institut.
-
-Les participants français des sessions internationales sont désignés par les autorités dont ils relèvent, les participants
-étrangers par les Etats ou les organismes internationaux dont ils dépendent.
+Les auditeurs étrangers des sessions européennes ou internationales sont désignés par les Etats ou les organismes
+internationaux dont ils relèvent, après accord du ministre des affaires étrangères. Les auditeurs français des sessions
+européennes et internationales sont désignés par les autorités dont ils relèvent.
 
 **Liens relatifs à cet article**
 
@@ -21437,20 +21445,20 @@ Les participants français des sessions internationales sont désignés par les 
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-17
 
-Pendant la durée des sessions, les auditeurs suivant les différents cycles de formation de l'institut demeurent administrés
-et rémunérés par les ministères, organismes ou sociétés dont ils relèvent.
+Pendant la durée des sessions, les auditeurs ne sont ni administrés ni rémunérés par l'institut. 
 
-Les fonctionnaires, militaires et agents soumis à un statut de droit public bénéficient des dispositions statutaires qui les
-régissent, notamment en matière de couverture de risques. Les autres participants sont, pendant la durée des sessions et pour
-les seuls dommages subis, rattachables à la mission de service public à laquelle ils concourent, dans la position de
-collaborateurs bénévoles et occasionnels du service public.
+Les fonctionnaires civils et militaires de l'Etat et les agents soumis à un statut de droit public bénéficient des
+dispositions statutaires qui les régissent, notamment en matière de couverture des risques. 
+
+Les autres auditeurs sont, pendant la durée des sessions visées aux articles R. 1132-15 et R. 1132-16, des collaborateurs
+bénévoles et occasionnels du service public.
 
 **Liens relatifs à cet article**
 
@@ -21458,15 +21466,25 @@ collaborateurs bénévoles et occasionnels du service public.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1132-15
 
 
 ###### Article R1132-18
 
-A l'issue des sessions nationales et régionales, le titre d'ancien auditeur peut être conféré par arrêté du Premier ministre
-aux personnes ayant suivi ces sessions.
+La liste des auditeurs qui ont satisfait aux obligations des sessions nationales ou régionales est établie par arrêté du
+Premier ministre sur proposition du directeur de l'institut. 
+
+La liste des auditeurs qui ont satisfait aux obligations des autres sessions ou formations est fixée par décision du
+directeur de l'institut. 
+
+Après leur session, les auditeurs sont invités à mettre en œuvre les connaissances acquises. Ils peuvent le faire notamment
+au sein d'associations agréées par l'institut.
 
 **Liens relatifs à cet article**
 
@@ -21478,14 +21496,19 @@ aux personnes ayant suivi ces sessions.
 
 	  - Décret n°97-1184 du 19 décembre 1997 - art. ANNEXE (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
+
+##### Sous-section 2 : Organisation administrative
 
 ###### Article R1132-19
 
-L'institut est administré par un conseil d'administration et dirigé par un directeur.
+L'institut est administré par un conseil d'administration et dirigé par un directeur. 
+
+Un conseil scientifique, placé auprès du directeur de l'institut, peut être consulté sur toute question intéressant la
+politique scientifique de l'institut.
 
 **Liens relatifs à cet article**
 
@@ -21493,9 +21516,9 @@ L'institut est administré par un conseil d'administration et dirigé par un dir
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21504,50 +21527,17 @@ L'institut est administré par un conseil d'administration et dirigé par un dir
 
 ###### Article R1132-20
 
-Le conseil d'administration de l'institut comprend dix-sept membres :
-
-1° Le président, désigné par décret ;
-
-2° Le secrétaire général de la défense nationale ;
-
-3° Un député et un sénateur respectivement, désignés par le président de chaque assemblée ;
-
-4° Huit représentants de l'Etat, désignés par le Premier ministre sur proposition des ministres concernés :
-
-a) Deux représentants du ministre de la défense ;
-
-b) Un représentant du ministre chargé de l'enseignement supérieur ;
-
-c) Un représentant du ministre de l'intérieur ;
-
-d) Un représentant du ministre des affaires étrangères ;
-
-e) Un représentant du ministre chargé de l'économie ;
-
-f) Un représentant du ministre chargé de la fonction publique ;
-
-g) Un représentant du ministre chargé du budget ;
-
-5° Le président de l'Union des associations d'auditeurs ;
-
-6° Quatre personnalités qualifiées désignées par le Premier ministre, dont :
-
-a) Deux militaires, sur proposition du ministre de la défense ;
-
-b) Deux anciens auditeurs civils, sur proposition du secrétaire général de la défense nationale.
-
-Les membres du conseil d'administration ne peuvent se faire suppléer.
+Le président du conseil d'administration est nommé par décret. La durée de son mandat est de trois ans renouvelable une fois.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°97-817 du 5 septembre 1997 - art. 9 (M)
 	  - Décret n°97-817 du 5 septembre 1997 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21556,14 +21546,11 @@ Les membres du conseil d'administration ne peuvent se faire suppléer.
 
 ###### Article R1132-21
 
-La durée du mandat des membres désignés du conseil d'administration est fixée à trois ans renouvelables. Les fonctions de
-président et de membre du conseil d'administration ne comportent aucune indemnité.
+Le directeur de l'institut est un officier général ou un haut fonctionnaire de rang équivalent nommé par décret. Il est
+assisté de deux directeurs adjoints également nommés par décret. 
 
-Le directeur de l'institut, le membre du corps de contrôle général économique et financier et l'agent comptable assistent aux
-séances du conseil avec voix consultative.
-
-Le président du conseil d'administration peut inviter à assister à tout ou partie des séances du conseil d'administration
-toute personne dont la présence lui paraît utile.
+L'un des directeurs adjoints est choisi parmi les hauts fonctionnaires si le directeur est un officier général et parmi les
+officiers généraux si le directeur est un haut fonctionnaire.
 
 **Liens relatifs à cet article**
 
@@ -21571,24 +21558,53 @@ toute personne dont la présence lui paraît utile.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-22
 
-Le conseil d'administration détermine les orientations générales des travaux d'enseignement, de recherche et de coordination
-en application des directives du Premier ministre.
+Le conseil d'administration de l'institut comprend, outre son président, vingt-deux membres : 
 
-Il agrée, puis soumet, pour approbation, au Premier ministre les programmes de l'institut.
+1° Le secrétaire général de la défense nationale ; 
 
-Il arrête le budget et le compte financier de l'institut, autorise les aliénations, les acquisitions et échanges d'immeubles
-ainsi que les actions en justice. Il détermine la politique de recrutement du personnel.
+2° Un député et un sénateur respectivement désignés par l'assemblée à laquelle ils appartiennent, à chaque renouvellement de
+celle-ci ; 
 
-Il donne son avis sur toute question qui lui est soumise par son président. Il adresse chaque année au Premier ministre un
-rapport sur l'activité et le fonctionnement de l'institut. Il soumet au Premier ministre des recommandations tendant à
-promouvoir les enseignements de défense.
+3° Un membre du Conseil supérieur de la formation et de la recherche stratégiques, désigné par le président de son conseil
+d'administration ; 
+
+4° Neuf représentants de l'Etat désignés par le Premier ministre, sur proposition des ministres concernés : 
+
+- trois représentants du ministre de la défense ; 
+
+- deux représentants du ministre des affaires étrangères ; 
+
+- un représentant proposé conjointement par les ministres chargés de l'éducation nationale, de l'enseignement supérieur et de
+la recherche ; 
+
+- un représentant du ministre de l'intérieur ; 
+
+- un représentant du ministre chargé de l'économie ; 
+
+- un représentant du ministre chargé de la fonction publique ; 
+
+5° Le directeur de l'Institut national des hautes études de la sécurité et de la justice ; 
+
+6° Le président de l'Union des associations de l'Institut des hautes études de défense nationale ; 
+
+7° Un représentant des associations d'auditeurs désigné par le Premier ministre ; 
+
+8° Six personnalités qualifiées désignées par le Premier ministre : 
+
+- deux militaires dont un des corps relevant de la délégation générale pour l'armement, sur proposition du ministre de la
+défense ; 
+
+- deux personnalités du monde économique, sur proposition du ministre chargé de l'économie ; 
+
+- deux auditeurs civils ayant satisfait aux obligations des sessions, sur proposition du secrétaire général de la défense
+nationale et de la sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -21596,9 +21612,9 @@ promouvoir les enseignements de défense.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21607,19 +21623,13 @@ promouvoir les enseignements de défense.
 
 ###### Article R1132-23
 
-Le conseil d'administration se réunit, sur convocation de son président, au moins deux fois par an, et sur la demande du
-Premier ministre ou sur celle des deux tiers de ses membres. 
+Sauf pour les membres prévus aux 1°, 5° et 6° de l'article R. 1132-22, la durée du mandat des membres du conseil
+d'administration est de trois ans renouvelable une fois. 
 
-Le président fixe l'ordre du jour des séances. Toute autre question est inscrite à l'ordre du jour sur demande du tiers des
-membres du conseil d'administration. 
+En cas de vacance survenant pour quelque cause que ce soit avant l'expiration du mandat d'un membre du conseil
+d'administration, il est procédé à son remplacement pour la durée restant à courir dudit mandat. 
 
-Le conseil d'administration ne peut valablement délibérer que lorsque le nombre des présents est supérieur à la moitié du
-nombre des membres. Si ce quorum n'est pas atteint, le président réunit de nouveau le conseil dans un délai de quinze jours.
-Les délibérations sont alors valables, quel que soit le nombre des présents. 
-
-Les décisions sont prises à la majorité des voix des membres présents. En cas de partage égal des voix, la voix du président
-est prépondérante. Les délibérations du conseil d'administration sont notifiées par le président à l'autorité de tutelle.
-Elles sont alors exécutoires dans un délai de trente jours, sous réserve des dispositions de l'article R. 1132-32.
+Ce mandat partiel peut être suivi d'un mandat de trois ans renouvelable une fois.
 
 **Liens relatifs à cet article**
 
@@ -21627,9 +21637,9 @@ Elles sont alors exécutoires dans un délai de trente jours, sous réserve des 
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21637,45 +21647,16 @@ Elles sont alors exécutoires dans un délai de trente jours, sous réserve des 
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1132-32 (V)
+	  - Code de la défense. - art. R1132-22
 
 
 ###### Article R1132-24
 
-Le directeur de l'institut est nommé par décret sur le rapport du ministre de la défense. Il est choisi parmi les officiers
-généraux ou les hauts fonctionnaires de rang équivalent. 
+Les fonctions de président et de membre du conseil d'administration de l'institut ne comportent aucune indemnité. 
 
-Le directeur est assisté d'un adjoint nommé par décret sur le rapport du ministre de la défense qui est choisi parmi les
-hauts fonctionnaires si le directeur est un officier général, parmi les officiers généraux si le directeur est un haut
-fonctionnaire. 
-
-Le directeur dirige l'institut dans le cadre des orientations définies par le conseil d'administration. Il rend compte chaque
-année de sa gestion au conseil d'administration. Il exerce les compétences qui ne sont pas attribuées à une autre autorité
-par la présente section, et notamment : 
-
-1° Il arrête l'organisation, le règlement intérieur et les règles de fonctionnement de l'institut ; 
-
-2° Il prépare et exécute les décisions du conseil d'administration ; 
-
-3° Il représente l'institut en justice et dans les actes de la vie civile ; il peut transiger ; 
-
-4° Il prépare et exécute le budget ; 
-
-5° Il est ordonnateur des recettes et des dépenses ; 
-
-6° Il conclut les contrats et conventions. Il en rend compte au conseil d'administration ; 
-
-7° Il a autorité sur l'ensemble des personnes suivant les différents cycles de formation ; 
-
-8° A l'exception de l'agent comptable, il exerce le pouvoir hiérarchique sur les personnels affectés à l'institut et le
-pouvoir disciplinaire à l'égard des agents sous contrat mentionnés à l'article R. 1132-25 ; 
-
-9° Il pourvoit aux emplois et fonctions de l'établissement public ; 
-
-10° Il prépare et soumet au conseil d'administration les projets de recommandations tendant à promouvoir les enseignements de
-défense. 
-
-Le directeur de l'institut peut déléguer sa signature.
+Les frais de déplacement pour assister aux séances du conseil d'administration sont remboursés dans les conditions prévues
+par la réglementation en vigueur fixant les conditions et les modalités de règlement des frais occasionnés par les
+déplacements des personnels civils ou militaires sur le territoire métropolitain.
 
 **Liens relatifs à cet article**
 
@@ -21683,21 +21664,19 @@ Le directeur de l'institut peut déléguer sa signature.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1132-25 (V)
+	  - Code de la défense. - art. R1132-25
 
 
 ###### Article R1132-25
 
-Le personnel de l'institut comprend des agents publics détachés, en disponibilité, hors cadres ou mis à sa disposition ainsi
-que des agents sous contrat.
-
-Les conditions de mise à disposition des personnels sont précisées par des conventions conclues à cet effet.
+Le directeur de l'institut, les directeurs adjoints, l'autorité chargée du contrôle financier et l'agent comptable de
+l'institut assistent aux réunions du conseil d'administration avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -21705,9 +21684,9 @@ Les conditions de mise à disposition des personnels sont précisées par des co
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21716,31 +21695,33 @@ Les conditions de mise à disposition des personnels sont précisées par des co
 
 ###### Article R1132-26
 
-Le régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
-applicable aux établissements publics nationaux à caractère administratif, le décret n° 62-1587 du 29 décembre 1962 portant
-règlement général de la comptabilité publique et par l'article 60 de la loi de finances pour 1963 n° 63-156 du 23 février
-1963 est applicable à l'institut.
+Le président du conseil d'administration peut inviter à assister aux séances du conseil d'administration toute personne dont
+la présence lui paraît utile.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Décret n°53-1227 du 10 décembre 1953
+	  - Décret n°62-1587 du 29 décembre 1962
+	  - Loi n°63-156 du 23 février 1963 - art. 60
 
 	**Anciens textes**:
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-27
 
-L'agent comptable est nommé par arrêté du Premier ministre et du ministre chargé du budget.
+Le conseil d'administration se réunit, au moins deux fois par an, sur convocation de son président, qui propose l'ordre du
+jour. 
+
+La convocation est de droit lorsqu'elle est demandée par le Premier ministre ou par les deux tiers au moins des membres sur
+un ordre du jour déterminé.
 
 **Liens relatifs à cet article**
 
@@ -21748,31 +21729,24 @@ L'agent comptable est nommé par arrêté du Premier ministre et du ministre cha
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-28
 
-Les recettes de l'institut comprennent notamment :
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente ou réputée
+présente. 
 
-1° Une dotation annuelle de l'Etat ;
+Sont réputés présents les membres participant à la réunion du conseil par des moyens de visioconférence ou de communication
+électronique permettant leur identification et leur participation effective à une délibération collégiale. 
 
-2° Des contributions financières des différents ministères pour les actions spécifiques organisées à leur profit ;
+Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai de quinze jours.
+Il délibère alors valablement quel que soit le nombre de membres présents. 
 
-3° Des subventions des collectivités publiques et de tout organisme public ou privé, français, étranger ou international ;
-
-4° Les ressources provenant des activités de formation, des congrès, colloques et manifestations qu'il organise et des
-prestations de services qu'il assure ;
-
-5° Les produits correspondant aux travaux qu'il exécute et aux publications qu'il édite ;
-
-6° Les recettes provenant des dons et legs et de la participation des employeurs au financement des formations
-professionnelles continues ;
-
-7° Les revenus de ses biens meubles et immeubles et, de manière générale, toutes les recettes autorisées par les lois et
-règlements.
+Les délibérations du conseil sont adoptées à la majorité des membres présents ou réputés présents. En cas de partage égal des
+voix, celle du président du conseil d'administration est prépondérante.
 
 **Liens relatifs à cet article**
 
@@ -21780,16 +21754,51 @@ règlements.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-29
 
-Les dépenses de l'institut comprennent les dépenses de personnel ainsi que les vacations payées aux conférenciers et
-enseignants, les charges de location, d'équipement, de fonctionnement, de représentation, d'entretien, de sécurité et, de
-manière générale, toutes les dépenses nécessaires aux activités de l'institut.
+Le conseil d'administration détermine par délibération les orientations générales de l'activité et de la gestion de
+l'établissement. Il délibère notamment sur : 
+
+1° Les orientations générales des activités d'enseignement, de recherche et de coordination, en application des directives du
+Premier ministre ; 
+
+2° Le budget et ses décisions modificatives ; 
+
+3° Le compte financier et l'affectation du résultat ; 
+
+4° Les dons et les legs ; 
+
+5° Les aliénations, les acquisitions et les échanges d'immeubles ; 
+
+6° Les actions en justice ; 
+
+7° Le recours à la transaction ; 
+
+8° Les conditions générales de passation des conventions, contrats et marchés ; 
+
+9° La prise de participations financières, la création de filiales, la participation à des groupements d'intérêt public ou à
+toutes formes de groupement public ou privé ; 
+
+10° Les modalités de contribution financière des employeurs des auditeurs aux coûts de formation et de toute personne
+bénéficiant des services de l'institut ; 
+
+11° Les conditions générales de recrutement, d'emploi et de rémunération des personnels. 
+
+D'une façon générale, il donne son avis sur toute question qui lui est soumise par son président. Il adresse chaque année au
+Premier ministre un rapport sur l'activité et le fonctionnement de l'institut dans lequel il peut faire des recommandations
+tendant à promouvoir les enseignements et à orienter les études et les recherches. 
+
+Le Conseil supérieur de la formation et de la recherche stratégiques est également rendu destinataire de ce rapport. 
+
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer une partie de ses pouvoirs au directeur de
+l'institut. Celui-ci rend compte des décisions prises dans ce cadre au conseil d'administration. 
+
+Le conseil d'administration établit son règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -21797,15 +21806,17 @@ manière générale, toutes les dépenses nécessaires aux activités de l'insti
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-30
 
-Les prestations fournies à titre gratuit par l'Etat à l'institut sont assurées dans le cadre de conventions conclues à cet
-effet.
+Il est établi un procès-verbal de chaque séance du conseil d'administration, signé par le président de séance et par un
+administrateur. 
+
+Le procès-verbal est adressé aux membres du conseil d'administration dans le mois qui suit la séance.
 
 **Liens relatifs à cet article**
 
@@ -21813,32 +21824,29 @@ effet.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 
 ###### Article R1132-31
 
-Des régies d'avances et de recettes peuvent être créées par le directeur de l'institut, après accord du membre du corps de
-contrôle général économique et financier, dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux
-régies de recettes et aux régies d'avances des organismes publics et ses textes d'application. 
-
-Les régisseurs sont désignés par le directeur de l'institut avec l'agrément de l'agent comptable.
+Les délibérations du conseil d'administration sont exécutoires, à défaut d'approbation expresse par l'autorité de tutelle à
+l'expiration d'un délai de trente jours à compter de la date de réception du procès-verbal.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
+	  - Décret n°92-681 du 20 juillet 1992
 
 	**Anciens textes**:
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21847,17 +21855,44 @@ Les régisseurs sont désignés par le directeur de l'institut avec l'agrément 
 
 ###### Article R1132-32
 
-Les projets de budget et de décisions modificatives, ainsi que les projets de délibérations ayant une incidence financière
-non prévue au budget, sont communiqués au Premier ministre et au ministre chargé du budget, quinze jours au moins avant leur
-présentation au conseil d'administration.
+Le directeur de l'établissement assure la direction de l'institut dans le cadre des orientations définies par le conseil
+d'administration, à qui il rend compte chaque année de sa gestion. 
 
-Les délibérations relatives au projet de budget et de décisions modificatives, ainsi que celles ayant une incidence
-financière non prévue au budget, sont exécutoires dans le délai de quinze jours à compter de leur notification au Premier
-ministre et au ministre chargé du budget.
+Il exerce les compétences qui ne sont pas attribuées à une autre autorité par la présente section, et notamment : 
 
-En cas d'opposition, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau. A l'issue de
-cette nouvelle délibération, si le désaccord persiste, la décision est arrêtée par le Premier ministre sur proposition du
-ministre chargé du budget.
+1° Il arrête l'organisation, le règlement intérieur et les règles de fonctionnement de l'institut ; 
+
+2° Il prépare et exécute les décisions du conseil d'administration ; 
+
+3° Il prépare et exécute le budget de l'institut ; 
+
+4° Il fixe le montant des contributions des auditeurs et de toute personne bénéficiant des services de l'institut dans le
+cadre de la grille tarifaire définie par le conseil d'administration ; 
+
+5° Il représente l'institut en justice et dans les actes de la vie civile ; il peut transiger ; 
+
+6° Il est ordonnateur des recettes et des dépenses ; 
+
+7° Il assure la passation de tous actes, baux, contrats, conventions ou marchés et en rend compte au conseil
+d'administration ; 
+
+8° Il assure le secrétariat du conseil d'administration ; 
+
+9° Il a autorité sur l'ensemble des personnes suivant les différents cycles de formation ; 
+
+10° Il exerce le pouvoir hiérarchique sur les personnels affectés à l'institut et le pouvoir disciplinaire à l'égard des
+agents recrutés par contrat au titre de l'institut ; 
+
+11° Il pourvoit aux emplois et fonctions de l'institut ; 
+
+12° Il prépare et soumet au conseil d'administration les projets de recommandations tendant à promouvoir les enseignements et
+à orienter les études et les recherches intéressant la défense, la politique étrangère, l'armement et l'économie de
+défense ; 
+
+13° Il organise la mutualisation des moyens avec d'autres organismes chargés de la diffusion des savoirs en matière de
+défense et de sécurité. 
+
+Le directeur de l'institut peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
@@ -21865,9 +21900,9 @@ ministre chargé du budget.
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -21876,9 +21911,14 @@ ministre chargé du budget.
 
 ###### Article R1132-33
 
-L'institut est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Les modalités particulières d'exercice de ce contrôle
-sont fixées par le ministre chargé du budget.
+Le conseil scientifique est composé de personnalités nommées par arrêté du Premier ministre : experts du monde universitaire
+et de la recherche et personnalités qualifiées notamment en matière de relations internationales et d'économie. 
+
+Le conseil scientifique assiste l'institut dans la définition des orientations générales de la politique de formation et de
+recherche en matière de défense, de politique étrangère, d'armement et d'économie de défense. Il peut associer à ses travaux
+tout expert dont la présence serait jugée utile. 
+
+Le conseil d'administration de l'institut et son directeur sont destinataires des travaux du conseil scientifique.
 
 **Liens relatifs à cet article**
 
@@ -21888,11 +21928,189 @@ sont fixées par le ministre chargé du budget.
 
 	**Cite**:
 
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
+	  - Décret n°2005-757 du 4 juillet 2005
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+##### Sous-section 3 : Le personnel
+
+###### Article R1132-33-1
+
+Le personnel de l'institut comprend des agents publics civils ou militaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+##### Sous-section 4 : Organisation financière
+
+###### Article R1132-33-2
+
+L'institut est soumis au régime financier et comptable fixé par le décret n° 53-1227 du 10 décembre 1953 modifié, relatif à
+la réglementation comptable applicable aux établissements publics nationaux à caractère administratif, le décret n° 62-1587
+du 29 décembre 1962 portant règlement général de la comptabilité publique et le décret n° 99-575 du 8 juillet 1999 relatif
+aux modalités d'application de certaines décisions financières des établissements publics de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 du 10 décembre 1953 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Décret n°99-575 du 8 juillet 1999 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+###### Article R1132-33-3
+
+Le contrôle financier est exercé dans les conditions prévues par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
+financier au sein des établissements publics administratifs de l'Etat. Les modalités de ce contrôle sont fixées par arrêté
+conjoint du Premier ministre et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-757 du 4 juillet 2005
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+
+
+###### Article R1132-33-4
+
+L'agent comptable est nommé par arrêté du Premier ministre et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+
+
+###### Article R1132-33-5
+
+Les ressources de l'établissement comprennent notamment : 
+
+1° Les subventions, avances, fonds de concours ou participations qui lui sont attribués par l'Etat, les collectivités
+territoriales, les établissements publics, l'Union européenne, ainsi que par toute autre personne physique ou morale,
+publique ou privée ; 
+
+2° Les contributions et participations des stagiaires et des auditeurs aux frais mis à leur charge et, de manière générale,
+les contributions de toute personne, y compris les membres du personnel permanent ou non, admises par le directeur à
+bénéficier des services de l'institut ; 
+
+3° Le produit de la taxe d'apprentissage versée par les assujettis et les produits de la formation professionnelle continue
+dans les conditions définies par les lois et règlements ; 
+
+4° Les produits résultant de prestations d'études ou de recherches pour le compte de tiers, ainsi que les ressources
+provenant des activités de formation continue ou de l'organisation de manifestations diverses ; 
+
+5° Les revenus des biens et participations de l'institut ; 
+
+6° Les produits de l'exploitation des brevets et des licences ; 
+
+7° Le produit de la vente des publications ; 
+
+8° Les dons et les legs ; 
+
+9° Le produit des cessions et des aliénations ; 
+
+10° Les produits de mécénat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+###### Article R1132-33-6
+
+Les dépenses de l'institut comprennent les dépenses de personnel ainsi que les vacations payées aux conférenciers et aux
+enseignants, les charges de location, d'équipement, de fonctionnement, de représentation, d'entretien, de sécurité et, de
+manière générale, toutes les dépenses nécessaires à ses activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+###### Article R1132-33-7
+
+L'institut peut prendre des participations financières et créer des filiales pour l'exercice des missions définies à
+l'article R. 1132-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1132-13
+
+
+###### Article R1132-33-8
+
+Il peut être créé des régies de recettes et des régies d'avances dans les conditions fixées par le décret n° 92-681 du 20
+juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°92-681 du 20 juillet 1992 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+
+###### Article R1132-33-9
+
+Les projets de budget ou de décisions modificatives du budget, ainsi que les projets de délibération ayant une incidence
+financière non prévue au budget, sont communiqués au Premier ministre et au ministre chargé du budget, quinze jours au moins
+avant leur présentation au conseil d'administration. 
+
+Les délibérations relatives au projet de budget ou de décisions modificatives du budget, ainsi que celles ayant une incidence
+financière non prévue au budget, sont exécutoires dans le délai de quinze jours à compter de leur notification au Premier
+ministre et au ministre chargé du budget. 
+
+En cas d'opposition, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau.A l'issue de
+cette nouvelle délibération, si le désaccord persiste, la décision est arrêtée par le Premier ministre sur proposition du
+ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1132-31 (VD)
 
 
 ##### Section 3 : Organismes collégiaux
@@ -32831,13 +33049,13 @@ Le secrétariat de la commission est assuré par le secrétariat général de la
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°50-150 1950-02-01 art. 1
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 4 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -33349,19 +33567,18 @@ alimentaire et notamment, sur décision du Premier ministre, de la mise sur pied
 l'agriculture de l'administration centrale du ravitaillement.
 
 Le ministre de la défense met à la disposition du ministre chargé de l'agriculture un commissaire général et un officier du
-service du commissariat de l'armée de terre. Ces officiers sont placés dans la position de service détaché. Le commissaire
-général a pour mission de seconder en matière de ravitaillement le haut fonctionnaire de défense.
+service du commissariat des armées. Ces officiers sont placés dans la position de service détaché. Le commissaire général a
+pour mission de seconder en matière de ravitaillement le haut fonctionnaire de défense.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°63-789 du 31 juillet 1963 - art. 2 (M)
 	  - Décret n°63-789 du 31 juillet 1963 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 
 ###### Article R1337-4
@@ -33370,8 +33587,8 @@ Dans chaque région ainsi que dans la collectivité territoriale de Corse, la pr
 défense dans le domaine alimentaire sont assurées sous l'autorité du préfet de zone de défense et suivant les directives du
 ministre chargé de l'agriculture.
 
-Le ministre de la défense met à la disposition de chaque préfet de zone un officier du commissariat de l'armée de terre pour
-le seconder en matière de ravitaillement. Ces derniers sont placés en position de service détaché.
+Le ministre de la défense met à la disposition de chaque préfet de zone un officier du service du commissariat des armées
+pour le seconder en matière de ravitaillement. Ces derniers sont placés en position de service détaché.
 
 Le préfet de zone de défense dispose d'un bureau du ravitaillement chargé de la coordination des travaux opérés à l'échelon
 départemental et constituant l'organe mobilisateur de la direction régionale du ravitaillement qui est mise sur pied sur
@@ -33383,9 +33600,9 @@ décision du Premier ministre.
 
 	  - Décret n°63-789 du 31 juillet 1963 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 
 ###### Article R1337-5
@@ -42051,33 +42268,33 @@ Les modalités de réparation des dommages causés aux aéronefs lors de réquis
 
 ###### Article D2234-97
 
-Le comité consultatif interministériel de règlement des réquisitions comprend :
+Le comité consultatif interministériel de règlement des réquisitions comprend : 
 
-― un contrôleur général des armées, désigné par le ministre de la défense, président ;
+― un contrôleur général des armées, désigné par le ministre de la défense, président ; 
 
-― un représentant du Premier ministre ;
+― un représentant du Premier ministre ; 
 
-― deux représentants du ministre de l'intérieur ;
+― deux représentants du ministre de l'intérieur ; 
 
-― deux représentants du ministre chargé du budget ;
+― deux représentants du ministre chargé du budget ; 
 
-― un représentant du ministre chargé de l'équipement ;
+― un représentant du ministre chargé de l'équipement ; 
 
-― six représentants du ministre de la défense.
+― six représentants du ministre de la défense. 
 
-Sont convoqués par le président en fonction de l'ordre du jour des séances, avec voix consultative :
+Sont convoqués par le président en fonction de l'ordre du jour des séances, avec voix consultative : 
 
-― un représentant de chaque ministère spécialement compétent pour les affaires examinées par le comité ;
+― un représentant de chaque ministère spécialement compétent pour les affaires examinées par le comité ; 
 
 ― des représentants des organisations professionnelles mentionnées au dernier alinéa de l'article R. 2234-96.
 
-Le secrétariat du comité est assuré par la direction centrale du commissariat de l'armée de terre.
+Le secrétariat du comité est assuré par la direction centrale du service du commissariat des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 4 (VD)
 
 	**Cité par**:
 
@@ -42085,6 +42302,10 @@ Le secrétariat du comité est assuré par la direction centrale du commissariat
 	  - Code de la défense. - art. D2451-3 (M)
 	  - Code de la défense. - art. D2461-4 (M)
 	  - Code de la défense. - art. D2471-5 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-96 (V)
 
 
 ###### Article D2234-98
@@ -42669,16 +42890,16 @@ L'officier mentionne succinctement les raisons pour lesquelles il ne l'a pas adm
 
 L'habitant peut requérir le juge du tribunal d'instance du ressort dans lequel sont situés les immeubles où les dégâts ont
 été commis aux fins de procéder à des mesures d'instruction sur place à l'effet d'établir les causes et la nature des dégâts.
-L'Etat sera représenté à cette enquête par un officier désigné par le service du commissariat de l'armée de terre.
+L'Etat sera représenté à cette enquête par un officier désigné par le service du commissariat des armées. 
 
 Copie du procès-verbal est délivrée à l'intéressé, qui la joint à la réclamation rejetée par l'officier pour faire valoir ses
 droits.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 
 ##### Chapitre VI : Dispositions pénales
@@ -53560,20 +53781,27 @@ Ils ont autorité sur l'état-major de leur armée dont les attributions sont fi
 
 ###### Article D3122-1
 
-Le directeur général de la gendarmerie nationale relève directement du ministre de la défense. Il l'assiste dans ses
-attributions relatives au service de la gendarmerie nationale et à son organisation générale.
+Le directeur général de la gendarmerie nationale relève directement du ministre de l'intérieur. Il l'assiste dans ses
+attributions relatives au service de la gendarmerie nationale et à son organisation générale. 
 
-Dans le cadre des lois et règlements, il propose au ministre les règles d'emploi et assure la direction générale du service.
+Dans le cadre des lois et règlements, il propose au ministre les règles d'emploi et assure la direction générale du service. 
 
-Le directeur général de la gendarmerie nationale dispose de la direction générale de la gendarmerie nationale et de
-l'inspection de la gendarmerie nationale dont les attributions et l'organisation sont précisées par arrêtés du ministre de la
-défense.
+Le directeur général de la gendarmerie nationale dispose de la direction générale dont les attributions et l'organisation
+sont précisées par arrêté du ministre de l'intérieur. 
+
+Dans les conditions fixées par le décret n° 85-1057 du 2 octobre 1985 modifié relatif à l'organisation de l'administration
+centrale du ministère de l'intérieur et de la décentralisation, il est appelé à siéger au sein de tout organisme du ministère
+de la défense pour ce qui concerne l'exercice par la gendarmerie nationale de ses missions militaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°85-1057 du 2 octobre 1985 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1729 du 30 décembre 2009 - art. 1
 
 
 ###### Article D3122-2
@@ -53598,18 +53826,18 @@ les plans élaborés par les chefs d'état-major.
 
 ###### Article D3122-3
 
-Le directeur général de la gendarmerie nationale propose au ministre l'organisation générale de la gendarmerie ; il élabore
-la planification et la programmation des moyens en fonction des objectifs gouvernementaux et des plans d'emploi établis par
-le chef d'état-major des armées ; il détermine les caractéristiques des matériels adaptés aux missions du temps de paix de la
-gendarmerie ; il définit les besoins en matière d'infrastructure, propose au ministre les programmes correspondants et en
-suit la réalisation ; il exprime les besoins financiers et assure la gestion du budget. Il établit, suivant les buts assignés
-par le chef d'état-major des armées, le plan de mobilisation et il arrête les tableaux d'effectifs et de dotations.
+Le directeur général de la gendarmerie nationale propose au ministre de l'intérieur l'organisation générale de la
+gendarmerie ; il élabore la planification et la programmation des moyens en fonction des objectifs gouvernementaux et des
+plans d'emploi ; il arrête les référentiels d'organisation, d'effectifs et de dotations ; il détermine les caractéristiques
+des matériels adaptés aux missions du temps de paix de la gendarmerie ; il définit les besoins en matière d'infrastructure,
+propose au ministre les programmes correspondants et en suit la réalisation ; il exprime les besoins financiers et assure la
+gestion du budget. Il établit, suivant les buts assignés par le chef d'état-major des armées, le plan de mobilisation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1729 du 30 décembre 2009 - art. 1
 
 
 ###### Article D3122-4
@@ -53667,14 +53895,14 @@ la gendarmerie.
 
 ###### Article D3122-8
 
-Le directeur général de la gendarmerie nationale fait connaître au secrétaire général pour l'administration ses besoins
+Le directeur général de la gendarmerie nationale fait connaître au secrétaire général du ministère de l'intérieur ses besoins
 concernant le nombre, la qualification et la répartition des personnels civils à mettre à la disposition de la gendarmerie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1729 du 30 décembre 2009 - art. 1
 
 
 ###### Article D3122-9
@@ -53682,13 +53910,11 @@ concernant le nombre, la qualification et la répartition des personnels civils 
 Le directeur général de la gendarmerie nationale organise et s'assure de l'entretien des matériels spécifiques des unités de
 la gendarmerie.
 
-Celles-ci bénéficient, dans les conditions fixées par le ministre, du soutien logistique des services des armées.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1729 du 30 décembre 2009 - art. 1
 
 
 ###### Article D3122-10
@@ -53716,55 +53942,41 @@ moyens budgétaires.
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Inspection de la gendarmerie nationale et inspection technique de la gendarmerie nationale
+##### Section 2 : Inspection générale de la gendarmerie nationale
 
 ###### Article D3122-12
 
-Le directeur général de la gendarmerie nationale dispose de l'inspection de la gendarmerie nationale, placée sous les ordres
-d'un officier général de gendarmerie, qui porte le titre d'inspecteur de la gendarmerie nationale.
-
-L'inspection de la gendarmerie nationale est chargée de s'assurer de la mise en œuvre des instructions du directeur général
-de la gendarmerie nationale ainsi que de remplir les missions d'inspection et les missions spécifiques que celui-ci peut lui
-confier.
-
-Les attributions et l'organisation de l'inspection de la gendarmerie nationale sont précisées par arrêté du ministre de la
-défense et du ministre chargé de la réforme de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article D3122-13
-
-L'inspection technique de la gendarmerie nationale est placée sous l'autorité d'un officier général de gendarmerie portant
-l'appellation d'inspecteur technique de la gendarmerie nationale, directement subordonné à l'inspecteur de la gendarmerie
+Le directeur général de la gendarmerie nationale dispose de l'inspection générale de la gendarmerie nationale, placée sous
+les ordres d'un officier général de gendarmerie, qui porte le titre de chef de l'inspection générale de la gendarmerie
 nationale.
 
+L'inspection générale de la gendarmerie nationale est chargée de s'assurer de la mise en œuvre des instructions du ministre
+de l'intérieur et du directeur général de la gendarmerie nationale ainsi que de remplir les missions d'inspection et les
+missions spécifiques que ceux-ci peuvent lui confier dans le champ des attributions du ministre de l'intérieur. L'inspection
+générale de la gendarmerie nationale est également chargée du respect des règles de déontologie auxquelles sont soumis les
+personnels de la gendarmerie nationale.
+
+Les attributions et l'organisation de l'inspection générale de la gendarmerie nationale sont précisées par arrêté du ministre
+de l'intérieur.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1727 du 30 décembre 2009 - art. 3
+	  - Décret n°2009-1727 du 30 décembre 2009 - art. 2
 
 
 ###### Article D3122-14
 
-L'inspection technique de la gendarmerie nationale peut être saisie par l'autorité judiciaire de toute demande d'enquête
-relative aux infractions susceptibles d'avoir été commises, pendant le service ou en dehors du service, par le personnel
-militaire de la gendarmerie nationale.
+L'inspection générale de la gendarmerie nationale peut être saisie par l'autorité judiciaire de toute demande d'enquête
+relative aux infractions susceptibles d'avoir été commises, pendant le service ou en dehors du service, par  les personnels
+de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1727 du 30 décembre 2009 - art. 4
 
 
 ##### Chapitre III : Le contrôle général des armées
@@ -55568,7 +55780,7 @@ dévolues au service d'infrastructure de la défense ;
 réglementaire ; 
 
 16° Gestion et administration des officiers et des sous-officiers, sous réserve des compétences de la direction des
-ressources humaines de l'armée de terre et de la direction centrale du commissariat de l'armée de terre ; 
+ressources humaines de l'armée de terre ; 
 
 17° Gestion et administration des militaires du rang engagés, sous réserve des compétences de la direction des ressources
 humaines de l'armée de terre ; 
@@ -55589,10 +55801,10 @@ humaines de l'armée de terre et de la direction des ressources humaines du mini
 22° Action sociale, sous réserve des compétences de la direction des ressources humaines du ministère de la défense ; 
 
 23° Gestion et administration du personnel de réserve, sous réserve des compétences de la direction des ressources humaines
-de l'armée de terre et de la direction centrale du commissariat de l'armée de terre ; 
+de l'armée de terre ; 
 
 24° Périodes militaires d'initiation ou de perfectionnement à la défense nationale, sous réserve des compétences de la
-direction des ressources humaines de l'armée de terre ;  
+direction des ressources humaines de l'armée de terre ; 
 
 25° Contentieux des dommages, y compris, le cas échéant, pour le compte d'autres régions terre ou pour le compte d'autres
 organismes de la défense stationnés sur le territoire de la région terre, sous réserve des compétences de la direction des
@@ -55613,7 +55825,7 @@ affaires juridiques ;
 
 	**Modifié par**:
 
-	  - Décret n°2009-1213 du 9 octobre 2009 - art. 1
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -55661,7 +55873,7 @@ Les services de l'armée de terre sont :
 
 1° Le matériel de l'armée de terre ; 
 
-2° Le commissariat de l'armée de terre. 
+2° (Supprimé). 
 
 Leurs attributions sont fixées par décret. 
 
@@ -55677,13 +55889,13 @@ commandements opérationnels.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1 (V)
+	  - Code de la défense. - art. R3231-1
 
 
 ##### Section 5 : Relations entre commandements et services
@@ -57118,7 +57330,7 @@ domaines fixés par le ministre de la défense.
 
 Les services de la marine nationale sont : 
 
-1° Le service du commissariat de la marine ; 
+1° (Supprimé) ; 
 
 2° Le service de soutien de la flotte ; 
 
@@ -57134,9 +57346,9 @@ relèvent du directeur central soit directement, soit par l'intermédiaire de di
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -57157,7 +57369,7 @@ relèvent du directeur central soit directement, soit par l'intermédiaire de di
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1 (V)
+	  - Code de la défense. - art. R3231-1
 
 
 ##### Section 5 : Relations entre commandements et services 
@@ -57376,9 +57588,9 @@ L'armée de l'air comprend différents services :
 
 1° La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense ; 
 
-2° Le service de l'administration générale et des finances ; 
+2° Le service industriel de l'aéronautique ; 
 
-3° Le service industriel de l'aéronautique. 
+3° (Supprimé). 
 
 Les attributions des services mentionnés aux 1° et 2° ci-dessus sont fixées par décret. 
 
@@ -57392,13 +57604,13 @@ autorité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1 (V)
+	  - Code de la défense. - art. R3231-1
 
 
 ##### Section 4 : Relations entre commandements et services
@@ -57684,7 +57896,7 @@ La gendarmerie nationale comprend :
 
 1° La direction générale de la gendarmerie nationale ;
 
-2° L'inspection de la gendarmerie nationale ;
+2° L'inspection générale de la gendarmerie nationale ;
 
 3° Des formations territoriales constituant la gendarmerie départementale ;
 
@@ -57702,14 +57914,14 @@ La gendarmerie nationale comprend :
 
 10° Le groupe d'intervention de la gendarmerie nationale.
 
-Ces composantes sont placées sous l'autorité du directeur général de la gendarmerie nationale dans les conditions prévues à
-la section 1 du chapitre 2 du titre II du livre Ier de la partie 3 du présent code.
+Ces composantes relèvent du directeur général de la gendarmerie nationale dans les conditions prévues à la section 1 du
+chapitre 2 du titre II du livre Ier de la partie 3 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1718 du 30 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -57790,31 +58002,37 @@ compagnies ou escadrons, sections, pelotons ou brigades organisées ou non en co
 
 ###### Article R3225-8
 
-Le commandant de région de gendarmerie est directement subordonné au directeur général de la gendarmerie nationale. Il exerce
-son commandement sur toutes les unités qui lui sont subordonnées à titre permanent ou temporaire dans les conditions prévues
-par le titre 2 du livre II de la première partie du présent code.
+Sous réserve des attributions du préfet en matière d'ordre public et de police administrative, le commandant de région de
+gendarmerie relève du directeur général de la gendarmerie nationale. Il exerce son commandement sur toutes les unités qui lui
+sont subordonnées à titre permanent ou temporaire dans les conditions prévues par le titre 2 du livre II de la première
+partie du présent code.
 
 Le commandant de la région de gendarmerie situé au siège de la zone de défense dispose d'attributions particulières définies
-par arrêté du ministre de la défense. Il prend l'appellation de  commandant la région de gendarmerie, commandant la
-gendarmerie pour la zone de défense . Il reçoit les réquisitions des autorités civiles pour les formations appartenant à la
-gendarmerie mobile.
+par arrêté du ministre de l'intérieur. Il peut recevoir délégation de signature du préfet de zone en matière d'ordonnancement
+secondaire pour les formations de gendarmerie nationale de son ressort.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1718 du 30 décembre 2009 - art. 1
 
 
 ###### Article R3225-9
 
-Les formations de gendarmerie départementale sont placées sous l'autorité du commandant de région de gendarmerie sur le
-territoire de laquelle elles sont implantées.
+Sous réserve des attributions des préfets en matière d'ordre public et de police administrative, les formations de
+gendarmerie départementale sont placées sous l'autorité du commandant de région de gendarmerie sur le territoire de laquelle
+elles sont implantées.
 
-Les formations territoriales implantées dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-
-et-Futuna, à Saint-Martin et Saint-Barthélemy, dans les Terres australes et antarctiques françaises, en Polynésie française
-et en Nouvelle-Calédonie sont placées sous l'autorité de l'officier commandant la gendarmerie outre-mer, directement
-subordonné au directeur général de la gendarmerie nationale.
+Sous réserve des attributions des représentants du Gouvernement en matière d'ordre public et de police administrative, les
+formations territoriales  implantées dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-et-
+Futuna, à Saint-Martin et Saint-Barthélemy, dans les Terres australes et antarctiques françaises, en Polynésie française et
+en Nouvelle-Calédonie sont placées sous l'autorité de l'officier commandant la gendarmerie outre-mer, directement subordonné
+au directeur général de la gendarmerie nationale.
+
+Les formations prévôtales, les personnels isolés servant à l'étranger, le groupement des opérations extérieures, le
+détachement gendarmerie de la force de gendarmerie européenne et les unités de circonstance sont placés sous le commandement
+d'officiers qui relèvent de l'officier chargé du commandement de la gendarmerie outre-mer. 
 
 Les formations de gendarmerie mobile sont placées sous l'autorité du commandant de la région de gendarmerie située au siège
 de la zone de défense sur le territoire de laquelle elles sont implantées.
@@ -57830,9 +58048,9 @@ directeur général de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1718 du 30 décembre 2009 - art. 1
 
 
 ###### Article R3225-10
@@ -57857,14 +58075,14 @@ d'Ile-de-France.
 Les services de soutien ont pour mission de satisfaire les besoins des armées et de la gendarmerie. Ils peuvent, de façon
 permanente ou temporaire, fournir des prestations à plusieurs armées.
 
-Ils peuvent, en outre, apporter leur concours à des personnes publiques et, lorsque des circonstances d'intérêt général le
-justifient, à des personnes privées.
+Ils peuvent, en outre, apporter leur concours à l'ensemble des organismes du ministère de la défense et être chargés, dans
+des conditions fixées par le ministre de la défense, d'assurer leurs missions au profit d'organismes extérieurs au ministère.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -58008,15 +58226,14 @@ non prévus par les lois et les règlements.
 Le ministre de la défense peut déléguer des crédits aux autorités ayant la qualité d'ordonnateur secondaire du budget de la
 défense.
 
-Les ordonnateurs secondaires des services du commissariat de l'armée de terre, du commissariat de la marine et service de
-l'administration générale et des finances de l'armée de l'air peuvent subdéléguer aux fonctionnaires civils ou militaires
-relevant de leur autorité tout ou partie des crédits qui leur ont été délégués par le ministre.
+les ordonnateurs secondaires du service du commissariat des armées peuvent subdéléguer aux fonctionnaires civils ou
+militaires relevant de leur autorité tout ou partie des crédits qui leur ont été délégués par le ministre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 
 ###### Article R3231-10
@@ -58094,17 +58311,18 @@ responsables devant le ministre de la défense.
 
 ###### Article R3232-1
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air sont les services d'administration générale de leur armée d'appartenance. Ils participent à leur soutien
-comme à celui de la gendarmerie nationale.
+Le service du commissariat des armées relève du chef d'état-major des armées. Il est le service d'administration générale des
+armées et participe à leur soutien comme à celui de la gendarmerie nationale pour l'exercice de ses missions militaires. Dans
+ce cadre, il conseille le commandement. 
 
-Ils sont conseillers du commandement dans leur domaine de compétence.
+Il apporte, en outre, son concours à l'ensemble des organismes du ministère de la défense et peut être chargé, dans des
+conditions fixées par le ministre de la défense, d'assurer ses missions au profit d'organismes extérieurs au ministère.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -58122,35 +58340,37 @@ Ils sont conseillers du commandement dans leur domaine de compétence.
 
 ###### Article R3232-2
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air pourvoient aux besoins des formations et du personnel dans les domaines administratifs et financiers. 
+Le service du commissariat des armées est chargé de l'alimentation, de l'habillement, de l'ameublement, du couchage et du
+campement. 
 
-Ils participent à l'instruction des dossiers de pension de retraite, de pension d'invalidité et d'allocations des fonds de
-prévoyance du personnel et de ses ayants cause. 
+Dans ces domaines, il assure ou fait assurer le stockage, l'entretien, la mise à disposition et la gestion des matériels
+d'emploi commun et technique qu'il approvisionne ou qui ne sont pas du ressort d'un autre service.A cette fin, il est
+notamment chargé : 
 
-Dans les limites de leur compétence, ils instruisent et règlent les dossiers relatifs aux dommages causés ou subis par le
-ministère de la défense. Ils assurent, pour le compte de la direction des affaires juridiques, la défense devant les
-tribunaux administratifs du ministère de la défense. 
+1° Des études, des spécifications, du contrôle et de la maintenance de ces matériels et équipements dont il assure également
+la cohérence interarmées ; 
 
-Dans les conditions fixées par un arrêté du ministre de la défense, ils assurent, pour le compte de la direction des affaires
-juridiques, la protection juridique des agents militaires et civils du ministère de la défense prévue à l'article L. 4123-10
-du présent code et à l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. 
+2° De l'élaboration et du suivi des programmes de production ou d'approvisionnements ; 
 
-Ils règlent les indemnités consécutives aux réquisitions mobilières et immobilières effectuées par les armées et la
-gendarmerie autres que celles relevant de la compétence d'autres services. 
+3° De la gestion des approvisionnements et des stocks. 
 
-Ils ont vocation à assumer des fonctions administratives diverses qui ne seraient pas de la compétence d'un autre service.
+Il est chargé des prestations de service de la vie courante. 
+
+Il est également chargé du service administratif et financier des transports. 
+
+La liste des matériels, équipements et prestations de service mentionnés au présent article est fixée par arrêté du ministre
+de la défense.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-634 du 13 juillet 1983 - art. 11 (V)
-	  - Code de la défense. - art. L4123-10 (V)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 11
+	  - Code de la défense. - art. L4123-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -58162,83 +58382,183 @@ Ils ont vocation à assumer des fonctions administratives diverses qui ne seraie
 
 ###### Article R3232-3
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air passent les marchés et contrats de toute nature qui ne relèvent pas de la compétence d'un autre service.
+Le service du commissariat des armées participe à la conception et à la réalisation des équipements de combat. 
+
+Il participe également à la conception des installations d'infrastructure dédiées aux équipements et matériels qu'il
+approvisionne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 
 ###### Article R3232-4
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air sont responsables de la vérification des comptes des formations administratives.
-
-Des commissaires sont désignés pour assurer cette responsabilité qu'ils exercent pour le compte du ministre.
+Dans le respect des orientations définies par le secrétaire général pour l'administration en matière de politique des achats
+du ministère, le service du commissariat des armées passe les marchés et contrats de toute nature nécessaires pour les
+matériels, équipements et prestations visés à l'article R. 3232-2. Il passe également ceux qui ne relèvent pas de la
+compétence d'un autre service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2009 - art. 8 (Ab)
 	  - Arrêté du 29 juillet 2014 - art. 8 (V)
 
+	**Cite**:
+
+	  - Code de la défense. - art. R3232-2
+
 
 ###### Article R3232-5
 
-Les commissaires sont chargés de dresser ou d'attester des actes authentiques, notamment en matière d'état civil ou
-d'engagement, ainsi que de rédiger les procès-verbaux relatifs aux fonds et au matériel.
+Le service du commissariat des armées apporte son concours à la satisfaction des besoins des formations et du personnel dans
+les domaines administratifs et financiers, dans le respect des orientations définies par le secrétaire général pour
+l'administration en matière d'administration générale. Dans ce cadre, il : 
+
+1° Participe à l'élaboration de la réglementation relative à l'administration générale et au soutien des armées. Il donne les
+instructions nécessaires à sa mise en œuvre et est chargé de son application ; 
+
+2° Participe à l'élaboration des textes réglementaires intéressant l'organisation des armées et des services de soutien ; 
+
+3° Participe aux études relatives à l'environnement juridique des forces en opération. 
+
+Il a vocation à assumer des fonctions administratives diverses qui ne sont pas de la compétence d'un autre service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 
 ###### Article R3232-6
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air sont chargés de l'ordonnancement des dépenses engagées sur les crédits qui leur sont délégués par
-l'ordonnateur principal.
+Dans les limites fixées par arrêté du ministre de la défense, le service du commissariat des armées : 
+
+1° Instruit et règle les dossiers relatifs aux dommages causés ou subis par le ministère de la défense et assure, pour le
+compte de la direction des affaires juridiques, la représentation de ce ministère devant les tribunaux administratifs ; 
+
+2° Assure, pour le compte de la direction des affaires juridiques, la protection juridique des agents militaires et civils du
+ministère de la défense prévue à l'article L. 4123-10 du présent code et à l'article 11 de la loi n° 83-634 du 13 juillet
+1983 portant droits et obligations des fonctionnaires ; 
+
+3° Règle les indemnités consécutives aux réquisitions mobilières et immobilières lorsqu'elles ne relèvent pas de la
+compétence d'autres services.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 11
+	  - Code de la défense. - art. L4123-10
+
+	**Modifié par**:
+
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 
 ###### Article R3232-7
 
-Les services du commissariat de l'armée de terre et de la marine et le service de l'administration générale et des finances
-de l'armée de l'air participent à l'élaboration de la réglementation intéressant leurs domaines d'attribution. Ils donnent
-les instructions nécessaires à sa mise en œuvre. Ils sont chargés de son application.
+Dans le cadre de ses fonctions financières et comptables, le service du commissariat des armées : 
+
+1° Participe, sous réserve des attributions de la direction des affaires financières, à l'élaboration et à la mise en œuvre
+de la réglementation financière et comptable spécifique aux forces armées ; 
+
+2° Exécute les opérations de recettes et de dépenses qui ne sont pas de la compétence d'un autre service ou organisme ; 
+
+3° Est chargé de l'ordonnancement des dépenses engagées sur les crédits qu'il reçoit de l'ordonnateur principal. Il peut
+déléguer ces crédits ; 
+
+4° Fait mettre en place les devises nécessaires aux formations des armées en escale ou en mission à l'étranger, prépare la
+liquidation des dépenses correspondantes et autorise l'émission des traites de la marine ; 
+
+5° Est chargé de l'administration des prises maritimes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
 
 
 ###### Article R3232-8
 
-La coordination dans les domaines de l'administration des armées et du soutien de l'homme est assurée par le comité de
-coordination de l'administration des armées dont l'organisation est précisée par arrêté du ministre de la défense.
+Le service du commissariat des armées est chargé de veiller à la régularité, à la fidélité et à la sincérité des
+comptabilités tenues dans les armées ; il s'assure du respect des procédures comptables. Il participe à l'organisation et à
+la mise en œuvre du contrôle interne budgétaire et comptable dans les armées. 
+
+Il charge les commissaires désignés à cet effet d'assurer les opérations de contrôle des comptes des trésoriers militaires.
+Il instruit et règle les dossiers de mise en jeu de la responsabilité pécuniaire de ces trésoriers dans les limites de sa
+compétence. 
+
+Le service du commissariat des armées contribue à l'évaluation de la performance financière des armées et services de
+soutien ; il leur apporte le concours de ses moyens d'audit comptable et financier. 
+
+Il apporte son concours aux autorités de commandement et de direction chargées de s'assurer de la conformité aux dispositions
+législatives et réglementaires des actes d'administration et de gestion pris dans les armées et services.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+
+
+###### Article R3232-9
+
+Le service du commissariat des armées assure le recrutement, la gestion et l'administration des militaires d'active et de
+réserve des corps des commissaires de l'armée de terre, de la marine et de l'air, ainsi que ceux du corps des maîtres
+ouvriers des armées. Il exerce les mêmes attributions pour les officiers sous contrat rattachés aux trois corps de
+commissaires. 
+
+Il est chargé de définir les besoins en formation du personnel qui lui est affecté. Il contribue à la définition des
+objectifs et modalités de formation et d'emploi du personnel des armées et des services de soutien dans les domaines de
+l'administration générale et des soutiens communs.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 2009 - art. 4 (Ab)
+	  - Arrêté du 7 juin 2011 (Ab)
+	  - Décret n°2011-1983 du 28 décembre 2011 (V)
+
+
+###### Article R3232-10
+
+Le service du commissariat des armées est dirigé par un directeur central, officier général du corps des commissaires de
+l'armée de terre, de la marine ou de l'air. 
+
+La composition et le fonctionnement du conseil de gestion du service du commissariat des armées sont fixés par arrêté du
+ministre de la défense. Outre les missions qui lui sont dévolues par l'article R. 3231-2, il élabore et définit les
+orientations générales du service et lui assigne ses objectifs pluriannuels et annuels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 2009 - art. 2 (Ab)
+	  - Arrêté du 29 juillet 2014 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3231-2
 
 
 ##### Chapitre III : Les services et organismes interarmées
@@ -59395,16 +59715,20 @@ c) Sept pour le Conseil supérieur de l'armée de l'air.
 ###### Article R3322-1
 
 Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense pour l'avancement aux grades
-d'officier général de la gendarmerie nationale, de l'armement, du service de santé des armées, du service des essences des
-armées. 
+d'officier général de l'armement, du service de santé des armées, du service des essences des armées. Le Conseil supérieur de
+la gendarmerie nationale est consulté par le ministre de l'intérieur pour l'avancement aux grades d'officier général de la
+gendarmerie nationale
 
-Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense dans les cas prévus aux articles
-L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures d'ordre individuel. 
+Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense, ou le ministre de l'intérieur
+pour le conseil supérieur de la gendarmerie nationale, dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour
+l'application aux officiers généraux de certaines mesures d'ordre individuel. 
 
-Les conseils supérieurs de formation rattachée peuvent être consultés par le président et les vice-présidents désignés à la
-section 2 du présent chapitre sur les sujets d'ordre général relatifs à leur direction, délégation ou formation rattachée.
-Dans ce cas, le ministre de la défense peut inviter à siéger à titre consultatif toute personnalité militaire ou civile en
-raison de sa compétence sur les questions soumises à l'examen des conseils supérieurs. 
+Les conseils supérieurs de formation rattachée peuvent être consultés par le président, ou les présidents pour le Conseil
+supérieur de la gendarmerie nationale, et les vice-présidents désignés à la section 2 du présent chapitre sur les sujets
+d'ordre général relatifs à leur direction, délégation ou formation rattachée. Dans ce cas, le ministre de la défense, ou pour
+le Conseil supérieur de la gendarmerie nationale le ministre de la défense ou le ministre de l'intérieur, peut inviter à
+siéger à titre consultatif toute personnalité militaire ou civile en raison de sa compétence sur les questions soumises à
+l'examen des conseils supérieurs.
 
 Les conseils supérieurs de formation rattachée, lorsqu'ils siègent disciplinairement, donnent leur avis pour l'application à
 un officier général de leur formation des sanctions définies au 3° de l'article L. 4137-2 du présent code. Dans ce cas, leur
@@ -59412,28 +59736,27 @@ composition et leur fonctionnement sont régis par les dispositions des articles
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-2 (V)
-	  - Code de la défense. - art. L4141-2 (V)
-	  - Code de la défense. - art. R4137-93 (V)
+	  - Code de la défense. - art. L4141-2
 
 
 ##### Section 2 : Composition
 
 ###### Article R3322-2
 
-Les conseils supérieurs de formation rattachée sont présidés par le ministre de la défense.
+Les conseils supérieurs de formation rattachée sont présidés par le   ministre de la défense, à l'exception du Conseil
+supérieur de la gendarmerie nationale, coprésidé par le ministre de la défense et le ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 3
 
 
 ###### Article R3322-3
@@ -59442,20 +59765,24 @@ Le Conseil supérieur de la gendarmerie nationale comprend :
 
 1° Le directeur général de la gendarmerie nationale, vice-président ;
 
-2° Le chef d'état-major des armées, membre de droit ;
+2° (supprimé) ;
 
 3° L'inspecteur général des armées-gendarmerie, membre de droit ;
 
 4° Le major général de la gendarmerie nationale, membre de droit ;
 
 5° Six officiers généraux de la gendarmerie nationale de la 1re section, désignés pour un an, à compter du 1er juillet de
-chaque année, par arrêté du ministre de la défense sur proposition du directeur général de la gendarmerie nationale.
+chaque année, par arrêté du ministre de l'intérieur sur proposition du directeur général de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3322-4
@@ -59519,13 +59846,14 @@ chaque année, par arrêté du ministre de la défense sur proposition du direct
 ###### Article R3323-1
 
 Les règles de fonctionnement du Conseil supérieur interarmées et des conseils supérieurs d'armée ou de formation rattachée
-sont fixées par arrêté du ministre de la défense.
+sont fixées par arrêté du ministre de la défense, ou pour le Conseil supérieur de la gendarmerie nationale, par arrêté
+conjoint du ministre de la défense et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 5
 
 	**Cité par**:
 
@@ -68369,8 +68697,8 @@ faute personnelle selon les principes du droit commun administratif.
 
 ###### Article R3422-15
 
-Le ministre de la défense peut faire assurer la surveillance administrative des établissements par les services des
-commissariats de l'armée de terre, la marine et de l'air. 
+Le ministre de la défense peut faire assurer la surveillance administrative des établissements par le service du commissariat
+des armées. 
 
 En outre, l'institution est soumise aux vérifications des comptables supérieurs du Trésor et de l'inspection générale des
 finances, ainsi qu'au contrôle de la Cour des comptes dans les conditions précisées par les articles R. 3422-22 et R.
@@ -68378,9 +68706,9 @@ finances, ainsi qu'au contrôle de la Cour des comptes dans les conditions préc
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -68388,8 +68716,8 @@ finances, ainsi qu'au contrôle de la Cour des comptes dans les conditions préc
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3422-22 (V)
-	  - Code de la défense. - art. R3422-23 (V)
+	  - Code de la défense. - art. R3422-22
+	  - Code de la défense. - art. R3422-23
 
 
 ###### Article R3422-16
@@ -70346,8 +70674,8 @@ Les obligations en matière de vaccinations applicables aux militaires sont fix�
 
 ###### Article R*4122-14
 
-Sont tenus d'informer sans délai par écrit le ministre de la défense, de la nature de l'activité privée lucrative qu'ils se
-proposent d'exercer : 
+Sont tenus d'informer sans délai par écrit le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, de la nature de l'activité privée lucrative qu'ils se proposent d'exercer : 
 
 1° Les officiers qui demandent à être placés en disponibilité, en congé du personnel navigant, en congé pour convenances
 personnelles, en congé spécial, en congé de reconversion ou en congé complémentaire de reconversion ; 
@@ -70379,9 +70707,9 @@ du code pénal à compter de la cessation de cette fonction.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 2
 
 	**Cite**:
 
@@ -70406,13 +70734,14 @@ du code pénal à compter de la cessation de cette fonction.
 
 Tout changement d'activité privée lucrative pendant la durée de la disponibilité, du congé, du placement en deuxième section
 ou pendant le délai prévu à l'article 432-13 du code pénal, à compter de la cessation définitive de fonctions, est porté dans
-les mêmes conditions à la connaissance du ministre de la défense dans les conditions prévues à l'article R. * 4122-14.
+les mêmes conditions à la connaissance du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, dans les conditions prévues à l'article R. * 4122-14.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 3
 
 	**Cite**:
 
@@ -70422,17 +70751,17 @@ les mêmes conditions à la connaissance du ministre de la défense dans les con
 
 ###### Article R*4122-16
 
-Le ministre de la défense peut demander à un militaire qui cesse définitivement ses fonctions ou qui, avant l'expiration du
-délai prévu à l'article 432-13 du code pénal, qui a cessé définitivement ses fonctions et n'appartient pas aux catégories
-définies aux 3°, 4° et 5° de l'article R. * 4122-14 de lui faire connaître s'il entreprend ou envisage d'entreprendre
-l'exercice d'une activité privée lucrative. En cas de réponse affirmative, le militaire doit faire connaître la nature de son
-activité.
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, peut demander à un
+militaire qui cesse définitivement ses fonctions ou qui, avant l'expiration du délai prévu à l'article 432-13 du code pénal,
+qui a cessé définitivement ses fonctions et n'appartient pas aux catégories définies aux 3°, 4° et 5° de l'article R. *
+4122-14 de lui faire connaître s'il entreprend ou envisage d'entreprendre l'exercice d'une activité privée lucrative. En cas
+de réponse affirmative, le militaire doit faire connaître la nature de son activité.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
@@ -70444,14 +70773,15 @@ activité.
 
 Le militaire n'appartenant pas aux catégories définies aux 3°, 4° et 5° de l'article R. * 4122-14 qui cesse définitivement
 ou, avant l'expiration du délai fixé à l'article 432-13 du code pénal, a définitivement cessé ses fonctions et qui exerce ou
-envisage d'exercer une activité privée lucrative peut en informer le ministre de la défense et lui demander de mettre en
-œuvre la procédure prévue aux articles R. * 4122-18 à R. * 4122-24
+envisage d'exercer une activité privée lucrative peut en informer le ministre de la défense, ou le ministre de l'intérieur
+pour les militaires de la gendarmerie nationale, et lui demander de mettre en œuvre la procédure prévue aux articles R. *
+4122-18 à R. * 4122-24
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 5
 
 	**Cite**:
 
@@ -70463,9 +70793,10 @@ envisage d'exercer une activité privée lucrative peut en informer le ministre 
 ###### Article R*4122-18
 
 A compter du jour où toutes les informations utiles sur l'activité du militaire ont été portées à la connaissance du ministre
-de la défense, celui-ci dispose d'un délai de deux mois pour notifier à l'intéressé si son activité est ou non compatible
-avec les dispositions de l'article L. 4122-2. Au terme de ce délai, le silence du ministre vaut décision conforme à l'avis de
-la commission prévue à l'article R. * 4122-19.
+de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, celui-ci dispose d'un délai de
+deux mois pour notifier à l'intéressé si son activité est ou non compatible avec les dispositions de l'article L. 4122-2. Au
+terme de ce délai, le silence du ministre compétent vaut décision conforme à l'avis de la commission prévue à l'article R. *
+4122-19.
 
 **Nota:**
 
@@ -70473,11 +70804,13 @@ Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
 déontologie des militaires).
 
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -70485,6 +70818,10 @@ déontologie des militaires).
 	  - Décret n°2014-596 du 6 juin 2014 - art. (V)
 	  - Décret n°2015-625 du 5 juin 2015 - art. (V)
 	  - Code de la défense. - art. R*4122-17 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 6
 
 	**Cite**:
 
@@ -70494,9 +70831,11 @@ déontologie des militaires).
 
 ###### Article R*4122-19
 
-La décision du ministre de la défense doit être précédée de la consultation d'une commission placée auprès de lui. Cette
-commission, présidée par un conseiller d'Etat ou son suppléant membre du Conseil d'Etat, comprend, outre le directeur des
-ressources humaines du ministère de la défense ou son représentant : 
+La décision du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, doit
+être précédée de la consultation d'une commission placée auprès de lui. Cette commission, présidée par un conseiller d'Etat
+ou son suppléant membre du Conseil d'Etat, comprend, outre le directeur des ressources humaines du ministère de la défense ou
+son représentant ou pour les militaires de la gendarmerie nationale, le directeur chargé des personnels militaires de la
+gendarmerie nationale du ministère de l'intérieur ou son représentant : 
 
 1° Un conseiller maître à la Cour des comptes ou son suppléant, membre de la Cour des comptes ; 
 
@@ -70504,9 +70843,12 @@ ressources humaines du ministère de la défense ou son représentant :
 
 3° Un membre du contrôle général des armées ou son suppléant membre du contrôle général des armées ; 
 
-4° Quatre officiers généraux ou leurs suppléants. 
+4° Quatre officiers généraux ou leurs suppléants ;
 
-Le président, les membres de la commission mentionnés aux 1° à 4° et leurs suppléants respectifs sont nommés pour trois ans
+5° Un membre représentant du ministre de l'intérieur ou son suppléant appelé à siéger lorsque la commission examine la
+situation d'un militaire de la gendarmerie nationale. 
+
+Le président, les membres de la commission mentionnés aux 1° à 5° et leurs suppléants respectifs sont nommés pour trois ans
 par décret.
 
 **Nota:**
@@ -70515,11 +70857,17 @@ Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
 déontologie des militaires).
 
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 7
 
 	**Cité par**:
 
@@ -70531,9 +70879,10 @@ déontologie des militaires).
 
 ###### Article R*4122-20
 
-La commission prévue à l'article R. * 4122-19 est également consultée par le ministre de la défense sur la compatibilité avec
-les dispositions de l'article L. 4122-2 des fonctions qu'un militaire se propose d'exercer dans une entreprise où sa mise en
-détachement ou en position hors cadres est envisagée.
+La commission prévue à l'article R. * 4122-19 est également consultée par le   ministre de la défense, ou le ministre de
+l'intérieur pour les militaires de la gendarmerie nationale, sur la compatibilité avec les dispositions de l'article L.
+4122-2 des fonctions qu'un militaire se propose d'exercer dans une entreprise où sa mise en détachement ou en position hors
+cadres est envisagée.
 
 **Nota:**
 
@@ -70541,11 +70890,17 @@ Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
 déontologie des militaires).
 
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 8
 
 	**Cite**:
 
@@ -70555,7 +70910,7 @@ déontologie des militaires).
 
 ###### Article R*4122-21
 
-Dans tous les cas, le ministre informe l'intéressé de la saisine de la commission. 
+Dans tous les cas, le ministre compétent informe l'intéressé de la saisine de la commission. 
 
 Le militaire est, sur sa demande, entendu par la commission. Il peut se faire assister par toute personne de son choix. 
 
@@ -70575,11 +70930,17 @@ Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
 déontologie des militaires).
 
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+	  - Décret n°2009-1634 du 24 décembre 2009 - art. 9
 
 	**Cite**:
 
@@ -70728,27 +71089,29 @@ d'une association.
 ###### Article R4122-27
 
 Le cumul d'une activité exercée à titre accessoire mentionnée à l'article R. 4122-26 avec l'activité exercée à titre
-principal par un militaire est subordonné à la délivrance d'une autorisation par le ministre de la défense. Le ministre de la
-défense peut, par arrêté, déléguer ce pouvoir aux commandants de formation administrative ou aux autorités dont ils
-relèvent. 
+principal par un militaire est subordonné à la délivrance d'une autorisation par le ministre de la défense, ou le ministre de
+l'intérieur pour les militaires de la gendarmerie nationale. Le ministre de la défense, ou le ministre de l'intérieur pour
+les militaires de la gendarmerie nationale, peut, par arrêté, déléguer ce pouvoir aux commandants de formation administrative
+ou aux autorités dont ils relèvent. 
 
 Toutefois, l'exercice d'une activité bénévole au profit de personnes publiques ou privées sans but lucratif est libre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4122-26
+	  - Code de la défense. - art. R4122-26 (V)
 
 
 ###### Article R4122-28
 
-Préalablement à l'exercice de toute activité soumise à autorisation, le militaire adresse au ministre de la défense ou à
-l'autorité déléguée par lui, qui lui en accuse réception, une demande écrite qui comprend les informations suivantes : 
+Préalablement à l'exercice de toute activité soumise à autorisation, le militaire adresse au ministre de la défense ou
+à l'autorité déléguée par lui, ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de la
+gendarmerie nationale, qui lui en accuse réception, une demande écrite qui comprend les informations suivantes : 
 
 1° Identité de l'employeur ou nature de l'organisme pour le compte duquel s'exercera l'activité envisagée ; 
 
@@ -70760,9 +71123,9 @@ complémentaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 7
 
 	**Cité par**:
 
@@ -70796,14 +71159,15 @@ militaire est réputé autorisé à exercer l'activité accessoire.
 Tout changement substantiel intervenant dans les conditions d'exercice ou de rémunération de l'activité exercée à titre
 accessoire par un militaire est assimilé à l'exercice d'une nouvelle activité. 
 
-Le militaire doit adresser une nouvelle demande d'autorisation au ministre de la défense ou à l'autorité déléguée par lui
-dans les conditions prévues à l'article R. 4122-28.
+Le militaire doit adresser une nouvelle demande d'autorisation au ministre de la défense ou      à l'autorité déléguée par
+lui , ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de la gendarmerie nationale, dans les
+conditions prévues à l'article R. 4122-28.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 8
 
 	**Cite**:
 
@@ -70812,8 +71176,9 @@ dans les conditions prévues à l'article R. 4122-28.
 
 ###### Article R4122-31
 
-Le ministre de la défense ou l'autorité déléguée par lui peut s'opposer à tout moment à la poursuite d'une activité dont
-l'exercice a été autorisé dès lors : 
+Le ministre de la défense ou     l'autorité déléguée par lui ou, pour le militaire de la gendarmerie nationale, le ministre
+de l'intérieur ou l'autorité déléguée par lui, peut s'opposer à tout moment à la poursuite d'une activité dont l'exercice a
+été autorisé dès lors : 
 
 ― que l'intérêt du service le justifie ; 
 
@@ -70823,9 +71188,9 @@ l'exercice a été autorisé dès lors :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 9
 
 
 ###### Article R4122-32
@@ -71863,19 +72228,20 @@ Sont considérés comme ayant été involontairement privés d'emploi, notamment
 
 1° Dont le contrat est arrivé à terme, à l'exception de ceux mentionnés au 2° de l'article R. 4123-35 ; 
 
-2° Dont le contrat a été résilié de plein droit par le ministre de la défense, à l'exception de ceux des militaires
-mentionnés au 1° de l'article R. 4123-35 ; 
+2° Dont le contrat a été résilié de plein droit par le ministre de la défense, ou le ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, à l'exception de ceux des militaires mentionnés au 1° de l'article R. 4123-35 ; 
 
-3° Dont le contrat a été dénoncé par le ministre de la défense pendant la période probatoire ; 
+3° Dont le contrat a été dénoncé par le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, pendant la période probatoire ; 
 
-4° Dont le contrat a été résilié par le ministre de la défense à l'issue d'un congé de reconversion ou d'un congé
-complémentaire de reconversion.
+4° Dont le contrat a été résilié par le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, à l'issue d'un congé de reconversion ou d'un congé complémentaire de reconversion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 10
 
 	**Cité par**:
 
@@ -71884,14 +72250,15 @@ complémentaire de reconversion.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-35 (V)
+	  - Code de la défense. - art. R4123-35
 
 
 ###### Article R4123-34
 
 Sans préjudice des dispositions de l'accord mentionné à l'article R. 4123-30, sont assimilés aux militaires involontairement
-privés d'emploi ceux dont le contrat a été résilié sur leur demande après agrément du ministre de la défense ou dénoncé de
-leur fait pendant la période probatoire, pour l'un des motifs suivants : 
+privés d'emploi ceux dont le contrat a été résilié sur leur demande après agrément du ministre de la défense, ou du ministre
+de l'intérieur pour les militaires de la gendarmerie nationale, ou dénoncé de leur fait pendant la période probatoire, pour
+l'un des motifs suivants : 
 
 1° Raisons de santé motivant une décision de mise en réforme définitive ; 
 
@@ -71900,8 +72267,8 @@ leur fait pendant la période probatoire, pour l'un des motifs suivants :
 3° Réduction de grade prononcée entre la date de signature et la date d'effet du contrat renouvelé ; 
 
 4° Absence de promotion au grade ou d'acquisition du degré de qualification fixés pour chaque armée ou formation rattachée
-par le ministre de la défense, pour les militaires engagés, à l'expiration d'un délai de trois ans de services accomplis
-après la signature du contrat ; 
+par le ministre de la défense, ou par le ministre de l'intérieur pour les militaires de la gendarmerie nationale, pour les
+militaires engagés, à l'expiration d'un délai de trois ans de services accomplis après la signature du contrat ; 
 
 5° Impossibilité, non due à l'inaptitude, d'être affecté à un emploi quand l'engagement a été souscrit pour une durée imposée
 par l'éventualité de cet emploi ; 
@@ -71915,13 +72282,13 @@ conclusion du pacte civil de solidarité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 11
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-30 (V)
+	  - Code de la défense. - art. R4123-30
 
 	**Cité par**:
 
@@ -71938,14 +72305,15 @@ désertion ;
 2° Dont la fin du contrat est intervenue après une absence entraînant un signalement de désertion et qui n'ont pas répondu à
 la procédure de mise en demeure les enjoignant de rejoindre leur formation administrative ; 
 
-3° Dont le contrat a été résilié sur leur demande après agrément du ministre de la défense ou dénoncé de leur fait pendant la
-période probatoire pour un motif autre que l'un de ceux mentionnés du 1° au 7° de l'article R. 4123-34.
+3° Dont le contrat a été résilié sur leur demande après agrément du ministre de la défense, ou du ministre de l'intérieur
+pour les militaires de la gendarmerie nationale,ou dénoncé de leur fait pendant la période probatoire pour un motif autre que
+l'un de ceux mentionnés du 1° au 7° de l'article R. 4123-34.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 12
 
 	**Cité par**:
 
@@ -71953,7 +72321,7 @@ période probatoire pour un motif autre que l'un de ceux mentionnés du 1° au 7
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-34 (V)
+	  - Code de la défense. - art. R4123-34
 
 
 ###### Article R4123-36
@@ -72153,32 +72521,32 @@ Le Conseil supérieur de la fonction militaire comprend, sous la présidence du 
 membres siégeant avec voix délibérative, dont soixante-dix-neuf militaires en position d'activité et six retraités
 militaires.
 
-Il comprend en outre, à titre consultatif, le représentant du ministre chargé du budget et celui du ministre chargé de la
-fonction publique, nommés par arrêté de leur ministre respectif.
+Il comprend en outre, à titre consultatif, le représentant du ministre de l'intérieur, celui du ministre chargé du budget et
+celui du ministre chargé de la fonction publique, nommés par arrêté de leur ministre respectif. 
 
 La répartition des membres militaires du Conseil supérieur de la fonction militaire par armée ou formations rattachées et par
 catégories, en tenant compte de leurs effectifs, est fixée par arrêté du ministre de la défense, après avis du Conseil
-supérieur de la fonction militaire.
+supérieur de la fonction militaire. 
 
-Les catégories de membres militaires sont :
+Les catégories de membres militaires sont : 
 
-1° Les officiers supérieurs ;
+1° Les officiers supérieurs ; 
 
-2° Les officiers subalternes ;
+2° Les officiers subalternes ; 
 
-3° Les majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie ;
+3° Les majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie ; 
 
-4° Les militaires infirmiers et techniciens des hôpitaux des armées ;
+4° Les militaires infirmiers et techniciens des hôpitaux des armées ; 
 
-5° Les sous-officiers ou officiers mariniers subalternes et gendarmes ;
+5° Les sous-officiers ou officiers mariniers subalternes et gendarmes ; 
 
 6° Les militaires du rang.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -72296,17 +72664,19 @@ vie, d'exercice du métier militaire ou d'organisation du travail.
 
 ###### Article R4124-8
 
-Le ministre de la défense préside les conseils de la fonction militaire.
+Le ministre de la défense préside les conseils de la fonction militaire. Toutefois, le conseil de la fonction militaire de la
+gendarmerie nationale peut, en fonction de l'ordre du jour, être présidé soit par le ministre de la défense, soit par le
+ministre de l'intérieur, soit par ces deux ministres.
 
 Le chef d'état-major de chaque armée, le directeur général de la gendarmerie nationale, le délégué général pour l'armement,
 le directeur central du service de santé des armées et le directeur central du service des essences des armées en sont
-respectivement les vice-présidents. Ils en assurent la présidence effective à la demande du ministre.
+respectivement les vice-présidents. Ils en assurent la présidence effective à la demande du ou des ministres intéressés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -72391,39 +72761,40 @@ au moins avant la date prévue pour le tirage au sort. Cette date est fixée par
 ###### Article R4124-12
 
 Chaque conseil de la fonction militaire dispose d'un secrétariat permanent dirigé par un secrétaire général, officier
-supérieur, désigné par le ministre de la défense. 
+supérieur, désigné par le ministre de la défense.  Le secrétaire général du conseil de la fonction militaire de la
+gendarmerie nationale est désigné par le ministre de la défense sur proposition du ministre de l'intérieur. 
 
 Le secrétaire général assiste aux sessions, mais ne participe pas aux votes. 
 
 Les secrétaires généraux des conseils de la fonction militaire relèvent directement des vice-présidents mentionnés à
 l'article R. 4124-8. 
 
-Le ministre peut déléguer sa signature aux secrétaires généraux pour les besoins du fonctionnement des conseils de la
-fonction militaire.
+Le ou les ministres intéressés peuvent déléguer leur signature aux secrétaires généraux pour les besoins du fonctionnement
+des conseils de la fonction militaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4124-8 (V)
+	  - Code de la défense. - art. R4124-8
 
 
 ###### Article R4124-13
 
 Le chef d'état-major de chaque armée, le directeur général de la gendarmerie nationale, le délégué général pour l'armement,
 le directeur central du service de santé des armées et le directeur central du service des essences des armées peuvent, après
-accord du ministre, réunir le conseil dont ils sont le vice-président pour traiter d'un sujet particulier à leur armée ou
-formation rattachée et entrant dans la compétence du conseil.
+accord du ministre ou des ministres intéressés, réunir le conseil dont ils sont le vice-président pour traiter d'un sujet
+particulier à leur armée ou formation rattachée et entrant dans la compétence du conseil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 4
 
 
 ###### Article R4124-14
@@ -72496,7 +72867,7 @@ critère a été retenu.
 
 ###### Article R4124-17
 
-Chaque conseil se réunit au moins deux fois par an sur convocation du ministre de la défense.
+Chaque conseil se réunit au moins deux fois par an sur convocation du ou des ministres intéressés.
 
 Les sessions des conseils de la fonction militaire se terminent, au plus tard, neuf jours avant la session du Conseil
 supérieur de la fonction militaire.
@@ -72506,9 +72877,9 @@ militaire sans que soient saisis au préalable les conseils de la fonction milit
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 5
 
 
 ###### Article R4124-18
@@ -72523,18 +72894,23 @@ Après s'être assurés que ces propositions relèvent de la compétence respect
 et des conseils de la fonction militaire, les secrétaires généraux les soumettent au ministre de la défense, qui arrête
 l'ordre du jour.
 
+Par dérogation à l'alinéa précédent, l'ordre du jour du conseil de la fonction militaire de la gendarmerie nationale est
+arrêté conjointement par les ministres de la défense et de l'intérieur ou par l'une de ces deux autorités lorsque son contenu
+ne relève que de ses seules attributions.
+
 Sont inscrites d'office à l'ordre du jour les questions, entrant dans la compétence du conseil, dont l'examen a été demandé
-par la majorité des membres dudit conseil. Le ministre de la défense peut inscrire à l'ordre du jour toute question de la
-compétence d'un conseil.
+par la majorité des membres dudit conseil. Le ministre de la défense ou, pour le conseil de la fonction militaire de la
+gendarmerie nationale, le ministre de la défense et le ministre de l'intérieur peuvent inscrire à l'ordre du jour toute
+question de la compétence d'un conseil.
 
 Sauf cas d'urgence, l'ordre du jour et le dossier de travail sont adressés au moins trente jours avant l'ouverture de la
 session aux membres convoqués et aux personnes appelées à assister à la session.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1722 du 30 décembre 2009 - art. 6
 
 
 ###### Article R4124-19
@@ -72669,16 +73045,32 @@ l'exercice de ses fonctions.
 
 ###### Article R4125-1
 
-Tout recours contentieux formé par un militaire à l'encontre d'actes relatifs à sa situation personnelle est, à l'exception
-de ceux concernant son recrutement ou l'exercice du pouvoir disciplinaire, précédé d'un recours administratif préalable, à
-peine d'irrecevabilité du recours contentieux. 
+I.-Tout recours contentieux formé par un militaire à l'encontre d'actes relatifs à sa situation personnelle est précédé d'un
+recours administratif préalable, à peine d'irrecevabilité du recours contentieux. 
 
-Ce recours administratif préalable est examiné par la commission des recours des militaires. 
+Ce recours administratif préalable est examiné par la commission des recours des militaires, placée auprès du ministre de la
+défense. 
 
 La saisine de la commission est seule de nature à conserver le délai de recours contentieux jusqu'à l'intervention de la
-décision prévue à l'article R. 4125-10.
+décision prévue à l'article R. 4125-10. 
+
+II.-Les dispositions de la présente section ne sont pas applicables aux recours contentieux formés à l'encontre d'actes ou de
+décisions : 
+
+1° Concernant le recrutement du militaire ou l'exercice du pouvoir disciplinaire ; 
+
+2° Pris en application du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions
+civiles et militaires de retraite ainsi que ceux qui relèvent de la procédure organisée par le décret n° 92-1369 du 29
+décembre 1992 modifiant le décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique et
+fixant les dispositions applicables au recouvrement des créances de l'Etat mentionnées à l'article 60 de ce décret.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Décret n°92-1369 du 29 décembre 1992 (V)
+	  - Code de la défense. - art. R4125-10 (V)
 
 	**Cité par**:
 
@@ -72690,13 +73082,9 @@ décision prévue à l'article R. 4125-10.
 	  - Décret n°2017-566 du 18 avril 2017 (V)
 	  - Code de la défense. - art. R4135-7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R4125-10 (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 2
 
 
 #####  Section 1 : Dispositions générales
@@ -72705,24 +73093,24 @@ décision prévue à l'article R. 4125-10.
 
 A compter de la notification ou de la publication de l'acte contesté, ou de l'intervention d'une décision implicite de rejet
 d'une demande, le militaire dispose d'un délai de deux mois pour saisir la commission par lettre recommandée avec avis de
-réception adressée au secrétariat de la commission.
+réception adressée au secrétariat permanent placé sous l'autorité du président de la commission. 
 
 La lettre de saisine de la commission est accompagnée d'une copie de l'acte. Dans le cas d'une décision implicite de rejet,
-la lettre de saisine est accompagnée d'une copie de la demande.
+la lettre de saisine est accompagnée d'une copie de la demande. 
 
 Si la copie de l'acte ou, dans le cas d'une décision implicite de rejet, la copie de la demande ne sont pas jointes à
-l'envoi, le secrétariat de la commission met l'intéressé en demeure de la produire dans un délai de deux semaines ; en
-l'absence de production dans ce délai, l'intéressé est réputé avoir renoncé à son recours. Le président de la commission en
-dresse le constat et en informe l'intéressé.
+l'envoi, le secrétariat permanent de la commission met l'intéressé en demeure de la produire dans un délai de deux semaines ;
+en l'absence de production dans ce délai, l'intéressé est réputé avoir renoncé à son recours. Le président de la commission
+en dresse le constat et en informe l'intéressé. 
 
 Lorsque le recours est formé après l'expiration du délai de recours mentionné au premier alinéa, le président de la
 commission constate la forclusion et en informe l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -72756,17 +73144,25 @@ commission et en avise l'auteur du recours.
 
 ###### Article R4125-4
 
-L'exercice d'un recours devant la commission ne suspend pas l'exécution de l'acte contesté. Toutefois, l'auteur de celui-ci
-peut le retirer tant que le ministre n'a pas statué sur le recours.
+I. - L'exercice d'un recours devant la commission ne suspend pas l'exécution de l'acte contesté. Toutefois, son auteur peut
+le retirer tant que le ministre compétent ou, le cas échéant, les ministres conjointement compétents n'ont pas statué sur le
+recours. 
 
-L'auteur du recours peut y renoncer à tout moment par simple lettre adressée au secrétariat de la commission. Le président de
-la commission en donne acte à l'intéressé.
+L'auteur du recours peut y renoncer à tout moment par simple lettre adressée au secrétariat permanent de la commission. Le
+président de la commission en donne acte à l'intéressé. 
+
+II. - Pour les militaires des armées et formations rattachées relevant du ministre de la défense, le ministre compétent au
+sens du I est le ministre de la défense. 
+
+Pour les militaires rattachés organiquement à un ministre autre que le ministre de la défense, le ministre compétent ou, le
+cas échéant, les ministres conjointement compétents sont déterminés conformément aux dispositions de la section 2 du présent
+chapitre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -72775,20 +73171,21 @@ la commission en donne acte à l'intéressé.
 
 ###### Article R4125-5
 
-La commission est présidée par un officier général de la 1re section en activité. Elle comprend en outre :
+La commission est présidée par un officier général de la 1re section en activité ou un contrôleur général des armées de la
+1re section en activité. Elle comprend en outre : 
 
 1° Quatre officiers généraux appartenant respectivement à l'armée de terre, à la marine nationale, à l'armée de l'air et à la
-gendarmerie nationale ;
+gendarmerie nationale ; 
 
-2° Le directeur des ressources humaines du ministère de la défense ou son représentant ;
+2° Le directeur des ressources humaines du ministère de la défense ou son représentant ; 
 
 3° Un officier général ou de rang correspondant représentant l'armée ou la formation rattachée dont relève l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 5
 
 	**Cité par**:
 
@@ -72798,26 +73195,31 @@ gendarmerie nationale ;
 
 ###### Article R4125-6
 
-Les membres de la commission sont nommés par arrêté du ministre de la défense pour une durée de deux ans, renouvelable deux
-fois. Pour chacun d'eux, à l'exception du directeur des ressources humaines du ministère de la défense, un suppléant est
-nommé dans les mêmes conditions. Le mandat de l'officier général admis dans la 2e section n'est renouvelable qu'une fois. 
+Le président et les membres de la commission sont nommés, pour une durée de deux ans, renouvelable deux fois, par arrêté du
+ministre de la défense, à l'exception des officiers généraux de la gendarmerie nationale qui sont nommés par arrêté conjoint
+du ministre de la défense et du ministre de l'intérieur. Ces arrêtés sont publiés au Journal officiel de la République
+française. 
 
-Les membres mentionnés aux 1° et 3° de l'article R. 4125-5 sont choisis parmi les officiers généraux en activité ou admis
-dans la 2e section depuis moins de dix-huit mois. 
+Pour chacun des membres, à l'exception du directeur des ressources humaines du ministère de la défense, un suppléant est
+nommé dans les mêmes conditions. 
 
-Pour le membre mentionné au 3° du même article, le suppléant est un officier général en activité si le titulaire nommé est un
-officier général en 2e section. 
+Les membres mentionnés aux 1° et 3° de l'article R. 4125-5 ainsi que leurs suppléants sont choisis parmi les officiers
+généraux en position d'activité ou admis en deuxième section depuis moins de dix-huit mois. La condition de dix-huit mois
+n'est pas exigible en cas de renouvellement de mandat. 
 
-Un rapporteur général et des rapporteurs, ayant accompli au moins trois ans de services effectifs, sont choisis parmi les
-officiers et les fonctionnaires de catégorie A. Ils sont nommés par arrêté du ministre de la défense. 
+Un rapporteur général, un adjoint du rapporteur général et des rapporteurs, ayant accompli au moins trois ans de services
+effectifs, sont choisis parmi les officiers et les fonctionnaires de catégorie A. Ils sont nommés par arrêté du ministre de
+la défense, à l'exception des officiers de la gendarmerie nationale nommés par arrêté du ministre de la défense après avis du
+ministre de l'intérieur. L'adjoint du rapporteur général et les rapporteurs peuvent être des officiers de réserve sous
+contrat d'engagement à servir dans la réserve. 
 
 La commission dispose d'un secrétariat permanent placé sous l'autorité du président.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 6
 
 	**Cite**:
 
@@ -72856,31 +73258,37 @@ Les membres de la commission ainsi que les rapporteurs procèdent à toute mesur
 
 ###### Article R4125-9
 
-La commission recommande au ministre de la défense soit de rejeter le recours, soit de l'agréer totalement ou partiellement.
-Son avis ne lie pas le ministre.
+La commission recommande au ministre compétent ou, le cas échéant, aux ministres conjointement compétents au sens du II de
+l'article R. 4125-4, soit de rejeter le recours, soit de l'agréer totalement ou partiellement. Son avis ne lie pas le
+ministre compétent ou, le cas échéant, les ministres conjointement compétents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4125-4 (V)
 
 
 ###### Article R4125-10
 
-Dans un délai de quatre mois à compter de sa saisine, la commission notifie à l'intéressé la décision du ministre prise sur
-son recours qui se substitue à la décision initiale. Cette notification, effectuée par lettre recommandée avec avis de
-réception, fait mention de la faculté d'exercer, dans le délai de recours contentieux, un recours contre cette décision
-devant la juridiction compétente à l'égard de l'acte initialement contesté devant la commission.
+Dans un délai de quatre mois à compter de sa saisine, la commission notifie à l'intéressé la décision du ministre compétent,
+ou le cas échéant, des ministres conjointement compétents. La décision prise sur son recours, qui est motivée en cas de
+rejet, se substitue à la décision initiale. Cette notification, effectuée par lettre recommandée avec avis de réception, fait
+mention de la faculté d'exercer, dans le délai de recours contentieux, un recours contre cette décision devant la juridiction
+compétente à l'égard de l'acte initialement contesté devant la commission.
 
 L'absence de décision notifiée à l'expiration du délai de quatre mois vaut décision de rejet du recours formé devant la
 commission.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 8
 
 	**Cité par**:
 
@@ -72889,86 +73297,106 @@ commission.
 
 ###### Article R4125-11
 
-Une copie de la décision du ministre ou, dans les cas prévus aux articles R. 4125-2 à R. 4125-4, de celle du président de la
-commission est adressée à l'autorité dont relève l'intéressé.
+Une copie de la décision du ministre compétent ou, le cas échéant, des ministres conjointement compétents, ou, dans les cas
+prévus aux articles R. 4125-2 à R. 4125-4, de celle du président de la commission est adressée à l'autorité dont relève
+l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4125-2
+
+
+###### Article R4125-12
+
+La commission présente    au ministre de la défense, au ministre de l'intérieur et au ministre chargé de la mer un rapport
+annuel d'activité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 10
+
+
+###### Article R4125-14
+
+Les règles de fonctionnement de la commission et les modalités d'examen des recours sont précisées par arrêté conjoint du
+ministre de la défense et du ministre de l'intérieur. 
+
+Pour l'exercice des attributions prévues par les articles R. 4125-2 à R. 4125-4, le président de la commission peut déléguer
+sa signature au rapporteur général ou à l'adjoint du rapporteur général.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 12
 
 	**Cite**:
 
 	  - Code de la défense. - art. R4125-2 (V)
 
 
-###### Article R4125-12
+##### Section 2 : Dispositions particulières aux militaires rattachés organiquement à un ministre autre que le ministre de la défense
 
-La commission présente au ministre de la défense un rapport annuel d'activité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-
-###### Article R4125-13
-
-Les dispositions de la présente section ne sont pas applicables aux mesures prises en application du code des pensions
-militaires d'invalidité et des victimes de la guerre et du code des pensions civiles et militaires de retraite, ni à celles
-qui relèvent de la procédure organisée par le décret n° 92-1369 du 29 décembre 1992 modifiant le décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique et fixant les dispositions applicables au recouvrement
-des créances de l'Etat mentionnées à l'article 60 de ce décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962
-	  - Décret n°92-1369 du 29 décembre 1992
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1716 du 30 décembre 2009 - art. 11
-
-
-###### Article R4125-14
-
-Les règles de fonctionnement de la commission et les modalités d'examen des recours sont précisées par arrêté du ministre de
-la défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-
-#####  Section 2 : Dispositions particulières aux militaires  relevant du ministre chargé de la mer
+##### Sous-section 1 : Dispositions particulières aux militaires de la gendarmerie nationale
 
 ###### Article R4125-15
 
-Les dispositions de la présente section s'appliquent aux recours formés par les officiers du corps technique et administratif
-des affaires maritimes, du corps des administrateurs des affaires maritimes et du corps des professeurs de l'enseignement
-maritime.
+Les dispositions de la présente sous-section s'appliquent aux recours formés par les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
 
 
 ###### Article R4125-16
 
+I.-Lorsque la commission examine le recours d'un militaire de la gendarmerie nationale, elle comprend, outre les membres
+mentionnés à l'article R. 4125-5, un officier supérieur de la gendarmerie nationale, représentant le ministre de l'intérieur.
+Cet officier supérieur est nommé par arrêté conjoint du ministre de la défense et du ministre de l'intérieur pour une durée
+de deux ans renouvelable deux fois. Un suppléant de cet officier supérieur est nommé dans les mêmes conditions. 
+
+II.-Dans ce cas, le directeur des ressources humaines du ministère de la défense ou son représentant assiste avec voix
+consultative à la séance de la commission.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4125-5 (V)
+
+
+###### Article R4125-17
+
+Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris par le ministre de la défense, la commission des recours
+des militaires adresse sa recommandation à ce ministre. 
+
+La décision sur le recours est prise par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+
+###### Article R4125-18
+
 Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris conjointement par le ministre de la défense et le
-ministre chargé de la mer, la commission des recours des militaires adresse sa recommandation à ces deux ministres.
+ministre de l'intérieur, la commission des recours des militaires adresse sa recommandation à ces deux ministres. 
 
 La décision sur le recours est prise conjointement par les deux ministres.
 
@@ -72976,13 +73404,70 @@ La décision sur le recours est prise conjointement par les deux ministres.
 
 	**Créé par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
 
 
-###### Article R4125-17
+###### Article R4125-19
+
+Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris par le ministre de l'intérieur, la commission des recours
+des militaires adresse sa recommandation à ce ministre. 
+
+La décision sur le recours est prise par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+
+##### Sous-section 2 : Dispositions particulières aux militaires relevant du ministre chargé de la mer
+
+###### Article R4125-20
+
+Les dispositions de la présente sous-section s'appliquent aux recours formés par les officiers du corps technique et
+administratif des affaires maritimes, du corps des administrateurs des affaires maritimes et du corps des professeurs de
+l'enseignement maritime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+
+###### Article R4125-21
+
+Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris par le ministre de la défense, la commission des recours
+des militaires adresse sa recommandation à ce ministre. 
+
+La décision sur le recours est prise par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+
+###### Article R4125-22
+
+Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris conjointement par le ministre de la défense et le
+ministre chargé de la mer, la commission des recours des militaires adresse sa recommandation à ces deux ministres. 
+
+La décision sur le recours est prise conjointement par les deux ministres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
+
+
+###### Article R4125-23
 
 Lorsqu'elle statue sur un recours formé à l'encontre d'un acte pris par le ministre chargé de la mer, la commission des
-recours des militaires adresse sa recommandation à ce ministre.
+recours des militaires adresse sa recommandation à ce ministre. 
 
 La décision sur le recours est prise par le ministre chargé de la mer.
 
@@ -72990,7 +73475,7 @@ La décision sur le recours est prise par le ministre chargé de la mer.
 
 	**Créé par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1716 du 30 décembre 2009 - art. 13
 
 
 ####  TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES
@@ -73199,13 +73684,15 @@ officiers mariniers et militaires du rang.
 ###### Article R4131-10
 
 La nomination au grade d'aspirant prévue aux articles R. 4131-8 et R. 4131-9 est prononcée à titre temporaire par arrêté du
-ministre de la défense, selon la procédure de l'article L. 4134-2.
+ministre de la défense ou, pour les élèves officiers de carrière de l'Ecole des officiers de la gendarmerie nationale et les
+élèves officiers sous contrat de la gendarmerie nationale, par arrêté du ministre de l'intérieur, selon la procédure de
+l'article L. 4134-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-948 du 12 septembre 2008 - art. 5
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 13
 
 	**Cite**:
 
@@ -73228,13 +73715,14 @@ ministre de la défense.
 ###### Article R4131-12
 
 Les volontaires dans les armées qui ont suivi avec succès un des cycles de formation donnant accès au grade d'aspirant sont
-nommés à ce grade par décision du ministre de la défense.
+nommés à ce grade par décision du   ministre de la défense ou, pour ceux servant dans la gendarmerie nationale, par décision
+du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-948 du 12 septembre 2008 - art. 7
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 14
 
 
 ###### Article R4131-13
@@ -73653,15 +74141,29 @@ rattachée considérée.
 
 ###### Article R4133-5
 
-Les changements, sur demande, d'armée, de formation rattachée ou de corps au sein de la même armée ou formation rattachée
-sont prononcés par arrêté du ministre de la défense après avis de la commission d'avancement du corps, de l'armée ou de la
-formation rattachée d'accueil, prévue à l'article L. 4136-3 ou par les statuts particuliers.
+I.-Les changements, sur demande, d'armée, de formation rattachée ou de corps au sein de la même armée ou formation rattachée
+sont prononcés, pour les militaires des armées ou formations rattachées autres que la gendarmerie nationale, par arrêté du
+ministre de la défense après avis de la commission d'avancement du corps, de l'armée ou de la formation rattachée d'accueil,
+prévue à l'article L. 4136-3 ou par les statuts particuliers. 
+
+II.-Les changements, sur demande, d'armée ou de formation rattachée vers la gendarmerie nationale sont prononcés par arrêté
+conjoint du ministre de la défense et du ministre de l'intérieur, après avis de la commission d'avancement du corps
+d'accueil, prévue à l'article L. 4136-3 ou par les statuts particuliers. 
+
+Les changements, sur demande, d'armée ou de formation rattachée des militaires de la gendarmerie nationale vers les armées ou
+d'autres formations rattachées sont prononcés par arrêté conjoint du ministre de la défense et du ministre de l'intérieur,
+après avis de la commission d'avancement du corps d'accueil de l'armée ou de la formation rattachée prévue à l'article L.
+4136-3 ou par les statuts particuliers. 
+
+Les changements, sur demande, de corps des militaires de la gendarmerie nationale, au sein de la gendarmerie nationale, sont
+prononcés par arrêté du ministre de l'intérieur après avis de la commission d'avancement du corps d'accueil, prévue à
+l'article L. 4136-3 ou par les statuts particuliers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 15
 
 	**Cite**:
 
@@ -73679,15 +74181,17 @@ formation rattachée d'accueil, prévue à l'article L. 4136-3 ou par les statut
 
 Lorsque les changements de corps sur demande intervenus en application de l'article R. 4133-5 ne permettent pas de satisfaire
 les besoins des armées ou formations rattachées, le ministre de la défense procède à des changements d'office de corps au
-sein d'une même armée ou formation rattachée. 
+sein d'une même armée ou formation rattachée autre que la gendarmerie nationale. 
+
+Pour la gendarmerie nationale, le ministre de l'intérieur procède aux changements d'office de corps. 
 
 Le militaire ne peut faire l'objet que d'un seul changement d'office de corps au cours de sa carrière.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 16
 
 	**Cite**:
 
@@ -73730,17 +74234,20 @@ corps d'accueil prévues à l'article L. 4136-3 ou par les statuts particuliers 
 
 1° Par décret du Président de la République, pour les officiers ; 
 
-2° Par arrêté du ministre de la défense, pour les sous-officiers et les officiers mariniers.
+2° Par arrêté du ministre de la défense, pour les sous-officiers des armées et formations rattachées autres que la
+gendarmerie nationale et les officiers mariniers ; 
+
+3° Par arrêté du ministre de l'intérieur, pour les sous-officiers de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 17
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4136-3 (V)
+	  - Code de la défense. - art. L4136-3
 
 	**Cité par**:
 
@@ -73811,21 +74318,21 @@ La notation est distincte des propositions pour l'avancement.
 
 ###### Article R4135-3
 
-Le militaire est noté à un ou plusieurs degrés par les autorités militaires ou civiles dont il relève.
+Le militaire est noté à un ou plusieurs degrés par les autorités militaires ou civiles dont il relève. 
 
 Pour établir la notation du militaire, ces autorités doivent prendre en considération l'ensemble des activités liées au
 service exécutées par l'intéressé au cours de la période de notation, à l'exception de celles exercées en tant que
-représentant de militaires auprès de la hiérarchie ou au sein d'un organisme consultatif.
+représentant de militaires auprès de la hiérarchie ou au sein d'un organisme consultatif. 
 
-Le nombre de degrés de notation et la désignation des autorités correspondantes sont déterminés par le ministre de la défense
-en considération du corps, du grade, de la fonction du militaire et de l'organisation propre à chaque armée ou formation
-rattachée.
+Le nombre de degrés de notation et la désignation des autorités correspondantes sont déterminés par le   ministre de la
+défense, ou par le ministre de l'intérieur pour les militaires de la gendarmerie nationale, en considération du corps, du
+grade, de la fonction du militaire et de l'organisation propre à chaque armée ou formation rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 18
 
 	**Cité par**:
 
@@ -73835,14 +74342,14 @@ rattachée.
 ###### Article R4135-4
 
 Des règles d'harmonisation, assorties de barèmes, quotas ou normes d'appréciations, peuvent être fixées par arrêté du
-ministre de la défense, par armée ou formation rattachée, pour le classement par niveau de valeur ou dans l'attribution des
-notes chiffrées.
+ministre de la défense, par armée ou  formation rattachée, ou par arrêté du ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, pour le classement par niveau de valeur ou dans l'attribution des notes chiffrées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 19
 
 
 ###### Article R4135-5
@@ -73911,19 +74418,19 @@ fixées aux articles R. 4125-1 à R. 4125-17.
 
 ###### Article R4135-8
 
-Un arrêté du ministre de la défense précise les modalités de notation annuelle des militaires en détachement. Il fixe
-également les conditions dans lesquelles sont notés les militaires faisant l'objet d'une mutation entre deux notations
-annuelles et les conditions dans lesquelles les notateurs mutés en cours d'année doivent noter leurs subordonnés avant leur
-départ.
+Un arrêté du   ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, précise
+les modalités de notation annuelle des militaires en détachement. Il fixe également les conditions dans lesquelles sont notés
+les militaires faisant l'objet d'une mutation entre deux notations annuelles et les conditions dans lesquelles les notateurs
+mutés en cours d'année doivent noter leurs subordonnés avant leur départ. 
 
 Dans le cas d'une mutation entre deux notations annuelles, il est établi une notation intermédiaire. Elle est communiquée à
 l'intéressé par son auteur et jointe à la notation annuelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 20
 
 
 ##### Chapitre VI : Avancement
@@ -74839,11 +75346,14 @@ Les sanctions du troisième groupe sont prononcées par le ministre de la défen
 arrêté, à l'exception du retrait d'emploi par mise en non-activité ou de la radiation des cadres qui, pour les officiers,
 sont prononcées par décret du Président de la République.
 
+La radiation des cadres des sous-officiers de carrière de la gendarmerie nationale est prononcée par le ministre de la
+défense, après avis du ministre de l'intérieur.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 21
 
 	**Cité par**:
 
@@ -77104,16 +77614,21 @@ Dans cette position, le militaire peut être placé dans l'une des situations me
 
 ###### Article R4138-2
 
-Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la défense. 
+I.-Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la
+défense. 
 
 Le congé d'accompagnement d'une personne en fin de vie prévu à l'article L. 4138-6 du code de la défense est accordé par le
-ministre de la défense.
+ministre de la défense. 
+
+II.-Pour les militaires de la gendarmerie nationale, les congés prévus aux articles L. 4138-6, R. 4138-4 à R. 4138-6 et R.
+4138-27 sont accordés par le ministre de l'intérieur, le congé prévu à l'article R. 4138-28 est accordé par décision
+conjointe du ministre de la défense et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-422 du 16 avril 2009 - art. 3
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 22
 
 	**Cité par**:
 
@@ -77123,7 +77638,7 @@ ministre de la défense.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-6
+	  - Code de la défense. - art. L4138-6 (V)
 	  - Code de la défense. - art. R4138-27
 	  - Code de la défense. - art. R4138-4
 
@@ -77479,7 +77994,8 @@ suivantes :
 ###### Article R4138-17
 
 A l'exclusion des permissions pour événements familiaux, la détermination de la date de départ et de la durée de chaque
-permission tient compte des nécessités du service. Lorsque les circonstances l'exigent, le ministre de la défense ou
+permission tient compte des nécessités du service. Lorsque les nécessités de service l'exigent, le ministre de la défense, le
+ministre de l'intérieur pour les militaires de la gendarmerie nationale exerçant des missions de sécurité intérieure, ou
 l'autorité militaire peut rappeler le militaire en permission, le droit au bénéfice de la fraction restante étant maintenu.
 
 Ne viennent pas en déduction des droits à permissions : 
@@ -77496,7 +78012,7 @@ faisant pas l'objet d'un décompte.
 
 	**Modifié par**:
 
-	  - Décret n°2009-422 du 16 avril 2009 - art. 1
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 23
 
 
 ###### Article R4138-18
@@ -77583,13 +78099,13 @@ pendant toute la durée du volontariat.
 
 Le militaire désigné pour effectuer un séjour en dehors de la métropole bénéficie avant son départ d'une permission
 d'éloignement. Toutefois, ce droit n'est pas ouvert au militaire affecté dans l'un des Etats dont la liste est fixée par
-arrêté du ministre de la défense.
+arrêté conjoint du ministre de la défense et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 24
 
 	**Cité par**:
 
@@ -77678,7 +78194,8 @@ militaire est lié par un pacte civil de solidarité ou de l'enfant du militaire
 Le congé de fin de campagne prévu à l'article L. 4138-5 du code de la défense est accordé au militaire à l'issue d'un
 embarquement ou d'un séjour, de plus de onze mois consécutifs, effectué : 
 
-1° En dehors de l'un des Etats dont la liste est fixée par arrêté du ministre de la défense ; 
+1° En dehors de l'un des Etats dont la liste est fixée par arrêté conjoint du ministre de la défense et du ministre de
+l'intérieur ; 
 
 2° En dehors d'un département ou d'une collectivité d'outre-mer, ou de la Nouvelle-Calédonie, dans lequel il était domicilié
 avant son départ ; 
@@ -77697,14 +78214,11 @@ Les congés de maladie, pour maternité, pour paternité ou pour adoption et les
 de vie prévus à l'article L. 4138-6, accordés au cours d'un congé de fin de campagne, en interrompent le
 déroulement.L'intéressé conserve le droit à la fraction de congé de fin de campagne dont il n'a pas bénéficié. 
 
-Lorsque les nécessités de service l'exigent, l'autorité militaire peut rappeler le militaire en congé de fin de campagne, le
-droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu.
+Lorsque les nécessités de service l'exigent, le ministre de la défense, le ministre de l'intérieur pour les militaires de la
+gendarmerie nationale exerçant des missions de sécurité intérieure, ou l'autorité militaire peut rappeler le militaire en
+congé de fin de campagne, le droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-422 du 16 avril 2009 - art. 2
 
 	**Cité par**:
 
@@ -77716,6 +78230,10 @@ droit au bénéfice de la fraction restante du congé de fin de campagne étant 
 	  - Arrêté du 24 février 2015 - art. 7 (V)
 	  - Arrêté du 28 novembre 2016 - art. 1
 	  - Code de la défense. - art. R4138-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 25
 
 	**Cite**:
 
@@ -77729,23 +78247,25 @@ droit au bénéfice de la fraction restante du congé de fin de campagne étant 
 ###### Article R4138-28
 
 Pendant la durée du congé de reconversion prévu à l'article L. 4139-5, le militaire se consacre obligatoirement à la
-préparation d'une nouvelle activité professionnelle.A cette fin, il peut demander à bénéficier des aides mises à sa
-disposition, et notamment s'inscrire dans les organismes d'aide à la reconversion mis en place par le ministre de la
-défense. 
+préparation d'une nouvelle activité professionnelle. A cette fin, il peut demander à bénéficier des aides mises à sa
+disposition, et notamment s'inscrire dans les organismes d'aide à la reconversion mis en place par Le ministre de la défense,
+ou pour les militaires de la gendarmerie nationale le ministre de la défense ou le ministre de l'intérieur.
 
-Le ministre de la défense peut faire procéder aux enquêtes nécessaires, afin de vérifier si l'activité du bénéficiaire du
-congé de reconversion répond à l'objet mentionné au premier alinéa du présent article. 
+Le ministre de la défense, ou pour les militaires de la gendarmerie nationale le ministre de la défense ou le ministre de
+l'intérieur, peut faire procéder aux enquêtes nécessaires, afin de vérifier si l'activité du bénéficiaire du congé de
+reconversion répond à l'objet mentionné au premier alinéa du présent article. 
 
-Lorsque le congé n'est pas mis à profit pour préparer le bénéficiaire à une nouvelle activité professionnelle, le ministre de
-la défense notifie au militaire la fin du congé par anticipation. 
+Lorsque le congé n'est pas mis à profit pour préparer le bénéficiaire à une nouvelle activité professionnelle, Le ministre de
+la défense, ou pour les militaires de la gendarmerie nationale le ministre de la défense ou le ministre de l'intérieur,
+notifie au militaire la fin du congé par anticipation. 
 
 Les dispositions du 6° de l'article L. 4139-14 sont alors applicables au militaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 26
 
 	**Cité par**:
 
@@ -77758,8 +78278,8 @@ Les dispositions du 6° de l'article L. 4139-14 sont alors applicables au milita
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-14 (V)
-	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la défense. - art. L4139-14
+	  - Code de la défense. - art. L4139-5
 
 
 ###### Article R4138-29
@@ -77767,9 +78287,9 @@ Les dispositions du 6° de l'article L. 4139-14 sont alors applicables au milita
 Le militaire placé en congé de reconversion perçoit la solde indiciaire, l'indemnité de résidence, le supplément familial de
 solde, l'indemnité pour charges militaires et, le cas échéant, la majoration de l'indemnité pour charges militaires. 
 
-Le militaire placé en congé de reconversion peut exercer une activité lucrative. Dans ce cas, il doit en informer le ministre
-de la défense en précisant, notamment, l'identité de son employeur et le montant des émoluments que celui-ci lui verse ou lui
-a versés. 
+Le militaire placé en congé de reconversion peut exercer une activité lucrative. Dans ce cas, il doit en informer le
+ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, en précisant,
+notamment, l'identité de son employeur et le montant des émoluments que celui-ci lui verse ou lui a versés. 
 
 La rémunération du militaire qui exerce une activité lucrative durant le congé de reconversion est réduite : 
 
@@ -77787,13 +78307,13 @@ publics ou privés, mentionnés à l'article L. 86-1 du code des pensions civile
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 27
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L86-1 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L86-1
 
 	**Cité par**:
 
@@ -77806,9 +78326,10 @@ publics ou privés, mentionnés à l'article L. 86-1 du code des pensions civile
 ###### Article R4138-30
 
 L'affectation d'un militaire, pour une durée limitée, en application de l'article L. 4138-2 du code de la défense est
-prononcée par arrêté du ministre de la défense. Lorsqu'elle est prononcée auprès d'une des personnes morales mentionnées au
-2° de l'article L. 4138-2 du code de la défense autre que l'Etat, elle est subordonnée à la signature d'une convention entre
-le ministre de la défense et la personne morale intéressée. 
+prononcée par arrêté du ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie
+nationale. Lorsqu'elle est prononcée auprès d'une des personnes morales mentionnées au 2° de l'article L. 4138-2 du code de
+la défense autre que l'Etat, elle est subordonnée à la signature d'une convention entre le ministre de la défense, ou le
+ministre de l'intérieur pour les militaires de la gendarmerie nationale, et la personne morale intéressée.
 
 La convention, conclue pour une durée maximale de dix ans, est examinée par l'autorité chargée du contrôle financier, dans
 les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations
@@ -77828,7 +78349,7 @@ contrôle et de l'évaluation desdites activités.
 
 	**Modifié par**:
 
-	  - Décret n°2009-422 du 16 avril 2009 - art. 4
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 28
 
 
 ###### Article R4138-31
@@ -77838,56 +78359,60 @@ de l'industrie de l'armement, de la sécurité ainsi qu'auprès de celles ayant 
 l'organisation et à la gestion des armées. 
 
 Le militaire affecté auprès d'un des organismes mentionnés au 2° de l'article L. 4138-2 reste rémunéré par le ministère de la
-défense, à l'exclusion de toute autre rémunération. 
+défense, ou pour les militaires de la gendarmerie nationale par le ministère de l'intérieur, à l'exclusion de toute autre
+rémunération. 
 
-Le militaire est affecté pour une durée limitée. Lorsque les frais relatifs aux fonctions exercées par le militaire sont
-remboursés en totalité au ministère de la défense par l'organisme auprès duquel le militaire est affecté dans l'intérêt du
-service, la durée totale de l'affectation peut excéder trois ans.
+Le militaire est affecté pour une durée maximale de trois ans. Cette durée peut être renouvelée si les frais relatifs aux
+fonctions exercées par le militaire sont remboursés en totalité au ministère de la défense ou, pour les militaires de la
+gendarmerie nationale au ministère de l'intérieur, par l'organisme auprès duquel le militaire est affecté. Cette possibilité
+est cependant exclue dans le cadre d'une affectation pour une durée limitée auprès d'une entreprise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 29
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
+	  - Code de la défense. - art. L4138-2
 
 
 ###### Article R4138-32
 
 Lorsque le militaire exerce ses fonctions dans l'un des organismes mentionnés au 2° de l'article L. 4138-2, un rapport annuel
-sur la manière de servir est transmis au ministre de la défense par cet organisme. 
+sur la manière de servir est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, par cet organisme. 
 
-Le ministre de la défense ou l'autorité militaire que le ministre habilite par arrêté exerce le pouvoir disciplinaire. Cette
+Le ministre de la défense ou l'autorité militaire que ce ministre habilite par arrêté exerce le pouvoir disciplinaire. Cette
 autorité peut être saisie par l'organisme d'accueil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 30
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
+	  - Code de la défense. - art. L4138-2
 
 
 ###### Article R4138-33
 
 Dans l'intérêt du service ou dans l'intérêt de la défense, il peut être mis fin à tout moment à l'affectation d'un militaire
-dans l'un des organismes mentionnés au 2° de l'article L. 4138-2, sur décision du ministre de la défense.
+dans l'un des organismes mentionnés au 2° de l'article L. 4138-2, sur décision du ministre de la défense, ou du ministre de
+l'intérieur pour les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 31
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
+	  - Code de la défense. - art. L4138-2
 
 
 #####  Section 2 : Détachement
@@ -77901,7 +78426,8 @@ durée de sa fonction.
 Dans cette position, les restrictions à l'exercice des droits civils et politiques prévues par les dispositions des articles
 L. 4121-1 à L. 4121-5 ne lui sont pas applicables. 
 
-La mise en détachement est prononcée par arrêté du ministre de la défense, précisant la nature et la durée des fonctions.
+La mise en détachement est prononcée par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les militaires
+de la gendarmerie nationale, précisant la nature et la durée des fonctions.
 
 II. - La nomination dans un des emplois mentionnés à l'article 1er du décret du 24 juillet 1985 susvisé fixant les emplois
 supérieurs pour lesquels la nomination est laissée à la décision du Gouvernement emporte détachement dans l'emploi
@@ -77912,7 +78438,7 @@ celle-ci est postérieure à la première.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1212 du 9 octobre 2009 - art. 1
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 32
 
 	**Cite**:
 
@@ -77942,11 +78468,12 @@ d'intérêt général ;
 5° Auprès d'Etats étrangers, d'une organisation internationale intergouvernementale ou d'un organisme d'intérêt général à
 caractère international pour remplir une mission d'intérêt public. Le détachement auprès d'un organisme d'intérêt général à
 caractère international ne peut intervenir que dans les conditions prévues par une convention préalablement passée entre le
-ministre de la défense, l'autorité de tutelle de l'organisme d'accueil et le ministre des affaires étrangères. Cette
-convention, examinée par l'autorité chargée du contrôle financier, dans les conditions prévues par le décret n° 2005-54 du 27
-janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat, définit la nature et le niveau des
-activités confiées au militaire, ses conditions d'emploi et de rémunération, les modalités d'appel de retenues pour pension
-ainsi que les modalités du contrôle et de l'évaluation desdites activités ; 
+ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, l'autorité de tutelle
+de l'organisme d'accueil et le ministre des affaires étrangères. Cette convention, examinée par l'autorité chargée du
+contrôle financier, dans les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au
+sein des administrations de l'Etat, définit la nature et le niveau des activités confiées au militaire, ses conditions
+d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de
+l'évaluation desdites activités ; 
 
 6° Auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des travaux de recherche d'intérêt national entrant
 dans le cadre fixé par le comité interministériel de la recherche scientifique et technique, ou pour assurer le
@@ -77964,7 +78491,7 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 	**Modifié par**:
 
-	  - Décret n°2009-1212 du 9 octobre 2009 - art. 2
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 33
 
 	**Cité par**:
 
@@ -77980,21 +78507,23 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 ###### Article R4138-36
 
-La mise en détachement prévue à l'article R. 4138-35 est prononcée par arrêté du ministre de la défense et, le cas échéant,
-du ministre intéressé, pour une durée maximale de cinq ans renouvelable, sur demande ou d'office. Cet arrêté précise la
-nature, la durée et le lieu d'exercice des fonctions. 
+La mise en détachement prévue à l'article R. 4138-35 est prononcée par arrêté du ministre de la défense, ou du ministre de
+l'intérieur pour les militaires de la gendarmerie nationale et, le cas échéant, du ministre intéressé, pour une durée
+maximale de cinq ans renouvelable, sur demande ou d'office. Cet arrêté précise la nature, la durée et le lieu d'exercice des
+fonctions. 
 
 Le détachement ne peut être prononcé d'office qu'après l'avis d'une commission, présidée par un officier général de l'armée
 ou de la formation rattachée à laquelle appartient le militaire intéressé et comprenant deux militaires si possible du même
 corps et d'un grade égal ou supérieur au sien. 
 
-Le président et les membres de la commission sont désignés par le ministre de la défense.
+Le président et les membres de la commission sont désignés par le ministre de la défense, ou du ministre de l'intérieur pour
+les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 34
 
 	**Cité par**:
 
@@ -78002,7 +78531,7 @@ Le président et les membres de la commission sont désignés par le ministre de
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-35 (V)
+	  - Code de la défense. - art. R4138-35
 
 
 ###### Article R4138-37
@@ -78033,30 +78562,32 @@ Le militaire en détachement dans les conditions prévues à l'article R. 4138-3
 la fonction qu'il exerce par l'effet de son détachement, notamment dans le domaine de la notation. 
 
 Le formulaire de notation du militaire en détachement ou, s'il n'est pas établi, un rapport sur la manière de servir, est
-transmis au ministre de la défense.
+transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 35
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-35 (V)
+	  - Code de la défense. - art. R4138-35
 
 
 ###### Article R4138-39
 
-Durant le détachement prévu par les dispositions des articles L. 4139-1 à L. 4139-3 et en cas de détachement d'office, le
+Durant le détachement prévu par les dispositions des articles L. 4139-1 à L. 4139-3, et en cas de détachement d'office, le
 militaire reçoit de l'administration d'accueil le traitement indiciaire, les indemnités de résidence et à caractère familial
-et, le cas échéant, les primes et indemnités attachées au nouvel emploi. Dans le cas où la rémunération perçue par le
-militaire dans son nouvel emploi est inférieure à celle qu'il aurait perçue s'il était resté en position d'activité au sein
-des armées, le militaire perçoit, du ministère de la défense, une indemnité compensatrice égale à la différence entre, d'une
-part, le traitement indiciaire brut, les indemnités de résidence et à caractère familial, et les primes et indemnités
-attachées au nouvel emploi et, d'autre part, la solde indiciaire brute, l'indemnité de résidence, le supplément familial de
-solde, l'indemnité pour charges militaires et les primes et indemnités liées à la qualification qu'il aurait perçus s'il
-était resté en position d'activité.
+et, le cas échéant, les primes et indemnités attachées au nouvel emploi. 
+
+Dans le cas où la rémunération perçue par le militaire dans son nouvel emploi est inférieure à celle qu'il aurait perçue s'il
+était resté en position d'activité au sein des forces armées, le militaire reçoit, du ministère de la défense, ou du
+ministère de l'intérieur pour les militaires de la gendarmerie nationale, une indemnité compensatrice égale à la différence
+entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le supplément familial de solde, l'indemnité pour
+charges militaires et les primes et indemnités liées à la qualification qu'il aurait perçus s'il était resté en position
+d'activité, et, d'autre part, le traitement indiciaire brut, les indemnités de résidence et à caractère familial, et les
+primes et indemnités attachées au nouvel emploi.
 
 **Liens relatifs à cet article**
 
@@ -78071,13 +78602,14 @@ solde, l'indemnité pour charges militaires et les primes et indemnités liées 
 	  - Code de la défense. - art. R4139-27 (V)
 	  - Code de la défense. - art. R4139-36 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-1 (V)
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. R4139-1 (V)
 
 
 ###### Article R4138-40
@@ -78164,13 +78696,14 @@ l'administration dont il est détaché.
 
 ###### Article R4138-44
 
-A l'expiration du détachement, le militaire est réintégré dans son corps d'origine par arrêté du ministre de la défense.
+A l'expiration du détachement, le militaire est réintégré dans son corps d'origine par arrêté du ministre de la défense, ou
+du ministre de l'intérieur pour les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 36
 
 
 #####  Section 3 : Hors cadres
@@ -78178,8 +78711,9 @@ A l'expiration du détachement, le militaire est réintégré dans son corps d'o
 ###### Article R4138-45
 
 Le militaire de carrière en détachement remplissant les conditions prévues à l'article L. 4138-10 peut, sur demande, être
-placé, par arrêté du ministre de la défense, en position hors cadres pour continuer à servir dans l'administration,
-l'entreprise ou l'organisme dans lequel il exerce ses fonctions. 
+placé, par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale,
+en position hors cadres pour continuer à servir dans l'administration, l'entreprise ou l'organisme dans lequel il exerce ses
+fonctions. 
 
 Dans cette position, il n'est plus régi par les dispositions du livre Ier de la partie 4 législative du présent code, sous
 réserve des dispositions relatives à la démission prévues à l'article L. 4139-13.
@@ -78188,7 +78722,7 @@ réserve des dispositions relatives à la démission prévues à l'article L. 41
 
 	**Modifié par**:
 
-	  - Décret n°2009-1212 du 9 octobre 2009 - art. 3
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 37
 
 	**Cite**:
 
@@ -78262,14 +78796,15 @@ le traitement sont incompatibles avec le service.
 ###### Article R4138-48
 
 Le congé de longue durée pour maladie est attribué, sur demande ou d'office, dans les conditions fixées à l'article L.
-4138-12, par décision du ministre de la défense, sur le fondement d'un certificat médical établi par un médecin ou un
-chirurgien des hôpitaux des armées, par périodes de trois à six mois renouvelables.
+4138-12, par décision du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie
+nationale, sur le fondement d'un certificat médical établi par un médecin ou un chirurgien des hôpitaux des armées, par
+périodes de trois à six mois renouvelables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 38
 
 	**Cité par**:
 
@@ -78284,7 +78819,7 @@ chirurgien des hôpitaux des armées, par périodes de trois à six mois renouve
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-12 (V)
+	  - Code de la défense. - art. L4138-12
 
 
 ###### Article R4138-49
@@ -78445,19 +78980,20 @@ l'alinéa précédent lui sont applicables.
 A l'issue ou au cours de l'une des périodes du congé de longue durée pour maladie, le militaire peut demander à mettre fin à
 ce congé et à être présenté devant la commission de réforme prévue au 4° de l'article L. 4139-14. 
 
-La décision de présentation devant la commission de réforme est prise par le ministre de la défense, après avis favorable du
-médecin prescripteur du congé ou, le cas échéant, du comité supérieur médical mentionné à l'article R. 4138-50.
+La décision de présentation devant la commission de réforme est prise par le ministre de la défense, ou le ministre de
+l'intérieur pour les militaires de la gendarmerie nationale, après avis favorable du médecin prescripteur du congé ou, le cas
+échéant, du comité supérieur médical mentionné à l'article R. 4138-50.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 39
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-14 (V)
-	  - Code de la défense. - art. R4138-50 (V)
+	  - Code de la défense. - art. L4139-14
+	  - Code de la défense. - art. R4138-50
 
 
 #####  Sous-section 2 : Congé de longue maladie
@@ -78467,17 +79003,18 @@ médecin prescripteur du congé ou, le cas échéant, du comité supérieur méd
 Le congé de longue maladie prévu à l'article L. 4138-13 est attribué en raison d'une affection grave et invalidante autre que
 celles énumérées à l'article R. 4138-47. 
 
-Ce congé est accordé, sur demande ou d'office, par décision du ministre de la défense, sur le fondement d'un certificat d'un
-médecin ou d'un chirurgien des hôpitaux des armées, par périodes de trois à six mois renouvelables. 
+Ce congé est accordé, sur demande ou d'office, par décision du ministre de la défense, ou du ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, sur le fondement d'un certificat d'un médecin ou d'un chirurgien des hôpitaux des
+armées, par périodes de trois à six mois renouvelables. 
 
 Les dispositions relatives au congé de longue durée pour maladie prévues aux articles R. 4138-47 à R. 4138-57 s'appliquent
 également au congé de longue maladie, à l'exception du deuxième alinéa de l'article R. 4138-55.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 40
 
 	**Cité par**:
 
@@ -78492,25 +79029,25 @@ Les dispositions relatives au congé de longue durée pour maladie prévues aux 
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-13 (V)
-	  - Code de la défense. - art. R4138-47 (V)
-	  - Code de la défense. - art. R4138-55 (V)
+	  - Code de la défense. - art. L4138-13
+	  - Code de la défense. - art. R4138-47
+	  - Code de la défense. - art. R4138-55
 
 
 #####  Sous-section 3 : Congé parental
 
 ###### Article R4138-59
 
-Le militaire qui en fait la demande est placé, par décision du ministre de la défense, en situation de congé parental prévue
-à l'article L. 4138-14. 
+Le militaire qui en fait la demande est placé, par décision du ministre de la défense, ou du ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, en situation de congé parental prévue à l'article L. 4138-14. 
 
 Pour bénéficier du congé parental, la demande doit être présentée au moins un mois avant le début du congé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 41
 
 	**Cité par**:
 
@@ -78524,7 +79061,7 @@ Pour bénéficier du congé parental, la demande doit être présentée au moins
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-14 (V)
+	  - Code de la défense. - art. L4138-14
 
 
 ###### Article R4138-60
@@ -78579,8 +79116,9 @@ alinéa de l'article L. 4138-14.
 
 ###### Article R4138-62
 
-Le ministre de la défense peut faire procéder aux enquêtes nécessaires en vue de s'assurer que l'activité du bénéficiaire du
-congé parental est réellement consacrée à élever l'enfant.
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, peut faire procéder
+aux enquêtes nécessaires en vue de s'assurer que l'activité du bénéficiaire du congé parental est réellement consacrée à
+élever l'enfant.
 
 Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut y être mis fin après que l'intéressé a été mis en
 demeure de présenter ses observations.
@@ -78589,9 +79127,9 @@ Le congé parental cesse de plein droit en cas de retrait de l'enfant placé en 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 42
 
 
 ###### Article R4138-63
@@ -78630,8 +79168,8 @@ inspection ordonnée par le ministre de la défense ou l'autorité militaire.
 
 ###### Article R4138-65
 
-Le congé pour convenances personnelles peut être accordé par décision du ministre de la défense dans les conditions fixées à
-l'article L. 4138-16. 
+Le congé pour convenances personnelles peut être accordé par décision du ministre de la défense, ou du ministre de
+l'intérieur pour les militaires de la gendarmerie nationale, dans les conditions fixées à l'article L. 4138-16. 
 
 Le militaire peut bénéficier d'un congé pour convenances personnelles après quatre ans de services, dont deux ans pour les
 officiers en cette qualité. 
@@ -78649,18 +79187,18 @@ présence d'une tierce personne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2008-960 du 12 septembre 2008 - art. 4 (V)
 	  - Code de la défense. - art. R4138-76 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 43
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-16 (V)
+	  - Code de la défense. - art. L4138-16
 
 
 ###### Article R4138-66
@@ -78682,20 +79220,21 @@ ce qu'il puisse être affecté dans un emploi correspondant à son grade.
 
 ###### Article R4138-67
 
-La mise en disponibilité peut être accordée à l'officier de carrière par décision du ministre de la défense dans les
-conditions fixées à l'article L. 4139-9. 
+La mise en disponibilité peut être accordée à l'officier de carrière par décision du ministre de la défense, ou du ministre
+de l'intérieur pour les officiers de carrière de la gendarmerie nationale, dans les conditions fixées à l'article L. 4139-9. 
 
-Le nombre des officiers de carrière en disponibilité est fixé annuellement par décision du ministre de la défense.
+Le nombre des officiers de carrière en disponibilité est fixé annuellement par décision du ministre de la défense, ou du
+ministre de l'intérieur pour les officiers de carrière de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 44
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-9 (V)
+	  - Code de la défense. - art. L4139-9
 
 	**Cité par**:
 
@@ -78707,14 +79246,15 @@ Le nombre des officiers de carrière en disponibilité est fixé annuellement pa
 
 ###### Article R4138-68
 
-Le militaire qui bénéficie d'un congé de reconversion peut, sur sa demande, être placé par décision du ministre de la défense
-en congé complémentaire de reconversion prévu à l'article L. 4139-5.
+Le militaire qui bénéficie d'un congé de reconversion peut, sur sa demande, être placé par décision du ministre de la
+défense, ou pour les militaires de la gendarmerie nationale par décision conjointe du ministre de la défense et du ministre
+de l'intérieur, en congé complémentaire de reconversion prévu à l'article L. 4139-5.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 45
 
 	**Cité par**:
 
@@ -78724,7 +79264,7 @@ en congé complémentaire de reconversion prévu à l'article L. 4139-5.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la défense. - art. L4139-5
 
 
 ###### Article R4138-69
@@ -78849,15 +79389,12 @@ Le caractère exceptionnel des services aériens exigé pour l'obtention de ce c
 
 ###### Article R4138-74
 
-Le ministre de la défense est autorisé à déléguer par arrêté aux commandants de formation administrative ou aux autorités
-dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient des articles R. 4138-2, R. 4138-48, R.
-4138-58, R. 4138-59, R. 4138-67, R. 4138-68, R. 4138-71 et R. 4138-73.
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, est autorisé à
+déléguer par arrêté aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs en matière de
+mesures individuelles qu'il tient des articles R. 4138-2, R. 4138-48, R. 4138-58, R. 4138-59, R. 4138-67, R. 4138-68, R.
+4138-71 et R. 4138-73.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -78866,15 +79403,19 @@ dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient
 	  - Arrêté du 24 février 2015 - art. 1 (V)
 	  - Arrêté du 28 novembre 2016 - art. 1
 
+	**Modifié par**:
+
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 46
+
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-2 (V)
-	  - Code de la défense. - art. R4138-48 (V)
-	  - Code de la défense. - art. R4138-58 (V)
-	  - Code de la défense. - art. R4138-59 (V)
-	  - Code de la défense. - art. R4138-67 (V)
-	  - Code de la défense. - art. R4138-71 (V)
-	  - Code de la défense. - art. R4138-73 (V)
+	  - Code de la défense. - art. R4138-2
+	  - Code de la défense. - art. R4138-48
+	  - Code de la défense. - art. R4138-58
+	  - Code de la défense. - art. R4138-59
+	  - Code de la défense. - art. R4138-67
+	  - Code de la défense. - art. R4138-71
+	  - Code de la défense. - art. R4138-73
 
 
 ###### Article R4138-75
@@ -78954,22 +79495,26 @@ préalable à sa titularisation en position de détachement.
 Durant le détachement, en application des dispositions de l'article L. 4139-4, le militaire reçoit de l'administration
 d'accueil le traitement indiciaire brut, les indemnités de résidence et à caractère familial et, le cas échéant, les primes
 et indemnités attachées au nouvel emploi. Dans le cas où la rémunération perçue par le militaire dans son nouvel emploi est
-inférieure à celle qu'il aurait perçue s'il était resté en position d'activité au sein des armées, le militaire perçoit du
-ministère de la défense une indemnité compensatrice égale à la différence entre, d'une part, le traitement indiciaire brut,
-les indemnités de résidence et à caractère familial, et, le cas échéant, les primes et indemnités attachées au nouvel emploi,
-et, d'autre part, la solde indiciaire brute, l'indemnité de résidence, le supplément familial de solde, l'indemnité pour
-charges militaires et les primes et indemnités liées à la qualification qu'il aurait perçues s'il était resté en position
-d'activité.
+inférieure à celle qu'il aurait perçue s'il était resté en position d'activité au sein des forces armées, le militaire
+reçoit, du ministère de la défense, ou du ministère de l'intérieur pour les militaires de la gendarmerie nationale, une
+indemnité compensatrice égale à la différence entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le
+supplément familial de solde, l'indemnité pour charges militaires et les primes et indemnités liées à la qualification qu'il
+aurait perçus s'il était resté en position d'activité, et, d'autre part, le traitement indiciaire brut, les indemnités de
+résidence et à caractère familial, et les primes et indemnités attachées au nouvel emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-469 du 28 avril 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la défense. - art. L4139-4
 
 
 ###### Article R4139-3
@@ -79235,18 +79780,20 @@ l'armement doit avoir, à la date du détachement, moins d'un an d'ancienneté a
 Le militaire qui remplit les conditions de grade et d'ancienneté fixées par la sous-section 2 de la présente section peut
 demander son détachement dans un emploi relevant d'un corps de fonctionnaires de l'Etat ou de ses établissements publics. Il
 adresse sa demande par la voie hiérarchique à l'autorité gestionnaire dont il relève. La demande est accompagnée d'un dossier
-dont la composition est fixée par arrêté du ministre de la défense. 
+dont la composition est fixée par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la
+gendarmerie nationale. 
 
 Le militaire peut postuler à plusieurs emplois en les classant par ordre de préférence. 
 
-Après avoir reçu l'agrément du ministre de la défense, la demande est soumise pour avis à une Commission nationale
-d'orientation et d'intégration placée auprès du Premier ministre.
+Après avoir reçu l'agrément du ministre de la défense ou pour les militaires de la gendarmerie nationale du ministre de
+l'intérieur sur avis du ministre de la défense, la demande est soumise pour avis à une Commission nationale d'orientation et
+d'intégration placée auprès du Premier ministre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -79281,24 +79828,25 @@ public de l'Etat que ceux initialement envisagés.
 
 ###### Article R*4139-16
 
-L'avis de la commission est transmis au ministre de la défense et à l'autorité chargée de la gestion du corps d'accueil.
-Celle-ci se prononce dans le délai d'un mois à compter de cette transmission. Si sa candidature est retenue, une proposition
-d'affectation est adressée au militaire qui dispose d'un délai de quinze jours à compter de la notification de cette
-proposition pour l'accepter ou la refuser. 
+L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité chargée de la gestion du corps d'accueil. Celle-ci se prononce dans le délai d'un mois
+à compter de cette transmission. Si sa candidature est retenue, une proposition d'affectation est adressée au militaire qui
+dispose d'un délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la refuser. 
 
 En cas d'acceptation, le militaire est mis à la disposition de l'administration ou de l'établissement public d'accueil pour
 effectuer un stage probatoire d'une durée de deux mois. Pendant cette période, il reste en position d'activité au sein des
-armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé pour la
-durée du stage probatoire. 
+forces armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé
+pour la durée du stage probatoire.
 
 S'il a donné satisfaction, le militaire est placé à l'issue du stage probatoire en position de détachement, par décision
-conjointe du ministre de la défense et de l'autorité chargée de la gestion du corps d'accueil.
+conjointe du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, et de
+l'autorité chargée de la gestion du corps d'accueil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 3
 
 
 ###### Article R*4139-17
@@ -79311,18 +79859,19 @@ détachement.
 
 Il peut être mis fin au détachement avant son terme, à l'initiative du militaire ou à la demande de l'administration, ou de
 l'établissement public d'accueil, après avis de la Commission nationale d'orientation et d'intégration, lequel est transmis
-au ministre de la défense et à l'autorité chargée de la gestion du corps d'accueil. Le militaire est alors réintégré de plein
-droit dans son corps d'origine ou de rattachement, dans les conditions prévues à l'article L. 4139-4.
+au   ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et à l'autorité
+chargée de la gestion du corps d'accueil. Le militaire est alors réintégré de plein droit dans son corps d'origine ou de
+rattachement, dans les conditions prévues à l'article L. 4139-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la défense. - art. L4139-4
 
 
 ###### Article R*4139-18
@@ -79358,7 +79907,8 @@ l'achèvement de la procédure d'intégration ;
 même administration ou du même établissement public. 
 
 La décision de réintégration ou de maintien en détachement est prononcée après avis de la Commission nationale d'orientation
-et d'intégration, lequel est transmis au ministre de la défense et à l'autorité chargée de la gestion du corps d'accueil. 
+et d'intégration, lequel est transmis au   ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité chargée de la gestion du corps d'accueil. 
 
 En cas de maintien en détachement pendant une année supplémentaire, la demande d'intégration doit être présentée dans le même
 délai que celui prévu au premier alinéa du présent article. 
@@ -79368,9 +79918,9 @@ détachement dans son corps d'origine ou de rattachement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 5
 
 
 ###### Article R*4139-20
@@ -79426,11 +79976,15 @@ comptes ;
 5° L'autorité chargée de la gestion du corps d'accueil dans l'administration ou l'établissement public d'accueil ou son
 représentant.
 
+Lorsque la commission examine la demande d'un militaire de la gendarmerie nationale, les représentants du ministre de la
+défense précités sont remplacés, ainsi que leurs suppléants, par deux représentants du ministre de l'intérieur ou par leurs
+suppléants, nommés par arrêté du ministre de l'intérieur.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 6
 
 	**Cité par**:
 
@@ -79440,8 +79994,8 @@ représentant.
 
 ###### Article R*4139-22
 
-Le mandat du président, du vice-président et des deux représentants du ministre de la défense est d'une durée de quatre ans
-renouvelable. 
+Le mandat du président, du vice-président et des deux représentants du   ministre de la défense, ou du ministre de
+l'intérieur pour les militaires de la gendarmerie nationale, est d'une durée de quatre ans renouvelable. 
 
 En cas de décès ou de démission d'un membre de la commission ou lorsque l'un d'eux cesse d'exercer les fonctions au titre
 desquelles il a été nommé, il est pourvu à son remplacement dans les mêmes conditions pour la durée du mandat restant à
@@ -79454,9 +80008,9 @@ Le règlement intérieur de la commission est fixé, sur proposition de son pré
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-391 du 23 avril 2008 - art.
+	  - Décret n°2009-1719 du 30 décembre 2009 - art. 7
 
 
 #####  Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale
@@ -79466,18 +80020,20 @@ Le règlement intérieur de la commission est fixé, sur proposition de son pré
 Le militaire qui remplit les conditions de grade et d'ancienneté fixées par la sous-section 2 de la présente section peut
 demander son détachement dans un emploi relevant d'un cadre d'emplois d'une collectivité territoriale ou de l'un de ses
 établissements publics. Il adresse sa demande par la voie hiérarchique à l'autorité gestionnaire dont il relève. La demande
-est accompagnée d'un dossier dont la composition est fixée par arrêté du ministre de la défense. 
+est accompagnée d'un dossier dont la composition est fixée par arrêté du   ministre de la défense, ou du ministre de
+l'intérieur pour les militaires de la gendarmerie nationale. 
 
 Le militaire peut postuler à plusieurs emplois en les classant par ordre de préférence. 
 
-Après avoir reçu l'agrément du ministre de la défense, la demande est soumise pour avis à la Commission nationale
-d'orientation et d'intégration créée à l'article R*. 4139-14, dans sa composition fixée à l'article R. 4139-30.
+Après avoir reçu l'agrément du   ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie
+nationale, la demande est soumise pour avis à la Commission nationale d'orientation et d'intégration créée à l'article R*.
+4139-14, dans sa composition fixée à l'article R. 4139-30.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -79491,8 +80047,8 @@ d'orientation et d'intégration créée à l'article R*. 4139-14, dans sa compos
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*4139-14 (V)
-	  - Code de la défense. - art. R4139-30 (V)
+	  - Code de la défense. - art. R*4139-14
+	  - Code de la défense. - art. R4139-30
 
 
 ###### Article R4139-24
@@ -79513,24 +80069,25 @@ territoriale que celui initialement envisagé.
 
 ###### Article R4139-25
 
-L'avis de la commission est transmis au ministre de la défense et à l'autorité territoriale compétente. Celle-ci se prononce
-dans le délai d'un mois à compter de cette transmission. Si sa candidature est retenue, une proposition d'affectation est
-adressée au militaire, qui dispose d'un délai de quinze jours à compter de la notification de cette proposition pour
-l'accepter ou la refuser.
+L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité territoriale compétente. Celle-ci se prononce dans le délai d'un mois à compter de
+cette transmission. Si sa candidature est retenue, une proposition d'affectation est adressée au militaire, qui dispose d'un
+délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la refuser. 
 
 En cas d'acceptation, le militaire est mis à la disposition de la collectivité ou de l'établissement public d'accueil pour
 effectuer un stage probatoire d'une durée de deux mois. Pendant cette période, il reste en position d'activité au sein des
-armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé pour la
-durée du stage probatoire.
+forces armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé
+pour la durée du stage probatoire.
 
 S'il a donné satisfaction, le militaire est placé à l'issue du stage probatoire en position de détachement, par décision
-conjointe du ministre de la défense et de l'autorité territoriale compétente.
+conjointe du ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et de
+l'autorité territoriale compétente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 5
 
 
 ###### Article R4139-26
@@ -79543,18 +80100,19 @@ détachement.
 
 Il peut être mis fin au détachement avant son terme, à l'initiative du militaire ou à la demande de la collectivité ou de
 l'établissement public d'accueil, après avis de la Commission nationale d'orientation et d'intégration, lequel est transmis
-au ministre de la défense et à l'autorité territoriale compétente. Le militaire est alors réintégré de plein droit dans son
-corps d'origine ou de rattachement, dans les conditions prévues à l'article L. 4139-4.
+au   ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et à l'autorité
+territoriale compétente. Le militaire est alors réintégré de plein droit dans son corps d'origine ou de rattachement, dans
+les conditions prévues à l'article L. 4139-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la défense. - art. L4139-4
 
 
 ###### Article R4139-27
@@ -79576,33 +80134,34 @@ Pendant le détachement, le militaire est rémunéré dans les conditions fixée
 
 A l'issue du détachement, le militaire peut demander son intégration dans le cadre d'emplois dans lequel il a été détaché. Sa
 demande est présentée à l'autorité territoriale compétente au plus tôt trois mois et au plus tard un mois avant le terme du
-détachement.
+détachement. 
 
 Au vu du rapport établi par le chef de service sur l'aptitude professionnelle de l'intéressé, l'autorité territoriale
-compétente se prononce :
+compétente se prononce : 
 
 1° Soit pour l'intégration de l'intéressé à l'expiration de la période de détachement, prolongée en cas de besoin jusqu'à
-l'achèvement de la procédure d'intégration ;
+l'achèvement de la procédure d'intégration ; 
 
-2° Soit pour sa réintégration dans son corps d'origine ou de rattachement ;
+2° Soit pour sa réintégration dans son corps d'origine ou de rattachement ; 
 
 3° Soit pour son maintien en détachement pendant une année supplémentaire dans l'emploi occupé ou dans un autre emploi de la
-même collectivité ou du même établissement public.
+même collectivité ou du même établissement public. 
 
 La décision de réintégration ou de maintien en détachement est prononcée après avis de la Commission nationale d'orientation
-et d'intégration, lequel est transmis au ministre de la défense et à l'autorité territoriale compétente.
+et d'intégration, lequel est transmis au   ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité territoriale compétente. 
 
 En cas de maintien en détachement pendant une année supplémentaire, la demande d'intégration doit être présentée dans le même
-délai que celui prévu au premier alinéa du présent article.
+délai que celui prévu au premier alinéa du présent article. 
 
 En cas de refus d'intégration ou s'il n'a pas demandé son intégration, le militaire est réintégré d'office à la fin du
 détachement dans son corps d'origine ou de rattachement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 7
 
 
 ###### Article R4139-29
@@ -79677,18 +80236,20 @@ partage égal des voix, celle du président est prépondérante.
 Le militaire qui remplit les conditions de grade et d'ancienneté fixées par la sous-section 2 de la présente section peut
 demander son détachement dans un emploi relevant d'un corps de fonctionnaires de la fonction publique hospitalière. Il
 adresse sa demande par la voie hiérarchique à l'autorité gestionnaire dont il relève. La demande est accompagnée d'un dossier
-dont la composition est fixée par arrêté du ministre de la défense. 
+dont la composition est fixée par arrêté du   ministre de la défense, ou du ministre de l'intérieur pour les militaires de la
+gendarmerie nationale. 
 
 Le militaire peut postuler à plusieurs emplois en les classant par ordre de préférence. 
 
-Après avoir reçu l'agrément du ministre de la défense, la demande est soumise pour avis à la Commission nationale
-d'orientation et d'intégration créée à l'article R*. 4139-14, dans sa composition fixée à l'article R. 4139-39.
+Après avoir reçu l'agrément du   ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie
+nationale, la demande est soumise pour avis à la Commission nationale d'orientation et d'intégration créée à l'article R*.
+4139-14, dans sa composition fixée à l'article R. 4139-39.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 8
 
 	**Cité par**:
 
@@ -79696,8 +80257,8 @@ d'orientation et d'intégration créée à l'article R*. 4139-14, dans sa compos
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*4139-14 (V)
-	  - Code de la défense. - art. R4139-39 (V)
+	  - Code de la défense. - art. R*4139-14
+	  - Code de la défense. - art. R4139-39
 
 
 ###### Article R4139-33
@@ -79719,24 +80280,26 @@ que celui initialement envisagé.
 
 ###### Article R4139-34
 
-L'avis de la commission est transmis au ministre de la défense et à l'autorité ayant le pouvoir de nomination dans le corps
-d'accueil. Celle-ci se prononce dans le délai d'un mois à compter de cette transmission. Si sa candidature est retenue, une
-proposition d'affectation est adressée au militaire, qui dispose d'un délai de quinze jours à compter de la notification de
-cette proposition pour l'accepter ou la refuser.
+L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité ayant le pouvoir de nomination dans le corps d'accueil. Celle-ci se prononce dans le
+délai d'un mois à compter de cette transmission. Si sa candidature est retenue, une proposition d'affectation est adressée au
+militaire, qui dispose d'un délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la
+refuser. 
 
 En cas d'acceptation, le militaire est mis à la disposition de l'administration ou de l'établissement public d'accueil pour
 effectuer un stage probatoire d'une durée de deux mois. Pendant cette période, il reste en position d'activité au sein des
-armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé pour la
-durée du stage probatoire.
+forces armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé
+pour la durée du stage probatoire.
 
 S'il a donné satisfaction, le militaire est placé à l'issue du stage probatoire en position de détachement, par décision
-conjointe du ministre de la défense et de l'autorité ayant le pouvoir de nomination dans le corps d'accueil.
+conjointe du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, et de
+l'autorité ayant le pouvoir de nomination dans le corps d'accueil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 9
 
 
 ###### Article R4139-35
@@ -79749,18 +80312,19 @@ détachement.
 
 Il peut être mis fin au détachement avant son terme, à l'initiative du militaire ou à la demande de l'administration ou de
 l'établissement public d'accueil, après avis de la Commission nationale d'orientation et d'intégration, lequel est transmis
-au ministre de la défense et à l'autorité ayant le pouvoir de nomination dans le corps d'accueil. Le militaire est alors
-réintégré de plein droit dans son corps d'origine ou de rattachement, dans les conditions prévues à l'article L. 4139-4.
+au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et à l'autorité
+ayant le pouvoir de nomination dans le corps d'accueil. Le militaire est alors réintégré de plein droit dans son corps
+d'origine ou de rattachement, dans les conditions prévues à l'article L. 4139-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 10
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la défense. - art. L4139-4
 
 
 ###### Article R4139-36
@@ -79796,8 +80360,8 @@ l'achèvement de la procédure d'intégration ;
 même administration ou du même établissement public.
 
 La décision de réintégration ou de maintien en détachement est prononcée après avis de la Commission nationale d'orientation
-et d'intégration, lequel est transmis au ministre de la défense et à l'autorité ayant le pouvoir de nomination dans le corps
-d'accueil.
+et d'intégration, lequel est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, et à l'autorité ayant le pouvoir de nomination dans le corps d'accueil.
 
 En cas de maintien en détachement pendant une année supplémentaire, la demande d'intégration doit être présentée dans le même
 délai que celui prévu au premier alinéa du présent article.
@@ -79807,9 +80371,9 @@ détachement dans son corps d'origine ou de rattachement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1721 du 30 décembre 2009 - art. 11
 
 
 ###### Article R4139-38
@@ -79984,13 +80548,13 @@ cessation de l'état militaire. La durée de ce préavis peut être réduite d'u
 
 La cessation de l'état de militaire résultant soit de l'application des dispositions de l'article L. 4139-13 du code de la
 défense, soit des dispositions du 1° ou du 2° de l'article L. 4139-14 du même code est prononcée par arrêté du ministre de la
-défense.
+défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-422 du 16 avril 2009 - art. 5
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 47
 
 	**Cité par**:
 
@@ -80053,8 +80617,8 @@ dont ils relèvent les pouvoirs en matière de mesures individuelles qu'il tient
 
 ###### Article R4139-50
 
-Pour l'application du deuxième alinéa de l'article L. 4139-13, un arrêté du ministre de la défense fixe la liste des
-formations spécialisées et la durée du lien au service qui leur est attachée. 
+Pour l'application du deuxième alinéa de l'article L. 4139-13, un arrêté conjoint du ministre de la défense et du ministre de
+l'intérieur fixe la liste des formations spécialisées et la durée du lien au service qui leur est attachée. 
 
 Le militaire admis à une formation spécialisée s'engage à servir en position d'activité ou en détachement d'office, pour la
 durée fixée par l'arrêté mentionné au premier alinéa, à compter de la date d'obtention du titre validant la formation ou, à
@@ -80066,10 +80630,6 @@ exigée à l'issue de la formation spécialisée souhaitée n'est pas autorisé 
 Le lien au service exigé à l'issue d'une formation spécialisée n'est pas modifié en cas de changement de statut.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -80084,9 +80644,13 @@ Le lien au service exigé à l'issue d'une formation spécialisée n'est pas mod
 	  - Arrêté du 18 août 2016 - art. 1 (V)
 	  - Code de la défense. - art. R4139-51 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 48
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-13 (V)
+	  - Code de la défense. - art. L4139-13
 
 
 ###### Article R4139-51
@@ -80181,15 +80745,18 @@ La commission de réforme des militaires comprend :
 3° Un représentant de l'autorité militaire, officier ou sous-officier supérieur ou officier marinier supérieur, selon la
 catégorie et l'armée ou la formation rattachée à laquelle appartient le militaire intéressé.
 
-Les membres de la commission de réforme des militaires sont désignés par le ministre de la défense.
+Les membres de la commission de réforme des militaires sont désignés par le ministre de la défense. Toutefois, lorsque la
+commission de réforme est appelée à se réunir en vue d'examiner la situation d'un militaire de la gendarmerie nationale, le
+représentant de l'autorité militaire mentionné au 3°, officier ou sous-officier supérieur de la gendarmerie nationale, est
+désigné par le ministre de l'intérieur.
 
 L'ensemble des membres de la commission est tenu au secret professionnel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 49
 
 	**Cité par**:
 
@@ -80233,18 +80800,18 @@ La commission de réforme des militaires est saisie :
 1° Dans le cas prévu au 1° de l'article R. 4139-55, par l'autorité administrative dont dépend le militaire. Cette autorité
 agit soit sur demande du militaire, soit de son propre chef ; 
 
-2° Dans les cas prévus aux 2° et 3° de l'article R. 4139-55, par le ministre de la défense qui agit sur demande de
-l'intéressé.
+2° Dans les cas prévus aux 2° et 3° de l'article R. 4139-55, par le ministre de la défense, ou le ministre de l'intérieur
+pour les militaires de la gendarmerie nationale, qui agit sur demande de l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 50
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4139-55 (V)
+	  - Code de la défense. - art. R4139-55
 
 	**Cité par**:
 
@@ -80291,8 +80858,9 @@ estime l'audition utile. Le militaire ou le demandeur, présent en séance, peut
 
 ###### Article R4139-59
 
-L'avis de la commission de réforme des militaires est communiqué au ministre de la défense ainsi qu'à l'autorité
-administrative mentionnée au 1° de l'article R. 4139-56 et notifié à l'intéressé. 
+L'avis de la commission de réforme des militaires est communiqué au ministre de la défense, ou au ministre de l'intérieur
+pour les militaires de la gendarmerie nationale, ainsi qu'à l'autorité administrative mentionnée au 1° de l'article R.
+4139-56 et notifié à l'intéressé. 
 
 Dans un délai de quinze jours à compter de la date de notification de l'avis, l'intéressé ou l'autorité administrative
 mentionnée au 1° de l'article R. 4139-56 peut demander que l'avis de la commission de réforme des militaires soit réexaminé
@@ -80300,13 +80868,13 @@ par une autre commission de réforme des militaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 51
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4139-56 (V)
+	  - Code de la défense. - art. R4139-56
 
 	**Cité par**:
 
@@ -80315,13 +80883,14 @@ par une autre commission de réforme des militaires.
 
 ###### Article R4139-60
 
-Le ministre de la défense prend, par arrêté, une décision conforme à l'avis de la commission de réforme des militaires.
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, prend, par arrêté,
+une décision conforme à l'avis de la commission de réforme des militaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 52
 
 	**Cité par**:
 
@@ -80330,7 +80899,7 @@ Le ministre de la défense prend, par arrêté, une décision conforme à l'avis
 
 ###### Article R4139-61
 
-Un arrêté du ministre de la défense fixe notamment : 
+Un arrêté conjoint du ministre de la défense et du ministre de l'intérieur fixe notamment : 
 
 1° Les modalités de fonctionnement de la commission de réforme des militaires ainsi que la procédure suivie devant celle-
 ci ; 
@@ -80339,23 +80908,25 @@ ci ;
 des militaires lorsque l'intéressé ou l'autorité administrative le demande dans le cas prévu au second alinéa de l'article R.
 4139-59 ; 
 
-3° Les modalités de notification de la décision du ministre de la défense prévue à l'article R. 4139-60 ; 
+3° Les modalités de notification de la décision du ministre de la défense, ou du ministre de l'intérieur pour les militaires
+de la gendarmerie nationale, prévue à l'article R. 4139-60 ; 
 
-4° La liste des autorités auxquelles le ministre de la défense peut déléguer le pouvoir qu'il détient au titre des
-dispositions de l'avant-dernier alinéa de l'article R. 4139-54, du 2° de l'article R. 4139-56 et de l'article R. 4139-60.
+4° La liste des autorités auxquelles le ministre de la défense et le ministre de l'intérieur peuvent, chacun en ce qui le
+concerne, déléguer le pouvoir qu'ils détiennent au titre des dispositions de l'avant-dernier alinéa de l'article R. 4139-54,
+du 2° de l'article R. 4139-56 et de l'article R. 4139-60.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 53
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4139-54 (V)
-	  - Code de la défense. - art. R4139-56 (V)
-	  - Code de la défense. - art. R4139-59 (V)
-	  - Code de la défense. - art. R4139-60 (V)
+	  - Code de la défense. - art. R4139-54
+	  - Code de la défense. - art. R4139-56
+	  - Code de la défense. - art. R4139-59
+	  - Code de la défense. - art. R4139-60
 
 
 ####  TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES
@@ -80421,14 +80992,16 @@ L'officier général en deuxième section ne peut être replacé en première se
 
 ###### Article R4141-4
 
-L'officier général en deuxième section est replacé en première section par arrêté du ministre de la défense fixant la
-fonction ainsi que la durée de la mission.
+L'officier général en deuxième section est replacé en première section par arrêté du ministre de la défense, ou pour
+l'officier général de la gendarmerie nationale, selon qu'il se voit confier des missions militaires ou de sécurité
+intérieure, par arrêté du ministre de la défense ou du ministre de l'intérieur, fixant la fonction ainsi que la durée de la
+mission.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 54
 
 	**Cité par**:
 
@@ -80979,8 +81552,8 @@ fixées par arrêté du ministre de la défense.
 
 ###### Article R4211-6
 
-Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre
-de la défense, les réservistes qui remplissent au moins l'une des conditions suivantes : 
+I. - Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du
+ministre de la défense, les réservistes qui remplissent au moins l'une des conditions suivantes : 
 
 1° Avoir été radié de la réserve opérationnelle pour atteinte de la limite d'âge du grade définie à l'article L. 4221-2 ; 
 
@@ -80993,15 +81566,18 @@ citation ;
 
 5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle.
 
+II. - Lorsqu'ils remplissent au moins l'une des conditions mentionnées au I, les réservistes de la gendarmerie nationale sont
+admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de l'intérieur.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 55
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-2 (V)
+	  - Code de la défense. - art. L4221-2
 
 	**Cité par**:
 
@@ -81011,25 +81587,26 @@ citation ;
 ###### Article R4211-7
 
 Les réservistes qui ne remplissent pas les conditions précitées peuvent obtenir, sur leur demande, l'honorariat de leur grade
-par décision du ministre de la défense.
+par décision du ministre de la défense, ou pour ceux de la gendarmerie nationale par décision du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 56
 
 
 ###### Article R4211-8
 
-Le ministre de la défense peut, par arrêté, déléguer aux autorités chargées de la gestion du personnel de la réserve
-militaire les pouvoirs qu'il tient des articles R. 4211-6 et R. 4211-7.
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux autorités chargées de la gestion du personnel de la réserve militaire les pouvoirs qu'il tient des articles R.
+4211-6 et R. 4211-7.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 57
 
 	**Cité par**:
 
@@ -81037,7 +81614,7 @@ militaire les pouvoirs qu'il tient des articles R. 4211-6 et R. 4211-7.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4211-6 (V)
+	  - Code de la défense. - art. R4211-6
 
 
 ###### Article R4211-9
@@ -81253,14 +81830,15 @@ d'appel de préparation à la défense ;
 Le contrôle général des armées, chaque armée et formation rattachée, dans la limite de 15 % de l'effectif de la réserve
 opérationnelle sous contrat d'engagement au 1er janvier de l'année en cours, déterminent le nombre de réservistes qui, ne
 participant pas aux activités définies aux alinéas précédents, sont autorisés à porter la durée de leur activité à soixante
-jours, afin de faire bénéficier le ministère de la défense d'un renfort temporaire ou de compétences spécifiques nécessaires
-à l'accomplissement de missions requérant une présence d'une durée supérieure à trente jours.
+jours, afin de faire bénéficier le ministère de la défense, ou pour les réservistes de la gendarmerie nationale le ministère
+de la défense et le ministère de l'intérieur d'un renfort temporaire ou de compétences spécifiques nécessaires à
+l'accomplissement de missions requérant une présence d'une durée supérieure à trente jours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1728 du 30 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -81272,7 +81850,7 @@ jours, afin de faire bénéficier le ministère de la défense d'un renfort temp
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4221-5 (V)
+	  - Code de la défense. - art. R4221-5
 
 
 ###### Article D4221-7
@@ -81294,15 +81872,16 @@ décision de l'autorité militaire, à cent cinquante jours par année civile, a
 
 ###### Article D4221-8
 
-Sur autorisation préalable du ministre de la défense et après accord du réserviste, la durée des activités dans la réserve
-opérationnelle peut être portée par année civile à deux cent dix jours lorsque l'emploi tenu par le réserviste présente un
-intérêt de portée nationale ou internationale.
+Sur autorisation préalable du   ministre de la défense, ou pour les réservistes de la gendarmerie nationale, selon qu'ils se
+voient confier des missions militaires ou de sécurité intérieure, du ministre de la défense ou du ministre de l'intérieur, et
+après accord du réserviste, la durée des activités dans la réserve opérationnelle peut être portée par année civile à deux
+cent dix jours lorsque l'emploi tenu par le réserviste présente un intérêt de portée nationale ou internationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1728 du 30 décembre 2009 - art. 2
 
 
 #####  Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle
@@ -81429,8 +82008,8 @@ alors immédiatement le réserviste et son autorité militaire d'emploi par tout
 ###### Article R4221-15
 
 Au titre des dispositions de l'article L. 4221-7, un réserviste titulaire d'un engagement à servir dans la réserve peut être
-admis, à sa demande et par arrêté du ministre de la défense, à servir auprès d'une entreprise signataire d'une convention
-mentionnée à l'article L. 4221-8. 
+admis, à sa demande et par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale, à servir auprès d'une entreprise signataire d'une convention mentionnée à l'article L. 4221-8. 
 
 La demande du réserviste doit, conformément aux stipulations de la convention susmentionnée, préciser la nature des activités
 envisagées, leur durée prévisionnelle et le lieu de leur exécution.
@@ -81440,14 +82019,14 @@ L'accord préalable de l'entreprise intéressée et l'accord de l'autorité mili
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 58
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-7 (V)
-	  - Code de la défense. - art. L4221-8 (V)
+	  - Code de la défense. - art. L4221-7
+	  - Code de la défense. - art. L4221-8
 
 	**Cité par**:
 
@@ -81614,14 +82193,15 @@ contrat d'engagement ;
 Les officiers de réserve sont nommés ou promus par décret du Président de la République aux différents grades de la
 hiérarchie du corps de rattachement.
 
-Les autres militaires de la réserve sont nommés ou promus par décision du ministre de la défense aux différents grades de la
-hiérarchie du corps de rattachement.
+Les autres militaires de la réserve sont nommés ou promus par décision du ministre de la défense, ou du ministre de
+l'intérieur pour les réservistes de la gendarmerie nationale, aux différents grades de la hiérarchie du corps de
+rattachement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 59
 
 	**Cité par**:
 
@@ -81633,7 +82213,8 @@ hiérarchie du corps de rattachement.
 ###### Article R4221-21
 
 Dans la limite d'un contingent annuel fixé par arrêté ministériel, les réservistes ayant obtenu une qualification dans les
-conditions fixées par le ministre de la défense peuvent être nommés :
+conditions fixées par le ministre de la défense, ou pour les réservistes de la gendarmerie nationale par le ministre de
+l'intérieur, peuvent être nommés :
 
 1° Au premier grade d'officier, les sous-officiers ou officiers mariniers ayant au moins deux ans de grade ;
 
@@ -81641,9 +82222,9 @@ conditions fixées par le ministre de la défense peuvent être nommés :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 60
 
 	**Cité par**:
 
@@ -81654,9 +82235,9 @@ conditions fixées par le ministre de la défense peuvent être nommés :
 ###### Article R4221-22
 
 Les réservistes qui sont admis à suivre un cycle de formation militaire initiale d'officier peuvent être nommés au grade
-d'aspirant par décision du ministre de la défense à l'issue de ce cycle. Ceux qui ont satisfait à un cycle de formation
-militaire initiale de sous-officier ou d'officier marinier peuvent être nommés au premier grade de sous-officier ou
-d'officier marinier.
+d'aspirant par décision du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie
+nationale, à l'issue de ce cycle. Ceux qui ont satisfait à un cycle de formation militaire initiale de sous-officier ou
+d'officier marinier peuvent être nommés au premier grade de sous-officier ou d'officier marinier.
 
 Les aspirants nommés dans les conditions prévues à l'alinéa précédent sont soumis aux dispositions applicables aux officiers
 dans les domaines intéressant la discipline générale, les sanctions disciplinaires et professionnelles, la suspension de
@@ -81668,9 +82249,9 @@ l'autorité militaire d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 61
 
 	**Cité par**:
 
@@ -81687,24 +82268,27 @@ Sous réserve de l'application des articles R. 4221-21 et R. 4221-22, les promot
 grade. 
 
 Un arrêté du ministre de la défense fixe pour le contrôle général des armées, pour chaque armée et pour chaque formation
-rattachée les conditions à remplir pour être proposable au grade supérieur. 
+rattachée, à l'exception de la gendarmerie nationale, les conditions à remplir pour être proposable au grade supérieur. 
+
+Pour la gendarmerie nationale, les conditions à remplir pour être proposable au grade supérieur sont fixées par un arrêté du
+ministre de l'intérieur.
 
 Les nominations aux grades d'officiers généraux ne peuvent intervenir qu'en temps de guerre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Arrêté du 17 juillet 2009 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 62
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4143-1 (V)
-	  - Code de la défense. - art. R4221-21 (V)
+	  - Code de la défense. - art. L4143-1
+	  - Code de la défense. - art. R4221-21
 
 
 ###### Article R4221-24
@@ -81747,22 +82331,25 @@ d'un contrat d'engagement ou au titre de la disponibilité.
 
 ###### Article R4221-26
 
-Le tableau d'avancement est arrêté chaque année par le ministre de la défense après avis d'une commission présidée par le
-directeur chargé de la gestion du personnel concerné ou son représentant et comprenant notamment le délégué aux réserves ou
-son représentant. La composition de la commission est définie par arrêté du ministre de la défense.
+Le tableau d'avancement est arrêté chaque année par le ministre de la défense, ou par le ministre de l'intérieur pour les
+réservistes de la gendarmerie nationale, après avis d'une commission présidée par le directeur chargé de la gestion du
+personnel concerné ou son représentant et comprenant notamment le délégué aux réserves ou son représentant. La composition de
+la commission est définie par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale.
 
-S'agissant des sous-officiers, les officiers mariniers et les militaires du rang, le ministre de la défense peut déléguer,
-par arrêté, les pouvoirs qu'il tient de l'alinéa précédent à une autorité chargée de la gestion du personnel de la réserve
-militaire. Cette autorité établit le tableau d'avancement après avis d'une commission qu'elle préside et comprenant au moins
-deux officiers supérieurs désignés par elle, dont un officier chargé des réserves.
+S'agissant des sous-officiers, les officiers mariniers et les militaires du rang, le ministre de la défense, ou le ministre
+de l'intérieur pour les réservistes de la gendarmerie nationale, peut déléguer, par arrêté, les pouvoirs qu'il tient de
+l'alinéa précédent à une autorité chargée de la gestion du personnel de la réserve militaire. Cette autorité établit le
+tableau d'avancement après avis d'une commission qu'elle préside et comprenant au moins deux officiers supérieurs désignés
+par elle, dont un officier chargé des réserves.
 
 S'agissant des militaires du rang, le tableau d'avancement peut être établi par unité formant corps ou formation équivalente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 63
 
 	**Cité par**:
 
@@ -81793,14 +82380,15 @@ l'ancienneté dans les grades inférieurs et, en dernier ressort, suivant l'ordr
 
 ###### Article R4221-28
 
-Le ministre de la défense peut, par arrêté, déléguer aux autorités militaires territoriales et aux commandants de formation
-administrative les pouvoirs qu'il tient des articles R. 4221-20 et R. 4221-22.
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux autorités militaires territoriales et aux commandants de formation administrative les pouvoirs qu'il tient des
+articles R. 4221-20 et R. 4221-22.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2009-1720 du 30 décembre 2009 - art. 64
 
 	**Cité par**:
 
@@ -81809,8 +82397,8 @@ administrative les pouvoirs qu'il tient des articles R. 4221-20 et R. 4221-22.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4221-20 (V)
-	  - Code de la défense. - art. R4221-22 (V)
+	  - Code de la défense. - art. R4221-20
+	  - Code de la défense. - art. R4221-22
 
 
 ####  TITRE III : DISPONIBILITÉ

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-01-08
+Version Consolidée au 2010-01-13
 
 # Partie législative
 
@@ -20968,34 +20968,26 @@ représentant du Gouvernement pour l'action de l'Etat en mer ".
 
 ##### Chapitre II : Organes collégiaux relevant du Président de la République
 
-##### Section unique : Conseil de défense et conseil de défense restreint
+##### Section unique : Conseil de défense et de sécurité nationale
+
+##### Sous-section 1 : Dispositions générales
 
 ###### Article R*1122-1
 
-Le conseil de défense comprend, outre le Président de la République :
-
-1° Le Premier ministre ;
-
-2° Le ministre des affaires étrangères ;
-
-3° Le ministre de l'intérieur ;
-
-4° Le ministre de la défense ;
-
-5° Le ministre chargé de l'économie et des finances ;
-
-et, s'il y a lieu, sur convocation du président, les autres ministres pour les questions relevant de leur responsabilité.
+Le conseil de défense et de sécurité nationale définit les orientations en matière de programmation militaire, de dissuasion,
+de conduite des opérations extérieures, de planification des réponses aux crises majeures, de renseignement, de sécurité
+économique et énergétique, de programmation de sécurité intérieure concourant à la sécurité nationale et de lutte contre le
+terrorisme. Il en fixe les priorités.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 10 al. 2 à 7
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -21009,19 +21001,151 @@ et, s'il y a lieu, sur convocation du président, les autres ministres pour les 
 
 ###### Article R*1122-2
 
-Le président du conseil de défense peut, en outre, convoquer pour être entendue par le conseil toute personnalité en raison
-de sa compétence.
+Dans sa formation plénière, le conseil de défense et de sécurité nationale comprend, outre le Président de la République, qui
+le préside : 
+
+1° Le Premier ministre ; 
+
+2° Le ministre de la défense ; 
+
+3° Le ministre de l'intérieur ; 
+
+4° Le ministre chargé de l'économie ; 
+
+5° Le ministre chargé du budget ; 
+
+6° Le ministre des affaires étrangères, 
+
+et, s'il y a lieu, sur convocation du président, d'autres ministres pour les questions relevant de leur responsabilité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 10 al. 8
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-3
+
+Le conseil de défense et de sécurité nationale peut être réuni en conseil restreint, dans une composition fixée par son
+président en fonction des points figurant à son ordre du jour. Il peut également être réuni en formation spécialisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-4
+
+Le président du conseil de défense et de sécurité nationale peut, en outre, convoquer pour être entendue par le conseil, en
+formations plénière, spécialisées ou restreintes, toute personnalité en raison de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-5
+
+Le secrétariat du conseil de défense et de sécurité nationale, dans ses formations plénière, spécialisées et restreintes, est
+assuré par le secrétaire général de la défense et de la sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+##### Sous-section 2 : Conseil national du renseignement
+
+###### Article R*1122-6
+
+Le conseil national du renseignement constitue une formation spécialisée du conseil de défense et de sécurité nationale. 
+
+Le conseil national du renseignement définit les orientations stratégiques et les priorités en matière de renseignement. Il
+établit la planification des moyens humains et techniques des services spécialisés de renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-7
+
+Siègent au conseil national du renseignement, sous la présidence du Président de la République, le Premier ministre, les
+ministres et les directeurs des services spécialisés de renseignement dont la présence est requise par l'ordre du jour ainsi
+que le coordonnateur national du renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-8
+
+Nommé par décret en conseil des ministres, le coordonnateur national du renseignement conseille le Président de la République
+dans le domaine du renseignement. 
+
+Avec le concours du secrétaire général de la défense et de la sécurité nationale, le coordonnateur national du renseignement
+rapporte devant le conseil national du renseignement dont il prépare les réunions et il veille à la mise en œuvre des
+décisions prises par le conseil. 
+
+Il coordonne l'action et s'assure de la bonne coopération des services spécialisés constituant la communauté française du
+renseignement. 
+
+Il transmet les instructions du Président de la République aux responsables de ces services, qui lui communiquent les
+renseignements devant être portés à la connaissance du Président de la République et du Premier ministre, et lui rendent
+compte de leur activité. 
+
+Le coordonnateur national du renseignement peut être entendu par la délégation parlementaire au renseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+##### Sous-section 3 : Conseil des armements nucléaires
+
+###### Article R*1122-9
+
+Le conseil des armements nucléaires constitue une formation spécialisée du conseil de défense et de sécurité nationale. 
+
+Le conseil des armements nucléaires définit les orientations stratégiques et s'assure de l'avancement des programmes en
+matière de dissuasion nucléaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
+
+
+###### Article R*1122-10
+
+Siègent au conseil des armements nucléaires, sous la présidence du Président de la République, le Premier ministre, le
+ministre de la défense, le chef d'état-major des armées, le délégué général pour l'armement et le directeur des applications
+militaires du commissariat à l'énergie atomique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 1
 
 
 #### TITRE III : LE PREMIER MINISTRE
@@ -21031,7 +21155,8 @@ de sa compétence.
 ###### Article D*1131-1
 
 Le Premier ministre assure la mise en oeuvre par le Gouvernement des décisions prises en application des dispositions des
-articles L. 1111-3, L. 1121-1 et L. 1121-2 et dispose, à cette fin, du secrétariat général de la défense nationale.
+articles L. 1111-3, L. 1121-1 et L. 1121-2 et dispose, à cette fin, du     secrétariat général de la défense et de la
+sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -21039,87 +21164,26 @@ articles L. 1111-3, L. 1121-1 et L. 1121-2 et dispose, à cette fin, du secréta
 
 	  - Décret n°62-808 du 18 juillet 1962 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-3 (V)
-	  - Code de la défense. - art. L1121-1 (V)
-	  - Code de la défense. - art. L1121-2 (V)
+	  - Code de la défense. - art. L1111-3
+	  - Code de la défense. - art. L1121-1
+	  - Code de la défense. - art. L1121-2
 
 
 ##### Chapitre II : Organismes relevant du Premier ministre
 
 ##### Section 1 : Secrétariat général de la défense nationale
 
-###### Article D*1132-10
-
-I. - Dans le cadre de la politique définie par le Gouvernement, le secrétaire général de la défense nationale veille à la
-cohérence des actions entreprises en matière de sécurité des systèmes d'information.
-
-II. - A ce titre, le secrétaire général de la défense nationale :
-
-1° Suit l'exécution des directives et instructions du Premier ministre et propose les mesures que l'intérêt national rend
-souhaitables ;
-
-2° Coordonne l'activité de tous les organismes concernés et s'assure que les relations entre ceux-ci répondent aux objectifs
-définis par le Premier ministre ;
-
-3° Veille au respect des procédures applicables à des utilisateurs privés en matière de sécurité des systèmes d'information ;
-
-4° Participe à l'orientation des études confiées aux industriels et suit leur financement.
-
-III. - Le secrétaire général de la défense nationale est tenu informé des besoins et des programmes d'équipement des
-départements ministériels et veille à ce que ceux-ci soient harmonisés.
-
-IV. - Il fait annuellement un rapport au Premier ministre sur la situation de la sécurité des systèmes d'information.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-67 1996-01-29 art. 1, art. 2, art. 3 al. 2, art. 4
-	  - Décret n°96-67 du 29 janvier 1996 - art. 1 (Ab)
-	  - Décret n°96-67 du 29 janvier 1996 - art. 2 (Ab)
-	  - Décret n°96-67 du 29 janvier 1996 - art. 4 (Ab)
-	  - Décret n°96-67 du 29 janvier 1996 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Décret n°2009-834 du 7 juillet 2009 - art. 2 (V)
-	  - Code de la défense. - art. D*1631-5 (V)
-	  - Code de la défense. - art. D*1641-4 (V)
-	  - Code de la défense. - art. D*1651-5 (V)
-	  - Code de la défense. - art. D*1661-5 (V)
-	  - Code de la défense. - art. D*1671-5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
-
+##### Section 1 : Secrétariat général de la défense et de la sécurité nationale
 
 ###### Article D1132-4
 
-Le secrétaire général de la défense nationale est associé à la préparation et au développement des négociations ou réunions
-internationales ayant des implications sur la défense. Il est tenu informé de leurs résultats.
-
-En matière de coopération et d'assistance militaires, le secrétaire général de la défense nationale coordonne les mesures à
-prendre par les départements concernés et suit les actions entreprises.
-
-Par délégation du Premier ministre, il préside les instances interministérielles chargées d'étudier, avant décision
-gouvernementale, les problèmes relatifs aux exportations d'armement, de matériels et de technologies de caractère
-stratégique ; il en assure le secrétariat. Il suit la mise en oeuvre des procédures interministérielles destinées au contrôle
-de cessions de matières, matériels et technologies de caractère sensible.
+Par délégation du Premier ministre, le secrétaire général de la défense et de la sécurité nationale préside les instances
+interministérielles chargées d'étudier, avant décision gouvernementale, les questions relatives aux exportations d'armement,
+de matériels et de technologies de caractère stratégique. Il en assure le secrétariat. Il suit la mise en œuvre des
+procédures interministérielles destinées au contrôle de cessions de matières, de matériels et de technologies de caractère
+sensible.
 
 **Liens relatifs à cet article**
 
@@ -21127,9 +21191,9 @@ de cessions de matières, matériels et technologies de caractère sensible.
 
 	  - Décret n°78-78 du 25 janvier 1978 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -21177,65 +21241,19 @@ justice.
 	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 
-###### Article D1132-7
+###### Article R*1132-1
 
-Par délégation du Premier ministre, le secrétaire général de la défense nationale assure la tutelle de l'Institut des hautes
-études de défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-78 1978-01-25 art. 6 (Première phrase)
-	  - Décret n°78-78 du 25 janvier 1978 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2014-613 du 12 juin 2014 (V)
-
-
-###### Article D1132-8
-
-Le secrétaire général de la défense nationale propose, diffuse, fait appliquer et contrôler les mesures nécessaires à la
-protection du secret de défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-78 du 25 janvier 1978 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
-
-
-###### Article R1132-1
-
-Le secrétariat général de la défense nationale constitue un service du Premier ministre.
+Le secrétariat général de la défense et de la sécurité nationale constitue un service du Premier ministre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°78-78 du 25 janvier 1978 - art. 8 (Ab)
-	  - Décret n°78-78 1978-01-25 art. 8
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -21247,69 +21265,80 @@ Le secrétariat général de la défense nationale constitue un service du Premi
 	  - Code de la défense. - art. R1671-3 (VT)
 
 
-###### Article R1132-2
+###### Article R*1132-2
 
-Le secrétaire général de la défense nationale assure le secrétariat des conseils de défense et des conseils de défense
-restreints.
-
-Conformément aux directives du Président de la République et du Premier ministre, il conduit, en liaison avec les
-départements ministériels intéressés, les travaux préparatoires aux réunions. Il prépare les relevés de décisions, notifie
-les décisions prises et en suit l'exécution.
+Le secrétaire général de la défense et de la sécurité nationale assure le secrétariat du conseil de défense et de sécurité
+nationale. Conformément aux directives du Président de la République et du Premier ministre, il conduit, en liaison avec les
+départements ministériels concernés, les travaux préparatoires aux réunions. Il prépare les relevés de décisions, notifie les
+décisions prises et en suit l'exécution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°78-78 du 25 janvier 1978 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R1651-3 (M)
 
-	**Anciens textes**:
 
-	  - Décret n°78-78 1978-01-25 art. 1er
-	  - Décret n°78-78 du 25 janvier 1978 - art. 1 (Ab)
+###### Article R*1132-3
 
+Le secrétaire général de la défense et de la sécurité nationale assiste le Premier ministre dans l'exercice de ses
+responsabilités en matière de défense et de sécurité nationale.A ce titre : 
 
-###### Article R1132-3
-
-Le secrétaire général de la défense nationale assiste le Premier ministre dans l'exercice de ses responsabilités en matière
-de direction générale de la défense.
-
-A ce titre :
-
-1° Il anime et coordonne, sur le plan interministériel, les études sur l'évolution des données de la politique générale de
-défense ;
+1° Il anime et coordonne les travaux interministériels relatifs à la politique de défense et de sécurité nationale et aux
+politiques publiques qui y concourent ; 
 
 2° En liaison avec les départements ministériels concernés, il suit l'évolution des crises et des conflits internationaux
-pouvant affecter les intérêts de la France en matière de sécurité et étudie les attitudes susceptibles d'être envisagées dans
-ce domaine ;
+pouvant affecter les intérêts de la France en matière de défense et de sécurité nationale et étudie les dispositions
+susceptibles d'être prises. Il est associé à la préparation et au déroulement des négociations ou des réunions
+internationales ayant des implications sur la défense et la sécurité nationale et est tenu informé de leurs résultats ; 
 
-3° Il coordonne la préparation et la mise en oeuvre des mesures de défense incombant aux divers départements ministériels ;
-il veille à la cohésion des textes établis par ceux-ci. Il prépare la réglementation interministérielle, en assure la
-diffusion et en suit l'application. Il préside la commission interministérielle de défense du territoire, dont la composition
-et les attributions sont fixées par arrêté ;
+3° Il propose, diffuse et fait appliquer et contrôler les mesures nécessaires à la protection du secret de la défense
+nationale. Il prépare la réglementation interministérielle en matière de défense et de sécurité nationale, en assure la
+diffusion et en suit l'application ; 
 
-4° Il organise les moyens de commandement et de liaison nécessaire au Gouvernement en matière de défense et en fait assurer
-le fonctionnement.
+4° En appui du coordonnateur national du renseignement, il concourt à l'adaptation du cadre juridique dans lequel s'inscrit
+l'action des services de renseignement et à la planification de leurs moyens et assure l'organisation des groupes
+interministériels d'analyse et de synthèse en matière de renseignement ; 
+
+5° Il élabore la planification interministérielle de défense et de sécurité nationale, veille à son application et conduit
+des exercices interministériels la mettant en œuvre. Il coordonne la préparation et la mise en œuvre des mesures de défense
+et de sécurité nationale incombant aux divers départements ministériels et s'assure de la coordination des moyens civils et
+militaires prévus en cas de crise majeure ; 
+
+6° Il s'assure que le Président de la République et le Gouvernement disposent des moyens de commandement et de communications
+électroniques nécessaires en matière de défense et de sécurité nationale et en fait assurer le fonctionnement ; 
+
+7° Il propose au Premier ministre et met en œuvre la politique du Gouvernement en matière de sécurité des systèmes
+d'information. Il dispose à cette fin du service à compétence nationale dénommé " Agence nationale de la sécurité des
+systèmes d'information " ; 
+
+8° Il veille à la cohérence des actions entreprises en matière de politique de recherche scientifique et de projets
+technologiques intéressant la défense et la sécurité nationale et contribue à la protection des intérêts nationaux
+stratégiques dans ce domaine.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°78-78 du 25 janvier 1978 - art. 2, v. init.
 	  - Décret n°78-78 du 25 janvier 1978 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
 
 	**Cité par**:
 
 	  - Décret n°2009-834 du 7 juillet 2009 - art. 2 (VD)
 	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre V : 85 à 94) (Ab)
 	  - Code de la défense. - art. D1132-7 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 
 ##### Section 2 : Institut des hautes études de la défense nationale
@@ -22115,406 +22144,12 @@ ministre chargé du budget.
 
 ##### Section 3 : Organismes collégiaux
 
-##### Sous-section 1 : Comité d'action scientifique de la défense
-
-###### Article D1132-34
-
-Le comité d'action scientifique de la défense est chargé, sous l'autorité du Premier ministre, d'animer et de coordonner, sur
-le plan interministériel, la recherche scientifique et technique intéressant la défense.
-
-En particulier, il a pour attributions :
-
-1° L'utilisation des méthodes et des résultats de la recherche scientifique et technique au profit de toute forme de
-défense ;
-
-2° La protection du patrimoine scientifique et technique national intéressant la défense. En outre, le comité est chargé
-d'examiner tout problème posé par la défense et d'élaborer tout avis et recommandation pouvant résulter de cet examen, ainsi
-que toute proposition ayant trait aux besoins de la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1631-6 (VD)
-	  - Code de la défense. - art. D1641-5 (V)
-	  - Code de la défense. - art. D1651-6 (VD)
-	  - Code de la défense. - art. D1661-6 (VD)
-	  - Code de la défense. - art. D1671-6 (VD)
-
-
-###### Article D1132-35
-
-Le comité exerce son activité auprès du secrétaire général de la défense nationale, chargé d'animer ses travaux et d'en
-assurer l'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1132-36
-
-Le comité est présidé par le secrétaire général de la défense nationale ou son représentant. Il comprend en outre huit
-membres désignés en raison de leurs fonctions :
-
-1° Deux par le Premier ministre ;
-
-2° Un par le ministre des affaires étrangères ;
-
-3° Un par le ministre de la défense ;
-
-4° Un par le ministre chargé de l'économie ;
-
-5° Un par le ministre chargé des universités ;
-
-6° Un par le ministre chargé de l'industrie ;
-
-7° Un par le ministre chargé de la recherche.
-
-Il peut faire appel, en tant que de besoin, à des personnalités désignées par le Premier ministre en raison de leur
-compétence, sur proposition des ministres ci-dessus ainsi que sur proposition du secrétaire général de la défense nationale.
-Il peut également s'adjoindre tout expert dont le concours s'avérerait nécessaire.
-
-Le comité se réunit au moins deux fois par an à l'initiative de son président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1114 1978-11-28 art. 3, art. 4 al. 1
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 3 (Ab)
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1132-37
-
-Le président du comité est associé à l'élaboration de la politique nationale ou internationale en matière de recherche
-scientifique.
-
-En conséquence :
-
-1° Il est invité aux réunions des instances interministérielles chargées d'élaborer cette politique et fait partie des
-conseils ou instances scientifiques des grands organismes de recherche ;
-
-2° Il se tient en liaison avec les représentants des département ministériels en charge de la défense, de la recherche, des
-relations culturelles, scientifiques et techniques internationales, qui l'assistent dans l'exécution de sa mission.
-
-3° Il peut être saisi pour avis des grands problèmes de recherche scientifique ou des projets majeurs intéressant la
-recherche.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1114 1978-11-28 art. 4 al. 2 à 5
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1132-38
-
-Le secrétariat du comité est assuré par le secrétariat général de la défense nationale, qui inscrit à son budget les moyens
-financiers nécessaires à son fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-1114 du 28 novembre 1978 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-##### Sous-section 2 : Comité interministériel du renseignement
-
-###### Article D*1132-39
-
-Le comité interministériel du renseignement est chargé, sous l'autorité du Premier ministre, d'assurer l'orientation et la
-coordination des activités des services qui concourent au renseignement. A cette fin, il élabore des directives nationales en
-matière de renseignement qui sont soumises à l'approbation du Président de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-147 1959-01-07 art. 13
-	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 13 (Ab)
-	  - Décret n°89-258 du 20 avril 1989 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*1631-5 (VD)
-	  - Code de la défense. - art. D*1641-4 (VD)
-	  - Code de la défense. - art. D*1651-5 (VD)
-	  - Code de la défense. - art. D*1661-5 (VD)
-	  - Code de la défense. - art. D*1671-5 (VD)
-
-
-###### Article D*1132-40
-
-Le comité interministériel du renseignement comprend, sous la présidence du Premier ministre, les ministres de la défense, de
-l'intérieur, des affaires étrangères, ainsi que les ministres chargés de l'économie, du budget, de l'industrie, de la
-recherche, des télécommunications, de l'espace, de l'outre-mer et, en tant que de besoin, les autres membres du Gouvernement.
-
-Il comprend également le secrétaire général du Gouvernement et le secrétaire général de la défense nationale. Le haut
-responsable chargé de l'intelligence économique peut être invité à y assister.
-
-Le Premier ministre peut, en outre, convoquer toute personne qualifiée en raison de sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-258 du 20 avril 1989 - art. 2 (M)
-	  - Décret n°89-258 du 20 avril 1989 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D*1132-41
-
-Le comité interministériel du renseignement se réunit sur convocation du Premier ministre, chaque fois qu'il est nécessaire
-et au moins une fois par an.
-
-Le secrétariat du comité est assuré par le secrétariat général de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-258 du 20 avril 1989 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D*1132-42
-
-Les ministres de la défense, de l'intérieur et des affaires étrangères sont assistés, en matière de renseignement, par des
-comités d'experts placés sous leur autorité et dont ils arrêtent les modalités d'organisation et de fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°89-258 du 20 avril 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-##### Sous-section 3 : Commission interministérielle de coordination des instances de contrôle des transferts intéressant la défense et la sécurité
-
-###### Article D1132-43
-
-La commission interministérielle de coordination des instances de contrôle des transferts intéressant la défense et la
-sécurité est placée auprès du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-619 1990-07-13 art. 1
-	  - Décret n°90-619 du 13 juillet 1990 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1132-45 (VT)
-	  - Code de la défense. - art. D1631-6 (VD)
-	  - Code de la défense. - art. D1641-5 (V)
-	  - Code de la défense. - art. D1651-6 (VD)
-	  - Code de la défense. - art. D1661-6 (VD)
-	  - Code de la défense. - art. D1671-6 (VD)
-
-
-###### Article D1132-44
-
-Le Premier ministre arrête la liste des instances de contrôle représentées à cette commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-619 1990-07-13 art. 2
-	  - Décret n°90-619 du 13 juillet 1990 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1132-45
-
-Dans le domaine des transferts à l'étranger de matières, de matériels, de services et de technologies intéressant la défense
-et la sécurité, comme dans celui des échanges scientifiques et techniques qui s'y rapportent, cette commission : 
-
-1° Coordonne l'action des instances mentionnées à l'article D. 1132-43 ; 
-
-2° Propose au Premier ministre les modifications des procédures en vigueur qui apparaîtraient nécessaires ; 
-
-3° Examine les questions de principe qui lui sont soumises par les instances de contrôle ou par les départements ministériels
-intéressés et propose des décisions au Premier ministre ; 
-
-4° Informe le Premier ministre et lui propose des orientations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-619 1990-07-13 art. 3
-	  - Décret n°90-619 du 13 juillet 1990 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cite**:
-
-	  - Code de la défense. - art. D1132-43
-
-
-###### Article D1132-46
-
-La commission est présidée par le secrétaire général de la défense nationale ou le secrétaire général adjoint.
-
-Elle comprend un représentant nominativement désigné des ministres des finances, des affaires étrangères, de la justice, de
-la défense, de l'intérieur ainsi que des ministres chargés de l'industrie, de la coopération, des postes et des
-communications électroniques, de la recherche, du commerce extérieur et du budget.
-
-Chaque ministre désigne nominativement un suppléant de son représentant.
-
-La commission entend, suivant la nature des questions inscrites à l'ordre du jour, et sur convocation de son président, des
-représentants des ministères intéressés et toute personne qualifiée.
-
-Son secrétariat est assuré par le secrétariat général de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-619 1990-07-13 art. 4
-	  - Décret n°90-619 du 13 juillet 1990 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1132-47
-
-La commission se réunit au moins une fois par an. Elle est convoquée par son président, éventuellement sur demande d'un de
-ses membres. Elle reçoit le bilan annuel des instances de contrôle représentées à la commission et présente au Premier
-ministre le bilan annuel de son activité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-619 1990-07-13 art. 5
-	  - Décret n°90-619 du 13 juillet 1990 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
 ##### Sous-section 5 : Commission interministérielle pour l'étude des exportations de matériels de guerre
 
 ###### Article D1132-53
 
-Le secrétaire général de la défense nationale ou son représentant préside la commission interministérielle pour l'étude des
-exportations de matériels de guerre.
+Le secrétaire général de la défense et de la sécurité nationale ou son représentant préside la commission interministérielle
+pour l'étude des exportations de matériels de guerre. 
 
 Les règles relatives aux attributions, à la composition et à l'organisation de cette commission sont définies par le décret
 n° 55-965 du 16 juillet 1955 portant réorganisation de la commission interministérielle pour l'étude des exportations de
@@ -22524,15 +22159,7 @@ matériels de guerre.
 
 	**Cite**:
 
-	  - Décret n°55-965 1955-07-16
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+	  - Décret n°55-965 du 16 juillet 1955 (V)
 
 	**Cité par**:
 
@@ -22544,60 +22171,12 @@ matériels de guerre.
 
 ###### Article D1132-54
 
-Le secrétaire général de la défense nationale assure le secrétariat du comité interministériel aux crises nucléaires ou
-radiologiques.
+Le     secrétaire général de la défense et de la sécurité nationale assure le secrétariat du comité interministériel aux
+crises nucléaires ou radiologiques. 
 
 Les règles relatives aux attributions, à la composition et à l'organisation de ce comité sont définies par la section 3 du
 chapitre 3 " Installations et matières nucléaires " du titre III du livre III de la première partie.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
-
-##### Sous-section 7 : Commission interministérielle pour la sécurité des systèmes d'information
-
-###### Article D*1132-55
-
-Le secrétaire général de la défense nationale ou son représentant préside la commission interministérielle pour la sécurité
-des systèmes d'information. 
-
-Les règles relatives aux attributions, à la composition et à l'organisation de cette commission sont définies par les
-articles D. 2321-1 et suivants du code de la défense relatifs à la commission interministérielle pour la sécurité des
-systèmes d'information.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°96-67 du 29 janvier 1996 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*1631-5 (V)
-	  - Code de la défense. - art. D*1641-4 (V)
-	  - Code de la défense. - art. D*1651-5 (V)
-	  - Code de la défense. - art. D*1661-5 (V)
-	  - Code de la défense. - art. D*1671-5 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. D2321-1 (V)
 
 
 #### TITRE IV : RESPONSABILITÉS DES MINISTRES EN MATIÈRE DE DÉFENSE
@@ -22963,20 +22542,20 @@ directions et services du ministère de l'intérieur.
 ###### Article D*1142-8
 
 La commission permanente de la défense civile assiste le ministre de l'intérieur dans l'exercice de la mission de
-coordination qui lui incombe en matière de défense civile. Elle se compose ainsi qu'il suit :
+coordination qui lui incombe en matière de défense civile. Elle se compose ainsi qu'il suit : 
 
-1° Le ministre de l'intérieur ou son représentant, président ;
+1° Le ministre de l'intérieur ou son représentant, président ; 
 
-2° Le secrétaire général de la défense nationale ou son représentant ;
+2° Le     secrétaire général de la défense et de la sécurité nationale ou son représentant ; 
 
-3° Le directeur du service d'information du Gouvernement ;
+3° Le directeur du service d'information du Gouvernement ; 
 
-4° Le représentant du ministre de la défense ;
+4° Le représentant du ministre de la défense ; 
 
-5° Le haut fonctionnaire de défense et de sécurité auprès du ministre chargé de l'économie ;
+5° Le haut fonctionnaire de défense et de sécurité auprès du ministre chargé de l'économie ; 
 
 6° Les hauts fonctionnaires de défense et de sécurité auprès du ministre de la justice, ainsi que des ministres chargés de
-l'éducation nationale, de la santé, des transports et de l'équipement et, en tant que de besoin, auprès d'autres ministres.
+l'éducation nationale, de la santé, des transports et de l'équipement et, en tant que de besoin, auprès d'autres ministres. 
 
 Les hauts fonctionnaires de zone de défense, ainsi que les directeurs généraux, directeurs ou chefs de services des
 ministères intéressés par les mesures de défense civile peuvent être appelés à prêter leur concours aux travaux de la
@@ -22987,14 +22566,6 @@ commission.
 	**Anciens textes**:
 
 	  - Décret n°65-984 du 18 novembre 1965 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -23129,29 +22700,29 @@ préparation et de la conduite supérieure des opérations ;
 ###### Article R*1142-13
 
 Le ministre chargé de l'économie est assisté par une commission permanente des affaires économiques de la défense dont les
-missions et la composition sont les suivantes :
+missions et la composition sont les suivantes : 
 
-1° Cette commission :
+1° Cette commission : 
 
 a) Est saisie des questions relatives à l'élaboration et à la mise en application des plans économiques de la défense, chaque
 fois que ces questions nécessitent une coopération entre les divers départements ministériels intéressés, soit à l'échelon
-central, soit aux différents échelons de l'organisation territoriale ;
+central, soit aux différents échelons de l'organisation territoriale ; 
 
 b) Donne son avis sur la mise à la disposition de certains départements ministériels des contingents en ressources
 essentielles, en vue de l'exécution, par des services civils, des missions primordiales pour la défense fixées par le Premier
-ministre.
+ministre. 
 
-2° Elle est composée :
+2° Elle est composée : 
 
-a) Du ministre chargé de l'économie ou de son représentant, président ;
+a) Du ministre chargé de l'économie ou de son représentant, président ; 
 
 b) Des représentants des ministres de l'intérieur et de la défense, ainsi que des ministres chargés de l'équipement, des
 transports et de l'industrie, de l'agriculture, des postes et communications électroniques et, en tant que de besoin, de ceux
-d'autres départements ministériels ;
+d'autres départements ministériels ; 
 
-c) Du représentant du directeur général du centre d'analyse stratégique ;
+c) Du représentant du directeur général du centre d'analyse stratégique ; 
 
-d) Du représentant du secrétaire général de la défense nationale.
+d) Du représentant du     secrétaire général de la défense et de la sécurité nationale. 
 
 Le ministre chargé de l'outre-mer est représenté lorsque la commission examine des affaires intéressant les départements, les
 régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises.
@@ -23161,15 +22732,6 @@ régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres
 	**Anciens textes**:
 
 	  - Décret n°62-729 du 29 juin 1962 - art. 2 (Ab)
-	  - Décret n°80-902 1980-11-18 art. 2 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ##### Sous-section 2 : Industrie
@@ -23914,23 +23476,14 @@ Ils disposent en propre d'un service spécialisé de défense, ou de défense et
 
 Ils peuvent assister plusieurs ministres et disposer d'un ou de plusieurs hauts fonctionnaires adjoints. 
 
-Ils sont en liaison permanente avec le secrétaire général de la défense nationale et avec leurs homologues des autres
-ministères.
+Ils sont en liaison permanente avec le     secrétaire général de la défense et de la sécurité nationale et avec leurs
+homologues des autres ministères.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2007-207 du 19 février 2007 - art. 2, v. init.
 	  - Décret n°2007-207 du 19 février 2007 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -23939,7 +23492,7 @@ ministères.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R1143-1
 
 
 ###### Article R1143-3
@@ -24017,23 +23570,14 @@ outils de situation d'urgence ; ils s'assurent de leur bon fonctionnement ;
 
 8° Ils animent la politique de sécurité des systèmes d'information et contrôlent l'application de celle-ci ; 
 
-9° Ils peuvent participer, dans le cadre fixé par le ministre dont ils relèvent et sous l'égide du secrétariat général de la
-défense nationale, à la mise en oeuvre de la politique nationale en matière d'intelligence économique.
+9° Ils peuvent participer, dans le cadre fixé par le ministre dont ils relèvent et sous l'égide du     secrétariat général de
+la défense et de la sécurité nationale, à la mise en oeuvre de la politique nationale en matière d'intelligence économique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2007-207 du 19 février 2007 - art. 5, v. init.
 	  - Décret n°2007-207 du 19 février 2007 - art. 5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -24041,7 +23585,7 @@ défense nationale, à la mise en oeuvre de la politique nationale en matière d
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R1143-1
 
 
 ###### Article R1143-6
@@ -24090,30 +23634,21 @@ vocation à assurer la direction de cette conduite opérationnelle.
 
 ###### Article R1143-8
 
-Les hauts fonctionnaires mentionnés à l'article R. 1143-1 adressent chaque année à leur ministre et au secrétaire général de
-la défense nationale un compte rendu de leurs activités. 
+Les hauts fonctionnaires mentionnés à l'article R. 1143-1 adressent chaque année à leur ministre et au     secrétaire général
+de la défense et de la sécurité nationale un compte rendu de leurs activités. 
 
-Le secrétaire général de la défense nationale présente au Président de la République et au Premier ministre la synthèse de
-ces comptes rendus.
+Le     secrétaire général de la défense et de la sécurité nationale présente au Président de la République et au Premier
+ministre la synthèse de ces comptes rendus.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2007-207 du 19 février 2007 - art. 8, v. init.
 	  - Décret n°2007-207 du 19 février 2007 - art. 8 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R1143-1
 
 
 ##### Section 2 : Conseillers de défense
@@ -24181,22 +23716,14 @@ applicable, le remboursement des frais exposés à l'occasion de leurs fonctions
 ###### Article D1143-11
 
 Les conseillers de défense sont choisis dans les différents secteurs d'activité et sont nommés, pour ceux exerçant leurs
-fonctions auprès des ministres, par le Premier ministre sur proposition du secrétaire général de la défense nationale, et
-dans chaque département par le préfet.
+fonctions auprès des ministres, par le Premier ministre sur proposition du     secrétaire général de la défense et de la
+sécurité nationale, et dans chaque département par le préfet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article D1143-12
@@ -24206,8 +23733,8 @@ ministre fixe les modalités de transmission et d'instruction des demandes ainsi
 
 Pour chaque département ministériel, le ministre ou, par délégation, le haut fonctionnaire mentionné à l'article R. 1143-1
 arrête la liste des candidatures déposées auprès de lui. Ces dernières sont transmises au secrétariat général de la défense
-nationale pour y être examinées par une commission présidée par le secrétaire général de la défense nationale ou son
-représentant. 
+et de la sécurité nationale pour y être examinées par une commission présidée par le     secrétaire général de la défense et
+de la sécurité nationale ou son représentant. 
 
 Le préfet arrête la liste des candidatures déposées à l'échelon du département. Elles sont examinées par une commission
 présidée par le préfet ou son représentant.
@@ -24218,34 +23745,26 @@ présidée par le préfet ou son représentant.
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cité par**:
 
 	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R1143-1
 
 
 ###### Article D1143-13
 
-Les conseillers de défense sont nommés pour une période maximale de trois ans, renouvelable une fois au plus. A l'occasion de
-leur nomination, une mission définie leur est impartie.
+Les conseillers de défense sont nommés pour une période maximale de trois ans, renouvelable une fois au plus.A l'occasion de
+leur nomination, une mission définie leur est impartie. 
 
-Au titre de l'exercice de leurs fonctions, ils peuvent participer à des actions ponctuelles de formation et d'information.
+Au titre de l'exercice de leurs fonctions, ils peuvent participer à des actions ponctuelles de formation et d'information. 
 
 Les fonctions de conseiller de défense prennent fin au terme prévu. Toutefois, il peut y être mis fin par anticipation, soit
-par arrêté du Premier ministre sur proposition du secrétaire général de la défense nationale pour les conseillers de défense
-placés auprès d'un ministre, soit par arrêté du préfet ayant procédé à la nomination pour les conseillers placés auprès de
-lui, soit sur démission de l'intéressé.
+par arrêté du Premier ministre sur proposition du     secrétaire général de la défense et de la sécurité nationale pour les
+conseillers de défense placés auprès d'un ministre, soit par arrêté du préfet ayant procédé à la nomination pour les
+conseillers placés auprès de lui, soit sur démission de l'intéressé. 
 
 Les fonctions prennent fin de plein droit lorsque le conseiller de défense atteint l'âge de soixante-dix ans.
 
@@ -24254,14 +23773,6 @@ Les fonctions prennent fin de plein droit lorsque le conseiller de défense atte
 	**Anciens textes**:
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ### LIVRE II : ORGANISATION TERRITORIALE ET OPÉRATIONNELLE DE LA DÉFENSE
@@ -27874,8 +27385,8 @@ Ce délégué exerce au niveau local les fonctions prévues au deuxième alinéa
 
 ###### Article R1332-7
 
-Le comité national des secteurs d'activités d'importance vitale est présidé par le secrétaire général de la défense
-nationale. 
+Le comité national des secteurs d'activités d'importance vitale est présidé par le     secrétaire général de la défense et de
+la sécurité nationale. 
 
 Ce comité comprend : 
 
@@ -27904,26 +27415,21 @@ entend un représentant des collectivités d'outre-mer désigné par le ministre
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 7 al. 1 à 9 et alinéa 11
 	  - Décret n°2006-212 du 23 février 2006 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+	  - Décret n°2014-132 du 17 février 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
+	  - Code de la défense. - art. R1143-1
 
 
 ###### Article R1332-8
 
 Le comité se réunit au moins une fois par an sur convocation de son président, qui détermine l'ordre du jour de la réunion.
-Son secrétariat est assuré par le secrétariat général de la défense nationale.
+Son secrétariat est assuré par le     secrétariat général de la défense et de la sécurité nationale. 
 
 Les membres du comité sont tenus au secret des délibérations et des informations dont ils ont connaissance à l'occasion de
 leurs travaux.
@@ -27932,16 +27438,11 @@ leurs travaux.
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 7 al. 10 et 16
 	  - Décret n°2006-212 du 23 février 2006 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
+	  - Décret n°2014-132 du 17 février 2014 - art. 6
 
 
 ###### Article R1332-9
@@ -27977,7 +27478,7 @@ des mesures relatives à la sécurité des secteurs d'activités d'importance vi
 ###### Article R1332-10
 
 La commission interministérielle de défense et de sécurité des secteurs d'activités d'importance vitale est présidée par le
-secrétaire général de la défense nationale ou son représentant. 
+secrétaire général de la défense et de la sécurité nationale ou son représentant. 
 
 Cette commission comprend : 
 
@@ -28003,21 +27504,12 @@ Sur décision de son président, la commission peut entendre toute personnalité
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 8 al. 1 à 9 et alinéa 11
 	  - Décret n°2006-212 du 23 février 2006 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1143-1 (V)
-	  - Code de la défense. - art. R1332-13 (V)
+	  - Code de la défense. - art. R1143-1
+	  - Code de la défense. - art. R1332-13
 
 	**Cité par**:
 
@@ -28034,22 +27526,13 @@ Sur décision de son président, la commission peut entendre toute personnalité
 ###### Article R1332-11
 
 La commission se réunit sur convocation de son président, qui détermine l'ordre du jour de la réunion. Son secrétariat est
-assuré par le secrétariat général de la défense nationale.
+assuré par le     secrétariat général de la défense et de la sécurité nationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 8 al. 10
 	  - Décret n°2006-212 du 23 février 2006 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article R1332-12
@@ -31076,11 +30559,11 @@ En cas d'accident survenant dans une installation nucléaire de base, une instal
 d'un transport de matières nucléaires ou radioactives intéressant le secteur civil ou la défense ou sur tout système
 nucléaire militaire, ainsi qu'en cas d'attentat ou de menace d'attentat ayant ou pouvant avoir des conséquences nucléaires ou
 radiologiques, le Premier ministre peut réunir un comité interministériel aux crises nucléaires ou radiologiques. Ce comité
-est chargé de proposer au Premier ministre les mesures à prendre.
+est chargé de proposer au Premier ministre les mesures à prendre. 
 
 Il comprend les ministres chargés des affaires étrangères, de la défense, de l'environnement, de l'industrie, de l'intérieur,
-de la santé et des transports ou leurs représentants ainsi que le secrétaire général de la défense nationale, qui en assure
-le secrétariat.
+de la santé et des transports ou leurs représentants ainsi que le     secrétaire général de la défense et de la sécurité
+nationale, qui en assure le secrétariat.
 
 D'autres administrations ou établissements intéressés ainsi que des exploitants nucléaires concernés peuvent y être invités,
 en tant que de besoin.
@@ -31091,16 +30574,7 @@ A la demande du Premier ministre, le comité peut être réuni en formation rest
 
 	**Anciens textes**:
 
-	  - Décret n°2003-865 du 8 septembre 2003 - art. 1, v. init.
 	  - Décret n°2003-865 du 8 septembre 2003 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -31113,8 +30587,8 @@ A la demande du Premier ministre, le comité peut être réuni en formation rest
 
 ###### Article D1333-69
 
-I.-Le secrétaire général de la défense nationale est chargé dans les domaines mentionnés au premier alinéa de l'article D.
-1333-68 : 
+I.-Le     secrétaire général de la défense et de la sécurité nationale est chargé dans les domaines mentionnés au premier
+alinéa de l'article D. 1333-68 : 
 
 1° De veiller à la cohérence interministérielle des mesures planifiées en cas d'accident, d'attentat ou pour prévenir les
 menaces d'attentat ou la malveillance, en s'assurant de la concertation des différents départements ministériels lors de
@@ -31128,31 +30602,22 @@ que l'efficacité de leurs actions en cas d'événements précités ;
 4° De veiller à l'évaluation par les services concernés de ces exercices en vue d'apporter les améliorations jugées
 nécessaires. 
 
-II.-Le secrétaire général de la défense nationale est informé sans délai de la survenance d'un accident, attentat ou d'une
-menace de nature nucléaire ou radiologique. Il assure alors la synthèse de l'information destinée au Président de la
-République et au Premier ministre. 
+II.-Le     secrétaire général de la défense et de la sécurité nationale est informé sans délai de la survenance d'un
+accident, attentat ou d'une menace de nature nucléaire ou radiologique. Il assure alors la synthèse de l'information destinée
+au Président de la République et au Premier ministre. 
 
 III.-Les ministères concernés ainsi que les établissements, organismes consultatifs ou exploitants nucléaires intéressés
-prêtent leur concours au secrétaire général de la défense nationale à cet effet.
+prêtent leur concours au     secrétaire général de la défense et de la sécurité nationale à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2003-865 du 8 septembre 2003 - art. 2, v. init.
 	  - Décret n°2003-865 du 8 septembre 2003 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1333-68 (V)
+	  - Code de la défense. - art. D1333-68
 
 
 ##### Section 4 : Dispositions diverses
@@ -31876,8 +31341,9 @@ leurs installations et les prestations à fournir dans les cas prévus à l'arti
 
 Ces dispositions sont établies sur la base des avis, recommandations ou décisions : 
 
-1° Du secrétariat général de la défense nationale au titre des missions dévolues à la commission de défense nationale en
-matière de communications électroniques et à l'Agence nationale de la sécurité des systèmes d'information ; 
+1° Du     secrétariat général de la défense et de la sécurité nationale au titre des missions dévolues à la commission de
+défense nationale en matière de communications électroniques et à l'Agence nationale de la sécurité des systèmes
+d'information ; 
 
 2° De la commission interministérielle de coordination des réseaux et services de communications électroniques pour la
 défense et la sécurité publique, lorsqu'il s'agit de la sécurité des réseaux et de la fourniture de prestations nécessaires
@@ -31889,16 +31355,21 @@ d'exploitation des réseaux ;
 4° De l'Agence nationale des fréquences en ce qui concerne la gestion des fréquences radioélectriques, telle que définie à
 l'article L. 97-1 du code des postes et des communications électroniques.
 
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-593 du 6 juin 2014, la Commission interministérielle de coordination des réseaux
+et des services de communications électroniques pour la défense et la sécurité publique est renouvelée pour une durée d'un an
+à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'article 1 du décret n° 2015-593 du 1er juin 2015, la Commission interministérielle de coordination des
+réseaux et des services de communications électroniques pour la défense et la sécurité publique est renouvelée pour une durée
+de cinq ans à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°93-1036 du 2 septembre 1993 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -31915,8 +31386,9 @@ l'article L. 97-1 du code des postes et des communications électroniques.
 ###### Article R1334-4
 
 Le commissariat aux communications électroniques de défense, placé auprès du ministre chargé des communications
-électroniques, est chargé, sous son autorité, de garantir la satisfaction des besoins exprimés par le secrétariat général de
-la défense nationale et par les départements ministériels en matière de défense et de sécurité publique.
+électroniques, est chargé, sous son autorité, de garantir la satisfaction des besoins exprimés par le     secrétariat général
+de la défense et de la sécurité nationale et par les départements ministériels en matière de défense et de sécurité
+publique. 
 
 La composition et les modalités de fonctionnement de ce commissariat sont fixées par un arrêté conjoint des ministres de la
 défense, de l'intérieur et du ministre chargé des communications électroniques.
@@ -31925,16 +31397,7 @@ défense, de l'intérieur et du ministre chargé des communications électroniqu
 
 	**Anciens textes**:
 
-	  - Décret n°93-1036 1993-09-02 art. 4
 	  - Décret n°93-1036 du 2 septembre 1993 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ##### Section 2 : Fonctionnement des stations radioélectriques
@@ -33020,113 +32483,6 @@ Ces matériels sont agréés et entretenus par l'administration militaire.
 
 
 ##### Section 2 : Hydrocarbures
-
-##### Sous-section 1 : Commission de défense nationale des carburants
-
-###### Article D1336-43
-
-La commission de défense nationale des carburants comprend :
-
-1° Le secrétaire général de la défense nationale ou son représentant, président ;
-
-2° Le chef d'état-major des armées, ou son représentant ;
-
-3° Le directeur central du service des essences des armées, ou son représentant ;
-
-4° Le directeur central du commissariat de la marine, ou son représentant ;
-
-5° Un représentant du ministère de l'industrie ;
-
-6° Un représentant du ministre chargé de l'économie ;
-
-7° Un représentant du ministre chargé des transports, de l'équipement et du tourisme ;
-
-8° Un représentant du ministre des affaires étrangères ;
-
-9° Un représentant du ministre de l'intérieur.
-
-Le secrétariat de la commission est assuré par le secrétariat général de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D1631-6 (VD)
-	  - Code de la défense. - art. D1641-5 (V)
-	  - Code de la défense. - art. D1651-6 (VD)
-	  - Code de la défense. - art. D1661-6 (VD)
-	  - Code de la défense. - art. D1671-6 (VD)
-
-
-###### Article D1336-44
-
-La commission, consultative, est chargée d'émettre son avis sur la politique générale du pays en matière de carburants, afin
-de satisfaire aux exigences de la défense nationale.
-
-Elle étudie, en particulier, les besoins du secteur militaire et du secteur civil en temps de guerre, ainsi que les mesures à
-prendre dans tous les domaines de l'approvisionnement, du stockage, des transports intérieurs et de la sécurité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-150 1950-02-01 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1336-45
-
-La commission délibère sur toute question, qui peut lui être soumise par le ministre de la défense ou le ministre chargé de
-l'industrie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-150 1950-02-01 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D1336-46
-
-Le président de la commission peut convoquer devant elle toute personne qu'elle juge utile d'entendre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-150 1950-02-01 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
 
 ##### Sous-section 2 : Stocks stratégiques
 
@@ -34239,19 +33595,14 @@ ressources.
 
 ###### Article R*1411-1
 
-La mission, la composition et les conditions d'engagement des forces nucléaires font l'objet de décisions arrêtées en conseil
-de défense.
+La mission, la composition et les conditions d'engagement des forces nucléaires font l'objet de décisions arrêtées en
+conseil de défense et de sécurité nationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°96-520 du 12 juin 1996 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -34305,25 +33656,22 @@ attributions opérationnelles des commandants de ces forces.
 
 ###### Article R*1411-4
 
-En exécution des décisions arrêtées en conseil de défense, des mesures générales prises par le Premier ministre et des
-directives du ministre de la défense, le chef d'état-major des armées est chargé pour l'ensemble des forces nucléaires : 
+En exécution des décisions arrêtées en  conseil de défense et de sécurité nationale, des mesures générales prises par le
+Premier ministre et des directives du ministre de la défense, le chef d'état-major des armées est chargé pour l'ensemble des
+forces nucléaires : 
 
 1° De préparer les plans d'emploi et les directives opérationnelles ; 
 
 2° De s'assurer de la capacité opérationnelle des forces nucléaires et des communications associées ; 
 
-3° De tenir informé le ministre de la défense et de rendre compte en conseil de défense de l'état de ces moyens.
+3° De tenir informé le ministre de la défense et de rendre compte en  conseil de défense et de sécurité nationale de l'état
+de ces moyens.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°96-520 du 12 juin 1996 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -34898,9 +34246,9 @@ Les autorités militaires auxquelles incombe son exécution ont pour mission :
 1° En tout temps, de participer à la protection des installations militaires et, en priorité, de celles de la force nucléaire
 stratégique ; 
 
-2° En présence d'une menace extérieure reconnue par le conseil de défense ou d'une agression, et dans les conditions prévues
-à l'article R. * 1422-2, d'assurer au sol la couverture générale du territoire national et de s'opposer aux actions ennemies
-à l'intérieur de ce territoire ; 
+2° En présence d'une menace extérieure reconnue par le  conseil de défense et de sécurité nationale ou d'une agression, et
+dans les conditions prévues à l'article R. * 1422-2, d'assurer au sol la couverture générale du territoire national et de
+s'opposer aux actions ennemies à l'intérieur de ce territoire ; 
 
 3° En cas d'invasion, de mener les opérations de résistance militaire qui, avec les autres formes de lutte, marquent la
 volonté nationale de refuser la loi de l'ennemi et de l'éliminer.
@@ -34911,14 +34259,6 @@ volonté nationale de refuser la loi de l'ennemi et de l'éliminer.
 
 	  - Décret n°73-235 du 1 mars 1973 - art. 1 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cité par**:
 
 	  - Décret n°2010-790 du 12 juillet 2010 - art. 1 (V)
@@ -34927,16 +34267,16 @@ volonté nationale de refuser la loi de l'ennemi et de l'éliminer.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1422-2 (V)
+	  - Code de la défense. - art. R*1422-2
 
 
 ##### Chapitre II : Mise en oeuvre
 
 ###### Article R*1422-1
 
-Sur la base des décisions prises en conseil de défense, le Premier ministre ou, en cas de délégation, le ministre de la
-défense, établit les directives générales relatives à la préparation et à la mise en oeuvre des mesures de défense
-opérationnelle du territoire à prendre en cas de menace extérieure, d'agression ou d'invasion. 
+Sur la base des décisions prises en  conseil de défense et de sécurité nationale, le Premier ministre ou, en cas de
+délégation, le ministre de la défense, établit les directives générales relatives à la préparation et à la mise en oeuvre des
+mesures de défense opérationnelle du territoire à prendre en cas de menace extérieure, d'agression ou d'invasion. 
 
 Le ministre de la défense a la responsabilité de l'organisation, de la mise en condition et de la détermination des missions
 des forces prévues pour assurer la défense opérationnelle du territoire. 
@@ -34953,24 +34293,15 @@ l'article R. * 1311-3. Ils sont arrêtés par le Premier ministre ou, en cas de 
 
 	**Anciens textes**:
 
-	  - Décret n°73-235 du 1 mars 1973 - art. 2 (M)
 	  - Décret n°73-235 du 1 mars 1973 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
 
 	**Cité par**:
 
 	  - Arrêté du 27 octobre 2009 - art. 1 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cite**:
 
-	  - Code de la défense. - art. R*1311-3 (V)
+	  - Code de la défense. - art. R*1311-3
 
 
 ###### Article R*1422-2
@@ -35116,24 +34447,15 @@ régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.
 
 ###### Article D*1432-2
 
-Sur la base des décisions arrêtées en conseil de défense, le Premier ministre ou, en cas de délégation, le ministre de la
-défense, établit les directives générales relatives à la préparation et à la mise en oeuvre des plans de défense maritime du
-territoire.
+Sur la base des décisions arrêtées en  conseil de défense et de sécurité nationale, le Premier ministre ou, en cas de
+délégation, le ministre de la défense, établit les directives générales relatives à la préparation et à la mise en oeuvre des
+plans de défense maritime du territoire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°73-237 du 2 mars 1973 - art. 3 (M)
 	  - Décret n°73-237 du 2 mars 1973 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article D*1432-3
@@ -35272,11 +34594,11 @@ leur permettant de prendre les décisions qui leur incombent ;
 
 ###### Article D*1442-1
 
-Le Premier ministre, dans le cadre des plans et des décisions arrêtés en conseil de défense, fixe les objectifs généraux à
-atteindre par les départements ministériels qui concourent à la défense aérienne.
+Le Premier ministre, dans le cadre des plans et des décisions arrêtés en  conseil de défense et de sécurité nationale, fixe
+les objectifs généraux à atteindre par les départements ministériels qui concourent à la défense aérienne. 
 
 Il assure la coordination de l'activité de ces départements et dispose, à cet effet, de la commission interministérielle de
-la sûreté aérienne, dont le rôle et la composition sont fixés par décret.
+la sûreté aérienne, dont le rôle et la composition sont fixés par décret. 
 
 Il formule les directives générales pour la négociation des accords de défense aérienne avec les pays alliés ou étrangers.
 
@@ -35284,20 +34606,11 @@ Il formule les directives générales pour la négociation des accords de défen
 
 	**Anciens textes**:
 
-	  - Décret n°75-930 du 10 octobre 1975 - art. 2 (M)
 	  - Décret n°75-930 du 10 octobre 1975 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
 
 	**Cité par**:
 
 	  - Arrêté du 28 novembre 2007 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article D*1442-2
@@ -35494,26 +34807,17 @@ aériennes ;
 En matière de sûreté aérienne, la commission peut émettre des propositions relatives à la répartition des attributions des
 services de l'Etat concourant à la sûreté des aérodromes, aux principe de délégation de missions de sûreté ainsi qu'à la
 politique de formation. Elle valide les orientations stratégiques du programme national de sûreté de l'aviation civile et
-examine annuellement le bilan de la mise en oeuvre de ce programme.
+examine annuellement le bilan de la mise en oeuvre de ce programme. 
 
 En matière de défense aérienne, la commission coordonne l'élaboration des mesures interministérielles de mise en oeuvre des
-plans et des décisions arrêtés en conseil de défense. Elle veille à la prise en compte des contraintes liées aux opérations
-de défense aérienne.
+plans et des décisions arrêtés en  conseil de défense et de sécurité nationale. Elle veille à la prise en compte des
+contraintes liées aux opérations de défense aérienne.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2007-234 du 22 février 2007 - art. 2, v. init.
 	  - Décret n°2007-234 du 22 février 2007 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -35526,37 +34830,37 @@ de défense aérienne.
 ###### Article D1443-3
 
 Outre le directeur du cabinet du Premier ministre qui en assure la présidence, la commission interministérielle de la sûreté
-aérienne comprend :
+aérienne comprend : 
 
-1° Le secrétaire général de la défense nationale ;
+1° Le     secrétaire général de la défense et de la sécurité nationale ; 
 
-2° Le secrétaire général du ministère de l'intérieur ;
+2° Le secrétaire général du ministère de l'intérieur ; 
 
-3° Le directeur général de la police nationale ;
+3° Le directeur général de la police nationale ; 
 
-4° Le haut fonctionnaire de défense placé auprès du ministre de l'intérieur ;
+4° Le haut fonctionnaire de défense placé auprès du ministre de l'intérieur ; 
 
-5° Le directeur général de la gendarmerie nationale ;
+5° Le directeur général de la gendarmerie nationale ; 
 
-6° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre de la défense ;
+6° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre de la défense ; 
 
-7° Le commandant de la défense aérienne et des opérations aériennes ;
+7° Le commandant de la défense aérienne et des opérations aériennes ; 
 
-8° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre des affaires étrangères ;
+8° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre des affaires étrangères ; 
 
-9° Le directeur général des douanes et droits indirectes ;
+9° Le directeur général des douanes et droits indirectes ; 
 
-10° Le directeur général de l'aviation civile ;
+10° Le directeur général de l'aviation civile ; 
 
-11° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre chargé des transports ;
+11° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre chargé des transports ; 
 
-12° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre de l'outre-mer.
+12° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre de l'outre-mer. 
 
-Les membres de la commission peuvent se faire représenter par un suppléant nommément désigné à cet effet.
+Les membres de la commission peuvent se faire représenter par un suppléant nommément désigné à cet effet. 
 
-Le secrétariat de la commission est assuré par le secrétaire général de la défense nationale.
+Le secrétariat de la commission est assuré par le     secrétaire général de la défense et de la sécurité nationale. 
 
-La commission se réunit sur convocation de son président au moins deux fois par an.
+La commission se réunit sur convocation de son président au moins deux fois par an. 
 
 Lorsqu'une question particulière le justifie, le président de la commission peut inviter des personnalités qualifiées à
 participer aux travaux de la commission.
@@ -35565,16 +34869,7 @@ participer aux travaux de la commission.
 
 	**Anciens textes**:
 
-	  - Décret n°2007-234 du 22 février 2007 - art. 3, v. init.
 	  - Décret n°2007-234 du 22 février 2007 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article D1443-4
@@ -36024,7 +35319,8 @@ de l'outre-mer ".
 
 Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article D. 1631-7 : 
 
-1° Au livre Ier, les dispositions des articles D. * 1132-10 et D. * 1132-11, D. * 1132-39 à D. * 1132-42, D. * 1132-55 ; 
+1° Au livre Ier, les dispositions des articles D. * 1132-11,
+D. * 1132-39 à D. * 1132-42 ; 
 
 2° Au livre II, les dispositions des articles D. * 1221-1 à D. * 1221-6 ; 
 
@@ -36034,30 +35330,30 @@ Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D*1132-10 (V)
-	  - Code de la défense. - art. D*1132-39 (V)
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D*1221-1 (V)
-	  - Code de la défense. - art. D*1431-1 (V)
-	  - Code de la défense. - art. D*1681-13 (Ab)
-	  - Code de la défense. - art. D1631-7 (V)
+	  - Code de la défense. - art. D*1132-11 (Ab)
+	  - Code de la défense. - art. D*1132-39
+	  - Code de la défense. - art. D*1221-1
+	  - Code de la défense. - art. D*1431-1
+	  - Code de la défense. - art. D*1681-13
+	  - Code de la défense. - art. D1631-7
 
 
 ###### Article D1631-6
 
 Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article D. 1631-7 et au titre VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-4 à D. 1132-9, D. 1132-34 à D. 1132-38, D. 1132-43 à D. 1132-54, D.
-1142-21, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, 
+D. 1142-30 à D. 1142-34,
+D. 1143-9 à D. 1143-13 ; 
 
 2° Au livre III, les dispositions des articles D. 1313-7 à D. 1313-10, D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D.
-1334-5 à D. 1334-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+1334-5 à D. 1334-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
 
 3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
 
@@ -36067,15 +35363,16 @@ Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D1132-34
 	  - Code de la défense. - art. D1132-4
 	  - Code de la défense. - art. D1132-43
-	  - Code de la défense. - art. D1142-30
-	  - Code de la défense. - art. D1143-9
+	  - Code de la défense. - art. D1132-53 (V)
+	  - Code de la défense. - art. D1142-30 (V)
+	  - Code de la défense. - art. D1143-9 (V)
 	  - Code de la défense. - art. D1313-7
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
@@ -36202,8 +35499,8 @@ les chefs de service de la police nationale et de la gendarmerie nationale dési
 Sont applicables à Mayotte, sous réserve des adaptations prévues aux articles R. 1631-4, D. 1631-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des article R. 1132-1 à R. 1132-3, R. 1132-12 à R. 1132-33, R. 1142-14 à R. 1142-20, R.
-1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des article            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
+1143-8 ; 
 
 2° Au livre III, les dispositions des articles R. 1321-14, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R.
 1336-38, R. 1337-1 à R. 1338-5 ; 
@@ -36214,26 +35511,25 @@ présent livre :
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1631-7 (V)
-	  - Code de la défense. - art. R1132-1 (V)
-	  - Code de la défense. - art. R1132-12 (V)
-	  - Code de la défense. - art. R1142-14 (V)
-	  - Code de la défense. - art. R1142-35 (V)
-	  - Code de la défense. - art. R1321-14 (V)
-	  - Code de la défense. - art. R1322-1 (V)
-	  - Code de la défense. - art. R1332-1 (V)
-	  - Code de la défense. - art. R1332-37 (V)
-	  - Code de la défense. - art. R1337-1 (V)
-	  - Code de la défense. - art. R1511-2 (V)
-	  - Code de la défense. - art. R1631-4 (V)
-	  - Code de la défense. - art. R1681-1 (V)
-	  - Code de la défense. - art. R1682-1 (V)
+	  - Code de la défense. - art. D1631-7
+	  - Code de la défense. - art. R1132-12
+	  - Code de la défense. - art. R1142-14
+	  - Code de la défense. - art. R1142-35
+	  - Code de la défense. - art. R1321-14
+	  - Code de la défense. - art. R1322-1
+	  - Code de la défense. - art. R1332-1
+	  - Code de la défense. - art. R1332-37
+	  - Code de la défense. - art. R1337-1
+	  - Code de la défense. - art. R1511-2
+	  - Code de la défense. - art. R1631-4
+	  - Code de la défense. - art. R1681-1
+	  - Code de la défense. - art. R1682-1
 
 
 ###### Article R1631-4
@@ -36294,7 +35590,7 @@ l'outre-mer ".
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 : 
 
-1° Au livre Ier, les dispositions des articles D. * 1132-10 et D. * 1132-11, D. * 1132-39 à D. * 1132-42, D. * 1132-55 ; 
+1° Au livre Ier, les dispositions des articles D. * 1132-11, D. * 1132-39 à D. * 1132-42 ; 
 
 2° Au livre II, les dispositions des articles D. * 1221-1 à D. * 1221-6 ; 
 
@@ -36304,23 +35600,17 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°61-802 du 28 juillet 1961 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D*1132-10 (V)
-	  - Code de la défense. - art. D*1132-39 (V)
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D*1221-1 (V)
-	  - Code de la défense. - art. D*1431-1 (V)
-	  - Code de la défense. - art. D*1681-13 (Ab)
-	  - Code de la défense. - art. D1641-6 (V)
+	  - Code de la défense. - art. D*1132-39
+	  - Code de la défense. - art. D*1221-1
+	  - Code de la défense. - art. D*1431-1
+	  - Code de la défense. - art. D*1681-13
+	  - Code de la défense. - art. D1641-6
 
 
 ###### Article D1641-5
@@ -36328,11 +35618,10 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 et au titre VIII
 du présent livre :
 
-1° Au livre Ier, les dispositions des articles D. 1132-4 à D. 1132-9, D. 1132-34 à D. 1132-38, D. 1132-43 à D. 1132-54, D.
-1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
+1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1334-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6 ;
+1333-68 et D. 1333-69, D. 1334-5 à D. 1334-14, D. 1337-14 à D. 1337-17, D. 1338-6 ;
 
 3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ;
 
@@ -36344,7 +35633,7 @@ du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
@@ -36442,11 +35731,11 @@ R. * 1311-7, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ;
 
 ###### Article R1641-2
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles R. 1641-3, D. 1641-6 et au
+Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations prévues aux articles R. 1641-3, D. 1641-6 et au
 titre VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-1 à R. 1132-3, R. 1132-12 à R. 1132-33, R. 1142-14 à R. 1142-20 et R.
-1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20 et R. 1142-35 à
+R. 1143-8 ; 
 
 2° Au livre III, les dispositions de l'article R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R.
 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R.
@@ -36460,12 +35749,11 @@ titre VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D1641-6
-	  - Code de la défense. - art. R1132-1
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
@@ -36555,7 +35843,7 @@ f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est rem
 
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 1651-7 : 
 
-1° Au livre Ier, les dispositions des articles D. * 1132-10 et D. * 1132-11, D. * 1132-39 à D. * 1132-42, D. * 1132-55 ; 
+1° Au livre Ier, les dispositions des articles D. * 1132-11, D. * 1132-39 à D. * 1132-42 ; 
 
 2° Au livre II, les dispositions des articles D. * 1221-1 à D. * 1221-6 ; 
 
@@ -36565,19 +35853,17 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D*1132-10 (V)
-	  - Code de la défense. - art. D*1132-39 (V)
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D*1221-1 (V)
-	  - Code de la défense. - art. D*1431-1 (V)
-	  - Code de la défense. - art. D*1681-13 (Ab)
-	  - Code de la défense. - art. D1651-7 (V)
+	  - Code de la défense. - art. D*1132-39
+	  - Code de la défense. - art. D*1221-1
+	  - Code de la défense. - art. D*1431-1
+	  - Code de la défense. - art. D*1681-13
+	  - Code de la défense. - art. D1651-7
 
 
 ###### Article D1651-6
@@ -36585,11 +35871,10 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 1651-7 et au titre VIII du
 présent livre : 
 
-1° Au livre I, les dispositions des articles D. 1132-4 à D. 1132-9, D. 1132-34 à D. 1132-38, D. 1132-43 à D. 1132-54, D.
-1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
 
 3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
 
@@ -36601,15 +35886,16 @@ présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D1132-34
 	  - Code de la défense. - art. D1132-4
 	  - Code de la défense. - art. D1132-43
+	  - Code de la défense. - art. D1132-53 (V)
 	  - Code de la défense. - art. D1142-30
-	  - Code de la défense. - art. D1143-9
+	  - Code de la défense. - art. D1143-9 (V)
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
 	  - Code de la défense. - art. D1333-55
@@ -36747,11 +36033,12 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 1651-4, D. 1651-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-1 à R. 1132-3, R. 1142-14 à R. 1142-20, et R. 1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 61142-20, et R. 1142-35
+à R. 1143-9 ; 
 
-2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-35, 
-R. 1332-37 à R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R.
-1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R.
+1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R.
+1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -36761,29 +36048,13 @@ R. 1332-37 à R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1651-7
-	  - Code de la défense. - art. R1132-1
-	  - Code de la défense. - art. R1142-14
-	  - Code de la défense. - art. R1142-35
-	  - Code de la défense. - art. R1322-1
-	  - Code de la défense. - art. R1332-35
-	  - Code de la défense. - art. R1332-37
-	  - Code de la défense. - art. R1332-42
-	  - Code de la défense. - art. R1333-1
-	  - Code de la défense. - art. R1333-19
-	  - Code de la défense. - art. R1333-70
-	  - Code de la défense. - art. R1336-33
-	  - Code de la défense. - art. R1337-1
-	  - Code de la défense. - art. R1337-18
-	  - Code de la défense. - art. R1338-1
 	  - Code de la défense. - art. R1511-2
 	  - Code de la défense. - art. R1651-4
 	  - Code de la défense. - art. R1681-1
-	  - Code de la défense. - art. R1682-1
 
 
 ###### Article R1651-4
@@ -36853,7 +36124,7 @@ f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est rem
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 1661-7 : 
 
-1° Au livre Ier, les dispositions des articles D. * 1132-10 et D. * 1132-11, D. * 1132-39 à D. * 1132-42, D. * 1132-55 ; 
+1° Au livre Ier, les dispositions des articles D. * 1132-11, D. * 1132-39 à D. * 1132-42 ; 
 
 2° Au livre II, les dispositions des articles D. * 1221-1 à D. * 1221-6 ; 
 
@@ -36863,19 +36134,17 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D*1132-10 (V)
-	  - Code de la défense. - art. D*1132-39 (V)
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D*1221-1 (V)
-	  - Code de la défense. - art. D*1431-1 (V)
-	  - Code de la défense. - art. D*1681-13 (Ab)
-	  - Code de la défense. - art. D1661-7 (V)
+	  - Code de la défense. - art. D*1132-39
+	  - Code de la défense. - art. D*1221-1
+	  - Code de la défense. - art. D*1431-1
+	  - Code de la défense. - art. D*1681-13
+	  - Code de la défense. - art. D1661-7
 
 
 ###### Article D1661-6
@@ -36883,11 +36152,10 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 1661-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-4 à D. 1132-9, D. 1132-34 à D. 1132-38, D. 1132-43 à D. 1132-54, D.
-1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1336-43 à D. 1336-46 et D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14 et D. 1337-14 à D. 1337-17, D. 1338-6 ; 
 
 3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
 
@@ -36899,7 +36167,7 @@ présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
@@ -37040,8 +36308,8 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 1661-4, D. 1661-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-1 à R. 1132-3, R. 1132-12 à R. 1132-33, R. 1142-14 à R. 1142-20, R.
-1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
+1143-8 ; 
 
 2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R.
 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R.
@@ -37055,12 +36323,11 @@ VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D1661-7
-	  - Code de la défense. - art. R1132-1
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
@@ -37154,7 +36421,7 @@ g) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est rem
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues à l'article D. 1671-7 : 
 
-1° Au livre Ier, les dispositions des articles D. * 1132-10 et D. * 1132-11, D. * 1132-39 à D. * 1132-42, D. * 1132-55 ; 
+1° Au livre Ier, les dispositions des articles D. * 1132-11, D. * 1132-39 à D. * 1132-42  ; 
 
 2° Au livre II, les dispositions des articles D. * 1221-1 à D. * 1221-6 ; 
 
@@ -37164,17 +36431,15 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. D*1132-10 (V)
-	  - Code de la défense. - art. D*1132-39 (V)
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D*1221-1 (V)
-	  - Code de la défense. - art. D*1431-1 (V)
-	  - Code de la défense. - art. D1671-7 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. D*1132-39
+	  - Code de la défense. - art. D*1221-1
+	  - Code de la défense. - art. D*1431-1
+	  - Code de la défense. - art. D1671-7
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 
 ###### Article D1671-6
@@ -37183,11 +36448,10 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues à l'article D. 1671-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-4 à D. 1132-9, D. 1132-34 à D. 1132-38, D. 1132-43 à D. 1132-54, D.
-1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1336-43 à D. 1336-46, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
 
 3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
 
@@ -37221,7 +36485,7 @@ D. 1681-15 et D. 1681-16.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 
 ###### Article D1671-7
@@ -37343,11 +36607,11 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4, D. 1671-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-1 à R. 1132-3, R. 1132-12 à R. 1132-33, R. 1142-14 à R. 1142-20, R.
-1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
+1143-8 ; 
 
 2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R. 1332-38, R.
-1332-42, R. 1333-1 à R. 1333-19, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
+1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -37359,7 +36623,6 @@ VIII du présent livre :
 
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Code de la défense. - art. D1671-7
-	  - Code de la défense. - art. R1132-1
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
@@ -37367,7 +36630,6 @@ VIII du présent livre :
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
 	  - Code de la défense. - art. R1332-42
-	  - Code de la défense. - art. R1333-1
 	  - Code de la défense. - art. R1337-1
 	  - Code de la défense. - art. R1337-18
 	  - Code de la défense. - art. R1338-1
@@ -37378,7 +36640,7 @@ VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 
 ###### Article R1671-4
@@ -40303,25 +39565,17 @@ dispositions du présent chapitre.
 ###### Article R2232-2
 
 Le ministre de la défense est chargé, en temps de paix, d'arrêter le programme général annuel des recensements.A cet effet,
-une commission interministérielle réunie à la diligence du secrétariat général de la défense nationale étudie, coordonne et,
-s'il y a lieu, simplifie les programmes particuliers à chaque ministère, qui lui sont adressés avant le 1er novembre de
-chaque année, et, compte tenu des renseignements qui peuvent être fournis par des recensements autres que ceux prévus par
-l'article L. 2232-1, prépare ainsi le programme général des recensements, qui est arrêté avant le 1er janvier de chaque
-année.
+une commission interministérielle réunie à la diligence du     secrétariat général de la défense et de la sécurité nationale
+étudie, coordonne et, s'il y a lieu, simplifie les programmes particuliers à chaque ministère, qui lui sont adressés avant le
+1er novembre de chaque année, et, compte tenu des renseignements qui peuvent être fournis par des recensements autres que
+ceux prévus par l'article L. 2232-1, prépare ainsi le programme général des recensements, qui est arrêté avant le 1er janvier
+de chaque année.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cite**:
 
-	  - Code de la défense. - art. L2232-1 (V)
+	  - Code de la défense. - art. L2232-1
 
 	**Cité par**:
 
@@ -42966,18 +42220,10 @@ confiscation des matières, produits ou objets indûment livrés à des tiers.
 
 ###### Article D*2311-12
 
-Pour l'exercice de ses attributions mentionnées aux articles R. 2311-10 et R. 2311-11, le secrétaire général de la défense
-nationale dispose d'un service de sécurité de défense.
+Pour l'exercice de ses attributions mentionnées aux articles R. 2311-10 et R. 2311-11, le     secrétaire général de la
+défense et de la sécurité nationale dispose d'un service de sécurité de défense.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-253 du 4 mars 2009 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -42988,7 +42234,7 @@ nationale dispose d'un service de sécurité de défense.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2311-10 (V)
+	  - Code de la défense. - art. R2311-10
 
 
 ###### Article R2311-1
@@ -43234,26 +42480,18 @@ militaire est soumise à l'autorisation préalable du commandant de la formation
 
 ###### Article R2311-10
 
-Sous l'autorité du Premier ministre, le secrétaire général de la défense nationale est chargé d'étudier, de prescrire et de
-coordonner sur le plan interministériel les mesures propres à assurer la protection des secrets intéressant la défense
-nationale.
+Sous l'autorité du Premier ministre, le     secrétaire général de la défense et de la sécurité nationale est chargé
+d'étudier, de prescrire et de coordonner sur le plan interministériel les mesures propres à assurer la protection des secrets
+intéressant la défense nationale. 
 
-Le secrétaire général de la défense nationale veille à la mise en œuvre de ces mesures. Il a qualité pour la contrôler. Il a
-la possibilité en toutes circonstances de saisir, par l'intermédiaire des ministres intéressés, les services qui concourent à
-la répression des délits.
+Le     secrétaire général de la défense et de la sécurité nationale veille à la mise en œuvre de ces mesures. Il a qualité
+pour la contrôler. Il a la possibilité en toutes circonstances de saisir, par l'intermédiaire des ministres intéressés, les
+services qui concourent à la répression des délits. 
 
 Les attributions de sécurité de défense définies ci-dessus n'affectent pas les responsabilités propres des ministres en cette
 matière.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -43263,9 +42501,9 @@ matière.
 
 ###### Article R2311-11
 
-Le secrétaire général de la défense nationale, conformément aux dispositions de l'article R. 2311-10, prescrit, coordonne et
-contrôle l'application des mesures propres à assurer la protection du secret dans les rapports entre la France et les Etats
-étrangers. 
+Le     secrétaire général de la défense et de la sécurité nationale, conformément aux dispositions de l'article R. 2311-10,
+prescrit, coordonne et contrôle l'application des mesures propres à assurer la protection du secret dans les rapports entre
+la France et les Etats étrangers. 
 
 Il assure, en application des accords internationaux, la sécurité des informations classifiées confiées à la France. 
 
@@ -43274,17 +42512,9 @@ organisations internationales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
 	**Cite**:
 
-	  - Code de la défense. - art. R2311-10 (V)
+	  - Code de la défense. - art. R2311-10
 
 
 ##### Chapitre III : Règles spéciales
@@ -43414,183 +42644,6 @@ R. 217-10 du code de l'environnement.
 
 
 #### TITRE II : SECURITE DES SYSTEMES D'INFORMATION
-
-##### Chapitre Ier : Responsabilités
-
-##### Section unique : Commission interministérielle pour la sécurité des systèmes d'information
-
-###### Article D2321-1
-
-La commission interministérielle pour la sécurité des systèmes d'information, placée auprès du secrétaire général de la
-défense nationale, a pour mission d'assurer la concertation entre les départements ministériels sur les questions relatives à
-la sécurité des systèmes d'information qui se posent aux administrations. Elle peut être consultée par le Premier ministre
-sur la politique à conduire en matière de sécurité des systèmes d'information. Elle peut prêter son concours aux services et
-organismes publics qui en font la demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*1132-55 (V)
-	  - Code de la défense. - art. D2441-3 (V)
-	  - Code de la défense. - art. D2451-3 (V)
-	  - Code de la défense. - art. D2461-4 (V)
-	  - Code de la défense. - art. D2471-5 (V)
-
-
-###### Article D2321-2
-
-La commission interministérielle pour la sécurité des systèmes d'information est chargée d'harmoniser les conceptions, les
-méthodes et les programmes d'équipement des administrations de l'Etat en matière de sécurité des systèmes d'information et de
-favoriser l'élaboration de solutions nouvelles.
-
-A ce titre :
-
-1° Elle assure la collecte et la diffusion des informations sur les évolutions de toute nature pouvant affecter la sécurité
-des systèmes d'information ;
-
-2° Elle facilite les échanges d'informations entre les départements ministériels sur leurs projets en matière de sécurité des
-systèmes d'informations ;
-
-3° Elle participe à l'orientation des recherches, études et travaux lancés en France en vue de répondre aux besoins exprimés
-par les départements ministériels ;
-
-4° Elle propose des mesures réglementaires et des textes normatifs susceptibles d'améliorer la protection des systèmes
-d'information dont les départements ministériels ont la responsabilité.
-
-La commission interministérielle pour la sécurité des systèmes d'information est tenue informée des crédits consacrés à la
-sécurité des systèmes d'information dans les budgets ministériels.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D2321-3
-
-La commission interministérielle pour la sécurité des systèmes d'information est présidée par le secrétaire général de la
-défense nationale. Elle comprend : 
-
-1° Un représentant des ministres chargés des finances, de l'industrie, des télécommunications, de l'emploi, de la santé, de
-la justice, de l'intérieur, de l'éducation nationale, des affaires étrangères, de la défense, de l'équipement, des
-transports, de la culture, de l'agriculture, de l'environnement, de l'aménagement du territoire, de la fonction publique, de
-la jeunesse, des sports et de la recherche ; 
-
-2° Un représentant du chef de l'état-major particulier du Président de la République ; 
-
-3° Un représentant du chef du cabinet militaire du Premier ministre. 
-
-Le directeur général de l'Agence nationale de la sécurité des systèmes d'information est membre de droit de la commission. Il
-en assure la présidence en cas d'empêchement du secrétaire général de la défense nationale. 
-
-La commission interministérielle pour la sécurité des systèmes d'information peut entendre, sur convocation de son président,
-des représentants d'autres administrations ou organismes publics intéressés par une question inscrite à l'ordre du jour et,
-plus généralement, toute personne qualifiée dont elle juge la présence utile. 
-
-Le secrétariat de la commission est assuré par l'Agence nationale de la sécurité des systèmes d'information.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D2321-4
-
-La commission interministérielle pour la sécurité des systèmes d'information se réunit au moins deux fois par an en formation
-plénière sur convocation de son président. En fonction de la nature des sujets traités, elle peut être réunie en formation
-restreinte aux ministères intéressés, à l'initiative de son président.
-
-Le président fixe l'ordre du jour des réunions. Les départements ministériels adressent au secrétariat de la commission les
-points qu'ils souhaitent y voir figurer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D2321-5
-
-La commission interministérielle pour la sécurité des systèmes d'information peut créer des sous-commissions ou groupes de
-travail dont elle fixe le mandat et qui lui rendent compte de leurs travaux.
-
-Chaque sous-commission est animée par un président choisi en raison de sa compétence. Ce président est nommé, sur proposition
-du directeur central de la sécurité des systèmes d'information, par le secrétaire général de la défense nationale.
-
-Les sous-commissions se réunissent à l'initiative de leur président aussi souvent que leur mandat l'exige.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
-
-
-###### Article D2321-6
-
-Le président de la commission et les présidents des sous-commissions peuvent, pour des questions déterminées, faire appel à
-toute personne dont le concours leur paraît souhaitable.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
-
-###### Article D2321-7
-
-Pour l'exercice de ses attributions en matière de sécurité des systèmes d'information, le secrétaire général de la défense
-nationale dispose de l'Agence nationale de la sécurité des systèmes d'information.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-834 du 7 juillet 2009 - art. 9 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
-
 
 ##### Chapitre II : Cryptologie
 
@@ -46136,50 +45189,37 @@ de l'application de la convention de Paris.
 
 ###### Article D2342-96
 
-Le CICIAC comprend, sous la présidence du Premier ministre :
+Le CICIAC comprend, sous la présidence du Premier ministre : 
 
-1° Le ministre de la justice ;
+1° Le ministre de la justice ; 
 
-2° Le ministre chargé de la recherche ;
+2° Le ministre chargé de la recherche ; 
 
-3° Le ministre de l'intérieur ;
+3° Le ministre de l'intérieur ; 
 
-4° Le ministre des affaires étrangères ;
+4° Le ministre des affaires étrangères ; 
 
-5° Le ministre chargé de l'industrie ;
+5° Le ministre chargé de l'industrie ; 
 
-6° Le ministre de la défense ;
+6° Le ministre de la défense ; 
 
-7° Le ministre chargé de l'agriculture ;
+7° Le ministre chargé de l'agriculture ; 
 
-8° Le ministre chargé de l'environnement ;
+8° Le ministre chargé de l'environnement ; 
 
-9° Le ministre chargé de l'outre-mer ;
+9° Le ministre chargé de l'outre-mer ; 
 
-10° Le ministre chargé de la santé ;
+10° Le ministre chargé de la santé ; 
 
-11° Le ministre chargé des douanes.
+11° Le ministre chargé des douanes. 
 
 En fonction de la nature des questions à l'ordre du jour, le président associe en tant que de besoin d'autres membres du
-Gouvernement et peut faire appel à des organismes ou à des personnalités qualifiées.
+Gouvernement et peut faire appel à des organismes ou à des personnalités qualifiées. 
 
-Le CICIAC se réunit sur convocation de son président ou à la demande d'un ministre intéressé.
+Le CICIAC se réunit sur convocation de son président ou à la demande d'un ministre intéressé. 
 
-Le secrétariat du CICIAC est assuré par le secrétariat général de la défense nationale.
+Le secrétariat du CICIAC est assuré par le     secrétariat général de la défense et de la sécurité nationale.
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-36 du 16 janvier 1998 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Modifié par**:
-
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 
 ###### Article D2342-97
@@ -51500,19 +50540,18 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III, les articles D. 2321-1 à D. 2321-7, D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D.
-2342-121, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
+2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D2234-97
-	  - Code de la défense. - art. D2321-1
 
 
 ###### Article R*2441-1
@@ -51620,19 +50659,18 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III, les articles D. 2321-1 à D. 2321-7, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D.
-2342-111, D. 2342-121, D. 2351-1 à D. 2351-8, D. 2362-2 à D. 2362-4.
+2° Au livre III,  les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
+2351-8, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D2234-97
-	  - Code de la défense. - art. D2321-1
 
 
 ###### Article R*2451-1
@@ -51736,19 +50774,18 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III les articles D. 2321-1 à D. 2321-7, D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121,
-D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D. 2351-8,
+D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D2234-97
-	  - Code de la défense. - art. D2321-1
 
 
 ###### Article R*2461-1
@@ -51875,19 +50912,18 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III, les articles D. 2321-1 à D. 2321-7, D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D.
-2342-121, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
+2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. D2234-97
-	  - Code de la défense. - art. D2321-1
 
 
 ###### Article R*2471-1
@@ -53361,36 +52397,31 @@ Il est responsable de l'enseignement militaire supérieur du personnel des armé
 
 ###### Article D3121-14
 
-En matière de relations internationales militaires, le chef d'état-major des armées : 
+En matière de relations internationales militaires, le chef d'état-major des armées :
 
 - est chargé des relations avec les armées étrangères et les structures militaires de l'Union européenne et de l'Organisation
-du traité de l'Atlantique Nord ; 
+du traité de l'Atlantique Nord ;
 
 - organise, dans le cadre de la politique de coopération militaire internationale, la participation des armées, en prépare
-les programmes et en dresse les bilans ; 
+les programmes et en dresse les bilans ;
 
 - prépare, avec le directeur chargé des affaires stratégiques et le délégué général pour l'armement, les instructions du
 ministre aux attachés de défense et aux représentants militaires placés auprès des organismes internationaux ; il veille à
-leur application ; 
+leur application ;
 
 - suit les négociations internationales qui peuvent avoir une incidence sur l'emploi ou la nature des forces, en liaison avec
-le secrétaire général de la défense nationale ; 
+le     secrétaire général de la défense et de la sécurité nationale ;
 
-- siège au comité militaire de certaines organisations internationales ; 
+- siège au comité militaire de certaines organisations internationales ;
 
-- négocie, avec le soutien du secrétaire général pour l'administration, et signe les accords militaires opérationnels ; 
+- négocie, avec le soutien du secrétaire général pour l'administration, et signe les accords militaires opérationnels ;
 
 - présente la position nationale dans les travaux de planification et de programmation des capacités conduits dans un cadre
-international ; 
+international ;
 
 - est responsable de la conduite des négociations relatives à la maîtrise des armements conventionnels.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 5 (VD)
 
 	**Cité par**:
 
@@ -63210,39 +62241,31 @@ Les dépôts sont accordés pour une durée maximale de cinq ans renouvelable.
 
 ###### Article R3413-8
 
-I. ― Le conseil d'administration comprend :
+I. ― Le conseil d'administration comprend : 
 
-1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ; 
 
-2° Six membres de droit :
+2° Six membres de droit : 
 
-a) Le ministre de la défense ou son représentant ;
+a) Le ministre de la défense ou son représentant ; 
 
-b) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
+b) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ; 
 
-c) Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
+c) Le directeur du budget au ministère de l'économie et des finances ou son représentant ; 
 
-d) Le directeur des musées de France ou son représentant ;
+d) Le directeur général des patrimoines ou son représentant ; 
 
-e) Le chef d'état-major de l'armée de terre ou son représentant ;
+e) Le chef d'état-major de l'armée de terre ou son représentant ; 
 
-f) Le général gouverneur des Invalides ;
+f) Le général gouverneur des Invalides ; 
 
-3° Douze à quinze membres choisis, en raison de leur compétence, par le ministre de la défense.
+3° Douze à quinze membres choisis, en raison de leur compétence, par le ministre de la défense. 
 
 II. ― Le directeur du musée de l'armée, le contrôleur financier et l'agent comptable assistent aux séances du conseil
 d'administration avec voix consultative. Le conseil peut entendre toute personne dont il estime la présence utile à son
 information.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1393 du 11 novembre 2009 - art. 8 (VD)
 
 	**Cité par**:
 
@@ -63959,43 +62982,35 @@ ne sont plus respectées par les bénéficiaires.
 
 ###### Article R3413-43
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ; 
 
-2° Sept représentants de l'Etat, à savoir :
+2° Sept représentants de l'Etat, à savoir : 
 
-a) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
+a) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ; 
 
-b) Le directeur du budget au ministère du budget ou son représentant ;
+b) Le directeur du budget au ministère du budget ou son représentant ; 
 
-c) Le directeur des musées de France ou son représentant ;
+c) Le directeur général des patrimoines ou son représentant ; 
 
-d) Le chef d'état-major de la marine ou son représentant ;
+d) Le chef d'état-major de la marine ou son représentant ; 
 
-e) Un représentant du ministre chargé de la recherche ;
+e) Un représentant du ministre chargé de la recherche ; 
 
-f) Un représentant du ministre chargé de la mer ;
+f) Un représentant du ministre chargé de la mer ; 
 
-g) Un représentant du ministre chargé des sports ;
+g) Un représentant du ministre chargé des sports ; 
 
 3° Cinq à huit personnalités qui sont choisies, en raison de leurs compétences, par le ministre de la défense, dont une sur
 la proposition du ministre chargé de la culture, une sur la proposition du ministre chargé de la recherche, une sur la
 proposition du ministre chargé de la mer et une sur la proposition du ministre chargé de la jeunesse, des sports et des
-loisirs.
+loisirs. 
 
 Le président est nommé par décret du Président de la République parmi les membres du conseil sur la proposition de celui-ci.
 Un vice-président est nommé dans les mêmes conditions.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1393 du 11 novembre 2009 - art. 8 (VD)
 
 	**Cité par**:
 
@@ -64576,11 +63591,11 @@ ne sont plus respectées par les bénéficiaires.
 
 ###### Article R3413-70
 
-Le conseil d'administration est composé :
+Le conseil d'administration est composé : 
 
-1° D'un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;
+1° D'un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ; 
 
-2° De douze représentants des administrations de l'Etat :
+2° De treize représentants des administrations de l'Etat : 
 
 a) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ; 
 
@@ -64592,36 +63607,34 @@ d) Le chef d'état-major de l'armée de terre ou son représentant ;
 
 e) Le chef d'état-major de la marine ou son représentant ; 
 
-f) Le directeur des musées de France ou son représentant ; 
+f) Le directeur du budget au ministère du budget ou son représentant ; 
 
-g) Un représentant du ministre chargé de l'éducation nationale ; 
+g) Le directeur général des patrimoines ou son représentant ; 
 
-h) Un représentant du ministre chargé de l'espace ; 
+h) Un représentant du ministre chargé de l'éducation nationale ; 
 
-i) Un représentant du ministre chargé de la recherche ; 
+i) Un représentant du ministre chargé de l'espace ; 
 
-j) Un représentant du ministre chargé de l'aviation civile ; 
+j) Un représentant du ministre chargé de la recherche ; 
 
-k) Un représentant du ministre chargé de la jeunesse et des sports ; 
+k) Un représentant du ministre chargé de l'aviation civile ; 
 
-l) Un représentant du ministre chargé du tourisme ;
+l) Un représentant du ministre chargé de la jeunesse et des sports ; 
+
+m) Un représentant du ministre chargé du tourisme ; 
 
 3° De huit personnalités choisies par le ministre de la défense en raison de leurs connaissances ou de leur activité
-professionnelle.
+professionnelle. 
 
 Ces personnalités sont nommées pour trois ans par arrêté du ministre de la défense. Les membres démissionnaires ou décédés
-sont immédiatement remplacés. Dans ce cas, le mandat des nouveaux membres prend fin au moment du renouvellement intégral.
+sont immédiatement remplacés. Dans ce cas, le mandat des nouveaux membres prend fin au moment du renouvellement intégral. 
 
-Le mandat des membres sortants peut être renouvelé ;
+Le mandat des membres sortants peut être renouvelé. 
 
 4° Le directeur, le contrôleur financier, l'agent comptable du musée et le président de l'association des amis du musée de
 l'air assistent également à ce conseil avec voix consultative.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 5
 
 	**Cité par**:
 

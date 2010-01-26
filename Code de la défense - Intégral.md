@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-01-13
+Version Consolidée au 2010-01-27
 
 # Partie législative
 
@@ -21172,8 +21172,6 @@ sécurité nationale.
 
 
 ##### Chapitre II : Organismes relevant du Premier ministre
-
-##### Section 1 : Secrétariat général de la défense nationale
 
 ##### Section 1 : Secrétariat général de la défense et de la sécurité nationale
 
@@ -64667,37 +64665,37 @@ défense et du ministre chargé de l'emploi. La durée de son mandat est de troi
 
 ###### Article R3414-5
 
-Le conseil d'administration comprend, outre son président :
+Le conseil d'administration comprend, outre son président : 
 
-1° Neuf membres de droit représentant l'Etat :
+1° Neuf membres de droit représentant l'Etat : 
 
-a) Au titre du ministère de la défense :
+a) Au titre du ministère de la défense : 
 
-― le directeur du service national ou son représentant ;
+― le directeur du service national ou son représentant ; 
 
-― le directeur de la fonction militaire et du personnel civil ou son représentant ;
+― le directeur de la fonction militaire et du personnel civil ou son représentant ; 
 
-― un directeur du personnel militaire ou son représentant.
+― un directeur du personnel militaire ou son représentant. 
 
-b) Au titre du ministère chargé de l'emploi :
+b) Au titre du ministère chargé de l'emploi : 
 
-― le directeur des relations du travail ou son représentant ;
+― le directeur des relations du travail ou son représentant ; 
 
-― le directeur général de la formation professionnelle ou son représentant ;
+― le directeur général de la formation professionnelle ou son représentant ; 
 
-― le directeur général de l'action sociale ou son représentant ;
+― le      directeur général de la cohésion sociale  ou son représentant ; 
 
-c) Au titre du ministère chargé de l'éducation nationale :
+c) Au titre du ministère chargé de l'éducation nationale : 
 
-― le directeur de l'enseignement scolaire ou son représentant ;
+― le directeur de l'enseignement scolaire ou son représentant ; 
 
-d) Au titre du ministère chargé de la jeunesse et des sports :
+d) Au titre du ministère chargé de la jeunesse et des sports : 
 
-― le directeur de la jeunesse, de l'éducation populaire et de la vie associative ou son représentant ;
+― le directeur de la jeunesse, de l'éducation populaire et de la vie associative ou son représentant ; 
 
-e) Au titre du ministère chargé du budget :
+e) Au titre du ministère chargé du budget : 
 
-― le directeur du budget ou son représentant ;
+― le directeur du budget ou son représentant ; 
 
 2° Quatre personnalités qualifiées désignées en raison de leurs compétences en matière notamment de formation, d'insertion
 professionnelle et d'emploi par arrêté conjoint du ministre de la défense et du ministre chargé de l'emploi. La durée de leur
@@ -64706,9 +64704,9 @@ mandat du membre qui le remplace est limité à la durée du mandat restant à c
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-95 du 25 janvier 2010 - art. 6 (V)
 
 
 ###### Article R3414-6

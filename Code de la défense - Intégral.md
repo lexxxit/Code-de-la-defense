@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-01-27
+Version Consolidée au 2010-02-06
 
 # Partie législative
 
@@ -67032,7 +67032,7 @@ présence serait jugée utile pour un point particulier de l'ordre du jour.
 ###### Article R3421-4
 
 Le président du conseil d'administration est nommé pour une durée de trois ans par décret du Président de la République sur
-proposition du ministre de la défense. 
+proposition du ministre de la défense. La limite d'âge qui lui est applicable est fixée à soixante-dix ans. 
 
 Il est assisté par un vice-président, nommé par arrêté du ministre de la défense pour la même durée, parmi les membres du
 conseil d'administration. 
@@ -67048,9 +67048,9 @@ justifiés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-117 du 3 février 2010 - art. 1
 
 	**Cité par**:
 
@@ -67058,7 +67058,7 @@ justifiés.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3421-3 (V)
+	  - Code de la défense. - art. R3421-3
 
 
 ###### Article R3421-5

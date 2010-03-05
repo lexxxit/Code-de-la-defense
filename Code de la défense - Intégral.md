@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-03-04
+Version Consolidée au 2010-03-06
 
 # Partie législative
 
@@ -24776,8 +24776,26 @@ missions selon des modalités propres à chaque armée.
 
 ###### Article R*1311-1
 
-Sous l'autorité du Premier ministre, les préfets de zone, préfets de région et préfets de département, sont responsables,
-chacun en ce qui le concerne, de la préparation et de l'exécution des mesures non militaires de défense.
+Le représentant de l'Etat dans la zone de défense et de sécurité prévu à l'article L. 1311-1 est le préfet du département où
+se trouve le chef-lieu de celle-ci. Il porte le titre de préfet de zone de défense et de sécurité. 
+
+Sous l'autorité du Premier ministre et sous réserve des compétences du ministre de la défense et de l'autorité judiciaire, le
+préfet de zone de défense et de sécurité est le délégué des ministres dans l'exercice de leurs attributions en matière de
+défense et de sécurité nationale.
+
+A cet effet, il dirige les services des administrations civiles de l'Etat dans le cadre de la zone de défense et de sécurité
+et exerce les attributions fixées par la section 2. 
+
+II.-Sous l'autorité du Premier ministre, les préfets de zone de défense et de sécurité, les préfets de région et les préfets
+de département sont responsables, chacun en ce qui le concerne, de la préparation et de l'exécution des mesures de sécurité
+intérieure, de sécurité civile et de sécurité économique concourant à la sécurité nationale et relevant des compétences du
+ministre de l'intérieur prévues à l'article L. 1142-2. 
+
+III.-Un comité des préfets de zone de défense et de sécurité est créé. Il est présidé par le ministre de l'intérieur. Il
+comprend les préfets de zone de défense et de sécurité, les hauts fonctionnaires de défense et de sécurité et le secrétaire
+général de la défense et de la sécurité nationale. Il a pour mission d'assurer les conditions de préparation de la chaîne
+territoriale de l'Etat à la gestion des crises majeures relevant de la sécurité nationale. Les modalités de son
+fonctionnement sont arrêtées par le ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -24785,9 +24803,14 @@ chacun en ce qui le concerne, de la préparation et de l'exécution des mesures 
 
 	  - Décret n°83-321 du 20 avril 1983 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1142-2
+	  - Code de la défense. - art. L1311-1
 
 	**Cité par**:
 
@@ -24800,689 +24823,20 @@ chacun en ce qui le concerne, de la préparation et de l'exécution des mesures 
 
 ##### Section 2 : Préfets de zone
 
-##### Sous-section 1 : Dispositions générales
-
-###### Article R*1311-2
-
-Le représentant de l'Etat dans la zone de défense est le préfet du département où se trouve le chef-lieu de celle-ci. Il
-porte le titre de préfet de zone.
-
-Sous l'autorité du Premier ministre et des ministres, le préfet de zone exerce les attributions fixées par la présente
-section. A ce titre, il est responsable des mesures de défense non militaires, de sécurité civile, de gestion des crises et
-de coordination en matière de circulation routière.
-
-Il dirige les services des administrations civiles de l'Etat dans le cadre de la zone et s'assure de la permanence et de la
-sécurité des liaisons de communications gouvernementales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 1, v. init.
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1621-1 (V)
-
-
-##### Sous-section 2 : Pouvoirs du préfet de zone en matière de défense non militaire
-
-###### Article R*1311-3
-
-Le préfet de zone est le délégué des ministres chargés des administrations civiles dans l'exercice de leurs attributions en
-matière de défense.
-
-Il est responsable de la préparation et de l'exécution des mesures non militaires de défense. A ce titre, il élabore et
-arrête les différents plans nécessaires à la mise en oeuvre de ces mesures.
-
-Il est responsable de la coordination avec les autorités militaires des mesures de défense civile et militaire. Il s'assure
-de la cohérence des plans généraux de protection avec les plans militaires de défense.
-
-Il assure la répartition, sur le territoire de la zone, des moyens des services de la défense et de la sécurité civiles et
-des moyens des forces armées mis à disposition par voie de réquisition ou de concours. Il fixe à l'officier général de zone
-de défense les objectifs à atteindre en matière de défense non militaire. Il signe les protocoles d'accord relatifs aux
-demandes de concours établis conjointement avec l'autorité militaire à l'échelon de la zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 2
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-26 (VT)
-	  - Code de la défense. - art. R*1422-1 (VD)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1641-1-1 (V)
-	  - Code de la défense. - art. R*1651-2 (V)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1661-2 (VD)
-
-
-###### Article R*1311-4
-
-Le préfet de zone dirige l'action des préfets de région et de département ainsi que celle des délégués de zone des services
-déconcentrés des administrations civiles en ce qui concerne les mesures non militaires de défense.
-
-Il veille à la continuité des relations de l'Etat avec les responsables des établissements et organismes publics et les
-opérateurs chargés d'une mission de service public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 3
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-
-
-###### Article R*1311-5
-
-Le préfet de zone dirige l'action des préfets de région et de département en matière de prévention, de préparation et de mise
-en oeuvre des mesures intéressant la défense économique. Il contrôle l'exercice des attributions qui leur sont respectivement
-dévolues par les articles R. * 1311-30 et R. * 1311-36. 
-
-Il élabore et arrête les plans relatifs à la coopération avec les entreprises dans les cas de crise ainsi que les mesures
-relatives à l'emploi des ressources et à l'utilisation des infrastructures.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 4
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1311-30 (V)
-	  - Code de la défense. - art. R*1311-36 (V)
-
-
-###### Article R*1311-6
-
-Le Premier ministre prévoit par lettre de mission accompagnée des délégations de signature des ministres concernés
-l'extension des pouvoirs des préfets de zone dans les circonstances mettant en cause la sûreté de l'Etat sur tout ou partie
-du territoire. 
-
-Cette extension prend effet sur décision du Premier ministre. Elle peut porter sur les matières suivantes : 
-
-1° Autorité hiérarchique en toute matière sur les préfets en fonctions dans la zone ; 
-
-2° Contrôle supérieur et coordination générale de tous les personnels, services et établissements ou institutions civils de
-l'Etat hormis ceux qui ont un caractère juridictionnel ; 
-
-3° Pouvoir de suspension en cas de faute grave des fonctionnaires, employés et ouvriers de toutes administrations civiles
-exerçant dans la zone hormis les magistrats de l'ordre judiciaire ou les membres des juridictions administratives ; 
-
-4° Autorité sur l'ensemble des moyens de la police nationale et des moyens de police des collectivités territoriales ; 
-
-5° Réquisition des forces armées de première, deuxième et troisième catégorie, définies à l'article D. 1321-6 ; 
-
-6° Réquisition des services, des personnes et des biens ; 
-
-7° Disposition des services des collectivités territoriales comprises dans la zone de défense ainsi que de ceux de leurs
-groupements et de leurs établissements publics, en application de l'article L. 1111-7 du code général des collectivités
-territoriales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1111-7 (V)
-	  - Code de la défense. - art. D1321-6 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1651-2 (V)
-	  - Code de la défense. - art. R*1661-1 (M)
-
-
-##### Sous-section 3 : Pouvoirs du préfet de zone en cas de crise ou d'événements d'une particulière gravité
-
-###### Article R*1311-7
-
-Le préfet de zone prend les mesures de coordination nécessaires lorsque intervient une situation de crise ou que se
-développent des événements d'une particulière gravité, quelle qu'en soit l'origine, de nature à menacer des vies humaines, à
-compromettre la sécurité ou la libre circulation des personnes et des biens ou à porter atteinte à l'environnement, et que
-cette situation ou ces événements peuvent avoir des effets dépassant ou susceptibles de dépasser le cadre d'un département.
-
-Il peut mettre à disposition d'un ou de plusieurs préfets de département de la zone les moyens de l'Etat existant dans la
-zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 5
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 2014 - art. 5 (Ab)
-	  - Code de la défense. - art. R*1311-8 (VT)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la santé publique - art. R1435-7 (V)
-
-
-###### Article R*1311-8
-
-Lorsque la situation ou les événements mentionnés à l'article R. * 1311-7 affectent plusieurs zones de défense et entraînent
-des atteintes ou des menaces graves à l'ordre public, le ministre de l'intérieur peut désigner l'un des préfets de zone afin
-de prendre les mesures de coordination prévues au même article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 6
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1311-7 (V)
-
-
-##### Sous-section 4 : Autres pouvoirs du préfet de zone
-
-###### Article R*1311-9
-
-Dans le domaine de la sécurité civile, le préfet de zone prépare et met en oeuvre l'ensemble des mesures de prévention, de
-protection et de secours qu'exige la sauvegarde des personnes, des biens et de l'environnement dans le cadre de la zone. Il
-élabore et arrête le plan ORSEC de zone et les autres plans dont le déclenchement relève de son autorité. Il coordonne
-l'élaboration des plans départementaux et s'assure de leur exécution.
-
-Il fait appel aux moyens publics et privés à l'échelon de la zone et les réquisitionne en tant que de besoin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 7 al. 1 et 2
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 3
-
-
-###### Article R*1311-10
-
-Lorsque des opérations terrestres liées à une pollution maritime sont engagées, le préfet de zone établit la synthèse des
-informations, coordonne l'action à terre et s'assure de la cohérence des actions terrestre et maritime.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 8
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 3
-
-
-###### Article R*1311-11
-
-Le préfet de zone assure la coordination des mesures d'information et de circulation routières dans la zone. A ce titre :
-
-1° Il arrête et met en oeuvre les plans de gestion du trafic dépassant le cadre d'un département ;
-
-2° Il organise des exercices afin de faciliter la mise en oeuvre de ces plans ;
-
-3° Il coordonne la mise en oeuvre des mesures de gestion du trafic et d'information routière et des plans départementaux de
-contrôle routier.
-
-Les centres régionaux d'information et de coordination routières implantés dans la zone sont placés, pour leur emploi, sous
-son autorité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 9
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 3
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1611-1 (V)
-
-
-###### Article R*1311-12
-
-Les préfets de zone coordonnent l'action des préfets des départements de leur zone pour prévenir les événements troublant
-l'ordre public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette même zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 9-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
-###### Article R*1311-13
-
-Lorsque la situation l'exige et à la demande d'un préfet de département, le préfet de zone peut décider de mettre à la
-disposition de celui-ci, afin de maintenir ou rétablir l'ordre public et pour une mission et une durée déterminées, des
-effectifs et des moyens de police relevant d'un autre département de la zone.
-
-Le préfet de zone est tenu informé des demandes de forces mobiles formulées par les préfets de département de la zone et des
-attributions de telles forces prononcées à leur profit. Lorsque des menaces à l'ordre public concernent plusieurs
-départements, le préfet de zone peut demander au ministre de l'intérieur la mise à sa disposition de forces mobiles dont il
-assure la répartition entre les départements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 10
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1611-1 (V)
-
-
-###### Article R*1311-14
-
-Les demandes de concours de moyens militaires émanant des préfets de département sont adressées au préfet de zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 11
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
 ##### Sous-section 5 : Préfet délégué pour la sécurité et la défense auprès du préfet de zone
-
-###### Article R1311-15
-
-Le préfet délégué pour la sécurité et la défense assiste le préfet de zone pour toutes les missions concourant à la sécurité
-et à l'ordre publics, à la sécurité civile et à la défense de caractère non militaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 1, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1611-4 (V)
-	  - Code de la défense. - art. R1621-2 (V)
-
-
-###### Article R1311-16
-
-Sous l'autorité du préfet de zone, le préfet délégué pour la sécurité et la défense assure la direction de l'état-major de
-zone, du service de zone des systèmes d'information et de communication et du secrétariat général pour l'administration de la
-police.
-
-A cet effet, il est assisté d'un chef d'état-major de zone, d'un chef du service de zone des systèmes d'information et de
-communication et, le cas échéant, d'un secrétaire général adjoint pour l'administration de la police.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 2, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1311-17
-
-Le préfet de zone peut donner délégation de signature au préfet délégué pour la sécurité et la défense ainsi qu'aux agents
-placés sous l'autorité de ce dernier pour les matières de sa compétence concernant la défense de caractère non militaire et
-la sécurité civile ou relevant du secrétariat général pour l'administration de la police ou du service de zone des systèmes
-d'information et de communication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 3, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1311-18
-
-Dans le département où se trouve le chef-lieu d'une zone de défense, le préfet peut donner délégation de signature au préfet
-délégué pour la sécurité et la défense en toute matière relevant de la sécurité civile, de la défense de caractère non
-militaire, de la sécurité publique ainsi qu'en d'autres matières, le cas échéant. A cet effet, le préfet délégué pour la
-sécurité et la défense peut disposer notamment du service interministériel de défense et de protection civiles.
-
-Le préfet de zone, préfet du département chef-lieu, peut également confier au préfet délégué pour la sécurité et la défense
-l'exercice d'attributions en matière d'ordre public et de coordination des forces participant à la sécurité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 4, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1311-19
-
-Le préfet délégué pour la sécurité et la défense placé auprès du préfet de la zone Sud est également chargé des fonctions de
-préfet chargé de la protection de la forêt méditerranéenne dans les conditions fixées par le décret n° 92-824 du 21 août 1992
-portant définition de l'emploi de préfet chargé de la protection de la forêt méditerranéenne.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°92-824 du 21 août 1992 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 5, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1311-20
-
-Les dispositions de la présente sous-section ne s'appliquent pas aux zones de défense de Paris, des Antilles, de la Guyane et
-du sud de l'océan Indien.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-917 du 30 mai 2002 - art. 6, v. init.
-	  - Décret n°2002-917 du 30 mai 2002 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-
-##### Sous-section 6 : Autorités et services de l'Etat assistant le préfet de zone
-
-###### Article R*1311-21
-
-Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone dispose d'un
-secrétariat général pour l'administration de la police dans les conditions définies par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 13
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 40 (V)
-	  - Code de la défense. - art. R*1311-29 (V)
-	  - Code de la défense. - art. R*1611-1 (V)
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-
-
-###### Article R*1311-22
-
-Pour les compétences exercées à l'échelon de la zone, le préfet de zone a seul qualité pour recevoir les délégations de
-signature des ministres chargés des administrations civiles de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 14
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
-###### Article R*1311-23
-
-En cas d'absence ou d'empêchement, le préfet de zone est suppléé de droit par le préfet du rang le plus élevé parmi les
-préfets de région effectivement présents dans la zone de défense au début de l'absence ou de l'empêchement.
-
-En cas de vacance momentanée du poste de préfet de zone, l'intérim est assuré par le préfet de région du rang le plus élevé
-en fonction dans la zone de défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 15
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-25-1 (V)
-	  - Code de la défense. - art. R*1311-29 (VD)
-
-
-###### Article R*1311-24
-
-Le trésorier-payeur général dont la circonscription comprend le chef-lieu de la zone est le conseiller du préfet de zone pour
-les questions de défense économique. Il est le représentant des ministres chargés de l'économie et des finances auprès du
-préfet de zone.
-
-L'officier général de zone de défense est le conseiller du préfet de zone en matière de défense sur le territoire.
-
-Le général commandant la région de la gendarmerie assiste le préfet de zone pour ce qui concerne la participation de la
-gendarmerie nationale aux missions dévolues à ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 16
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1611-2 (V)
-	  - Code de la défense. - art. R*1631-2 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1671-2 (V)
-
-
-###### Article R*1311-25
-
-Le préfet de zone préside le comité de défense de zone.
-
-Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général dont la circonscription comprend
-le chef-lieu de la zone, l'officier général de zone, le général commandant la région terre, s'il y a lieu l'amiral commandant
-la région maritime, le général commandant la défense aérienne et les opérations aériennes, le général commandant la région de
-gendarmerie, le préfet délégué pour la sécurité et la défense et le ou les chefs de service de la police nationale désignés à
-cet effet par le préfet de zone.
-
-Le préfet de zone peut également associer aux travaux du comité, en tant que de besoin, les chefs des services de l'Etat et
-le ou les directeurs départementaux des services d'incendie et de secours intéressés.
-
-Le comité de défense de zone peut se réunir dans une formation restreinte de commission de défense économique dont la
-composition est arrêtée par le préfet de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est présidée
-par le trésorier-payeur général dont la circonscription comprend le chef-lieu de la zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 17
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2007-601 du 26 avril 2007 - art. 1 () JORF 27 avril 2007 en vigueur le 1er janvier 2008
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1611-2 (V)
-	  - Code de la défense. - art. R*1631-2 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1641-1-1 (V)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1651-2 (V)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1661-2 (V)
-	  - Code de la défense. - art. R*1671-2 (V)
-	  - Code de la santé publique - art. R3131-8-2 (Ab)
-
 
 ##### Sous-section 7 : Etat-major de zone
 
 ###### Article R*1311-26
 
-Le préfet de zone dispose d'un état-major de zone qui est notamment chargé :
-
-1° D'assurer une veille opérationnelle permanente ;
-
-2° De préparer l'ensemble des plans relevant des attributions du préfet de zone intéressant la défense non militaire et la
-sécurité civile ;
-
-3° De mettre en oeuvre les mesures opérationnelles décidées par le préfet de zone ;
-
-4° D'assister le préfet de zone pour la mise en oeuvre des mesures de coordination du trafic et d'information routière.
+Le préfet de zone de défense et de sécurité dispose d'un état-major interministériel de zone de défense et de sécurité qui,
+en liaison avec les préfets de département, prépare et met en œuvre les mesures concourant à la sécurité nationale, notamment
+en matière de sécurité civile et de gestion de crise, définies aux articles R. * 1311-3 à R. * 1311-14.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-84 2002-01-16 art. 18
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 18 (Ab)
 
 	**Cité par**:
@@ -25494,27 +24848,46 @@ sécurité civile ;
 	  - Code de la défense. - art. R*1671-1 (M)
 	  - Code de la santé publique - art. R1435-8 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-3
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-17 (VD)
 
 
 ###### Article R*1311-27
 
-Lorsqu'un événement nécessite la gestion simultanée de moyens en mer et à terre, le préfet de zone délègue au sein de l'état-
-major du préfet maritime un ou plusieurs membres de l'état-major de zone et le préfet maritime délègue un ou plusieurs de ses
-subordonnés au sein de l'état-major de zone.
+Lorsqu'un événement nécessite la gestion simultanée de moyens en mer et à terre, le  préfet de zone et de sécurité délègue au
+sein de l'état-major du préfet maritime un ou plusieurs membres de l'état-major de zone et le préfet maritime délègue un ou
+plusieurs de ses subordonnés au sein de l'état-major de zone.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-84 2002-01-16 art. 19
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-18 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -25523,25 +24896,33 @@ subordonnés au sein de l'état-major de zone.
 
 ###### Article R*1311-28
 
-Des arrêtés conjoints du ministre de la défense, du ministre de l'intérieur et, le cas échéant, du ou des ministres
-intéressés fixent les conditions dans lesquelles des personnels civils et militaires sont mis à la disposition du préfet de
-zone en vue d'assurer le fonctionnement de l'état-major de zone.
+Le Premier ministre arrête les conditions dans lesquelles des personnels civils et militaires des ministères de l'intérieur,
+de la défense, de la santé, de l'économie, de l'industrie, du budget, de l'agriculture, des transports, de l'environnement,
+de l'énergie et de l'aménagement du territoire sont mis à la disposition du préfet de zone de défense et de sécurité en vue
+d'assurer le fonctionnement de l'état-major interministériel de zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-84 2002-01-16 art. 20
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 16
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R*1311-29 (VD)
 	  - Code de la défense. - art. R*1671-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-19 (VD)
 
 
 ##### Sous-section 8 : Dispositions particulières à la zone de défense de Paris
@@ -25550,41 +24931,61 @@ zone en vue d'assurer le fonctionnement de l'état-major de zone.
 
 I.-Dans la zone de défense de Paris, les attributions du préfet de zone sont exercées par le préfet de police. 
 
-II.-Les dispositions des articles R. * 1311-21 et R. * 1311-23 ne sont pas applicables à la zone de défense de Paris. 
+II.-Les dispositions des articles R. * 1311-21, du III de l'article R. 1311-22-1, ainsi que l'article R. 1311-23, le I de
+l'article R. 1311-24-1 et l'article R. 1311-26 ne sont pas applicables à la zone de défense et de sécurité de Paris. 
 
-III.-Le préfet de la zone de défense de Paris dispose d'un secrétariat général de zone de défense, placé sous l'autorité d'un
-préfet qui porte le titre de secrétaire général de zone. 
+III.-Le préfet de la zone de défense et de sécurité de Paris dispose d'un secrétariat général de zone de défense et de
+sécurité, placé sous l'autorité d'un préfet qui porte le titre de secrétaire général de zone de défense et de sécurité. Dans
+les matières relevant du champ de la sécurité civile, de la sécurité économique et de la sécurité des secteurs et
+installations d'importance vitale, les attributions dévolues à l'état-major interministériel de zone de défense et de
+sécurité sont exercées par le secrétariat général de zone de défense et de sécurité, auquel sont applicables les dispositions
+de l'article R. 1311-28. Il est également chargé de l'organisation des exercices zonaux. 
 
-Les attributions dévolues à l'état-major de zone mentionné à l'article R. * 1311-26 sont exercées par le secrétariat général
-de zone de défense, auquel sont applicables les dispositions de l'article R. * 1311-28. 
+Pour les autres matières concourant à la sécurité nationale, les attributions dévolues à l'état-major interministériel de
+zone de défense et de sécurité sont exercées par des directions et services de la préfecture de police. 
 
-IV.-Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone de défense de
-Paris dispose d'un secrétariat général pour l'administration de la police dans des conditions fixées par décret en Conseil
-d'Etat sans préjudice des compétences dévolues au préfet des Yvelines pour ce qui concerne le secrétariat général pour
-l'administration de la police de Versailles.
+IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité de Paris, les mots : " le
+préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le préfet secrétaire général de la zone de
+défense et de sécurité, le préfet secrétaire général pour l'administration de la préfecture de police ".
+
+V.-Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone de défense et de
+sécurité de Paris dispose des secrétariats généraux pour l'administration de la police de Paris et de Versailles dans des
+conditions fixées par décret en Conseil d'Etat. 
+
+VI.-Le préfet de police, préfet de la zone de défense et de sécurité de Paris coordonne, par ses orientations, l'action des
+préfets des départements d'Ile-de-France dans l'exercice des pouvoirs de police de la circulation et du stationnement sur les
+routes dont la liste est fixée par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-84 2002-01-16 art. 21
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 17
 
 	**Cité par**:
 
 	  - Arrêté du 23 juin 2010 - art. 1 (V)
 	  - Arrêté du 23 juin 2010 - art. Annexe (V)
 
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-39 (VD)
+	  - Code de la sécurité intérieure - art. R*122-40 (VD)
+	  - Code de la sécurité intérieure - art. R*122-41 (VD)
+	  - Code de la sécurité intérieure - art. R*122-42 (VD)
+
 	**Cite**:
 
-	  - Code de la défense. - art. R*1311-21 (V)
-	  - Code de la défense. - art. R*1311-23 (V)
-	  - Code de la défense. - art. R*1311-26 (V)
-	  - Code de la défense. - art. R*1311-28 (V)
+	  - Code de la défense. - art. R*1311-21
+	  - Code de la défense. - art. R*1311-23
+	  - Code de la défense. - art. R*1311-26
+	  - Code de la défense. - art. R*1311-28
+	  - Code de la défense. - art. R1311-22-1
+	  - Code de la défense. - art. R1311-24-1
 
 
 ##### Section 3 : Préfets de région
@@ -25627,22 +25028,23 @@ Sous l'autorité du préfet de zone, le préfet de région contribue à la prép
 intéressant la défense économique dans la région. A ce titre, il dispose d'une commission régionale de défense économique
 dont la composition et les missions sont définies par arrêté interministériel.
 
-Le trésorier-payeur général de région est le conseiller permanent du préfet de région pour les questions économiques
-intéressant la défense.
+Le directeur régional des finances publiques est le conseiller permanent du préfet de région pour les questions économiques
+intéressant la défense et la sécurité nationale. En matière de sécurité économique, il exerce ces fonctions conjointement
+avec le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
-Le préfet de région ou, en son absence, le trésorier-payeur général de région préside la commission régionale de défense
-économique.
+Le préfet de région ou, en son absence, le directeur régional des finances publiques préside la commission régionale de
+défense économique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°83-321 du 20 avril 1983 - art. 12 (M)
 	  - Décret n°83-321 du 20 avril 1983 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 18
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
 
 
 ###### Article R*1311-32
@@ -25705,18 +25107,17 @@ Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les cond
 ###### Article R*1311-34
 
 Le préfet est chargé de la préparation et de l'exécution des mesures non militaires de défense, notamment du plan général de
-protection et des plans de secours.
+protection et du dispositif opérationnel ORSEC.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°83-321 1983-04-20 art. 4 (première phrase)
 	  - Décret n°83-321 du 20 avril 1983 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 19
 
 	**Cité par**:
 
@@ -25727,12 +25128,10 @@ protection et des plans de secours.
 
 1° Le préfet concourt à la liberté d'action des forces armées et contribue à leur soutien.
 
-2° Le préfet, l'officier général de zone de défense, le général commandant la région terre, le général commandant la région
-aérienne, le général commandant la région de gendarmerie et, s'il y a lieu, l'amiral commandant la région maritime coopèrent
-à l'élaboration et à la mise en oeuvre des mesures de défense, notamment lors de l'établissement du plan général de
-protection et des plans de défense. Ils se tiennent informés en permanence des questions d'intérêt commun.
-
-Ils s'assurent en tant que de besoin du concours du commandant du groupement de gendarmerie départementale.
+2° Le préfet, l'officier général de zone de défense, le général commandant la région terre, le général commandant la défense
+aérienne et les opérations aériennes, le général commandant la région de gendarmerie et, s'il y a lieu, l'amiral commandant
+la région maritime coopèrent à l'élaboration et à la mise en oeuvre des mesures de défense, notamment lors de l'établissement
+du plan général de protection et des plans de défense. Ils se tiennent informés en permanence des questions d'intérêt commun.
 
 3° Le préfet, pour l'exercice de ses responsabilités de défense de caractère non militaire, peut demander le concours des
 forces armées ou les requérir.
@@ -25741,12 +25140,11 @@ forces armées ou les requérir.
 
 	**Anciens textes**:
 
-	  - Décret n°83-321 1983-04-20 art. 5 al. 1 à 3 et 5
 	  - Décret n°83-321 du 20 avril 1983 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 20
 
 	**Cité par**:
 
@@ -25762,8 +25160,9 @@ collectifs.
 
 Le préfet, qui dispose en tant que de besoin des services des collectivités territoriales, reçoit, sur sa demande, du
 président du conseil général et des maires toutes informations qu'il estime nécessaires à l'exercice de ses attributions de
-défense. Il est seul habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations non
-militaires de défense imposées aux collectivités territoriales, à leurs groupements et à leurs établissements publics.
+défense. Il est seul habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations
+liées à la sécurité nationale imposées aux collectivités territoriales, à leurs groupements et à leurs établissements
+publics.
 
 **Liens relatifs à cet article**
 
@@ -25771,9 +25170,9 @@ militaires de défense imposées aux collectivités territoriales, à leurs grou
 
 	  - Décret n°83-321 du 20 avril 1983 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 21
 
 	**Cité par**:
 
@@ -25785,24 +25184,24 @@ militaires de défense imposées aux collectivités territoriales, à leurs grou
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1111-7 (M)
+	  - Code général des collectivités territoriales - art. L1111-7
 
 
 ###### Article R*1311-37
 
 1° Le préfet exerce en matière de défense son autorité directe sur tous les chefs des services déconcentrés des
 administrations civiles ainsi que sur les délégués ou correspondants de ces administrations. Les établissements publics et
-autres organismes publics de l'Etat l'informent de tout ce qui peut concerner la défense dans le département.
+autres organismes publics de l'Etat l'informent de tout ce qui peut concerner la défense dans le département. 
 
-2° Le trésorier-payeur général du département est le conseiller permanent du préfet pour les questions économiques
-intéressant la défense.
+2° Le directeur départemental des finances publiques  est le conseiller permanent du préfet pour les questions économiques
+intéressant la défense. 
 
-3° Le préfet ou, à défaut, le suppléant qu'il désigne préside les commissions compétentes en matière de défense de caractère
-non militaire, à l'exception de celles dont la présidence est confiée statutairement à un magistrat de l'ordre judiciaire ou
-à un membre d'une juridiction administrative.
+3° Le préfet ou, à défaut, le suppléant qu'il désigne préside les commissions compétentes en matière de    sécurité
+nationale , à l'exception de celles dont la présidence est confiée statutairement à un magistrat de l'ordre judiciaire ou à
+un membre d'une juridiction administrative. 
 
-4° Le sous-préfet coordonne sous l'autorité du préfet l'élaboration et l'exécution des mesures de défense de caractère non
-militaire dans son arrondissement.
+4° Le sous-préfet coordonne sous l'autorité du préfet l'élaboration et l'exécution des mesures de    sécurité nationale  dans
+son arrondissement.
 
 **Liens relatifs à cet article**
 
@@ -25810,13 +25209,13 @@ militaire dans son arrondissement.
 
 	  - Décret n°83-321 du 20 avril 1983 - art. 7 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
 	**Cité par**:
 
 	  - Décret n°2009-707 du 16 juin 2009 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
 
 
 ###### Article R*1311-38
@@ -25835,6 +25234,18 @@ département en ce domaine.
 	**Codifié par**:
 
 	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+
+###### Article R1311-38-1
+
+En cas de crise ou d'événement d'une particulière gravité constaté par arrêté du ministre de l'intérieur, les attributions
+dévolues au représentant de l'Etat sont exercées, dans le département de Paris, par le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 22
 
 
 ##### Section 5 : Secteurs de sécurité des installations prioritaires de défense
@@ -25973,13 +25384,931 @@ transfert est opéré.
 	  - Code de la défense. - art. R*1311-42 (V)
 
 
-##### Chapitre II : Délégués et correspondants de zone de défense
+##### Chapitre Ier : Pouvoirs des préfets en matière de sécurité nationale
+
+##### Section 1 : Dispositions générales
+
+##### Section 2 : Préfets de zone et de sécurité
+
+##### Sous-section 2 : Pouvoirs du préfet de zone et de sécurité en matière de sécurité nationale
+
+###### Article R*1311-3
+
+Sous l'autorité du Premier ministre et de chacun des ministres, et dans le respect des compétences des préfets de
+département, le préfet de zone de défense et de sécurité est responsable de la préparation et de l'exécution des mesures de
+sécurité nationale au sein de la zone de défense et de sécurité.
+
+A cet effet : 
+
+1° Il définit les orientations et les priorités d'action, sur la base de l'analyse préalable des risques et des effets
+potentiels des menaces susceptibles de concerner la zone de défense et de sécurité. Pour cette analyse, il peut bénéficier du
+concours de l'officier général de la zone de défense et de sécurité ; 
+
+2° Il transpose au niveau zonal l'ensemble de la planification interministérielle de sécurité nationale et s'assure de sa
+transposition au niveau départemental ; 
+
+3° Il met en œuvre, au niveau zonal, la politique nationale d'exercices en veillant à leur programmation pluriannuelle et à
+leur exécution, et en organisant des exercices zonaux ; 
+
+4° Il organise la veille opérationnelle zonale par le centre opérationnel de zone situé au sein de l'état-major de zone et la
+remontée de l'information vers le niveau national ; 
+
+5° Il assure la coordination des actions dans le domaine de la sécurité civile.
+
+A ce titre : 
+
+a) Il prépare l'ensemble des mesures de prévention, de protection et de secours qu'exige la sauvegarde des personnes, des
+biens et de l'environnement dans le cadre de la zone de défense et de sécurité ; 
+
+b) Il arrête le plan ORSEC de zone dans les conditions définies par le décret n° 2005-1157 du 13 septembre 2005 et s'assure
+de la cohérence des dispositifs opérationnels ORSEC départementaux ; 
+
+c) Il assure le suivi de la mise en œuvre des politiques nationales de sécurité civile dans la zone de défense et de
+sécurité. Dans ce cadre, sous réserve des compétences des préfets de département, il veille en particulier à la
+complémentarité des moyens des services départementaux d'incendie et de secours de la zone de défense et de sécurité pour
+faire face à des événements exceptionnels susceptibles de dépasser le cadre d'un département. Il fait appel aux moyens
+publics et privés à l'échelon de la zone et les réquisitionne en tant que de besoin ; 
+
+d) Il coordonne la formation des sapeurs-pompiers dans le cadre des priorités fixées au plan départemental ; 
+
+6° Il s'assure de la permanence et de la sécurité des liaisons de communication gouvernementale ; 
+
+7° Il est responsable de la coordination avec les autorités militaires des mesures de défense et de sécurité nationale.
+
+A ce titre : 
+
+a) Il fixe à l'officier général de zone de défense et de sécurité les objectifs à atteindre en matière de sécurité nationale,
+dans le respect des prérogatives du chef d'état-major des armées ; 
+
+b) Il s'assure de la cohérence entre les plans qui relèvent de sa compétence et les plans militaires de défense ; 
+
+c) Il signe les protocoles d'accord relatifs aux demandes de concours établis conjointement avec l'autorité militaire à
+l'échelon de la zone de défense et de sécurité ; 
+
+d) Il assure la répartition, sur le territoire de la zone de défense et de sécurité, des moyens des services chargés de la
+sécurité intérieure et de la sécurité civile et des moyens des armées mis à disposition par voie de réquisition ou de
+concours ; 
+
+8° Il coordonne la préparation des mesures concourant à la sécurité nationale avec les préfets maritimes et le commandant de
+la défense aérienne et des opérations aériennes ; 
+
+9° Il anime et coordonne la politique de coopération transfrontalière de sécurité nationale ; 
+
+10° Il veille à la continuité des relations de l'Etat avec les opérateurs d'importance vitale ainsi qu'avec les responsables
+des établissements et organismes publics et les opérateurs chargés d'une mission de service public qui concourent à la
+sécurité nationale ; 
+
+11° Il assure la coordination des mesures d'information et de circulation routière dans sa zone.
+
+A ce titre : 
+
+a) Il arrête et met en œuvre les plans de gestion du trafic dépassant le cadre d'un département ; 
+
+b) Il coordonne la mise en œuvre des mesures de gestion du trafic et d'information routière ainsi que des plans
+départementaux de contrôle routier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2005-1157 du 13 septembre 2005
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-26 (VT)
+	  - Code de la défense. - art. R*1422-1 (VD)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1641-1-1 (V)
+	  - Code de la défense. - art. R*1651-2 (V)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1661-2 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-4 (VD)
+
+
+###### Article R*1311-4
+
+Le préfet de zone de défense et de sécurité dirige l'action des préfets de région et de département en ce qui concerne la
+préparation et la mise en œuvre des mesures relatives à la sécurité intérieure et à la sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+
+
+###### Article R*1311-5
+
+Le  préfet de zone et de sécurité dirige l'action des préfets de région et de département en matière de prévention, de
+préparation et de mise en oeuvre des mesures intéressant la défense économique. Il contrôle l'exercice des attributions qui
+leur sont respectivement dévolues par les articles R. * 1311-30 et R. * 1311-36. 
+
+Il élabore et arrête les plans relatifs à la coopération avec les entreprises dans les cas de crise ainsi que les mesures
+relatives à l'emploi des ressources et à l'utilisation des infrastructures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-6 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-30
+	  - Code de la défense. - art. R*1311-36
+
+
+###### Article R*1311-6
+
+Le Premier ministre prévoit par lettre de mission accompagnée des délégations de signature des ministres concernés
+l'extension des pouvoirs des préfets de zone dans les circonstances mettant en cause la sûreté de l'Etat sur tout ou partie
+du territoire. 
+
+Cette extension est arrêtée par le Premier ministre. Elle peut porter sur les matières suivantes : 
+
+1° Autorité hiérarchique en toute matière sur les préfets en fonctions dans la zone ; 
+
+2° Contrôle supérieur et coordination générale de tous les personnels, services et établissements ou institutions civils de
+l'Etat hormis ceux qui ont un caractère juridictionnel ; 
+
+3° Pouvoir de suspension en cas de faute grave des fonctionnaires, employés et ouvriers de toutes administrations civiles
+exerçant dans la zone hormis les magistrats de l'ordre judiciaire ou les membres des juridictions administratives ; 
+
+4° Autorité sur l'ensemble des moyens de la police nationale et des moyens de police des collectivités territoriales ; 
+
+5° Réquisition des forces armées de première, deuxième et troisième catégorie, définies à l'article D. 1321-6 ; 
+
+6° Réquisition des services, des personnes et des biens ; 
+
+7° Disposition des services des collectivités territoriales comprises dans la zone de défense ainsi que de ceux de leurs
+groupements et de leurs établissements publics, en application de l'article L. 1111-7 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 17 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-7
+	  - Code de la défense. - art. D1321-6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1651-2 (V)
+	  - Code de la défense. - art. R*1661-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-7 (VD)
+
+
+##### Sous-section 3 : Pouvoirs du préfet de zone et de sécurité en cas de crise ou d'événements d'une particulière gravité
+
+###### Article R*1311-7
+
+Le préfet de zone prend les mesures de coordination nécessaires lorsque intervient une situation de crise ou que se
+développent des événements d'une particulière gravité, quelle qu'en soit l'origine, de nature à menacer des vies humaines, à
+compromettre la sécurité ou la libre circulation des personnes et des biens ou à porter atteinte à l'environnement, et que
+cette situation ou ces événements peuvent avoir des effets dépassant ou susceptibles de dépasser le cadre d'un département.
+Il prend les mesures de police administrative nécessaires à l'exercice de ce pouvoir.
+
+Il fait appel aux moyens publics ou privés à l'échelon de la zone et les réquisitionne en tant que de besoin.
+
+Il peut mettre à disposition d'un ou de plusieurs préfets de département de la zone les moyens de l'Etat existant dans la
+zone.
+
+Il assure la répartition des moyens extérieurs à la zone de défense et de sécurité qui lui ont été alloués par le ministre de
+l'intérieur. 
+
+Il met en œuvre les mesures opérationnelles décidées par le ministre de l'intérieur pour les moyens de sécurité civile
+extérieurs à sa zone de compétence. 
+
+Il détermine et arrête les priorités dans le rétablissement des liaisons gouvernementales sur l'ensemble de la zone de
+défense et de sécurité. 
+
+Il est chargé de coordonner la communication de l'Etat pour les crises dont l'ampleur dépasse le cadre du département. 
+
+Lorsque des opérations terrestres liées à une pollution maritime sont engagées, le préfet de zone de défense et de sécurité,
+dans le respect des compétences des préfets de département, établit la synthèse des informations, coordonne l'action à terre
+et s'assure de la cohérence des actions terrestres et des actions maritimes. Il dispose des moyens spécialisés du plan
+POLMAR-Terre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2014 - art. 5 (Ab)
+	  - Code de la défense. - art. R*1311-8 (VT)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la santé publique - art. R1435-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-8 (VD)
+
+
+###### Article R*1311-8
+
+Lorsque la situation ou les événements mentionnés à l'article R. * 1311-7 affectent plusieurs zones de défense et entraînent
+des atteintes ou des menaces graves à l'ordre public, le ministre de l'intérieur peut désigner l'un des  préfets de zone et
+de sécurité  afin de prendre les mesures de coordination prévues au même article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-9 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-7
+
+
+##### Sous-section 4 : Autres pouvoirs du préfet de zone et de sécurité
+
+###### Article R*1311-12
+
+Les  préfets de zone et de sécurité  coordonnent l'action des préfets des départements de leur zone pour prévenir les
+événements troublant l'ordre public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette
+même zone.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 9-1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1671-1 (M)
+
+
+###### Article R*1311-13
+
+I. - Le préfet de zone de défense et de sécurité procède à la répartition, entre les préfets de département qui lui adressent
+des demandes de renfort, des unités mobiles de police et de gendarmerie implantées sur le territoire de la zone de défense et
+de sécurité. 
+
+Toutefois, le ministre de l'intérieur procède à la répartition des unités mobiles qu'il affecte à un emploi national et,
+lorsqu'un événement particulier le justifie, procède à la répartition de l'ensemble des unités mobiles. 
+
+Pour les besoins des services d'ordre et du maintien de l'ordre lorsque toutes les unités mobiles présentes dans la zone ne
+suffisent pas à assurer ces missions, le ministre de l'intérieur peut accorder des unités supplémentaires au préfet de zone
+de défense et de sécurité, qui les répartit entre les préfets de département. 
+
+II. - Lorsque la situation l'exige et à la demande d'un préfet de département, le préfet de zone de défense et de sécurité
+peut mettre à la disposition de celui-ci, afin de maintenir ou rétablir l'ordre public et pour une mission et une durée
+déterminées, des effectifs et des moyens de police ou de gendarmerie relevant d'un autre département de la zone de défense et
+de sécurité. 
+
+Le préfet de zone de défense et de sécurité informe sans délai les préfets de département de toute mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1611-1 (V)
+
+
+###### Article R*1311-14
+
+Les demandes de concours de moyens militaires émanant des préfets de département sont adressées au préfet de zone et de
+sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 11 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1671-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-12 (VD)
+
+
+##### Sous-section 5 : Préfet délégué pour la défense et la sécurité auprès du préfet de zone de défense et de sécurité
+
+###### Article R1311-15
+
+Le préfet délégué pour la sécurité et la défense assiste le préfet de zone de défense et de sécurité pour toutes les missions
+concourant à la sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+	  - Décret n°2010-225 du 4 mars 2010 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-13 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1611-4 (V)
+	  - Code de la défense. - art. R1621-2 (V)
+
+
+###### Article R1311-16
+
+Sous l'autorité du préfet de zone de défense et de sécurité, le préfet délégué pour la défense et la sécurité assure la
+direction de l'état-major interministériel de zone de défense et de sécurité, du service de zone des systèmes d'information
+et de communication, du secrétariat général pour l'administration de la police et du centre régional d'information et de
+coordination routière. 
+
+A cet effet, il est assisté d'un chef d'état-major de zone, d'un chef de service de zone des systèmes d'information et de
+communication, du responsable du centre régional d'information et de coordination routière et, le cas échéant, d'un
+secrétaire général adjoint pour l'administration de la police. 
+
+Sous l'autorité du préfet de zone de défense et de sécurité, il dirige l'action des délégués de zone de défense et de
+sécurité et coordonne l'action des correspondants de zone de défense et de sécurité désignés dans les conditions définies aux
+articles R. 1312-1 à R. 1312-6, afin qu'ils apportent leur concours à l'exercice des missions attribuées au préfet de zone de
+défense et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-14 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1312-1
+
+
+###### Article R1311-17
+
+Le préfet de zone de défense et de sécurité peut donner délégation de signature au préfet délégué pour la défense et la
+sécurité ainsi qu'aux agents placés sous l'autorité de ce dernier pour les matières de sa compétence concernant la sécurité
+nationale ou relevant de l'état-major de zone, du secrétariat général pour l'administration de la police, du centre régional
+d'information et de coordination routière ou du service de zone des systèmes d'information et de communication.
+
+Il peut également donner délégation de signature, pour les matières relevant de sa compétence concernant la sécurité
+nationale, au général commandant la gendarmerie pour la zone de défense et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-15 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+
+###### Article R1311-18
+
+Dans le département où se trouve le chef-lieu d'une zone de défense, le préfet peut donner délégation de signature au préfet
+délégué pour la défense et la sécurité en toute matière relevant de la sécurité nationale ainsi qu'en d'autres matières, le
+cas échéant. A cet effet, le préfet délégué pour la défense et la sécurité peut disposer notamment du service
+interministériel de défense et de protection civiles. 
+
+Le préfet de zone de défense et de sécurité, préfet du département chef-lieu, peut également confier au préfet délégué pour
+la défense et la sécurité l'exercice d'attributions en matière d'ordre public et de coordination des forces participant à la
+sécurité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+	  - Décret n°2010-225 du 4 mars 2010 - art. 5
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-16 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+
+###### Article R1311-19
+
+Le préfet délégué pour la défense et la sécurité placé auprès du préfet de la zone Sud est également chargé des fonctions de
+préfet chargé de la protection de la forêt méditerranéenne dans les conditions fixées par le décret n° 92-824 du 21 août 1992
+portant définition de l'emploi de préfet chargé de la protection de la forêt méditerranéenne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°92-824 du 21 août 1992
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+
+###### Article R1311-20
+
+Les dispositions de la présente sous-section ne s'appliquent pas aux zones de défense de Paris, des Antilles, de la Guyane et
+du sud de l'océan Indien.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-917 du 30 mai 2002 - art. 6, v. init.
+	  - Décret n°2002-917 du 30 mai 2002 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+
+##### Sous-section 6 : Autorités et services de l'Etat assistant le préfet de zone et de sécurité
+
+###### Article R*1311-21
+
+Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone dispose d'un
+secrétariat général pour l'administration de la police.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 13 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 40 (V)
+	  - Code de la défense. - art. R*1311-29 (V)
+	  - Code de la défense. - art. R*1611-1 (V)
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-30 (VD)
+
+
+###### Article R*1311-22
+
+Pour les compétences exercées à l'échelon de la zone, le  préfet de zone et de sécurité a seul qualité pour recevoir les
+délégations de signature des ministres chargés des administrations civiles de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 14 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1671-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-32 (VD)
+
+
+###### Article R*1311-23
+
+En cas d'absence ou d'empêchement du préfet de zone de défense et de sécurité, sa suppléance est exercée par le préfet
+délégué pour la défense et la sécurité ou, si tel n'est pas le cas, par l'un des préfets de région de la zone de défense et
+de sécurité, désigné par arrêté du préfet de zone de défense et de sécurité. 
+
+En cas d'absence momentanée du poste de préfet de zone de défense et de sécurité, l'intérim est assuré par le préfet délégué
+pour la défense et la sécurité ou, à défaut, par le préfet de région du rang le plus élevé en fonction dans la zone de
+défense et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 15 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 11
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-36 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-25-1 (V)
+	  - Code de la défense. - art. R*1311-29 (VD)
+
+
+###### Article R*1311-24
+
+Le préfet de zone de défense et de sécurité dirige l'action des délégués de zone de défense et de sécurité des services
+déconcentrés de l'Etat en ce qui concerne la préparation et la mise en œuvre des mesures relatives à la sécurité nationale. 
+
+Le préfet de zone de défense et de sécurité coordonne l'action des correspondants de zone de défense et de sécurité afin
+qu'ils apportent leur concours à l'exercice de ses missions. 
+
+Le directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone de défense et de
+sécurité est le conseiller du préfet de zone pour les questions de sécurité économique, de continuité de l'activité
+économique, de protection des intérêts économiques de la nation au niveau zonal. En matière de sécurité économique, il exerce
+cette fonction conjointement avec le directeur régional des entreprises, de la concurrence, de la consommation, du travail et
+de l'emploi.
+
+L'officier général de zone de défense et de sécurité est le conseiller du préfet de zone de défense et de sécurité en matière
+d'emploi des armées dans le domaine de la sécurité nationale. 
+
+Le directeur départemental de la sécurité publique du département chef-lieu de zone et le général commandant la gendarmerie
+pour la zone de défense et de sécurité assistent le préfet de zone de défense et de sécurité pour ce qui concerne la
+participation des services de sécurité publique et de gendarmerie présents sur le territoire de la zone de défense et de
+sécurité aux missions qui lui sont dévolues. 
+
+Le recteur de l'académie chef-lieu de la zone de défense et de sécurité est le conseiller du préfet de zone de défense et de
+sécurité pour ce qui concerne les questions impliquant l'éducation nationale dans la sécurité nationale. 
+
+Les responsables régionaux des services déconcentrés des ministères chargés de l'environnement, des transports, de l'énergie
+et de l'industrie sont, chacun pour ce qui le concerne, les conseillers du préfet de zone de défense et de sécurité
+s'agissant des risques naturels et technologiques, de transports, de production et d'approvisionnement énergétiques ainsi que
+d'infrastructures, notamment de télécommunications. 
+
+Le directeur général de l'agence régionale de santé de zone assiste le préfet de zone de défense et de sécurité dans les
+conditions fixées à l'article L. 1435-2 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 16 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 12
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1611-2 (V)
+	  - Code de la défense. - art. R*1631-2 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1671-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-21 (VD)
+	  - Code de la sécurité intérieure - art. R122-27 (VD)
+	  - Code de la sécurité intérieure - art. R122-37 (VD)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1435-2
+
+
+###### Article R*1311-25
+
+Le préfet de zone préside le comité de défense de zone.
+
+Ce comité comprend le préfet délégué pour la défense et la sécurité, les préfets des départements, le directeur régional des
+finances publiques dont la circonscription comprend le chef-lieu de la zone de défense et de sécurité, l'officier général de
+zone de défense et de sécurité, s'il y a lieu le général commandant la région terre et l'amiral commandant la région
+maritime, le général commandant la défense aérienne et les opérations aériennes, le général commandant la gendarmerie pour la
+zone de défense et de sécurité, le chef d'état-major de zone, le ou les chefs de service de la police nationale désignés à
+cet effet par le préfet de zone de défense et de sécurité, les délégués de zone de défense et de sécurité représentant les
+services déconcentrés des ministères et le directeur général de l'agence régionale de santé de zone.
+
+Le préfet de zone de défense et de sécurité peut également associer aux travaux du comité, en tant que de besoin, les chefs
+des services déconcentrés de l'Etat, les commandants de région et de groupement de gendarmerie, le ou les directeurs
+départementaux des services d'incendie et de secours intéressés et, le cas échéant, les représentants des collectivités
+territoriales.
+
+Le comité de défense de zone peut se réunir dans une formation restreinte de commission de défense économique dont la
+composition est arrêtée par le préfet de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est présidée
+par le trésorier-payeur général dont la circonscription comprend le chef-lieu de la zone.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 17 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 14
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1611-2 (V)
+	  - Code de la défense. - art. R*1631-2 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1641-1-1 (V)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1651-2 (V)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1661-2 (V)
+	  - Code de la défense. - art. R*1671-2 (V)
+	  - Code de la santé publique - art. R3131-8-2 (Ab)
+
+
+###### Article R1311-21-1
+
+Le préfet de zone de défense et de sécurité a autorité sur : 
+
+1° Le secrétaire général pour l'administration de la police ; 
+
+2° Le responsable du service de zone des systèmes d'information et de communication ; 
+
+3° Le chef de l'état-major de zone de défense et de sécurité ; 
+
+4° Le responsable du centre régional d'information et de coordination routière implanté dans la zone.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-31 (VD)
+
+
+###### Article R1311-22-1
+
+I.-Le préfet de zone de défense et de sécurité est l'ordonnateur secondaire des services déconcentrés des administrations
+civiles de l'Etat à compétence zonale. 
+
+II.-Il est ordonnateur secondaire, dans son ressort, pour les formations de la gendarmerie nationale, sans préjudice des
+habilitations conférées à d'autres ordonnateurs secondaires par arrêté. 
+
+III.-Il peut donner délégation de signature, en ce qui concerne les attributions qui lui sont confiées aux I et II, au préfet
+délégué pour la défense et la sécurité, au général commandant la gendarmerie pour la zone de défense et de sécurité ou, dans
+les zones de défense et de sécurité mentionnées à l'article R. 1681-2, au secrétaire général de la préfecture ou du haut-
+commissariat. 
+
+Le préfet délégué pour la défense et la sécurité, le général commandant la gendarmerie pour la zone de défense et de sécurité
+et, dans les zones de défense et de sécurité visées à l'article R. 1681-2, le secrétaire général de la préfecture ou du haut-
+commissariat peuvent donner délégation pour signer les actes relatifs aux affaires pour lesquelles ils ont eux-mêmes reçu
+délégation aux agents placés sous leur autorité. 
+
+Le préfet de zone de défense et de sécurité peut, par arrêté, mettre fin à tout ou partie de cette délégation. Il peut
+également fixer, par arrêté, la liste des compétences qu'il souhaite exclure de la délégation que peuvent consentir le préfet
+délégué pour la défense et la sécurité, le général commandant la gendarmerie pour la zone de défense et de sécurité et, dans
+les zones de défense et de sécurité mentionnées à l'article R. 1681-2, le secrétaire général de la préfecture ou du haut-
+commissariat aux agents placés sous leur autorité.
+
+**Nota:**
+
+Décret 2010-224 article 38 : les dispositions du II de l'article R. 1311-22-1 du code de la défense entrent en vigueur le 1er
+janvier 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-25-1 (V)
+	  - Code de la défense. - art. R*1311-29 (VD)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1681-2
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-33 (VD)
+	  - Code de la sécurité intérieure - art. R122-34 (VD)
+	  - Code de la sécurité intérieure - art. R122-35 (VD)
+
+
+###### Article R1311-24-1
+
+I. - Pour l'exercice de ses missions en matière de sécurité civile, un officier supérieur de sapeurs-pompiers est placé
+auprès du préfet de zone de défense et de sécurité. 
+
+II. - Pour l'exercice des missions mentionnées au I, le préfet de zone de défense et de sécurité s'appuie notamment, dans le
+respect des compétences des préfets de département, sur les services départementaux d'incendie et de secours de la zone de
+défense et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 13
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-29 (VD)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-28 (VD)
+	  - Code de la sécurité intérieure - art. R122-29 (VD)
+
+
+##### Sous-section 7 : Etat-major de zone
+
+##### Sous-section 8 : Dispositions particulières à la zone de défense de Paris
+
+##### Section 3 : Préfets de région
+
+##### Section 4 : Préfets de département
+
+##### Section 5 : Secteurs de sécurité des installations prioritaires de défense
+
+##### Chapitre II : Délégués et correspondants de zone de défense et de sécurité.
 
 ###### Article R1312-1
 
-Pour chaque département ministériel, un arrêté du ministre concerné détermine, pour chacune des zones de défense, le chef de
-service ou le fonctionnaire ayant la qualité de délégué de zone chargé de préparer les mesures de défense qui relèvent de sa
-responsabilité.
+Pour chaque département ministériel, un arrêté du ministre concerné détermine, pour chacune des zones de défense et de
+sécurité, le chef de service ou le fonctionnaire ayant la qualité de délégué de zone chargé de préparer les mesures de
+défense et de sécurité nationale qui relèvent de sa responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -26002,17 +26331,17 @@ responsabilité.
 	  - Code de la défense. - art. R1641-2 (M)
 	  - Code de la défense. - art. R1651-3 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
 
 
 ###### Article R1312-2
 
-Sous l'autorité du préfet de zone et dans le cadre de ses directives, le délégué de zone recueille, auprès des services
-déconcentrés, des services publics et organismes rattachés relevant de son ministère et implantés dans la zone de défense,
-les informations indispensables à sa mission, en assure la synthèse et prépare les mesures de défense non militaire
-susceptibles d'être mises en oeuvre par le préfet de zone.
+Sous l'autorité du préfet de zone de défense et de sécurité et dans le cadre de ses directives, le délégué de zone recueille,
+auprès des services déconcentrés, des services publics et organismes rattachés relevant de son ministère et implantés dans la
+zone de défense et de sécurité, les informations indispensables à sa mission, en assure la synthèse et prépare les mesures de
+sécurité nationale susceptibles d'être mises en oeuvre par le préfet de zone de défense et de sécurité.
 
 Le délégué de zone organise, à cette fin, les concertations nécessaires en accord avec les préfets de région et de
 département de la zone, et, pour la collectivité territoriale de Corse, le préfet de Corse.
@@ -26027,16 +26356,22 @@ département de la zone, et, pour la collectivité territoriale de Corse, le pr�
 
 	  - Arrêté du 23 novembre 2004 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
 ###### Article R1312-3
 
 Par dérogation aux dispositions de l'article R. 1312-1, les fonctions de délégué de zone des services déconcentrés des
-ministères chargés de l'économie, des finances et du budget sont exercées par le trésorier-payeur général du chef-lieu de
-zone.
+ministères chargés de l'économie, des finances et du budget sont exercées par le directeur régional des finances publiques
+dont la circonscription comprend le chef-lieu de la zone de défense et de sécurité. En matière de sécurité économique, il
+exerce ces fonctions conjointement avec le directeur régional des entreprises, de la concurrence, de la consommation, du
+travail et de l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -26044,26 +26379,32 @@ zone.
 
 	  - Décret n°95-523 du 3 mai 1995 - art. 3 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
 	**Cité par**:
 
 	  - Décret n°2010-225 du 4 mars 2010 - art. 27 (V)
 	  - Arrêté du 28 juillet 2010 - art. 1 (V)
 	  - Arrêté du 28 juillet 2010 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
 	**Cite**:
 
-	  - Code de la défense. - art. R1312-1 (V)
+	  - Code de la défense. - art. R1312-1
 
 
 ###### Article R1312-4
 
-Par dérogation aux dispositions de l'article R. 1312-1, les fonctions de délégué de zone du garde des sceaux, ministre de la
-justice, sont exercées par le procureur général près la cour d'appel dont le ressort couvre le chef-lieu de la zone de
-défense.
+Par dérogation aux dispositions de l'article R. 1312-1, les chefs de cour d'appel dont le ressort couvre le chef-lieu de la
+zone de défense et de sécurité exercent les fonctions d'autorités correspondantes du ministre de la justice et des libertés,
+garde des sceaux, auprès du préfet de zone de défense et de sécurité. Ils animent et coordonnent la préparation et la mise en
+œuvre des politiques de défense et de sécurité des activités judiciaires et veillent à leur cohérence avec le dispositif
+zonal.
 
 **Liens relatifs à cet article**
 
@@ -26071,33 +26412,37 @@ défense.
 
 	  - Décret n°95-523 du 3 mai 1995 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1312-1 (V)
+	  - Code de la défense. - art. R1312-1
 
 
 ###### Article R1312-5
 
-Pour l'exécution de sa mission et sans préjudice des attributions du préfet délégué à la sécurité et à la défense ou du sous-
-préfet chargé de la sécurité et de la défense, secrétaire général de zone de défense, le délégué de zone peut recevoir
-délégation de signature du préfet de zone.
+Pour l'exécution de sa mission et sans préjudice des attributions du préfet délégué pour la défense et la sécurité ou du
+sous-préfet chargé de la sécurité et de la défense, secrétaire général de zone de défense et de sécurité, le délégué de zone
+peut recevoir délégation de signature du préfet de zone de défense et de sécurité.
 
 L'arrêté de délégation de signature énumère limitativement les compétences pour lesquelles la délégation mentionnée à
 l'alinéa précédent est accordée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-523 du 3 mai 1995 - art. 5 (Ab)
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 	**Cité par**:
 
@@ -26106,11 +26451,15 @@ l'alinéa précédent est accordée.
 
 ###### Article R1312-6
 
-Après avis favorable du préfet de zone, un correspondant de zone est désigné, en tant que de besoin, par le directeur général
-de chacun des établissements publics et organismes rattachés fonctionnant dans la zone.
+Après avis favorable du préfet de zone de défense et de sécurité, un correspondant de zone est désigné, en tant que de
+besoin, par le directeur général de chacun des établissements publics et organismes rattachés ainsi que par les opérateurs
+chargés d'une mission de service public fonctionnant dans la zone.
 
-Le correspondant de zone apporte au délégué de zone compétent un concours permanent pour la préparation et la mise en oeuvre
-des mesures de défense qui relèvent des attributions et responsabilités de l'établissement ou organisme intéressé.
+Chaque correspondant de zone de défense et de sécurité apporte au délégué de zone de défense et de sécurité représentant le
+département ministériel concerné par l'activité de l'établissement public, de l'organisme rattaché ou de l'opérateur
+considéré, en tant que de besoin, son concours pour la préparation et la mise en œuvre des mesures de sécurité nationale qui
+relèvent des attributions, des responsabilités et de l'activité de l'établissement, de l'organisme ou de l'opérateur
+intéressé.
 
 **Liens relatifs à cet article**
 
@@ -26118,9 +26467,14 @@ des mesures de défense qui relèvent des attributions et responsabilités de l'
 
 	  - Décret n°95-523 du 3 mai 1995 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+	  - Décret n°2010-225 du 4 mars 2010 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
 ##### Chapitre III : Services de défense pour l'équipement et les transports
@@ -26633,10 +26987,10 @@ destinées à remplir en priorité des missions de sûreté afin d'en décharger
 
 ###### Article R*1321-1
 
-Une coopération étroite est assurée entre les préfets de zones, de régions et de départements et les autorités militaires
-correspondantes afin de concourir au maintien de leur liberté d'action, de les tenir informées des problèmes pouvant avoir
-une incidence d'ordre militaire et de les renseigner sur les moyens militaires susceptibles d'être demandés pour participer
-au maintien de l'ordre public.
+Une coopération étroite est assurée entre les préfets de zones et de sécurité, de régions et de départements et les autorités
+militaires correspondantes afin de concourir au maintien de leur liberté d'action, de les tenir informées des problèmes
+pouvant avoir une incidence d'ordre militaire et de les renseigner sur les moyens militaires susceptibles d'être demandés
+pour participer au maintien de l'ordre public.
 
 **Liens relatifs à cet article**
 
@@ -26644,9 +26998,9 @@ au maintien de l'ordre public.
 
 	  - Décret n°65-28 du 13 janvier 1965 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
 
 	**Cité par**:
 
@@ -27219,6 +27573,32 @@ qui participent de façon directe à la satisfaction des besoins des armées et 
 
 
 ##### Section 2 : Désignation des opérateurs d'importance vitale, des délégués pour la défense et la sécurité et des points d'importance vitale
+
+###### Article D1332-5-1
+
+L'opérateur d'importance vitale communique au préfet de zone de défense et de sécurité dans le ressort de laquelle se trouve
+un ou plusieurs points d'importance vitale qu'il gère, ou à l'officier général de zone de défense et de sécurité pour les
+points dépendant d'opérateurs d'importance vitale relevant du ministère de la défense, le nom de la personne chargée de la
+fonction de délégué pour la défense et la sécurité. Cette personne doit être qualifiée pour connaître des informations
+classifiées dans les conditions prévues à l'article R. 2311-7. 
+
+Ce délégué exerce au niveau zonal les fonctions prévues au deuxième alinéa de l'article R. 1332-5.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 28 (V)
+
+	**Créé par**:
+
+	  - Décret n°2010-225 du 4 mars 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-5
+	  - Code de la défense. - art. R2311-7
+
 
 ###### Article R1332-3
 
@@ -34983,109 +35363,110 @@ navires étrangers dans les eaux territoriales françaises.
 
 ###### Article D1611-6
 
-Pour l'application dans les départements d'outre-mer, l'organisation militaire de la défense, dans les zones de défense des
-Antilles, de la Guyane et du sud de l'océan Indien, est régie par les dispositions des articles D. 1681-7 à D. 1681-16.
+Pour l'application dans les départements d'outre-mer, l'organisation militaire de la défense, dans les  zones de défense et
+de sécurité des Antilles, de la Guyane et du sud de l'océan Indien, est régie par les dispositions des articles D. 1681-7 à
+D. 1681-16.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1681-7 (V)
+	  - Code de la défense. - art. D1681-7
 
 
 ###### Article D1611-7
 
-Pour l'application dans les départements d'outre-mer de la présente partie du code :
+Pour l'application dans les départements d'outre-mer de la présente partie du code : 
 
-1° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+1° La référence à l'officier général de  zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-2° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+2° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-3° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie au siège de la zone de défense.
+3° La référence à l'officier commandant la région de gendarmerie située au siège de la  zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie au siège de la  zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 
 ###### Article R*1611-1
 
 Ne sont pas applicables aux départements d'outre-mer : 
 
-1° Au livre II, les dispositions des articles R. * 1211-4 et R. * 1212-2 à R. * 1212-7 ; 
+1° Au livre II, les dispositions des articles R. * 1211-4 et R. * 1212-2 à R. * 1212-7.
 
-2° Au livre III, les dispositions des articles R*. 1311-11, R. * 1311-13, R. * 1311-21 et du 4° de l'article R. * 1311-26.
+2° (Supprimé).
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 24
 
 	**Cite**:
 
 	  - Code de la défense. - art. R*1211-4 (V)
 	  - Code de la défense. - art. R*1212-2 (V)
-	  - Code de la défense. - art. R*1311-11 (V)
-	  - Code de la défense. - art. R*1311-13 (V)
-	  - Code de la défense. - art. R*1311-21 (V)
-	  - Code de la défense. - art. R*1311-26 (V)
 
 
 ###### Article R*1611-2
 
 Pour l'application du présent code dans les départements d'outre-mer : 
 
-1° Le troisième alinéa de l'article R. * 1311-24 est remplacé par les dispositions suivantes : 
-
-" Les commandants territoriaux de la gendarmerie nationale de la zone de défense assistent le préfet de zone pour ce qui
-concerne la participation de la gendarmerie nationale aux missions dévolues à ce dernier. " 
+1° Au cinquième alinéa de l'article R. 1311-24, les mots : " et le général commandant les forces de gendarmerie " sont
+remplacés par les mots : " et les commandants territoriaux de la gendarmerie nationale de la zone de défense " ; 
 
 2° Le deuxième alinéa de l'article R. * 1311-25 est remplacé par les dispositions suivantes : 
 
-"Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général dont la circonscription comprend
-le chef-lieu de la zone, l'officier général commandant supérieur, s'il y a lieu les commandants des forces, le ou les chefs
-de service de la police nationale et de la gendarmerie nationale désignés à cet effet par le préfet de zone."
+" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
+fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
+général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
+zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
+police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. "
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-84 2002-01-16 art. 23 (al. 2, 4 et 5, ecqc les DOM)
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 23 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 25
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R151-5 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1311-24 (V)
-	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-24
+	  - Code de la défense. - art. R*1311-25
 
 
 ###### Article R*1611-3
 
 Pour leur application dans les départements d'outre-mer, les dispositions des articles R. * 1211-1 à R. * 1211-3 relatifs à
-l'organisation territoriale de la défense sont adaptées par les dispositions des articles R. 1681-2 à R. 1681-6.
+l'organisation territoriale de la défense sont adaptées par les dispositions des articles R. 1681-2 à R. 1681-5.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-224 du 4 mars 2010 - art. 26
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1211-1 (V)
+	  - Code de la défense. - art. R*1211-1
 	  - Code de la défense. - art. R1681-2 (V)
 
 
@@ -35166,21 +35547,23 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon, au livre III, les dispositi
 
 ###### Article D1621-8
 
-Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon :
+Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon : 
 
-1° La référence au département est remplacée par la référence à Saint-Pierre-et-Miquelon ;
+1° La référence au département et la référence à la région sont remplacées par la référence à Saint-Pierre-et-Miquelon ; 
 
-2° La référence au préfet de département est remplacée par la référence au représentant de l'Etat ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au
+représentant de l'Etat ; 
 
-3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
 4° La référence au directeur départemental de l'équipement est remplacée par la référence au directeur de l'équipement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 2
 
 
 ###### Article R*1621-1
@@ -35211,21 +35594,21 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon :
 
 1° Au livre III, les dispositions des articles R. 1311-15 à R. 1311-19, R. 1312-1 à R. 1312-6, R. 1321-19 à R. 1321-24 ; 
 
-2° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-6 et R. 1682-5 à R. 1682-8.
+2° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-5 à R. 1682-8.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 11
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1311-15 (V)
-	  - Code de la défense. - art. R1312-1 (V)
-	  - Code de la défense. - art. R1321-19 (V)
-	  - Code de la défense. - art. R1681-1 (V)
-	  - Code de la défense. - art. R1682-5 (V)
+	  - Code de la défense. - art. R1311-15
+	  - Code de la défense. - art. R1312-1
+	  - Code de la défense. - art. R1321-19
+	  - Code de la défense. - art. R1681-1
+	  - Code de la défense. - art. R1682-5
 
 
 ###### Article R1621-3
@@ -35274,23 +35657,22 @@ secteurs d'activités d'importance vitale.
 
 ###### Article R1621-5
 
-Les pouvoirs conférés au haut fonctionnaire de zone de défense par l'article R. 1682-4 sont exercés, en cas de rupture des
-communications, par le préfet de Saint-Pierre-et-Miquelon.
+Les pouvoirs conférés au     haut fonctionnaire de zone de défense et de sécurité par l'article R. 1682-4 sont exercés, en
+cas de rupture des communications, par le préfet de Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-902 1980-11-18 art. 5 al. 4
 	  - Décret n°80-902 du 18 novembre 1980 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1682-4 (V)
+	  - Code de la défense. - art. R1682-4
 
 
 ###### Article R1621-9
@@ -35396,27 +35778,33 @@ D. 1143-9 à D. 1143-13 ;
 
 ###### Article D1631-7
 
-Pour l'application de la présente partie du code à Mayotte :
+Pour l'application de la présente partie du code à Mayotte : 
 
-1° La référence au département est remplacée par la référence à Mayotte ;
+1° La référence au département et la référence à la région sont remplacées par la référence à Mayotte ; 
 
-2° La référence au préfet de département est remplacée par la référence au préfet de Mayotte ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au préfet
+de Mayotte ; 
 
-3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-4° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+4° La référence à l'officier général de zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-5° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie située au siège de la zone de défense ;
+5° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité ; 
 
-6° La référence au directeur départemental de l'équipement est remplacée par la référence au directeur de l'équipement.
+6° La référence au directeur départemental de l'équipement est remplacée par la référence au directeur de l'équipement ;
+
+7° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
+publiques sont remplacées par la référence au directeur local des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 3
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -35434,18 +35822,18 @@ Sont applicables à Mayotte sous réserve des adaptations prévues aux articles 
 
 2° Au livre II les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
-3° Au livre III les dispositions des articles R. * 1311-1 à R. * 1311-10, R. * 1311-12, R. * 1311-14, R. * 1311-22 à R. *
-1311-25, des 1° au 3° de l'article R. * 1311-26, R. * 1311-27, R. * 1311-28, R. * 1311-33 à R. * 1311-39, R. * 1321-1, R. *
-1333-36 à R. * 1336-15 ; 
+3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-14, 
+R. * 1311-21, R. 1311-21-1 à R. 1311-28, 
+R. * 1311-30 à R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
-4° Au livre IV les dispositions des articles R. * 1411-1      
-      à R. * 1422-4.
+4° Au livre IV les dispositions des articles R. * 1411-1 
+à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 4
+	  - Décret n°2010-224 du 4 mars 2010 - art. 27
 
 	**Cite**:
 
@@ -35453,15 +35841,11 @@ Sont applicables à Mayotte sous réserve des adaptations prévues aux articles 
 	  - Code de la défense. - art. R*1122-1
 	  - Code de la défense. - art. R*1211-1
 	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-12
-	  - Code de la défense. - art. R*1311-14
-	  - Code de la défense. - art. R*1311-22
-	  - Code de la défense. - art. R*1311-26
-	  - Code de la défense. - art. R*1311-27
-	  - Code de la défense. - art. R*1311-33
+	  - Code de la défense. - art. R*1311-1 (V)
+	  - Code de la défense. - art. R*1311-21 (Ab)
+	  - Code de la défense. - art. R*1311-30 (V)
 	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1333-36 (Ab)
 	  - Code de la défense. - art. R*1411-1
 	  - Code de la défense. - art. R*1421-1
 	  - Code de la défense. - art. R*1631-2
@@ -35471,31 +35855,31 @@ Sont applicables à Mayotte sous réserve des adaptations prévues aux articles 
 
 Pour l'application de la présente partie du code à Mayotte : 
 
-1° Le troisième alinéa de l'article R. * 1311-24 est remplacé par les dispositions suivantes : 
+1° Au cinquième alinéa de l'article R. 1311-24, les mots : " et le général commandant les forces de gendarmerie " sont
+remplacés par les mots : " et les commandants territoriaux de la gendarmerie nationale de la zone de défense. " ; 
 
-" Les commandants territoriaux de la gendarmerie nationale de la zone de défense assistent le préfet de zone pour ce qui
-concerne la participation de la gendarmerie nationale aux missions dévolues à ce dernier. " 
+2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-2° Le deuxième alinéa de l'article R. * 1311-25 est remplacé par les dispositions suivantes : 
-
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général dont la circonscription
-comprend le chef-lieu de la zone, l'officier général commandant supérieur, s'il y a lieu les commandants des forces, le ou
-les chefs de service de la police nationale et de la gendarmerie nationale désignés à cet effet par le préfet de zone. "
+" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
+fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
+général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
+zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
+police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-84 2002-01-16 art. 23 (al. 2, 4 et 5, ecqc Mayotte)
+	  - Décret n°2010-224 du 4 mars 2010 - art. 28
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Code de la sécurité intérieure - art. R152-3 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1311-24 (V)
-	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-24
+	  - Code de la défense. - art. R*1311-25
 
 	**Cité par**:
 
@@ -35507,11 +35891,10 @@ les chefs de service de la police nationale et de la gendarmerie nationale dési
 Sont applicables à Mayotte, sous réserve des adaptations prévues aux articles R. 1631-4, D. 1631-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des article            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
-1143-8 ; 
+1° Au livre Ier, les dispositions des article R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ; 
 
-2° Au livre III, les dispositions des articles R. 1321-14, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R.
-1336-38, R. 1337-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1321-14, R. 1322-1 à R. 1331-1, R. 1332-1 à R.
+1332-35, R. 1332-37 à R. 1336-38, R. 1337-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -35521,7 +35904,11 @@ présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2010-225 du 4 mars 2010 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R152-1 (VD)
 
 	**Cite**:
 
@@ -35529,7 +35916,8 @@ présent livre :
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
-	  - Code de la défense. - art. R1321-14
+	  - Code de la défense. - art. R1312-1
+	  - Code de la défense. - art. R1321-14 (V)
 	  - Code de la défense. - art. R1322-1
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
@@ -35548,7 +35936,7 @@ Pour l'application de la présente partie du code à Mayotte :
 coordonnées préparées et exécutées comme il est prévu aux articles R. 1682-2 à R. 1682-6 ; 
 
 2° L'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R. 1681-2 à R.
-1681-6 ; 
+1681-5 ; 
 
 3° A l'article R. 1332-13, les mots : " les préfets de département " et à l'article R. 1332-15, les mots : " un préfet de
 département " sont remplacés par les mots : " le préfet de Mayotte ou l'administrateur supérieur des Terres australes et
@@ -35569,7 +35957,7 @@ l'outre-mer ".
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2010-225 du 4 mars 2010 - art. 13
 
 	**Cite**:
 
@@ -35665,32 +36053,41 @@ du présent livre :
 
 ###### Article D1641-6
 
-Pour l'application de la présente partie du code dans les îles Wallis et Futuna :
+Pour l'application de la présente partie du code dans les îles Wallis et Futuna : 
 
-1° La référence au département est remplacée par la référence aux îles Wallis-et-Futuna ;
+1° La référence au département et la référence à la région sont remplacées par la référence aux îles Wallis-et-Futuna ; 
 
-2° La référence au préfet de département est remplacée par la référence à l'administrateur supérieur des îles Wallis-et-
-Futuna ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence à
+l'administrateur supérieur des îles Wallis-et-Futuna ; 
 
-3° La référence au préfet de zone est remplacée par la référence au haut fonctionnaire de zone de défense ;
+3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
+de sécurité ; 
 
-4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-5° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+5° La référence à l'officier général de zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie située au siège de la zone de défense ;
+6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité ; 
 
-7° La référence à la préfecture de la zone de défense est remplacée par la référence au siège de la zone de défense ;
+7° La référence à la préfecture de la zone de défense et de sécurité est remplacée par la référence au siège de la zone de
+défense et de sécurité ; 
 
-8° La référence à l'état-major de zone de défense est remplacée par la référence au secrétariat général de défense.
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+
+10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
+publiques sont remplacées par la référence au directeur local des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 4
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -35708,33 +36105,83 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1° à 6° de l'article R. * 1311-6, des articles
-R. * 1311-7, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
+3° Au livre III, les dispositions des articles R. * 1311-1, R. * 1311-3 sauf son 11°, R. * 1311-4, R. * 1311-5, des 1° à 6°
+de l'article R. * 1311-6, des articles R. * 1311-7, R. * 1311-8, R. * 1311-12 à R. * 1311-14, de l'article R. * 1311-21, de
+l'article R. 1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article R. 1311-22-1, de l'article R.
+1311-24, de l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. * 1311-33 à R. * 1311-38, des
+articles R. * 1311-39, R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-224 du 4 mars 2010 - art. 29
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1641-6
-	  - Code de la défense. - art. R*1122-1
-	  - Code de la défense. - art. R*1211-1
-	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-6
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
-	  - Code de la défense. - art. R*1411-1
+	  - Code de la défense. - art. D1641-6 (V)
+	  - Code de la défense. - art. R*1122-1 (V)
+	  - Code de la défense. - art. R*1211-1 (V)
+	  - Code de la défense. - art. R*1212-1 (V)
+	  - Code de la défense. - art. R*1311-1 (V)
+	  - Code de la défense. - art. R*1311-12 (V)
+	  - Code de la défense. - art. R*1311-21 (V)
+	  - Code de la défense. - art. R*1311-22 (V)
+	  - Code de la défense. - art. R*1311-24 (V)
+	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-3 (V)
+	  - Code de la défense. - art. R*1311-33 (V)
+	  - Code de la défense. - art. R*1311-39 (V)
+	  - Code de la défense. - art. R*1311-4 (V)
+	  - Code de la défense. - art. R*1311-6 (V)
+	  - Code de la défense. - art. R*1311-7 (V)
+	  - Code de la défense. - art. R*1321-1 (V)
+	  - Code de la défense. - art. R*1333-36 (Ab)
+	  - Code de la défense. - art. R*1411-1 (V)
+	  - Code de la défense. - art. R1311-21-1 (V)
+	  - Code de la défense. - art. R1311-22-1 (V)
+	  - Code de la défense. - art. R1311-24-1 (V)
+
+
+###### Article R*1641-1-1
+
+Pour l'application de la présente partie du code dans les îles Wallis et Futuna : 
+
+1° A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre 2005 " sont remplacés par les mots : "
+l'ordonnance n° 2006-172 du 15 février 2006 " ; 
+
+2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
+
+" Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis
+et Futuna, le trésorier-payeur général ou l'administrateur général des finances publiques exerçant la fonction de directeur
+local des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant
+supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a
+lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police
+nationale désignés à cet effet par le préfet de zone. " ; 
+
+3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par les dispositions suivantes : 
+
+" Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues par le statut de la
+collectivité " ; 
+
+4° Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
+territoriales est remplacée par les dispositions prévues par le statut de la collectivité ayant le même objet et applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 30
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-25
+	  - Code de la défense. - art. R*1311-3
+	  - Code de la défense. - art. R*1311-33
+	  - Code de la défense. - art. R*1311-36
 
 
 ###### Article R1641-2
@@ -35742,22 +36189,22 @@ R. * 1311-7, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ;
 Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations prévues aux articles R. 1641-3, D. 1641-6 et au
 titre VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20 et R. 1142-35 à
-R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20 et R. 1142-35 à R.
+1143-8 ; 
 
-2° Au livre III, les dispositions de l'article R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R.
-1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R.
-1337-22 et R. 1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
+1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à
+1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-6 et R. 1682-1 à R. 1682-18.
+4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2010-225 du 4 mars 2010 - art. 14
 
 	**Cite**:
 
@@ -35789,7 +36236,7 @@ Pour l'application de la présente partie du code dans les îles Wallis et Futun
 1142-36 sont coordonnées, préparées et exécutées dans les conditions prévues aux articles R. 1682-2 à R. 1682-6 ; 
 
 2° Au livre II, l'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R.
-1681-2 à R. 1681-6 ; 
+1681-2 à R. 1681-5 ;
 
 3° Au livre III : 
 
@@ -35812,13 +36259,17 @@ mots : " du ministre chargé de l'énergie et du ministre chargé de l'outre-mer
 du ministre chargé des transports " sont remplacés par les mots : " du ministre chargé des transports et du ministre chargé
 de l'outre-mer " ; 
 
-f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP.
+f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP ;
+
+g) Les dispositions relatives à la mise en œuvre de la sécurité nationale dans les secteurs relevant de la compétence des
+îles Wallis et Futuna s'appliquent sous réserve des mesures d'adaptation nécessitées par l'organisation particulière du
+territoire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2010-225 du 4 mars 2010 - art. 15
 
 	**Cite**:
 
@@ -35920,30 +36371,41 @@ présent livre :
 
 ###### Article D1651-7
 
-Pour l'application de la présente partie du code en Polynésie française :
+Pour l'application de la présente partie du code en Polynésie française : 
 
-1° La référence au département est remplacée par la référence à la Polynésie française ;
+1° La référence au département et la référence à la région sont remplacées par la référence à la Polynésie française ; 
 
-2° La référence au préfet du département est remplacée par la référence au haut commissaire de la République en Polynésie
-française ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
+commissaire de la République en Polynésie française ; 
 
-3° La référence au préfet de zone est remplacée par la référence au haut fonctionnaire de zone de défense ;
+3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
+de sécurité ; 
 
-4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-5° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+5° La référence à l'officier général de zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie située au siège de la zone de défense ;
+6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité ; 
 
-7° La référence à la préfecture de la zone de défense est remplacée par la référence au siège de la zone de défense.
+7° La référence à la préfecture de la zone de défense et de sécurité est remplacée par la référence au siège de la zone de
+défense et de sécurité ;
+
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+
+10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
+publiques sont remplacées par la référence au directeur local des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 5
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -35961,20 +36423,18 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, R. * 1311-6, R. * 1311-7, R. * 1311-39, R. *
-1321-1, R. * 1333-36 à R. * 1336-15 ; 
+3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3 sauf son 11°, de l'article R. * 1311-6 à R. *
+1311-8, de l'article R. * 1311-21, de l'article R. 1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article
+R. 1311-22-1, de l'article R. 1311-24, de l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. *
+1311-39, R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-224 du 4 mars 2010 - art. 31
 
 	**Cite**:
 
@@ -35983,12 +36443,19 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 	  - Code de la défense. - art. R*1211-1
 	  - Code de la défense. - art. R*1212-1
 	  - Code de la défense. - art. R*1311-1
+	  - Code de la défense. - art. R*1311-21
+	  - Code de la défense. - art. R*1311-22
+	  - Code de la défense. - art. R*1311-24
+	  - Code de la défense. - art. R*1311-25
 	  - Code de la défense. - art. R*1311-39
 	  - Code de la défense. - art. R*1311-6
 	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1336-15
 	  - Code de la défense. - art. R*1411-1
 	  - Code de la défense. - art. R*1651-2
+	  - Code de la défense. - art. R1311-21-1
+	  - Code de la défense. - art. R1311-22-1
+	  - Code de la défense. - art. R1311-24-1
 
 
 ###### Article R*1651-2
@@ -35996,19 +36463,31 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 Pour l'application de la présente partie du code en Polynésie française : 
 
 1° Au livre Ier, les mesures de défense en matière sanitaire intéressant la population civile prévues aux articles R. *
-1142-22 à R. * 1142-29 sont préparées et exécutées par le haut fonctionnaire de zone de défense en liaison avec l'autorité
-sanitaire et sociale compétente localement ; 
+1142-22 à R. * 1142-29 sont préparées et exécutées par le haut fonctionnaire de zone de défense et de sécurité en liaison
+avec l'autorité sanitaire et sociale compétente localement ; 
 
-2° Au livre III, en matière de défense non militaire, la référence à l'article L. 1111-7 du code général des collectivités
+2° a) Au livre III, en matière de sécurité nationale, la référence à l'article L. 1111-7 du code général des collectivités
 territoriales mentionné au 7° de l'article R. * 1311-6 est remplacée par la référence à l'article 27 de la loi organique n°
 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
+
+b) A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre 2005 " sont remplacés par les mots : "
+l'ordonnance n° 2006-173 du 15 février 2006 " ; 
+
+c) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
+
+" Ce comité comprend le haut-commissaire de la République en Polynésie française, le trésorier-payeur général ou
+l'administrateur général des finances publiques exerçant la fonction de directeur local des finances publiques dont la
+circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone. " 
 
 3° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi n° 2004-811 du 13 août 2004 de modernisation
 de la sécurité civile " sont remplacés par les mots : " l'ordonnance n° 2006-173 du 15 février 2006 portant actualisation et
 adaptation du droit applicable en matière de sécurité civile en Polynésie française " ; 
 
 b) Pour l'application de l'article R. * 1336-7, le haut-commissaire de la République en Polynésie française, haut
-fonctionnaire de zone, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
+fonctionnaire de zone et de sécurité, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
 
 c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
 sécurité civile est remplacée par la référence à l'article 16 de l'ordonnance n° 2006-173 du 15 février 2006 portant
@@ -36020,8 +36499,11 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 
 	  - Loi organique n°2004-192 du 27 février 2004 - art. 27
 	  - Ordonnance n°2006-173 du 15 février 2006
+	  - Ordonnance n°2006-173 du 15 février 2006 - art. 16 (Ab)
 	  - Code général des collectivités territoriales - art. L1111-7
 	  - Code de la défense. - art. R*1142-22
+	  - Code de la défense. - art. R*1311-25
+	  - Code de la défense. - art. R*1311-3
 	  - Code de la défense. - art. R*1311-6
 	  - Code de la défense. - art. R*1336-1
 	  - Code de la défense. - art. R*1336-12
@@ -36029,7 +36511,7 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -36041,22 +36523,22 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 1651-4, D. 1651-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 61142-20, et R. 1142-35
-à R. 1143-9 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 61142-20, et R. 1142-35 à R.
+1143-9 ; 
 
-2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R.
-1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R.
-1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R.
+1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R.
+1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-6 et R. 1682-1 à R. 1682-18.
+4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18 .
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2010-225 du 4 mars 2010 - art. 16
 
 	**Cite**:
 
@@ -36073,12 +36555,12 @@ Pour l'application de la présente partie du code en Polynésie française :
 1142-36 sont coordonnées, préparées et exécutées dans les conditions prévues aux articles R. 1682-2 à R. 1682-6 ; 
 
 2° Au livre II, l'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R.
-1681-2 à R. 1681-6 ; 
+1681-2 à R. 1681-5 ; 
 
 3° Au livre III : 
 
-a) Les dispositions relatives à la mise en oeuvre de la défense économique s'appliquent sous réserve des mesures d'adaptation
-nécessitées par l'organisation particulière de la Polynésie française ; 
+a) Les dispositions relatives à la mise en oeuvre de la sécurité économique s'appliquent sous réserve des mesures
+d'adaptation nécessitées par l'organisation particulière de la Polynésie française ; 
 
 b) Les dispositions des articles R. 1337-18 à R. 1337-22 relatifs à la répartition des ressources industrielles sont adaptées
 comme il est prévu aux articles R. 1682-7 et R. 1682-8 ; 
@@ -36095,13 +36577,17 @@ mots : " du ministre chargé de l'énergie et du ministre chargé de l'outre-mer
 du ministre chargé des transports " sont remplacés par les mots : " du ministre chargé des transports et du ministre chargé
 de l'outre-mer " ; 
 
-f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP.
+f) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP ; 
+
+g) Les dispositions relatives à la mise en œuvre de la sécurité nationale dans les secteurs relevant de la compétence de la
+Polynésie française s'appliquent sous réserve des mesures d'adaptation nécessitées par l'organisation particulière de la
+Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
@@ -36200,32 +36686,41 @@ présent livre :
 
 ###### Article D1661-7
 
-Pour l'application de la présente partie du code en Nouvelle Calédonie :
+Pour l'application de la présente partie du code en Nouvelle Calédonie : 
 
-1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
+1° La référence au département et la référence à la région sont remplacées par la référence à la Nouvelle-Calédonie ; 
 
-2° La référence au préfet de département est remplacée par la référence au haut commissaire de la République en Nouvelle-
-Calédonie ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
+commissaire de la République en Nouvelle-Calédonie ; 
 
-3° La référence au préfet de zone est remplacée par la référence au haut fonctionnaire de zone de défense ;
+3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
+de sécurité ; 
 
-4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-5° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+5° La référence à l'officier général de zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie située au siège de la zone de défense ;
+6° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité ; 
 
-7° La référence à la préfecture de zone de défense est remplacée par la référence au siège de la zone de défense ;
+7° La référence à la préfecture de zone de défense et de sécurité est remplacée par la référence au siège de la zone de
+défense et de sécurité ; 
 
-8° La référence à l'état-major de zone de défense est remplacée par la référence au secrétariat général de défense.
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+
+10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
+publiques sont remplacées par la référence au directeur local des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 6
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -36243,20 +36738,20 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, des 1° à 6° de l'article R. * 1311-6, R. * 1311-7,
-R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
+3° Au livre III, les dispositions des articles R. * 1311-1, R. * 1311-3 sauf son 11°, R. * 1311-4, R. * 1311-5, des 1° à 6°
+de l'article R. * 1311-6, des articles R. * 1311-7, R. * 1311-8, R. * 1311-12 à R. * 1311-14, de l'article R. * 1311-21, de
+l'article R. 1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article R. 1311-22-1, de l'article R.
+1311-24, de l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. * 1311-33 à R. * 1311-38, des
+articles R. * 1311-39, 
+R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-224 du 4 mars 2010 - art. 33
 
 	**Cite**:
 
@@ -36264,14 +36759,23 @@ R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ;
 	  - Code de la défense. - art. R*1122-1
 	  - Code de la défense. - art. R*1211-1
 	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-6
-	  - Code de la défense. - art. R*1311-7
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
+	  - Code de la défense. - art. R*1311-1 (V)
+	  - Code de la défense. - art. R*1311-12 (V)
+	  - Code de la défense. - art. R*1311-21 (V)
+	  - Code de la défense. - art. R*1311-22 (V)
+	  - Code de la défense. - art. R*1311-24 (V)
+	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-3 (V)
+	  - Code de la défense. - art. R*1311-33 (V)
+	  - Code de la défense. - art. R*1311-39 (V)
+	  - Code de la défense. - art. R*1311-4 (V)
+	  - Code de la défense. - art. R*1311-6 (V)
+	  - Code de la défense. - art. R*1311-7 (V)
+	  - Code de la défense. - art. R*1321-1 (V)
+	  - Code de la défense. - art. R*1333-36 (Ab)
 	  - Code de la défense. - art. R*1411-1
 	  - Code de la défense. - art. R*1661-2
+	  - Code de la défense. - art. R1311-21-1 (V)
 
 
 ###### Article R*1661-2
@@ -36279,19 +36783,42 @@ R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ;
 Pour l'application de la présente partie du code en Nouvelle-Calédonie : 
 
 1° Les mesures de défense en matière sanitaire intéressant la population civile, prévues aux articles R. * 1142-22 à R. *
-1142-29, sont préparées et exécutées par le haut fonctionnaire de zone de défense en liaison avec l'autorité sanitaire et
-sociale compétente localement ; 
+1142-29, sont préparées et exécutées par le haut fonctionnaire de zone de défense et de sécurité en liaison avec l'autorité
+sanitaire et sociale compétente localement ; 
 
 2° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi n° 2004-811 du 13 août 2004 de modernisation
 de la sécurité civile " sont remplacés par les mots : " l'ordonnance n° 2006-172 du 15 février 2006 portant actualisation et
 adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie " ; 
 
 b) Pour l'application de l'article R. * 1336-7, le haut-commissaire de la République en Nouvelle-Calédonie, haut
-fonctionnaire de zone, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
+fonctionnaire de zone et de sécurité, représente le commissaire aux transports et aux travaux publics et de bâtiment ; 
 
 c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
 sécurité civile est remplacée par la référence à l'article 17 de l'ordonnance n° 2006-172 du 15 février 2006 portant
-actualisation et adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie.
+actualisation et adaptation du droit applicable en matière de sécurité civile en Nouvelle-Calédonie ; 
+
+3° Au livre III : 
+
+a) A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre 2005 " sont remplacés par les mots : "
+l'ordonnance n° 2006-172 du 15 février 2006 " ; 
+
+b) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
+
+" Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis
+et Futuna, le trésorier-payeur général ou l'administrateur général des finances publiques exerçant la fonction de directeur
+local des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant
+supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a
+lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police
+nationale désignés à cet effet par le préfet de zone. " ; 
+
+c) Le deuxième alinéa de l'article R. * 1311-33 est remplacé par l'alinéa suivant : 
+
+" Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues par le statut de la
+collectivité. " ; 
+
+d) Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
+territoriales est remplacée par les dispositions prévues par le statut de la collectivité ayant le même objet applicables
+localement.
 
 **Liens relatifs à cet article**
 
@@ -36299,12 +36826,17 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 
 	  - Ordonnance n°2006-172 du 15 février 2006
 	  - Code de la défense. - art. R*1142-22
+	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-3 (V)
+	  - Code de la défense. - art. R*1311-33 (V)
+	  - Code de la défense. - art. R*1311-36 (V)
 	  - Code de la défense. - art. R*1336-1
 	  - Code de la défense. - art. R*1336-14
+	  - Code de la défense. - art. R*1336-7 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -36316,22 +36848,21 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 1661-4, D. 1661-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
-1143-8 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ; 
 
-2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R.
-1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R.
-1337-22, R. 1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
+1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à R. 1336-38, R. 1337-1 à R.
+1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-6 et R. 1682-1 à R. 1682-18.
+4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2010-225 du 4 mars 2010 - art. 18
 
 	**Cite**:
 
@@ -36363,12 +36894,12 @@ Pour l'application de la présente partie du code en Nouvelle-Calédonie :
 1142-36 sont coordonnées, préparées et exécutées dans les conditions prévues aux articles R. 1682-2 à R. 1682-6 ; 
 
 2° Au livre II, l'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R.
-1681-2 à R. 1681-6 ; 
+1681-2 à R. 1681-5 ; 
 
 3° Au livre III : 
 
-a) Les dispositions relatives à la mise en oeuvre de la défense économique s'appliquent sous réserve des mesures d'adaptation
-nécessitées par l'organisation particulière de la Polynésie française ; 
+a) Les dispositions relatives à la mise en oeuvre de la sécurité économique s'appliquent sous réserve des mesures
+d'adaptation nécessitées par l'organisation particulière de la Polynésie française ; 
 
 b) Au 2° du I de l'article R. 1332-1, la référence à l'article L. 511-1 du code de l'environnement, mentionnée à l'article L.
 1332-2 du code de la défense, est remplacée par la référence à la réglementation applicable localement en matière
@@ -36389,13 +36920,17 @@ mots : " du ministre chargé de l'énergie et du ministre chargé de l'outre-mer
 du ministre chargé des transports " sont remplacés par les mots : " du ministre chargé des transports et du ministre chargé
 de l'outre-mer " ; 
 
-g) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP.
+g) Au premier alinéa de l'article R. 1333-78, le montant de 1 500 euros est remplacé par sa contrepartie en francs CFP ; 
+
+h) Les dispositions relatives à la mise en œuvre de la sécurité nationale dans les secteurs relevant de la compétence de la
+Nouvelle-Calédonie s'appliquent sous réserve des mesures d'adaptation nécessitées par l'organisation particulière du
+territoire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
@@ -36498,26 +37033,29 @@ D. 1681-15 et D. 1681-16.
 
 ###### Article D1671-7
 
-Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises :
+Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises : 
 
-1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
+1° La référence au département et la référence à la région sont remplacées par la référence aux Terres australes et
+antarctiques françaises ; 
 
-2° La référence au préfet du département est remplacée par la référence à l'administrateur des Terres australes et
-antarctiques françaises ;
+2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence à
+l'administrateur des Terres australes et antarctiques françaises ; 
 
-3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en mer ;
+3° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
+mer ; 
 
-4° La référence à l'officier général de zone de défense est remplacée par la référence à l'officier général commandant
-supérieur ;
+4° La référence à l'officier général de zone de défense et de sécurité est remplacée par la référence à l'officier général
+commandant supérieur ; 
 
-5° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense est remplacée par la
-référence à l'officier commandant la gendarmerie située au siège de la zone de défense.
+5° La référence à l'officier commandant la région de gendarmerie située au siège de la zone de défense et de sécurité est
+remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 7
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -36535,17 +37073,12 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-10, R. * 1311-12, R. * 1311-14, R. * 1311-22 à R. *
-1311-25, des 1° à 3° de l'article R. * 1311-26, R. * 1311-28, du premier alinéa de l'article R. * 1311-33, des articles R. *
-1311-34, R. * 1311-35, R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
+3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-14, R. * 1311-21, R. 1311-21-1 à R. 1311-28, R. *
+1311-33 à R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°61-802 du 28 juillet 1961 - art. 6 (Ab)
 
 	**Cite**:
 
@@ -36570,39 +37103,49 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 6
+	  - Décret n°2010-224 du 4 mars 2010 - art. 35
 
 
 ###### Article R*1671-2
 
 Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises : 
 
-1° Le troisième alinéa de l'article R. * 1311-24 est remplacé par les dispositions suivantes : 
+1° Au cinquième alinéa de l'article R. 1311-24, les mots : " et le général commandant les forces de gendarmerie " sont
+remplacés par les mots : " et les commandants territoriaux de la gendarmerie nationale de la zone de défense " ; 
 
-" Les commandants territoriaux de la gendarmerie nationale de la zone de défense assistent le préfet de zone pour ce qui
-concerne la participation de la gendarmerie nationale aux missions dévolues à ce dernier. " ; 
+2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-2° Le deuxième alinéa de l'article R. * 1311-25 est remplacé par les dispositions suivantes : 
+" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
+fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
+général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
+zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
+police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. " ; 
 
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général dont la circonscription
-comprend le chef-lieu de la zone, l'officier général commandant supérieur, s'il y a lieu les commandants des forces, le ou
-les chefs de service de la police nationale et de la gendarmerie nationale désignés à cet effet par le préfet de zone. "
+3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par l'alinéa suivant : 
+
+" Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues par le statut de la
+collectivité. " ; 
+
+4° Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
+territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août 1955.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-84 2002-01-16 art. 23 (al. 2, 4 et 5, ecqc les TAAF)
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
 	**Cite**:
 
-	  - Code de la défense. - art. R*1311-24 (V)
+	  - Loi n°55-1052 du 6 août 1955 (V)
+	  - Code de la défense. - art. R*1311-24
 	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-33 (V)
+	  - Code de la défense. - art. R*1311-36 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 23 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 36
 
 	**Cité par**:
 
@@ -36615,15 +37158,14 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4, D. 1671-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles            R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R.
-1143-8 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ; 
 
-2° Au livre III, les dispositions des articles R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37 à R. 1332-38, R.
-1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6 ; R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
+1332-37 à R. 1332-38, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-6 et R. 1682-1 à R. 1682-18.
+4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
 
 **Liens relatifs à cet article**
 
@@ -36648,7 +37190,7 @@ VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2010-225 du 4 mars 2010 - art. 20
 
 
 ###### Article R1671-4
@@ -36659,7 +37201,7 @@ Pour l'application de la présente partie du code dans les Terres australes et a
 coordonnées, préparées et exécutées dans les conditions prévues aux articles R. 1682-2 à R. 1682-6 ; 
 
 2° L'organisation territoriale et opérationnelle de la défense est régie par les dispositions des articles R. 1681-2 à R.
-1681-6 ; 
+1681-5 ; 
 
 3° A l'article R. 1332-13, les mots : " les préfets de département " et à l'article R. 1332-15 les mots : " un préfet de
 département " sont remplacés par les mots : " le préfet de Mayotte ou l'administrateur supérieur des Terres australes et
@@ -36677,10 +37219,6 @@ l'outre-mer " ;
 comme il est prévu aux articles R. 1682-7 et R. 1682-8.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -36713,13 +37251,13 @@ comme il est prévu aux articles R. 1682-7 et R. 1682-8.
 Les dispositions du présent chapitre sont applicables aux départements d'outre-mer, à Mayotte, dans les îles Wallis-et-
 Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
 
-Elles ne s'appliquent pas à Saint-Pierre-et-Miquelon en l'absence de zone de défense.
+Elles ne s'appliquent pas à Saint-Pierre-et-Miquelon en l'absence de zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
 
 	**Cité par**:
 
@@ -36730,20 +37268,25 @@ Elles ne s'appliquent pas à Saint-Pierre-et-Miquelon en l'absence de zone de d�
 	  - Code de la défense. - art. R1661-3 (M)
 	  - Code de la défense. - art. R1671-3 (M)
 
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*154-1 (VD)
+	  - Code de la sécurité intérieure - art. R154-2 (VD)
+
 
 ##### Section 2 : Organisation générale
 
 ###### Article R1681-2
 
-La composition et l'organisation des zones de défense prévues à l'article L. 1311-1 sont fixées conformément au tableau
-suivant : 
+La composition et l'organisation des zones de défense et de sécurité prévues à l'article L. 1311-1 sont fixées conformément
+au tableau suivant : 
 
 <table>
   <thead>
     <tr>
       <td width="104">
 
-ZONE DE DÉFENSE
+ZONE DE DÉFENSE ET DE SECURITE
 
 </td>
       <td width="104">
@@ -36755,14 +37298,14 @@ COMPOSITION
 
 HAUT FONCTIONNAIRE
 
-de zone de défense
+de zone de défense et de sécurité
 
 </td>
       <td width="216">
 
 COMMANDANT
 
-de zone de défense
+de zone de défense et de sécurité
 
 </td>
     </tr>
@@ -36781,12 +37324,12 @@ Martinique.
 Guadeloupe.
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Préfet de la Martinique. 
 
 </td>
-      <td width="216" valign="top">
+      <td valign="top" width="216">
 
 Commandant supérieur des forces armées aux Antilles.
 
@@ -36803,7 +37346,7 @@ Guyane (Siège à Cayenne)
 Guyane.
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Préfet de la Guyane.
 
@@ -36815,12 +37358,12 @@ Commandant supérieur des forces armées en Guyane.
 </td>
     </tr>
     <tr>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Sud de l'océan Indien (siège à Saint-Denis-de-la-Réunion).
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Réunion. 
 
@@ -36843,36 +37386,36 @@ Commandant supérieur des forces armées dans la zone sud de l'océan Indien.
 </td>
     </tr>
     <tr>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Nouvelle-Calédonie (siège à Nouméa).
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Nouvelle-Calédonie. 
 
 Wallis et Futuna.
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Haut commissaire de la République en Nouvelle-Calédonie.
 
 </td>
-      <td valign="top" width="216">
+      <td width="216" valign="top">
 
 Commandant supérieur des forces armées de la Nouvelle-Calédonie.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Polynésie française (siège à Papeete).
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Polynésie française.
 
@@ -36882,7 +37425,7 @@ Polynésie française.
 Haut commissaire de la République en Polynésie française.
 
 </td>
-      <td valign="top" width="216">
+      <td width="216" valign="top">
 
 Commandant supérieur des forces armées de la Polynésie française.
 
@@ -36895,7 +37438,6 @@ Commandant supérieur des forces armées de la Polynésie française.
 
 	**Anciens textes**:
 
-	  - Décret n°64-11 1964-01-03 art. 2, art. 3 al. 2 à 6, art. 4 al. 2 à 6
 	  - Décret n°64-11 du 3 janvier 1964 - art. 2 (Ab)
 	  - Décret n°64-11 du 3 janvier 1964 - art. 3 (Ab)
 	  - Décret n°64-11 du 3 janvier 1964 - art. 4 (Ab)
@@ -36919,77 +37461,109 @@ Commandant supérieur des forces armées de la Polynésie française.
 	  - Code de la sécurité intérieure - art. R155-6 (VD)
 	  - Code de la sécurité intérieure - art. R156-6 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article R1681-3
 
-Les pouvoirs du haut fonctionnaire de zone de défense, dont les attributions sont définies à l'article L. 1311-1, sont
-exercés par les autorités civiles mentionnées dans le tableau figurant à l'article R. 1681-2.
+I.-Les pouvoirs du haut fonctionnaire de zone de défense et de sécurité, dont les attributions sont définies à l'article L.
+1311-1, sont exercés par les autorités civiles mentionnées dans le tableau figurant à l'article R. 1681-2. 
 
 Toutefois, un délégué du Gouvernement peut être investi des fonctions de haut fonctionnaire de zone dans une ou plusieurs des
-zones de défense précitées par décret pris en conseil des ministres.
+zones de défense et de sécurité précitées par décret pris en conseil des ministres. 
+
+II.-En cas d'absence ou d'empêchement, le préfet ou le haut-commissaire, haut fonctionnaire de zone, est suppléé de droit par
+le secrétaire général de la préfecture ou du haut-commissariat du siège de la zone. 
+
+III.-En cas de vacance momentanée du poste de haut fonctionnaire de la zone de défense et de sécurité des Antilles, l'intérim
+est assuré par le préfet de la Guadeloupe. 
+
+En cas de vacance momentanée du poste de haut fonctionnaire de la zone de défense et de sécurité de la Guyane, l'intérim est
+assuré par le secrétaire général de la préfecture. 
+
+En cas de vacance momentanée du poste de haut fonctionnaire de la zone de défense et de sécurité du sud de l'océan Indien,
+l'intérim est assuré par le préfet, administrateur supérieur des Terres australes et antarctiques françaises. 
+
+En cas de vacance momentanée du poste de haut fonctionnaire de la zone de défense et de sécurité de la Nouvelle-Calédonie,
+l'intérim est assuré par le secrétaire général du haut-commissariat. 
+
+En cas de vacance momentanée du poste de haut fonctionnaire de la zone de défense et de sécurité de la Polynésie française,
+l'intérim est assuré par le secrétaire général du haut-commissariat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°64-11 1964-01-03 art. 3 al. 1 et 7
 	  - Décret n°64-11 du 3 janvier 1964 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-225 du 4 mars 2010 - art. 10
+	  - Décret n°2010-225 du 4 mars 2010 - art. 22
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R151-2 (VD)
+	  - Code de la sécurité intérieure - art. R151-3 (VD)
+	  - Code de la sécurité intérieure - art. R151-4 (VD)
+	  - Code de la sécurité intérieure - art. R152-2 (VD)
+	  - Code de la sécurité intérieure - art. R155-6 (VD)
+	  - Code de la sécurité intérieure - art. R155-7 (VD)
+	  - Code de la sécurité intérieure - art. R155-8 (VD)
+	  - Code de la sécurité intérieure - art. R156-6 (VD)
+	  - Code de la sécurité intérieure - art. R156-7 (VD)
+	  - Code de la sécurité intérieure - art. R156-8 (VD)
+	  - Code de la sécurité intérieure - art. R157-6 (VD)
+	  - Code de la sécurité intérieure - art. R158-4 (VD)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 	  - Code de la défense. - art. R1681-2 (V)
 
 
 ###### Article R1681-4
 
-Les fonctions de commandant de zone de défense sont exercées par les commandants supérieurs mentionnés dans le tableau
-figurant à l'article R. 1681-2. 
+Les fonctions de commandant de zone de défense et de sécurité sont exercées par les commandants supérieurs mentionnés dans le
+tableau figurant à l'article R. 1681-2. 
 
-Le commandant de zone de défense est le conseiller du haut fonctionnaire de zone en ce qui concerne les responsabilités de
-défense de ce dernier.
+Le commandant de zone de défense et de sécurité est le conseiller du haut fonctionnaire de zone et de sécurité en ce qui
+concerne les responsabilités de défense de ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°64-11 1964-01-03 art. 4 al. 1, 7 et 8
 	  - Décret n°64-11 du 3 janvier 1964 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1681-2 (V)
+	  - Code de la défense. - art. R1681-2
 
 
 ###### Article R1681-5
 
-La préparation et l'exécution des mesures non militaires de défense incombent aux préfets ou hauts commissaires, dans le
-cadre des directives du haut fonctionnaire de zone de défense.
+La préparation et l'exécution des    sécurité intérieure et sécurité civile incombent aux préfets ou hauts commissaires, dans
+le cadre des directives du haut fonctionnaire de zone de défense et de sécurité. 
 
 Les préfets ou hauts commissaires communiquent directement avec les commandants supérieurs ou les commandants militaires
 départementaux ou territoriaux. Ils les tiennent informés des problèmes susceptibles d'affecter leurs responsabilités et
-d'avoir une incidence militaire.
+d'avoir une incidence militaire. 
 
 Les commandants supérieurs ou les commandants militaires départementaux ou territoriaux sont les conseillers des préfets ou
 hauts commissaires pour l'exercice de leur responsabilité de défense, et notamment pour l'élaboration des plans généraux de
 protection et la participation des forces des trois armées au maintien de l'ordre. Ils les tiennent informés des besoins des
-armées en ressources et en infrastructure.
+armées en ressources et en infrastructure. 
 
 Les commandants territoriaux de la gendarmerie assistent les préfets ou hauts commissaires en matière de participation de la
 gendarmerie aux missions de défense civile.
@@ -37000,37 +37574,17 @@ gendarmerie aux missions de défense civile.
 
 	  - Décret n°64-11 du 3 janvier 1964 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
+	**Nouveaux textes**:
 
-###### Article R1681-6
-
-Dans chaque zone de défense, un secrétariat général de défense, dirigé par un membre du corps préfectoral ou par un
-administrateur, est chargé de la centralisation des informations, de l'étude des plans et de la préparation des décisions
-incombant au haut fonctionnaire de zone.
-
-Il est placé sous l'autorité du haut fonctionnaire de zone, qui reçoit, par l'intermédiaire du ministre chargé de l'outre-
-mer, les directives du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-11 du 3 janvier 1964 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Code de la sécurité intérieure - art. R150-3 (VD)
 
 	**Abrogé par**:
 
-	  - Décret n°2010-225 du 4 mars 2010 - art. 23
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1611-4 (V)
+	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
 
 
 ##### Section 3 : Attributions des commandants supérieurs.
@@ -37119,8 +37673,8 @@ Les commandants supérieurs sont placés sous l'autorité du chef d'état-major 
 
 Les commandants supérieurs désignés à l'article D. 1681-7 ont les attributions définies à l'article L. 1221-1. 
 
-Ils exercent également, conformément aux dispositions des articles R. 1681-2 à R. 1681-6, les fonctions de commandant de zone
-de défense et portent dans ce cadre le nom d'officier général de zone de défense. 
+Ils exercent également, conformément aux dispositions des articles R. 1681-2 à R. 1681-6, les fonctions de commandant de
+zone de défense et de sécurité et portent dans ce cadre le nom d'officier général de  zone de défense et de sécurité. 
 
 Dans le cadre de l'action de l'Etat en mer, ils assurent auprès du délégué du Gouvernement la fonction de conseil prévue à
 l'article 2 du décret n° 2005-1514 du 6 décembre 2005 relatif à l'organisation outre-mer de l'action de l'Etat en mer.
@@ -37129,19 +37683,18 @@ l'article 2 du décret n° 2005-1514 du 6 décembre 2005 relatif à l'organisati
 
 	**Cite**:
 
-	  - Décret n°2005-1514 du 6 décembre 2005 - art. 2 (V)
-	  - Code de la défense. - art. D1681-7 (V)
-	  - Code de la défense. - art. L1221-1 (V)
-	  - Code de la défense. - art. R1681-2 (V)
+	  - Décret n°2005-1514 du 6 décembre 2005 - art. 2
+	  - Code de la défense. - art. D1681-7
+	  - Code de la défense. - art. L1221-1
+	  - Code de la défense. - art. R1681-2
 
 	**Anciens textes**:
 
-	  - Décret n°2007-26 du 5 janvier 2007 - art. 3, v. init.
 	  - Décret n°2007-26 du 5 janvier 2007 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 
 ###### Article D1681-10
@@ -37306,19 +37859,18 @@ australes et antarctiques françaises.
 
 ###### Article R1682-2
 
-Les hauts fonctionnaires de zone de défense assurent la coordination des mesures d'exécution des décisions et directives
-mentionnées à l'article R. 1142-34 dont la responsabilité incombe aux préfets et représentants de l'Etat.
+Les     hauts fonctionnaires de zone de défense et de sécurité assurent la coordination des mesures d'exécution des décisions
+et directives mentionnées à l'article R. 1142-34 dont la responsabilité incombe aux préfets et représentants de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-902 1980-11-18 art. 3 al. 2
 	  - Décret n°80-902 du 18 novembre 1980 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cité par**:
 
@@ -37333,34 +37885,34 @@ mentionnées à l'article R. 1142-34 dont la responsabilité incombe aux préfet
 
 	**Cite**:
 
-	  - Code de la santé publique - art. R1142-34 (V)
+	  - Code de la santé publique - art. R1142-34
 
 
 ###### Article R1682-3
 
 Le préfet ou le représentant de l'Etat est responsable de la préparation et de l'exécution des plans et des mesures de
-défense dans le domaine économique selon les instructions du haut fonctionnaire de zone de défense.
+défense dans le domaine économique selon les instructions du haut fonctionnaire de zone de défense et de sécurité. 
 
-Il est assisté à cet effet d'une commission de défense économique placée sous sa présidence ou celle de son suppléant en cas
-d'absence ou d'empêchement.
+Il est assisté à cet effet d'une commission de sécurité économique placée sous sa présidence ou celle de son suppléant en cas
+d'absence ou d'empêchement. 
 
-Le commandant militaire du département ou de la collectivité territoriale en est membre de droit.
+Le commandant militaire du département ou de la collectivité territoriale en est membre de droit. 
 
-La commission comprend en outre :
+La commission comprend en outre : 
 
-1° Le trésorier-payeur général ou le fonctionnaire en tenant lieu ;
+1° Le trésorier-payeur général ou le fonctionnaire en tenant lieu ; 
 
-2° Le commissaire de l'armée de terre, le commissaire de la marine ou le commissaire de l'air territorialement compétent ;
+2° Le commissaire de l'armée de terre, le commissaire de la marine ou le commissaire de l'air territorialement compétent ; 
 
 3° Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, les chefs des services des ministères de
-l'industrie, des transports, de l'agriculture, de l'environnement et du cadre de vie et des postes et télécommunications ;
+l'industrie, des transports, de l'agriculture, de l'environnement et du cadre de vie et des postes et télécommunications ; 
 
 4° Dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie, les chefs des services de l'Etat et
-territoriaux compétents désignés par arrêté du représentant de l'Etat.
+territoriaux compétents désignés par arrêté du représentant de l'Etat. 
 
-Les chefs des services territoriaux sont désignés sur proposition de l'exécutif local.
+Les chefs des services territoriaux sont désignés sur proposition de l'exécutif local. 
 
-Les membres de la commission autres que le président peuvent se faire représenter.
+Les membres de la commission autres que le président peuvent se faire représenter. 
 
 Toute autre personne peut être également désignée par le préfet ou le représentant de l'Etat en raison de sa compétence pour
 participer à titre consultatif aux travaux de cette commission.
@@ -37371,15 +37923,15 @@ participer à titre consultatif aux travaux de cette commission.
 
 	  - Décret n°80-902 du 18 novembre 1980 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 
 ###### Article R1682-4
 
-En cas de rupture des communications mentionnée à l'article L. 1311-1, le haut fonctionnaire de zone de défense prend les
-mesures économiques imposées par les besoins de la défense et le ravitaillement des populations. 
+En cas de rupture des communications mentionnée à l'article L. 1311-1, le     haut fonctionnaire de zone de défense et de
+sécurité prend les mesures économiques imposées par les besoins de la défense et le ravitaillement des populations. 
 
 Il exerce notamment les pouvoirs du ministre chargé de l'économie en matière de préparation des plans de répartition
 primaires mentionnés à l'article R. * 1142-12. 
@@ -37387,25 +37939,23 @@ primaires mentionnés à l'article R. * 1142-12.
 Il est autorisé à passer les accords commerciaux nécessaires à la satisfaction des besoins pour la défense dans le domaine
 économique dans sa zone. 
 
-En cas de rupture des communications à l'intérieur des zones de défense outre-mer, les pouvoirs dévolus au haut fonctionnaire
-de défense par les dispositions du présent article sont exercés par le représentant de l'Etat.
+En cas de rupture des communications à l'intérieur des zones de défense et de sécurité outre-mer, les pouvoirs dévolus au
+haut fonctionnaire de défense par les dispositions du présent article sont exercés par le représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-902 1980-11-18 art. 5 al. 1, 2, 3 et 5
-	  - Décret n°80-902 du 18 novembre 1980 - art. 2 (Ab)
 	  - Décret n°80-902 du 18 novembre 1980 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
-	  - Code de la défense. - art. R*1142-12 (V)
+	  - Code de la défense. - art. L1311-1
+	  - Code de la défense. - art. R*1142-12
 
 	**Cité par**:
 
@@ -37433,9 +37983,9 @@ Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
 
 ###### Article R1682-6
 
-Dans le cas de rupture des communications mentionnée à l'article L. 1311-1, le haut fonctionnaire de zone de défense exerce
-les pouvoirs du ministre chargé de l'industrie et du ministre chargé de l'outre-mer, en matière de répartition des ressources
-industrielles.
+Dans le cas de rupture des communications mentionnée à l'article L. 1311-1, le     haut fonctionnaire de zone de défense et
+de sécurité exerce les pouvoirs du ministre chargé de l'industrie et du ministre chargé de l'outre-mer, en matière de
+répartition des ressources industrielles.
 
 **Liens relatifs à cet article**
 
@@ -37443,13 +37993,13 @@ industrielles.
 
 	  - Décret n°83-53 du 27 janvier 1983 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-226 du 4 mars 2010 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article R1682-7
@@ -37744,6 +38294,14 @@ l'article R. 1682-9 et en Nouvelle-Calédonie par arrêté du représentant de l
 
 	  - Code de la défense. - art. R1682-9 (V)
 
+
+##### Chapitre II : Sécurité économique
+
+##### Section 1 : Organisation
+
+##### Section 2 : Répartition des ressources industrielles
+
+##### Section 3 : Hydrocarbures
 
 #### TITRE IX : DISPOSITIONS FINALES
 

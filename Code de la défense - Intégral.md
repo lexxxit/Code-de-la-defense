@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-03-06
+Version Consolidée au 2010-03-17
 
 # Partie législative
 
@@ -24770,7 +24770,7 @@ missions selon des modalités propres à chaque armée.
 
 #### TITRE Ier : DISPOSITIONS GÉNÉRALES
 
-##### Chapitre Ier : Pouvoirs des préfets en matière de défense non militaire
+##### Chapitre Ier : Pouvoirs des préfets en matière de sécurité nationale
 
 ##### Section 1 : Dispositions générales
 
@@ -24820,573 +24820,6 @@ fonctionnement sont arrêtées par le ministre de l'intérieur.
 	  - Code de la défense. - art. R*1661-1 (M)
 	  - Code de la défense. - art. R*1671-1 (M)
 
-
-##### Section 2 : Préfets de zone
-
-##### Sous-section 5 : Préfet délégué pour la sécurité et la défense auprès du préfet de zone
-
-##### Sous-section 7 : Etat-major de zone
-
-###### Article R*1311-26
-
-Le préfet de zone de défense et de sécurité dispose d'un état-major interministériel de zone de défense et de sécurité qui,
-en liaison avec les préfets de département, prépare et met en œuvre les mesures concourant à la sécurité nationale, notamment
-en matière de sécurité civile et de gestion de crise, définies aux articles R. * 1311-3 à R. * 1311-14.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2005-1157 du 13 septembre 2005 - art. 13 (M)
-	  - Code de la défense. - art. R*1311-29 (VD)
-	  - Code de la défense. - art. R*1611-1 (V)
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1671-1 (M)
-	  - Code de la santé publique - art. R1435-8 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 15
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1311-3
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R122-17 (VD)
-
-
-###### Article R*1311-27
-
-Lorsqu'un événement nécessite la gestion simultanée de moyens en mer et à terre, le  préfet de zone et de sécurité délègue au
-sein de l'état-major du préfet maritime un ou plusieurs membres de l'état-major de zone et le préfet maritime délègue un ou
-plusieurs de ses subordonnés au sein de l'état-major de zone.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 19 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 23
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R122-18 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1631-1 (V)
-
-
-###### Article R*1311-28
-
-Le Premier ministre arrête les conditions dans lesquelles des personnels civils et militaires des ministères de l'intérieur,
-de la défense, de la santé, de l'économie, de l'industrie, du budget, de l'agriculture, des transports, de l'environnement,
-de l'énergie et de l'aménagement du territoire sont mis à la disposition du préfet de zone de défense et de sécurité en vue
-d'assurer le fonctionnement de l'état-major interministériel de zone de défense et de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 20 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-29 (VD)
-	  - Code de la défense. - art. R*1671-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R122-19 (VD)
-
-
-##### Sous-section 8 : Dispositions particulières à la zone de défense de Paris
-
-###### Article R*1311-29
-
-I.-Dans la zone de défense de Paris, les attributions du préfet de zone sont exercées par le préfet de police. 
-
-II.-Les dispositions des articles R. * 1311-21, du III de l'article R. 1311-22-1, ainsi que l'article R. 1311-23, le I de
-l'article R. 1311-24-1 et l'article R. 1311-26 ne sont pas applicables à la zone de défense et de sécurité de Paris. 
-
-III.-Le préfet de la zone de défense et de sécurité de Paris dispose d'un secrétariat général de zone de défense et de
-sécurité, placé sous l'autorité d'un préfet qui porte le titre de secrétaire général de zone de défense et de sécurité. Dans
-les matières relevant du champ de la sécurité civile, de la sécurité économique et de la sécurité des secteurs et
-installations d'importance vitale, les attributions dévolues à l'état-major interministériel de zone de défense et de
-sécurité sont exercées par le secrétariat général de zone de défense et de sécurité, auquel sont applicables les dispositions
-de l'article R. 1311-28. Il est également chargé de l'organisation des exercices zonaux. 
-
-Pour les autres matières concourant à la sécurité nationale, les attributions dévolues à l'état-major interministériel de
-zone de défense et de sécurité sont exercées par des directions et services de la préfecture de police. 
-
-IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité de Paris, les mots : " le
-préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le préfet secrétaire général de la zone de
-défense et de sécurité, le préfet secrétaire général pour l'administration de la préfecture de police ".
-
-V.-Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone de défense et de
-sécurité de Paris dispose des secrétariats généraux pour l'administration de la police de Paris et de Versailles dans des
-conditions fixées par décret en Conseil d'Etat. 
-
-VI.-Le préfet de police, préfet de la zone de défense et de sécurité de Paris coordonne, par ses orientations, l'action des
-préfets des départements d'Ile-de-France dans l'exercice des pouvoirs de police de la circulation et du stationnement sur les
-routes dont la liste est fixée par arrêté du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 21 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 17
-
-	**Cité par**:
-
-	  - Arrêté du 23 juin 2010 - art. 1 (V)
-	  - Arrêté du 23 juin 2010 - art. Annexe (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R*122-39 (VD)
-	  - Code de la sécurité intérieure - art. R*122-40 (VD)
-	  - Code de la sécurité intérieure - art. R*122-41 (VD)
-	  - Code de la sécurité intérieure - art. R*122-42 (VD)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1311-21
-	  - Code de la défense. - art. R*1311-23
-	  - Code de la défense. - art. R*1311-26
-	  - Code de la défense. - art. R*1311-28
-	  - Code de la défense. - art. R1311-22-1
-	  - Code de la défense. - art. R1311-24-1
-
-
-##### Section 3 : Préfets de région
-
-###### Article R*1311-30
-
-En application de l'article L. 1111-7 du code général des collectivités territoriales, le préfet de région assure le respect
-par la région des sujétions imposées par la défense nationale, notamment en matière d'aménagement du territoire, d'urbanisme,
-de construction, d'équipements productifs, d'investissements collectifs et de fonctionnement des services collectifs. 
-
-Le préfet de région, qui dispose en tant que de besoin de services de la région, reçoit, sur sa demande, du président du
-conseil régional toutes informations qu'il estime nécessaires à l'exercice de ses attributions de défense. Il est seul
-habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations non militaires de
-défense imposées à la région, à l'un de ses établissements publics ou aux groupements de régions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R*122-6 (VD)
-	  - Code de la défense. - art. R*1311-5 (VT)
-	  - Code de la défense. - art. R*1631-1 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1111-7 (V)
-
-
-###### Article R*1311-31
-
-Sous l'autorité du préfet de zone, le préfet de région contribue à la préparation et à la mise en oeuvre des mesures
-intéressant la défense économique dans la région. A ce titre, il dispose d'une commission régionale de défense économique
-dont la composition et les missions sont définies par arrêté interministériel.
-
-Le directeur régional des finances publiques est le conseiller permanent du préfet de région pour les questions économiques
-intéressant la défense et la sécurité nationale. En matière de sécurité économique, il exerce ces fonctions conjointement
-avec le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
-
-Le préfet de région ou, en son absence, le directeur régional des finances publiques préside la commission régionale de
-défense économique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 12 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 18
-	  - Décret n°2010-224 du 4 mars 2010 - art. 23
-
-
-###### Article R*1311-32
-
-Le service interministériel régional des affaires civiles et économiques de défense et de la protection civile placé auprès
-du préfet de région ou de Corse lui permet d'animer, de coordonner et de contrôler l'action des services déconcentrés des
-administrations civiles dans la région en ce domaine. Les administrations civiles apportent leur concours au préfet de région
-ou de Corse en désignant des fonctionnaires dans les conditions fixées par arrêtés interministériels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 13 (M)
-	  - Décret n°83-321 du 20 avril 1983 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-
-##### Section 4 : Préfets de département
-
-###### Article R*1311-33
-
-Le préfet est responsable de la protection des personnes, de la sauvegarde des installations et ressources d'intérêt général
-ainsi que des mesures relatives à la production, la réunion et l'utilisation des diverses catégories de ressources et à
-l'utilisation de l'infrastructure. 
-
-Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues aux articles L. 2131-5, L.
-2215-1, L. 3221-4 et L. 3221-5 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2131-5 (V)
-	  - Code général des collectivités territoriales - art. L2215-1 (V)
-	  - Code général des collectivités territoriales - art. L3221-4 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1631-1 (V)
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1641-1-1 (V)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1661-2 (V)
-	  - Code de la défense. - art. R*1671-1 (M)
-	  - Code de la défense. - art. R*1671-2 (V)
-
-
-###### Article R*1311-34
-
-Le préfet est chargé de la préparation et de l'exécution des mesures non militaires de défense, notamment du plan général de
-protection et du dispositif opérationnel ORSEC.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 19
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
-###### Article R*1311-35
-
-1° Le préfet concourt à la liberté d'action des forces armées et contribue à leur soutien.
-
-2° Le préfet, l'officier général de zone de défense, le général commandant la région terre, le général commandant la défense
-aérienne et les opérations aériennes, le général commandant la région de gendarmerie et, s'il y a lieu, l'amiral commandant
-la région maritime coopèrent à l'élaboration et à la mise en oeuvre des mesures de défense, notamment lors de l'établissement
-du plan général de protection et des plans de défense. Ils se tiennent informés en permanence des questions d'intérêt commun.
-
-3° Le préfet, pour l'exercice de ses responsabilités de défense de caractère non militaire, peut demander le concours des
-forces armées ou les requérir.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 20
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
-###### Article R*1311-36
-
-En application de l'article L. 1111-7 du code général des collectivités territoriales, le préfet assure le respect par les
-communes et le département des sujétions imposées par la défense nationale, notamment en matière d'aménagement du territoire,
-d'urbanisme, de construction, d'équipements productifs, d'investissements collectifs et de fonctionnement des services
-collectifs. 
-
-Le préfet, qui dispose en tant que de besoin des services des collectivités territoriales, reçoit, sur sa demande, du
-président du conseil général et des maires toutes informations qu'il estime nécessaires à l'exercice de ses attributions de
-défense. Il est seul habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations
-liées à la sécurité nationale imposées aux collectivités territoriales, à leurs groupements et à leurs établissements
-publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 21
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R*122-6 (VD)
-	  - Code de la défense. - art. R*1311-5 (VT)
-	  - Code de la défense. - art. R*1641-1-1 (V)
-	  - Code de la défense. - art. R*1661-2 (V)
-	  - Code de la défense. - art. R*1671-2 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1111-7
-
-
-###### Article R*1311-37
-
-1° Le préfet exerce en matière de défense son autorité directe sur tous les chefs des services déconcentrés des
-administrations civiles ainsi que sur les délégués ou correspondants de ces administrations. Les établissements publics et
-autres organismes publics de l'Etat l'informent de tout ce qui peut concerner la défense dans le département. 
-
-2° Le directeur départemental des finances publiques  est le conseiller permanent du préfet pour les questions économiques
-intéressant la défense. 
-
-3° Le préfet ou, à défaut, le suppléant qu'il désigne préside les commissions compétentes en matière de    sécurité
-nationale , à l'exception de celles dont la présidence est confiée statutairement à un magistrat de l'ordre judiciaire ou à
-un membre d'une juridiction administrative. 
-
-4° Le sous-préfet coordonne sous l'autorité du préfet l'élaboration et l'exécution des mesures de    sécurité nationale  dans
-son arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 7 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2009-707 du 16 juin 2009 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 23
-
-
-###### Article R*1311-38
-
-Le service interministériel des affaires civiles et économiques de défense et de la protection civile placé auprès du préfet
-lui permet d'animer, de coordonner et de contrôler l'action des services déconcentrés des administrations civiles dans le
-département en ce domaine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-321 du 20 avril 1983 - art. 8 (M)
-	  - Décret n°83-321 du 20 avril 1983 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-
-###### Article R1311-38-1
-
-En cas de crise ou d'événement d'une particulière gravité constaté par arrêté du ministre de l'intérieur, les attributions
-dévolues au représentant de l'Etat sont exercées, dans le département de Paris, par le préfet de police.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-224 du 4 mars 2010 - art. 22
-
-
-##### Section 5 : Secteurs de sécurité des installations prioritaires de défense
-
-###### Article R*1311-39
-
-Dans les secteurs de sécurité des installations prioritaires de défense mentionnés au troisième alinéa de l'article L.
-1321-2, des mesures de protection ou de défense, nécessitées par la sûreté de ces installations, sont prises à titre
-permanent ou temporaire dans le cadre de la législation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-236 1973-03-01 art. 1 al. 1
-	  - Décret n°73-236 du 1 mars 1973 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1321-2 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1641-1 (M)
-	  - Code de la défense. - art. R*1651-1 (M)
-	  - Code de la défense. - art. R*1661-1 (M)
-	  - Code de la défense. - art. R*1671-1 (M)
-
-
-###### Article R*1311-40
-
-Lorsqu'un secteur de sécurité d'une installation prioritaire de défense est situé sur plusieurs départements limitrophes, il
-est appelé " secteur de sécurité interdépartemental ". Dès que ce secteur est délimité, l'un des préfets des départements
-concernés est chargé par décret de coordonner en tout temps la recherche et l'exploitation du renseignement relatif à la
-sécurité de cette installation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-236 du 1 mars 1973 - art. 2 (M)
-	  - Décret n°73-236 du 1 mars 1973 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-41 (V)
-
-
-###### Article R*1311-41
-
-Dans les secteurs mentionnés à l'article R. * 1311-40, les pouvoirs de police nécessaires au maintien de l'ordre détenus par
-les préfets des départements concernés peuvent, lorsque les circonstances l'exigent, être transférés au préfet désigné pour
-coordonner le renseignement. 
-
-Un décret pris en conseil des ministres fixe la date de ce transfert.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-236 du 1 mars 1973 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1311-40 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-42 (V)
-	  - Code de la défense. - art. R*1311-43 (V)
-
-
-###### Article R*1311-42
-
-Les pouvoirs dont le transfert est opéré par le décret mentionné à l'article R. * 1311-41 comprennent les pouvoirs généraux
-de police que les préfets tiennent du code général des collectivités territoriales ainsi que, lorsque l'état d'urgence est
-déclaré, les pouvoirs exceptionnels qu'ils tiennent de la loi n° 55-385 du 3 avril 1955 instituant un état d'urgence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°55-385 du 3 avril 1955 (V)
-	  - Code de la défense. - art. R*1311-41 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°73-236 du 1 mars 1973 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R*1311-43 (V)
-
-
-###### Article R*1311-43
-
-Lorsque les pouvoirs dont l'autorité civile est investie sont transférés à l'autorité militaire par application des
-dispositions de l'article L. 2121-2, relatives à l'état de siège, ou des dispositions des deuxième et troisième alinéas de
-l'article L. 1321-2, relatives au commandement militaire, les pouvoirs définis aux articles R. * 1311-41 et R. * 1311-42 sont
-transférés à une autorité unique. 
-
-Un décret pris en conseil des ministres fixe la date d'effet et détermine l'autorité militaire au profit de laquelle ce
-transfert est opéré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-236 du 1 mars 1973 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1321-2 (V)
-	  - Code de la défense. - art. L2121-2 (V)
-	  - Code de la défense. - art. R*1311-41 (V)
-	  - Code de la défense. - art. R*1311-42 (V)
-
-
-##### Chapitre Ier : Pouvoirs des préfets en matière de sécurité nationale
-
-##### Section 1 : Dispositions générales
 
 ##### Section 2 : Préfets de zone et de sécurité
 
@@ -26294,13 +25727,562 @@ défense et de sécurité.
 
 ##### Sous-section 7 : Etat-major de zone
 
+###### Article R*1311-26
+
+Le préfet de zone de défense et de sécurité dispose d'un état-major interministériel de zone de défense et de sécurité qui,
+en liaison avec les préfets de département, prépare et met en œuvre les mesures concourant à la sécurité nationale, notamment
+en matière de sécurité civile et de gestion de crise, définies aux articles R. * 1311-3 à R. * 1311-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2005-1157 du 13 septembre 2005 - art. 13 (M)
+	  - Code de la défense. - art. R*1311-29 (VD)
+	  - Code de la défense. - art. R*1611-1 (V)
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1671-1 (M)
+	  - Code de la santé publique - art. R1435-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-3
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-17 (VD)
+
+
+###### Article R*1311-27
+
+Lorsqu'un événement nécessite la gestion simultanée de moyens en mer et à terre, le  préfet de zone et de sécurité délègue au
+sein de l'état-major du préfet maritime un ou plusieurs membres de l'état-major de zone et le préfet maritime délègue un ou
+plusieurs de ses subordonnés au sein de l'état-major de zone.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 19 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-18 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1631-1 (V)
+
+
+###### Article R*1311-28
+
+Le Premier ministre arrête les conditions dans lesquelles des personnels civils et militaires des ministères de l'intérieur,
+de la défense, de la santé, de l'économie, de l'industrie, du budget, de l'agriculture, des transports, de l'environnement,
+de l'énergie et de l'aménagement du territoire sont mis à la disposition du préfet de zone de défense et de sécurité en vue
+d'assurer le fonctionnement de l'état-major interministériel de zone de défense et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 20 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 16
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-29 (VD)
+	  - Code de la défense. - art. R*1671-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-19 (VD)
+
+
 ##### Sous-section 8 : Dispositions particulières à la zone de défense de Paris
+
+###### Article R*1311-29
+
+I.-Dans la zone de défense de Paris, les attributions du préfet de zone sont exercées par le préfet de police. 
+
+II.-Les dispositions des articles R. * 1311-21, du III de l'article R. 1311-22-1, ainsi que l'article R. 1311-23, le I de
+l'article R. 1311-24-1 et l'article R. 1311-26 ne sont pas applicables à la zone de défense et de sécurité de Paris. 
+
+III.-Le préfet de la zone de défense et de sécurité de Paris dispose d'un secrétariat général de zone de défense et de
+sécurité, placé sous l'autorité d'un préfet qui porte le titre de secrétaire général de zone de défense et de sécurité. Dans
+les matières relevant du champ de la sécurité civile, de la sécurité économique et de la sécurité des secteurs et
+installations d'importance vitale, les attributions dévolues à l'état-major interministériel de zone de défense et de
+sécurité sont exercées par le secrétariat général de zone de défense et de sécurité, auquel sont applicables les dispositions
+de l'article R. 1311-28. Il est également chargé de l'organisation des exercices zonaux. 
+
+Pour les autres matières concourant à la sécurité nationale, les attributions dévolues à l'état-major interministériel de
+zone de défense et de sécurité sont exercées par des directions et services de la préfecture de police. 
+
+IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité de Paris, les mots : " le
+préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le préfet secrétaire général de la zone de
+défense et de sécurité, le préfet secrétaire général pour l'administration de la préfecture de police ".
+
+V.-Pour l'exercice de ses attributions en matière d'administration de la police nationale, le préfet de zone de défense et de
+sécurité de Paris dispose des secrétariats généraux pour l'administration de la police de Paris et de Versailles dans des
+conditions fixées par décret en Conseil d'Etat. 
+
+VI.-Le préfet de police, préfet de la zone de défense et de sécurité de Paris coordonne, par ses orientations, l'action des
+préfets des départements d'Ile-de-France dans l'exercice des pouvoirs de police de la circulation et du stationnement sur les
+routes dont la liste est fixée par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 21 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 17
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 2010 - art. 1 (V)
+	  - Arrêté du 23 juin 2010 - art. Annexe (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-39 (VD)
+	  - Code de la sécurité intérieure - art. R*122-40 (VD)
+	  - Code de la sécurité intérieure - art. R*122-41 (VD)
+	  - Code de la sécurité intérieure - art. R*122-42 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-21
+	  - Code de la défense. - art. R*1311-23
+	  - Code de la défense. - art. R*1311-26
+	  - Code de la défense. - art. R*1311-28
+	  - Code de la défense. - art. R1311-22-1
+	  - Code de la défense. - art. R1311-24-1
+
 
 ##### Section 3 : Préfets de région
 
+###### Article R*1311-30
+
+En application de l'article L. 1111-7 du code général des collectivités territoriales, le préfet de région assure le respect
+par la région des sujétions imposées par la défense nationale, notamment en matière d'aménagement du territoire, d'urbanisme,
+de construction, d'équipements productifs, d'investissements collectifs et de fonctionnement des services collectifs. 
+
+Le préfet de région, qui dispose en tant que de besoin de services de la région, reçoit, sur sa demande, du président du
+conseil régional toutes informations qu'il estime nécessaires à l'exercice de ses attributions de défense. Il est seul
+habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations non militaires de
+défense imposées à la région, à l'un de ses établissements publics ou aux groupements de régions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R*122-6 (VD)
+	  - Code de la défense. - art. R*1311-5 (VT)
+	  - Code de la défense. - art. R*1631-1 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-7 (V)
+
+
+###### Article R*1311-31
+
+Sous l'autorité du préfet de zone, le préfet de région contribue à la préparation et à la mise en oeuvre des mesures
+intéressant la défense économique dans la région. A ce titre, il dispose d'une commission régionale de défense économique
+dont la composition et les missions sont définies par arrêté interministériel.
+
+Le directeur régional des finances publiques est le conseiller permanent du préfet de région pour les questions économiques
+intéressant la défense et la sécurité nationale. En matière de sécurité économique, il exerce ces fonctions conjointement
+avec le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+Le préfet de région ou, en son absence, le directeur régional des finances publiques préside la commission régionale de
+défense économique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 18
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+
+###### Article R*1311-32
+
+Le service interministériel régional des affaires civiles et économiques de défense et de la protection civile placé auprès
+du préfet de région ou de Corse lui permet d'animer, de coordonner et de contrôler l'action des services déconcentrés des
+administrations civiles dans la région en ce domaine. Les administrations civiles apportent leur concours au préfet de région
+ou de Corse en désignant des fonctionnaires dans les conditions fixées par arrêtés interministériels.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 13 (M)
+	  - Décret n°83-321 du 20 avril 1983 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+
 ##### Section 4 : Préfets de département
 
+###### Article R*1311-33
+
+Le préfet est responsable de la protection des personnes, de la sauvegarde des installations et ressources d'intérêt général
+ainsi que des mesures relatives à la production, la réunion et l'utilisation des diverses catégories de ressources et à
+l'utilisation de l'infrastructure. 
+
+Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues aux articles L. 2131-5, L.
+2215-1, L. 3221-4 et L. 3221-5 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2131-5 (V)
+	  - Code général des collectivités territoriales - art. L2215-1 (V)
+	  - Code général des collectivités territoriales - art. L3221-4 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1631-1 (V)
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1641-1-1 (V)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1661-2 (V)
+	  - Code de la défense. - art. R*1671-1 (M)
+	  - Code de la défense. - art. R*1671-2 (V)
+
+
+###### Article R*1311-34
+
+Le préfet est chargé de la préparation et de l'exécution des mesures non militaires de défense, notamment du plan général de
+protection et du dispositif opérationnel ORSEC.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 19
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1671-1 (M)
+
+
+###### Article R*1311-35
+
+1° Le préfet concourt à la liberté d'action des forces armées et contribue à leur soutien.
+
+2° Le préfet, l'officier général de zone de défense, le général commandant la région terre, le général commandant la défense
+aérienne et les opérations aériennes, le général commandant la région de gendarmerie et, s'il y a lieu, l'amiral commandant
+la région maritime coopèrent à l'élaboration et à la mise en oeuvre des mesures de défense, notamment lors de l'établissement
+du plan général de protection et des plans de défense. Ils se tiennent informés en permanence des questions d'intérêt commun.
+
+3° Le préfet, pour l'exercice de ses responsabilités de défense de caractère non militaire, peut demander le concours des
+forces armées ou les requérir.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 20
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1671-1 (M)
+
+
+###### Article R*1311-36
+
+En application de l'article L. 1111-7 du code général des collectivités territoriales, le préfet assure le respect par les
+communes et le département des sujétions imposées par la défense nationale, notamment en matière d'aménagement du territoire,
+d'urbanisme, de construction, d'équipements productifs, d'investissements collectifs et de fonctionnement des services
+collectifs. 
+
+Le préfet, qui dispose en tant que de besoin des services des collectivités territoriales, reçoit, sur sa demande, du
+président du conseil général et des maires toutes informations qu'il estime nécessaires à l'exercice de ses attributions de
+défense. Il est seul habilité à conclure au nom de l'Etat les conventions nécessaires à la mise en oeuvre des obligations
+liées à la sécurité nationale imposées aux collectivités territoriales, à leurs groupements et à leurs établissements
+publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 21
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R*122-6 (VD)
+	  - Code de la défense. - art. R*1311-5 (VT)
+	  - Code de la défense. - art. R*1641-1-1 (V)
+	  - Code de la défense. - art. R*1661-2 (V)
+	  - Code de la défense. - art. R*1671-2 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1111-7
+
+
+###### Article R*1311-37
+
+1° Le préfet exerce en matière de défense son autorité directe sur tous les chefs des services déconcentrés des
+administrations civiles ainsi que sur les délégués ou correspondants de ces administrations. Les établissements publics et
+autres organismes publics de l'Etat l'informent de tout ce qui peut concerner la défense dans le département. 
+
+2° Le directeur départemental des finances publiques  est le conseiller permanent du préfet pour les questions économiques
+intéressant la défense. 
+
+3° Le préfet ou, à défaut, le suppléant qu'il désigne préside les commissions compétentes en matière de    sécurité
+nationale , à l'exception de celles dont la présidence est confiée statutairement à un magistrat de l'ordre judiciaire ou à
+un membre d'une juridiction administrative. 
+
+4° Le sous-préfet coordonne sous l'autorité du préfet l'élaboration et l'exécution des mesures de    sécurité nationale  dans
+son arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2009-707 du 16 juin 2009 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+
+
+###### Article R*1311-38
+
+Le service interministériel des affaires civiles et économiques de défense et de la protection civile placé auprès du préfet
+lui permet d'animer, de coordonner et de contrôler l'action des services déconcentrés des administrations civiles dans le
+département en ce domaine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-321 du 20 avril 1983 - art. 8 (M)
+	  - Décret n°83-321 du 20 avril 1983 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+
+###### Article R1311-38-1
+
+En cas de crise ou d'événement d'une particulière gravité constaté par arrêté du ministre de l'intérieur, les attributions
+dévolues au représentant de l'Etat sont exercées, dans le département de Paris, par le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-224 du 4 mars 2010 - art. 22
+
+
 ##### Section 5 : Secteurs de sécurité des installations prioritaires de défense
+
+###### Article R*1311-39
+
+Dans les secteurs de sécurité des installations prioritaires de défense mentionnés au troisième alinéa de l'article L.
+1321-2, des mesures de protection ou de défense, nécessitées par la sûreté de ces installations, sont prises à titre
+permanent ou temporaire dans le cadre de la législation en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-236 1973-03-01 art. 1 al. 1
+	  - Décret n°73-236 du 1 mars 1973 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1321-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1641-1 (M)
+	  - Code de la défense. - art. R*1651-1 (M)
+	  - Code de la défense. - art. R*1661-1 (M)
+	  - Code de la défense. - art. R*1671-1 (M)
+
+
+###### Article R*1311-40
+
+Lorsqu'un secteur de sécurité d'une installation prioritaire de défense est situé sur plusieurs départements limitrophes, il
+est appelé " secteur de sécurité interdépartemental ". Dès que ce secteur est délimité, l'un des préfets des départements
+concernés est chargé par décret de coordonner en tout temps la recherche et l'exploitation du renseignement relatif à la
+sécurité de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-236 du 1 mars 1973 - art. 2 (M)
+	  - Décret n°73-236 du 1 mars 1973 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-41 (V)
+
+
+###### Article R*1311-41
+
+Dans les secteurs mentionnés à l'article R. * 1311-40, les pouvoirs de police nécessaires au maintien de l'ordre détenus par
+les préfets des départements concernés peuvent, lorsque les circonstances l'exigent, être transférés au préfet désigné pour
+coordonner le renseignement. 
+
+Un décret pris en conseil des ministres fixe la date de ce transfert.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-236 du 1 mars 1973 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-40 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-42 (V)
+	  - Code de la défense. - art. R*1311-43 (V)
+
+
+###### Article R*1311-42
+
+Les pouvoirs dont le transfert est opéré par le décret mentionné à l'article R. * 1311-41 comprennent les pouvoirs généraux
+de police que les préfets tiennent du code général des collectivités territoriales ainsi que, lorsque l'état d'urgence est
+déclaré, les pouvoirs exceptionnels qu'ils tiennent de la loi n° 55-385 du 3 avril 1955 instituant un état d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°55-385 du 3 avril 1955 (V)
+	  - Code de la défense. - art. R*1311-41 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°73-236 du 1 mars 1973 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1311-43 (V)
+
+
+###### Article R*1311-43
+
+Lorsque les pouvoirs dont l'autorité civile est investie sont transférés à l'autorité militaire par application des
+dispositions de l'article L. 2121-2, relatives à l'état de siège, ou des dispositions des deuxième et troisième alinéas de
+l'article L. 1321-2, relatives au commandement militaire, les pouvoirs définis aux articles R. * 1311-41 et R. * 1311-42 sont
+transférés à une autorité unique. 
+
+Un décret pris en conseil des ministres fixe la date d'effet et détermine l'autorité militaire au profit de laquelle ce
+transfert est opéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-236 du 1 mars 1973 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1321-2 (V)
+	  - Code de la défense. - art. L2121-2 (V)
+	  - Code de la défense. - art. R*1311-41 (V)
+	  - Code de la défense. - art. R*1311-42 (V)
+
 
 ##### Chapitre II : Délégués et correspondants de zone de défense et de sécurité.
 
@@ -37824,7 +37806,7 @@ informés des relations qu'il entretient à ce titre et des déplacements qu'il 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
 
 
-##### Chapitre II : Défense économique
+##### Chapitre II : Sécurité économique
 
 ##### Section 1 : Organisation
 
@@ -38294,14 +38276,6 @@ l'article R. 1682-9 et en Nouvelle-Calédonie par arrêté du représentant de l
 
 	  - Code de la défense. - art. R1682-9 (V)
 
-
-##### Chapitre II : Sécurité économique
-
-##### Section 1 : Organisation
-
-##### Section 2 : Répartition des ressources industrielles
-
-##### Section 3 : Hydrocarbures
 
 #### TITRE IX : DISPOSITIONS FINALES
 
@@ -80039,17 +80013,17 @@ règles de classement plus favorables que celles prévues au présent article.
 ###### Article R4139-39
 
 Pour l'examen des demandes intéressant la fonction publique hospitalière, le membre mentionné au 3° de l'article R*. 4139-21
-est le directeur de l'hospitalisation et de l'organisation des soins ou son représentant.
+est le           directeur général de l'offre de soins  ou son représentant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2010-271 du 15 mars 2010 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*4139-21 (V)
+	  - Code de la défense. - art. R*4139-21
 
 	**Cité par**:
 

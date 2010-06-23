@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-06-06
+Version Consolidée au 2010-06-24
 
 # Partie législative
 
@@ -42753,29 +42753,13 @@ confiscation des matières, produits ou objets indûment livrés à des tiers.
 
 ##### Chapitre Ier : Protection du secret de la défense nationale
 
-###### Article D*2311-12
-
-Pour l'exercice de ses attributions mentionnées aux articles R. 2311-10 et R. 2311-11, le     secrétaire général de la
-défense et de la sécurité nationale dispose d'un service de sécurité de défense.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D*2441-4 (V)
-	  - Code de la défense. - art. D*2451-4 (V)
-	  - Code de la défense. - art. D*2461-5 (V)
-	  - Code de la défense. - art. D*2471-4 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2311-10
-
+##### Section 1 : Informations et supports classifiés
 
 ###### Article R2311-1
 
-Les renseignements, procédés, objets, documents, données informatisées ou fichiers présentant un caractère de secret de la
-défense nationale sont dénommés dans le présent chapitre : « informations ou supports protégés ».
+Les procédés, objets, documents, informations, réseaux informatiques, données informatisées ou fichiers présentant un
+caractère de secret de la défense nationale sont dénommés dans le présent chapitre : " informations  et supports classifiés
+".
 
 **Liens relatifs à cet article**
 
@@ -42817,26 +42801,26 @@ défense nationale sont dénommés dans le présent chapitre : « informations o
 	  - Code monétaire et financier - art. R153-5 (V)
 	  - Code pénal - art. R413-6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 
 ###### Article R2311-2
 
-Les informations ou supports protégés font l'objet d'une classification comprenant trois niveaux :
+Les informations  et supports classifiés font l'objet d'une classification comprenant trois niveaux : 
 
-1° Très Secret-Défense ;
+1° Très Secret-Défense ; 
 
-2° Secret-Défense ;
+2° Secret-Défense ; 
 
 3° Confidentiel-Défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -42853,21 +42837,22 @@ Les informations ou supports protégés font l'objet d'une classification compre
 
 ###### Article R2311-3
 
-Le niveau Très Secret-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire
-très gravement à la défense nationale et qui concernent les priorités gouvernementales en matière de défense.
+Le niveau Très Secret-Défense est réservé aux informations et supports qui concernent les priorités gouvernementales en
+matière de défense et de sécurité nationale et dont la divulgation est de nature à nuire très gravement à la défense
+nationale. 
 
-Le niveau Secret-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire
-gravement à la défense nationale.
+Le niveau Secret-Défense est réservé aux informations  et supports dont la divulgation est de nature à nuire gravement à la
+défense nationale. 
 
-Le niveau Confidentiel-Défense est réservé aux informations ou supports protégés dont la divulgation est de nature à nuire à
-la défense nationale ou pourrait conduire à la découverte d'un secret de la défense nationale classifié au niveau Très
-Secret-Défense ou Secret-Défense.
+Le niveau Confidentiel-Défense est réservé aux informations  et supports dont la divulgation est de nature à nuire à la
+défense nationale ou pourrait conduire à la découverte d'un secret de la défense nationale classifié au niveau Très Secret-
+Défense ou Secret-Défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -42877,15 +42862,25 @@ Secret-Défense ou Secret-Défense.
 
 ###### Article R2311-4
 
-Les informations ou supports protégés portent la mention de leur niveau de classification.
+Les informations  et supports classifiés portent la mention de leur niveau de classification.
 
-Les modifications ou suppressions des mentions sont décidées par les autorités qui ont procédé à la classification.
+Les informations et supports classifiés qui ne doivent être communiqués, totalement ou partiellement, en raison de leur
+contenu qu'à certaines organisations internationales ou à certains Etats ou à leurs ressortissants, portent, en sus de la
+mention de leur niveau de classification, une mention particulière précisant les Etats, leurs ressortissants ou les
+organisations internationales pouvant y avoir accès.
+
+Les informations et supports classifiés qui ne doivent en aucun cas être communiqués totalement ou partiellement à des
+organisations internationales, à des Etats étrangers ou à leurs ressortissants portent, en sus de la mention de leur niveau
+de classification, la mention particulière "Spécial France".
+
+Les modifications du niveau de classification et la déclassification ainsi que les modifications et les suppressions des
+mentions particulières sont décidées par les autorités qui ont procédé à la classification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -42896,33 +42891,33 @@ Les modifications ou suppressions des mentions sont décidées par les autorité
 
 ###### Article R2311-5
 
-Le Premier ministre détermine les critères et les modalités d'organisation de la protection des informations ou supports
-protégés classifiés au niveau Très Secret-Défense.
+Le Premier ministre détermine les critères et les modalités d'organisation de la protection des informations  et supports
+classifiés au niveau Très Secret-Défense. 
 
-Pour les informations ou supports protégés classifiés au niveau Très Secret-Défense, le Premier ministre définit les
-classifications spéciales dont ils font l'objet et qui correspondent aux différentes priorités gouvernementales.
+Pour les informations  et supports classifiés au niveau Très Secret-Défense, le Premier ministre définit les classifications
+spéciales dont ils font l'objet et qui correspondent aux différentes priorités gouvernementales. 
 
 Dans les conditions fixées par le Premier ministre, chaque ministre, pour ce qui relève de ses attributions, détermine les
-informations ou supports protégés qu'il y a lieu de classifier à ce niveau.
+informations  et supports qu'il y a lieu de classifier à ce niveau.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 
 ###### Article R2311-6
 
-Dans les conditions fixées par le Premier ministre, les informations ou supports protégés classifiés au niveau Secret-Défense
-ou Confidentiel-Défense, ainsi que les modalités d'organisation de leur protection, sont déterminés par chaque ministre pour
-le département dont il a la charge.
+Dans les conditions fixées par le Premier ministre, les informations  et supports classifiés au niveau Secret-Défense ou
+Confidentiel-Défense, ainsi que les modalités d'organisation de leur protection, sont déterminés par chaque ministre pour les
+administrations et les organismes relevant de son département ministériel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -42930,16 +42925,46 @@ le département dont il a la charge.
 	  - Arrêté du 19 octobre 2016 - art. 16 (VD)
 
 
-###### Article R2311-7
+###### Article R2311-6-1
 
-Nul n'est qualifié pour connaître des informations ou supports protégés s'il n'a fait au préalable l'objet d'une décision
-d'habilitation et s'il n'a besoin de les connaître pour l'accomplissement de sa fonction ou de sa mission.
+Les systèmes d'information contenant des informations classifiées font l'objet, préalablement à leur emploi, d'une
+homologation de sécurité à un niveau au moins égal au niveau de classification de ces informations.
+
+La protection de ces systèmes d'information doit, dans des conditions fixées par arrêté du Premier ministre, au regard
+notamment des menaces pesant sur la disponibilité et l'intégrité de ces systèmes et sur la confidentialité et l'intégrité des
+informations qu'ils contiennent, être assurée par des dispositifs, matériels ou logiciels, agréés par l'Agence nationale de
+la sécurité des systèmes d'information.
+
+L'autorité responsable de l'emploi du système d'information atteste de l'aptitude du système à assurer notamment, au niveau
+requis, la disponibilité et l'intégrité du système ainsi que la confidentialité et l'intégrité des informations que ce
+dernier contient. Cette attestation vaut homologation de sécurité. Un arrêté du Premier ministre fixe les conditions
+d'application de ces dispositions.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre V : 85 à 94) (Ab)
+	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-1405 du 5 novembre 2015 - art. Annexe 1 (V)
+
+
+###### Article R2311-7
+
+Nul n'est qualifié pour connaître des informations  et supports classifiés s'il n'a fait au préalable l'objet d'une décision
+d'habilitation et s'il n'a besoin, selon l'appréciation de l'autorité d'emploi sous laquelle il est placé, au regard
+notamment du catalogue des emplois justifiant une habilitation établi par cette autorité, de les connaître pour l'exercice de
+sa fonction ou l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -42962,28 +42987,87 @@ d'habilitation et s'il n'a besoin de les connaître pour l'accomplissement de sa
 	  - Code du domaine de l'Etat - art. R127-1 (Ab)
 
 
+###### Article R2311-7-1
+
+Nul n'est qualifié pour accéder à un système d'information ou à ses dispositifs, matériels ou logiciels, de protection,
+lorsque cet accès permet de connaître des informations classifiées qui y sont contenues ou de modifier les dispositifs de
+protection de ces informations, s'il n'a fait au préalable l'objet d'une décision d'habilitation et s'il n'a besoin, selon
+l'appréciation de l'autorité responsable de l'emploi du système, d'y accéder pour l'exercice de sa fonction ou
+l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre V : 85 à 94) (Ab)
+	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
+	  - Code des postes et des communications électroni... - art. R9-7 (V)
+
+
+###### Article R2311-7-2
+
+Les habilitations mentionnées aux articles R. 2311-7 et R. 2311-7-1 peuvent être délivrées à des personnes physiques ainsi
+qu'à des personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-7
+
+
 ###### Article R2311-8
 
-La décision d'habilitation précise le niveau de classification des informations ou supports protégés dont le titulaire peut
-connaître. Elle intervient à la suite d'une procédure définie par le Premier ministre.
+La décision d'habilitation précise le niveau de classification des informations  et supports classifiés dont le titulaire
+peut connaître ainsi que le ou les emplois qu'elle concerne. Elle intervient à la suite d'une procédure définie par le
+Premier ministre.
 
 Elle est prise par le Premier ministre pour le niveau Très Secret-Défense et indique notamment la ou les catégories spéciales
-auxquelles la personne habilitée a accès.
+auxquelles la personne habilitée a accès. 
 
 Pour les niveaux de classification Secret-Défense et Confidentiel-Défense, la décision d'habilitation est prise par chaque
 ministre pour le département dont il a la charge.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R 536-6-1 (V)
 	  - Code de l'environnement - art. R532-34 (V)
 	  - Code de la défense. - art. D3126-6 (V)
+
+
+###### Article R2311-8-1
+
+Chaque ministre peut déléguer par arrêté au préfet territorialement compétent la signature des décisions d'habilitation à
+connaître des informations couvertes par le secret de la défense nationale des agents de son département ministériel placés
+sous l'autorité du préfet et des personnes employées dans des organismes relevant de ses attributions.
+
+Le ministre de la défense peut déléguer par arrêté la signature des décisions d'habilitation à connaître des informations
+couvertes par le secret de la défense nationale aux autorités relevant de son département ministériel, pour les personnels
+placés sous l'autorité de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1657 du 28 novembre 2011 (V)
 
 
 ###### Article R2311-9
@@ -43003,9 +43087,9 @@ militaire est soumise à l'autorisation préalable du commandant de la formation
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - DEPLACE: Décret n°2010-678 du 21 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -43013,20 +43097,193 @@ militaire est soumise à l'autorisation préalable du commandant de la formation
 	  - Code de l'environnement - art. R532-34 (V)
 
 
+##### Section 2 : Lieux abritant des éléments couverts par le secret de la défense nationale 
+
+
+
+###### Article R2311-9-1
+
+La liste des lieux abritant des éléments couverts par le secret de la défense nationale mentionnée au deuxième alinéa de
+l'article 56-4 du code de procédure pénale est établie, par arrêté du Premier ministre, sur proposition des ministres
+intéressés. 
+
+La liste désigne les lieux en cause dans des conditions de nature à permettre l'identification exacte de ceux-ci par la
+Commission consultative du secret de la défense nationale et les magistrats. Elle peut comporter des catégories de locaux,
+classés par département ministériel, lorsque cette désignation suffit à l'identification des lieux ou, dans le cas contraire,
+des localisations individuelles. Elle est régulièrement actualisée. 
+
+La liste est transmise au ministre de la justice et au président de la Commission consultative du secret de la défense
+nationale. Le ministre de la justice met en œuvre, dans des conditions définies par arrêté du Premier ministre, un accès
+sécurisé à la liste, de nature à préserver la confidentialité de celle-ci et permettant à chaque magistrat de vérifier si le
+lieu dans lequel il souhaite effectuer une perquisition figure sur cette liste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 23 juillet 2010 - art. Annexe (Titre IV : 70 à 84) (Ab)
+	  - Arrêté du 3 mai 2011 (V)
+	  - Arrêté du 30 novembre 2011 (V)
+	  - Décret n°2011-1692 du 30 novembre 2011 - art. 1 (V)
+	  - Arrêté du 5 janvier 2012 (V)
+	  - Arrêté du 29 janvier 2013 (V)
+	  - Arrêté du 2 mai 2013 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 56-4
+
+
+##### Section 3 : Lieux faisant l'objet d'une classification au titre du secret de la défense nationale
+
+###### Article R2311-9-2
+
+Les lieux auxquels il ne peut être accédé sans que, à raison des installations ou des activités qu'ils abritent, cet accès
+donne par lui-même connaissance d'un secret de la défense nationale sont dénommés, dans la présente section, "lieux
+classifiés".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
+
+
+###### Article R2311-9-3
+
+La décision de classification d'un lieu est prise, pour une durée de cinq ans, par arrêté du Premier ministre, pris sur
+proposition des ministres concernés et après avis motivé de la Commission consultative du secret de la défense nationale.
+Elle est renouvelable.
+
+L'arrêté est publié au Journal officiel. Une annexe classifiée identifie et délimite précisément les lieux concernés. Cette
+annexe ainsi que l'avis, tant son sens que ses motifs, de la Commission consultative du secret de la défense nationale la
+concernant ne sont pas publiés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2311-9-4 (Ab)
+
+
+###### Article R2311-9-4
+
+L'arrêté mentionné à l'article R. 2311-9-3 et son annexe sont communiqués au président de la Commission consultative du
+secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-9-3
+
+
+###### Article R2311-9-5
+
+Nul ne peut être qualifié pour accéder à un lieu classifié s'il n'y a pas été au préalable autorisé par le chef
+d'établissement ou son délégué et s'il n'est qualifié pour connaître des secrets de la défense nationale auxquels l'accès aux
+lieux donne par lui-même connaissance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
+
+
+###### Article R2311-9-6
+
+Les lieux classifiés sont inclus dans des zones protégées au sens de l'article 413-7 du code pénal. Le Premier ministre
+détermine les modalités d'organisation de la protection des lieux classifiés, notamment les mesures visant à prévenir l'accès
+des personnes non qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 413-7
+
+
+##### Section 4 : Le secrétaire général de la défense et de la sécurité nationale
+
+###### Article D*2311-12
+
+Pour l'exercice de ses attributions mentionnées aux articles R. 2311-10 et R. 2311-11, le     secrétaire général de la
+défense et de la sécurité nationale dispose d'un service de sécurité de défense.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2010-678 du 21 juin 2010 - art. 4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D*2441-4 (V)
+	  - Code de la défense. - art. D*2451-4 (V)
+	  - Code de la défense. - art. D*2461-5 (V)
+	  - Code de la défense. - art. D*2471-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-10
+
+
 ###### Article R2311-10
 
-Sous l'autorité du Premier ministre, le     secrétaire général de la défense et de la sécurité nationale est chargé
-d'étudier, de prescrire et de coordonner sur le plan interministériel les mesures propres à assurer la protection des secrets
-intéressant la défense nationale. 
+Sous l'autorité du Premier ministre, le secrétaire général de la défense et de la sécurité nationale est chargé d'étudier, de
+prescrire et de coordonner sur le plan interministériel les mesures propres à assurer la protection des secrets intéressant
+la défense nationale. Il a qualité d'autorité nationale de sécurité pour le secret de la défense nationale, pour
+l'application des accords et traités internationaux prévoyant une telle autorité.
 
-Le     secrétaire général de la défense et de la sécurité nationale veille à la mise en œuvre de ces mesures. Il a qualité
-pour la contrôler. Il a la possibilité en toutes circonstances de saisir, par l'intermédiaire des ministres intéressés, les
-services qui concourent à la répression des délits. 
+Le secrétaire général de la défense et de la sécurité nationale veille à la mise en œuvre des mesures mentionnées au premier
+alinéa. Il a qualité pour la contrôler. Il a la possibilité en toutes circonstances de saisir, par l'intermédiaire des
+ministres intéressés, les services qui concourent à la répression des délits. 
 
 Les attributions de sécurité de défense définies ci-dessus n'affectent pas les responsabilités propres des ministres en cette
 matière.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 4
 
 	**Cité par**:
 
@@ -43034,22 +43291,90 @@ matière.
 	  - Code de la défense. - art. R2311-11 (V)
 
 
+###### Article R2311-10-1
+
+Le secrétaire général de la défense et de la sécurité nationale peut, en sa qualité d'autorité nationale de sécurité pour le
+secret de la défense nationale, nommer dans des domaines particuliers, notamment dans le domaine industriel, sur proposition
+du ou des ministres intéressés, une autorité de sécurité déléguée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 4
+
+
 ###### Article R2311-11
 
-Le     secrétaire général de la défense et de la sécurité nationale, conformément aux dispositions de l'article R. 2311-10,
+Le secrétaire général de la défense et de la sécurité nationale, conformément aux dispositions de l'article R. 2311-10,
 prescrit, coordonne et contrôle l'application des mesures propres à assurer la protection du secret dans les rapports entre
 la France et les Etats étrangers. 
 
-Il assure, en application des accords internationaux, la sécurité des informations classifiées confiées à la France. 
+Il assure, en application des accords internationaux, la sécurité des informations classifiées confiées à la France. Il
+définit les mesures de protection des informations et supports dont la France est détentrice, qui ont été classifiés par un
+Etat étranger ou une organisation internationale et qui ne portent pas la mention d'un niveau de classification équivalent à
+ceux définis à l'article R. 2311-2. 
 
 Il définit les mesures propres à assurer la protection des informations nationales confiées à des Etats étrangers ou à des
 organisations internationales.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 4
+
 	**Cite**:
 
 	  - Code de la défense. - art. R2311-10
+	  - Code de la défense. - art. R2311-2
+
+
+##### Chapitre II : Commission consultative du secret de la défense nationale
+
+###### Article R2312-1
+
+Le président de la Commission consultative du secret de la défense nationale peut lors de perquisitions réalisées par un
+magistrat, en application des dispositions du I de l'article 56-4 du code de procédure pénale, se faire représenter par un
+membre de la commission ou un délégué choisi sur une liste établie par la commission. En ce cas, il procède à la désignation
+de ce représentant dès la réception de la décision du magistrat. 
+
+Peuvent figurer sur la liste le secrétaire général et les anciens membres de la Commission consultative du secret de la
+défense nationale, ainsi que des personnes présentant des garanties au regard des deux objectifs constitutionnels de
+recherche des auteurs d'infractions pénales et de sauvegarde des intérêts fondamentaux de la nation, et n'exerçant pas de
+fonctions susceptibles de leur donner à connaître de la procédure judiciaire à l'origine de la perquisition. Les personnes
+figurant sur la liste doivent être habilitées au secret de la défense nationale pour l'accomplissement de leur mission. 
+
+Le choix du représentant doit permettre la présence effective de celui-ci sur le lieu de la perquisition envisagée par le
+magistrat, pendant toute la durée prévisible de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 56-4 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2312-2
+
+Le magistrat et le représentant désigné par le président de la Commission consultative du secret de la défense nationale
+sont, par tous moyens, immédiatement informés de la désignation réalisée par le président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-678 du 21 juin 2010 - art. 5
 
 
 ##### Chapitre III : Règles spéciales
@@ -51225,14 +51550,14 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2311-11, R. 2313-4 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R.
-2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articlesR. 2311-1 à R. 2313-1, R. 2313-4 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109,
+R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2010-678 du 21 juin 2010 - art. 6 (V)
 
 	**Cité par**:
 

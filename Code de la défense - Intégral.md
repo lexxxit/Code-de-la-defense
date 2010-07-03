@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-04
 
 # Partie législative
 
@@ -47804,15 +47804,15 @@ douanes.
 
 ###### Article R2352-22
 
-Les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section fixent les conditions
+Les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section fixent les conditions
 auxquelles sont soumis le marquage, l'acquisition, la livraison, la détention, le transport et l'emploi des produits
 explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit des produits explosifs. 
 
-Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section ne sont pas
+Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section ne sont pas
 applicables : 
 
-1° Aux articles de divertissement définis par le décret n° 90-897 du 1er octobre 1990 relatif à la réglementation des
-artifices de divertissement ; 
+1° Aux artifices de divertissement définis par l'article 13 du décret n° 2010-455 du 4 mai 2010 relatif à la réglementation
+des artifices de divertissement ; 
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ; 
 
@@ -47825,19 +47825,14 @@ portatives à projectiles inertes des 1re, 4e, 5e et 7e catégories.
 
 Les produits autres que ceux définis ci-dessus qui peuvent être utilisés tels quels ou avec des modifications pour leurs
 effets explosifs, inscrits sur une liste établie par arrêté conjoint du ministre de l'industrie sont réputés produits
-explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section.
+explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°81-972 du 21 octobre 1981 - art. 1 (Ab)
-
 	**Cite**:
 
-	  - Décret n°90-897 du 1 octobre 1990 (V)
 	  - Décret n°95-589 du 6 mai 1995 (V)
-	  - Décret du 18 avril 1939 (Ab)
+	  - Décret n°2010-455 du 4 mai 2010 (V)
 
 	**Cité par**:
 
@@ -47846,9 +47841,9 @@ explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-section
 	  - Arrêté du 3 mars 1982 - art. 1 (V)
 	  - Code de la défense. - art. R2352-47 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ##### Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation
@@ -47916,22 +47911,22 @@ obtenue pour chaque installation ; cette autorisation fixe l'aire géographique 
 
 ###### Article R2352-26
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage  CE  au sens de l'article R. 2352-49, d'un Etat
-membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple délivrée au destinataire par
-le ministre chargé des douanes après avis conforme du ministre de l'intérieur et du ministre chargé de l'industrie. La
-décision d'autorisation ou de refus est notifiée au pétitionnaire par le ministre chargé des douanes. L'autorisation peut
-être suspendue ou abrogée à tout moment par décision motivée, après que l'intéressé ait été mis à même de présenter ses
-observations.
+Le transfert de produits explosifs de statut communautaire soumis au marquage CE au sens de l'article 4 du décret n° 2010-455
+du 4 mai 2010, d'un Etat membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple
+délivrée au destinataire par le ministre chargé des douanes après avis conforme du ministre de l'intérieur et du ministre
+chargé de l'industrie. La décision d'autorisation ou de refus est notifiée au pétitionnaire par le ministre chargé des
+douanes. L'autorisation peut être suspendue ou abrogée à tout moment par décision motivée, après que l'intéressé ait été mis
+à même de présenter ses observations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 8-2 (Ab)
+	  - Décret n°2010-455 du 4 mai 2010 - art. 4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -47944,10 +47939,6 @@ observations.
 	  - Code de la défense. - art. R2352-4 (V)
 	  - Code de la défense. - art. R2352-45 (V)
 	  - Code de la défense. - art. R2352-5 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-49 (V)
 
 
 ###### Article R2352-27
@@ -48133,21 +48124,21 @@ domicile du demandeur à des personnes non titulaires des autorisations mentionn
 
 ###### Article R2352-34
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage « CE » au sens de l'article R. 2352-49, de
-France vers un autre Etat membre de la Communauté européenne, est subordonné à l'obtention de l'autorisation de transfert
-simple ou de transferts multiples délivrée au destinataire par l'Etat membre de destination ainsi que de l'autorisation du
-ministre chargé des douanes prise après avis conforme du ministre chargé de l'industrie. Le ministre chargé des douanes
-notifie au pétitionnaire la décision par laquelle il statue sur une demande d'autorisation.
+Le transfert de produits explosifs de statut communautaire soumis au marquage  CE  au sens de l'article 4 du décret n°
+2010-455 du 4 mai 2010, de France vers un autre Etat membre de la Communauté européenne, est subordonné à l'obtention de
+l'autorisation de transfert simple ou de transferts multiples délivrée au destinataire par l'Etat membre de destination ainsi
+que de l'autorisation du ministre chargé des douanes prise après avis conforme du ministre chargé de l'industrie. Le ministre
+chargé des douanes notifie au pétitionnaire la décision par laquelle il statue sur une demande d'autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 8-4 (Ab)
+	  - Décret n°2010-455 du 4 mai 2010 - art. 4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -48157,10 +48148,6 @@ notifie au pétitionnaire la décision par laquelle il statue sur une demande d'
 	  - Code de la défense. - art. R2352-4 (V)
 	  - Code de la défense. - art. R2352-46 (V)
 	  - Code de la défense. - art. R2352-5 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-49 (V)
 
 
 ###### Article R2352-35
@@ -48272,19 +48259,19 @@ l'application du décret du 18 avril 1939 fixant le régime des matériels de gu
 
 ###### Article R2352-39
 
-Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens de la sous-section 2 de la
-présente section, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est
-soumis à autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
+Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens du décret n° 2010-455 du 4 mai
+2010, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est soumis à
+autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 8-5 (Ab)
+	  - Décret n°2010-455 du 4 mai 2010
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -48435,23 +48422,20 @@ compétentes, sur leur demande, toutes les informations pertinentes relatives à
 
 ###### Article R2352-47
 
-Tout produit explosif doit faire l'objet d'un marquage. Les produits explosifs autres que ceux mentionnés à l'article R.
-2352-73 doivent en outre comporter un marquage spécial permettant leur identification. Ces marquages sont effectués sur le
-lieu de la fabrication, sous la responsabilité du fabricant. Les produits explosifs importés ou en transit doivent être
-revêtus de ces marquages au moment de leur introduction sur le territoire douanier. 
+Tout produit explosif doit faire l'objet d'un marquage dans les conditions prévues par le décret n° 2010-455 du 4 mai 2010.
+Les produits explosifs autres que ceux mentionnés à l'article R. 2352-73 doivent en outre comporter un marquage spécial
+permettant leur identification. Ces marquages sont effectués sur le lieu de la fabrication, sous la responsabilité du
+fabricant. Les produits explosifs importés ou en transit doivent être revêtus de ces marquages au moment de leur introduction
+sur le territoire douanier. 
 
 Le marquage doit être reproduit sur l'emballage contenant le produit et doit être suffisant pour permettre l'identification
-de cet emballage jusqu'à son destinataire final. L'obligation de marquage est limitée à l'emballage lorsque le produit, par
-sa consistance ou du fait de ses dimensions réduites, ne se prête pas lui-même à cette opération. 
+de cet emballage jusqu'à son destinataire final.L'obligation de marquage est limitée à l'emballage lorsque le produit, par sa
+consistance ou du fait de ses dimensions réduites, ne se prête pas lui-même à cette opération. 
 
 Un arrêté conjoint du ministre de l'intérieur, du ministre de la défense, du ministre des transports, du ministre chargé du
 budget et du ministre de l'industrie fixe les modalités techniques des marquages prévus au présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°81-972 du 21 octobre 1981 - art. 2 (Ab)
 
 	**Cité par**:
 
@@ -48464,505 +48448,21 @@ budget et du ministre de l'industrie fixe les modalités techniques des marquage
 	  - Code de la défense. - art. R2352-32 (V)
 	  - Code de la défense. - art. R2353-2 (V)
 
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-73 (V)
+	  - Décret n°2010-455 du 4 mai 2010
+	  - Code de la défense. - art. R2352-73
 
-
-###### Article R2352-48
-
-Le ministre chargé de l'industrie peut dispenser de l'application des articles R. 2352-49 à R. 2352-72 les produits explosifs
-faisant l'objet d'une demande d'utilisation sur le territoire national en quantités suffisamment limitées et avec des
-précautions particulières en sorte qu'il n'en résulte pas de risque pour la sécurité publique. 
-
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande de dérogation vaut décision de
-rejet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 10-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-49
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2353-3 (VT)
 
 
 ##### Paragraphe 1 : Produits explosifs soumis au marquage CE
 
-###### Article R2352-49
-
-Les produits explosifs soumis au marquage " CE " sont les produits explosifs de la classe 1 des recommandations des Nations
-unies relatives au transport des marchandises dangereuses dont la liste est publiée par arrêté des ministres de l'intérieur
-et de la défense et du ministre chargé de l'industrie. Sont exclus du champ d'application du présent paragraphe : 
-
-1° Les produits explosifs destinés à un usage militaire qui figurent sur la liste établie par l'article D. 2352-7 ainsi que
-des produits contenant de tels produits explosifs, à l'exception de ceux dont l'emploi est autorisé pour un usage civil dans
-les conditions fixées par un arrêté conjoint des ministres de l'intérieur et de la défense et du ministre chargé de
-l'industrie. 
-
-2° Les produits explosifs destinés à être utilisés par la police. 
-
-3° Les articles pyrotechniques spécialement conçus pour les besoins militaires ou pour la police. 
-
-4° Les articles pyrotechniques ci-après : artifices de divertissement au sens du décret n° 90-897 du 1er octobre 1990 portant
-réglementation des artifices de divertissement, articles pyrotechniques destinés à des fins industrielles, théâtrales ou
-cinématographiques ou aux fins d'émission de signaux, notamment de sauvetage ou à des fins similaires. 
-
-5° Les munitions et éléments de munitions destinés aux armes qui sont soumises au régime du décret n° 95-589 du 6 mai 1995
-relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions. Cette
-exception ne s'étend pas aux produits explosifs destinés au chargement de ces munitions et éléments de munitions, avant cette
-opération de chargement. 
-
-6° Les produits explosifs fabriqués sur le site d'emploi dans des installations mobiles de fabrication en vue d'un emploi
-immédiat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-1 (Ab)
-
-	**Cite**:
-
-	  - Décret n°90-897 du 1 octobre 1990
-	  - Décret n°95-589 du 6 mai 1995
-	  - Code de la défense. - art. D2352-7
-	  - Décret du 18 avril 1939
-
-	**Cité par**:
-
-	  - Arrêté du 29 février 2008 - art. Annexe I (VD)
-	  - Arrêté du 29 juillet 2010 (V)
-	  - Arrêté du 11 mai 2011 (V)
-	  - Code de la défense. - art. R2352-26 (V)
-	  - Code de la défense. - art. R2352-34 (V)
-	  - Code de la défense. - art. R2352-48 (VT)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-50
-
-Aucun produit explosif entrant dans le champ d'application du présent paragraphe ne peut être vendu, importé, exporté,
-transporté, encartouché, conservé, détenu ou employé s'il n'est accompagné de la déclaration de conformité prévue à l'article
-R. 2352-52 et s'il n'y est apposé par le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur
-le marché, selon les prescriptions des articles R. 2352-61 à R. 2352-63, le marquage " CE " prévu à l'article R. 2352-51.
-
-L'opération de marquage doit être renouvelée à chaque fois que la transformation d'un produit explosif modifie les conditions
-de sa conservation et de son utilisation. 
-
-Toutefois, ces obligations ne s'appliquent pas aux échantillons mentionnés au dernier alinéa du point 2 de l'annexe II à la
-présente partie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-51
-	  - Code de la défense. - art. R2352-52
-	  - Code de la défense. - art. R2352-61
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2353-3 (VT)
-
-
-###### Article R2352-51
-
-1° Le marquage " CE " d'un explosif au titre du présent paragraphe est subordonné à la double condition : 
-
-a) Que l'explosif satisfasse aux exigences essentielles de sécurité définies à l'annexe I à la présente partie ; 
-
-b) Qu'il ait fait l'objet de l'une des procédures d'évaluation de la conformité définies à l'article R. 2352-52. 
-
-2° Lorsqu'une norme nationale qui transpose une norme européenne harmonisée dont la référence a été publiée au Journal
-officiel de l'Union européenne couvre une ou plusieurs exigences essentielles de sécurité définies à l'annexe I à la présente
-partie, les produits explosifs soumis au marquage " CE " fabriqués conformément à cette norme sont présumés conformes à cette
-ou ces exigences essentielles de sécurité. 
-
-En l'absence de normes harmonisées, la conformité aux normes et spécifications techniques nationales est réputée concourir à
-l'application régulière des exigences essentielles de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-50 (VT)
-	  - Code de la défense. - art. R2352-52 (VT)
-	  - Code de la défense. - art. R2353-3 (VT)
-	  - Code de la défense. - art. R2353-4 (VT)
-
-
-###### Article R2352-52
-
-L'établissement de la déclaration de conformité des produits explosifs soumis au marquage " CE " par le fabricant,
-l'importateur ou son mandataire ou, lorsque ni l'un ni l'autre ne sont établis sur le territoire de la Communauté européenne,
-la personne responsable de la mise sur le marché, est subordonné à l'évaluation de la conformité de ces produits aux
-exigences essentielles de sécurité prévues à l'article R. 2352-51.
-
-Les procédures d'évaluation de la conformité peuvent être : 
-
-1° Soit l'examen " CE de type " ou " module B " défini à l'annexe II à la présente partie complété au choix du fabricant, de
-l'importateur ou son mandataire ou de la personne responsable de la mise sur le marché par : 
-
-a) La procédure relative à la conformité au type ou " module C " définie à l'annexe III à la présente partie ; 
-
-b) La procédure relative à l'assurance de qualité de production ou " module D " définie à l'annexe IV à la présente partie ; 
-
-c) La procédure relative à l'assurance de qualité du produit ou " module E " définie à l'annexe V à la présente partie ; 
-
-d) La vérification sur produit ou " module F " définie à l'annexe VI à la présente partie. 
-
-2° Soit la vérification à l'unité ou " module G " définie à l'annexe VII à la présente partie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-50 (VT)
-	  - Code de la défense. - art. R2352-51 (VT)
-	  - Code de la défense. - art. R2352-55 (VT)
-	  - Code de la défense. - art. R2353-4 (VT)
-
-
-###### Article R2352-53
-
-Le fabricant, l'importateur ou son mandataire ou, lorsque ni l'un ni l'autre ne sont établis sur le territoire de la
-Communauté européenne, la personne responsable de la mise sur le marché du produit tiennent à disposition des autorités
-pendant une durée d'au moins dix ans à compter de la dernière date de fabrication du produit la documentation technique
-concernant le produit et, le cas échéant, le système de contrôle de qualité mis en place. Ils conservent pendant la même
-durée une copie des attestations d'examen "CE de type".
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-54
-
-Le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur le marché du produit sont tenus aux
-fins de contrôle de donner accès aux locaux commerciaux et aux locaux de fabrication aux agents des organismes habilités
-chargés du contrôle des produits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-55
-
-Un arrêté du ministre chargé de l'industrie précise la nature des essais à réaliser dans le cadre de chacune des procédures
-d'évaluation mentionnées à l'article R. 2352-52.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-52
-
-
-###### Article R2352-56
-
-Les procédures d'évaluation de la conformité sont mises en œuvre par des organismes habilités à cet effet par arrêté du
-ministre chargé de l'industrie ; elles peuvent également l'être, pour certaines d'entre elles, par le fabricant sous le
-contrôle de ces organismes ; l'arrêté du ministre chargé de l'industrie définit les missions pour lesquelles ces organismes
-sont habilités et attribue à chacun d'eux un numéro d'identification.
-
-Cette habilitation est accordée en fonction des garanties d'indépendance et de compétence présentées par ces organismes, de
-l'expérience acquise en particulier dans le domaine technique considéré et de la disposition des moyens nécessaires à
-l'exécution des tâches pour lesquelles ils sont habilités.
-
-Ces organismes doivent pouvoir justifier de leur indépendance à l'égard des personnes susceptibles d'être intéressées par les
-résultats des essais ou examens qu'ils réalisent.
-
-Ces organismes doivent, en outre, avoir souscrit une assurance couvrant leur responsabilité civile.
-
-La rémunération des agents ne doit être liée ni au nombre des contrôles ni au résultat de ces contrôles.
-
-Les agents des organismes habilités sont tenus d'une obligation de confidentialité à l'égard des secrets de fabrication et
-des procédés d'exploitation dont ils pourraient avoir connaissance lors de leurs interventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 25 février 2005 - art. 2 (V)
-	  - Code de la défense. - art. R2352-58 (VT)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-57
-
-Le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur le marché auxquels l'organisme
-habilité a refusé de délivrer une attestation d'examen "CE de type" peuvent contester ce refus devant le ministre chargé de
-l'industrie ; celui-ci statue sur le recours après avis de la commission des produits explosifs prévue au chapitre 1er du
-présent titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-58
-
-Ces organismes doivent s'engager à autoriser les personnes désignées par le ministre à accéder à leurs locaux et à procéder à
-toutes les investigations permettant de vérifier qu'ils continuent de satisfaire aux conditions mentionnées à l'article R.
-2352-56.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-56
-
-
-###### Article R2352-59
-
-L'habilitation des organismes est notifiée aux autres Etats membres et à la commission des produits explosifs par le ministre
-chargé de l'industrie.
-
-Les organismes habilités par le ministre chargé de l'industrie communiquent aux autres organismes habilités des Etats membres
-les informations utiles concernant les attestations d'examen "CE de type" délivrées et retirées. Ils tiennent à la
-disposition de ces organismes les documents annexes aux attestations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-60
-
-L'apposition du marquage "CE" effectuée dans un Etat membre de la Communauté européenne conformément à sa législation produit
-les mêmes effets que les formalités correspondantes prévues par le présent paragraphe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-61
-
-Le marquage CE de conformité est apposé par le fabricant de manière visible, lisible et indélébile soit sur les produits
-explosifs, soit, si cela n'est pas possible, sur une étiquette fixée sur ceux-ci, soit enfin, si les deux premières méthodes
-ne sont pas réalisables, sur l'emballage. L'étiquette doit être conçue de manière à ne pas pouvoir être réutilisée.
-
-Le modèle du marquage "CE" et ses éléments constitutifs sont définis à l'annexe VIII à la présente partie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-50 (VT)
-
-
-###### Article R2352-62
-
-Lorsque des produits explosifs soumis au marquage "CE" doivent respecter des réglementations portant sur des caractéristiques
-techniques autres que celles édictées par le présent chapitre et prévoyant également l'apposition du marquage "CE", celui-ci
-signifie que ces produits sont présumés conformes à ces réglementations.
-
-Toutefois, lorsque certaines de ces réglementations laissent au fabricant le choix, pendant une période transitoire, du
-régime à appliquer, le marquage "CE" indique la conformité des produits aux seules réglementations que le fabricant déclare
-avoir appliquées ; dans ce cas, les références de la publication de ces réglementations au Journal officiel de la République
-française doivent être indiquées sur les documents, notices ou instructions qui accompagnent ces produits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-63
-
-Il est interdit d'apposer sur les produits explosifs des marques ou inscriptions propres à induire les tiers en erreur sur la
-signification et le graphisme du marquage "CE". Toute autre marque peut être apposée sur les explosifs à condition de laisser
-le marquage "CE" clairement visible et aisément lisible.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
 ###### Article R2352-64
 
-Le ministre chargé de l'industrie, en ce qui concerne la mise sur le marché des produits explosifs soumis au marquage "CE",
-le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation de ces produits à l'intérieur du territoire
+Le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation de ces produits à l'intérieur du territoire
 national et le ministre chargé des douanes en ce qui concerne le transfert de ces produits en provenance ou à destination
 d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces graves ou d'atteintes à l'ordre public en
 raison de la détention ou de l'emploi illicites de ces produits, prendre toutes mesures nécessaires pour prévenir cette
@@ -48970,267 +48470,9 @@ détention ou cet emploi illicites.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-
-##### Paragraphe 2 : Produits explosifs non soumis au marquage CE
-
-###### Article R2352-65
-
-Les produits explosifs non soumis au marquage " CE " qui, compte tenu, notamment, de leurs propriétés et de leur mode de
-distribution, présentent un danger particulier pour la sécurité publique et ont été inscrits à ce titre sur une liste fixée,
-après avis de la commission des produits explosifs prévue au chapitre 1er du présent titre, par arrêté conjoint des ministres
-chargés de l'intérieur, de la défense, de l'environnement et de l'industrie ne peuvent être produits, vendus, importés,
-exportés, transportés, encartouchés, conservés, détenus ou employés que s'ils sont conformes à un modèle agréé. 
-
-Toutefois, cette obligation de conformité ne s'applique pas : 
-
-1° Aux munitions et éléments de munitions des armes qui sont soumises au régime fixé par le décret n° 95-589 du 6 mai 1995
-relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
-
-2° Aux produits dont les caractéristiques sont conformes aux spécifications techniques fixées par le ministre de la défense
-et aux échantillons destinés à la mise au point de ces produits ; 
-
-3° Aux échantillons mentionnés à l'article R. 2352-67.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 2 (Ab)
-
-	**Cite**:
-
-	  - Décret n°95-589 du 6 mai 1995
-	  - Code de la défense. - art. R2352-67
-	  - Décret du 18 avril 1939
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2353-5 (VT)
-
-
-###### Article R2352-66
-
-La demande d'agrément d'un modèle peut être présentée au ministre chargé de l'industrie par une personne physique ou morale
-établie dans un Etat membre de la Communauté européenne. Elle doit être assortie d'un dossier qui doit notamment :
-
-1° Décrire le produit et préciser sa composition et ses caractéristiques ;
-
-2° Mentionner la désignation commerciale envisagée pour le produit ;
-
-3° Justifier de la capacité du demandeur à garantir la conformité ultérieure du produit au modèle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-68 (VT)
-
-
-###### Article R2352-67
-
-Le ministre fait procéder par un laboratoire agréé par lui, sur des échantillons représentatifs du produit, aux examens et
-épreuves figurant sur une liste établie par arrêté ministériel qui lui paraissent nécessaires. 
-
-Le cas échéant, il prend en compte les résultats d'examens et épreuves donnant des garanties équivalentes déjà effectués dans
-un Etat membre de la Communauté européenne par des organismes ou laboratoires offrant les garanties techniques,
-professionnelles et d'indépendance nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-65 (VT)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-68
-
-
-###### Article R2352-68
-
-La décision d'agrément est prise par le ministre chargé de l'industrie après avis de la commission des produits
-explosifs.L'agrément peut être donné pour une durée limitée. Son bénéfice peut être limité aux produits en transit ou
-destinés à l'exportation. 
-
-La décision d'agrément précise les caractéristiques par rapport auxquelles la conformité au modèle est ultérieurement
-appréciée. 
-
-Elle peut également comporter des prescriptions relatives, notamment, à la présentation matérielle du produit et aux
-informations qui doivent être données aux utilisateurs en ce qui concerne la péremption du produit et ses conditions
-d'emploi. 
-
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur la demande d'agrément d'un modèle mentionnée
-à l'article R. 2352-66 vaut décision de rejet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-66
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2352-67 (VT)
-	  - Code de la défense. - art. R2352-70 (VT)
-	  - Code de la défense. - art. R2352-72 (VT)
-	  - Code de la défense. - art. R2353-6 (VT)
-
-
-###### Article R2352-69
-
-L'agrément précise le nom du titulaire.
-
-L'accord du ministre chargé de l'industrie est requis pour le transfert de l'agrément à une autre personne. Celle-ci doit
-justifier de sa capacité à garantir la conformité ultérieure au modèle agréé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-70
-
-Lorsqu'il envisage d'apporter des modifications par rapport aux caractéristiques mentionnées à l'article R. 2352-68, le
-titulaire de l'agrément saisit le ministre chargé de l'industrie en lui précisant la nature des modifications envisagées. 
-
-La modification est réputée acceptée si, dans un délai de trois mois à compter de la saisine du ministre, celui-ci n'a pas
-signifié au titulaire qu'il devait présenter une nouvelle demande d'agrément.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-68
-
-
-###### Article R2352-71
-
-Le ministre chargé de l'industrie peut à tout moment prescrire des examens ou épreuves tendant à vérifier la conformité d'un
-produit au modèle agréé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-72
-
-Le ministre chargé de l'industrie peut, par décision motivée, suspendre ou retirer le bénéfice de l'agrément de modèle : 
-
-1° Lorsque le titulaire ne justifie plus de la capacité à garantir la conformité des produits explosifs aux modèles agréés
-correspondants ; 
-
-2° Lorsqu'un produit se prévalant d'un agrément n'était pas conforme au modèle ou que certaines des prescriptions prévues au
-troisième alinéa de l'article R. 2352-68 ne sont pas respectées ; 
-
-3° Pour des motifs de sécurité publique. 
-
-La décision de suspension fixe la durée de sa période d'effet, qui ne peut pas être supérieure à dix-huit mois. 
-
-La décision de retrait est prise après mise en demeure non suivie d'effet et consultation de la commission des produits
-explosifs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-68
 
 
 ##### Sous-section 3 : Acquisition, détention et transport des produits explosifs
@@ -49692,17 +48934,13 @@ aux articles R. 2352-76, R. 2352-81 et R. 2352-87 peuvent être retirés à tout
 
 ###### Article R2352-89
 
-L'exploitant d'une installation fixe ou mobile de produits explosifs doit en assurer la sécurité et la sûreté, en application
-des règles mentionnées à l'article R. 2352-90. 
+L'exploitant d'une installation fixe ou mobile de produits explosifs doit en assurer la sûreté, en application des règles
+mentionnées à l'article R. 2352-90. 
 
-Il doit donner libre accès, dans le respect des règles de sécurité, aux autorités compétentes chargées du contrôle de
-l'application des règles mentionnées à l'article R. 2352-90.
+Il doit donner libre accès, aux autorités compétentes chargées du contrôle de l'application des règles mentionnées à
+l'article R. 2352-90.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 11 (Ab)
 
 	**Cité par**:
 
@@ -49710,23 +48948,19 @@ l'application des règles mentionnées à l'article R. 2352-90.
 	  - Code de la défense. - art. R2352-95 (V)
 	  - Code de la défense. - art. R2352-96 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-90 (V)
+	  - Code de la défense. - art. R2352-90
 
 
 ###### Article R2352-90
 
-Les ministres de l'intérieur et de la défense et les ministres chargés de l'industrie, du travail et des installations
-classées fixent, par arrêtés pris après consultation de la commission des produits explosifs, les règles techniques de
-sécurité et de sûreté relatives à l'aménagement et à l'exploitation des installations fixes ou mobiles de produits explosifs.
-
-Les règles techniques relatives à la sécurité ont pour objet la prévention des explosions et incendies et la limitation de
-leurs effets.
+Les ministres de l'intérieur et de la défense et le ministre chargé, du travail fixent, par arrêtés, les règles techniques et
+de sûreté relatives à l'aménagement et à l'exploitation des installations fixes ou mobiles de produits explosifs.
 
 Les règles techniques relatives à la sûreté ont pour objet la prévention des crimes et délits susceptibles d'être commis à
 l'intérieur d'une installation fixe ou mobile de produits explosifs à l'extérieur de cette installation au moyen de produits
@@ -49736,13 +48970,9 @@ et à faciliter l'intervention des forces de l'ordre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 11-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -49772,15 +49002,10 @@ la conservation est autorisée.
 Par dérogation aux dispositions de l'article R. 2352-90, les installations où ne sont conservés que des produits explosifs
 ouvrés qui, compte tenu de leur caractère détonant ou non et de la quantité de matière active qu'ils contiennent, ne
 présentent pas de risque d'une utilisation à des fins criminelles ou délictueuses sont soumises à des règles techniques de
-sûreté particulières, fixées par arrêtés conjoints des ministres de l'intérieur et de la défense et les ministres chargés de
-l'industrie et des installations classées. La liste de ces produits est fixée par arrêté conjoint des ministres de
-l'intérieur et de la défense et du ministre chargé de l'industrie.
+sûreté particulières, fixées par arrêtés conjoints des ministres de l'intérieur et de la défense. La liste de ces produits
+est fixée par arrêté conjoint des ministres de l'intérieur et de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 11-3 (Ab)
 
 	**Cité par**:
 
@@ -49789,29 +49014,25 @@ l'intérieur et de la défense et du ministre chargé de l'industrie.
 	  - Code de la défense. - art. R2352-110 (V)
 	  - Code de la défense. - art. R2353-7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-90 (V)
+	  - Code de la défense. - art. R2352-90
 
 
 ###### Article R2352-93
 
-Les arrêtés fixant les règles techniques de sécurité et de sûreté précisent les délais et les conditions selon lesquels les
-règles qu'ils édictent s'appliquent aux installations existant à la date de leur entrée en vigueur.
+Les arrêtés fixant les règles techniques de sûreté précisent les délais et les conditions selon lesquels les règles qu'ils
+édictent s'appliquent aux installations existant à la date de leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 11-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-94
@@ -49891,31 +49112,28 @@ prévus par les articles R. 2352-89 à R. 2352-95 sont exercés par le ministre 
 ###### Article R2352-97
 
 L'exploitation d'une installation fixe ou mobile de produits explosifs est subordonnée à la délivrance préalable d'un
-agrément technique.
+agrément technique. 
 
-Lorsque l'installation est soumise à autorisation en application des dispositions du titre Ier du livre V du code de
-l'environnement, cette autorisation vaut agrément technique.
+Sont toutefois dispensées de l'obligation d'agrément technique : 
 
-Sont toutefois dispensées de l'obligation d'agrément technique :
+1° Les installations de l'Etat relevant du ministre de la défense ; 
 
-1° Les installations de l'Etat relevant du ministre de la défense ;
-
-2° Les installations du Commissariat à l'énergie atomique ;
+2° Les installations du Commissariat à l'énergie atomique ; 
 
 3° Les installations couvertes par le secret défense de la défense nationale et exploitées par des entreprises publiques ou
-privées travaillant pour la défense ;
+privées travaillant pour la défense ; 
 
 4° Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées dans le décret n° 95-589
 du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et
-munitions ;
+munitions ; 
 
 5° Les installations de l'Etat relevant du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 15 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 (Ab)
 
 	**Cité par**:
 
@@ -49933,40 +49151,33 @@ munitions ;
 	  - Code de la défense. - art. R2353-9 (V)
 	  - Code du travail - art. R4462-30 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-98
 
-La demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97 est adressée par le futur exploitant au
-préfet du département où est située l'installation projetée, s'il s'agit d'une installation fixe, ou du département du siège
-social ou du domicile du futur exploitant, s'il s'agit d'une installation mobile. A Paris, cette demande est adressée au
-préfet de police.
+La demande d'agrément technique prévu à l'article R. 2352-97 est adressée par le futur exploitant au préfet du département où
+est située l'installation projetée, s'il s'agit d'une installation fixe, ou du département du siège social ou du domicile du
+futur exploitant, s'il s'agit d'une installation mobile. A Paris, cette demande est adressée au préfet de police.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-99
 
-Le dossier de demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97 comprend : 
+Le dossier de demande d'agrément technique prévu à l'article R. 2352-97 comprend : 
 
-1° Dans les conditions fixées par arrêté conjoint des ministres chargés de l'industrie et des installations classées, les
-indications relatives à l'implantation, aux caractéristiques de l'installation fixe ou mobile de produits explosifs projetée
-et aux mesures de sécurité envisagées par le futur exploitant pour prévenir les risques d'explosion et d'incendie ; 
+1° (abrogé) 
 
 2° Une étude de sûreté réalisée dans les conditions définies à l'article R. 2352-100 ;
 
@@ -49975,13 +49186,9 @@ réglementaires relatives à la sécurité du personnel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 16-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -49989,7 +49196,7 @@ réglementaires relatives à la sécurité du personnel.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-100
@@ -50010,17 +49217,13 @@ descriptif des mesures envisagées par le futur exploitant pour prévenir les in
 conformément aux règles techniques de sûreté prévues à l'article R. 2352-92. 
 
 3° Le futur exploitant justifie la compatibilité des mesures de sûreté qu'il propose de mettre en œuvre avec les mesures de
-sécurité mentionnées au 1° de l'article R. 2352-99.
+sécurité mises en place.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 16-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -50031,49 +49234,41 @@ sécurité mentionnées au 1° de l'article R. 2352-99.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-92 (V)
+	  - Code de la défense. - art. R2352-92
 
 
 ###### Article R2352-101
 
 1° Le préfet ou, à Paris, le préfet de police transmet pour avis : 
 
-a) A la direction régionale de l'industrie, de la recherche et de l'environnement, à l'inspection de l'armement pour les
-produits explosifs et à la direction départementale du travail, de l'emploi et de la formation professionnelle, le dossier de
-demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97, à l'exception du volet relatif à la sûreté ; 
+a) A l'inspection de l'armement pour les poudres et explosifs et à la direction départementale du travail, de l'emploi et de
+la formation professionnelle, le dossier de demande d'agrément technique prévu à l'article R. 2352-97, à l'exception du volet
+relatif à la sûreté ; 
 
 b) Aux services de police ou de gendarmerie, le volet du dossier relatif à la sûreté accompagné du justificatif, prévu à
 l'article R. 2352-100, relatif à la compatibilité des mesures de sûreté et de sécurité. 
 
 2° S'il s'agit d'une installation fixe, le préfet informe le maire, qui présente, s'il y a lieu, ses observations. 
 
-3° Le préfet communique au futur exploitant les avis mentionnés aux 1° et 2° ci-dessus et recueille ses observations. 
-
-4° En cas de difficultés persistantes à rendre compatibles les mesures relatives à la sécurité et celles relatives à la
-sûreté, le préfet peut, avant de statuer, consulter la commission des produits explosifs.
+3° Le préfet communique au futur exploitant les avis mentionnés aux 1° et 2° ci-dessus et recueille ses observations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 16-3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-100 (V)
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-100
+	  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-102
 
-L'arrêté du préfet délivrant l'agrément technique ou l'autorisation prévus à l'article R. 2352-97 précise les mesures
-spécifiques relatives à la sécurité et à la sûreté prescrites au titre de la présente sous-section. Ces mesures peuvent, en
-vue de mieux assurer la sécurité et la sûreté de l'installation fixe ou mobile projetée, être différentes de celles proposées
-par le futur exploitant dans sa demande. 
+L'arrêté du préfet délivrant l'agrément technique prévu à l'article R. 2352-97 précise les mesures spécifiques relatives à la
+sûreté prescrites au titre de la présente sous-section. Ces mesures peuvent, en vue de mieux assurer la sûreté de
+l'installation fixe ou mobile projetée, être différentes de celles proposées par le futur exploitant dans sa demande. 
 
 Les dispositions de l'arrêté du préfet relatives aux mesures de sûreté ne font l'objet d'aucune publicité.
 
@@ -50082,13 +49277,9 @@ dans le délai d'un an ou a cessé d'être exploitée depuis un an.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 16-4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -50098,7 +49289,7 @@ dans le délai d'un an ou a cessé d'être exploitée depuis un an.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-97
 
 
 ##### Paragraphe 3 : Suivi de l'exploitation des installations fixes ou mobiles de produits explosifs
@@ -50127,13 +49318,9 @@ compétents.
 
 Les quantités fabriquées et les mouvements d'entrée et de sortie des produits explosifs d'une installation fixe ou mobile de
 produits explosifs sont inscrits sur des registres dont les modèles et les règles de tenue sont fixés par un arrêté conjoint
-des ministres de l'intérieur et de la défense et des ministres chargés de l'industrie et des installations classées.
+des ministres de l'intérieur et de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 18 (Ab)
 
 	**Cité par**:
 
@@ -50141,21 +49328,17 @@ des ministres de l'intérieur et de la défense et des ministres chargés de l'i
 	  - Arrêté du 5 mai 2009 - art. 5 (V)
 	  - Code de la défense. - art. R2352-107 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-105
 
-Si, postérieurement à la délivrance de l'agrément technique ou de l'autorisation prévus à l'article R. 2352-97, des
-circonstances particulières le justifient, le préfet peut imposer toute prescription complémentaire.
+Si, postérieurement à la délivrance de l'agrément technique prévu à l'article R. 2352-97, des circonstances particulières le
+justifient, le préfet peut imposer toute prescription complémentaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 19 (Ab)
 
 	**Cité par**:
 
@@ -50164,13 +49347,13 @@ circonstances particulières le justifient, le préfet peut imposer toute prescr
 	  - Code de la défense. - art. R2353-10 (V)
 	  - Code de la défense. - art. R2353-9 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-106
@@ -50184,28 +49367,24 @@ mobile ayant fait l'objet d'une étude de sûreté fait procéder à une nouvell
 les arrêtés mentionnés au 1° de l'article R. 2352-100 et la communique au préfet.
 
 L'exploitant mentionné au 2° de l'article R. 2352-100 fait connaître au préfet les modifications qu'il se propose d'apporter
-aux mesures de sûreté prescrites par l'agrément technique ou l'autorisation dont il bénéficie. 
+aux mesures de sûreté prescrites par l'agrément technique dont il bénéficie. 
 
 Si, dans le délai de trois mois à compter de sa saisine, le préfet n'a pas enjoint à l'intéressé de présenter une nouvelle
-demande d'agrément technique ou d'autorisation prévus par l'article R. 2352-97 ou ne lui a pas imposé de prescriptions
-complémentaires en application de l'article R. 2352-105, les modifications de l'installation ou de ses conditions
-d'exploitation sont réputées acceptées.
+demande d'agrément technique prévu par l'article R. 2352-97 ou ne lui a pas imposé de prescriptions complémentaires en
+application de l'article R. 2352-105, les modifications de l'installation ou de ses conditions d'exploitation sont réputées
+acceptées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 20 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-100 (V)
-	  - Code de la défense. - art. R2352-105 (V)
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-100
+	  - Code de la défense. - art. R2352-105
+	  - Code de la défense. - art. R2352-97
 
 	**Cité par**:
 
@@ -50233,24 +49412,20 @@ non suivie d'effet, les mesures mentionnées à l'article R. 2352-95.
 
 ###### Article R2352-108
 
-Une installation fixe ou mobile de produits explosifs ayant obtenu l'agrément technique ou l'autorisation prévus à l'article
-R. 2352-97 fait l'objet, tous les cinq ans à compter de la dernière étude de sûreté effectuée, d'une étude de sûreté dans les
-conditions fixées par les arrêtés mentionnés au 1° de l'article R. 2352-100.
+Une installation fixe ou mobile de produits explosifs ayant obtenu l'agrément technique prévu à l'article R. 2352-97 fait
+l'objet, tous les cinq ans à compter de la dernière étude de sûreté effectuée, d'une étude de sûreté dans les conditions
+fixées par les arrêtés mentionnés au 1° de l'article R. 2352-100.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 21-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2352-100 (V)
-	  - Code de la défense. - art. R2352-97 (V)
+	  - Code de la défense. - art. R2352-100
+	  - Code de la défense. - art. R2352-97
 
 	**Cité par**:
 
@@ -50375,18 +49550,14 @@ porter atteinte à la sécurité des personnes ou des biens, à la sécurité pu
 
 ###### Article R2352-113
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'industrie fixe la composition du dossier qui doit
-être joint à la demande d'autorisation individuelle ainsi que les modalités de délivrance de cette autorisation.
+Un arrêté du ministre de l'intérieur fixe la composition du dossier qui doit être joint à la demande d'autorisation
+individuelle ainsi que les modalités de délivrance de cette autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 23-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-114
@@ -50453,20 +49624,16 @@ Elle peut être suspendue immédiatement en cas d'urgence ou de nécessité tena
 
 ###### Article R2352-117
 
-Lorsqu'il estime que la sécurité d'un dépôt ou d'un débit n'est plus, compte tenu des circonstances, convenablement assurée,
-le préfet peut prendre toutes mesures adaptées à la situation et, en particulier, ordonner que les produits explosifs qui y
-sont conservés soient transférés dans un autre dépôt. En cas d'urgence, et si le transfert n'est pas possible, il peut
-ordonner la destruction de ces produits.
+Lorsqu'il estime que la sûreté d'un dépôt ou d'un débit n'est plus, compte tenu des circonstances, convenablement assurée, le
+préfet peut prendre toutes mesures adaptées à la situation et, en particulier, ordonner que les produits explosifs qui y sont
+conservés soient transférés dans un autre dépôt. En cas d'urgence, et si le transfert n'est pas possible, il peut ordonner la
+destruction de ces produits.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 26 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ##### Paragraphe 2 : Agrément des personnes intervenant dans les dépôts, débits et installations mobiles de produits explosifs
@@ -50562,7 +49729,7 @@ l'article R. 2352-110.
 
 Toute personne physique ou morale qui désire faire des études ou recherches relatives aux produits explosifs autres que ceux
 relevant de la réglementation des matériels de guerre, armes et munitions doit y avoir été préalablement autorisée par arrêté
-conjoint des ministres de la défense, de l'intérieur et du ministre chargé de l'industrie.
+conjoint des ministres de la défense, de l'intérieur.
 
 Toutefois, cette autorisation n'est pas requise pour les études et recherches poursuivies par le ministère de la défense et
 le Commissariat à l'énergie atomique ou pour leur compte.
@@ -50570,18 +49737,11 @@ le Commissariat à l'énergie atomique ou pour leur compte.
 Un arrêté conjoint des ministres de la défense, de l'intérieur et du ministre chargé de l'industrie fixe les modalités de
 présentation de la demande ainsi que la composition du dossier qui doit être joint à celle-ci.
 
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'autorisation d'étude vaut
-décision de rejet.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-153 du 16 février 1990 - art. 28 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -50602,26 +49762,6 @@ recherches et les installations fixes et mobiles qu'elle détermine.
 	**Créé par**:
 
 	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-
-###### Article R2352-124
-
-Le titulaire d'une autorisation qui envisage de cesser ses études et recherches en avise le ministre chargé de l'industrie et
-lui précise les conditions dans lesquelles le transfert des produits explosifs restants est assuré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 30 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-125
@@ -50700,109 +49840,6 @@ ou faire transporter, employer ou faire employer des produits explosifs en viola
 	  - Code de la défense. - art. R2451-2 (M)
 	  - Code de la défense. - art. R2461-2 (V)
 	  - Code de la défense. - art. R2471-2 (V)
-
-
-###### Article R2353-3
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de vendre, importer, exporter, transporter,
-encartoucher, conserver, détenir ou employer un produit explosif non muni du marquage " CE " prévu à l'article R. 2352-51
-sous réserve des dispositions de l'article R. 2352-48 et du troisième alinéa de l'article R. 2352-50.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 31-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-48
-	  - Code de la défense. - art. R2352-50
-	  - Code de la défense. - art. R2352-51
-
-
-###### Article R2353-4
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait d'apposer le marquage " CE " sur un produit
-explosif soumis au marquage " CE " sans s'être préalablement conformé aux procédures d'évaluation de la conformité définies à
-l'article R. 2352-52 ou aux prescriptions de l'article R. 2352-51.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 31-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-51
-	  - Code de la défense. - art. R2352-52
-
-
-###### Article R2353-5
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de transporter, encartoucher, conserver, détenir
-ou employer un produit explosif non soumis au marquage " CE " qui n'est pas conforme à un modèle agréé dans les conditions
-prévues aux articles R. 2352-65 à R. 2352-72.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 32 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-65
-
-
-###### Article R2353-6
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de produire, vendre, importer, encartoucher,
-conserver, détenir ou employer un produit explosif non soumis au marquage " CE " destiné à un usage civil en violation des
-prescriptions mentionnées à l'article R. 2352-68 qui lui incombent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 33 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2352-68
 
 
 ###### Article R2353-7
@@ -52255,597 +51292,6 @@ du titre IX du livre IV de la Partie 2, intitulée "armes chimiques", au lieu de
 	**Créé par**:
 
 	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-
-### Annexes mentionnées aux articles R. 2352-50, R. 2352-51, R. 2352-52 ET R. 2352-61
-
-###### Article Annexe I
-
-EXIGENCES ESSENTIELLES DE SECURITE
-
-I. ― Exigences générales
-
-1. La conception, la fabrication et les modalités de fourniture de tout explosif doivent tendre à réduire au minimum, lorsque
-l'explosif est détenu et mis en œuvre dans des conditions normales au regard des règles de sécurité et des règles de l'art,
-les risques qu'il peut comporter pour la vie et la santé des personnes, la sécurité des biens et l'intégrité de
-l'environnement.
-
-2. Tout explosif doit pouvoir réaliser les performances annoncées par son fabricant, afin de garantir le plus haut degré de
-sécurité et de fiabilité possible.
-
-3. Tout explosif doit être conçu et fabriqué de manière à réduire au minimum les effets que sa destruction par des moyens
-appropriés peut avoir sur l'environnement.
-
-II. ― Exigences particulières
-
-1. Les données et caractéristiques suivantes, lorsqu'elles sont applicables, doivent au minimum soit être prises en compte,
-soit contrôlées :
-
-a) La conception et les propriétés caractéristiques, y compris la composition chimique, le degré d'homogénéité et, le cas
-échéant, les dimensions et la granulométrie ;
-
-b) La stabilité physique et chimique de l'explosif dans toutes les conditions ambiantes auxquelles il peut être exposé ;
-
-c) La sensibilité aux chocs et au frottement ;
-
-d) La compatibilité de tous les constituants, compte tenu de leur stabilité physique et chimique ;
-
-e) La pureté chimique de l'explosif ;
-
-f) La résistance de l'explosif à l'eau, lorsqu'il est destiné à être employé dans un environnement humide ou en présence
-d'eau et où l'action de l'eau risque d'influencer défavorablement ses qualités de fonctionnement ;
-
-g) La résistance aux basses et hautes températures, lorsqu'un stockage ou un emploi à ces températures est prévu et que le
-refroidissement ou le réchauffement d'un composant ou de l'ensemble de l'explosif risque d'influencer défavorablement sa
-sécurité ou sa fiabilité ;
-
-h) L'aptitude de l'explosif à être employé dans des zones dangereuses (atmosphères grisouteuses, masses chaudes, etc.), dans
-la mesure où son emploi dans de telles conditions est prévu ;
-
-i) La sécurité sous le rapport de la mise à feu ou de l'amorçage intempestif ;
-
-j) Le chargement et le fonctionnement corrects de l'explosif lorsqu'il est utilisé conformément à sa destination ;
-
-k) Les instructions appropriées et, lorsqu'ils s'avèrent nécessaires, les marquages désignant les conditions de manipulation,
-de stockage, d'emploi et d'élimination sûrs, dans la ou les langues officielles de l'Etat membre de destination ;
-
-l) L'aptitude de l'explosif, de son enveloppe ou de tout autre composant à résister aux détériorations survenant en cours de
-stockage, jusqu'à la date limite d'utilisation indiquée par le fabricant ;
-
-m) L'indication de tous les appareils et accessoires nécessaires au fonctionnement fiable et sûr des explosifs.
-
-Le contrôle des données et caractéristiques ci-dessus mentionnées doit être opéré dans des conditions réalistes ; s'il n'est
-pas possible de les réaliser à l'échelle d'un laboratoire, les essais doivent être effectués dans des conditions analogues à
-celles dans lesquelles l'explosif sera utilisé.
-
-2. Les différents groupes d'explosifs doivent aussi satisfaire au moins aux exigences suivantes :
-
-A. ― Explosifs de mine :
-
-a) Les explosifs de mine doivent pouvoir être amorcés de manière sûre et fiable ; leur décomposition doit, après amorçage,
-être complète. Dans le cas particulier des poudres noires, c'est l'aptitude à la déflagration qui est vérifiée ;
-
-b) Les explosifs encartouchés doivent transmettre la détonation de manière sûre et fiable d'un bout à l'autre d'un train de
-cartouches ;
-
-c) Les fumées produites par la détonation d'explosifs de mine destinés à être utilisés dans des chantiers souterrains ne
-doivent pas contenir du monoxyde de carbone, des gaz nitreux, d'autres gaz, des vapeurs ou résidus solides en suspension dans
-une proportion qui, dans les conditions d'exploitation habituelles, risque de nuire à la santé ;
-
-B. ― Cordeaux détonants, mèches de sûreté, autres mèches et tubes de transmission de détonation :
-
-a) L'enveloppe des cordeaux détonants, mèches de sûreté et autres mèches doit présenter une résistance mécanique suffisante
-et protéger suffisamment l'âme explosive dans les conditions normales de sollicitation mécanique ;
-
-b) Les paramètres déterminant les temps de combustion des mèches de sûreté doivent être indiqués et respectés de façon
-fiable ;
-
-c) Les cordeaux détonants doivent pouvoir être amorcés de manière fiable, avoir un pouvoir d'amorçage suffisant et satisfaire
-aux exigences requises, pour le stockage, même dans des conditions climatiques particulières ;
-
-C. ― Détonateurs (y compris les détonateurs à retard) et raccords à retard pour cordeaux détonants :
-
-a) Les détonateurs doivent, dans toutes les conditions d'emploi prévisibles, amorcer de façon fiable la détonation des
-explosifs de mine avec lesquels ils sont destinés à être employés ;
-
-b) Les raccords à retard pour cordeaux détonants doivent pouvoir être amorcés de façon fiable ;
-
-c) La capacité d'amorçage ne doit pas être altérée par l'humidité ;
-
-d) Les durées de temporisation des détonateurs à retard doivent être suffisamment uniformes pour que le risque de
-chevauchement des temporisations de relais voisins soit insignifiant ;
-
-e) Les caractéristiques électriques des détonateurs électriques doivent être indiquées sur l'emballage (courant minimal de
-fonctionnement, résistance, etc.) ;
-
-f) Les fils des détonateurs électriques doivent présenter une isolation et une résistance mécanique correspondant à leur mode
-d'utilisation, y compris au niveau de leur attache avec le détonateur ;
-
-D. ― Poudres propulsives et propergols solides pour autopropulsion :
-
-a) Lorsqu'elles sont employées conformément à leur destination, ces matières ne doivent pas détoner ;
-
-b) Les poudres propulsives doivent, si nécessaire (et notamment lorsqu'elles sont à base de nitrocellulose), être stabilisées
-pour éviter qu'elles ne se décomposent ;
-
-c) Lorsqu'ils se présentent sous forme comprimée ou moulée, les propergols solides pour autopropulsion ne doivent présenter
-aucune fissure ou bulle de gaz accidentelle qui puisse dangereusement affecter leur fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe II
-
-MODULE B : EXAMEN "CE DE TYPE" 
-
-1. Ce module décrit la partie de procédure par laquelle un organisme habilité constate et atteste qu'un exemplaire
-représentatif de la production considérée satisfait aux dispositions correspondantes du présent décret.
-
-2. La demande d'examen "CE de type" est introduite par le fabricant, ou par son mandataire établi dans la Communauté, auprès
-de l'organisme habilité de son choix.
-
-La demande comporte :
-
-― le nom et l'adresse du fabricant, ainsi que le nom et l'adresse du mandataire si la demande est introduite par celui-ci ;
-
-― une déclaration écrite spécifiant que la même demande n'a pas été introduite auprès d'un autre organisme habilité ;
-
-― la documentation technique décrite au point 3.
-
-Le demandeur met à la disposition de l'organisme habilité un échantillon représentatif de la production concernée, ci-après
-dénommé "type". L'organisme habilité peut demander d'autres exemplaires si le programme d'essais le requiert.
-
-3. La documentation technique doit permettre l'évaluation de la conformité du produit aux exigences du présent décret. Elle
-doit traiter, dans la mesure nécessaire à cette évaluation, de la conception, de la fabrication et du fonctionnement du
-produit et contenir, dans la mesure nécessaire à l'évaluation :
-
-― une description générale du type ;
-
-― des dessins de conception et de fabrication, ainsi que des schémas de composants, sous-ensembles, circuits, etc. ;
-
-― les descriptions et explications nécessaires à la compréhension desdits dessins et schémas et du fonctionnement du
-produit ;
-
-― une liste des normes ou, à défaut, des spécifications techniques visées à l'article 1-3, appliquées entièrement ou en
-partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque ces normes ou, à
-défaut, ces spécifications techniques n'ont pas été appliquées ;
-
-― les résultats des calculs de conception réalisés, des examens effectués ;
-
-― les rapports d'essais.
-
-4. L'organisme habilité :
-
-4.1. Examine la documentation technique, vérifie que le type a été fabriqué en conformité avec celle-ci et relève les
-éléments qui ont été conçus conformément aux normes ou, à défaut, aux spécifications techniques visées à l'article 1-3 et, le
-cas échéant, ceux qui n'ont pas été conçus en fonction de ces normes.
-
-4.2. Effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si les solutions adoptées
-par le fabricant satisfont aux exigences essentielles du présent décret lorsque les normes visées à l'article 1-3 n'ont pas
-été appliquées.
-
-4.3. Effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si, dans les cas où le
-fabricant a choisi d'appliquer les normes entrant en ligne de compte, celles-ci ont été effectivement appliquées.
-
-4.4. Convient avec le demandeur de l'endroit où les contrôles et les essais nécessaires seront effectués.
-
-5. Lorsque le type satisfait aux dispositions correspondantes du présent décret, l'organisme habilité délivre une attestation
-d'examen "CE de type" au demandeur. L'attestation comporte le nom et l'adresse du fabricant, les conclusions du contrôle et
-les données nécessaires à l'identification du type approuvé.
-
-Une liste des parties significatives de la documentation technique est annexée et une copie conservée par l'organisme
-habilité.
-
-S'il refuse de délivrer un certificat de type au fabricant ou à son mandataire établi dans la Communauté, l'organisme
-habilité motive d'une façon détaillée ce refus.
-
-6. Le demandeur informe l'organisme habilité qui détient la documentation technique relative à l'attestation "CE de type" de
-toutes les modifications au produit approuvé qui doivent recevoir une nouvelle approbation lorsque ces modifications peuvent
-remettre en cause la conformité aux exigences essentielles ou aux conditions d'utilisation prévues du produit. Cette nouvelle
-approbation est délivrée sous la forme d'un complément à l'attestation initiale d'examen "CE de type".
-
-7. Chaque organisme habilité communique aux autres organismes habilités les informations utiles concernant les attestations
-d'examen "CE de type" et les compléments délivrés et retirés.
-
-8. Les autres organismes habilités peuvent obtenir une copie des attestations d'examen "CE de type" et/ou de leurs
-compléments. Les annexes des attestations sont tenues à la disposition des autres organismes habilités.
-
-9. Le fabricant ou son mandataire établi dans la Communauté conserve, avec la documentation technique, une copie des
-attestations d'examen "CE de type" et de leurs compléments pendant une durée d'au moins dix ans à compter de la dernière date
-de fabrication du produit.
-
-Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, l'obligation de tenir la documentation
-technique à disposition incombe à la personne responsable de la mise sur le marché communautaire du produit.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe III
-
-MODULE C : CONFORMITE AU TYPE 
-
-1. Ce module décrit la partie de la procédure par laquelle le fabricant ou son mandataire établi dans la Communauté certifie
-que les explosifs concernés sont conformes au type décrit dans l'attestation d'examen "CE de type" et satisfont aux exigences
-correspondantes du présent décret. Le fabricant appose le marquage "CE" sur chaque explosif et établit une déclaration écrite
-de conformité.
-
-2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité du produit
-fabriqué au type décrit dans le certificat d'examen "CE de type" et aux exigences du présent décret.
-
-3. Le fabricant ou son mandataire conserve une copie de la déclaration de conformité pendant une durée d'au moins dix ans à
-compter de la dernière date de fabrication du produit.
-
-Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, cette obligation de tenir la documentation
-technique à disposition incombe à la personne responsable de la mise sur le marché communautaire du produit.
-
-Un organisme habilité choisi par le fabricant effectue ou fait effectuer des contrôles du produit à des intervalles
-aléatoires. Un échantillon approprié de produits finis, prélevés sur place par l'organisme habilité, est contrôlé et des
-essais appropriés définis dans la ou les normes applicables ou, à défaut, les spécifications techniques visées à l'article
-1-3 ou des essais équivalents sont effectués pour vérifier la conformité de la production aux exigences du présent décret.
-Dans le cas où un ou plusieurs exemplaires des produits contrôlés ne sont pas conformes, l'organisme habilité prend les
-mesures appropriées.
-
-Le fabricant appose, sous la responsabilité de l'organisme habilité, le symbole d'identification de ce dernier au cours du
-processus de fabrication.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe IV
-
-MODULE D : ASSURANCE DE QUALITE DE PRODUCTION 
-
-1. Ce module décrit la procédure par laquelle le fabricant qui satisfait aux obligations prévues au point 2 certifie que les
-explosifs en question sont conformes au type décrit dans l'attestation d'examen "CE de type" et répondent aux exigences du
-présent décret. Le fabricant appose le marquage CE sur chaque explosif et établit une déclaration écrite de conformité. Le
-marquage CE est accompagné du symbole d'identification de l'organisme habilité responsable de la surveillance visée au point
-4.
-
-2. Le fabricant doit appliquer un système approuvé de qualité de la production, effectuer une inspection et des essais des
-appareils prévus au point 3. Il est soumis à la surveillance visée au point 4.
-
-3. Système de qualité.
-
-3.1. Le fabricant introduit une demande d'évaluation de son système de qualité, auprès de l'organisme habilité de son choix,
-pour les appareils dont l'utilisation est prise en compte pour la définition de ce système.
-
-Cette demande comprend :
-
-― toutes les informations pertinentes pour la catégorie de produits envisagés ;
-
-― la documentation relative au système de qualité ;
-
-― la documentation technique relative au type approuvé et une copie de l'attestation d'examen "CE de type".
-
-3.2. Le système de qualité doit garantir la conformité des appareils au type décrit dans l'attestation d'examen "CE de type"
-et aux exigences du présent décret qui leur sont applicables.
-
-Tous les éléments, exigences et dispositions adoptés par le fabricant doivent être réunis de manière systématique et ordonnés
-dans une documentation sous la forme de mesures, de procédures et d'instructions écrites. Cette documentation relative au
-système de qualité doit permettre une interprétation uniforme des programmes, des plans, des manuels et des dossiers de
-qualité.
-
-Elle comprend en particulier une description adéquate :
-
-― des objectifs de qualité, de l'organigramme, des responsabilités des cadres et de leurs pouvoirs en ce qui concerne la
-qualité des explosifs ;
-
-― des procédés de fabrication, des techniques de contrôle et de l'assurance de la qualité et des techniques et des actions
-systématiques qui seront appliqués ;
-
-― des examens et des essais qui seront effectués avant, pendant et après la fabrication, avec indication de la fréquence à
-laquelle ils auront lieu ;
-
-― des dossiers de qualité tels que les rapports d'inspection et les données d'essais et d'étalonnage, les rapports sur la
-qualification du personnel concerné, etc. ;
-
-― des moyens de surveillance permettant de contrôler l'obtention de la qualité requise des explosifs et le fonctionnement
-efficace du système de qualité.
-
-3.3. L'organisme habilité évalue le système de qualité pour déterminer s'il satisfait aux exigences visées au point 3.2. Il
-présume la conformité avec ces exigences des systèmes de qualité qui mettent en œuvre la norme harmonisée correspondante.
-L'équipe de contrôleurs comportera au moins un membre expérimenté dans l'évaluation de la technologie du produit concerné. La
-procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
-
-La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est approuvé et à le maintenir
-de sorte qu'il demeure adéquat et efficace.
-
-Le fabricant ou son mandataire informe l'organisme habilité, qui a approuvé le système de qualité, de toute adaptation
-envisagée du système de qualité.
-
-L'organisme habilité évalue les changements proposés et décide si le système de qualité ainsi modifié continuera à répondre
-aux exigences visées au point 3.2 ou s'il y a lieu de procéder à une nouvelle évaluation.
-
-Il notifie sa décision au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-4. Surveillance sous la responsabilité de l'organisme habilité.
-
-4.1. Le but de la surveillance est d'assurer que le fabricant remplit correctement les obligations découlant du système
-approuvé de qualité.
-
-4.2. Le fabricant accorde à l'organisme habilité l'accès, pour inspection, aux lieux de fabrication, d'inspection, d'essais
-et de stockage et lui fournit toutes les informations nécessaires, notamment :
-
-― la documentation relative au système de qualité ;
-
-― les dossiers de qualité tels que les rapports d'inspection et les données d'essais et d'étalonnage, les rapports sur la
-qualification du personnel concerné, etc.
-
-4.3. L'organisme habilité effectue périodiquement des contrôles afin d'assurer que le fabricant maintient et applique le
-système de qualité ; il fournit un rapport de contrôle au fabricant.
-
-4.4. En outre, l'organisme habilité peut effectuer des visites inopinées chez le fabricant. A l'occasion de ces visites, cet
-organisme peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de qualité, si
-nécessaire. Il fournit au fabricant un rapport de la visite et, s'il y a eu essai, un rapport d'essai.
-
-5. Le fabricant tient à la disposition des autorités nationales pendant une durée d'au moins dix ans à compter de la dernière
-date de fabrication du produit :
-
-― la documentation visée au point 3.1, deuxième tiret ;
-
-― les adaptations visées au point 3.4, deuxième alinéa ;
-
-― les décisions et rapports de l'organisme habilité visés au point 3.4, dernier alinéa, et aux points 4.3 et 4.4.
-
-6. Chaque organisme habilité communique aux autres organismes habilités les informations pertinentes concernant les
-approbations de systèmes de qualité délivrées et retirées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe V
-
-MODULE E : ASSURANCE DE QUALITE DU PRODUIT 
-
-1. Ce module décrit la procédure par laquelle le fabricant qui satisfait aux obligations du point 2 s'assure et déclare que
-les explosifs sont conformes au type décrit dans l'attestation d'examen "CE de type". Le fabricant appose le marquage CE sur
-chaque explosif et établit une déclaration écrite de conformité. Le marquage CE est accompagné du symbole d'identification de
-l'organisme habilité responsable de la surveillance visée au point 4.
-
-2. Le fabricant applique un système approuvé de qualité pour l'inspection finale des explosifs et les essais, comme spécifié
-au point 3. Il est soumis à la surveillance visée au point 4.
-
-3. Système de qualité.
-
-3.1. Le fabricant soumet une demande d'évaluation de son système de qualité auprès de l'organisme habilité de son choix, pour
-les explosifs.
-
-La demande comprend :
-
-― toutes les informations appropriées pour la catégorie d'explosifs envisagés ;
-
-― la documentation sur le système de qualité ;
-
-― la documentation technique relative au type approuvé et une copie de l'attestation d'examen "CE de type".
-
-3.2. Dans le cadre du système de qualité, chaque explosif est examiné et des essais appropriés, définis dans la ou les normes
-applicables ou, à défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, sont effectués
-pour vérifier sa conformité aux exigences correspondantes du présent décret. Tous les éléments, exigences et dispositions
-adoptés par le fabricant doivent figurer dans une documentation tenue de manière systématique et rationnelle sous la forme de
-mesures, de procédures et d'instructions écrites. Cette documentation sur le système de qualité permet une interprétation
-uniforme des programmes, plans, manuels et dossiers de qualité.
-
-Elle comprend en particulier une description adéquate :
-
-― des objectifs de qualité, de l'organigramme, des responsabilités des cadres et de leurs pouvoirs en matière de qualité des
-produits ;
-
-― des contrôles et des essais qui seront effectués après la fabrication ;
-
-― des moyens de vérifier le fonctionnement efficace du système de qualité ;
-
-― des dossiers de qualité, tels que les rapports d'inspection et les données d'essais, les données d'étalonnage, les rapports
-sur la qualification du personnel concerné, etc.
-
-3.3. L'organisme habilité évalue le système de qualité pour déterminer s'il répond aux exigences visées au point 3.2. Il
-présume la conformité à ces exigences pour les systèmes de qualité qui mettent en œuvre la norme harmonisée correspondante.
-
-L'équipe de contrôleurs comprend au moins un membre ayant acquis, en tant qu'évaluateur, l'expérience de la technologie du
-produit concerné. La procédure d'évaluation comprend une visite dans les locaux du fabricant.
-
-La décision est notifiée au fabricant. Elle contient les conclusions du contrôle et la décision d'évaluation motivée.
-
-3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est approuvé et à le maintenir
-de sorte qu'il demeure adéquat et efficace.
-
-Le fabricant ou son mandataire informe l'organisme habilité qui a approuvé le système de qualité de tout projet d'adaptation
-du système de qualité.
-
-L'organisme habilité évalue les modifications proposées et décide si le système de qualité modifié répondra encore aux
-exigences visées au point 3.2 ou si une réévaluation est nécessaire.
-
-Il notifie sa décision au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-4. Surveillance sous la responsabilité de l'organisme habilité.
-
-4.1. Le but de la surveillance est d'assurer que le fabricant remplit correctement les obligations qui découlent du système
-de qualité approuvé.
-
-4.2. Le fabricant autorise l'organisme habilité à accéder, à des fins d'inspection, aux lieux d'inspection, d'essai et de
-stockage et lui fournit toute l'information nécessaire, et notamment :
-
-― la documentation sur le système de qualité ;
-
-― la documentation technique ;
-
-― les dossiers de qualité, tels que les rapports d'inspection et les données d'essais, les données d'étalonnage, les rapports
-sur la qualification du personnel concerné, etc.
-
-4.3. L'organisme habilité procède périodiquement à des contrôles pour s'assurer que le fabricant maintient et applique le
-système de qualité et fournit un rapport de contrôle au fabricant.
-
-4.4. En outre, l'organisme habilité peut effectuer des visites inopinées chez le fabricant. A l'occasion de telles visites,
-cet organisme habilité peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de
-qualité, si nécessaire ; il fournit au fabricant un rapport de visite et, s'il y a eu lieu, un rapport d'essai.
-
-5. Le fabricant tient à la disposition des autorités nationales pendant une durée d'au moins dix ans à compter de la dernière
-date de fabrication du produit :
-
-― la documentation visée au point 3.1, deuxième tiret ;
-
-― les adaptations visées au point 3.4, deuxième alinéa ;
-
-― les décisions et rapports de l'organisme habilité visés au point 3.4, dernier alinéa, et aux points 4.3 et 4.4.
-
-6. Chaque organisme habilité communique aux autres organismes habilités les informations pertinentes concernant les
-approbations de système de qualité délivrées et retirées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VI
-
-MODULE F : VERIFICATION SUR PRODUIT 
-
-1. Ce module décrit la procédure par laquelle le fabricant ou son mandataire établi dans la Communauté certifie que les
-explosifs qui ont été soumis aux dispositions du point 3 sont conformes au type décrit dans le certificat d'examen "CE de
-type" et remplissent les exigences correspondantes du présent décret.
-
-2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des explosifs au
-type décrit dans le certificat d'examen "CE de type" et aux exigences du présent décret. Il appose le marquage "CE" sur
-chaque explosif et il établit une déclaration de conformité.
-
-3. L'organisme habilité effectue les examens et les essais appropriés afin de vérifier la conformité de l'explosif aux
-exigences correspondantes du présent décret, par contrôle et essai de chaque explosif comme spécifié au point 4.
-
-Le fabricant ou son mandataire conserve une copie de la déclaration de conformité pendant une période d'au moins dix ans à
-compter de la dernière date de fabrication de l'explosif.
-
-4. Vérification par contrôle et essai de chaque explosif.
-
-4.1. Tous les explosifs sont examinés individuellement et des essais appropriés, définis dans la ou les normes applicables
-ou, à défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, sont effectués afin de
-vérifier leur conformité au type et aux exigences applicables du présent décret.
-
-4.2. L'organisme habilité appose ou fait apposer son symbole d'identification sur chaque explosif approuvé et établit une
-attestation écrite de conformité relative aux essais effectués.
-
-4.3. Le fabricant ou son mandataire est en mesure de présenter sur demande les attestations de conformité de l'organisme
-habilité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VII
-
-MODULE G : VERIFICATION A L'UNITE 
-
-1. Ce module décrit la procédure par laquelle le fabricant certifie que l'explosif qui a obtenu l'attestation visée au point
-2 est conforme aux exigences correspondantes du présent décret. Le fabricant appose le marquage CE sur l'explosif et établit
-une déclaration de conformité.
-
-2. L'organisme habilité examine l'explosif et effectue les essais appropriés, définis dans la ou les normes applicables ou, à
-défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, pour vérifier sa conformité aux
-exigences applicables du présent décret.
-
-L'organisme habilité appose ou fait apposer son symbole d'identification sur l'explosif approuvé et établit une attestation
-de conformité relative aux essais effectués.
-
-3. La documentation technique doit comprendre l'ensemble des informations nécessaires à l'évaluation de la conformité de
-l'explosif aux exigences du présent décret ainsi qu'à la compréhension des concepts qu'il met en œuvre, de son mode de
-fabrication et du mécanisme de son fonctionnement.
-
-La documentation contient à cet effet :
-
-― une description générale du type ;
-
-― des dessins de conception et de fabrication, ainsi que des schémas de composants, sous-ensembles, circuits, etc. ;
-
-― les descriptions et explications nécessaires à la compréhension desdits dessins et schémas et du fonctionnement de
-l'explosif ou le système de protection ;
-
-― une liste des normes ou, à défaut, des spécifications techniques visées à l'article 1-3 appliquées entièrement ou en
-partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque les normes ou, à
-défaut, les spécifications techniques visées à l'article 1-3 n'ont pas été appliquées ;
-
-― les résultats des calculs de conception réalisés, des examens effectués, etc. ;
-
-― les rapports d'essais.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VIII
-
-MARQUAGE DE CONFORMITE 
-
-Le marquage CE de conformité est constitué des initiales "CE" selon le graphisme ci-dessous :
-
-(Cliché non reproduit, voir au Journal officiel du 5 décembre 1996, page 17700).
-
-En cas de réduction ou d'agrandissement du marquage, les proportions telles qu'elles ressortent du graphisme gradué ci-dessus
-devront être respectées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ## PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE

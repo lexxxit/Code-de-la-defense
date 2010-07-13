@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -6745,20 +6745,6 @@ définies par l'article L. 11-3 du code de l'expropriation pour cause d'utilité
 	**Cite**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
-
-
-##### Sous-section 4 : Enquêtes publiques.
-
-###### Article L2313-5
-
-Afin d'assurer le respect du secret de la défense nationale, les enquêtes publiques relatives aux opérations susceptibles
-d'affecter l'environnement sont faites conformément à l'article L. 123-15 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 
 #### TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION

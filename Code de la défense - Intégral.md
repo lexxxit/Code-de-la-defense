@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-31
 
 # Partie législative
 
@@ -46983,7 +46983,8 @@ Les membres mentionnés au 1° de l'article R. 2343-2 sont nommés respectivemen
 nationale pour la durée de la législature et sur proposition du président du Sénat après chaque renouvellement partiel du
 Sénat. 
 
-Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés après consultation du Conseil économique et social. 
+Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés après consultation du   Conseil économique, social et
+environnemental. 
 
 Les membres représentant un ministre et leur suppléant sont nommés sur proposition de celui-ci. 
 
@@ -46996,17 +46997,13 @@ ceux dont les fonctions ont pris fin avant leur terme normal achèvent le mandat
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°99-358 du 10 mai 1999 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2343-2 (V)
+	  - Code de la défense. - art. R2343-2
 
 
 ###### Article R2343-4

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-08-02
+Version Consolidée au 2010-08-05
 
 # Partie législative
 
@@ -24052,13 +24052,30 @@ ministre la synthèse de ces comptes rendus.
 	  - Code de la défense. - art. R1143-1
 
 
-##### Section 2 : Conseillers de défense
+##### Chapitre III : Hauts fonctionnaires de défense et de sécurité et  conseillers de défense et de sécurité
+
+##### Section 1 : Hauts fonctionnaires de défense et de sécurité
+
+##### Section 2 : Conseillers de défense et de sécurité
 
 ###### Article D1143-9
 
-Les conseillers de défense contribuent, par des études ponctuelles et par leur participation à des instances consultatives,
-aux travaux de réflexion ou de formation conduits en matière de défense ou de sécurité par les ministres et les préfets dont
-ils reçoivent toutes instructions utiles pour l'accomplissement de leur mission.
+I. - Les conseillers de défense et de sécurité exercent leurs fonctions auprès : 
+
+1° Des ministres ; 
+
+2° Des préfets de zone de défense et de sécurité, des préfets de région, des préfets de département, du préfet de police de
+Paris et des préfets maritimes. 
+
+Ils en reçoivent toutes instructions utiles pour l'accomplissement de leurs missions. 
+
+II. - Ils contribuent, par des études ponctuelles et par leur participation à des instances consultatives, aux travaux de
+réflexion, de formation et d'information conduits en matière de défense et de sécurité. Ils peuvent être sollicités pour la
+gestion de crise ou lors d'exercices. 
+
+III. - Ils reçoivent, de l'autorité auprès de laquelle ils exercent, une mission principale et le cas échéant des missions
+annexes. Ces missions ne leur confèrent aucune des prérogatives normalement exercées par l'Etat, notamment en matière
+d'inspection et de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -24066,9 +24083,9 @@ ils reçoivent toutes instructions utiles pour l'accomplissement de leur mission
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-902 du 3 août 2010 - art. 3
 
 	**Cité par**:
 
@@ -24081,27 +24098,29 @@ ils reçoivent toutes instructions utiles pour l'accomplissement de leur mission
 
 ###### Article D1143-10
 
-Les conseillers de défense sont choisis principalement parmi les auditeurs des sessions nationales ou régionales des
-instituts publics à compétence nationale spécialisés dans la formation aux questions de défense et de sécurité ainsi que
-parmi les personnes issues des cadres de réserve. Toutefois, des personnalités ne remplissant pas ces conditions peuvent être
-nommées en raison de leurs compétences particulières.
+I. - Nul ne peut être nommé conseiller de défense et de sécurité sans :
 
-Ils doivent être de nationalité française, jouir de leurs droits civiques et être en règle au regard des obligations du
-service national.
+1° Etre de nationalité française ;
 
-Ils doivent être volontaires et s'engager à faire preuve d'une disponibilité suffisante, de réserve et de discrétion
-professionnelle dans leurs fonctions. L'âge de nomination ne peut excéder soixante-cinq ans à la date du début du premier
-mandat.
+2° Jouir de ses droits civiques ;
 
-Les agents publics ne peuvent être nommés conseillers de défense, lorsque la mission envisagée relève de leurs fonctions
-ordinaires.
+3° Etre en règle au regard des obligations du service national.
 
-Les agents publics admis à bénéficier d'une pension de retraite ne peuvent être nommés conseillers de défense dans le ressort
-géographique de leur dernière affectation administrative, si leurs fonctions antérieures concernaient l'un des domaines
-d'activité des conseillers de défense.
+II. - Les conseillers de défense et de sécurité :
 
-Les conseillers de défense exercent gratuitement leurs fonctions. Ils peuvent obtenir, dans le cadre de la réglementation
-applicable, le remboursement des frais exposés à l'occasion de leurs fonctions.
+1° Sont choisis dans différents secteurs d'activités parmi les auditeurs des sessions nationales ou régionales des instituts
+publics à compétence nationale spécialisés dans la formation aux questions de défense et de sécurité, ainsi que parmi les
+cadres de réserve. Toutefois des personnalités ne remplissant pas ces conditions peuvent être nommées à raison de leurs
+compétences particulières ;
+
+2° Doivent être volontaires et s'engager à faire preuve d'une disponibilité suffisante, de réserve et de discrétion
+professionnelle dans leurs fonctions ;
+
+3° Exercent gratuitement leurs fonctions. Ils peuvent obtenir, dans le cadre de la réglementation applicable, le
+remboursement des frais exposés à l'occasion de leurs fonctions.
+
+III. - Les agents publics ne peuvent être nommés conseillers de défense et de sécurité lorsque la mission envisagée relève de
+leurs fonctions ordinaires.
 
 **Liens relatifs à cet article**
 
@@ -24109,36 +24128,16 @@ applicable, le remboursement des frais exposés à l'occasion de leurs fonctions
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-
-###### Article D1143-11
-
-Les conseillers de défense sont choisis dans les différents secteurs d'activité et sont nommés, pour ceux exerçant leurs
-fonctions auprès des ministres, par le Premier ministre sur proposition du     secrétaire général de la défense et de la
-sécurité nationale, et dans chaque département par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-963 du 29 octobre 1998 - art. 3 (Ab)
+	  - Décret n°2010-902 du 3 août 2010 - art. 4
 
 
 ###### Article D1143-12
 
-Les candidats adressent leur demande à l'autorité auprès de laquelle ils souhaitent être affectés. Un arrêté du Premier
-ministre fixe les modalités de transmission et d'instruction des demandes ainsi que la composition du dossier. 
-
-Pour chaque département ministériel, le ministre ou, par délégation, le haut fonctionnaire mentionné à l'article R. 1143-1
-arrête la liste des candidatures déposées auprès de lui. Ces dernières sont transmises au secrétariat général de la défense
-et de la sécurité nationale pour y être examinées par une commission présidée par le     secrétaire général de la défense et
-de la sécurité nationale ou son représentant. 
-
-Le préfet arrête la liste des candidatures déposées à l'échelon du département. Elles sont examinées par une commission
-présidée par le préfet ou son représentant.
+Les candidats adressent leur demande de nomination à l'autorité auprès de laquelle ils souhaitent exercer leurs fonctions. Un
+arrêté du Premier ministre fixe les modalités de transmission et d'instruction des demandes ainsi que la composition du
+dossier de candidature.
 
 **Liens relatifs à cet article**
 
@@ -24146,34 +24145,60 @@ présidée par le préfet ou son représentant.
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 4 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2010-902 du 3 août 2010 - art. 6
+
 	**Cité par**:
 
 	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
 
-	**Cite**:
-
-	  - Code de la défense. - art. R1143-1
-
 
 ###### Article D1143-13
 
-Les conseillers de défense sont nommés pour une période maximale de trois ans, renouvelable une fois au plus.A l'occasion de
-leur nomination, une mission définie leur est impartie. 
+I. - Les conseillers de défense et de sécurité sont nommés pour une durée maximale de trois ans renouvelable, sans pouvoir
+excéder six années au total. 
 
-Au titre de l'exercice de leurs fonctions, ils peuvent participer à des actions ponctuelles de formation et d'information. 
+II. - Il peut être mis fin par anticipation aux fonctions de conseiller de défense et de sécurité soit par arrêté de
+l'autorité ayant procédé à la nomination, soit sur démission de l'intéressé. 
 
-Les fonctions de conseiller de défense prennent fin au terme prévu. Toutefois, il peut y être mis fin par anticipation, soit
-par arrêté du Premier ministre sur proposition du     secrétaire général de la défense et de la sécurité nationale pour les
-conseillers de défense placés auprès d'un ministre, soit par arrêté du préfet ayant procédé à la nomination pour les
-conseillers placés auprès de lui, soit sur démission de l'intéressé. 
+III. - Les fonctions prennent fin de plein droit lorsque le conseiller de défense et de sécurité atteint l'âge de soixante-
+dix ans. 
 
-Les fonctions prennent fin de plein droit lorsque le conseiller de défense atteint l'âge de soixante-dix ans.
+IV. - Le conseiller de défense et de sécurité remet un rapport de fin de mandat à l'autorité auprès de laquelle il est en
+fonctions. Celle-ci en adresse copie au secrétariat général de la défense et de la sécurité nationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°98-963 du 29 octobre 1998 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-902 du 3 août 2010 - art. 7
+
+
+###### Article R1143-11
+
+I. - Les conseillers de défense et de sécurité sont nommés :
+
+1° Pour ceux exerçant leurs fonctions auprès des ministres, par arrêté du ministre concerné ;
+
+2° Pour ceux exerçant leurs fonctions auprès des préfets, par arrêté du préfet concerné.
+
+II. - Le secrétariat général de la défense et de la sécurité nationale est informé des nominations prononcées et des missions
+confiées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°98-963 du 29 octobre 1998 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-902 du 3 août 2010 - art. 5
 
 
 ### LIVRE II : ORGANISATION TERRITORIALE ET OPÉRATIONNELLE DE LA DÉFENSE
@@ -36575,7 +36600,7 @@ Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations 
 titre VIII du présent livre : 
 
 1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20 et R. 1142-35 à R.
-1143-8 ; 
+1143-11 ; 
 
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
 1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à
@@ -36589,7 +36614,7 @@ titre VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2010-225 du 4 mars 2010 - art. 14
+	  - Décret n°2010-902 du 3 août 2010 - art. 8
 
 	**Cite**:
 
@@ -36597,7 +36622,8 @@ titre VIII du présent livre :
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
-	  - Code de la défense. - art. R1322-1
+	  - Code de la défense. - art. R1312-1 (V)
+	  - Code de la défense. - art. R1322-1 (V)
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
 	  - Code de la défense. - art. R1332-42
@@ -36909,27 +36935,30 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 VIII du présent livre : 
 
 1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 61142-20, et R. 1142-35 à R.
-1143-9 ; 
+1143-11 ; 
 
-2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R.
-1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R.
-1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
+R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R.
+1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18 .
+4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-225 du 4 mars 2010 - art. 16
+	  - Décret n°2010-902 du 3 août 2010 - art. 8
 
 	**Cite**:
 
+	  - Code de la défense. - art. R1142-35
+	  - Code de la défense. - art. R1312-1
+	  - Code de la défense. - art. R1322-1
+	  - Code de la défense. - art. R1332-35
 	  - Code de la défense. - art. R1511-2
 	  - Code de la défense. - art. R1651-4
-	  - Code de la défense. - art. R1681-1
 
 
 ###### Article R1651-4
@@ -37233,7 +37262,7 @@ localement.
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 1661-4, D. 1661-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
 1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à R. 1336-38, R. 1337-1 à R.
@@ -37247,7 +37276,7 @@ VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2010-225 du 4 mars 2010 - art. 18
+	  - Décret n°2010-902 du 3 août 2010 - art. 8
 
 	**Cite**:
 
@@ -37543,7 +37572,7 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4, D. 1671-7 et au titre
 VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-8 ; 
+1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6 ; R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
 1332-37 à R. 1332-38, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
@@ -37570,12 +37599,11 @@ VIII du présent livre :
 	  - Code de la défense. - art. R1338-1
 	  - Code de la défense. - art. R1511-2
 	  - Code de la défense. - art. R1671-4
-	  - Code de la défense. - art. R1681-1
 	  - Code de la défense. - art. R1682-1
 
 	**Modifié par**:
 
-	  - Décret n°2010-225 du 4 mars 2010 - art. 20
+	  - Décret n°2010-902 du 3 août 2010 - art. 8
 
 
 ###### Article R1671-4

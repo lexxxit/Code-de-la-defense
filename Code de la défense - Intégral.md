@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-08-05
+Version Consolidée au 2010-08-29
 
 # Partie législative
 
@@ -23814,7 +23814,7 @@ Les directives données en matière de défense économique par ces ministres lu
 	  - Code de la défense. - art. R1671-4 (V)
 
 
-##### Chapitre III : Hauts fonctionnaires de défense et de sécurité et conseillers de défense
+##### Chapitre III : Hauts fonctionnaires de défense et de sécurité et  conseillers de défense et de sécurité
 
 ##### Section 1 : Hauts fonctionnaires de défense et de sécurité
 
@@ -24051,10 +24051,6 @@ ministre la synthèse de ces comptes rendus.
 
 	  - Code de la défense. - art. R1143-1
 
-
-##### Chapitre III : Hauts fonctionnaires de défense et de sécurité et  conseillers de défense et de sécurité
-
-##### Section 1 : Hauts fonctionnaires de défense et de sécurité
 
 ##### Section 2 : Conseillers de défense et de sécurité
 
@@ -27592,7 +27588,9 @@ rémunérations et charges sociales ainsi qu'aux travaux d'infrastructure sont �
 
 La brigade de sapeurs-pompiers de Paris, placée pour emploi sous l'autorité du préfet de police, est chargée de la
 prévention, de la protection et de la lutte contre les incendies, à Paris et dans les départements des Hauts-de-Seine, de la
-Seine-Saint-Denis et du Val-de-Marne.
+Seine-Saint-Denis, du Val-de-Marne ainsi que sur les emprises de l'aérodrome de Roissy-Charles-de-Gaulle situées dans le Val-
+d'Oise et en Seine-et-Marne, sur les emprises de l'aérodrome d'Orly situées dans l'Essonne et sur les emprises de l'aérodrome
+du Bourget situées dans le Val-d'Oise.
 
 Elle intervient en dehors des limites territoriales définies à l'alinéa précédent sur décision du préfet de police ou du
 ministre de l'intérieur.
@@ -27605,12 +27603,11 @@ secours d'urgence dans les limites territoriales mentionnées à l'alinéa préc
 
 	**Anciens textes**:
 
-	  - Décret n°2000-1162 2000-11-28 art. 2 al. 1 et 3, art. 4 al. 1 et 2
 	  - Décret n°2000-1162 du 28 novembre 2000 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2010-972 du 26 août 2010 - art. 1
 
 	**Cité par**:
 
@@ -27748,6 +27745,35 @@ règlement mentionné au premier alinéa ci-dessus.
 	**Codifié par**:
 
 	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+
+
+###### Article R1321-24-1
+
+Sur les emprises des aérodromes du Bourget, de Roissy-Charles-de-Gaulle et d'Orly, le général, commandant la brigade de
+sapeurs-pompiers de Paris, est chargé de la mise en œuvre de l'ensemble des moyens de secours et de défense contre
+l'incendie, dans les conditions prévues par un règlement opérationnel arrêté, après avis du conseil d'administration des
+services départementaux d'incendie et de secours concernés et du général commandant la brigade de sapeurs-pompiers de Paris,
+par le préfet désigné pour exercer les pouvoirs de police prévus à l'article L. 213-2 du code de l'aviation civile sur
+l'emprise de ces aérodromes et publié au recueil des actes administratifs des départements concernés. 
+
+Sur ces emprises, le commandement des opérations de secours relève du général, commandant la brigade de sapeurs-pompiers de
+Paris, ou, en son absence, d'un officier, sous-officier ou gradé de la brigade ou des services départementaux d'incendie et
+de secours concernés dans les conditions fixées par le règlement mentionné au premier alinéa du présent article. 
+
+Le général, commandant la brigade de sapeurs-pompiers de Paris, exerce ses compétences sans préjudice de celles confiées par
+le code de l'aviation civile à l'exploitant d'aérodrome dans le domaine du service de sauvetage et de la lutte contre les
+incendies d'aéronefs, conformément aux mesures de coordination arrêtées par le préfet dans le règlement mentionné au premier
+alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-972 du 26 août 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. L213-2 (VT)
 
 
 ##### Sous-section 2 : Bataillon de marins-pompiers de Marseille

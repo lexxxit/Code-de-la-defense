@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-09-29
+Version Consolidée au 2010-10-18
 
 # Partie législative
 
@@ -80355,15 +80355,16 @@ Cet organisme est dirigé par un officier général.
 
 La direction de l'enseignement militaire supérieur : 
 
-1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur à caractère
-interarmées et les conditions de sa mise en œuvre, en vue notamment d'en conforter le rayonnement en France et à
-l'étranger ; 
+1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur du personnel
+des armées, services et organismes interarmées, ainsi que les conditions de sa mise en œuvre, en vue notamment d'en conforter
+le rayonnement en France et à l'étranger. Elle veille à la cohérence des projets pédagogiques entre les différents niveaux de
+l'enseignement militaire supérieur et à celle des parcours de formation depuis la formation initiale ; 
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
 cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ; 
 
-3° Prépare les officiers supérieurs des forces armées, de la     direction générale de l'armement et de la justice militaire
-à exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
+3° Prépare les officiers supérieurs des forces armées, de la direction générale de l'armement et de la justice militaire à
+exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
 interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique
 de défense et de sécurité ; 
 
@@ -80381,18 +80382,18 @@ national et international dans les domaines de la défense et de la sécurité n
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2010-1220 du 15 octobre 2010 - art. 1
 
 
 ###### Article D4152-10
 
-La direction de l'enseignement militaire supérieur comprend :
+La direction de l'enseignement militaire supérieur comprend : 
 
 1° Le centre des hautes études militaires ;
 
 2° Le collège interarmées de défense ;
 
-3° La division de la recherche et de la documentation.
+3° Le centre de documentation de l'Ecole militaire.
 
 Son organisation est fixée par arrêté du ministre de la défense.
 
@@ -80404,37 +80405,7 @@ Son organisation est fixée par arrêté du ministre de la défense.
 
 	**Modifié par**:
 
-	  - Décret n°2009-256 du 4 mars 2009 - art. 1
-
-
-###### Article D4152-11
-
-Le conseil scientifique de la division de la recherche et de la documentation propose les axes de recherche et les
-orientations générales de la politique de documentation de la division de la recherche et de la documentation. Il donne un
-avis pour le recrutement des chercheurs et des enseignants de l'enseignement militaire supérieur.
-
-Un arrêté du ministre de la défense précise la composition, les attributions et les modalités de fonctionnement de ce
-conseil.
-
-**Nota:**
-
-Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-scientifique de la division de la recherche et de la documentation).
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-256 du 4 mars 2009 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2009-630 du 6 juin 2009 - art. (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1220 du 15 octobre 2010 - art. 3
+	  - Décret n°2010-1220 du 15 octobre 2010 - art. 2
 
 
 ###  LIVRE II : RÉSERVE MILITAIRE

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-10-18
+Version Consolidée au 2010-10-23
 
 # Partie législative
 
@@ -54655,7 +54655,7 @@ Les services de l'armée de terre sont :
 
 1° Le matériel de l'armée de terre ; 
 
-2° (Supprimé). 
+2° La structure intégrée du maintien en condition opérationnelle des matériels terrestres. 
 
 Leurs attributions sont fixées par décret. 
 
@@ -54673,7 +54673,7 @@ commandements opérationnels.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 1
 
 	**Cite**:
 
@@ -57441,20 +57441,16 @@ dont celui-ci relève, ainsi que sur le personnel mis à sa disposition pour l'e
 
 ###### Article R3233-5
 
-Le service des essences des armées est un service interarmées.
+Le service des essences des armées est un service interarmées. 
 
-Il assure l'approvisionnement, le stockage et la distribution des produits pétroliers, à l'exception des combustibles de
-soute et produits associés de la marine, nécessaires aux armées, à la gendarmerie nationale et à tout autre service ou
-organisme relevant du ministre de la défense.
+Il assure l'approvisionnement, le stockage et la distribution des produits pétroliers nécessaires aux armées et à tout autre
+service ou organisme relevant du ministre de la défense. 
 
-Il peut être amené, dans certaines circonstances d'intérêt général, à intervenir au profit d'autres bénéficiaires, personnes
-publiques ou privées.
+Il peut intervenir, dans certaines circonstances d'intérêt général, au profit d'autres bénéficiaires, personnes privées. 
+
+Il peut, en outre, agir par délégation de gestion au profit d'autres bénéficiaires, personnes publiques.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 	**Cité par**:
 
@@ -57462,65 +57458,100 @@ publiques ou privées.
 	  - Arrêté du 22 septembre 2011 (Ab)
 	  - Arrêté du 11 février 2015 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+
 
 ###### Article R3233-6
 
-Le service des essences des armées est chargé :
+Le service des essences des armées est chargé : 
 
-1° De la définition des spécifications et de l'homologation des produits pétroliers et assimilés nécessaires aux armées et à
-la gendarmerie ;
+1° De la définition des spécifications et de l'homologation des produits pétroliers et assimilés nécessaires aux armées ; 
 
-2° De la définition, de la réalisation, de la gestion et du soutien des matériels pétroliers ;
+2° De la définition, de la réalisation, de la gestion et du soutien des matériels pétroliers ; 
 
 3° De l'exécution des prestations de service constructeur pour les installations pétrolières à terre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-16 (V)
 
 
 ###### Article R3233-7
 
-Le service des essences des armées participe à la définition et à la mise en œuvre de la logistique pétrolière des armées
+Le service des essences des armées participe à la définition et à la mise en œuvre de la logistique pétrolière des armées,
 ainsi qu'à l'élaboration de la politique énergétique du ministère de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-17 (V)
 
 
 ###### Article R3233-8
 
-Le service des essences des armées assure, dans son domaine de compétence, le contrôle technique et toute expertise en tant
+Le service des essences des armées assure, dans son domaine de compétence, le contrôle technique et toute expertise, en tant
 que de besoin.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-18 (V)
 
 
 ###### Article R3233-9
 
-Le service des essences des armées représente le ministre de la défense auprès des responsables du secteur pétrolier civil.
+Le service des essences des armées représente le ministre de la défense auprès des responsables du secteur pétrolier civil. 
 
 Il est également, dans son domaine de compétence, conseiller des autorités civiles de l'Etat dans le cadre de leurs
 attributions de défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 11 février 2015 - art. 2 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-19 (V)
 
 
 ##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
@@ -58015,6 +58046,218 @@ aéronautiques du ministère de la défense est fixée par un arrêté du minist
 	**Nouveaux textes**:
 
 	  - Code de la défense. - art. R3232-38 (V)
+
+
+##### Section 6 : La structure intégrée du maintien en condition opérationnelle des matériels terrestres 
+
+###### Article R3233-29
+
+La structure intégrée du maintien en condition opérationnelle des matériels terrestres relève du chef d'état-major de l'armée
+de terre. 
+
+Le chef d'état-major des armées, le délégué général pour l'armement, le chef d'état-major de chaque armée et les directeurs
+des services ou organismes interarmées disposent de la structure intégrée du maintien en condition opérationnelle des
+matériels terrestres, pour exercer leurs attributions en matière de maintien en condition opérationnelle des matériels
+terrestres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-39 (V)
+
+
+###### Article R3233-30
+
+Le comité directeur de la structure intégrée du maintien en condition opérationnelle des matériels terrestres est présidé par
+le chef d'état-major des armées. 
+
+Il organise la mise en œuvre du maintien en condition opérationnelle du matériel terrestre des armées. 
+
+L'organisation et le fonctionnement de ce comité sont précisés par un arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-40 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3233-31 (T)
+	  - Code de la défense. - art. R3233-32 (T)
+
+
+###### Article R3233-31
+
+Pour les matériels terrestres dont la liste est fixée par arrêté, la structure intégrée du maintien en condition
+opérationnelle des matériels terrestres : 
+
+1° Contribue à la définition de la politique du soutien des matériels terrestres en service, en cohérence avec les
+orientations des directions, des armées et des services, notamment en matière de soutien logistique intégré ; 
+
+2° Fait assurer, par les organismes chargés de sa mise en œuvre, le maintien en condition opérationnelle des matériels
+terrestres des armées, services et organismes interarmées ; 
+
+3° Veille au maintien du potentiel des matériels, à partir de leur mise en service et jusqu'à leur retrait du service, en
+cohérence avec le plan d'évolution des parcs définis par les armées, services et organismes interarmées ; 
+
+4° Elabore les règles générales et techniques de maintien en condition opérationnelle des matériels terrestres, sur la base
+des instructions techniques du délégué général pour l'armement et des besoins exprimés au comité directeur prévu à l'article
+R. 3233-30. 
+
+5° Garantit aux armées la mise à disposition des équipements en service nécessaires aux forces et s'assure de la cohérence
+des coûts de maintien en condition avec, d'une part, les objectifs fixés par les armées, services et organismes interarmées
+et, d'autre part, les ressources attribuées ; 
+
+6° Assure la cohérence des actions de maintien en condition opérationnelle et propose aux armées, services et organismes
+interarmées, avec l'avis de la direction générale de l'armement, les actions correspondantes. 
+
+Elle peut être chargée, dans des conditions fixées par le ministre de la défense, d'assurer sa mission au profit d'organismes
+publics extérieurs au ministère de la défense ou de participer à des programmes développés en coopération internationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-41 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3233-30
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3233-32 (T)
+
+
+###### Article R3233-32
+
+Pour l'exercice des missions mentionnées à l'article R. 3233-31, la structure intégrée du maintien en condition
+opérationnelle des matériels terrestres est chargée de : 
+
+1° En matière réglementaire : 
+
+a) S'assurer de l'exécution des règles générales et techniques du maintien en condition opérationnelle des matériels
+terrestres ; 
+
+b) S'assurer de l'élaboration et de la mise à jour du référentiel normatif et technique au profit des organismes chargés de
+la mise en œuvre du soutien des matériels terrestres, en prenant en compte les faits techniques dont elle assure ou fait
+assurer le traitement ; 
+
+c) Elaborer les directives de mise en œuvre de la politique d'emploi et de gestion des parcs spécifique à l'armée de terre. 
+
+2° En matière de gestion des matériels, assurer la gestion logistique et comptable des équipements, rechanges et outillages
+spécifiques.
+
+A ce titre, elle prend les décisions et prononce les mouvements relatifs : 
+
+a) Aux mises à disposition et à l'élimination des matériels complets relevant de sa compétence ; les mouvements et les mises
+à disposition entre les armées et les services sont effectués après accord des armées et des services qui les emploient ; 
+
+b) Aux mises à disposition, aux cessions et à l'élimination des sous-ensembles relevant de sa compétence. 
+
+3° En matière financière : 
+
+a) Participer à l'ajustement entre les objectifs et l'enveloppe financière correspondante et proposer, aux états-majors,
+services et organismes interarmées, les arbitrages financiers contribuant aux planifications budgétaires ; 
+
+b) Gérer les crédits qui lui sont alloués, tenir les armées, services et organismes interarmées informés lors des réunions du
+conseil de gestion et rendre compte des résultats obtenus au comité directeur prévu à l'article R. 3233-30. 
+
+4° En matière d'achats : 
+
+a) Contribuer à la définition des stratégies générales d'acquisition des moyens et des prestations de soutien, en cohérence
+avec celles des systèmes d'armes, ainsi qu'avec la politique industrielle du ministère ; 
+
+b) Donner ses instructions en concertation avec la direction générale de l'armement et en cohérence avec la politique des
+achats définie par le secrétariat général pour l'administration ; 
+
+c) Passer les marchés d'approvisionnements nécessaires au maintien en condition opérationnelle des matériels terrestres,
+lorsqu'ils ne relèvent pas de la responsabilité de la direction générale de l'armement, et notamment les marchés
+d'acquisition : 
+
+― de rechanges, d'équipements et de prestations de maintien en condition opérationnelle ; 
+
+― des matériels terrestres ; 
+
+― d'équipements techniques et outillages au profit des organismes du ministère chargés de la mise en œuvre du soutien des
+matériels terrestres. 
+
+5° En matière de qualité, définir une politique de qualité en concertation avec la direction générale de l'armement et en
+cohérence avec les politiques de qualité des armées, des services et des organismes interarmées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-42 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3233-30 (T)
+	  - Code de la défense. - art. R3233-31 (T)
+
+
+###### Article R3233-33
+
+La structure intégrée du maintien en condition opérationnelle des matériels terrestres participe à l'exercice des
+responsabilités suivantes : 
+
+1° Le maintien des capacités opérationnelles nécessaires à la réalisation du contrat opérationnel et de ses évolutions ; 
+
+2° La mise en cohérence des méthodes, des outils et des capacités industrielles de maintien en condition opérationnelle,
+notamment dans un souci de maîtrise des coûts afférents, dans le cadre des directives de l'état-major des armées, des
+attributions de la direction générale de l'armement et en liaison avec la structure intégrée du maintien en condition
+opérationnelle des matériels aéronautiques du ministère de la défense et le service de soutien de la flotte ; 
+
+3° La mise en cohérence des procédures de soutien des matériels terrestres en service avec celles des forces alliées .
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-43 (V)
 
 
 #### TITRE IV : COMMANDEMENTS INTERARMEES

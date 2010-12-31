@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-10-23
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -21127,6 +21127,39 @@ Les règles relatives au compte de commerce " Approvisionnement des armées en p
 	**Abrogé par**:
 
 	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 2
+
+
+#### TITRE II : ADMINISTRATION ET COMPTABILITE DES FORMATIONS
+
+##### Chapitre unique : Responsabilité des trésoriers militaires
+
+###### Article L5221-1
+
+I. ― Le trésorier et le sous-trésorier militaires sont personnellement et pécuniairement responsables : 
+
+1° De l'encaissement des recettes qui leur incombent et du décaissement des dépenses dont ils ont la charge ; 
+
+2° De la garde et de la conservation des fonds et valeurs qui leur sont confiés, du maniement des fonds et des mouvements de
+compte de disponibilité ; 
+
+3° De la tenue de la comptabilité des opérations, de la conservation des pièces justificatives ainsi que des documents de
+comptabilité. 
+
+II. ― Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 151
+
+	**Cité par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Code de la défense. - art. L5341-1 (V)
+	  - Code de la défense. - art. L5351-1 (V)
+	  - Code de la défense. - art. L5361-1 (V)
+	  - Code de la défense. - art. L5371-1 (V)
 
 
 ### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -42740,38 +42773,42 @@ demande.
 ###### Article R2234-81
 
 Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de
-réquisitions de services comportant des prestations immobilières, elle est composée de douze membres :
+réquisitions de services comportant des prestations immobilières, elle est composée de douze membres : 
 
-1° Un membre de l'administration préfectorale, président ;
+1° Un membre de l'administration préfectorale, président ; 
 
-2° Le directeur des services fiscaux du département (contributions directes et cadastre) ou son représentant ;
+2° Le directeur des services fiscaux du département (contributions directes et cadastre) ou son représentant ; 
 
-3° Le directeur des services fiscaux du département (contributions indirectes) ou son représentant ;
+3° Le directeur des services fiscaux du département (contributions indirectes) ou son représentant ; 
 
-4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ;
+4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ; 
 
-5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ;
+5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ; 
 
-6° Le président de la chambre de commerce et d'industrie ou son délégué ;
+6° Le président de la chambre de commerce et d'industrie territoriale ou son délégué ; 
 
-7° Le président de la chambre d'agriculture ou son délégué ;
+7° Le président de la chambre d'agriculture ou son délégué ; 
 
-8° Le président de la chambre des métiers ou son délégué ;
+8° Le président de la chambre des métiers ou son délégué ; 
 
-9° Le président de la chambre des notaires ou son délégué ;
+9° Le président de la chambre des notaires ou son délégué ; 
 
-10° Un représentant de la propriété bâtie désigné par le préfet sur la proposition des groupements locaux qualifiés ;
+10° Un représentant de la propriété bâtie désigné par le préfet sur la proposition des groupements locaux qualifiés ; 
 
-11° Un représentant de l'hôtellerie désigné par le préfet sur la proposition des groupements locaux qualifiés.
+11° Un représentant de l'hôtellerie désigné par le préfet sur la proposition des groupements locaux qualifiés. 
 
 Les dispositions des articles R. 2234-77 à R. 2234-80 sont applicables à la commission d'évaluation faisant l'objet du
 présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2234-77 (V)
 
 	**Cité par**:
 

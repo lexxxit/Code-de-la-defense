@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-07
 
 # Partie législative
 
@@ -2039,20 +2039,17 @@ Les dispositions prévues au présent chapitre s'appliquent :
 1° Aux navires français dans tous les espaces maritimes, sous réserve des compétences reconnues aux Etats par le droit
 international ;
 
-2° Aux navires étrangers dans les espaces maritimes relevant de la souveraineté ou de la juridiction de la République
-française ainsi qu'en haute mer conformément au droit international.
+2° Aux navires étrangers et aux navires n'arborant aucun pavillon ou sans nationalité, dans les espaces maritimes relevant de
+la souveraineté ou de la juridiction de la République française ainsi qu'en haute mer conformément au droit international.
 
 Elles ne s'appliquent ni aux navires de guerre étrangers ni aux autres navires d'Etat étrangers utilisés à des fins non
 commerciales ;
 
-3° Aux navires situés dans les espaces maritimes sous souveraineté d'un Etat étranger, en accord avec celui-ci.
+3° Aux navires situés dans les espaces maritimes sous souveraineté d'un Etat étranger, en accord avec celui-ci ;
+
+4° Aux navires battant pavillon d'un Etat qui a sollicité l'intervention de la France ou agréé sa demande d'intervention.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°94-589 du 15 juillet 1994 - art. 2 (M)
-	  - Loi n°94-589 du 15 juillet 1994 - art. 2 (Ab)
 
 	**Cité par**:
 
@@ -2066,15 +2063,18 @@ commerciales ;
 	  - Code de la défense. - art. L1661-1 (V)
 	  - Code de la défense. - art. L1671-1 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°94-589 du 15 juillet 1994 - art. 2 (Ab)
+
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
-	  - Loi n°2005-371 du 22 avril 2005 - art. 3 () JORF 23 avril 2005
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
 
 
 ###### Article L1521-2
@@ -2361,6 +2361,150 @@ d'obtempérer aux injonctions mentionnées à l'article L. 1521-9.
 	**Cité par**:
 
 	  - Code de la défense. - art. L1631-1 (Ab)
+
+
+##### Section 3 : Mesures prises à l'encontre des personnes à bord des navires
+
+###### Article L1521-11
+
+A compter de l'embarquement de l'équipe de visite prévue à l'article L. 1521-4 sur le navire contrôlé, les agents mentionnés
+à l'article L. 1521-2 peuvent prendre les mesures de coercition nécessaires et adaptées à l'encontre des personnes à bord en
+vue d'assurer leur maintien à disposition, la préservation du navire et de sa cargaison ainsi que la sécurité des personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1521-2
+	  - Code de la défense. - art. L1521-4 (V)
+
+
+###### Article L1521-12
+
+Lorsque des mesures de restriction ou de privation de liberté doivent être mises en œuvre, les agents mentionnés à l'article
+L. 1521-2 en avisent le préfet maritime ou, outre-mer, le délégué du Gouvernement pour l'action de l'Etat en mer, qui en
+informe dans les plus brefs délais le procureur de la République territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1521-14 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1521-2
+
+
+###### Article L1521-13
+
+Chaque personne à bord faisant l'objet d'une mesure de restriction ou de privation de liberté bénéficie d'un examen de santé
+par une personne qualifiée dans un délai de vingt-quatre heures à compter de la mise en œuvre de celle-ci. Un examen médical
+intervient au plus tard à l'expiration d'un délai de dix jours à compter du premier examen de santé effectué. 
+
+Un compte rendu de l'exécution de ces examens se prononçant, notamment, sur l'aptitude au maintien de la mesure de
+restriction ou de privation de liberté est transmis dans les plus brefs délais au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+
+###### Article L1521-14
+
+Avant l'expiration du délai de quarante-huit heures à compter de la mise en œuvre des mesures de restriction ou de privation
+de liberté mentionnées à l'article L. 1521-12 et à la demande des agents mentionnés à l'article L. 1521-2, le juge des
+libertés et de la détention saisi par le procureur de la République statue sur leur prolongation éventuelle pour une durée
+maximale de cent vingt heures à compter de l'expiration du délai précédent. 
+
+Ces mesures sont renouvelables dans les mêmes conditions de fond et de forme durant le temps nécessaire pour que les
+personnes en faisant l'objet soient remises à l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1521-12
+	  - Code de la défense. - art. L1521-2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1521-15 (V)
+
+
+###### Article L1521-15
+
+Pour l'application de l'article L. 1521-14, le juge des libertés et de la détention peut solliciter du procureur de la
+République tous éléments de nature à apprécier la situation matérielle et l'état de santé de la personne qui fait l'objet
+d'une mesure de restriction ou de privation de liberté. 
+
+Il peut ordonner un nouvel examen de santé. 
+
+Sauf impossibilité technique, le juge des libertés et de la détention communique, s'il le juge utile, avec la personne
+faisant l'objet des mesures de restriction ou de privation de liberté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1521-14
+
+
+###### Article L1521-16
+
+Le juge des libertés et de la détention statue par ordonnance motivée insusceptible de recours. Copie de cette ordonnance est
+transmise dans les plus brefs délais par le procureur de la République au préfet maritime ou, outre-mer, au délégué du
+Gouvernement pour l'action de l'Etat en mer, à charge pour celui-ci de la faire porter à la connaissance de la personne
+intéressée dans une langue qu'elle comprend.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+
+###### Article L1521-17
+
+Les mesures prises à l'encontre des personnes à bord des navires peuvent être poursuivies, le temps strictement nécessaire,
+au sol ou à bord d'un aéronef, sous l'autorité des agents de l'Etat chargés du transfert, sous le contrôle de l'autorité
+judiciaire tel que défini par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+
+
+###### Article L1521-18
+
+Dès leur arrivée sur le sol français, les personnes faisant l'objet de mesures de coercition sont mises à la disposition de
+l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
 
 
 ### LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -16969,7 +17113,9 @@ d) De congés de solidarité familiale ;
 
 e) D'un congé de reconversion ; 
 
-f) De congés de présence parentale ; 
+f) De congés de présence parentale ;
+
+g) D'un congé pour création ou reprise d'entreprise ; 
 
 2° Qui est affecté, pour une durée limitée, dans l'intérêt du service, auprès d'une administration de l'Etat, d'un
 établissement public à caractère administratif ne relevant pas de la tutelle du ministre de la défense, d'un établissement
@@ -17078,7 +17224,7 @@ permissions et des congés de fin de campagne.
 
 	**Modifié par**:
 
-	  - Loi n°2010-209 du 2 mars 2010 - art. 6
+	  - Loi n°2011-14 du 5 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -17907,45 +18053,56 @@ en surnombre, dans son corps d'origine ou sa formation de rattachement.
 
 ###### Article L4139-5
 
-Le militaire peut bénéficier sur demande agréée : 
+I. ― Le militaire peut bénéficier sur demande agréée : 
 
 1° De dispositifs d'évaluation et d'orientation professionnelle destinés à préparer son retour à la vie civile ; 
 
-2° D'une formation professionnelle ou d'un accompagnement vers l'emploi. 
+2° D'une formation professionnelle ou d'un accompagnement vers l'emploi, destinés à le préparer à l'exercice d'un métier
+civil. 
 
-La formation ou l'accompagnement vers l'emploi sont accessibles au militaire ayant accompli au moins quatre ans de services
-militaires effectifs et sont destinés à préparer leur bénéficiaire à l'exercice d'un métier civil. 
+II. ― Pour la formation professionnelle ou l'accompagnement vers l'emploi, le militaire ayant accompli au moins quatre ans de
+services effectifs peut, sur demande agréée, bénéficier d'un congé de reconversion d'une durée maximale de cent vingt jours
+ouvrés, qui peut être fractionné pour répondre aux contraintes de la formation suivie ou de l'accompagnement vers l'emploi.
+Il peut ensuite, selon les mêmes conditions, bénéficier d'un congé complémentaire de reconversion d'une durée maximale de six
+mois consécutifs. 
 
-Pour l'acquisition de la formation professionnelle ou l'accompagnement vers l'emploi, le militaire peut, sur demande agréée,
-bénéficier d'un congé de reconversion et d'un congé complémentaire de reconversion, d'une durée maximale de six mois chacun. 
+Le volontaire ayant accompli moins de quatre années de services effectifs peut bénéficier d'un congé de reconversion d'une
+durée maximale de vingt jours ouvrés selon les mêmes modalités et dans les mêmes conditions de fractionnement que celles
+prévues au premier alinéa du présent II. 
 
-Ces congés, destinés à préparer à l'exercice d'une profession civile, sont accordés au militaire ayant accompli au moins
-quatre ans de services militaires effectifs. 
+Le bénéficiaire de ces congés perçoit, dans des conditions définies par décret en Conseil d'Etat, la rémunération de son
+grade. Celle-ci est réduite ou suspendue lorsque le bénéficiaire perçoit une rémunération publique ou privée. 
 
-Durant ces congés, d'une durée maximale de douze mois consécutifs, le militaire perçoit, dans les conditions définies par
-décret en Conseil d'Etat, la rémunération de son grade. Celle-ci est suspendue ou réduite lorsque le bénéficiaire perçoit une
-rémunération publique ou privée. 
+La durée de ces congés compte pour les droits à avancement et pour les droits à pension. 
 
-La durée de ces congés compte pour les droits à avancement et pour les droits à pension.
+III. ― Sous réserve des dispositions prévues au VI de l'article 89 de la loi n° 2005-270 du 24 mars 2005 portant statut
+général des militaires, le militaire qui bénéficie d'un congé de reconversion est radié des cadres ou rayé des contrôles à
+titre définitif, selon le cas : 
 
-A l'expiration du congé de reconversion ou du congé complémentaire de reconversion, selon le cas, le militaire est radié des
-cadres ou rayé des contrôles à titre définitif, sous réserve des dispositions prévues au VI de l'article 89 de la loi n°
-2005-270 du 24 mars 2005 portant statut général des militaires.
+1° Soit à l'issue d'un congé de reconversion d'une durée cumulée de cent vingt jours ouvrés ; 
+
+2° Soit, s'il n'a pas bénéficié de la totalité de ce congé, au plus tard deux ans après l'utilisation du quarantième jour du
+congé. Dans ce cas, les durées d'activité effectuées dans l'une des situations mentionnées aux a à d et f du 1° de l'article
+L. 4138-2 ainsi que, le cas échéant, la durée des missions opérationnelles accomplies sur ou hors du territoire national sont
+pour partie comptabilisées dans le calcul de cette période de deux ans, dans des conditions fixées par décret en Conseil
+d'Etat ; 
+
+3° Soit à l'expiration du congé complémentaire de reconversion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
-	**Anciens textes**:
-
-	  - Loi n°2005-270 2005-03-24 art. 65
-	  - Loi n°2005-270 du 24 mars 2005 - art. 65 (Ab)
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89
+	  - Code de la défense. - art. L4138-2
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 65 (Ab)
 
 	**Cité par**:
 
@@ -17967,6 +18124,49 @@ cadres ou rayé des contrôles à titre définitif, sous réserve des dispositio
 	  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R242-8 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2011-14 du 5 janvier 2011 - art. 1
+
+
+###### Article L4139-5-1
+
+Le bénéfice du congé pour création ou reprise d'entreprise mentionné au g du 1° de l'article L. 4138-2 est ouvert, sur
+demande agréée, au militaire ayant accompli au moins huit ans de services militaires effectifs.
+
+L'interdiction d'exercer à titre professionnel une activité privée lucrative et le 1° de l'article L. 4122-2 ne sont pas
+applicables au militaire qui crée ou reprend une entreprise dans le cadre de ce congé. 
+
+Le congé a une durée maximale d'un an, renouvelable une fois. 
+
+Durant ce congé, le militaire perçoit, dans des conditions définies par décret en Conseil d'Etat, la rémunération de son
+grade. Lorsque le congé est renouvelé, le militaire perçoit la rémunération de son grade réduite de moitié. 
+
+La durée de ce congé compte pour les droits à avancement et pour les droits à pension. 
+
+Le militaire qui bénéficie d'un congé pour création ou reprise d'entreprise est radié des cadres ou rayé des contrôles à
+titre définitif à l'expiration de ce congé, sauf s'il est mis fin à ce congé dans des conditions définies par un décret en
+Conseil d'Etat. 
+
+Le bénéfice d'un congé pour création ou reprise d'entreprise est exclusif de tout congé accordé au titre du II de l'article
+L. 4139-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-14 du 5 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4122-2
+	  - Code de la défense. - art. L4138-2
+	  - Code de la défense. - art. L4139-5
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-29-1 (V)
 
 
 ###### Article L4139-6
@@ -18004,6 +18204,36 @@ ou admis dans la deuxième section des officiers généraux.
 	  - Code de la défense. - art. L4139-14 (V)
 	  - Code de la défense. - art. R4138-71 (V)
 	  - Code de la défense. - art. R4138-72 (V)
+
+
+###### Article L4139-6-1
+
+Le militaire de carrière se trouvant à moins de deux ans de la limite d'âge de son grade, l'officier sous contrat et le
+militaire engagé se trouvant à moins de deux ans de la limite de durée des services ainsi que le militaire en congé de
+reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 123-1-1 du code de commerce, L.
+133-6-8-1 et L. 133-6-8-2 du code de la sécurité sociale et 50-0 et 102 ter du code général des impôts. 
+
+Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues aux cinquième
+et sixième alinéas de l'article L. 4122-2 du présent code et par le décret en Conseil d'Etat pris pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-14 du 5 janvier 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-1-1
+	  - Code général des impôts, CGI. - art. 102 ter (V)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code de la défense. - art. L4122-2
+	  - Code de la sécurité sociale. - art. L133-6-8-1 (V)
+	  - Code de la sécurité sociale. - art. L133-6-8-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4122-28 (V)
 
 
 ##### Sous-section 2 : Dispositions applicables aux militaires de carrière.

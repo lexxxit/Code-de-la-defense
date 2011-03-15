@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-01-22
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -1269,6 +1269,34 @@ l'autorité administrative.
 	  - Loi n°2006-686 du 13 juin 2006 - art. 59 () JORF 14 juin 2006
 
 
+###### Article L1332-2-1
+
+L'accès à tout ou partie des établissements, installations et ouvrages désignés en application du présent chapitre est
+autorisé par l'opérateur qui peut demander l'avis de l'autorité administrative compétente dans les conditions et selon les
+modalités définies par décret en Conseil d'Etat.
+
+L'avis est rendu à la suite d'une enquête administrative qui peut donner lieu à la consultation du bulletin n° 2 du casier
+judiciaire et de traitements automatisés de données à caractère personnel relevant de l'article 26 de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+La personne concernée est informée de l'enquête administrative dont elle fait l'objet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 26
+
+	**Cité par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 (V)
+	  - Code de la défense. - art. R1332-22-3 (V)
+
+
 ###### Article L1332-3
 
 Les opérateurs dont un ou plusieurs établissements, installations et ouvrages sont désignés en application du présent
@@ -1740,8 +1768,8 @@ haut fonctionnaire de défense placé auprès du    ministre chargé de l'énerg
 
 I.-Est puni d'un emprisonnement de dix ans et d'une amende de 7 500 000 euros : 
 
-1° Le fait d'exercer sans autorisation les activités mentionnées à l'article L. 1333-2 ou de fournir des renseignements
-inexacts afin d'obtenir ladite autorisation ; 
+1° Le fait d'exercer sans autorisation les activités mentionnées à l'article L. 1333-2 ou de   se faire délivrer indûment par
+quelque moyen frauduleux que ce soit ladite autorisation ; 
 
 2° Le fait de s'approprier indûment les matières nucléaires mentionnées à l'article L. 1333-1 ; 
 
@@ -1752,30 +1780,24 @@ inexacts afin d'obtenir ladite autorisation ;
 5° Le fait de détruire des éléments de structure dans lesquels sont conditionnées les matières nucléaires mentionnées à
 l'article L. 1333-1. 
 
-II.-Le tribunal peut, en outre, prononcer la confiscation des matières nucléaires ainsi que celle des équipements ayant servi
-à l'élaboration, à l'utilisation ou au transport de ces matières. 
+II. (abrogé) 
 
-III.-La tentative des délits prévus aux 2°, 4° et 5° du I est punie des mêmes peines.
+III.-La tentative des délits prévus au I est punie des mêmes peines.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 1980-07-25 art. 6, alinéas 1 et 2
-	  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - Loi n°2011-266 du 14 mars 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-1 (V)
+	  - Code de la défense. - art. L1333-1
 
 	**Cité par**:
 
@@ -1946,33 +1968,353 @@ ne l'ont pas déclaré dans le délai prévu à l'alinéa précédent.
 	  - Code de la défense. - art. L1333-2 (V)
 
 
+###### Article L1333-13-1
+
+Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 € : 
+
+1° L'exportation sans autorisation de biens connexes aux matières nucléaires, dont la liste est fixée par arrêté conjoint du
+ministre de la défense et du ministre chargé de l'industrie ; 
+
+2° Le fait de se faire délivrer indûment par quelque moyen frauduleux que ce soit l'autorisation d'exportation de ces mêmes
+biens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 30 juillet 2012 - art. 1 (V)
+	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-4 (V)
+	  - Code de la défense. - art. L1333-13-8 (V)
+	  - Code de procédure pénale - art. 706-167 (V)
+
+
+###### Article L1333-13-2
+
+Le fait de provoquer, d'encourager ou d'inciter quiconque, de quelque manière que ce soit, à commettre les infractions
+prévues au I de l'article L. 1333-9 et aux articles L. 1333-11 et L. 1333-13-1, lorsque ce fait a été suivi d'effet, est puni
+des peines prévues pour ces infractions. 
+
+Lorsque les faits mentionnés au premier alinéa du présent article ne sont pas suivis d'effet en raison de circonstances
+indépendantes de la volonté de leur auteur, la peine est de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-11 (V)
+	  - Code de la défense. - art. L1333-13-1 (V)
+	  - Code de la défense. - art. L1333-9 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-13-4 (V)
+	  - Code de la défense. - art. L1333-13-8 (V)
+	  - Code de la défense. - art. L1333-14 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+
+###### Article L1333-13-3
+
+I.-Les infractions définies aux articles L. 1333-12 et L. 1333-13-1 sont punies de dix ans d'emprisonnement et de 150 000 €
+d'amende lorsqu'elles sont commises en bande organisée. 
+
+II.-Les infractions définies aux articles L. 1333-9 et L. 1333-11 sont punies de quinze ans de réclusion criminelle et de 7,5
+millions d'euros d'amende lorsqu'elles sont commises en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-11 (V)
+	  - Code de la défense. - art. L1333-12 (V)
+	  - Code de la défense. - art. L1333-13-1 (V)
+	  - Code de la défense. - art. L1333-9 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-13-10 (V)
+	  - Code de la défense. - art. L1333-13-11 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-13-8 (V)
+	  - Code de la défense. - art. L1333-13-9 (V)
+	  - Code de procédure pénale - art. 78-2-2 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+
+###### Article L1333-13-4
+
+I.-Les infractions définies à l'article L. 1333-13-1 sont punies de quinze ans de réclusion criminelle et de 7,5 millions
+d'euros d'amende lorsqu'elles sont en relation avec une entreprise individuelle ou collective ayant pour but de permettre à
+quiconque de se doter d'une arme nucléaire. 
+
+La peine est portée à vingt ans de réclusion criminelle et à 7,5 millions d'euros d'amende lorsque les infractions sont
+commises en bande organisée. 
+
+II.-Les infractions définies aux 1° et 2° du I de l'article L. 1333-9 et aux articles L. 1333-11, L. 1333-12 et L. 1333-13-2
+sont punies de vingt ans de réclusion criminelle et de 7,5 millions d'euros d'amende lorsqu'elles sont en relation avec une
+entreprise individuelle ou collective ayant pour but de permettre à quiconque de se doter d'une arme nucléaire. 
+
+Ces faits sont punis de trente ans de réclusion criminelle et de 7,5 millions d'euros d'amende lorsqu'ils sont commis en
+bande organisée. 
+
+III.-Constitue une arme nucléaire, pour la poursuite des infractions mentionnées au présent article, tout engin explosif dont
+l'énergie a pour origine la fission de noyaux d'atomes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-11 (V)
+	  - Code de la défense. - art. L1333-12 (V)
+	  - Code de la défense. - art. L1333-13-1 (V)
+	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-9 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-13-5 (V)
+	  - Code de la défense. - art. L1333-13-9 (V)
+	  - Code de la défense. - art. L2339-14 (VD)
+	  - Code de la défense. - art. L2339-16 (VD)
+	  - Code de la défense. - art. L2339-17 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+
+###### Article L1333-13-5
+
+Le fait de procurer un financement en fournissant, réunissant ou gérant des fonds, des valeurs ou des biens quelconques ou en
+donnant des conseils à cette fin, dans l'intention de voir ces fonds, valeurs ou biens utilisés ou en sachant qu'ils sont
+destinés à être utilisés, en tout ou partie, en vue de commettre l'une des infractions prévues à l'article L. 1333-13-4, est
+puni des peines prévues au même article, indépendamment de la commission effective de cette infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cité par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 9
+	  - Loi n°2016-731 du 3 juin 2016 - art. 47
+	  - Code de procédure pénale - art. 706-168 (VD)
+	  - Code de procédure pénale - art. 78-2-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-4 (V)
+
+
+###### Article L1333-13-6
+
+Le fait de provoquer, d'encourager ou d'inciter quiconque de quelque manière que ce soit à commettre les infractions prévues
+aux articles L. 1333-13-3 à L. 1333-13-5, lorsque ce fait a été suivi d'effet, est puni des peines prévues pour ces
+infractions. 
+
+Lorsque les faits mentionnés au premier alinéa du présent article ne sont pas suivis d'effet en raison de circonstances
+indépendantes de la volonté de leur auteur, la peine est de sept ans d'emprisonnement et de 100 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-13-10 (V)
+	  - Code de la défense. - art. L1333-13-11 (V)
+	  - Code de la défense. - art. L1333-13-8 (V)
+	  - Code de la défense. - art. L1333-13-9 (V)
+	  - Code de procédure pénale - art. 706-167 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-3 (V)
+
+
+###### Article L1333-13-7
+
+Les personnes physiques coupables de l'une des infractions prévues à la présente sous-section encourent les peines
+complémentaires suivantes : 
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
+famille ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ou
+d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été
+commise ; 
+
+3° La fermeture soit à titre définitif, soit pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs
+des établissements de l'entreprise ayant servi à commettre les faits incriminés ; 
+
+4° L'exclusion des marchés publics pour une durée de cinq ans au plus ; 
+
+5° La confiscation des matières nucléaires ainsi que celle des équipements ayant servi à l'élaboration, à l'utilisation ou au
+transport de ces matières ; 
+
+6° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal ; 
+
+7° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 du même code ; 
+
+8° L'interdiction du territoire français, lorsqu'il s'agit d'étrangers, prononcée dans les conditions prévues par l'article
+131-30 du même code, soit à titre définitif, soit pour une durée de dix ans au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-30 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1333-6 (V)
+
+
+###### Article L1333-13-8
+
+Les personnes morales coupables de l'une des infractions prévues à la présente sous-section encourent, outre l'amende suivant
+les modalités prévues par l'article 131-38 du même code, les peines suivantes : 
+
+1° Dans les cas prévus par les articles L. 1333-9 et L. 1333-11, le premier alinéa de l'article L. 1333-13-2, les articles L.
+1333-13-3 à L. 1333-13-5 et le premier alinéa de l'article L. 1333-13-6 du présent code, les peines mentionnées à l'article
+131-39 du code pénal ; 
+
+2° Dans les cas prévus par les articles L. 1333-12, L. 1333-13 et L. 1333-13-1 et le second alinéa des articles L. 1333-13-2
+et L. 1333-13-6 du présent code, les peines mentionnées aux 2° à 11° de l'article 131-39 du code pénal. 
+
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39
+	  - Code de la défense. - art. L1333-11 (V)
+	  - Code de la défense. - art. L1333-12 (V)
+	  - Code de la défense. - art. L1333-13 (V)
+	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-9 (V)
+
+
+###### Article L1333-13-9
+
+Toute personne qui a tenté de commettre les infractions prévues aux articles L. 1333-13-3 et L. 1333-13-4 et au premier
+alinéa de l'article L. 1333-13-6 du présent code est exempte de peine si, ayant averti l'autorité administrative ou
+judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier, le cas échéant, les autres auteurs ou
+complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-4 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+
+
+###### Article L1333-13-10
+
+La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues aux articles L. 1333-13-3 à L.
+1333-13-5 et au premier alinéa de l'article L. 1333-13-6 est réduite de moitié si, ayant averti l'autorité administrative ou
+judiciaire, il a permis de faire cesser les agissements incriminés ou d'éviter que l'infraction n'entraîne mort d'homme ou
+infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+
+
+###### Article L1333-13-11
+
+Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables aux infractions prévues par les articles L.
+1333-13-3 à L. 1333-13-5 et par le premier alinéa de l'article L. 1333-13-6 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
+	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-6 (V)
+
+
 ##### Sous-section 3 : Matières nucléaires intéressant la dissuasion.
 
 ###### Article L1333-14
 
 Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées aux moyens
-nécessaires à la mise en oeuvre de la politique de dissuasion ou détenues dans les installations nucléaires intéressant la
-défense.
+nécessaires à la mise en œuvre de la politique de dissuasion. 
+
+Les articles L. 1333-13-2 à L. 1333-13-11 sont également applicables aux matières nucléaires mentionnées au premier alinéa du
+présent article, mais seulement en ce qu'elles renvoient aux infractions prévues à l'article L. 1333-9.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 11, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 du 5 mars 2007 - art. 3
+	  - Loi n°2011-266 du 14 mars 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-10 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L1333-10
+	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
 
@@ -7131,6 +7473,40 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 	  - Code de la sécurité intérieure - art. L313-3 (VD)
 
 
+###### Article L2332-1-1
+
+Nul ne peut exercer à titre individuel l'activité qui consiste, à titre principal ou accessoire, en la fabrication, le
+commerce, l'échange, la location, la réparation ou la transformation d'armes, d'éléments d'armes et de munitions, ni diriger
+ou gérer une personne morale exerçant cette activité s'il n'est titulaire d'un agrément relatif à son honorabilité et à ses
+compétences professionnelles, délivré par l'autorité administrative. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 5-1 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 5-5 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 5-1 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 5-5 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 5-1 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 5-5 (VT)
+	  - Décret n°2011-1476 du 9 novembre 2011 (V)
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 118
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L313-2 (VD)
+
+
 ###### Article L2332-2
 
 Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e
@@ -8346,9 +8722,9 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 Les agents habilités de la police et de la gendarmerie nationales peuvent, dans la stricte mesure exigée par la protection de
 la sécurité des personnes ou la défense des intérêts fondamentaux de la nation, consulter les traitements automatisés de
-données personnelles mentionnés à l'article 21 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure, pour les
-besoins de l'instruction des demandes d'autorisation ou de renouvellement d'autorisation d'acquisition ou de détention
-d'armes faites en application de l'article L. 2336-1. 
+données personnelles mentionnés à l'article 230-6 du code de procédure pénale, pour les besoins de l'instruction des demandes
+d'autorisation ou de renouvellement d'autorisation d'acquisition ou de détention d'armes faites en application de l'article
+L. 2336-1. 
 
 Les agents mentionnés à l'alinéa précédent peuvent également consulter ces traitements dans la stricte mesure exigée par la
 protection de l'ordre public ou la sécurité des personnes, pour l'exécution des ordres de remise d'armes et de munitions à
@@ -8356,21 +8732,32 @@ l'autorité administrative prévus aux articles L. 2336-4 et L. 2336-5.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2003-239 du 18 mars 2003 - art. 21 (V)
-	  - Code de la défense. - art. L2336-1 (V)
-	  - Code de la défense. - art. L2336-4 (V)
-	  - Code de la défense. - art. L2336-5 (V)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 13
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L312-17 (VD)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 230-6
+	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2336-4
+	  - Code de la défense. - art. L2336-5
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 15-2
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15-2 (Ab)
 
 
@@ -8656,8 +9043,8 @@ organisée.
 La confiscation du matériel fabriqué ou du matériel à vendre, ainsi que sa vente aux enchères publiques, est ordonnée par le
 même jugement.
 
-L'autorité administrative peut prescrire ou faire effectuer la mise hors d'usage, aux frais du délinquant, du matériel avant
-sa mise aux enchères publiques. 
+L'autorité administrative peut prescrire ou faire effectuer la mise hors d'usage, aux frais de l'auteur de l'infraction, du
+matériel avant sa mise aux enchères publiques. 
 
 II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
 des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
@@ -8686,13 +9073,13 @@ code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'art
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - Loi n°2011-266 du 14 mars 2011 - art. 19
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
 	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
@@ -9138,6 +9525,175 @@ agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou
 	  - Code de la défense. - art. L2339-8 (V)
 
 
+##### Section 8 : De la prolifération des vecteurs d'armes de destruction massive.
+
+###### Article L2339-14
+
+Les infractions définies au premier alinéa du I de l'article L. 2339-2, à l'article L. 2339-4, au premier alinéa des articles
+L. 2339-5 et L. 2339-8, au 1° du I de l'article L. 2339-9 et au premier alinéa de l'article L. 2339-10 sont punies de quinze
+ans de réclusion criminelle et un million et demi d'euros d'amende lorsqu'elles concernent des missiles, fusées ou autres
+systèmes sans pilote capables de conduire à leur cible des armes nucléaires telles que définies au III de l'article L.
+1333-13-4, chimiques ou biologiques et spécialement conçus à cet usage. 
+
+Ces faits sont punis de vingt ans de réclusion criminelle et de trois millions d'euros d'amende lorsqu'ils sont commis en
+bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+
+	**Cité par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 9
+	  - Loi n°2016-731 du 3 juin 2016 - art. 47
+	  - Code de la défense. - art. L2339-15 (V)
+	  - Code de la défense. - art. L2339-18 (V)
+	  - Code de procédure pénale - art. 706-167 (V)
+	  - Code de procédure pénale - art. 78-2-2 (V)
+	  - Code pénal - art. 421-1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-4
+	  - Code de la défense. - art. L2339-10 (V)
+	  - Code de la défense. - art. L2339-2
+	  - Code de la défense. - art. L2339-4
+	  - Code de la défense. - art. L2339-5
+	  - Code de la défense. - art. L2339-8
+	  - Code de la défense. - art. L2339-9 (V)
+
+
+###### Article L2339-15
+
+Le fait de procurer un financement en fournissant, réunissant ou gérant des fonds, des valeurs ou des biens quelconques ou en
+donnant des conseils à cette fin, dans l'intention de voir ces fonds, valeurs ou biens utilisés ou en sachant qu'ils sont
+destinés à être utilisés, en tout ou partie, en vue de commettre l'une quelconque des infractions prévues à l'article L.
+2339-14, indépendamment de la commission effective d'une telle infraction, est puni des peines prévues à ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+
+	**Cité par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 9
+	  - Loi n°2016-731 du 3 juin 2016 - art. 47
+	  - Code de la défense. - art. L2339-18 (V)
+	  - Code de procédure pénale - art. 706-168 (VD)
+	  - Code de procédure pénale - art. 78-2-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2339-14 (V)
+
+
+###### Article L2339-16
+
+Le fait de se faire délivrer indûment, par quelque moyen frauduleux que ce soit, les autorisations ou agréments mentionnés au
+I de l'article L. 2332-1, aux articles L. 2335-1 à L. 2335-3, au 2° du I de l'article L. 2336-1 et à l'article L. 2337-4 est
+puni de dix ans d'emprisonnement et un million et demi d'euros d'amende lorsque ces autorisations ou agréments concernent des
+missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des armes nucléaires telles que définies au
+III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement conçus à cet usage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-4
+	  - Code de la défense. - art. L2332-1
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-3
+	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2337-4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2339-18 (V)
+	  - Code de procédure pénale - art. 706-167 (V)
+	  - Code pénal - art. 421-1 (VD)
+
+
+###### Article L2339-17
+
+Les personnes physiques coupables de l'une des infractions prévues à la présente section encourent les peines complémentaires
+suivantes : 
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
+famille ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ou
+d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été
+commise ; 
+
+3° La fermeture soit à titre définitif, soit pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs
+des établissements de l'entreprise ayant servi à commettre les faits incriminés ; 
+
+4° L'exclusion des marchés publics pour une durée de cinq ans au plus ; 
+
+5° La confiscation des missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des armes nucléaires
+telles que définies au III de l'article L. 1333-13-4 du présent code, chimiques ou biologiques et spécialement conçus à cet
+usage, ainsi que celle des équipements ayant servi à l'élaboration, à l'utilisation ou au transport de ces biens ; 
+
+6° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal ; 
+
+7° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 du même code ; 
+
+8° L'interdiction du territoire français, lorsqu'il s'agit d'étrangers, prononcée dans les conditions prévues par l'article
+131-30 du même code, soit à titre définitif, soit pour une durée de dix ans au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-30
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 131-35
+	  - Code de la défense. - art. L1333-13-4
+
+
+###### Article L2339-18
+
+Les personnes morales coupables de l'une des infractions prévues à la présente section encourent, outre l'amende suivant les
+modalités prévues par l'article 131-38 du même code, les peines suivantes : 
+
+1° Dans les cas prévus par les articles L. 2339-14 et L. 2339-15 du présent code, les peines mentionnées à l'article 131-39
+du code pénal ; 
+
+2° Dans les cas prévus par l'article L. 2339-16 du présent code, les peines mentionnées aux 2° à 11° de l'article 131-39 du
+code pénal. 
+
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code de la défense. - art. L2339-14
+	  - Code de la défense. - art. L2339-15 (V)
+	  - Code de la défense. - art. L2339-16
+
+
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
 
 ##### Chapitre Ier : Armes biologiques ou à base de toxines
@@ -9146,9 +9702,10 @@ agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou
 
 ###### Article L2341-1
 
-Sont interdits la mise au point, la fabrication, la détention, le stockage, l'acquisition et la cession des agents
-microbiologiques, des autres agents biologiques et des toxines biologiques, quels qu'en soient l'origine et le mode de
-production, des types et en quantité non destinés à des fins prophylactiques, de protection ou à d'autres fins pacifiques.
+Sont interdits la mise au point, la fabrication, la détention, le stockage, le transport, l'acquisition, la cession,
+l'importation, l'exportation, le commerce et le courtage des agents microbiologiques, des autres agents biologiques et des
+toxines biologiques, quels qu'en soient l'origine et le mode de production, des types et en quantité non destinés à des fins
+prophylactiques, de protection ou à d'autres fins pacifiques.
 
 **Liens relatifs à cet article**
 
@@ -9158,8 +9715,12 @@ production, des types et en quantité non destinés à des fins prophylactiques,
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 4
 
 	**Cité par**:
 
@@ -9176,8 +9737,10 @@ production, des types et en quantité non destinés à des fins prophylactiques,
 
 ###### Article L2341-2
 
-Il est interdit d'inciter ou d'aider de quelque manière que ce soit un Etat, une entreprise, une organisation ou un
-groupement quelconque ou une personne à se livrer aux opérations prévues à l'article L. 2341-1.
+Il est interdit de procurer un financement en fournissant, réunissant ou gérant des fonds, des valeurs ou des biens
+quelconques ou en donnant des conseils à cette fin, dans l'intention de voir ces fonds, valeurs ou biens utilisés ou en
+sachant qu'ils sont destinés à être utilisés, en tout ou partie, en vue de commettre l'un quelconque des actes interdits à
+l'article L. 2341-1, indépendamment de la réalisation effective d'un tel acte.
 
 **Liens relatifs à cet article**
 
@@ -9187,8 +9750,12 @@ groupement quelconque ou une personne à se livrer aux opérations prévues à l
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 5
 
 	**Cité par**:
 
@@ -9202,7 +9769,7 @@ groupement quelconque ou une personne à se livrer aux opérations prévues à l
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2341-1 (V)
+	  - Code de la défense. - art. L2341-1
 
 
 ##### Section 2 : Dispositions pénales
@@ -9232,35 +9799,29 @@ d'instruction peut, par ordonnance, prononcer, à titre provisoire, la fermeture
 
 ###### Article L2341-4
 
-Les infractions aux dispositions des articles L. 2341-1 et L. 2341-2 sont punies d'un emprisonnement de cinq ans et d'une
-amende de 75 000 euros ou de l'une de ces deux peines seulement. Les peines sont portées à dix ans d'emprisonnement et à 500
-000 euros d'amende lorsque l'infraction est commise en bande organisée. 
+Les infractions aux articles L. 2341-1 et L. 2341-2 sont punies de vingt ans de réclusion criminelle et de trois millions
+d'euros d'amende. 
 
-En cas de condamnation, le tribunal ordonne la confiscation, en vue de leur destruction, des agents ou toxines définis à
-l'article L. 2341-1. 
+Les peines sont portées à trente ans de réclusion criminelle et à cinq millions d'euros d'amende lorsque l'infraction est
+commise en bande organisée. 
 
-Il peut en outre ordonner, conjointement ou non : 
-
-1° La fermeture totale ou partielle, à titre définitif ou pour une durée de cinq ans au plus, de l'établissement ayant permis
-de commettre l'infraction ; 
-
-2° La confiscation des équipements ayant servi à la mise au point, à la fabrication, à la détention ou au stockage de ces
-agents ou toxines ; 
-
-3° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
-sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+En cas de condamnation, la juridiction de jugement ordonne la confiscation, en vue de leur destruction, des agents ou toxines
+définis à l'article L. 2341-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°72-467 du 9 juin 1972 - art. 4 (M)
 	  - Loi n°72-467 du 9 juin 1972 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 6
 
 	**Cité par**:
 
@@ -9277,15 +9838,17 @@ sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction 
 
 	**Cite**:
 
-	  - Code pénal - art. 131-27 (V)
-	  - Code de la défense. - art. L2341-1 (V)
-	  - Code de la défense. - art. L2341-2 (V)
+	  - Code de la défense. - art. L2341-1
+	  - Code de la défense. - art. L2341-2
 
 
 ###### Article L2341-5
 
-Les infractions aux dispositions des jugements qui font application des règles prévues aux 1° et 2° de l'article L. 2341-4
-sont punies des peines définies à l'alinéa 1er de cet article.
+Le fait de provoquer, d'encourager ou d'inciter quiconque, de quelque manière que ce soit, à commettre les infractions
+prévues à l'article L. 2341-4, lorsque ce fait a été suivi d'effet, est puni des peines prévues pour ces infractions. 
+
+Lorsque les faits mentionnés au premier alinéa du présent article ne sont pas suivis d'effet en raison de circonstances
+indépendantes de la volonté de leur auteur, la peine est de sept ans d'emprisonnement et de 100 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -9295,12 +9858,16 @@ sont punies des peines définies à l'alinéa 1er de cet article.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 7
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2341-4 (V)
+	  - Code de la défense. - art. L2341-4
 
 	**Cité par**:
 
@@ -9308,11 +9875,75 @@ sont punies des peines définies à l'alinéa 1er de cet article.
 	  - Code pénal - art. 421-1 (M)
 
 
+###### Article L2341-5-1
+
+Les personnes physiques coupables de l'une des infractions prévues à la présente section encourent les peines complémentaires
+suivantes : 
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
+famille ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ou
+d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été
+commise ; 
+
+3° La fermeture soit à titre définitif, soit pour une durée de cinq ans au plus des établissements ou de l'un ou de plusieurs
+des établissements de l'entreprise ayant servi à commettre les faits incriminés ; 
+
+4° L'exclusion des marchés publics pour une durée de cinq ans au plus ; 
+
+5° La confiscation des équipements ayant servi à la mise au point, à la fabrication, au transport, à la détention et au
+stockage des agents ou toxines définis à l'article L. 2341-1 du présent code ; 
+
+6° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal ; 
+
+7° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 du même code ; 
+
+8° L'interdiction du territoire français, lorsqu'il s'agit d'étrangers, prononcée dans les conditions prévues par l'article
+131-30 du même code, soit à titre définitif, soit pour une durée de dix ans au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 8
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-27 (V)
+	  - Code pénal - art. 131-30 (V)
+	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-35 (V)
+	  - Code de la défense. - art. L2341-1 (V)
+
+
+###### Article L2341-5-2
+
+Les personnes morales coupables de l'une des infractions prévues à la présente section encourent, outre l'amende suivant les
+modalités prévues par l'article 131-38 du code pénal, les peines mentionnées à l'article 131-39 du même code. 
+
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 8
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+
+
 ###### Article L2341-6
 
 La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues par la présente section est
 réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser les agissements
-incriminés et d'identifier, le cas échéant, les autres auteurs ou complices.
+incriminés ou d'éviter que l'infraction n'entraîne mort d'homme ou infirmité permanente et d'identifier, le cas échéant, les
+autres auteurs ou complices.
 
 **Liens relatifs à cet article**
 
@@ -9322,8 +9953,40 @@ incriminés et d'identifier, le cas échéant, les autres auteurs ou complices.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 9
+
+
+###### Article L2341-6-1
+
+Toute personne qui a tenté de commettre les infractions prévues par la présente section est exempte de peine si, ayant averti
+l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'une des infractions et d'identifier, le
+cas échéant, les autres auteurs ou complices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 10
+
+
+###### Article L2341-6-2
+
+Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables aux infractions prévues par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 10
+
+	**Cite**:
+
+	  - Code pénal - art. 132-23
 
 
 ###### Article L2341-7
@@ -9409,6 +10072,11 @@ courtage.
 Il est interdit d'entreprendre tous préparatifs en vue d'utiliser des armes chimiques, ainsi que d'aider, encourager ou
 inciter quiconque de quelque manière que ce soit à entreprendre toute activité interdite par le présent chapitre.
 
+Il est interdit de procurer un financement en fournissant, réunissant ou gérant des fonds, des valeurs ou des biens
+quelconques ou en donnant des conseils à cette fin, dans l'intention de voir ces fonds, valeurs ou biens utilisés ou en
+sachant qu'ils sont destinés à être utilisés, en tout ou partie, en vue d'entreprendre une activité interdite par le présent
+chapitre, indépendamment de la réalisation effective d'une telle activité. 
+
 Les services de l'Etat sont toutefois autorisés, dans des conditions prévues par décret, à détenir, stocker ou conserver des
 armes chimiques en vue de leur destruction. Ils peuvent confier ces opérations à des personnes agréées dans des conditions
 définies par le même décret.
@@ -9421,8 +10089,12 @@ définies par le même décret.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 11
 
 	**Cité par**:
 
@@ -9908,9 +10580,6 @@ Les installations de fabrication par synthèse de produits chimiques organiques 
 annexés à la Convention de Paris sont soumises à déclaration lorsqu'elles fabriquent des quantités supérieures à des seuils
 déterminés.
 
-Toutefois, ces installations ne sont pas soumises à déclaration lorsqu'elles ne fabriquent que des mélanges comportant une
-concentration de ces produits inférieure à des taux déterminés.
-
 Les sites d'usines dans lesquels sont exclusivement fabriqués des hydrocarbures ou des substances explosives ne sont pas
 soumis à déclaration.
 
@@ -9922,8 +10591,12 @@ soumis à déclaration.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 19
 
 	**Cité par**:
 
@@ -11086,12 +11759,21 @@ courtage :
 2° D'un produit chimique inscrit au tableau 1 à des fins autres que des fins médicales, pharmaceutiques, de recherche ou de
 protection. 
 
+Est puni des mêmes peines le fait de procurer un financement en fournissant, réunissant ou gérant des fonds, valeurs ou biens
+quelconques ou en donnant des conseils à cette fin, dans l'intention de voir ces fonds, valeurs ou biens utilisés ou en
+sachant qu'ils sont destinés à être utilisés, en tout ou partie, en vue de commettre l'une quelconque des infractions prévues
+aux articles L. 2342-57 et L. 2342-58 et aux alinéas ci-dessus, indépendamment de la commission effective d'une telle
+infraction. 
+
 Sont punis des mêmes peines l'importation, l'exportation, le commerce ou le courtage de tout matériel de fabrication d'armes
 chimiques ou de tout document ou objet en vue de permettre ou de faciliter la violation des dispositions de la sous-section 1
 de la première section du présent chapitre. 
 
 Est punie de la même peine la communication de toute information en vue de permettre ou de faciliter la violation des
 dispositions de la sous-section 1 de la première section du présent chapitre. 
+
+Les infractions prévues par le présent article sont punies de trente ans de réclusion criminelle et de cinq millions d'euros
+d'amende lorsqu'elles sont commises en bande organisée. 
 
 Les deux premiers alinéas de l'article 132-23 du code pénal relatif à la période de sûreté sont applicables aux infractions
 prévues par le présent article.
@@ -11100,13 +11782,16 @@ prévues par le présent article.
 
 	**Anciens textes**:
 
-	  - Loi n°98-467 du 17 juin 1998 - art. 61 (M)
 	  - Loi n°98-467 du 17 juin 1998 - art. 61 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-266 du 14 mars 2011 - art. 12
 
 	**Cité par**:
 
@@ -11119,7 +11804,9 @@ prévues par le présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 132-23
+	  - Code de la défense. - art. L2342-57
+	  - Code de la défense. - art. L2342-58
 
 
 ###### Article L2342-61
@@ -13101,6 +13788,55 @@ ou de tir.
 	  - Code pénal - art. 421-1 (VD)
 
 
+#### TITRE VII : DU RENSEIGNEMENT
+
+##### Chapitre unique
+
+###### Article L2371-1
+
+Pour l'exercice d'une mission intéressant la défense et la sécurité nationale, les agents des services spécialisés de
+renseignement peuvent, sous l'autorité de l'agent chargé de superviser ou de coordonner la mission, faire usage d'une
+identité d'emprunt ou d'une fausse qualité. 
+
+Dans ce cas, ne sont pas pénalement responsables de cet usage les agents mentionnés au premier alinéa, non plus que de leurs
+actes les personnes requises à seule fin d'établir ou de permettre l'usage de l'identité d'emprunt ou de la fausse qualité.
+Les articles 50 à 52 du code civil ne sont pas applicables à ces personnes. 
+
+Les services spécialisés de renseignement mentionnés au premier alinéa du présent article sont désignés par arrêté du Premier
+ministre parmi les services mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au
+fonctionnement des assemblées parlementaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
+	  - Code civil - art. 50
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 27
+
+	**Cité par**:
+
+	  - Arrêté du 9 mai 2011 - art. 1 (VD)
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Code de la défense. - art. L2431-1 (V)
+	  - Code de la défense. - art. L2441-1 (V)
+	  - Code de la défense. - art. L2451-1 (V)
+	  - Code de la défense. - art. L2461-1 (V)
+	  - Code de la défense. - art. L2471-1 (V)
+	  - Code pénal - art. 413-13 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L861-2 (V)
+
+
 ### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
 #### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON
@@ -13178,21 +13914,26 @@ le même objet applicables localement.
 ###### Article L2431-1
 
 Sont applicables à Mayotte les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1 à L. 2313-3,
-L. 2322-1 à L. 2353-13.
+L. 2322-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 139
 
 	**Cite**:
 
 	  - Code de la défense. - art. L2112-1 (V)
 	  - Code de la défense. - art. L2211-1 (V)
 	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2371-1
 
 
 ###### Article L2431-2
@@ -13287,23 +14028,28 @@ applicables localement.
 ###### Article L2441-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1 et L. 2322-1 à L. 2353-13.
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 139
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2113-1 (V)
-	  - Code de la défense. - art. L2151-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2232-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2113-1
+	  - Code de la défense. - art. L2151-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2232-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2371-1
 
 	**Cité par**:
 
@@ -13407,20 +14153,13 @@ ayant le même objet applicables localement.
 
 Sont applicables en Polynésie française les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1
 à L. 2312-8, L. 2313-4, L. 2322-1 à L. 2343-12, 
-L. 2344-1 à L. 2344-11, L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13.
-
-**Nota:**
-
-Loi n° 2010-819 du 20 juillet 2010 article 6 : La présente loi est applicable à compter du lendemain de la publication au
-Journal officiel de la convention sur les armes à sous-munitions qui entre en vigueur au plan international le 1er août 2010,
-si cette publication est postérieure à celle de la présente loi ou à compter du lendemain de la publication de la présente
-loi, dans le cas contraire.
+L. 2344-1 à L. 2344-11, L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-819 du 20 juillet 2010 - art. 3
+	  - Loi n°2011-267 du 14 mars 2011 - art. 139
 
 	**Cite**:
 
@@ -13433,6 +14172,7 @@ loi, dans le cas contraire.
 	  - Code de la défense. - art. L2352-2
 	  - Code de la défense. - art. L2353-11
 	  - Code de la défense. - art. L2353-4
+	  - Code de la défense. - art. L2371-1
 
 
 ###### Article L2451-2
@@ -13582,22 +14322,27 @@ autorisation.
 ###### Article L2461-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2223-19, L. 2232-1
-à L. 2236-7, L. 2311-1 à L. 2312-8 et L. 2322-1 à L. 2353-13.
+à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 139
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2112-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2232-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2112-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2232-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2371-1
 
 
 ###### Article L2461-2
@@ -13715,23 +14460,29 @@ objet applicables localement.
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
-2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1 et L. 2322-1 à L. 2353-13.
+2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. L2113-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2232-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. L2113-1
+	  - Code de la défense. - art. L2151-1 (V)
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2232-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2371-1 (T)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 139
 
 
 ###### Article L2471-2
@@ -71486,8 +72237,6 @@ de prévoyance de l'aéronautique.
 
 	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
-
-#####  Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat
 
 ##### Sous-section 3 : Indemnisation du chômage des militaires involontairement privés d'emploi
 

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-03-20
+Version Consolidée au 2011-03-27
 
 # Partie législative
 
@@ -81696,11 +81696,11 @@ national et international dans les domaines de la défense et de la sécurité n
 
 ###### Article D4152-10
 
-La direction de l'enseignement militaire supérieur comprend : 
+La direction de l'enseignement militaire supérieur comprend :
 
 1° Le centre des hautes études militaires ;
 
-2° Le collège interarmées de défense ;
+2° L'Ecole de guerre ;
 
 3° Le centre de documentation de l'Ecole militaire.
 
@@ -81714,7 +81714,7 @@ Son organisation est fixée par arrêté du ministre de la défense.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1220 du 15 octobre 2010 - art. 2
+	  - Décret n°2011-323 du 24 mars 2011 - art. 2
 
 
 ###  LIVRE II : RÉSERVE MILITAIRE

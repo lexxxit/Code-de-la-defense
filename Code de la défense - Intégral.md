@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-22
+Version Consolidée au 2011-05-23
 
 # Partie législative
 
@@ -65601,18 +65601,18 @@ majorité absolue des membres titulaires.
 ###### Article R3414-1
 
 L'Etablissement public d'insertion de la défense, créé par l'article L. 3414-1, est un établissement public de l'Etat à
-caractère administratif. Il comprend, d'une part, un siège dont le lieu d'implantation est fixé par arrêté du ministre de la
-défense et, d'autre part, des centres de formation.
+caractère administratif. Il comprend un siège et des centres de formation, dont les lieux d'implantation sont fixés par le
+conseil d'administration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3414-1 (V)
+	  - Code de la défense. - art. L3414-1
 
 	**Cité par**:
 
@@ -65671,75 +65671,80 @@ L'Etablissement public d'insertion de la défense est administré par un conseil
 
 ###### Article R3414-4
 
-Le président du conseil d'administration est nommé par décret du Président de la République sur proposition du ministre de la
-défense et du ministre chargé de l'emploi. La durée de son mandat est de trois ans renouvelables. Le conseil d'administration
-élit en son sein un vice-président qui supplée le président en cas d'absence ou d'empêchement de ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3414-5
-
-Le conseil d'administration comprend, outre son président : 
-
-1° Neuf membres de droit représentant l'Etat : 
-
-a) Au titre du ministère de la défense : 
-
-― le directeur du service national ou son représentant ; 
-
-― le directeur de la fonction militaire et du personnel civil ou son représentant ; 
-
-― un directeur du personnel militaire ou son représentant. 
-
-b) Au titre du ministère chargé de l'emploi : 
-
-― le directeur des relations du travail ou son représentant ; 
-
-― le directeur général de la formation professionnelle ou son représentant ; 
-
-― le      directeur général de la cohésion sociale  ou son représentant ; 
-
-c) Au titre du ministère chargé de l'éducation nationale : 
-
-― le directeur de l'enseignement scolaire ou son représentant ; 
-
-d) Au titre du ministère chargé de la jeunesse et des sports : 
-
-― le directeur de la jeunesse, de l'éducation populaire et de la vie associative ou son représentant ; 
-
-e) Au titre du ministère chargé du budget : 
-
-― le directeur du budget ou son représentant ; 
-
-2° Quatre personnalités qualifiées désignées en raison de leurs compétences en matière notamment de formation, d'insertion
-professionnelle et d'emploi par arrêté conjoint du ministre de la défense et du ministre chargé de l'emploi. La durée de leur
-mandat est fixée à trois ans renouvelables. En cas de vacance d'un membre par décès, démission ou pour toute autre cause, le
-mandat du membre qui le remplace est limité à la durée du mandat restant à courir.
+Le président du conseil d'administration est nommé par décret du Président de la République sur proposition des ministres de
+tutelle. La durée de son mandat est de trois ans renouvelables. Le conseil d'administration élit en son sein un vice-
+président qui supplée le président en cas d'absence ou d'empêchement de ce dernier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-95 du 25 janvier 2010 - art. 6 (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+
+
+###### Article R3414-5
+
+Le conseil d'administration comprend, outre son président :
+
+1° Neuf membres de droit représentant l'Etat :
+
+a) Au titre du ministère de la défense :
+
+- le secrétaire général pour l'administration ou son représentant ;
+
+- le directeur du service national ou son représentant ;
+
+b) Au titre du ministère chargé de l'emploi :
+
+- le chef du service des politiques de l'emploi et de la formation professionnelle ou son représentant ;
+
+- le chef du service du financement et de la modernisation ou son représentant ;
+
+c) Au titre du ministère chargé de la ville :
+
+- le secrétaire général du comité interministériel des villes ou son représentant, disposant de deux voix ;
+
+d) Au titre du ministère chargé de l'éducation nationale :
+
+- le directeur de l'enseignement scolaire ou son représentant ;
+
+e) Au titre du ministère chargé de la jeunesse :
+
+- le directeur de la jeunesse, de l'éducation populaire et de la vie associative ou son représentant ;
+
+f) Au titre du ministère chargé du budget :
+
+- le directeur du budget ou son représentant ;
+
+g) Au titre du comité interministériel de prévention de la délinquance :
+
+- le secrétaire général du comité ou son représentant.
+
+2° Quatre personnalités qualifiées désignées en raison de leurs compétences en matière notamment de formation, d'insertion
+professionnelle et d'emploi par arrêté conjoint des ministres de tutelle. La durée de leur mandat est fixée à trois ans
+renouvelables. En cas de vacance d'un membre par décès ou démission, ou pour toute autre cause, le mandat du membre qui le
+remplace est limité à la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-6
 
 Assistent aux délibérations du conseil d'administration, avec voix consultative, le directeur général de l'établissement,
-l'agent comptable principal, ainsi que l'autorité chargée du contrôle général économique et financier du ministère chargé de
-l'emploi. Peut également assister aux délibérations, avec voix consultative, l'autorité chargée du contrôle général
-économique et financier du ministère de la défense.
+l'agent comptable principal, deux représentants du personnel désignés par les membres du comité technique de l'établissement
+autres que les membres représentants de l'administration ainsi que l'autorité chargée du contrôle général économique et
+financier du ministère chargé de l'emploi.  Peuvent également assister aux délibérations, avec voix consultatives, les
+autorités chargées du contrôle général économique et financier du ministère de la défense et du ministère chargé de la ville.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 	**Cité par**:
 
@@ -65773,82 +65778,70 @@ l'exercice de ce mandat.
 ###### Article R3414-9
 
 Le conseil d'administration se réunit sur convocation de son président, qui fixe l'ordre du jour, aussi souvent que la bonne
-marche de l'établissement l'exige et au minimum trois fois par an. La convocation est de droit si elle est demandée par le
-ministre de la défense ou le ministre chargé de l'emploi ou par la moitié au moins des membres, à condition que la demande
-porte sur un ordre du jour déterminé.
+marche de l'établissement l'exige et au minimum trois fois par an. La convocation est de droit si elle est demandée par l'un
+des ministres de tutelle ou par la moitié au moins des membres, à condition que la demande porte sur un ordre du jour
+déterminé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-10
 
-Le conseil d'administration détermine, dans le cadre des orientations fixées par le ministre de la défense et le ministre
-chargé de l'emploi, la politique générale de l'établissement. 
+Le conseil d'administration détermine, dans le cadre des orientations fixées par les ministres de tutelle, la politique
+générale de l'établissement. 
 
-Il délibère sur les affaires relatives à l'objet de l'établissement et dispose notamment des compétences suivantes : 
+Il délibère sur les affaires relatives à l'objet de l'établissement, notamment sur : 
 
-1° L'organisation générale de l'établissement ; 
+1° Son organisation générale ; 
 
-2° La politique globale de formation ; 
+2° La détermination de la politique globale de formation ; 
 
-3° Le rapport annuel d'activité ; 
+3° L'approbation du rapport annuel d'activité ; 
 
-4° Le budget de l'établissement et ses modifications, ainsi que le compte financier et l'affectation des résultats de
-l'exercice ; 
+4° L'approbation du budget de l'établissement et de ses modifications, ainsi que celle du compte financier et de
+l'affectation des résultats de l'exercice ; 
 
-5° La conclusion d'emprunts à moyen et long terme, les prises, extensions et cessions de participation ainsi que la
-participation à des groupements d'intérêt public ou à des associations ; 
+5° L'autorisation de conclure les emprunts à moyen et long terme ; 
 
-6° L'acquisition ou l'aliénation des biens immobiliers ; 
+6° L'autorisation d'acquérir ou d'aliéner des biens immobiliers ; 
 
-7° Les contrats, concessions, autorisations d'occupation et d'exploitation du domaine public ainsi que les délégations de
-service public ; 
+7° L'autorisation de conclure les contrats, concessions, autorisations d'occupation et d'exploitation du domaine public ainsi
+que les délégations de service public ; 
 
-8° Les conditions générales de recrutement, d'emploi et de rémunération du personnel contractuel ; 
+8° La détermination des conditions générales de recrutement, d'emploi et de rémunération du personnel ; 
 
-9° La participation à des organismes dotés de la personnalité morale ; 
+9° L'autorisation de prendre des participations financières à des organismes dotés de la personnalité morale ; 
 
-10° Les actions en justice et les transactions ; 
+10° L'autorisation d'engager les actions en justice et de conclure les transactions ; 
 
-11° L'acceptation ou le refus des dons et legs ; 
+11° L'autorisation d'accepter ou de refuser des dons et legs ; 
 
-12° Le règlement intérieur de l'établissement ; 
+12° L'approbation du règlement intérieur de l'établissement et de ses modifications ; 
 
-13° Le tarif des redevances et rémunérations de toute nature dues à l'établissement ; 
+13° La détermination du tarif des redevances et rémunérations de toute nature dues à l'établissement ; 
 
-14° L'application des dispositions de l'article R. 3414-2.
+14° L'application des dispositions de l'article R. 3414-1 du présent code ; 
+
+15° L'autorisation de prendre les actes mentionnés à l'article R. 3414-2 et les cessions qui en découlent. 
+
+Il peut déléguer au directeur général certaines de ses compétences, à l'exception de celles mentionnées aux 3°, 4° et 9°. Le
+directeur général rend compte, lors de la prochaine réunion du conseil d'administration, des actes qu'il a pris en vertu des
+délégations et des autorisations qui lui ont été accordées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3414-2 (V)
-
-
-###### Article R3414-11
-
-Le conseil d'administration peut déléguer au directeur général, dans les limites qu'il détermine, la possibilité de conclure
-des emprunts, de procéder à des acquisitions et aliénations de biens immobiliers, d'ester en justice, de conclure des
-transactions, d'accepter ou de refuser des dons et legs. Le directeur général rend compte, lors de la prochaine réunion du
-conseil d'administration, des décisions qu'il a prises en vertu de cette délégation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+	  - Code de la défense. - art. R3414-1
+	  - Code de la défense. - art. R3414-2
 
 
 ###### Article R3414-12
@@ -65885,60 +65878,59 @@ et aux personnes désignées à l'article R. 3414-6.
 ###### Article R3414-14
 
 Les délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de quinze jours à compter de leur
-réception par le ministre de la défense et le ministre chargé de l'emploi. Dans ce délai, le ministre peut s'opposer à
-l'exécution des délibérations. En cas d'urgence, il peut en autoriser l'exécution immédiate.
+réception par les ministres de tutelle. Dans ce délai, l'un de ces ministres peut s'opposer à l'exécution des délibérations.
+En cas d'urgence, il peut en autoriser l'exécution immédiate.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-15
 
-Les projets de budget et de décision modificative sont communiqués au ministre de la défense, au ministre chargé de l'emploi
-et au ministre chargé du budget quinze jours au moins avant leur présentation au conseil d'administration.
+Les projets de budget et de décision modificative sont communiqués aux ministres de tutelle et au ministre chargé du budget
+quinze jours au moins avant leur présentation au conseil d'administration.
 
 Les délibérations à caractère budgétaire sont exécutoires à l'expiration d'un délai de quinze jours à compter de leur
-réception par le ministre de la défense, le ministre chargé de l'emploi et le ministre chargé du budget, sauf opposition
-expresse de l'un ou l'autre de ces ministres. En cas de refus d'approbation, le conseil d'administration dispose d'un délai
-de quinze jours pour délibérer à nouveau. A l'issue de cette nouvelle délibération, s'il n'est pas approuvé, ou à défaut
-d'une nouvelle délibération, le budget est arrêté conjointement par le ministre de la défense, le ministre chargé de l'emploi
-et le ministre chargé du budget.
+réception par les ministres de tutelle et le ministre chargé du budget, sauf opposition expresse de l'un ou l'autre de ces
+ministres. En cas de refus d'approbation, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à
+nouveau. A l'issue de cette nouvelle délibération, s'il n'est pas approuvé, ou à défaut d'une nouvelle délibération, le
+budget est arrêté conjointement par les ministres de tutelle et le ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-16
 
 Les délibérations relatives aux acquisitions, aliénations et échanges d'immeubles, aux emprunts y afférents, aux prises de
 participations financières et à la participation à un groupement d'intérêt public ou à toute autre forme de groupement public
-ou privé ne sont exécutoires qu'après approbation expresse du ministre de la défense, du ministre chargé de l'emploi et du
-ministre chargé du budget.
+ou privé ne sont exécutoires qu'après approbation expresse des ministres de tutelle et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-17
 
-Le directeur général est nommé par décret du Président de la République sur proposition du ministre de la défense et du
-ministre chargé de l'emploi. La durée de son mandat est fixée à trois ans renouvelables. Il est assisté de deux directeurs
-adjoints qui le suppléent en cas d'absence ou d'empêchement.
+Le directeur général est nommé par décret du Président de la République sur proposition des ministres de tutelle. La durée de
+son mandat est fixée à trois ans renouvelables. Il est assisté d'un directeur général adjoint et d'un secrétaire général,
+qu'il nomme après accord des ministres de tutelle. Le directeur général adjoint, ou à défaut le secrétaire général, supplée
+le directeur général en cas d'absence ou d'empêchement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-18
@@ -65955,19 +65947,52 @@ d'administration, les compétences suivantes :
 
 4° L'ordonnancement des recettes et des dépenses ;
 
-5° La signature des contrats et conventions engageant l'établissement. A ce titre, il est la personne responsable des
-marchés ;
+5° La signature des contrats et conventions engageant l'établissement. A ce titre, il est le représentant du pouvoir
+adjudicateur ;
 
 6° La représentation de l'établissement en justice et dans tous les actes de la vie civile ainsi que dans ses rapports avec
 les tiers.
 
-Il peut déléguer aux directeurs adjoints une partie de ses compétences.
+Il peut déléguer sa signature aux agents de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+
+
+###### Article R3414-18-1
+
+Le directeur général est assisté d'un conseil scientifique chargé, à sa demande ou à celle du conseil d'administration, de :
+
+- faire des propositions et émettre des avis sur les questions relatives à la formation et aux méthodes pédagogiques mises en
+œuvre par l'établissement ;
+
+- s'assurer de la qualité scientifique des études produites ou commandées par l'établissement et, le cas échéant, en
+proposer ;
+
+- donner un avis sur la pertinence des indicateurs de performance en matière d'insertion sociale et professionnelle et
+proposer les évolutions nécessaires dans ce domaine.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+
+
+###### Article R3414-18-2
+
+Les membres du conseil scientifique sont nommés par arrêté des ministres de tutelle sur proposition du conseil
+d'administration de l'établissement. Le mandat de membre du conseil scientifique est exercé à titre gratuit, pour une durée
+de trois ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ##### Section 2 : Personnel
@@ -65976,17 +66001,17 @@ Il peut déléguer aux directeurs adjoints une partie de ses compétences.
 
 Le personnel de l'établissement comprend, outre la direction générale :
 
-1° Le personnel chargé de l'enseignement ;
+1° Le personnel chargé de la formation et de l'insertion ;
 
-2° Le personnel administratif, technique et de service ;
+2° Le personnel administratif, technique, médico-social et de service ;
 
-3° Le personnel chargé de l'encadrement.
+3° Le personnel chargé de l'encadrement et de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ###### Article R3414-20
@@ -66033,30 +66058,37 @@ décisions financières des établissements publics de l'Etat est applicable à 
 
 L'Etablissement public d'insertion de la défense est soumis au contrôle financier prévu par le décret n° 2005-757 du 4
 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les modalités de ce
-contrôle sont fixées par arrêté conjoint du ministre de la défense, du ministre chargé de l'emploi et du ministre chargé du
-budget.
+contrôle sont fixées par arrêté conjoint des ministres de tutelle et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
+	  - Décret n°2005-757 du 4 juillet 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3414-23
 
-L'agent comptable de l'Etablissement public d'insertion de la défense est nommé par arrêté conjoint du ministre de la
-défense, du ministre chargé de l'emploi et du ministre chargé du budget.
+L'agent comptable de l'Etablissement public d'insertion de la défense est nommé par arrêté conjoint des ministres de tutelle
+et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3414-24
@@ -66090,15 +66122,15 @@ régisseurs sont désignés par le directeur général avec l'agrément de l'age
 
 ###### Article R3414-26
 
-Un arrêté du ministre de la défense, du ministre chargé de l'emploi et du ministre chargé du budget détermine les conditions
-d'affectation à l'établissement des biens meubles et immeubles nécessaires à son fonctionnement. Une convention conclue entre
-l'Etat et l'établissement définit les modalités d'utilisation des biens ainsi affectés.
+Un arrêté conjoint des ministres de tutelle et du ministre chargé du budget détermine les conditions d'affectation à
+l'établissement des biens meubles et immeubles nécessaires à son fonctionnement. Une convention conclue entre l'Etat et
+l'établissement définit les modalités d'utilisation des biens ainsi affectés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2011-555 du 20 mai 2011 - art. 1
 
 
 ##### Section 4 : Immeubles

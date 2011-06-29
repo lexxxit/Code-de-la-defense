@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-27
+Version Consolidée au 2011-06-30
 
 # Partie législative
 
@@ -34338,27 +34338,34 @@ Les quantités de produits pétroliers qui font l'objet de l'obligation de stock
 de produits ayant fait l'objet des opérations mentionnées aux deux premiers alinéas de l'article 2 de la loi susmentionnée
 est fixé : 
 
-a) Pour la France métropolitaine, à 27 % ; 
+a) Pour la France métropolitaine, à 28,5 % pour la période du 1er juillet 2011 au 30 juin 2012 et à 29,5 % à partir du 1er
+juillet 2012 ; 
 
 b) Pour les départements d'outre-mer, à 20 % ; 
 
-2° Le pétrole brut ou ses dérivés extraits du sol du territoire de la métropole et des départements d'outre-mer viennent en
+2° Les quantités de biocarburants et additifs mélangés aux produits pétroliers concernés par l'obligation de stockage
+stratégique sont intégrés pour le calcul de l'obligation de stockage mentionné au 1° ; 
+
+3° Le pétrole brut ou ses dérivés extraits du sol du territoire de la métropole et des départements d'outre-mer viennent en
 déduction de l'obligation de chaque opérateur, dans la limite de 25 % de cette obligation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°92-1443 du 31 décembre 1992 (V)
+	  - Loi n°92-1443 du 31 décembre 1992
 
 	**Anciens textes**:
 
-	  - Décret n°93-131 1993-01-29 art. 1
 	  - Décret n°93-131 du 29 janvier 1993 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-743 du 27 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -34474,37 +34481,34 @@ opérateur pétrolier d'outre-mer qui cesse son activité.
 I.-Les stocks stratégiques correspondant aux obligations mises à la charge des opérateurs pétroliers doivent être constitués
 de produits appartenant aux mêmes catégories, définies par chacun des tirets de l'annexe à la loi n° 92-1443 du 31 décembre
 1992 portant réforme du régime pétrolier, que celles des produits qui font l'objet des opérations mentionnées aux deux
-premiers alinéas de l'article 2 de la loi du 31 décembre 1992 susmentionnée, à concurrence : 
-
-1° D'au moins 55 % des obligations totales de stockage concernant l'ensemble des produits figurant sur l'annexe de ladite
-loi, à l'exception du fioul lourd ; 
-
-2° D'au moins 45 % des obligations totales de stockage concernant le fioul lourd. 
+premiers alinéas de l'article 2 de la loi du 31 décembre 1992 susmentionnée, à concurrence d'au moins 50 % des obligations
+totales de stockage concernant l'ensemble des produits figurant sur l'annexe de ladite loi. 
 
 II.-Au-delà du stock minimal défini au I ci-dessus, les opérateurs pétroliers peuvent être autorisés à substituer aux
-produits concernés, et après application d'un coefficient d'équivalence, du pétrole brut ou certains produits intermédiaires
-de raffinage dont ils disposent, selon le cas sur le territoire de la métropole ou sur celui du département d'outre-mer, soit
-directement, soit à la suite d'une mise à disposition mentionnée à l'article D. 1336-52. 
+produits concernés, et après application de coefficients d'équivalence des produits appartenant aux catégories définies par
+l'annexe à la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier, du pétrole brut ou certains produits
+intermédiaires de raffinage dont ils disposent, selon le cas sur le territoire de la métropole ou sur celui du département
+d'outre-mer, soit directement, soit à la suite d'une mise à disposition mentionnée à l'article D. 1336-52. 
 
-Le coefficient d'équivalence est calculé d'après le rapport existant entre, d'une part, la quantité globale des produits
+Le coefficient d'équivalence devant être appliqué en cas de substitution par du pétrole brut ou par des produits
+intermédiaires de raffinage est calculé d'après le rapport existant entre, d'une part, la quantité globale des produits
 assujettis à l'obligation de stockage fabriqués en France au cours de l'année civile précédente et, d'autre part, la quantité
 de pétrole brut utilisée durant la même année pour ces fabrications. 
 
-Un arrêté du ministre chargé des hydrocarbures fixe la valeur du coefficient d'équivalence, la liste des produits
-intermédiaires admis en substitution et le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une
-substitution, dans le respect des dispositions du I ci-dessus.
+Un arrêté du ministre chargé des hydrocarbures fixe la valeur des coefficients d'équivalence, la liste des produits
+intermédiaires admis en substitution, le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une
+substitution, le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une substitution par des produits
+appartenant aux catégories définies par l'annexe à la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier,
+dans le respect des dispositions du I ci-dessus.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°92-1443 du 31 décembre 1992 (V)
-	  - Loi n°92-1443 du 31 décembre 1992 - art. 2 (V)
-	  - Code de la défense. - art. D1336-52 (V)
+	  - Loi n°92-1443 du 31 décembre 1992
 
 	**Anciens textes**:
 
-	  - Décret n°93-131 1993-01-29 art. 3
 	  - Décret n°93-131 du 29 janvier 1993 - art. 3 (Ab)
 
 	**Cité par**:
@@ -34518,7 +34522,11 @@ substitution, dans le respect des dispositions du I ci-dessus.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-743 du 27 juin 2011 - art. 3
 
 
 ###### Article D1336-52
@@ -48387,18 +48395,14 @@ La Commission nationale pour l'élimination des mines antipersonnel assure le su
 L. 2343-12 et de l'action internationale de la France en matière d'assistance aux victimes de mines antipersonnel et d'aide
 au déminage. 
 
-Elle publie chaque année un rapport sur l'application du présent chapitre ; ce rapport est adressé par le Gouvernement au
-Parlement.
+La Commission nationale pour l'élimination des mines antipersonnel est également compétente pour assurer le suivi de
+l'application des articles L. 2344-1 à L. 2344-10 relatifs à l'élimination des armes à sous-munitions dans les conditions
+prévues à l'article R. 2344-1. 
+
+Elle publie chaque année un rapport sur l'application du présent chapitre et du chapitre IV du présent titre ; ce rapport est
+adressé par le Gouvernement au Parlement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-564 du 8 juillet 1998 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 	**Cité par**:
 
@@ -48409,9 +48413,14 @@ Parlement.
 	  - Code de la défense. - art. R2461-2 (V)
 	  - Code de la défense. - art. R2471-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-737 du 28 juin 2011 - art. 1
+
 	**Cite**:
 
-	  - Code de la défense. - art. L2343-1 (V)
+	  - Code de la défense. - art. L2343-1
+	  - Code de la défense. - art. L2344-1 (V)
 
 
 ###### Article R2343-2
@@ -48423,38 +48432,40 @@ La Commission nationale pour l'élimination des mines antipersonnel est composé
 2° De quatre personnalités qualifiées choisies en raison de leurs compétences dans le domaine de l'action ou du droit
 humanitaires ;
 
-3° De quatre personnes appartenant aux associations œuvrant en France dans le domaine de l'assistance aux victimes de mines
-antipersonnel et d'aide au déminage ;
+3° De cinq personnes appartenant aux associations œuvrant en France dans le domaine de l'assistance aux victimes de mines
+antipersonnel ou d'armes à sous-munitions et d'aide au déminage ; 
 
 4° De deux personnes appartenant aux organisations syndicales patronales représentatives au plan national et de deux
 personnes appartenant aux organisations syndicales des salariés représentatives au plan national ;
 
-5° D'un représentant du Premier ministre et d'un représentant de chacun des ministres suivants :
+5° D'un représentant du Premier ministre et d'un représentant de chacun des ministres suivants : 
 
-a) Le garde des sceaux, ministre de la justice ;
+a) Le garde des sceaux, ministre de la justice ; 
 
-b) Le ministre chargé de l'industrie ;
+b) Le ministre chargé de l'industrie ; 
 
-c) Le ministre des affaires étrangères ;
+c) Le ministre des affaires étrangères ; 
 
-d) Le ministre de la défense ;
+d) Le ministre de la défense ; 
 
-e) Le ministre chargé des anciens combattants ;
+e) Le ministre de l'intérieur ; 
 
-f) Le ministre chargé de l'action humanitaire ;
+f) Le ministre chargé de la santé ; 
 
-g) Le ministre chargé de la coopération.
+g) Le ministre chargé des handicapés ; 
+
+h) Le ministre chargé de l'action humanitaire ; 
+
+i) Le ministre chargé de la coopération ; 
+
+6° D'un représentant de l'Agence française de développement et d'un représentant de l'établissement public France expertise
+internationale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°98-564 du 8 juillet 1998 - art. 9 (Ab)
-	  - Décret n°99-358 du 10 mai 1999 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2011-737 du 28 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -48464,19 +48475,23 @@ g) Le ministre chargé de la coopération.
 
 ###### Article R2343-3
 
-Les membres de la commission sont nommés par arrêté du Premier ministre. 
+La Commission nationale pour l'élimination des mines antipersonnel est placée auprès du ministre des affaires étrangères. 
 
-Les membres mentionnés au 1° de l'article R. 2343-2 sont nommés respectivement sur proposition du président de l'Assemblée
-nationale pour la durée de la législature et sur proposition du président du Sénat après chaque renouvellement partiel du
-Sénat. 
+Les membres mentionnés au 1° de l'article R. 2343-2 sont nommés respectivement par le président de l'Assemblée nationale et
+par le président du Sénat. 
 
-Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés après consultation du   Conseil économique, social et
-environnemental. 
+Les membres représentant un ministre et leurs suppléants sont nommés par arrêté du ministre concerné. 
 
-Les membres représentant un ministre et leur suppléant sont nommés sur proposition de celui-ci. 
+Les membres mentionnés au 2° et au 3° de l'article R. 2343-2 sont nommés par le ministre des affaires étrangères après
+consultation du ministre de la défense. Les membres mentionnés au 3° peuvent se faire représenter par un suppléant qui est
+nommé dans les mêmes conditions. 
+
+Les membres mentionnés au 4° de l'article R. 2343-2 sont nommés par le ministre des affaires étrangères après consultation du
+ministre de la défense et du Conseil économique, social et environnemental. 
 
 Les membres mentionnés aux 2°, 3° et 4° de l'article R. 2343-2 sont nommés pour une durée de trois ans renouvelable une fois.
-Le président de la commission est désigné parmi eux pour une durée de trois ans par arrêté du Premier ministre. 
+Le président de la commission est désigné parmi eux par arrêté du ministre des affaires étrangères pour une durée de trois
+ans. 
 
 Sauf démission ou perte de la qualité au titre de laquelle l'intéressé a été nommé, il ne peut être mis fin aux fonctions de
 membre de la commission qu'en cas d'empêchement constaté par celle-ci. Les membres de la commission nommés en remplacement de
@@ -48486,11 +48501,11 @@ ceux dont les fonctions ont pris fin avant leur terme normal achèvent le mandat
 
 	**Modifié par**:
 
-	  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
+	  - Décret n°2011-737 du 28 juin 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2343-2
+	  - Code de la défense. - art. R2343-2 (V)
 
 
 ###### Article R2343-4
@@ -48589,6 +48604,79 @@ aux procès-verbaux mentionnés à l'article L. 2343-8.
 	**Cite**:
 
 	  - Code de la défense. - art. L2343-8 (V)
+
+
+##### Chapitre IV : Armes à sous-munitions
+
+###### Article D2344-2
+
+En application de l'article L. 2344-4, sont autorisés à conserver les stocks existants d'armes à sous-munitions jusqu'à leur
+destruction, à transférer des armes à sous-munitions en vue de leur destruction, à conserver, acquérir ou transférer des
+armes à sous-munitions et des sous-munitions explosives les directions, services et organismes suivants du ministère de la
+défense : 
+
+1° Relevant de l'état-major des armées : 
+
+a) Le service interarmées des munitions ; 
+
+b) La direction du renseignement militaire ; 
+
+c) L'échelon central de neutralisation, enlèvement et destruction des explosifs. 
+
+2° Relevant de l'état-major de l'armée de terre : 
+
+a) L'Ecole supérieure et d'application du génie ; 
+
+b) La section technique de l'armée de terre. 
+
+3° Relevant de l'état-major de la marine : l'école de plongée de la marine ; 
+
+4° La direction technique de la direction générale de l'armement ; 
+
+5° La direction générale de la sécurité extérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-737 du 28 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D2441-3 (M)
+	  - Code de la défense. - art. D2451-3 (M)
+	  - Code de la défense. - art. D2461-4 (M)
+	  - Code de la défense. - art. D2471-5 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2344-4
+
+
+###### Article R2344-1
+
+La Commission nationale pour l'élimination des mines antipersonnel mentionnée à l'article R. 2343-1 assure le suivi de
+l'application des articles L. 2344-1 à L. 2344-11 relatifs à l'élimination des armes à sous-munitions, ainsi que de l'action
+internationale de la France en matière d'assistance aux victimes d'armes à sous-munitions et d'aide au déminage de ces mêmes
+armes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-737 du 28 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2344-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2343-1 (V)
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
 
 
 #### TITRE V : EXPLOSIFS
@@ -51904,18 +51992,25 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
-2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, 
+D. 2344-2, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2342-1 (V)
+	  - Code de la défense. - art. D2342-111 (V)
+	  - Code de la défense. - art. D2342-121 (V)
+	  - Code de la défense. - art. D2342-2 (V)
+	  - Code de la défense. - art. D2344-2 (V)
+	  - Code de la défense. - art. D2352-7 (V)
+	  - Code de la défense. - art. D2362-2 (V)
 
 
 ###### Article R*2441-1
@@ -51949,23 +52044,31 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
 3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
+2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 5
 
 	**Cite**:
 
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
-	  - Code de la défense. - art. R2211-1
-	  - Code de la défense. - art. R2234-101
-	  - Code de la défense. - art. R2311-1
-	  - Code de la défense. - art. R2322-1
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2322-1 (V)
+	  - Code de la défense. - art. R2342-109 (V)
+	  - Code de la défense. - art. R2342-110 (V)
+	  - Code de la défense. - art. R2342-112 (V)
+	  - Code de la défense. - art. R2342-3 (V)
+	  - Code de la défense. - art. R2343-1 (V)
+	  - Code de la défense. - art. R2352-1 (V)
+	  - Code de la défense. - art. R2352-8 (V)
+	  - Code de la défense. - art. R2363-1 (V)
 
 
 ###### Article R2441-5
@@ -52023,18 +52126,24 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III,  les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
-2351-8, D. 2362-2 à D. 2362-4.
+2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2, D. 2351-1
+à D. 2351-8, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2342-1 (V)
+	  - Code de la défense. - art. D2342-111 (V)
+	  - Code de la défense. - art. D2342-121 (V)
+	  - Code de la défense. - art. D2344-2 (V)
+	  - Code de la défense. - art. D2362-2 (V)
+	  - Code du travail - art. D2351-1 (V)
 
 
 ###### Article R*2451-1
@@ -52067,14 +52176,14 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articlesR. 2311-1 à R. 2313-1, R. 2313-4 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109,
-R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articles R. 2311-1 à R. 2313-1, R. 2313-4 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R.
+2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-678 du 21 juin 2010 - art. 6 (V)
+	  - Décret n°2011-737 du 28 juin 2011 - art. 5
 
 	**Cité par**:
 
@@ -52084,12 +52193,18 @@ R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2353-2 à R.
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
-	  - Code de la défense. - art. R2211-1
-	  - Code de la défense. - art. R2234-101
-	  - Code de la défense. - art. R2311-1
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 	  - Code de la défense. - art. R2313-4
 	  - Code de la défense. - art. R2322-1
+	  - Code de la défense. - art. R2342-109 (V)
+	  - Code de la défense. - art. R2342-112 (V)
+	  - Code de la défense. - art. R2342-3 (V)
+	  - Code de la défense. - art. R2343-1 (V)
+	  - Code de la défense. - art. R2353-2 (V)
+	  - Code de la défense. - art. R2363-1 (V)
 
 
 ###### Article R2451-5
@@ -52138,18 +52253,25 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D. 2351-8,
-D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2, D. 2351-1 à
+D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2342-1 (V)
+	  - Code de la défense. - art. D2342-111 (V)
+	  - Code de la défense. - art. D2342-121 (V)
+	  - Code de la défense. - art. D2344-2 (V)
+	  - Code de la défense. - art. D2352-7 (V)
+	  - Code de la défense. - art. D2362-2 (V)
+	  - Code du travail - art. D2351-1 (V)
 
 
 ###### Article R*2461-1
@@ -52183,14 +52305,14 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
 3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
+2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 5
 
 	**Cité par**:
 
@@ -52200,11 +52322,18 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
-	  - Code de la défense. - art. R2211-1
-	  - Code de la défense. - art. R2234-101
-	  - Code de la défense. - art. R2311-1
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 	  - Code de la défense. - art. R2322-1
+	  - Code de la défense. - art. R2342-109 (V)
+	  - Code de la défense. - art. R2342-112 (V)
+	  - Code de la défense. - art. R2342-3 (V)
+	  - Code de la défense. - art. R2343-1 (V)
+	  - Code de la défense. - art. R2352-1 (V)
+	  - Code de la défense. - art. R2352-8 (V)
+	  - Code de la défense. - art. R2363-1 (V)
 
 
 ###### Article R2461-3
@@ -52276,18 +52405,25 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
 
-2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2351-1 à D.
-2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2
+, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97
+	  - Code de la défense. - art. D2234-97 (V)
+	  - Code de la défense. - art. D2342-1 (V)
+	  - Code de la défense. - art. D2342-111 (V)
+	  - Code de la défense. - art. D2342-121 (V)
+	  - Code de la défense. - art. D2344-2 (V)
+	  - Code de la défense. - art. D2352-7 (V)
+	  - Code de la défense. - art. D2362-2 (V)
+	  - Code du travail - art. D2351-1 (V)
 
 
 ###### Article R*2471-1
@@ -52320,10 +52456,10 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
 
-2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-; 
+2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
 3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2343-8, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
+2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
 2363-7.
 
 **Liens relatifs à cet article**
@@ -52333,15 +52469,22 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
-	  - Code de la défense. - art. R2211-1
-	  - Code de la défense. - art. R2234-101
-	  - Code de la défense. - art. R2311-1
+	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. R2211-1 (V)
+	  - Code de la défense. - art. R2234-101 (V)
+	  - Code de la défense. - art. R2311-1 (V)
 	  - Code de la défense. - art. R2322-1
+	  - Code de la défense. - art. R2342-109 (V)
+	  - Code de la défense. - art. R2342-112 (V)
+	  - Code de la défense. - art. R2342-3 (V)
+	  - Code de la défense. - art. R2343-1 (V)
+	  - Code de la défense. - art. R2352-1 (V)
+	  - Code de la défense. - art. R2352-8 (V)
+	  - Code de la défense. - art. R2363-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 4
+	  - Décret n°2011-737 du 28 juin 2011 - art. 5
 
 
 ###### Article R2471-3

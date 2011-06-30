@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-06-30
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -19401,410 +19401,387 @@ prévoit notamment les conditions de préavis et d'indemnisation des intéressé
 
 ###### Article L4139-16
 
-I.-Les limites d'âge et âges maximaux de maintien en première section des   militaires sont : 
+I.-Les limites d'âge et âges maximaux de maintien en première section des militaires sont : 
 
-1° Dans le corps militaire du contrôle général des   armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
-général, soixante-quatre ans.
+1° Dans le corps militaire du contrôle général des armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
+général, soixante-six ans.
 
-L'âge maximal de maintien en   première section est de soixante-cinq ans ; 
+L'âge maximal de maintien en première section est de soixante-sept ans ; 
 
-2° Pour les officiers des armées et   formations rattachées, telles que définies par le tableau ci-après : 
+2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : 
 
 <table>
-    <thead>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td width="190">
 
-</th>
-        <th>
+</td>
+      <td width="102">
 
-OFFICIERS 
+OFFICIERS
 
-subalternes 
+subalternes ou dénomination correspondante
 
-ou   dénomination 
+</td>
+      <td width="103">
 
-correspondante 
+COMMANDANT
 
-</th>
-        <th>
+ou dénomination correspondante
 
-COMMANDANT 
-
-ou   dénomination 
-
-correspondante 
-
-</th>
-        <th>
+</td>
+      <td width="113">
 
 LIEUTENANT-
 
-colonel   
-
-ou dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-COLONEL 
-
-ou   
-
-dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-ÂGE MAXIMAL   
-
-de maintien 
-
-en première section 
-
-des officiers généraux   
-
-</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-
-Officiers des armes de l'armée de terre,   officiers de marine, officiers spécialisés de la marine, officiers des bases et
-officiers   mécaniciens de l'air 
+colonel ou dénomination correspondante
 
 </td>
-        <td align="center" colspan="4">
+      <td width="79">
 
-57
+COLONEL
 
-</td>
-        <td align="center">
+ou
 
-61
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Officiers de gendarmerie 
+dénomination correspondante
 
 </td>
-        <td align="center">
+      <td width="111">
 
-57
+ÂGE MAXIMAL
 
-</td>
-        <td> </td>
-        <td> </td>
-        <td align="center">
-
-58
+de maintien en première section des officiers généraux
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td valign="top" width="190">
 
-61
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Officiers de l'air 
+Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
+officiers mécaniciens de l'air
 
 </td>
-        <td colspan="2" align="center">
+      <td width="398" colspan="4" valign="bottom">
 
-50
-
-</td>
-        <td colspan="2" align="center">
-
-54
+59
 
 </td>
-        <td align="center">
+      <td width="111" valign="bottom">
 
-61
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et   administratifs,
-ingénieurs militaires des essences, administrateurs des affaires maritimes 
+63
 
 </td>
-        <td colspan="4" align="center">
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
+Officiers de gendarmerie
+
+</td>
+      <td valign="bottom" colspan="3" width="318">
+
+59
+
+</td>
+      <td width="79" valign="bottom">
 
 60
 
 </td>
-        <td align="center">
+      <td width="111" valign="bottom">
 
-62
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes 
+63
 
 </td>
-        <td colspan="4" align="center">
+    </tr>
+    <tr>
+      <td valign="top" width="190">
 
-60
-
-</td>
-        <td align="center">
-
-65
+Officiers de l'air
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td colspan="2" valign="bottom" width="205">
 
-Militaires infirmiers et   techniciens des hôpitaux des armées (officiers) 
+52
 
 </td>
-        <td colspan="4" align="center">
-
-60</td>
-        <td align="center">
-
--
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Ingénieurs de l'armement, ingénieurs   des études et techniques de l'armement, ingénieurs des études et techniques   des
-travaux maritimes, professeurs de l'enseignement maritime, ingénieurs militaires   d'infrastructure de la défense 
-
-</td>
-        <td colspan="4" align="center">
-
-64
-
-</td>
-        <td align="center">
-
-65
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Officiers greffiers, chefs de musique, fonctionnaires   détachés au sein de la poste interarmées, fonctionnaires détachés au
-sein de la trésorerie aux armées, aumôniers militaires 
-
-</td>
-        <td align="center" colspan="4">
-
-64
-
-</td>
-        <td align="center">
-
--
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-Les officiers du service de   santé des armées du grade de chef des services qui ne sont pas régis par les   dispositions du
-chapitre Ier du titre IV relatif aux officiers généraux peuvent être   temporairement maintenus en activité au-delà de l'âge
-de soixante ans,   pour une durée déterminée en fonction des emplois à pourvoir, sans   toutefois pouvoir servir au-delà de
-l'âge de soixante-cinq ans. Dans ce cas, la limite   d'âge retenue pour l'application du 1° du I de l'article L. 14 du code
-des pensions civiles et militaires de   retraite correspond au terme de la durée ainsi déterminée. 
-
-Le chef des   orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine   peuvent, sur
-demande agréée, être maintenus en service au-delà de la limite   d'âge par périodes de deux ans renouvelables ; 
-
-3° Pour les sous-officiers   des armées et des formations rattachées, telles que définies par le tableau   ci-après : 
-
-<table>
-    <thead>
-      <tr>
-        <th>
-
-</th>
-        <th>
-
-SERGENT 
-
-ou dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-SERGENT-CHEF 
-
-ou dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-ADJUDANT 
-
-ou dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-ADJUDANT-CHEF 
-
-ou dénomination 
-
-correspondante 
-
-</th>
-        <th>
-
-MAJOR 
-
-</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-
-Sous-officiers de carrière de l'armée de terre, de la marine   ou de l'air (personnel non navigant) 
-
-</td>
-        <td align="center">
-
-45
-
-</td>
-        <td> </td>
-        <td align="center">
-
-50
-
-</td>
-        <td align="center">
+      <td valign="bottom" colspan="2" width="192">
 
 56
 
 </td>
-        <td align="center">
+      <td width="111" valign="bottom">
 
-57
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et   administratif de la gendarmerie nationale 
+63
 
 </td>
-        <td align="center" colspan="4">
+    </tr>
+    <tr>
+      <td width="190" valign="top">
 
-56 (y compris le grade de gendarme) 
-
-</td>
-        <td align="center">
-
-57</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Sous-officiers du personnel navigant de l'armée de l'air 
+Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs
+militaires des essences, administrateurs des affaires maritimes
 
 </td>
-        <td align="center" colspan="3">
+      <td colspan="4" valign="bottom" width="398">
 
-45
-
-</td>
-        <td colspan="2" align="center">
-
-50
+62
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Militaires infirmiers et techniciens des hôpitaux des armées   (sous-officiers), major des ports (marine) et officiers
-mariniers de carrière des ports (marine) 
-
-</td>
-        <td colspan="5" align="center">
-
-57 </td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Sous-officiers du service des essences des armées
-
-</td>
-        <td colspan="2" align="center">
-
--
-
-</td>
-        <td align="center" colspan="3">
-
-60
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Fonctionnaires détachés au sein de la poste interarmées,   fonctionnaires détachés au sein de la trésorerie aux armées,
-majors   sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois   armées), maîtres ouvriers (terre),
-maîtres ouvriers, tailleurs et cordonniers (marine),   musicien sous-officier de carrière (air), commis greffiers et
-huissiers appariteurs 
-
-</td>
-        <td align="center" colspan="5">
+      <td valign="bottom" width="111">
 
 64
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
 
-Les musiciens des orchestres de la garde républicaine peuvent, sur demande   agréée, être maintenus en service au-delà de
-cette limite d'âge par   périodes de deux ans renouvelables. 
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 
-II.-Sans préjudice des dispositions de   l'article L. 4132-12, les limites de durée de service des militaires sous contrat
-sont les suivantes :   
+</td>
+      <td colspan="4" width="398" valign="bottom">
+
+62
+
+</td>
+      <td width="111" valign="bottom">
+
+67
+
+</td>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
+Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
+
+</td>
+      <td width="398" colspan="4" valign="bottom">
+
+62
+
+</td>
+      <td valign="bottom" width="111">
+
+-
+
+</td>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
+Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
+maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
+
+</td>
+      <td valign="bottom" colspan="4" width="398">
+
+66
+
+</td>
+      <td width="111" valign="bottom">
+
+67
+
+</td>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
+Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
+sein de la trésorerie aux armées, aumôniers militaires
+
+</td>
+      <td width="398" colspan="4" valign="bottom">
+
+66
+
+</td>
+      <td valign="bottom" width="111">
+
+-
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les officiers du service de santé des armées du grade de chef des services qui ne sont pas régis par les dispositions du
+chapitre Ier du titre IV relatif aux officiers généraux peuvent être temporairement maintenus en activité au-delà de l'âge de
+soixante-deux ans, pour une durée déterminée en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de
+l'âge de soixante-sept ans. Dans ce cas, la limite d'âge retenue pour l'application du 1° du I de l'article L. 14 du code des
+pensions civiles et militaires de retraite correspond au terme de la durée ainsi déterminée. 
+
+Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
+demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ; 
+
+3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après : 
 
 <table>
   <thead>
     <tr>
-      <td> </td>
+      <td>
+      </td><td>
+
+SERGENT
+
+ou dénomination correspondante
+
+</td>
       <td>
 
-LIMITE   DE DURÉE DES SERVICES 
+SERGENT-CHEF
+
+ou dénomination
+
+correspondante
+
+</td>
+      <td>
+
+ADJUDANT
+
+ou dénomination
+
+correspondante
+
+</td>
+      <td>
+
+ADJUDANT-CHEF
+
+ou dénomination
+
+correspondante
+
+</td>
+      <td>MAJOR</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="bottom" align="center">
+
+Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant)
+
+</td>
+      <td colspan="2" align="center" valign="bottom">
+
+47
+
+</td>
+      <td align="center" valign="bottom">
+
+52
+
+</td>
+      <td align="center" valign="bottom">
+
+58
+
+</td>
+      <td align="center" valign="bottom">
+
+59
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale
+
+</td>
+      <td valign="bottom" colspan="4" align="center">
+
+58 (y compris le grade de gendarme)
+
+</td>
+      <td align="center" valign="bottom">
+
+59
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Sous-officiers du personnel navigant de l'armée de l'air
+
+</td>
+      <td colspan="3" align="center">
+
+47
+
+</td>
+      <td colspan="2" align="center">
+
+52
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers
+mariniers de carrière des ports (marine)
+
+</td>
+      <td colspan="5" valign="bottom" align="center">
+
+59
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Sous-officiers du service des essences des armées
+
+</td>
+      <td align="center" colspan="2">
+
+-
+
+</td>
+      <td colspan="3" align="center">
+
+62
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, majors
+sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois armées), maîtres ouvriers (terre), maîtres
+ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière (air), commis greffiers et huissiers
+appariteurs
+
+</td>
+      <td valign="bottom" align="center" colspan="5">
+
+66
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les musiciens des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de cette
+limite d'âge par périodes de deux ans renouvelables. 
+
+II.-Sans préjudice des dispositions de l'article L. 4132-12, les limites de durée de service des militaires sous contrat sont
+les suivantes : 
+
+<table>
+  <thead>
+    <tr>
+      <td>
+      </td><td>
+
+LIMITE DE DURÉE DES SERVICES 
 
 (année) 
 
@@ -19815,7 +19792,7 @@ LIMITE   DE DURÉE DES SERVICES
     <tr>
       <td>
 
-Officiers sous   contrat 
+Officiers sous contrat 
 
 </td>
       <td>
@@ -19827,31 +19804,31 @@ Officiers sous   contrat
     <tr>
       <td>
 
-Militaires   commissionnés 
+Militaires commissionnés 
 
 </td>
       <td>
 
-15
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Militaires   engagés 
-
-</td>
-      <td>
-
-25
+17
 
 </td>
     </tr>
     <tr>
       <td>
 
-Volontaires dans   les armées 
+Militaires engagés 
+
+</td>
+      <td>
+
+27
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Volontaires dans les armées 
 
 </td>
       <td>
@@ -19863,15 +19840,20 @@ Volontaires dans   les armées
   </tbody>
 </table>
 
-Le chef   des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde   républicaine peuvent, sur
-demande agréée, être maintenus en service   au-delà de la durée de service par périodes de deux ans renouvelables.   
+Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
+demande agréée, être maintenus en service au-delà de la durée de service par périodes de deux ans renouvelables. 
 
-Les officiers sous contrat et les militaires commissionnés atteignant leur limite de   durée de service sont, sur leur
-demande, maintenus en service pour une durée maximum   de dix trimestres et dans la limite de la durée d'assurance nécessaire
-pour obtenir le   pourcentage maximum de la pension mentionné à l'article L. 13 du code des pensions civiles et militaires de
+Les officiers sous contrat et les militaires commissionnés atteignant leur limite de durée de service sont, sur leur demande,
+maintenus en service pour une durée maximum de dix trimestres et dans la limite de la durée d'assurance nécessaire pour
+obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 du code des pensions civiles et militaires de
 retraite. 
 
-Cette prolongation de service est prise en compte au titre de la constitution et de la   liquidation du droit à pension.
+Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 40 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -19896,7 +19878,7 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 8
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 40
 
 	**Cite**:
 
@@ -20028,12 +20010,17 @@ défense ou le ministre de l'intérieur, pour les missions qui relèvent de leur
 l'encadrement.
 
 L'intéressé perçoit une solde de réserve calculée dans les conditions fixées par le code des pensions civiles et militaires
-de retraite. 
+de retraite jusqu'à l'âge de soixante-sept ans. A compter de cet âge, il perçoit une pension militaire. 
 
-Le versement de la solde de réserve est suspendu lorsque l'officier général est replacé en première section par le   ministre
-de la défense ou, pour l'officier général de la gendarmerie nationale, par le ministre de la défense ou le ministre de
-l'intérieur, pour les missions qui relèvent de leur autorité, conformément aux dispositions de l'article L. 4141-1, jusqu'au
-terme du placement temporaire en première section.
+Le versement de la solde de réserve ou de pension militaire  est suspendu lorsque l'officier général est replacé en première
+section par le   ministre de la défense ou, pour l'officier général de la gendarmerie nationale, par le ministre de la
+défense ou le ministre de l'intérieur, pour les missions qui relèvent de leur autorité, conformément aux dispositions de
+l'article L. 4141-1, jusqu'au terme du placement temporaire en première section.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 39 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -20043,7 +20030,7 @@ terme du placement temporaire en première section.
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 14
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 39
 
 	**Cite**:
 

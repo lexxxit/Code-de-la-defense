@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-07-02
 
 # Partie législative
 
@@ -28283,35 +28283,6 @@ claire et précise l'objet de la réquisition et l'étendue de la zone dans laqu
 	**Codifié par**:
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-
-###### Article D1321-5
-
-Dans les cas d'attroupements prévus à l'article 431-3 du code pénal, le préfet ou le sous-préfet, le maire ou l'un de ses
-adjoints, le commissaire de police ou, mandaté par l'autorité préfectorale, un commissaire de police ou l'officier de police
-chef de circonscription doivent être présents sur les lieux en vue, le cas échéant, de décider de l'emploi de la force après
-sommation. 
-
-Si elle n'effectue pas elle-même les sommations, l'autorité civile responsable de l'emploi de la force désigne un officier de
-police judiciaire pour y procéder.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-573 du 2 mai 1995 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-794 du 30 juin 2011 - art. 6
-
-	**Cite**:
-
-	  - Code pénal - art. 431-3
 
 
 ###### Article D1321-6

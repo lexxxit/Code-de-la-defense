@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-07-02
+Version Consolidée au 2011-07-30
 
 # Partie législative
 
@@ -3858,15 +3858,16 @@ Les règles relatives au fonctionnement du conseil municipal en cas de mobilisat
 
 ###### Article L2151-1
 
-Le service de défense est destiné à assurer la continuité de l'action du Gouvernement, des directions et services de l'Etat,
-des collectivités territoriales, et des organismes qui leur sont rattachés, ainsi que des entreprises et établissements dont
-les activités contribuent à la défense, à la sécurité et à l'intégrité du territoire, de même qu'à la sécurité et la vie de
-la population. 
+Le service de sécurité nationale est destiné à assurer la continuité de l'action de l'Etat, des collectivités territoriales,
+et des organismes qui leur sont rattachés, ainsi que des entreprises et établissements dont les activités contribuent à la
+sécurité nationale. 
 
-Les catégories d'activités mentionnées au précédent alinéa sont précisées par décret. 
+Le service de sécurité nationale est applicable au personnel, visé par un plan de continuité ou de rétablissement d'activité,
+d'un des opérateurs publics et privés ou des gestionnaires d'établissements désignés par l'autorité administrative
+conformément aux articles L. 1332-1 et L. 1332-2. 
 
-Dans les circonstances prévues à l'article L. 1111-2, le recours au service de défense est décidé par décret en conseil des
-ministres.
+Seules les personnes majeures de nationalité française, ressortissantes de l'Union européenne, sans nationalité ou
+bénéficiant du droit d'asile peuvent être soumises aux obligations du service de sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -3876,12 +3877,17 @@ ministres.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L1332-1
+	  - Code de la défense. - art. L1332-2
 
 	**Cité par**:
 
@@ -3902,12 +3908,16 @@ ministres.
 
 ###### Article L2151-2
 
-Les obligations du service de défense s'appliquent aux personnes âgées de dix-huit ans au moins, de nationalité française,
-sans nationalité ou bénéficiant du droit d'asile, ainsi qu'éventuellement aux ressortissants de l'Union européenne exerçant
-une des activités figurant au décret prévu au deuxième alinéa de l'article L. 2151-1, à l'exception de celles qui ont reçu
-l'ordre de rejoindre leur affectation militaire ou civile.
+Dans les circonstances prévues aux articles L. 1111-2 et L. 2171-1 ou à l'article 1er de la loi n° 55-385 du 3 avril 1955, le
+recours au service de sécurité nationale est décidé par décret en conseil des ministres.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°55-385 du 3 avril 1955 - art. 1 (V)
+	  - Code de la défense. - art. L1111-2
+	  - Code de la défense. - art. L2171-1
 
 	**Anciens textes**:
 
@@ -3915,12 +3925,12 @@ l'ordre de rejoindre leur affectation militaire ou civile.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. L2151-1 (V)
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
 	**Cité par**:
 
@@ -3930,8 +3940,11 @@ l'ordre de rejoindre leur affectation militaire ou civile.
 
 ###### Article L2151-3
 
-Les employeurs des personnes mentionnées à l'article L. 2151-2 sont tenus de notifier à leur personnel, au moment du
-recrutement, qu'il est placé sous le régime du service de défense.
+Lors du recours au service de sécurité nationale, les personnes placées sous ce régime sont maintenues dans leur emploi
+habituel ou tenues de le rejoindre. 
+
+Elles continuent d'être soumises aux règles de discipline et aux sanctions fixées par les statuts ou les règlements
+intérieurs de leur organisme d'emploi.
 
 **Liens relatifs à cet article**
 
@@ -3941,12 +3954,12 @@ recrutement, qu'il est placé sous le régime du service de défense.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. L2151-2 (V)
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
 	**Cité par**:
 
@@ -3960,8 +3973,9 @@ recrutement, qu'il est placé sous le régime du service de défense.
 
 ###### Article L2151-4
 
-Lors de la mise en oeuvre du service de défense, les affectés collectifs de défense sont maintenus dans leur emploi habituel
-ou tenus de le rejoindre, s'ils ne sont pas appelés au titre de la réserve pour les besoins des forces armées.
+Les employeurs mentionnés au deuxième alinéa de l'article L. 2151-1 sont tenus d'élaborer des plans de continuité ou de
+rétablissement d'activité et de notifier aux personnes concernées par ces plans qu'elles sont susceptibles d'être placées
+sous le régime du service de sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -3971,8 +3985,12 @@ ou tenus de le rejoindre, s'ils ne sont pas appelés au titre de la réserve pou
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
 	**Cité par**:
 
@@ -3985,11 +4003,14 @@ ou tenus de le rejoindre, s'ils ne sont pas appelés au titre de la réserve pou
 	  - Code de la défense. - art. R2151-11 (Ab)
 	  - Code de la défense. - art. R2151-7 (V)
 
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1
+
 
 ###### Article L2151-5
 
-Lors de la mise en oeuvre du service de défense, les affectés collectifs de défense continuent d'être soumis aux règles de
-discipline et aux sanctions fixées par les statuts ou les règlements intérieurs de leur organisme d'emploi.
+Les modalités d'application du présent titre sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -3999,29 +4020,17 @@ discipline et aux sanctions fixées par les statuts ou les règlements intérieu
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-
-###### Article L2151-6
-
-Les modalités d'application des dispositions du présent titre sont déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 37 (Ab)
-
-	**Codifié par**:
-
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
+
+#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
+
+##### Chapitre unique
 
 #### TITRE VI : SUJÉTIONS RÉSULTANT DES MANOEUVRES ET EXERCICES
 
@@ -4117,6 +4126,136 @@ pêche maritime.
 	  - Code rural - art. L161-8 (V)
 
 
+#### TITRE VII : DISPOSITIF DE RÉSERVE DE SÉCURITÉ NATIONALE
+
+##### Chapitre unique
+
+###### Article L2171-1
+
+En cas de survenance, sur tout ou partie du territoire national, d'une crise majeure dont l'ampleur met en péril la
+continuité de l'action de l'Etat, la sécurité de la population ou la capacité de survie de la Nation, le Premier ministre
+peut recourir au dispositif de réserve de sécurité nationale par décret. 
+
+Le dispositif de réserve de sécurité nationale a pour objectif de renforcer les moyens mis en œuvre par les services de
+l'Etat, les collectivités territoriales ou par toute autre personne de droit public ou privé participant à une mission de
+service public. 
+
+Il est constitué des réservistes de la réserve opérationnelle militaire, de la réserve civile de la police nationale, de la
+réserve sanitaire, de la réserve civile pénitentiaire et des réserves de sécurité civile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2151-2 (V)
+	  - Code de la défense. - art. L2171-2 (V)
+	  - Code de la défense. - art. L4211-1-1 (V)
+	  - Code de la défense. - art. R4221-10 (V)
+
+
+###### Article L2171-2
+
+Le décret mentionné à l'article L. 2171-1 précise la durée d'emploi des réservistes, laquelle ne peut excéder trente jours
+consécutifs. Cette durée d'activité peut être augmentée dans des conditions et selon des modalités fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2171-1
+
+
+###### Article L2171-3
+
+Les périodes d'emploi réalisées au titre du dispositif de réserve de sécurité nationale ne sont pas imputables sur le nombre
+annuel maximal de jours d'activité pouvant être accomplis dans le cadre de l'engagement souscrit par le réserviste. 
+
+L'engagement du réserviste arrivant à terme avant la fin de la période d'emploi au titre de la réserve de sécurité nationale
+est prorogé d'office jusqu'à la fin de cette période.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+
+###### Article L2171-4
+
+Lorsqu'ils exercent des activités au titre du dispositif de réserve de sécurité nationale, les réservistes demeurent, sauf
+dispositions contraires prévues par le présent chapitre, soumis aux dispositions législatives et réglementaires régissant
+leur engagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+
+###### Article L2171-5
+
+Aucun licenciement ou déclassement professionnel, aucune sanction disciplinaire ne peut être prononcé à l'encontre d'un
+réserviste en raison des absences résultant de l'application du présent chapitre. 
+
+Aucun établissement ou organisme de formation public ou privé ne peut prendre de mesure préjudiciable à l'accomplissement
+normal du cursus de formation entrepris par un étudiant ou un stagiaire en raison des absences résultant de l'application du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+
+###### Article L2171-6
+
+Lors du recours au dispositif de réserve de sécurité nationale, les réservistes sont tenus de rejoindre leur affectation,
+dans les conditions fixées par les autorités civiles ou militaires dont ils relèvent au titre de leur engagement. 
+
+En cas de nécessité inhérente à la poursuite de la production de biens ou de services ou à la continuité du service public,
+les réservistes employés par un des opérateurs publics et privés ou des gestionnaires d'établissements désignés par
+l'autorité administrative conformément aux articles L. 1332-1 et L. 1332-2 peuvent être dégagés de ces obligations. 
+
+Les conditions de convocation des réservistes sont fixées par décret en Conseil d'Etat. Ce décret détermine notamment le
+délai minimal de préavis de convocation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2171-3 (V)
+
+
+###### Article L2171-7
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 1
+
+
 ### LIVRE II : RÉQUISITIONS
 
 #### TITRE Ier : RÉQUISITIONS POUR LES BESOINS GÉNÉRAUX DE LA NATION
@@ -4130,7 +4269,7 @@ par accord amiable ou par réquisition. Le droit de réquisition est ouvert dans
 et L. 2141-3 pour tout ou partie de ces prestations sur tout ou partie du territoire. 
 
 Dans les mêmes cas, le bénéfice du droit de réquisition prévu par l'article L. 2221-2 peut être étendu par décret à tout ou
-partie des formations constituées du service de défense. 
+partie des formations constituées du service de sécurité nationale. 
 
 Ce droit est exercé dans les conditions et suivant les modalités prévues au chapitre 3 du présent titre, ainsi qu'aux
 chapitres 3 et 4 du titre III du présent livre.
@@ -4143,14 +4282,18 @@ chapitres 3 et 4 du titre III du présent livre.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. L2141-3 (V)
-	  - Code de la défense. - art. L2221-2 (V)
+	  - Code de la défense. - art. L1111-2
+	  - Code de la défense. - art. L2141-3
+	  - Code de la défense. - art. L2221-2
 
 	**Cité par**:
 
@@ -4248,9 +4391,9 @@ réquisition des personnes.
 
 ###### Article L2212-1
 
-Dans les cas prévus à l'article L. 1111-2, les hommes non appelés au titre du service militaire ou du service de défense
-peuvent être requis à titre individuel ou collectif, dans les conditions et sous les pénalités prévues au présent titre, et
-aux chapitres 4 et 6 du titre III.
+Dans les cas prévus à l'article L. 1111-2, les hommes non appelés au titre du service militaire ou du service de sécurité
+nationale peuvent être requis à titre individuel ou collectif, dans les conditions et sous les pénalités prévues au présent
+titre, et aux chapitres 4 et 6 du titre III.
 
 L'appel sous les drapeaux fait cesser la réquisition. 
 
@@ -4276,20 +4419,22 @@ nécessaires. Les sanctions prévues aux troisième et quatrième alinéas de l'
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-147 1959-01-07 art. 43, alinéa 1
 	  - Ordonnance n°59-147 du 7 janvier 1959 - art. 43 (Ab)
-	  - Loi n°1938-07-11 art. 14, alinéas 1, 2, 3, 4 et 7
 	  - Loi n°1938-07-11. du 11 juillet 1938 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. L2236-3 (V)
+	  - Code de la défense. - art. L1111-2
+	  - Code de la défense. - art. L2236-3
 
 	**Cité par**:
 
@@ -20475,6 +20620,24 @@ convention avec le ministre de la défense, peut se voir attribuer la qualité d
 	  - Code de la défense. - art. L4241-2 (V)
 
 
+###### Article L4211-1-1
+
+Les membres de la réserve opérationnelle militaire font partie du dispositif de réserve de sécurité nationale mentionné à
+l'article L. 2171-1 dont l'objectif est de renforcer les moyens mis en œuvre par les services de l'Etat, les collectivités
+territoriales ou par toute autre personne de droit public ou privé participant à une mission de service public en cas de
+survenance sur tout ou partie du territoire national d'une crise majeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2171-1
+
+
 ###### Article L4211-2
 
 Pour être admis dans la réserve, il faut : 
@@ -21338,7 +21501,7 @@ réserve militaire sont fixés par décret.
 
 ###### Article L4271-1
 
-Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5
 par ordre d'appel individuel ou collectif, de ne pas se présenter, hors le cas de force majeure, à la destination et dans les
 délais fixés, constitue un acte d'insoumission passible des peines prévues à l'article L. 321-1 du code de justice militaire.
 
@@ -21350,14 +21513,18 @@ délais fixés, constitue un acte d'insoumission passible des peines prévues à
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-4 (V)
-	  - Code de la défense. - art. L4231-4 (V)
-	  - Code de la défense. - art. L4231-5 (V)
-	  - Code de justice militaire. - art. L321-1 (V)
+	  - Code de la défense. - art. L2151-3
+	  - Code de la défense. - art. L4231-4
+	  - Code de la défense. - art. L4231-5
+	  - Code de justice militaire. - art. L321-1
 
 	**Cité par**:
 
@@ -21366,10 +21533,10 @@ délais fixés, constitue un acte d'insoumission passible des peines prévues à
 
 ###### Article L4271-2
 
-Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, 
-L. 4231-4 et L. 4231-5, de s'absenter sans autorisation ou de ne pas rejoindre le poste auquel elle a été affectée à l'issue
-d'une absence régulièrement autorisée, constitue, à l'expiration des délais de grâce prévus aux articles L. 321-2 à L. 321-17
-du code de justice militaire, un acte de désertion passible des peines prévues à ces mêmes articles.
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5,
+de s'absenter sans autorisation ou de ne pas rejoindre le poste auquel elle a été affectée à l'issue d'une absence
+régulièrement autorisée, constitue, à l'expiration des délais de grâce prévus aux articles L. 321-2 à L. 321-17 du code de
+justice militaire, un acte de désertion passible des peines prévues à ces mêmes articles.
 
 **Liens relatifs à cet article**
 
@@ -21379,19 +21546,23 @@ du code de justice militaire, un acte de désertion passible des peines prévues
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-4 (V)
-	  - Code de la défense. - art. L4231-4 (V)
-	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de la défense. - art. L2151-3
+	  - Code de la défense. - art. L4231-4
+	  - Code de la défense. - art. L4231-5
 	  - Code de justice militaire. - art. L321-2 (V)
 
 
 ###### Article L4271-3
 
-Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5,
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5,
 de refuser d'obéir ou, hors le cas de force majeure, de ne pas exécuter l'ordre reçu de ceux qui avaient qualité pour le
 donner, constitue une infraction passible des peines prévues aux articles L. 323-6 et L. 323-7 du code de justice militaire.
 
@@ -21403,11 +21574,11 @@ donner, constitue une infraction passible des peines prévues aux articles L. 32
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-4
+	  - Code de la défense. - art. L2151-3
 	  - Code de la défense. - art. L4231-4
 	  - Code de la défense. - art. L4231-5
 	  - Code de justice militaire. - art. L323-6
@@ -21416,7 +21587,7 @@ donner, constitue une infraction passible des peines prévues aux articles L. 32
 
 ###### Article L4271-4
 
-Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-4, L. 4231-4 et L. 4231-5,
+Le fait pour une personne, appelée ou maintenue à l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5,
 de s'être irrégulièrement absentée du poste auquel elle a été appelée à servir, constitue un abandon de poste passible des
 peines prévues à l'article L. 324-4 du code de justice militaire.
 
@@ -21428,22 +21599,25 @@ peines prévues à l'article L. 324-4 du code de justice militaire.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-4 (V)
-	  - Code de la défense. - art. L4231-4 (V)
-	  - Code de la défense. - art. L4231-5 (V)
-	  - Code de justice militaire. - art. L324-4 (V)
+	  - Code de la défense. - art. L2151-3
+	  - Code de la défense. - art. L4231-4
+	  - Code de la défense. - art. L4231-5
+	  - Code de justice militaire. - art. L324-4
 
 
 ###### Article L4271-5
 
 Les dispositions des articles L. 211-13, L. 212-36 et L. 267-2 du code de justice militaire relatives au mode d'extinction de
 l'action publique et au régime de la prescription des peines sont applicables aux personnes appelées ou maintenues à
-l'activité en application des articles L. 2151-4, 
-L. 4231-4 et L. 4231-5.
+l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5.
 
 **Liens relatifs à cet article**
 
@@ -21453,16 +21627,20 @@ L. 4231-4 et L. 4231-5.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-892 du 28 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-4 (V)
-	  - Code de la défense. - art. L4231-4 (V)
-	  - Code de la défense. - art. L4231-5 (V)
-	  - Code de justice militaire. - art. L211-13 (V)
-	  - Code de justice militaire. - art. L212-36 (V)
-	  - Code de justice militaire. - art. L267-2 (V)
+	  - Code de la défense. - art. L2151-3
+	  - Code de la défense. - art. L4231-4
+	  - Code de la défense. - art. L4231-5
+	  - Code de justice militaire. - art. L211-13
+	  - Code de justice militaire. - art. L212-36
+	  - Code de justice militaire. - art. L267-2
 
 
 ### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER

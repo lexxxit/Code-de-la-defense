@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-07-30
+Version Consolidée au 2011-09-07
 
 # Partie législative
 
@@ -3852,7 +3852,7 @@ Les règles relatives au fonctionnement du conseil municipal en cas de mobilisat
 	  - Code de la défense. - art. L2461-3 (V)
 
 
-#### TITRE V : SERVICE DE DÉFENSE
+#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
 
 ##### Chapitre unique
 
@@ -4027,10 +4027,6 @@ Les modalités d'application du présent titre sont déterminées par décret en
 
 	  - Loi n°2011-892 du 28 juillet 2011 - art. 3
 
-
-#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
-
-##### Chapitre unique
 
 #### TITRE VI : SUJÉTIONS RÉSULTANT DES MANOEUVRES ET EXERCICES
 
@@ -28595,8 +28591,8 @@ Le commandement des formations militaires de la sécurité civile appartient à 
 
 ###### Article D1321-12
 
-Un officier de l'armée de terre assure les fonctions d'adjoint militaire du directeur de la sécurité civile et de commandant
-des formations militaires de la sécurité civile.
+Un officier de l'armée de terre assure les fonctions d'adjoint militaire du directeur général de la sécurité civile et de la
+gestion des crises et de commandant des formations militaires de la sécurité civile.
 
 **Liens relatifs à cet article**
 
@@ -28606,7 +28602,7 @@ des formations militaires de la sécurité civile.
 
 	**Modifié par**:
 
-	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (M)
+	  - Décret n°2011-988 du 23 août 2011 - art. 6
 
 
 ###### Article D1321-13

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-09-16
+Version Consolidée au 2011-10-23
 
 # Partie législative
 
@@ -81857,9 +81857,10 @@ Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire
 relève du chef d'état-major concerné. A la direction générale de l'armement, cet enseignement relève du délégué général pour
 l'armement. 
 
-Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central
-du service des essences des armées et, pour la justice militaire, le directeur des affaires juridiques peuvent être chargés
-de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation rattachée.
+Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées,        le directeur
+central du service des essences des armées, le directeur central du service d'infrastructure de la défense et, pour la
+justice militaire, le directeur des affaires juridiques peuvent être chargés de diriger l'enseignement conduisant à
+l'acquisition de certains diplômes ou brevets propres à leur formation rattachée. 
 
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du
 deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
@@ -81868,15 +81869,15 @@ deuxième degré sont placés sous l'autorité directe du chef d'état-major des
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2011-1329 du 20 octobre 2011 - art. 1
 
 
 ###### Article D4152-5
 
 Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
-désignés par le chef d'état-major de l'armée concernée.A la     direction générale de l'armement, dans la gendarmerie
-nationale, le service de santé des armées, le service des essences des armées et la justice militaire, ils sont désignés par
-le délégué ou le directeur concerné. 
+désignés par le chef d'état-major de l'armée concernée. A la direction générale de l'armement, dans la gendarmerie nationale,
+le service de santé des armées,     le service des essences des armées, le service d'infrastructure de la défense et la
+justice militaire, ils sont désignés par le délégué ou le directeur concerné. 
 
 Ces désignations sont effectuées : 
 
@@ -81901,7 +81902,7 @@ Des officiers étrangers peuvent être admis à suivre l'enseignement militaire 
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2011-1329 du 20 octobre 2011 - art. 2
 
 	**Cité par**:
 
@@ -81989,10 +81990,9 @@ l'enseignement militaire supérieur et à celle des parcours de formation depuis
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
 cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ; 
 
-3° Prépare les officiers supérieurs des forces armées, de la direction générale de l'armement et de la justice militaire à
-exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
-interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique
-de défense et de sécurité ; 
+3° Prépare les officiers supérieurs des forces armées,            et des formations rattachées à exercer des responsabilités
+d'état-major, de commandement et de direction au sein de ces entités, des états-majors interarmées ou interalliés, des
+organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique de défense et de sécurité ; 
 
 4° Contribue au développement et au rayonnement des études et de la recherche en matière de défense et de sécurité
 nationale ; 
@@ -82008,7 +82008,7 @@ national et international dans les domaines de la défense et de la sécurité n
 
 	**Modifié par**:
 
-	  - Décret n°2010-1220 du 15 octobre 2010 - art. 1
+	  - Décret n°2011-1329 du 20 octobre 2011 - art. 3
 
 
 ###### Article D4152-10

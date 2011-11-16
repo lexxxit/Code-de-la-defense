@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-10-23
+Version Consolidée au 2011-11-17
 
 # Partie législative
 
@@ -79075,9 +79075,16 @@ sein des administrations de l'Etat, définit la nature et le niveau des activit�
 d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de
 l'évaluation desdites activités ; 
 
-6° Auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des travaux de recherche d'intérêt national entrant
-dans le cadre fixé par le comité interministériel de la recherche scientifique et technique, ou pour assurer le
+6° a) Auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des travaux de recherche d'intérêt national
+entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique, ou pour assurer le
 développement, dans le domaine industriel et commercial, de recherches de même nature ; 
+
+b) Lorsqu'il exerce une activité du ministère de la défense confiée à une entreprise liée à ce ministère par un contrat passé
+en application du code des marchés publics, un contrat passé par un établissement public placé sous sa tutelle en application
+de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non
+soumises au code des marchés publics, un contrat soumis à l'ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de
+partenariat ou un contrat de délégation de service public, auprès de cette entreprise, dénommée ci-après organisme d'accueil,
+dès lors que ce contrat avec cet organisme d'accueil s'inscrit dans le cadre d'un transfert d'activités. 
 
 7° Pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi permanent de
 l'Etat, d'une collectivité territoriale ou d'un établissement public à caractère administratif dépendant de l'Etat ou d'une
@@ -79087,11 +79094,9 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 	**Cite**:
 
-	  - Décret n°2005-54 du 27 janvier 2005
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 33
+	  - Ordonnance n°2004-559 du 17 juin 2004 (V)
+	  - Décret n°2005-54 du 27 janvier 2005 (V)
+	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
 
 	**Cité par**:
 
@@ -79104,13 +79109,19 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 	  - Code de la défense. - art. R4138-44 (V)
 	  - Code de la défense. - art. R4138-76 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1517 du 14 novembre 2011 - art. 1
+
 
 ###### Article R4138-36
 
 La mise en détachement prévue à l'article R. 4138-35 est prononcée par arrêté du ministre de la défense, ou du ministre de
 l'intérieur pour les militaires de la gendarmerie nationale et, le cas échéant, du ministre intéressé, pour une durée
 maximale de cinq ans renouvelable, sur demande ou d'office. Cet arrêté précise la nature, la durée et le lieu d'exercice des
-fonctions. 
+fonctions. Si, au plus tard trois mois avant la fin de son détachement prononcé au titre du b du 6° de l'article R. 4318-35,
+le militaire n'a pas formulé sa demande de réintégration, le détachement est tacitement renouvelé pour une durée identique à
+celle du détachement initial dans la limite de la durée du contrat mentionné au b du 6 de l'article R. 4138-35. 
 
 Le détachement ne peut être prononcé d'office qu'après l'avis d'une commission, présidée par un officier général de l'armée
 ou de la formation rattachée à laquelle appartient le militaire intéressé et comprenant deux militaires si possible du même
@@ -79123,7 +79134,7 @@ les militaires de la gendarmerie nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 34
+	  - Décret n°2011-1517 du 14 novembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -79304,13 +79315,35 @@ l'administration dont il est détaché.
 ###### Article R4138-44
 
 A l'expiration du détachement, le militaire est réintégré dans son corps d'origine par arrêté du ministre de la défense, ou
-du ministre de l'intérieur pour les militaires de la gendarmerie nationale.
+du ministre de l'intérieur pour les militaires de la gendarmerie nationale. 
+
+Au terme du contrat mentionné au b du 6° de l'article R. 4138-35, le militaire est réintégré de plein droit dans son corps
+d'origine par arrêté du ministre de la défense. 
+
+Il peut être mis fin au détachement prévu au b du 6° de l'article R. 4138-35 avant le terme fixé par l'arrêté l'ayant
+prononcé, à la demande soit de l'organisme d'accueil, soit de l'administration d'origine, dans les conditions suivantes : 
+
+1° Lorsqu'il est mis fin au détachement à la demande de l'organisme d'accueil, le militaire continue, si son administration
+d'origine ne peut le réintégrer immédiatement, à être rémunéré par l'organisme d'accueil jusqu'à ce qu'il soit réintégré, à
+la première vacance venant à s'ouvrir dans son corps d'origine ; 
+
+2° Lorsqu'il est mis fin au détachement à la demande de l'administration d'origine, le militaire est réintégré dans son corps
+d'origine, au besoin en surnombre des effectifs du corps. 
+
+Le militaire peut également demander à ce qu'il soit mis fin au détachement prévu au b du 6° de l'article R. 4138-35 avant le
+terme fixé par l'arrêté l'ayant prononcé. Si son administration d'origine ne peut le réintégrer immédiatement, il est placé
+en congé pour convenances personnelles non rémunéré jusqu'à ce qu'intervienne sa réintégration dans un emploi de son grade
+qui doit être effective dans un délai maximum de trois mois à compter de la demande de réintégration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 36
+	  - Décret n°2011-1517 du 14 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4138-35 (V)
 
 
 #####  Section 3 : Hors cadres

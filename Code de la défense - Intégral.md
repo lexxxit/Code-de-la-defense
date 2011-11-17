@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-11-17
+Version Consolidée au 2011-11-18
 
 # Partie législative
 
@@ -31341,6 +31341,266 @@ gendarmerie, ainsi que le ministre compétent.
 	  - Code de la défense. - art. R1651-3 (VT)
 
 
+##### Section 1 bis : Gestion patrimoniale des matières nucléaires nécessaires à la défense
+
+###### Article D1333-23
+
+La liste des installations ou parties d'installations dans lesquelles sont détenus simultanément ou successivement un ou
+plusieurs articles et lots de matières nucléaires nécessaires à la défense et un ou plusieurs articles et lots de matières
+nucléaires qui ne le sont pas est établie par le Premier ministre, sur proposition du ministre de la défense et après avis
+des ministres chargés de l'industrie et de l'énergie. Elle n'est pas publiée. 
+
+Cette liste précise celles de ces installations ou parties d'installations, dénommées "installations mixtes”, dans lesquelles
+sont détenus simultanément ou successivement un ou plusieurs articles et lots mentionnés au 1° de l'article R. * 1333-21 et
+un ou plusieurs articles et lots des matières fissiles spéciales et matières brutes définies à l'article 197 du traité
+instituant la Communauté européenne de l'énergie atomique soumises au contrôle de sécurité d'Euratom. 
+
+Le directeur des applications militaires du Commissariat à l'énergie atomique et aux énergies alternatives, agissant par
+délégation de l'administrateur général, informe, dans les conditions fixées par le ministre de la défense, chaque exploitant
+de l'inscription sur la liste mentionnée au premier alinéa des installations ou parties d'installations que ce dernier
+exploite. 
+
+Lorsque les installations de la liste sont également des "installations mixtes”, cette information est effectuée par le
+comité technique Euratom. 
+
+Le comité technique Euratom communique à la Commission européenne la liste des "installations mixtes”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1333-28 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-21
+
+
+###### Article D1333-24
+
+La comptabilité centralisée des matières nucléaires détenues dans les installations qui ne sont pas placées directement sous
+l'autorité du ministre de la défense, tenue, au titre des dispositions des articles R. 1333-1 et suivants, par l'Institut de
+radioprotection et de sûreté nucléaire, distingue, sous le contrôle du ministre chargé de l'énergie, les matières nucléaires
+nécessaires à la défense de celles qui ne le sont pas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1333-28 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-1
+
+
+###### Article D1333-25
+
+Dans les conditions fixées par le ministre de la défense, le directeur des applications militaires du Commissariat à
+l'énergie atomique et aux énergies alternatives agissant par délégation de l'administrateur général : 
+
+1° Centralise les informations nécessaires à la gestion patrimoniale des matières nucléaires nécessaires à la défense. Ces
+informations sont transmises au directeur des applications militaires du Commissariat à l'énergie atomique et aux énergies
+alternatives, selon des modalités fixées par ce dernier, par les exploitants d'installations dans lesquelles sont détenues
+des matières nucléaires nécessaires à la défense ; 
+
+2° Décide des quantités d'uranium naturel et de thorium importées en France qui ne sont pas soumises au contrôle de sécurité
+d'Euratom ; 
+
+3° Décide des articles et des lots des matières nucléaires acquises pour le compte du ministre de la défense qui doivent
+faire l'objet de transferts entre activités soumises ou non au contrôle de sécurité d'Euratom ; 
+
+4° Notifie les décisions mentionnées aux 2° et 3° aux exploitants concernés. Dans le cas mentionné à l'article D. 1333-26, il
+les notifie également au comité technique Euratom et à l'Institut de radioprotection et de sûreté nucléaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. D1333-26
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1333-28 (V)
+
+
+###### Article D1333-26
+
+Tout transfert envisagé de matières nucléaires d'une activité soumise au contrôle de sécurité d'Euratom vers une activité non
+soumise à ce contrôle et inversement fait l'objet d'une demande d'autorisation préalable des exploitants. 
+
+Le transfert de matières nucléaires est autorisé par le comité technique Euratom dès lors qu'il respecte les engagements
+internationaux souscrits par la France dans le domaine du nucléaire et que le comité technique Euratom a recueilli l'accord
+du directeur des applications militaires du Commissariat à l'énergie atomique et aux énergies alternatives émis dans les
+conditions fixées par le ministre de la défense. 
+
+Le comité technique Euratom notifie à l'exploitant la décision prise sur sa demande. 
+
+Une copie des autorisations accordées par le comité technique Euratom est adressée au directeur des applications militaires
+du Commissariat à l'énergie atomique et aux énergies alternatives et à l'Institut de radioprotection et de sûreté nucléaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1266 du 23 octobre 2014 - art. (VD)
+	  - Code de la défense. - art. D1333-25 (V)
+
+
+###### Article D1333-28
+
+Le haut commissaire à l'énergie atomique, mentionné à l'article L. 332-4 du code de la recherche, veille à la cohérence de
+l'ensemble des données recueillies au titre de la gestion patrimoniale instituée par la présente section. 
+
+Il dispose, à sa demande, de la liste mentionnée à l'article D. 1333-23, des informations mentionnées à l'article D. 1333-25
+et de celles relatives aux matières nucléaires nécessaires à la défense de la comptabilité tenue par l'Institut de
+radioprotection et de sûreté nucléaire conformément aux dispositions de l'article D. 1333-24. 
+
+Il adresse, au moins une fois par an, des recommandations au Premier ministre et en informe le ministre de la défense et
+l'inspecteur des armements nucléaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la recherche - art. L332-4
+	  - Code de la défense. - art. D1333-23
+	  - Code de la défense. - art. D1333-24
+	  - Code de la défense. - art. D1333-25
+
+
+###### Article R*1333-20
+
+Le Premier ministre est responsable de la gestion patrimoniale des matières nucléaires nécessaires à la défense qui vise à
+garantir : 
+
+1° La prise en compte des besoins de la défense dans les transferts de matières nucléaires entre les activités que ces
+matières soient ou non soumises au contrôle de sécurité d'Euratom ; 
+
+2° La connaissance précise de l'état des stocks des matières nucléaires définies à l'article R. * 333-21 (1) détenues sur le
+territoire national ainsi que celle des installations où ces stocks sont localisés.
+
+**Nota:**
+
+(1) Lire R.* 1333-21.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-512 du 12 mai 1981 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-21 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1333-22 (V)
+
+
+###### Article R*1333-21
+
+Sont des matières nucléaires nécessaires à la défense : 
+
+1° Les articles et les lots de matières fissiles spéciales et de matières brutes définies à l'article 197 du traité
+instituant la Communauté européenne de l'énergie atomique affectés par la France aux besoins de la défense au sens de
+l'article 34 du règlement Euratom du 8 février 2005 et, à ce titre, non soumis au contrôle de sécurité d'Euratom ; 
+
+2° Les articles et les lots de deutérium, de tritium et de lithium 6 désignés par décision du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-512 du 12 mai 1981 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D1333-23 (V)
+	  - Code de la défense. - art. R*1333-20 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-70
+
+
+###### Article R*1333-22
+
+Dans les conditions fixées par la présente section, le ministre de la défense est responsable de l'organisation et de la mise
+en œuvre de la gestion patrimoniale des matières nucléaires nécessaires à la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-512 du 12 mai 1981 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-20
+	  - Code de la défense. - art. R1333-70
+
+
+###### Article R*1333-27
+
+L'inspecteur des armements nucléaires, mentionné à la section 3 du chapitre Ier du titre Ier du livre IV de la présente
+partie du code, est chargé de vérifier la pertinence et la bonne application de l'ensemble des mesures concourant à la
+gestion patrimoniale des matières nucléaires nécessaires à la défense. 
+
+Il rend compte de ses vérifications au Président de la République et en tient informé le Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
+
+
 ##### Section 2 : Installations et systèmes nucléaires de défense
 
 ##### Sous-section 1 : Dispositions générales.
@@ -31576,9 +31836,8 @@ susmentionné.
 
 ###### Article R*1333-41
 
-La création d'une installation nucléaire de base secrète est soumise à autorisation.L'autorisation est délivrée, après avis
-de la commission spéciale des installations nucléaires de base secrètes mentionnée à l'article R. * 1333-54, par décret pris
-sur le rapport du ministre compétent. 
+La création d'une installation nucléaire de base secrète est soumise à autorisation. L'autorisation est délivrée par décret
+pris sur le rapport du ministre compétent. 
 
 Ce décret n'est pas publié, lorsque sa publication serait de nature à compromettre la protection des intérêts de la défense
 nationale. 
@@ -31602,7 +31861,11 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -31610,7 +31873,7 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-54 (V)
+	  - Code de la défense. - art. R*1333-54
 
 
 ###### Article R*1333-42
@@ -31787,8 +32050,8 @@ ou en service.
 Lorsqu'une installation individuelle est créée postérieurement au décret d'autorisation de création de l'installation
 nucléaire de base secrète en respectant les prescriptions générales, sont transmis au délégué : 
 
-1° Six mois au moins avant le début de la construction, les rapports préliminaires de sûreté prévus au troisième alinéa de
-l'article R. * 1333-42 ; 
+1° Six mois au moins avant le début de la construction, les rapports préliminaires de sûreté prévus au 3° de l'article R. *
+1333-43 ; 
 
 2° Une mise à jour du dossier mentionné à l'article R. * 1333-43.
 
@@ -31799,17 +32062,20 @@ fixe les délais dans lesquels les installations individuelles doivent être mis
 
 	**Anciens textes**:
 
-	  - Décret n°2001-592 2001-07-05 art. 10 al. 9 à 13
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-42 (V)
-	  - Code de la défense. - art. R*1333-43 (V)
+	  - Code de la défense. - art. R*1333-42
+	  - Code de la défense. - art. R*1333-43
 
 	**Cité par**:
 
@@ -36162,7 +36428,7 @@ dispositions prévues aux articles 413-9 et suivants du même code, réprimant l
 
 ###### Article R*1412-5
 
-Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1411-7 à R. * 1411-9 portent sur : 
+Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1412-1 à R. * 1412-3 portent sur : 
 
 1° Le respect de la réglementation de sûreté nucléaire applicable aux installations et activités nucléaires et des
 prescriptions contenues dans les autorisations de création ou imposées ultérieurement pour le maintien de la sûreté
@@ -36178,13 +36444,17 @@ services de l'Etat compétents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 2
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code de la défense. - art. R*1411-11 (T)
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1412-1 (Ab)
 
 
 ###### Article R*1412-6
@@ -36198,20 +36468,26 @@ relatifs à l'eau. La décision précise les catégories d'installations, d'équ
 nature des inspections à entreprendre. 
 
 Les inspecteurs peuvent être associés aux travaux des commissions techniques de sûreté nucléaire mentionnées à l'article R. *
-1411-10. 
+1412-3. 
 
 Ils portent à la connaissance du délégué tout fait susceptible de mettre en cause la sûreté nucléaire et la radioprotection
 de ces installations ou activités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
+	  - Décret n°2011-1537 du 16 novembre 2011 - art. 2
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code de la défense. - art. R*1411-12 (T)
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-47
+	  - Code du travail - art. R1412-3
+	  - Code de la santé publique - art. L1333-18
 
 
 #### TITRE II : DÉFENSE OPÉRATIONNELLE DU TERRITOIRE

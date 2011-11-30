@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-11-18
+Version Consolidée au 2011-12-01
 
 # Partie législative
 
@@ -7020,9 +7020,11 @@ classification ne relèvent pas des seules autorités françaises.
 L'avis de la Commission consultative du secret de la défense nationale est rendu à la suite de la demande d'une juridiction
 française.
 
-Le président de la Commission consultative du secret de la défense nationale, ou son représentant, membre de la commission,
-est chargé de donner, à la suite d'une demande d'un magistrat, un avis sur la déclassification temporaire aux fins de
-perquisition de lieux ayant fait l'objet d'une classification.
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 2312-1, alinéa 3, du code de la défense. La déclaration d'inconstitutionnalité prend effet le
+1er décembre 2011 dans les conditions fixées au considérant 38.
 
 **Liens relatifs à cet article**
 
@@ -7032,7 +7034,7 @@ perquisition de lieux ayant fait l'objet d'une classification.
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 	**Cite**:
 
@@ -7111,22 +7113,19 @@ la classification.
 
 Cette demande est motivée.
 
-L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale. 
+L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale.
 
-Un magistrat, dans le cadre d'une procédure engagée devant lui, peut demander la déclassification temporaire aux fins de
-perquisition de lieux protégés au titre du secret de la défense nationale au président de la commission. Celui-ci est saisi
-et fait connaître son avis à l'autorité administrative en charge de la classification dans les conditions prévues par
-l'article 56-4 du code de procédure pénale.
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 2312-4, alinéa 4, du code de la défense. La déclaration d'inconstitutionnalité prend effet le
+1er décembre 2011 dans les conditions fixées au considérant 38.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°98-567 du 8 juillet 1998 - art. 4 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
 
 	**Cité par**:
 
@@ -7136,13 +7135,16 @@ l'article 56-4 du code de procédure pénale.
 	  - Code de procédure pénale - art. 230-2 (V)
 	  - Code de procédure pénale - art. 56-4 (VD)
 
+	**Modifié par**:
+
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
+
 
 ###### Article L2312-5
 
 Le président de la commission peut mener toutes investigations utiles. 
 
-Les membres de la commission sont autorisés à connaître de toute information classifiée et d'accéder à tout lieu classifié
-dans le cadre de leur mission. 
+Les membres de la commission sont autorisés à connaître de toute information classifiée dans le cadre de leur mission. 
 
 Ils sont astreints au respect du secret de la défense nationale protégé en application des articles 413-9 et suivants du code
 pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissance à raison de leurs fonctions. 
@@ -7154,6 +7156,13 @@ l'autorité administrative par la commission lors de la transmission de son avis
 
 La commission établit son règlement intérieur.
 
+**Nota:**
+
+Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
+la Constitution les mots " et d'accéder à tout lieu classifié " figurant au deuxième alinéa de l'article L. 2312-5 du code de
+la défense. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans les conditions fixées au considérant
+38.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -7162,7 +7171,7 @@ La commission établit son règlement intérieur.
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
+	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
 
 	**Cite**:
 
@@ -7215,33 +7224,6 @@ L'avis de la commission est transmis à l'autorité administrative ayant procéd
 
 	  - Code de la défense. - art. L2312-7-1 (VT)
 	  - Code de la défense. - art. L2312-8 (M)
-
-
-###### Article L2312-7-1
-
-L'avis du président de la Commission consultative du secret de la défense nationale sur la déclassification d'un lieu aux
-fins de perquisition, dont le sens peut être favorable, favorable à la déclassification partielle ou défavorable, prend en
-considération les éléments mentionnés au premier alinéa de l'article L. 2312-7.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 2312-7-1 du code de la défense. La déclaration d'inconstitutionnalité prend effet le 1er
-décembre 2011 dans les conditions fixées au considérant 38.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 13
-
-	**Abrogé par**:
-
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2312-7
 
 
 ###### Article L2312-8
@@ -44955,19 +44937,41 @@ Chaque ministre peut déléguer par arrêté au préfet territorialement compét
 connaître des informations couvertes par le secret de la défense nationale des agents de son département ministériel placés
 sous l'autorité du préfet et des personnes employées dans des organismes relevant de ses attributions.
 
-Le ministre de la défense peut déléguer par arrêté la signature des décisions d'habilitation à connaître des informations
-couvertes par le secret de la défense nationale aux autorités relevant de son département ministériel, pour les personnels
-placés sous l'autorité de celles-ci.
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2011-1657 du 28 novembre 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1657 du 28 novembre 2011 - art. 1
+
+
+###### Article R2311-8-2
+
+Le ministre de la défense peut déléguer, par arrêté, ses pouvoirs en matière de décisions d'habilitation à connaître des
+informations et supports couverts par le secret de la défense nationale aux autorités suivantes relevant de son département
+ministériel :
+
+1° Les chefs d'état-major ;
+
+2° Le secrétaire général pour l'administration, les directeurs généraux, les directeurs et chefs de service d'administration
+centrale ;
+
+3° Le chef du contrôle général des armées et les membres des corps d'inspection directement rattachés au ministre ;
+
+4° Les commandants des formations, les commandants organiques et opérationnels des forces et interarmées, les commandants des
+formations administratives ou des organismes administrés comme tels, ainsi que les directeurs ou chefs des organismes
+n'appartenant pas à l'administration centrale du ministère de la défense.
+
+Les délégataires mentionnés aux 1° à 4° peuvent déléguer leur signature à leurs subordonnés.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2010-678 du 21 juin 2010 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2011-1657 du 28 novembre 2011 (V)
+	  - Décret n°2011-1657 du 28 novembre 2011 - art. 1
 
 
 ###### Article R2311-9
@@ -45036,108 +45040,6 @@ lieu dans lequel il souhaite effectuer une perquisition figure sur cette liste.
 	**Cite**:
 
 	  - Code de procédure pénale - art. 56-4
-
-
-##### Section 3 : Lieux faisant l'objet d'une classification au titre du secret de la défense nationale
-
-###### Article R2311-9-2
-
-Les lieux auxquels il ne peut être accédé sans que, à raison des installations ou des activités qu'ils abritent, cet accès
-donne par lui-même connaissance d'un secret de la défense nationale sont dénommés, dans la présente section, "lieux
-classifiés".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-678 du 21 juin 2010 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
-
-
-###### Article R2311-9-3
-
-La décision de classification d'un lieu est prise, pour une durée de cinq ans, par arrêté du Premier ministre, pris sur
-proposition des ministres concernés et après avis motivé de la Commission consultative du secret de la défense nationale.
-Elle est renouvelable.
-
-L'arrêté est publié au Journal officiel. Une annexe classifiée identifie et délimite précisément les lieux concernés. Cette
-annexe ainsi que l'avis, tant son sens que ses motifs, de la Commission consultative du secret de la défense nationale la
-concernant ne sont pas publiés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-678 du 21 juin 2010 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R2311-9-4 (Ab)
-
-
-###### Article R2311-9-4
-
-L'arrêté mentionné à l'article R. 2311-9-3 et son annexe sont communiqués au président de la Commission consultative du
-secret de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-678 du 21 juin 2010 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. R2311-9-3
-
-
-###### Article R2311-9-5
-
-Nul ne peut être qualifié pour accéder à un lieu classifié s'il n'y a pas été au préalable autorisé par le chef
-d'établissement ou son délégué et s'il n'est qualifié pour connaître des secrets de la défense nationale auxquels l'accès aux
-lieux donne par lui-même connaissance.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-678 du 21 juin 2010 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
-
-
-###### Article R2311-9-6
-
-Les lieux classifiés sont inclus dans des zones protégées au sens de l'article 413-7 du code pénal. Le Premier ministre
-détermine les modalités d'organisation de la protection des lieux classifiés, notamment les mesures visant à prévenir l'accès
-des personnes non qualifiées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-678 du 21 juin 2010 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1691 du 30 novembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code pénal - art. 413-7
 
 
 ##### Section 4 : Le secrétaire général de la défense et de la sécurité nationale

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-12-01
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -46335,10 +46335,17 @@ chimiques toxiques et précurseurs) du tableau 3.
 Les seuils de concentration des mélanges en dessous desquels ne sont pas soumises à déclaration annuelle les importations et
 les exportations sont les suivants :
 
-I. ― Les mélanges contenant des produits du tableau 2 :
+I. - Les mélanges contenant des produits du tableau 2 : 
 
-Pour tous les mélanges contenant un produit du tableau 2, le seuil de concentration de ce produit en dessous duquel ne sont
-pas soumises à déclarations annuelles les importations et les exportations est fixé à 30 %.
+Produits du tableau 2A/ 2A* : 
+
+Pour tous les mélanges contenant un produit du tableau 2A/ 2A*, le seuil de concentration de ce produit en dessous duquel ne
+sont pas soumises à déclaration annuelle les importations et les exportations est fixé à 1 %. 
+
+Produits du tableau 2B : 
+
+Pour tous les mélanges contenant un produit du tableau 2B, le seuil de concentration de ce produit en dessous duquel ne sont
+pas soumises à déclaration les importations et les exportations est fixé à 30 %. 
 
 II. ― Les mélanges contenant des produits du tableau 3 :
 
@@ -46347,9 +46354,9 @@ pas soumises à déclarations annuelles les importations et les exportations est
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2011-1995 du 27 décembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -46407,11 +46414,21 @@ fluor, le seuil de déclaration annuelle par produit et par usine est fixé à 3
 Les seuils de concentration des mélanges en dessous desquels ne sont pas soumis à déclaration annuelle la fabrication, le
 traitement, la consommation et les installations sont les suivants :
 
-I. ― Les mélanges contenant des produits du tableau 2 :
+I. - Les mélanges contenant des produits du tableau 2 : 
 
-Pour tous les mélanges contenant un produit du tableau 2 ainsi que les installations dans lesquelles sont fabriqués, traités
+Produits du tableau 2A/ 2A* : 
+
+Pour tous les mélanges contenant un produit du tableau 2A/ 2A* ainsi que les installations dans lesquelles sont fabriqués,
+traités ou consommés uniquement ces mélanges, le seuil de concentration de ce produit en dessous duquel ne sont pas soumis à
+déclaration la fabrication, le traitement et la consommation est fixé à 1 %. Toutefois, si la quantité globale fabriquée,
+traitée ou consommée est inférieure à 10 kg pour les produits du tableau 2A* et 1 tonne pour les produits du tableau 2A, il
+n'est également pas requis de déclaration pour les mélanges dont la concentration est inférieure ou égale à 10 %. 
+
+Produits du tableau 2B : 
+
+Pour tous les mélanges contenant un produit du tableau 2B ainsi que les installations dans lesquelles sont fabriqués, traités
 ou consommés uniquement ces mélanges, le seuil de concentration de ce produit en dessous duquel ne sont pas soumis à
-déclaration la fabrication, le traitement et la consommation est fixé à 30 %.
+déclaration la fabrication, le traitement et la consommation est fixé à 30 %. 
 
 II. ― Les mélanges contenant des produits du tableau 3 :
 
@@ -46419,17 +46436,11 @@ Pour tous les mélanges contenant un produit du tableau 3 ainsi que les installa
 uniquement ces mélanges, le seuil de concentration de ce produit en dessous duquel n'est pas soumise à déclaration la
 fabrication est fixé à 30 %.
 
-III. ― Les mélanges contenant des produits chimiques organiques définis :
-
-Pour tous les mélanges contenant un produit chimique organique défini non inscrit sur l'un des trois tableaux, le seuil de
-concentration de ce produit en dessous duquel ne sont pas soumises à déclaration les installations dans lesquelles les
-mélanges sont fabriqués par synthèse uniquement est fixé à 70 %.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2011-1995 du 27 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -58778,19 +58789,22 @@ commissaires.
 
 Il est chargé de définir les besoins en formation du personnel qui lui est affecté. Il contribue à la définition des
 objectifs et modalités de formation et d'emploi du personnel des armées et des services de soutien dans les domaines de
-l'administration générale et des soutiens communs.
+l'administration générale et des soutiens communs. 
+
+Le service du commissariat des armées assure également la gestion et l'administration des aumôniers militaires d'active et de
+réserve ainsi que des aumôniers civils de la défense.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2009 - art. 4 (Ab)
 	  - Arrêté du 7 juin 2011 (Ab)
 	  - Décret n°2011-1983 du 28 décembre 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1983 du 28 décembre 2011 - art. 1
 
 
 ###### Article R3232-10

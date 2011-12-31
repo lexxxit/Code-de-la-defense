@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -56057,9 +56057,9 @@ humaines de l'armée de terre ;
 stationnées dans la région terre, sous réserve des compétences de la direction des ressources humaines de l'armée de terre ; 
 
 19° Gestion et administration du personnel civil des services déconcentrés dans les conditions fixées par le décret n°
-2000-1048 du 24 octobre 2000 autorisant le ministre de la défense à déléguer certains de ses pouvoirs en matière
-d'administration et de gestion des personnels civils des services déconcentrés, sous réserve des compétences de la direction
-des ressources humaines du ministère de la défense ; 
+2011-1864 du 12 décembre 2011 autorisant le ministre de la défense et des anciens combattants à déléguer certains de ses
+pouvoirs en matière d'administration et de gestion du personnel civil du ministère de la défense, sous réserve des
+compétences de la direction des ressources humaines du ministère de la défense ; 
 
 20° Recrutement, sous réserve des compétences de la direction des ressources humaines de l'armée de terre ; 
 
@@ -56088,12 +56088,12 @@ affaires juridiques ;
 
 	**Cite**:
 
-	  - Décret n°2000-1048 du 24 octobre 2000
+	  - Décret n°2011-1864 du 12 décembre 2011 (V)
 	  - Code de la défense. - art. R*1212-1
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - Décret n°2011-1864 du 12 décembre 2011 - art. 6 (VD)
 
 	**Cité par**:
 
@@ -70898,14 +70898,31 @@ d'avance.
 ###### Article D4121-3
 
 Les militaires participent à la prise des décisions relatives à la vie courante de leur formation par l'intermédiaire de
-commissions dont les membres sont désignés dans les conditions fixées par le règlement de service intérieur de chacune des
-armées et formations rattachées.
+commissions dont les membres sont désignés dans les conditions fixées             par arrêté du ministre de la défense et,
+pour la gendarmerie nationale, du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-2053 du 30 décembre 2011 - art. 1
+
+
+###### Article D4121-3-1
+
+Le personnel militaire est représenté auprès du commandement par des militaires désignés au sein des formations. Les
+modalités de leur désignation, leur appellation et leurs attributions sont fixées par arrêté du ministre de la défense et,
+pour la gendarmerie nationale, du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2053 du 30 décembre 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3411-95 (VD)
 
 
 ###### Article D4121-4
@@ -73112,22 +73129,24 @@ militaires des armées et formations rattachées.
 
 Il exprime son avis : 
 
-1° Sur les questions, mentionnées à l'article L. 4124-1, dont il est saisi par le ministre de la défense ou qui sont
-inscrites à l'ordre du jour d'une session sur proposition de ses membres ; 
+1° Sur les questions à caractère général relatives à la condition militaire dont il est saisi par le ministre de la défense
+ou qui sont inscrites à l'ordre du jour d'une session sur proposition de ses membres, et qui concernent l'attractivité et les
+conditions d'exercice du métier militaire, les conditions de vie des militaires et de leurs familles, les conditions
+d'organisation du travail des militaires, la fidélisation et les conditions de leur reconversion ;
 
 2° Sur les projets de décrets portant statut particulier des militaires mentionnés à l'article L. 4111-2, ainsi que les
 projets de décrets comportant des dispositions statutaires communes à plusieurs corps ou catégories de militaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-2 (V)
-	  - Code de la défense. - art. L4124-1 (V)
+	  - Code de la défense. - art. L4111-2
+	  - Code de la défense. - art. L4124-1
 
 	**Cité par**:
 
@@ -73219,11 +73238,17 @@ militaire.
 Le ministre peut déléguer sa signature au secrétaire général pour les besoins du fonctionnement du Conseil supérieur de la
 fonction militaire.
 
+Le secrétaire général du Conseil supérieur de la fonction militaire est assisté d'un adjoint, nommé par le ministre de la
+défense, qui le supplée en cas d'absence ou d'empêchement. 
+
+L'adjoint du secrétaire général peut recevoir délégation de signature du ministre en cas d'absence ou d'empêchement du
+secrétaire général.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 3
 
 
 ###### Article R4124-5
@@ -73280,11 +73305,18 @@ Conseil supérieur de la fonction militaire.
 En outre, ils ont vocation à étudier toute question relative à leur armée ou formation rattachée concernant les conditions de
 vie, d'exercice du métier militaire ou d'organisation du travail.
 
+Les conseils de la fonction militaire peuvent, le cas échéant, étudier ces mêmes questions lorsque celles-ci concernent des
+militaires qui, étant représentés au sein de ces conseils : 
+
+1° Sont affectés hors de leur armée ou formation rattachée d'appartenance ; 
+
+2° Sont gérés par une formation rattachée ne disposant pas d'un conseil.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 4
 
 
 ###### Article R4124-8
@@ -73312,19 +73344,24 @@ respectivement les vice-présidents. Ils en assurent la présidence effective à
 
 Un arrêté du ministre de la défense fixe la composition des conseils de la fonction militaire en tenant compte des effectifs
 répartis par catégories telles que définies à l'article R. 4124-2 et, pour chaque catégorie, selon la nature du lien au
-service, et, si nécessaire, selon le grade et le ressort géographique des militaires. Les membres sont nommés pour quatre ans
-par arrêté du ministre de la défense. Pour les militaires inscrits au tableau d'avancement, le grade pris en considération
-est leur futur grade.
+service, et, si nécessaire, selon le grade, le ressort géographique des militaires ou leur affectation hors de leur armée ou
+formation rattachée d'appartenance. 
+
+La composition retenue peut être différente au sein de chacun des conseils de la fonction militaire afin de tenir compte de
+la spécificité de chaque armée ou formation rattachée.
+
+Les membres sont nommés pour quatre ans par arrêté du ministre de la défense. Pour les militaires inscrits au tableau
+d'avancement, le grade pris en considération est leur futur grade.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4124-2 (V)
+	  - Code de la défense. - art. R4124-2
 
 
 ###### Article R4124-10
@@ -73333,8 +73370,8 @@ Les membres titulaires des conseils de la fonction militaire et les suppléants 
 les militaires ayant fait acte de volontariat au sein d'une population déterminée pour chaque armée ou formation rattachée,
 selon des modalités fixées par arrêté du ministre de la défense.
 
-Ne peuvent se porter volontaires les membres du corps militaire du contrôle général des armées, les officiers généraux et les
-volontaires dans les armées.
+Ne peuvent se porter volontaires les membres du corps militaire du contrôle général des armées, les officiers généraux, les
+secrétaires généraux des conseils mentionnés au présent chapitre, leurs adjoints et les volontaires dans les armées.
 
 Le renouvellement des membres intervient par moitié tous les deux ans, conformément à une répartition en deux groupes fixée
 par arrêté du ministre de la défense.
@@ -73343,9 +73380,9 @@ Les membres reçoivent une formation spécifique en vue de l'accomplissement de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 6
 
 	**Cité par**:
 
@@ -73386,8 +73423,8 @@ au moins avant la date prévue pour le tirage au sort. Cette date est fixée par
 ###### Article R4124-12
 
 Chaque conseil de la fonction militaire dispose d'un secrétariat permanent dirigé par un secrétaire général, officier
-supérieur, désigné par le ministre de la défense.  Le secrétaire général du conseil de la fonction militaire de la
-gendarmerie nationale est désigné par le ministre de la défense sur proposition du ministre de l'intérieur. 
+supérieur, désigné par le ministre de la défense. Le secrétaire général du conseil de la fonction militaire de la gendarmerie
+nationale est désigné par le ministre de la défense sur proposition du ministre de l'intérieur. 
 
 Le secrétaire général assiste aux sessions, mais ne participe pas aux votes. 
 
@@ -73397,11 +73434,18 @@ l'article R. 4124-8.
 Le ou les ministres intéressés peuvent déléguer leur signature aux secrétaires généraux pour les besoins du fonctionnement
 des conseils de la fonction militaire.
 
+Le secrétaire général de chaque conseil de la fonction militaire peut être assisté d'un adjoint qui le supplée en cas
+d'absence ou d'empêchement. L'adjoint au secrétaire général d'un conseil de la fonction militaire est désigné dans les mêmes
+formes que le secrétaire général. 
+
+L'adjoint du secrétaire général peut recevoir délégation de signature du ministre en cas d'absence ou d'empêchement du
+secrétaire général.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 3
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 7
 
 	**Cite**:
 
@@ -73457,21 +73501,24 @@ appelé à siéger dans l'ordre des résultats du tirage au sort ou de l'électi
 ###### Article R4124-16
 
 Les fonctions des membres, titulaires et suppléants, du Conseil supérieur de la fonction militaire et des conseils de la
-fonction militaire prennent fin dans les conditions suivantes :
+fonction militaire prennent fin dans les conditions suivantes : 
 
-1° Démission sur simple demande ;
+1° Démission sur simple demande adressée directement au secrétaire général du conseil de la fonction militaire
+d'appartenance ; 
 
-2° Placement dans une position statutaire autre que celle d'activité ;
+2° Placement dans une position statutaire autre que celle d'activité ; 
 
-3° Sanction disciplinaire du deuxième ou du troisième groupe ;
+3° Sanction disciplinaire du deuxième ou du troisième groupe ; 
 
-4° Accès à l'état d'officier général, d'officier et de sous-officier ;
+4° Accès à l'état d'officier général, d'officier et de sous-officier ; 
 
 5° Intégration dans un corps d'officiers ou de sous-officiers de carrière ou en cas de changement de corps, d'armée ou de
-formation rattachée ;
+formation rattachée ; 
 
-6° Mutation hors du ressort géographique au titre duquel le membre a été tiré au sort, dans les conseils pour lesquels ce
-critère a été retenu.
+6° Mutation hors du ressort géographique au titre duquel le membre a été tiré au sort, autre que celle résultant d'une
+restructuration, dans les conseils pour lesquels ce critère a été retenu ; 
+
+7° Tirage au sort au titre de l'autre groupe dans les conditions prévues au troisième alinéa de l'article R. 4124-10.
 
 **Liens relatifs à cet article**
 
@@ -73485,9 +73532,13 @@ critère a été retenu.
 	  - Arrêté du 12 août 2016 - art. 2 (V)
 	  - Code de la défense. - art. R4124-16-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4124-10 (V)
 
 
 ###### Article R4124-17
@@ -76331,15 +76382,15 @@ Ne peuvent faire partie d'un conseil de discipline :
 
 3° Les militaires qui ont émis un avis au cours de l'instruction ;
 
-4° Le président de catégorie du comparant ;
+4° Le président de catégorie ou, pour la gendarmerie nationale, le président du personnel militaire du comparant ;
 
 5° Les militaires ayant fait partie d'un conseil de discipline ou d'enquête appelé à connaître de la même affaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 9
 
 
 #####  Sous-section 3 : Constitution du conseil de discipline
@@ -76436,17 +76487,17 @@ A la réception de l'ordre d'envoi, le président du conseil de discipline instr
 conseil a été constitué, communique de nouveau au comparant les pièces et documents au vu desquels il est envisagé de le
 sanctionner et recueille ses observations éventuelles.
 
-Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie, si ce dernier
-le souhaite.
+Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie ou, pour la
+gendarmerie nationale, son président du personnel militaire, si ce dernier le souhaite.
 
 Le président convoque le conseil de discipline et notifie au comparant la date de la réunion qui ne peut avoir lieu avant
 l'expiration d'un délai de deux jours francs à compter de cette notification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 10
 
 
 ###### Article R4137-58
@@ -76762,15 +76813,15 @@ Ne peuvent faire partie d'un conseil d'enquête :
 
 4° Les militaires ayant connu de l'affaire comme magistrat ou comme officier ou agent de police judiciaire ;
 
-5° Le président de catégorie du comparant ;
+5° Le président de catégorie ou, pour la gendarmerie nationale, le président du personnel militaire du comparant ;
 
 6° Les militaires ayant fait partie d'un conseil de discipline ou d'enquête appelé à connaître de la même affaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 9
 
 	**Cité par**:
 
@@ -76948,8 +76999,8 @@ Un exemplaire du procès-verbal est adressé au président du conseil d'enquête
 Au reçu du procès-verbal, le président fixe la date de la réunion du conseil et convoque soit d'office, soit sur la demande
 du comparant, les personnes dont l'audition est utile pour l'examen de l'affaire.
 
-Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie, si ce dernier
-le souhaite.
+Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie ou, pour la
+gendarmerie nationale, son président du personnel militaire si ce dernier le souhaite.
 
 Il notifie la date de la réunion du conseil ainsi que la liste des personnes mentionnées aux deux alinéas précédents au
 comparant de manière que celui-ci dispose, au reçu de cette notification, d'un délai de huit jours francs au moins avant la
@@ -76958,9 +77009,9 @@ le conseil pourra siéger hors de sa présence. Il informe le défenseur de ces 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 10
 
 
 ###### Article R4137-80
@@ -78038,13 +78089,13 @@ Ne peuvent faire partie du conseil :
 
 2° Les militaires auteurs de plainte ou de comptes rendus sur les faits en cause ;
 
-3° Le président de catégorie du comparant.
+3° Le président de catégorie ou, pour la gendarmerie nationale, le président du personnel militaire du comparant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 9
 
 
 ###### Article R4137-127
@@ -78066,17 +78117,17 @@ L'ensemble des pièces et documents au vu desquels il est envisagé de sanctionn
 conseil. Le comparant est avisé qu'il peut en obtenir une communication.
 
 Le comparant peut présenter devant le conseil des observations écrites ou verbales et citer des personnes dont l'audition est
-utile. Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie, si ce
-dernier le souhaite.
+utile. Le président du conseil ne peut refuser la demande du comparant de faire entendre son président de catégorie ou, pour
+la gendarmerie nationale, son président du personnel militaire, si ce dernier le souhaite.
 
 Le conseil peut également entendre des personnes dont l'audition est utile pour les besoins de l'affaire et ordonner une
 enquête complémentaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2011-2051 du 30 décembre 2011 - art. 10
 
 
 ###### Article R4137-129

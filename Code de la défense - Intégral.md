@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-01-07
+Version Consolidée au 2012-02-01
 
 # Partie législative
 
@@ -23129,7 +23129,7 @@ Le président du conseil d'administration est nommé par décret. La durée de s
 ###### Article R1132-21
 
 Le directeur de l'institut est un officier général ou un haut fonctionnaire de rang équivalent nommé par décret. Il est
-assisté de deux directeurs adjoints également nommés par décret. 
+assisté de trois directeurs adjoints également nommés par décret. 
 
 L'un des directeurs adjoints est choisi parmi les hauts fonctionnaires si le directeur est un officier général et parmi les
 officiers généraux si le directeur est un haut fonctionnaire.
@@ -23142,48 +23142,47 @@ officiers généraux si le directeur est un haut fonctionnaire.
 
 	**Modifié par**:
 
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+	  - Décret n°2011-1899 du 19 décembre 2011 - art. 1
 
 
 ###### Article R1132-22
 
-Le conseil d'administration de l'institut comprend, outre son président, vingt-deux membres : 
+Le conseil d'administration de l'institut comprend, outre son président, vingt-deux membres :
 
-1° Le secrétaire général de la défense nationale ; 
+1° Le secrétaire général de la défense nationale ;
 
 2° Un député et un sénateur respectivement désignés par l'assemblée à laquelle ils appartiennent, à chaque renouvellement de
-celle-ci ; 
+celle-ci ;
 
 3° Un membre du Conseil supérieur de la formation et de la recherche stratégiques, désigné par le président de son conseil
-d'administration ; 
+d'administration ;
 
-4° Neuf représentants de l'Etat désignés par le Premier ministre, sur proposition des ministres concernés : 
+4° Dix représentants de l'Etat désignés par le Premier ministre, sur proposition des ministres concernés :
 
-- trois représentants du ministre de la défense ; 
+- quatre représentants du ministre de la défense dont un appartenant à la direction générale de l'armement  ;
 
-- deux représentants du ministre des affaires étrangères ; 
+- deux représentants du ministre des affaires étrangères ;
 
 - un représentant proposé conjointement par les ministres chargés de l'éducation nationale, de l'enseignement supérieur et de
-la recherche ; 
+la recherche ;
 
-- un représentant du ministre de l'intérieur ; 
+- un représentant du ministre de l'intérieur ;
 
-- un représentant du ministre chargé de l'économie ; 
+- un représentant du ministre chargé de l'économie ;
 
-- un représentant du ministre chargé de la fonction publique ; 
+- un représentant du ministre chargé de la fonction publique ;
 
-5° Le directeur de l'Institut national des hautes études de la sécurité et de la justice ; 
+5° Le directeur de l'Institut national des hautes études de la sécurité et de la justice ;
 
-6° Le président de l'Union des associations de l'Institut des hautes études de défense nationale ; 
+6° Le président de l'Union des associations de l'Institut des hautes études de défense nationale ;
 
-7° Un représentant des associations d'auditeurs désigné par le Premier ministre ; 
+7° Un représentant des associations d'auditeurs désigné par le Premier ministre ;
 
-8° Six personnalités qualifiées désignées par le Premier ministre : 
+8° Cinq personnalités qualifiées désignées par le Premier ministre :
 
-- deux militaires dont un des corps relevant de la délégation générale pour l'armement, sur proposition du ministre de la
-défense ; 
+- un militaire sur proposition du ministre de la défense ;
 
-- deux personnalités du monde économique, sur proposition du ministre chargé de l'économie ; 
+- deux personnalités du monde économique, sur proposition du ministre chargé de l'économie ;
 
 - deux auditeurs civils ayant satisfait aux obligations des sessions, sur proposition du secrétaire général de la défense
 nationale et de la sécurité nationale.
@@ -23196,7 +23195,7 @@ nationale et de la sécurité nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+	  - Décret n°2011-1899 du 19 décembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -23413,26 +23412,22 @@ Le procès-verbal est adressé aux membres du conseil d'administration dans le m
 
 ###### Article R1132-31
 
-Les délibérations du conseil d'administration sont exécutoires, à défaut d'approbation expresse par l'autorité de tutelle à
-l'expiration d'un délai de trente jours à compter de la date de réception du procès-verbal.
+Les délibérations du conseil d'administration sont exécutoires à compter de leur approbation expresse ou, à défaut, trente
+jours après réception du procès-verbal par l'autorité de tutelle si elle ne fait pas opposition dans ce délai.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°92-681 du 20 juillet 1992
 
 	**Anciens textes**:
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 20 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2011-1899 du 19 décembre 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1899 du 19 décembre 2011 - art. 1
 
 
 ###### Article R1132-32

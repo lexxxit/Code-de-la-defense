@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-04-05
 
 # Partie législative
 
@@ -49767,8 +49767,9 @@ douanes.
 ###### Article R2352-22
 
 Les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section fixent les conditions
-auxquelles sont soumis le marquage, l'acquisition, la livraison, la détention, le transport et l'emploi des produits
-explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit des produits explosifs. 
+auxquelles sont soumis l'identification et la traçabilité, l'acquisition, la livraison, la détention, le transport et
+l'emploi des produits explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit des produits
+explosifs. 
 
 Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section ne sont pas
 applicables : 
@@ -49778,7 +49779,7 @@ des artifices de divertissement ;
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ; 
 
-3° Aux munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995 relatif à l'application du
+3° Aux munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995relatif à l'application du
 décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
 
 4° Aux produits explosifs, définis par arrêté conjoint du ministre de l'intérieur, du ministre de la défense et du ministre
@@ -49794,7 +49795,11 @@ explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-section
 	**Cite**:
 
 	  - Décret n°95-589 du 6 mai 1995 (V)
-	  - Décret n°2010-455 du 4 mai 2010 (V)
+	  - Décret n°2010-455 du 4 mai 2010 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-502 du 5 mai 2009 - art. 4
 
 	**Cité par**:
 
@@ -49802,10 +49807,6 @@ explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-section
 	  - Arrêté du 29 mai 2009 - art. Annexe II (V)
 	  - Arrêté du 3 mars 1982 - art. 1 (V)
 	  - Code de la défense. - art. R2352-47 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ##### Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation
@@ -50037,21 +50038,22 @@ possède pour ce dépôt ou ce débit une autorisation couvrant la période au c
 devra être effectué. 
 
 2° Qu'un dépositaire ou un débitant remplissant les mêmes conditions a accepté de prendre les produits en consignation pour
-son compte.
+son compte. 
+
+L'autorisation d'importation de produits explosifs d'un pays tiers à l'Union européenne en France et l'autorisation de
+transfert de produits explosifs d'un autre Etat membre vers la France ne peuvent être accordées que si les produits faisant
+l'objet de la demande satisfont aux obligations d'identification et de traçabilité mentionnées à l'article R. 2352-47.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 8-2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2009-502 du 5 mai 2009 - art. 7
 
 	**Cite**:
 
 	  - Code de la défense. - art. R2352-110 (V)
+	  - Code de la défense. - art. R2352-47 (V)
 	  - Code de la défense. - art. R2352-97 (V)
 
 
@@ -50384,18 +50386,43 @@ compétentes, sur leur demande, toutes les informations pertinentes relatives à
 
 ###### Article R2352-47
 
-Tout produit explosif doit faire l'objet d'un marquage dans les conditions prévues par le décret n° 2010-455 du 4 mai 2010.
-Les produits explosifs autres que ceux mentionnés à l'article R. 2352-73 doivent en outre comporter un marquage spécial
-permettant leur identification. Ces marquages sont effectués sur le lieu de la fabrication, sous la responsabilité du
-fabricant. Les produits explosifs importés ou en transit doivent être revêtus de ces marquages au moment de leur introduction
-sur le territoire douanier. 
+I.-Les entreprises qui fabriquent ou importent des produits explosifs apposent une identification unique sur les produits
+explosifs et sur chaque unité élémentaire d'emballage. 
 
-Le marquage doit être reproduit sur l'emballage contenant le produit et doit être suffisant pour permettre l'identification
-de cet emballage jusqu'à son destinataire final.L'obligation de marquage est limitée à l'emballage lorsque le produit, par sa
-consistance ou du fait de ses dimensions réduites, ne se prête pas lui-même à cette opération. 
+Lorsqu'un produit explosif fait l'objet de processus ultérieurs de fabrication, les fabricants ne sont pas tenus d'apposer
+une nouvelle identification unique sur le produit explosif, à moins que l'identification unique originale n'apparaisse plus
+de manière lisible sur l'un au moins des sous-ensembles unitaires du produit. 
 
-Un arrêté conjoint du ministre de l'intérieur, du ministre de la défense, du ministre des transports, du ministre chargé du
-budget et du ministre de l'industrie fixe les modalités techniques des marquages prévus au présent article.
+Les dispositions des deux alinéas précédents ne s'appliquent pas lorsque le produit explosif est fabriqué à des fins
+d'exportation et qu'il comporte une marque d'identification conforme aux exigences du pays d'importation, assurant la
+traçabilité du produit explosif. 
+
+II.-Les entreprises qui fabriquent ou importent des produits explosifs mettent en place un système de traçabilité constitué
+de la collecte de données sur ces produits, y compris leur identification unique tout au long de la chaîne logistique et de
+leur durée de vie. 
+
+Les données collectées, y compris le numéro d'identification unique, sont enregistrées et conservées pendant une période de
+dix ans à compter de la livraison ou de la date d'utilisation ou de destruction du produit explosif, même si l'entreprise
+concernée a mis fin à son activité. 
+
+III.-Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'industrie, du ministre de la défense et du
+ministre chargé des douanes fixe les modalités techniques de l'identification du produit, de la collecte et de la gestion des
+données prévues au présent article. 
+
+IV.-Sans préjudice de l'article R. 2352-22, les dispositions du présent article ne s'appliquent pas : 
+
+a) Aux produits explosifs transportés et livrés hors conditionnement ou en camion pompe pour déchargement direct dans le trou
+de mine ; 
+
+b) Aux produits explosifs qui sont fabriqués sur le site d'emploi et chargés directement après avoir été fabriqués ; 
+
+c) Aux articles pyrotechniques ; 
+
+d) Aux produits explosifs mentionnés aux a et b de l'article 1er-1 du décret n° 90-153 du 16 février 1990 portant diverses
+dispositions relatives au régime des produits explosifs ; 
+
+e) Aux munitions et éléments de munitions des armes qui sont énumérées dans le décret n° 95-589 du 6 mai 1995 modifié relatif
+à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions.
 
 **Liens relatifs à cet article**
 
@@ -50412,12 +50439,12 @@ budget et du ministre de l'industrie fixe les modalités techniques des marquage
 
 	**Cite**:
 
-	  - Décret n°2010-455 du 4 mai 2010
-	  - Code de la défense. - art. R2352-73
+	  - Décret n°90-153 du 16 février 1990 - art. 1-1 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
+	  - Décret n°2009-502 du 5 mai 2009 - art. 2
 
 
 ##### Paragraphe 1 : Produits explosifs soumis au marquage CE
@@ -51775,20 +51802,16 @@ d'autres dispositions législatives ou réglementaires.
 
 ###### Article R2353-2
 
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de ne pas respecter ses obligations
-d'identification et de traçabilité, acquérir ou faire acquérir, livrer ou faire livrer, détenir ou faire détenir, transporter
-ou faire transporter, employer ou faire employer des produits explosifs en violation des prescriptions des articles R.
-2352-47, R. 2352-74 à R. 2352-79 et R. 2352-81 à R. 2352-87.
+Toute personne qui n'aura pas respecté ses obligations d'identification et de traçabilité, qui aura acquis ou fait acquérir,
+qui aura livré ou fait livrer, détenu ou fait détenir, transporté ou fait transporter, employé ou fait employer des produits
+explosifs en violation des prescriptions des articles R. 2352-47, R. 2352-74 à R. 2352-79 et R. 2352-81 à R. 2352-87 du
+présent code sera passible des peines prévues pour les contraventions de 5e classe.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°81-972 du 21 octobre 1981 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2009-502 du 5 mai 2009 - art. 5
 
 	**Cite**:
 

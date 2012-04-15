@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-04-05
+Version Consolidée au 2012-04-16
 
 # Partie législative
 
@@ -60213,19 +60213,20 @@ leur grade.
 ###### Article R3321-1
 
 Le Conseil supérieur interarmées est consulté par le ministre de la défense pour l'avancement aux grades d'officier général
-de chacune des trois armées.
+de chacune des trois armées, du service de santé des armées, du service des essences des armées et du service du commissariat
+des armées. 
 
 Il peut être consulté par le ministre ou le chef d'état-major des armées sur les sujets d'ordre général à caractère
-interarmées ou sur toute autre question, à l'exclusion des questions relatives à l'exercice du pouvoir disciplinaire.
+interarmées ou sur toute autre question, à l'exclusion des questions relatives à l'exercice du pouvoir disciplinaire. 
 
 Le ministre de la défense peut inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de sa
 compétence sur les questions soumises à l'examen du Conseil supérieur interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-481 du 13 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -60249,13 +60250,21 @@ Le Conseil supérieur interarmées, présidé par le ministre de la défense, co
 
 5° L'inspecteur général des armées de chacune des trois armées ;
 
-6° Le major général des armées.
+6° Le major général des armées ;
+
+7° Le directeur central du service de santé des armées ;
+
+8° Le directeur central du service des essences des armées ;
+
+9° Le directeur central du service du commissariat des armées ;
+
+10° L'inspecteur général du service de santé des armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-481 du 13 avril 2012 - art. 2
 
 
 ##### Section 2 : Les conseils supérieurs d'armée
@@ -60326,20 +60335,25 @@ c) Sept pour le Conseil supérieur de l'armée de l'air.
 ###### Article R3322-1
 
 Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense pour l'avancement aux grades
-d'officier général de l'armement, du service de santé des armées, du service des essences des armées. Le Conseil supérieur de
-la gendarmerie nationale est consulté par le ministre de l'intérieur pour l'avancement aux grades d'officier général de la
-gendarmerie nationale
+d'officier général de l'armement et du service d'infrastructure de la défense. Les conseils supérieurs du service de santé
+des armées, du service des essences des armées et du service du commissariat des armées, préparent, pour leur formation
+rattachée, les travaux du Conseil supérieur interarmées pour l'avancement aux grades d'officier général. Le Conseil supérieur
+de la gendarmerie nationale est consulté par le ministre de l'intérieur pour l'avancement aux grades d'officier général de la
+gendarmerie nationale 
 
-Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense, ou le ministre de l'intérieur
-pour le conseil supérieur de la gendarmerie nationale, dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour
-l'application aux officiers généraux de certaines mesures d'ordre individuel. 
+Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense, par le chef d'état-major des
+armées pour les conseils supérieurs du service de santé des armées, du service des essences des armées et du service du
+commissariat des armées, ou le ministre de l'intérieur pour le conseil supérieur de la gendarmerie nationale, dans les cas
+prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures d'ordre
+individuel. 
 
 Les conseils supérieurs de formation rattachée peuvent être consultés par le président, ou les présidents pour le Conseil
 supérieur de la gendarmerie nationale, et les vice-présidents désignés à la section 2 du présent chapitre sur les sujets
-d'ordre général relatifs à leur direction, délégation ou formation rattachée. Dans ce cas, le ministre de la défense, ou pour
-le Conseil supérieur de la gendarmerie nationale le ministre de la défense ou le ministre de l'intérieur, peut inviter à
-siéger à titre consultatif toute personnalité militaire ou civile en raison de sa compétence sur les questions soumises à
-l'examen des conseils supérieurs.
+d'ordre général relatifs à leur direction, délégation ou formation rattachée. Dans ce cas, le ministre de la défense, ou le
+chef d'état-major des armées pour les conseils supérieurs du service de santé des armées, du service des essences des armées
+et du service du commissariat des armées ou pour le Conseil supérieur de la gendarmerie nationale le ministre de la défense
+ou le ministre de l'intérieur, peut inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de
+sa compétence sur les questions soumises à l'examen des conseils supérieurs. 
 
 Les conseils supérieurs de formation rattachée, lorsqu'ils siègent disciplinairement, donnent leur avis pour l'application à
 un officier général de leur formation des sanctions définies au 3° de l'article L. 4137-2 du présent code. Dans ce cas, leur
@@ -60349,25 +60363,32 @@ composition et leur fonctionnement sont régis par les dispositions des articles
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 2
+	  - Décret n°2012-481 du 13 avril 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4141-2
+	  - Code de la défense. - art. L4137-2 (V)
+	  - Code de la défense. - art. L4141-2 (V)
+	  - Code de la défense. - art. R4137-93 (V)
 
 
 ##### Section 2 : Composition
 
 ###### Article R3322-2
 
-Les conseils supérieurs de formation rattachée sont présidés par le   ministre de la défense, à l'exception du Conseil
-supérieur de la gendarmerie nationale, coprésidé par le ministre de la défense et le ministre de l'intérieur.
+Le conseil supérieur de l'armement et le conseil supérieur du service d'infrastructure de la défense sont présidés par le
+ministre de la défense.
+
+Le Conseil supérieur de la gendarmerie nationale est coprésidé par le ministre de la défense et le ministre de l'intérieur.
+
+Les conseils supérieurs du service de santé des armées, du service des essences des armées, et du service du commissariat des
+armées sont présidés par le chef d'état-major des armées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 3
+	  - Décret n°2012-481 du 13 avril 2012 - art. 4
 
 
 ###### Article R3322-3
@@ -60418,9 +60439,9 @@ par arrêté du ministre de la défense sur proposition du délégué général 
 
 Le Conseil supérieur du service de santé des armées comprend :
 
-1° Le chef d'état-major des armées, vice-président ;
+1° Le directeur central du service de santé des armées, vice-président ;
 
-2° Le directeur central du service de santé des armées, membre de droit ;
+2° Le major général des armées, membre de droit ;
 
 3° L'inspecteur général du service de santé des armées, membre de droit ;
 
@@ -60429,27 +60450,77 @@ de chaque année, par arrêté du ministre de la défense sur proposition du dir
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-481 du 13 avril 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3322-6
 
 Le Conseil supérieur du service des essences des armées comprend :
 
-1° Le chef d'état-major des armées, vice-président ;
+1° Le directeur central du service des essences des armées, vice-président ;
 
-2° Le directeur central du service des essences des armées, membre de droit ;
+2° Le major général des armées, membre de droit ;
 
 3° Un officier général du service des essences des armées de la 1re section, désigné pour un an, à compter du 1er juillet de
 chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service des essences des armées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-481 du 13 avril 2012 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+###### Article R3322-7
+
+Le Conseil supérieur du service d'infrastructure de la défense comprend :
+
+1° Le secrétaire général pour l'administration, vice-président ;
+
+2° Le directeur central du service d'infrastructure de la défense, membre de droit ;
+
+3° Un officier général du corps des ingénieurs militaires d'infrastructure de la 1re section, désigné pour un an, à compter
+du 1er juillet de chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service
+d'infrastructure de la défense.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-481 du 13 avril 2012 - art. 7
+
+
+###### Article R3322-8
+
+Le Conseil supérieur du service du commissariat des armées comprend :
+
+1° Le directeur central du service du commissariat des armées, vice-président ;
+
+2° Le major général des armées, membre de droit ;
+
+3° Deux officiers généraux du service du commissariat des armées de la 1re section, désignés pour un an, à compter du 1er
+juillet de chaque année, par arrêté du ministre de la défense, sur proposition du directeur central du service du
+commissariat des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-481 du 13 avril 2012 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ##### Chapitre III : Règles de fonctionnement

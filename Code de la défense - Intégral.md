@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-04-16
+Version Consolidée au 2012-04-18
 
 # Partie législative
 
@@ -30407,6 +30407,98 @@ protection, après avis de la commission mentionnée à l'article R. 1332-10.
 	  - Code de la défense. - art. R1332-10 (V)
 
 
+##### Section 5 : Mesures de protection
+
+##### Sous-section 1 : Plan de sécurité d'opérateur
+
+##### Sous-section 1 bis : Accès aux points d'importance vitale
+
+###### Article R1332-22-1
+
+Avant d'autoriser l'accès d'une personne physique ou morale à tout ou partie d'un point d'importance vitale qu'il gère ou
+utilise, l'opérateur d'importance vitale peut demander par écrit l'avis du préfet de département dans le ressort duquel se
+situe le point d'importance vitale ou, pour les opérateurs d'importance vitale relevant du ministère de la défense, l'avis de
+l'autorité militaire désignée par le chef d'état-major des armées.
+
+Cette demande peut justifier que soit diligentée sous le contrôle de l'autorité concernée une enquête administrative destinée
+à vérifier que les caractéristiques de la personne physique ou morale intéressée ne sont pas incompatibles avec l'accès
+envisagé et pouvant donner lieu à la consultation des traitements automatisés de données personnelles mentionnés à l'article
+26 de la loi n° 78-17 du 6 janvier 1978.
+
+La demande d'avis mentionnée aux alinéas précédents concerne l'accès aux parties des points d'importance vitale déterminées à
+cette fin dans les plans particuliers de protection.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
+	  - Code de la défense. - art. R1332-22-2 (V)
+
+
+###### Article R1332-22-2
+
+La procédure prévue à l'article R. 1332-22-1 ne s'applique pas aux personnes appartenant à l'une des deux catégories
+suivantes : 
+
+1° Celles mentionnées au décret n° 2005-1124 du 6 septembre 2005 pris pour l'application de l'article 17-1 de la loi n° 95-73
+du 21 janvier 1995 et fixant la liste des enquêtes administratives donnant lieu à la consultation des traitements automatisés
+de données personnelles mentionnés à l'article 230-6 du code de procédure pénale, soumises à une obligation d'agrément ou
+d'habilitation par une autorité administrative ou judiciaire ; 
+
+2° Celles dont l'accès au point d'importance vitale fait l'objet, en raison notamment de la nature et de la durée de leur
+visite, de mesures de prévention et de sécurité suffisantes précisées dans le plan particulier de protection.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
+	  - Code de procédure pénale - art. 230-6
+	  - Code de la défense. - art. R1332-22-1
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+
+###### Article R1332-22-3
+
+L'opérateur d'importance vitale informe par écrit la personne concernée de la demande d'avis formulée auprès de l'autorité
+administrative et lui indique que, dans ce cadre, elle fait l'objet d'une enquête administrative conformément aux
+dispositions de l'article L. 1332-2-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-2-1
+
+
+##### Sous-section 2 : Elaboration et approbation du plan particulier de protection
+
+##### Sous-section 3 : Mise en oeuvre du plan particulier de protection
+
+##### Sous-section 4 : Révision du plan de sécurité et du plan particulier de protection
+
+##### Sous-section 5 : Plan de protection externe
+
+##### Sous-section 6 : Contestation des actes pris par l'autorité administrative
+
+##### Sous-section 7 : Dispositions diverses
+
 ##### Section 6 : Zone d'importance vitale
 
 ###### Article R*1332-36
@@ -38455,8 +38547,8 @@ VIII du présent livre :
 1143-11 ; 
 
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
-R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R.
-1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, 
+R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -38466,16 +38558,28 @@ R. 1322-1 à R. 1331-1, R. 1332-35, R. 1332-37 à R. 1332-38, R. 1332-42, R. 133
 
 	**Modifié par**:
 
-	  - Décret n°2010-902 du 3 août 2010 - art. 8
+	  - Décret n°2012-491 du 16 avril 2012 - art. 3
 
 	**Cite**:
 
+	  - Code de la défense. - art. D1651-7 (V)
+	  - Code de la défense. - art. R*1132-2 (V)
+	  - Code de la défense. - art. R1142-14 (V)
 	  - Code de la défense. - art. R1142-35
 	  - Code de la défense. - art. R1312-1
 	  - Code de la défense. - art. R1322-1
-	  - Code de la défense. - art. R1332-35
+	  - Code de la défense. - art. R1332-1
+	  - Code de la défense. - art. R1332-42 (V)
+	  - Code de la défense. - art. R1333-1 (V)
+	  - Code de la défense. - art. R1333-70 (V)
+	  - Code de la défense. - art. R1336-33 (V)
+	  - Code de la défense. - art. R1337-1 (V)
+	  - Code de la défense. - art. R1337-18 (V)
+	  - Code de la défense. - art. R1338-1 (V)
 	  - Code de la défense. - art. R1511-2
-	  - Code de la défense. - art. R1651-4
+	  - Code de la défense. - art. R1651-4 (V)
+	  - Code de la défense. - art. R1681-1 (V)
+	  - Code de la défense. - art. R1682-1 (V)
 
 
 ###### Article R1651-4

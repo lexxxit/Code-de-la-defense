@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-04-18
+Version Consolidée au 2012-04-19
 
 # Partie législative
 
@@ -29849,7 +29849,7 @@ chaque opérateur d'importance vitale intéressé ainsi qu'à toutes les autorit
 	  - Code de la défense. - art. R2311-1 (V)
 
 
-##### Section 5 : Plans de protection
+##### Section 5 : Mesures de protection
 
 ##### Sous-section 1 : Plan de sécurité d'opérateur
 
@@ -30014,6 +30014,82 @@ secret de la défense nationale.
 	  - Code de la défense. - art. R1332-21 (V)
 	  - Code de la défense. - art. R1332-3 (V)
 	  - Code de la défense. - art. R2311-1 (V)
+
+
+##### Sous-section 1 bis : Accès aux points d'importance vitale
+
+###### Article R1332-22-1
+
+Avant d'autoriser l'accès d'une personne physique ou morale à tout ou partie d'un point d'importance vitale qu'il gère ou
+utilise, l'opérateur d'importance vitale peut demander par écrit l'avis du préfet de département dans le ressort duquel se
+situe le point d'importance vitale ou, pour les opérateurs d'importance vitale relevant du ministère de la défense, l'avis de
+l'autorité militaire désignée par le chef d'état-major des armées.
+
+Cette demande peut justifier que soit diligentée sous le contrôle de l'autorité concernée une enquête administrative destinée
+à vérifier que les caractéristiques de la personne physique ou morale intéressée ne sont pas incompatibles avec l'accès
+envisagé et pouvant donner lieu à la consultation des traitements automatisés de données personnelles mentionnés à l'article
+26 de la loi n° 78-17 du 6 janvier 1978.
+
+La demande d'avis mentionnée aux alinéas précédents concerne l'accès aux parties des points d'importance vitale déterminées à
+cette fin dans les plans particuliers de protection.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
+	  - Code de la défense. - art. R1332-22-2 (V)
+
+
+###### Article R1332-22-2
+
+La procédure prévue à l'article R. 1332-22-1 ne s'applique pas aux personnes appartenant à l'une des deux catégories
+suivantes : 
+
+1° Celles mentionnées au décret n° 2005-1124 du 6 septembre 2005 pris pour l'application de l'article 17-1 de la loi n° 95-73
+du 21 janvier 1995 et fixant la liste des enquêtes administratives donnant lieu à la consultation des traitements automatisés
+de données personnelles mentionnés à l'article 230-6 du code de procédure pénale, soumises à une obligation d'agrément ou
+d'habilitation par une autorité administrative ou judiciaire ; 
+
+2° Celles dont l'accès au point d'importance vitale fait l'objet, en raison notamment de la nature et de la durée de leur
+visite, de mesures de prévention et de sécurité suffisantes précisées dans le plan particulier de protection.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
+	  - Code de procédure pénale - art. 230-6
+	  - Code de la défense. - art. R1332-22-1
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+
+###### Article R1332-22-3
+
+L'opérateur d'importance vitale informe par écrit la personne concernée de la demande d'avis formulée auprès de l'autorité
+administrative et lui indique que, dans ce cadre, elle fait l'objet d'une enquête administrative conformément aux
+dispositions de l'article L. 1332-2-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-491 du 16 avril 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-2-1
 
 
 ##### Sous-section 2 : Elaboration et approbation du plan particulier de protection
@@ -30406,98 +30482,6 @@ protection, après avis de la commission mentionnée à l'article R. 1332-10.
 
 	  - Code de la défense. - art. R1332-10 (V)
 
-
-##### Section 5 : Mesures de protection
-
-##### Sous-section 1 : Plan de sécurité d'opérateur
-
-##### Sous-section 1 bis : Accès aux points d'importance vitale
-
-###### Article R1332-22-1
-
-Avant d'autoriser l'accès d'une personne physique ou morale à tout ou partie d'un point d'importance vitale qu'il gère ou
-utilise, l'opérateur d'importance vitale peut demander par écrit l'avis du préfet de département dans le ressort duquel se
-situe le point d'importance vitale ou, pour les opérateurs d'importance vitale relevant du ministère de la défense, l'avis de
-l'autorité militaire désignée par le chef d'état-major des armées.
-
-Cette demande peut justifier que soit diligentée sous le contrôle de l'autorité concernée une enquête administrative destinée
-à vérifier que les caractéristiques de la personne physique ou morale intéressée ne sont pas incompatibles avec l'accès
-envisagé et pouvant donner lieu à la consultation des traitements automatisés de données personnelles mentionnés à l'article
-26 de la loi n° 78-17 du 6 janvier 1978.
-
-La demande d'avis mentionnée aux alinéas précédents concerne l'accès aux parties des points d'importance vitale déterminées à
-cette fin dans les plans particuliers de protection.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-
-	**Créé par**:
-
-	  - Décret n°2012-491 du 16 avril 2012 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2017-588 du 20 avril 2017 - art. 3 (V)
-	  - Code de la défense. - art. R1332-22-2 (V)
-
-
-###### Article R1332-22-2
-
-La procédure prévue à l'article R. 1332-22-1 ne s'applique pas aux personnes appartenant à l'une des deux catégories
-suivantes : 
-
-1° Celles mentionnées au décret n° 2005-1124 du 6 septembre 2005 pris pour l'application de l'article 17-1 de la loi n° 95-73
-du 21 janvier 1995 et fixant la liste des enquêtes administratives donnant lieu à la consultation des traitements automatisés
-de données personnelles mentionnés à l'article 230-6 du code de procédure pénale, soumises à une obligation d'agrément ou
-d'habilitation par une autorité administrative ou judiciaire ; 
-
-2° Celles dont l'accès au point d'importance vitale fait l'objet, en raison notamment de la nature et de la durée de leur
-visite, de mesures de prévention et de sécurité suffisantes précisées dans le plan particulier de protection.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°95-73 du 21 janvier 1995 - art. 17-1
-	  - Code de procédure pénale - art. 230-6
-	  - Code de la défense. - art. R1332-22-1
-
-	**Créé par**:
-
-	  - Décret n°2012-491 du 16 avril 2012 - art. 2
-
-
-###### Article R1332-22-3
-
-L'opérateur d'importance vitale informe par écrit la personne concernée de la demande d'avis formulée auprès de l'autorité
-administrative et lui indique que, dans ce cadre, elle fait l'objet d'une enquête administrative conformément aux
-dispositions de l'article L. 1332-2-1 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-491 du 16 avril 2012 - art. 2
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1332-2-1
-
-
-##### Sous-section 2 : Elaboration et approbation du plan particulier de protection
-
-##### Sous-section 3 : Mise en oeuvre du plan particulier de protection
-
-##### Sous-section 4 : Révision du plan de sécurité et du plan particulier de protection
-
-##### Sous-section 5 : Plan de protection externe
-
-##### Sous-section 6 : Contestation des actes pris par l'autorité administrative
-
-##### Sous-section 7 : Dispositions diverses
 
 ##### Section 6 : Zone d'importance vitale
 
@@ -45619,19 +45603,25 @@ Pour l'application du II de l'article L. 2342-10, sont dispensés d'autorisation
 à des fins médicales, pharmaceutiques ou de recherche, une quantité ne dépassant pas, annuellement, 100 grammes de produits
 chimiques inscrits au tableau 1.
 
+Cette quantité inclut la fabrication dans le cadre d'une utilisation captive, telle qu'interprétée par la décision C-10/ DEC.
+12 du 10 novembre 2005 de la conférence des Etats parties à l'organisation pour l'interdiction des armes chimiques, de
+produits chimiques inscrits au tableau 1. 
+
+Cette fabrication comprend les produits intermédiaires, les sous-produits ou déchets qui sont produits et consommés dans une
+séquence définie de fabrication de produit chimique, séquence dans laquelle ces produits intermédiaires, sous-produits ou
+déchets sont chimiquement stables et donc existent pendant une durée suffisante pour qu'il soit possible de les isoler du
+circuit de fabrication, mais dans laquelle, dans les conditions normales ou théoriques d'exploitation, cette isolation ne se
+fait pas.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2342-10 (V)
+	  - Code de la défense. - art. L2342-10
 
 	**Cité par**:
 
@@ -46084,9 +46074,9 @@ arrêté pris par le ministre de la défense.
 
 ###### Article R2342-23
 
-En application de l'article L. 2342-9, établissent une " déclaration annuelle d'activités passées " et une " déclaration
-annuelle d'activités prévues ", dans des formes identiques à celles prévues à la sixième partie de " l'annexe à la convention
-sur la vérification " : 
+En application de l'article L. 2342-9 et du II de l'article L. 2342-10, établissent une " déclaration annuelle d'activités
+passées " et une " déclaration annuelle d'activités prévues ", dans des formes identiques à celles prévues à la sixième
+partie de " l'annexe à la convention sur la vérification " : 
 
 1° Tout exploitant d'une installation autorisée à fabriquer des produits du tableau 1 ; 
 
@@ -46094,6 +46084,12 @@ sur la vérification " :
 quantité ne dépassant pas, annuellement, 100 grammes de produits chimiques inscrits au tableau 1 ; 
 
 3° Tout exploitant d'une installation acquérant, cédant, traitant, stockant ou consommant des produits du tableau 1. 
+
+Pour les installations visées au 1° et les laboratoires visés au 2°, les quantités fabriquées incluent la fabrication dans le
+cadre d'une utilisation captive, telle qu'interprétée par la décision C-10/ DEC. 12 du 10 novembre 2005 de la conférence des
+Etats parties à l'organisation pour l'interdiction des armes chimiques, de produits chimiques inscrits au tableau 1. Cette
+fabrication comprend les produits intermédiaires, sous-produits ou déchets définis au troisième alinéa de l'article R.
+2342-5. 
 
 Ces déclarations valent déclaration d'installation, telle qu'exigée par le II de l'article L. 2342-10 et par l'article L.
 2342-11 pour les installations mentionnées au 2° et au 3° du présent article. 
@@ -46103,19 +46099,16 @@ section 4 du présent chapitre, selon le cas, par arrêté du ministre de la dé
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 2
 
 	**Cite**:
 
 	  - Code de la défense. - art. L2342-10 (V)
-	  - Code de la défense. - art. L2342-11 (V)
-	  - Code de la défense. - art. L2342-9 (V)
+	  - Code de la défense. - art. L2342-11
+	  - Code de la défense. - art. L2342-9
+	  - Code de la défense. - art. R2342-5 (V)
 
 	**Cité par**:
 
@@ -46157,22 +46150,18 @@ section 4 du présent chapitre, selon le cas, par arrêté du ministre de la dé
 Pour l'application de l'article L. 2342-13 et sous réserve des dispositions communautaires applicables en la matière, sont
 considérés comme produits chimiques inscrits au tableau 2 annexé à la convention de Paris, ci-après dénommés " produits du
 tableau 2 ", tous les mélanges contenant un produit du tableau 2 dans une concentration supérieure à un seuil fixé au I de
-l'article D. 2342-40.
+l'article R. 2342-36.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-40 (V)
-	  - Code de la défense. - art. L2342-13 (V)
+	  - Code de la défense. - art. L2342-13
+	  - Code de la défense. - art. R2342-36 (V)
 
 
 ###### Article R2342-26
@@ -46220,6 +46209,11 @@ l'annexe à la convention sur la vérification :
 
 4° Déclarations d'activités supplémentaires. 
 
+Ces quantités incluent la fabrication dans le cadre d'une utilisation captive, telle qu'interprétée par la décision C-9/ DEC.
+6 du 30 novembre 2004 de la conférence des Etats parties à l'organisation pour l'interdiction des armes chimiques, de
+produits chimiques inscrits au tableau 2. Cette fabrication comprend les produits intermédiaires, sous-produits ou déchets
+définis au troisième alinéa de l'article R. 2342-5. 
+
 La forme, la périodicité, les délais et les conditions d'élaboration de ces déclarations sont fixés en application de la
 section 4 du présent chapitre, selon le cas, par arrêté du ministre de la défense ou du ministre chargé de l'industrie. 
 
@@ -46228,19 +46222,16 @@ D. 2342-40 ne sont pas retenus pour la détermination des quantités mentionnée
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-39 (V)
-	  - Code de la défense. - art. D2342-40 (V)
-	  - Code de la défense. - art. L2342-12 (V)
+	  - Code de la défense. - art. D2342-39
+	  - Code de la défense. - art. D2342-40
+	  - Code de la défense. - art. L2342-12
+	  - Code de la défense. - art. R2342-5 (V)
 
 
 ##### Sous-section 3 : Produits chimiques du tableau 3
@@ -46371,6 +46362,11 @@ convention sur la vérification :
 
 4° Déclarations d'activités supplémentaires. 
 
+Ces quantités incluent la fabrication dans le cadre d'une utilisation captive, telle qu'interprétée par la décision C-9/ DEC.
+6 du 30 novembre 2004 de la conférence des Etats parties à l'organisation pour l'interdiction des armes chimiques, de
+produits chimiques inscrits au tableau 3. Cette fabrication comprend les produits intermédiaires, sous-produits ou déchets
+définis au troisième alinéa de l'article R. 2342-5. 
+
 La forme, la périodicité, les délais et les conditions d'élaboration de ces déclarations sont fixés en application des
 articles de la section 4 du présent chapitre, selon le cas, par arrêté du ministre de la défense ou du ministre chargé de
 l'industrie. 
@@ -46380,20 +46376,17 @@ D. 2342-40 ne sont pas retenus pour la détermination des quantités mentionnée
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 28 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-39 (V)
-	  - Code de la défense. - art. D2342-40 (V)
-	  - Code de la défense. - art. L2342-15 (V)
-	  - Code de la défense. - art. L2342-17 (V)
+	  - Code de la défense. - art. D2342-39
+	  - Code de la défense. - art. D2342-40
+	  - Code de la défense. - art. L2342-15
+	  - Code de la défense. - art. L2342-17
+	  - Code de la défense. - art. R2342-5 (V)
 
 
 ##### Sous-section 4 : Information des acquéreurs de mélanges contenant des produits inscrits au tableau 1, au tableau 2 ou au tableau 3
@@ -46442,10 +46435,7 @@ Toutefois, ne sont pas soumis à ces déclarations :
 1° Les usines qui fabriquent des quantités de produits chimiques organiques définis non inscrits à l'un des trois tableaux
 inférieures à des seuils fixés au III de l'article D. 2342-39 ; 
 
-2° Les usines qui fabriquent uniquement des mélanges contenant au moins un des produits chimiques organiques définis non
-inscrits à l'un des trois tableaux à une concentration inférieure à un seuil fixé au III de l'article D. 2342-40 ; 
-
-3° Les sites d'usines dans lesquels sont exclusivement fabriqués des hydrocarbures ou des produits explosifs. 
+2° Les sites d'usines dans lesquels sont exclusivement fabriqués des hydrocarbures ou des produits explosifs. 
 
 La forme, la périodicité, les délais et les conditions d'élaboration de ces déclarations sont fixés en application des
 articles de la section 4 du présent chapitre, selon le cas, par arrêté du ministre de la défense ou du ministre chargé de
@@ -46453,19 +46443,14 @@ l'industrie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 29 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-501 du 16 avril 2012 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-39 (V)
-	  - Code de la défense. - art. D2342-40 (V)
-	  - Code de la défense. - art. L2342-18 (V)
+	  - Code de la défense. - art. D2342-39
+	  - Code de la défense. - art. L2342-18
 
 
 ##### Sous-section 6 : Seuils de concentration des mélanges contenant des produits chimiques du tableau 1, du tableau 2 ou du tableau 3

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-04-19
+Version Consolidée au 2012-04-30
 
 # Partie législative
 
@@ -71902,7 +71902,7 @@ Les activités accessoires susceptibles d'être autorisées sont les suivantes :
 2° Mission d'intérêt public de coopération internationale ou auprès d'organismes d'intérêt général à caractère international
 ou d'un Etat étranger, pour une durée limitée ; 
 
-3° Expertises ou consultations auprès d'une entreprise ou d'un organisme privés ; 
+3° Expertises ou consultations, dans les conditions prévues au sixième alinéa de l'article L. 4122-2 du code de la défense ; 
 
 4° Enseignements ou formations ; 
 
@@ -71921,7 +71921,9 @@ s'agit de la gestion de son patrimoine personnel et familial ;
 121-1 du code de commerce et, s'agissant des artisans, à l'article 14 du décret du 2 avril 1998 susvisé ; 
 
 9° Activités sportives d'enseignement, d'animation, d'encadrement et d'entraînement exercées au profit d'une entreprise ou
-d'une association.
+d'une association ; 
+
+10° Vente de biens fabriqués personnellement par le militaire.
 
 **Liens relatifs à cet article**
 
@@ -71929,12 +71931,14 @@ d'une association.
 
 	  - Décret n°98-247 du 2 avril 1998 - art. 14
 	  - Code de commerce - art. R121-1
+	  - Code de la défense. - art. L4122-2
 	  - Code rural - art. L311-1
+	  - Code du travail - art. L7231-1 (V)
 	  - Code du travail - art. L7231-2
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2012-592 du 27 avril 2012 - art. 3
 
 	**Cité par**:
 
@@ -71964,23 +71968,30 @@ Toutefois, l'exercice d'une activité bénévole au profit de personnes publique
 
 ###### Article R4122-28
 
-Préalablement à l'exercice de toute activité soumise à autorisation, le militaire adresse au ministre de la défense ou
-à l'autorité déléguée par lui, ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de la
+Préalablement à l'exercice de toute activité soumise à autorisation, le militaire adresse au ministre de la défense ou à
+l'autorité déléguée par lui, ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de la
 gendarmerie nationale, qui lui en accuse réception, une demande écrite qui comprend les informations suivantes : 
 
 1° Identité de l'employeur ou nature de l'organisme pour le compte duquel s'exercera l'activité envisagée ; 
 
-2° Nature, durée, périodicité et conditions de rémunération de cette activité. 
+2° Nature, durée, périodicité et conditions de rémunération de cette activité ; 
+
+3° Dans le cas d'une activité exercée en application de l'article L. 4139-6-1, l'objet social de l'entreprise susceptible
+d'être créée, son adresse, son secteur et sa branche d'activité. 
 
 Toute autre information de nature à éclairer l'autorité mentionnée au premier alinéa sur l'activité accessoire envisagée peut
-figurer dans cette demande à l'initiative du militaire.L'autorité compétente peut lui demander des informations
+figurer dans cette demande à l'initiative du militaire. L'autorité compétente peut lui demander des informations
 complémentaires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 7
+	  - Décret n°2012-592 du 27 avril 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4139-6-1
 
 	**Cité par**:
 
@@ -72018,11 +72029,15 @@ Le militaire doit adresser une nouvelle demande d'autorisation au ministre de la
 lui , ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour le militaire de la gendarmerie nationale, dans les
 conditions prévues à l'article R. 4122-28.
 
+Lorsque  le militaire met fin à l'activité qu'il exerce à titre accessoire, il  rend compte au ministre de la défense ou à
+l'autorité déléguée par lui,  ou au ministre de l'intérieur ou à l'autorité déléguée par lui pour les  militaires de la
+gendarmerie nationale, dans un délai d'un mois à  compter de la date de cessation de l'activité.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 8
+	  - Décret n°2012-592 du 27 avril 2012 - art. 5
 
 	**Cite**:
 
@@ -79385,13 +79400,17 @@ Les dispositions du 6° de l'article L. 4139-14 sont alors applicables au milita
 ###### Article R4138-29
 
 Le militaire placé en congé de reconversion perçoit la solde indiciaire, l'indemnité de résidence, le supplément familial de
-solde, l'indemnité pour charges militaires et, le cas échéant, la majoration de l'indemnité pour charges militaires. 
+solde, l'indemnité pour charges militaires et, le cas échéant, la majoration de l'indemnité pour charges militaires.
 
-Le militaire placé en congé de reconversion peut exercer une activité lucrative. Dans ce cas, il doit en informer le
-ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, en précisant,
-notamment, l'identité de son employeur et le montant des émoluments que celui-ci lui verse ou lui a versés. 
+Le militaire placé en congé de reconversion peut exercer une activité lucrative. Dans ce cas, il doit en informer le ministre
+de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, en précisant, notamment,
+l'identité de son employeur et le montant des émoluments que celui-ci lui verse ou lui a versés. 
 
-La rémunération du militaire qui exerce une activité lucrative durant le congé de reconversion est réduite : 
+Les durées d'activité effectuées dans l'une des situations mentionnées au 2° du III de l'article L. 4139-5 sont prises en
+compte pour moitié. 
+
+La rémunération du militaire qui exerce une activité lucrative durant une période de congé de reconversion supérieure à dix
+jours ouvrés par mois est réduite : 
 
 1° D'un tiers, si les émoluments perçus au titre de l'activité exercée sont supérieurs à la moitié de cette rémunération ; 
 
@@ -79409,16 +79428,118 @@ publics ou privés, mentionnés à l'article L. 86-1 du code des pensions civile
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 27
+	  - Décret n°2012-592 du 27 avril 2012 - art. 1
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L86-1
+	  - Code de la défense. - art. L4139-5
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R4138-29-2 (V)
 	  - Code de la défense. - art. R4138-70 (V)
+
+
+##### Sous-section 7-1 : Le congé pour création ou reprise d'entreprise
+
+###### Article R4138-29-1
+
+I. ― Le militaire qui, en application des dispositions de l'article L. 4139-5-1, sollicite un congé pour création ou reprise
+d'entreprise, présente une demande écrite à l'autorité dont il relève, deux mois au moins avant la date de création ou de
+reprise de cette entreprise. 
+
+Cette demande mentionne la forme et l'objet social de l'entreprise susceptible d'être créée, son secteur et sa branche
+d'activité ainsi que, le cas échéant, la nature et le montant des subventions publiques dont cette entreprise est susceptible
+de bénéficier. 
+
+L'autorité compétente saisit de cette demande la commission mentionnée à l'article R. * 4122-19, dans le mois qui suit la
+date à laquelle elle l'a reçue. La commission rend son avis dans un délai d'un mois à compter de l'enregistrement du dossier
+de saisine par son secrétariat. 
+
+L'absence d'avis de la commission à l'expiration du délai susmentionné vaut avis favorable. 
+
+Les dispositions du présent article s'appliquent sans préjudice des dispositions des articles L. 413-1 et suivants du code de
+la recherche. 
+
+L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
+gendarmerie nationale, pour décision. Celle-ci doit intervenir dans un délai d'un mois à compter de la réception du dossier.
+L'absence de décision dans le délai mentionné vaut refus d'attribution du congé pour création ou reprise d'entreprise. En cas
+de décision favorable, celle-ci mentionne la durée du congé accordé. 
+
+II. ― Pendant la durée du congé pour création ou reprise d'entreprise, le militaire se consacre obligatoirement à la création
+et à l'exploitation de l'entreprise qu'il crée ou reprend. 
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, peut faire procéder
+aux enquêtes nécessaires, afin de vérifier si l'activité du bénéficiaire du congé pour création ou reprise d'entreprise
+répond à l'objet mentionné à l'alinéa ci-dessus. 
+
+Lorsque le congé n'est pas mis à profit pour créer, reprendre ou exploiter une entreprise, le ministre de la défense, ou le
+ministre de l'intérieur pour les militaires de la gendarmerie nationale, notifie au militaire la fin du congé par
+anticipation. Il est alors radié des cadres ou rayé des contrôles, conformément aux dispositions de l'article L. 4139-5-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-592 du 27 avril 2012 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-484 du 19 avril 2016 (V)
+	  - Code de la défense. - art. R4138-29-3 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4139-5-1
+	  - Code de la défense. - art. R*4122-19
+
+
+###### Article R4138-29-2
+
+I. ― Le militaire placé en congé pour création ou reprise d'entreprise perçoit la solde et les accessoires de solde
+mentionnés au premier alinéa de l'article R. 4138-29. 
+
+II. ― Lorsque le placement en congé pour création ou reprise d'entreprise est renouvelé, le militaire perçoit, pendant la
+période de renouvellement, la solde et les accessoires de solde mentionnés au I réduits de moitié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-592 du 27 avril 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4138-29
+
+
+###### Article R4138-29-3
+
+I. ― Le militaire qui souhaite prolonger la durée du congé pour création ou reprise d'entreprise au-delà de la date
+mentionnée dans l'autorisation doit en faire la demande au moins deux mois avant l'échéance de celle-ci, dans les conditions
+fixées au I de l'article R. 4138-29-1. 
+
+L'autorisation de prolonger la durée du congé est délivrée dans les formes prévues au même I de l'article R. 4138-29-1. 
+
+Toutefois, si l'objet social de l'entreprise, son secteur et sa branche d'activité sont identiques à ceux mentionnés dans la
+demande initiale, l'autorisation de prorogation du congé pour création ou reprise d'entreprise est de droit. 
+
+Dans ce cas, l'avis de la commission mentionnée à l'article R. * 4122-19 n'est pas sollicité. 
+
+II. ― Le militaire qui souhaite interrompre le congé pour création ou reprise d'entreprise doit en faire la demande au moins
+deux mois avant l'expiration du congé. Il est alors affecté dans un emploi de son grade.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-592 du 27 avril 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*4122-19
+	  - Code de la défense. - art. R4138-29-1 (V)
 
 
 #####  Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées

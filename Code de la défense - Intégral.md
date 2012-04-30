@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-04-30
+Version Consolidée au 2012-05-01
 
 # Partie législative
 
@@ -881,19 +881,18 @@ mesures nécessaires à l'exécution des plans de défense intérieure ou extér
 ###### Article L1321-1
 
 Aucune force armée ne peut agir sur le territoire de la République pour les besoins de la défense et de la sécurité civiles
-sans une réquisition légale.
+sans une réquisition légale. 
 
-Le premier alinéa n'est pas applicable à la gendarmerie nationale. Toutefois, lorsque le maintien de l'ordre public nécessite
-le recours à des moyens militaires spécifiques, leur utilisation est soumise à autorisation dans des conditions définies par
-décret en Conseil d'Etat.
-
-Les conditions d'usage des armes à feu pour le maintien de l'ordre public sont définies à l'article 431-3 du code pénal.
+Le premier alinéa n'est pas applicable à la gendarmerie nationale. Toutefois, conformément aux dispositions de l'article L.
+214-1 du code de la sécurité intérieure, lorsque le maintien de l'ordre public nécessite le recours aux moyens militaires
+spécifiques de la gendarmerie nationale, leur utilisation est soumise à autorisation dans des conditions définies par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 4
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -903,11 +902,7 @@ Les conditions d'usage des armes à feu pour le maintien de l'ordre public sont 
 
 	**Cite**:
 
-	  - Code pénal - art. 431-3
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L214-1 (VD)
+	  - Code de la sécurité intérieure - art. L214-1
 
 
 ###### Article L1321-2
@@ -953,6 +948,23 @@ Des décrets en Conseil d'Etat définissent les modalités d'application des dis
 	**Modifié par**:
 
 	  - Loi n°2009-928 du 29 juillet 2009 - art. 5
+
+
+###### Article L1321-3
+
+Les conditions d'usage des armes à feu pour le maintien de l'ordre public sont définies à l'article 431-3 du code pénal et à
+l'article L. 211-9 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L211-9
+	  - Code pénal - art. 431-3
 
 
 ##### Chapitre II : Protection contre les menaces aériennes
@@ -7457,6 +7469,31 @@ champ d' application du présent titre.
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 1 (Ab)
 
 
+###### Article L2331-2
+
+La fabrication et le commerce, l'importation et l'exportation des matériels de guerre, armes et munitions, ainsi que les
+marchés relatifs aux matériels de guerre, sont régis par les dispositions du présent titre. Ces dispositions sont complétées,
+en ce qui concerne le commerce de détail, par celles du chapitre III du titre Ier du livre III du code de la sécurité
+intérieure.
+
+L'acquisition, la détention, la conservation, le port et le transport des matériels de guerre, armes et munitions sont régis
+par les dispositions du titre Ier du livre III du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 7 septembre 1995 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
+
+
 ##### Chapitre II : Fabrication et commerce
 
 ##### Section 1 : Principes
@@ -7475,30 +7512,11 @@ au préfet du département où est situé l'établissement.
 La cessation de l'activité, ainsi que la fermeture ou le transfert de l'établissement, doivent être déclarés dans les mêmes
 conditions. 
 
-III.-L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments, des 5e et 7e
-catégories, ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat est soumise à autorisation. Celle-ci
-est délivrée par le préfet du département où est situé ce local, après avis du maire. 
-
-Cette autorisation est refusée si la protection de ce local contre le risque de vol ou d'intrusion est insuffisante. Elle
-peut, en outre, être refusée s'il apparaît que l'exploitation de ce local présente, notamment du fait de sa localisation, un
-risque particulier pour l'ordre et la sécurité publics. 
-
-IV.-Un établissement ayant fait l'objet d'une déclaration avant la date d'entrée en vigueur de la loi n° 2001-1062 du 15
-novembre 2001 relative à la sécurité quotidienne n'est pas soumis à l'autorisation mentionnée au premier alinéa du III. Il
-peut être fermé par arrêté du préfet du département où il est situé s'il apparaît que son exploitation a été à l'origine de
-troubles répétés à l'ordre et à la sécurité publics ou que sa protection contre le risque de vol ou d'intrusion est
-insuffisante : dans ce dernier cas, la fermeture ne peut être décidée qu'après une mise en demeure, adressée à l'exploitant,
-de faire effectuer les travaux permettant d'assurer une protection suffisante de cet établissement contre le risque de vol ou
-d'intrusion.
+III et IV (Abrogés)
 
 V.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 2
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
 
 	**Cité par**:
 
@@ -7570,102 +7588,44 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 
 	**Cite**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Loi n°2001-1062 du 15 novembre 2001
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 8 () JORF 13 décembre 2005
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L313-3 (VD)
-
-
-###### Article L2332-1-1
-
-Nul ne peut exercer à titre individuel l'activité qui consiste, à titre principal ou accessoire, en la fabrication, le
-commerce, l'échange, la location, la réparation ou la transformation d'armes, d'éléments d'armes et de munitions, ni diriger
-ou gérer une personne morale exerçant cette activité s'il n'est titulaire d'un agrément relatif à son honorabilité et à ses
-compétences professionnelles, délivré par l'autorité administrative. 
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 5-1 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 5-5 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 5-1 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 5-5 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 5-1 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 5-5 (VT)
-	  - Décret n°2011-1476 du 9 novembre 2011 (V)
-
-	**Créé par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 118
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de la sécurité intérieure - art. L313-2 (VD)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
 
 
 ###### Article L2332-2
 
-Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e
-catégories, ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat, ne peut se faire que dans les locaux
-mentionnés aux III et IV de l'article L. 2332-1. 
-
-Les dispositions du premier alinéa ne sont pas applicables aux ventes organisées en application du code du domaine de l'Etat
-et aux ventes aux enchères publiques. 
-
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles, à titre exceptionnel, les personnes satisfaisant aux
-prescriptions de l'article L. 2332-1 peuvent participer aux manifestations commerciales et aux salons professionnels déclarés
-en application des articles L. 740-1 et L. 740-2 du code de commerce. 
-
-Les matériels, armes ou leurs éléments des 1re, 2e, 3e, 4e, 7e catégories, ainsi que des armes de 6e catégorie énumérées par
-décret en Conseil d'Etat, qui, par dérogation aux dispositions du premier alinéa, sont acquis par correspondance, à distance
-ou directement entre particuliers, ne peuvent être livrés que dans les locaux mentionnés aux III et IV de l'article L.
-2332-1. Les armes de 5e catégorie ou leurs éléments acquis, par dérogation aux dispositions du premier alinéa, directement
-entre particuliers ne peuvent être livrés que dans ces mêmes locaux. Les armes de 5e catégorie ou leurs éléments, ainsi que
-les munitions de toutes catégories, ou leurs éléments, acquis par dérogation aux dispositions du premier alinéa, par
-correspondance ou à distance, peuvent être directement livrés à l'acquéreur.
+L'ouverture des locaux destinés au commerce de détail des armes, éléments d'armes et munitions des 5e à 7e catégories est
+régie par les dispositions de l'article L. 313-3 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 2-1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2-1 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 9 () JORF 13 décembre 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L740-1 (Ab)
-	  - Code de commerce. - art. L740-2 (Ab)
-	  - Code de la défense. - art. L2332-1 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L2339-3 (VD)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L313-3
 
 
 ###### Article L2332-3
@@ -8395,53 +8355,9 @@ sont déterminés par décret s'il y a lieu.
 
 ###### Article L2336-1
 
-I.-L'acquisition et la détention des matériels de guerre, des armes et des munitions par les personnes autres que celles
-mentionnées à l'article L. 2332-1 sont soumises aux dispositions suivantes : 
-
-1° L'acquisition et la détention des matériels de guerre des 2e et 3e catégories sont interdites, sauf pour les besoins de la
-défense nationale. Un décret en Conseil d'Etat définit les conditions dans lesquelles l'Etat, pour les besoins autres que
-ceux de la défense nationale, les collectivités locales et les organismes d'intérêt général ou à vocation culturelle,
-historique ou scientifique peuvent être autorisés à acquérir et à détenir des matériels de ces catégories. Il fixe également
-les conditions dans lesquelles certains matériels de 2e catégorie peuvent être acquis et détenus à fin de collection par des
-personnes physiques, sous réserve des engagements internationaux en vigueur et des exigences de l'ordre et de la sécurité
-publics ; 
-
-2° L'acquisition et la détention des matériels, des armes et des munitions des 1re et 4e catégories sont interdites, sauf
-autorisation délivrée dans les conditions définies par décret en Conseil d'Etat ; 
-
-3° L'acquisition des armes et des munitions des 5e et 7e catégories est subordonnée à la présentation au vendeur d'un permis
-de chasser revêtu de la validation de l'année en cours ou de l'année précédente, ou d'une licence de tir en cours de validité
-délivrée par une fédération sportive ayant reçu délégation du ministre chargé des sports au titre de l'article L. 131-14 du
-code du sport. En outre, la détention des armes des 5e et 7e catégories fait l'objet d'une déclaration par l'armurier ou par
-leur détenteur dans les conditions définies par décret en Conseil d'Etat. Ce décret peut prévoir que certaines armes des 5e
-et 7e catégories sont dispensées de la présentation des documents ou de la déclaration mentionnés ci-dessus en raison de
-leurs caractéristiques techniques ou de leur destination ; 
-
-4° L'acquisition et la détention des armes et des munitions des 6e et 8e catégories sont libres ; 
-
-5° L'acquisition et la détention des armes et des munitions de toute catégorie sont interdites pour les mineurs sous réserve
-des exceptions définies par décret en Conseil d'Etat. 
-
-II.-Quiconque devient propriétaire par voie successorale ou testamentaire d'une arme ou de munitions de la 1re ou de la 4e
-catégorie, sans être autorisé à les détenir, doit s'en défaire dans un délai de trois mois à compter de la mise en
-possession, dans les conditions prévues à l'article L. 2337-3. 
-
-III.-Sont interdites : 
-
-1° L'acquisition ou la détention de plusieurs armes de la 1re ou de la 4e catégorie par un seul individu, sauf dans les cas
-prévus par décret d'application ; 
-
-2° L'acquisition ou la détention de plus de 50 cartouches par arme de la 1re ou de la 4e catégorie régulièrement détenue,
-sauf dans les cas prévus par décret d'application. 
-
-IV.-L'acquisition et la détention d'armes ou de munitions de la 1re ou de la 4e catégorie par les fabricants ou les vendeurs
-régulièrement autorisés ne sont pas soumises, dans la mesure où ces opérations se rapportent à l'exercice de leur commerce ou
-de leur industrie, aux dispositions du présent article.
-
-**Nota:**
-
-L'article L. 2336-1 du code de la défense a été codifié dans le code de la sécurité intérieure aux articles L. 312-1 à L.
-312-4 dudit code dans sa version en vigueur précédant celle issue de la loi n° 2012-304 du 6 mars 2012.
+L'acquisition et la détention des matériels de guerre, des armes et des munitions par les personnes autres que celles
+mentionnées à l'article L. 2332-1 sont régies par les dispositions du chapitre II du titre Ier du livre III du code de la
+sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -8470,395 +8386,32 @@ L'article L. 2336-1 du code de la défense a été codifié dans le code de la s
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code du sport. - art. L131-14 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-1 (VD)
-	  - Code de la sécurité intérieure - art. L312-2 (VD)
-	  - Code de la sécurité intérieure - art. L312-3 (VD)
-	  - Code de la sécurité intérieure - art. L312-4 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 15
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15 (Ab)
-
-
-###### Article L2336-2
-
-Seules les personnes satisfaisant aux prescriptions de l'article L. 2332-1 peuvent se porter acquéreurs dans les ventes
-publiques des matériels de guerre, armes et munitions et de leurs éléments des 1re, 2e, 3e, 4e catégories ainsi que des armes
-de 6e catégories énumérées par décret en Conseil d'Etat. 
-
-La vente de ces mêmes matériels par les brocanteurs est interdite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 21
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-5 (VD)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2339-1 (M)
-	  - Code de la défense. - art. L2339-3 (VD)
-
-
-###### Article L2336-3
-
-Toute personne physique sollicitant la délivrance ou le renouvellement d'une autorisation d'acquisition ou de détention de
-matériels, d'armes ou de munitions des 1re et 4e catégories ou faisant une déclaration de détention d'armes des 5e et 7e
-catégories doit produire un certificat médical attestant que son état de santé physique et psychique n'est pas incompatible
-avec la détention de ces matériels, armes ou munitions.
-
-Dans le cas où la personne mentionnée au précédent alinéa suit ou a suivi un traitement dans un service ou un secteur de
-psychiatrie d'un établissement de santé, l'autorité administrative lui demande de produire également un certificat médical
-délivré par un médecin psychiatre.
-
-Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des médecins, définit les modalités d'application
-du présent article. Il prévoit notamment les conditions que doivent remplir la délivrance, le renouvellement ou la validation
-du permis de chasser ou de la licence de tir pour que la présentation de ces documents, au moment de la demande
-d'autorisation d'acquisition ou de détention, ou de son renouvellement, ou de la déclaration, supplée l'obligation prévue au
-premier alinéa. Il prévoit également les conditions dans lesquelles le préfet peut vérifier si la personne mentionnée au
-premier alinéa est ou a été dans le cas mentionné au deuxième alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 18
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 39 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 46-2 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 47-1 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 43 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 52 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 55 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 43 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 52 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 55 (VT)
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la défense. - art. L2337-1-1 (MMN)
-	  - Code du sport. - art. L231-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-6 (VD)
-
-
-###### Article L2336-4
-
-I. - Si le comportement ou l'état de santé d'une personne détentrice d'armes et de munitions présente un danger grave pour
-elle-même ou pour autrui, le préfet peut lui ordonner, sans formalité préalable ni procédure contradictoire, de les remettre
-à l'autorité administrative, quelle que soit leur catégorie.
-
-II. - L'arme et les munitions faisant l'objet de la décision prévue au I doivent être remises immédiatement par le détenteur,
-ou, le cas échéant, par un membre de sa famille ou par une personne susceptible d'agir dans son intérêt, aux services de
-police ou de gendarmerie. Le commissaire de police ou le commandant de la brigade de gendarmerie peut procéder, sur
-autorisation du juge des libertés et de la détention, à la saisie de l'arme et des munitions entre 6 heures et 22 heures au
-domicile du détenteur.
-
-III. - La conservation de l'arme et des munitions remises ou saisies est confiée pendant une durée maximale d'un an aux
-services de la police nationale ou de la gendarmerie nationale territorialement compétents.
-
-Durant cette période, le préfet décide, après que la personne intéressée a été mise à même de présenter ses observations,
-soit la restitution de l'arme et des munitions, soit la saisie définitive de celles-ci.
-
-Les armes et les munitions définitivement saisies en application du présent alinéa sont vendues aux enchères publiques. Le
-produit net de la vente bénéficie aux intéressés
-
-IV. - Il est interdit aux personnes dont l'arme et les munitions ont été saisies en application du I ou du III d'acquérir ou
-de détenir des armes et des munitions, quelle que soit leur catégorie.
-
-Le préfet peut cependant décider de limiter cette interdiction à certaines catégories ou à certains types d'armes.
-
-Cette interdiction cesse de produire effet si le préfet décide la restitution de l'arme et des munitions dans le délai
-mentionné au premier alinéa du III. Après la saisie définitive, elle peut être levée par le préfet en considération du
-comportement du demandeur ou de son état de santé depuis la décision de saisie.
-
-V. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 41 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 47-2 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 5-4 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-1 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-8 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 45 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 5-4 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 56 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 85 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 86 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 45 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 5-4 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 56 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 85 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 86 (VT)
-	  - Code de la défense. - art. L2336-5 (MMN)
-	  - Code de la défense. - art. L2336-6 (VT)
-	  - Code de la défense. - art. L2337-2 (VT)
-	  - Code de la défense. - art. L2339-6 (VT)
-	  - Code de la défense. - art. L2339-7 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-10 (VD)
-	  - Code de la sécurité intérieure - art. L312-15 (VD)
-	  - Code de la sécurité intérieure - art. L312-7 (VD)
-	  - Code de la sécurité intérieure - art. L312-8 (VD)
-	  - Code de la sécurité intérieure - art. L312-9 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 19
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 19 (Ab)
-
-
-###### Article L2336-5
-
-Sans préjudice des dispositions de l'article L. 2336-4, le préfet peut, pour des raisons d'ordre public ou de sécurité des
-personnes, ordonner à tout détenteur d'une arme soumise au régime de l'autorisation ou de la déclaration de s'en dessaisir. 
-
-Le dessaisissement consiste soit à vendre l'arme à une personne mentionnée à l'article L. 2332-1 ou à un tiers remplissant
-les conditions légales d'acquisition et de détention, soit à la neutraliser, soit à la remettre à l'Etat. Un décret en
-Conseil d'Etat détermine les modalités du dessaisissement. 
-
-Sauf urgence, la procédure est contradictoire. Le préfet fixe le délai au terme duquel le détenteur doit s'être dessaisi de
-son arme. 
-
-Lorsque l'intéressé ne s'est pas dessaisi de l'arme dans le délai fixé par le préfet, celui-ci lui ordonne de la remettre,
-ainsi que ses munitions, aux services de police ou de gendarmerie. 
-
-Le commissaire de police ou le commandant de la brigade de gendarmerie peut demander au juge des libertés et de la détention
-l'autorisation de procéder à la saisie de l'arme et des munitions, entre 6 heures et 22 heures, au domicile du détenteur. La
-demande d'autorisation comporte toutes les informations en leur possession de nature à justifier cette saisie, afin de
-permettre au juge des libertés et de la détention de vérifier que cette demande est fondée. 
-
-La saisie de l'arme désignée à l'alinéa précédent s'effectue sous l'autorité et le contrôle du juge des libertés et de la
-détention qui l'a autorisée ou d'un juge par lui désigné. Ce magistrat peut se rendre sur les lieux.A tout moment, il peut
-suspendre ou interrompre la saisie au domicile. Celle-ci est effectuée en présence de l'occupant des lieux ou de son
-représentant ; en cas d'impossibilité, le commissaire de police ou le commandant de la brigade de gendarmerie requiert deux
-témoins choisis en dehors des personnes relevant de son autorité. Le procès-verbal de saisie est dressé sur-le-champ, il
-relate les modalités et le déroulement de l'intervention et comporte s'il y a lieu un inventaire des armes saisies. Il est
-signé par le commissaire de police ou par le commandant de la brigade de gendarmerie ainsi que par les personnes présentes ;
-en cas de refus, mention en est faite au procès-verbal. Il est transmis dans les meilleurs délais au juge des libertés et de
-la détention. 
-
-La remise ou la saisie des armes et des munitions ne donne lieu à aucune indemnisation. 
-
-Il est interdit aux personnes ayant fait l'objet de la procédure prévue au présent article d'acquérir ou de détenir des armes
-soumises au régime de l'autorisation ou de la déclaration. 
-
-Le préfet peut cependant décider de limiter cette interdiction à certaines catégories ou à certains types d'armes. 
-
-Cette interdiction est levée par le préfet s'il apparaît que l'acquisition ou la détention d'armes par la personne concernée
-n'est plus de nature à porter atteinte à l'ordre public ou à la sécurité des personnes.
-
-A Paris, les pouvoirs conférés au préfet par le présent article sont exercés par le préfet de police.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 41 (V)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-5 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-6 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 90 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 91 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 90 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 91 (VT)
-	  - Code de la défense. - art. L2336-6 (VT)
-	  - Code de la défense. - art. L2337-2 (VT)
-	  - Code de la défense. - art. L2339-6 (VT)
-	  - Code de la défense. - art. L2339-7 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-11 (VD)
-	  - Code de la sécurité intérieure - art. L312-12 (VD)
-	  - Code de la sécurité intérieure - art. L312-13 (VD)
-	  - Code de la sécurité intérieure - art. L312-14 (VD)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code de la défense. - art. L2336-4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 19-1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 19-1 (Ab)
-
-
-###### Article L2336-6
-
-Un fichier national automatisé nominatif recense : 
-
-1° Les personnes interdites d'acquisition et de détention d'armes en application du IV de l'article L. 2336-4 et des huitième
-et neuvième alinéas de l'article L. 2336-5 ;
-
-2° Les personnes condamnées à une peine d'interdiction de détenir ou de porter une arme soumise à autorisation ou condamnées
-à la confiscation d'une ou de plusieurs armes dont elles sont propriétaires ou dont elles ont la libre disposition en
-application des articles du code pénal et du présent code qui les prévoient. 
-
-Les modalités d'application du présent article, y compris la nature des informations enregistrées, la durée de leur
-conservation, ainsi que les autorités et les personnes qui y ont accès, sont déterminées par décret en Conseil d'Etat après
-avis de la Commission nationale de l'informatique et des libertés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 23 (V)
-	  - Décret n°95-589 du 6 mai 1995 - art. 45 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 47-2 (V)
-	  - Décret n°95-589 du 6 mai 1995 - art. 5-3 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-7 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 56 (V)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 26 (V)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 49 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 5-3 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 56 (V)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 26 (V)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 49 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 5-3 (VT)
-	  - Code de l'environnement - art. L423-11 (V)
-	  - Code de l'environnement - art. L423-15 (V)
-	  - Code de l'environnement - art. L423-4 (V)
-
-	**Codifié par**:
-
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 30
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2336-4
-	  - Code de la défense. - art. L2336-5
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-16 (VD)
+	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 19-2 (Ab)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15 (Ab)
 
 
 ##### Chapitre VII : Conservation, perte et transfert de propriété
 
 ###### Article L2337-1
 
-La conservation par toute personne des armes, des munitions et de leurs éléments des 1re et 4e catégories est assurée selon
-des modalités qui en garantissent la sécurité et évitent leur usage par un tiers.
-
-Les armes, les munitions et leurs éléments des 5e et 7e catégories sont conservées hors d'état de fonctionner immédiatement.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 15-1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L314-1 (VD)
-
-
-###### Article L2337-2
-
-Les agents habilités de la police et de la gendarmerie nationales peuvent, dans la stricte mesure exigée par la protection de
-la sécurité des personnes ou la défense des intérêts fondamentaux de la nation, consulter les traitements automatisés de
-données personnelles mentionnés à l'article 230-6 du code de procédure pénale, pour les besoins de l'instruction des demandes
-d'autorisation ou de renouvellement d'autorisation d'acquisition ou de détention d'armes faites en application de l'article
-L. 2336-1. 
-
-Les agents mentionnés à l'alinéa précédent peuvent également consulter ces traitements dans la stricte mesure exigée par la
-protection de l'ordre public ou la sécurité des personnes, pour l'exécution des ordres de remise d'armes et de munitions à
-l'autorité administrative prévus aux articles L. 2336-4 et L. 2336-5.
+La conservation, la perte et le transfert de propriété des matériels de guerre, des armes et des munitions sont régis par les
+dispositions du chapitre IV du titre Ier du livre III du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -8869,161 +8422,18 @@ l'autorité administrative prévus aux articles L. 2336-4 et L. 2336-5.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 13
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L312-17 (VD)
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 230-6
-	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2336-4
-	  - Code de la défense. - art. L2336-5
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15-2 (Ab)
-
-
-###### Article L2337-3
-
-Les armes et les munitions de la 1re ou de la 4e catégorie ne peuvent être transférées d'un particulier à un autre que dans
-les cas où celui à qui l'arme est transférée est autorisé à la détenir dans les conditions indiquées à l'article L. 2336-1. 
-
-Dans tous les cas, les transferts d'armes ou de munitions de la 1re catégorie ou de la 4e catégorie sont constatés suivant
-des formes définies par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 16
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L314-2 (VD)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la défense. - art. L2339-5 (MMN)
-	  - Code de la défense. - art. L2339-5-1 (MMN)
-
-
-###### Article L2337-4
-
-Les cessions, à quelque titre que ce soit, d'armes ou de munitions de la 1re ou de la 4e catégorie non destinées au commerce,
-ne peuvent être faites qu'aux personnes munies d'une autorisation.
-
-Les modalités de délivrance des autorisations d'achat et les indications à y porter sont définies par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L314-3 (VD)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2339-16 (V)
-	  - Code de la défense. - art. L2339-4 (VD)
-	  - Code de la défense. - art. L2339-5 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 17
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 17 (Ab)
-
-
-###### Article L2337-5
-
-Le ministre de l'intérieur et, en cas d'urgence, les préfets sont autorisés à prescrire ou à requérir auprès de l'autorité
-militaire, relativement aux armes et aux munitions qui existent dans les magasins des fabricants ou commerçants, ou chez les
-personnes qui les détiennent, les mesures qu'ils estiment nécessaires dans l'intérêt de la sécurité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 37
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 37 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L314-4 (VD)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15-1 (Ab)
 
 
 ##### Chapitre VIII : Port, transport et usage
-
-###### Article L2338-1
-
-Le port des armes des 1re, 4e et 6e catégories ou d'éléments constitutifs des armes des 1re et 4e catégories ou de munitions
-correspondantes est interdit ainsi que leur transport sans motif légitime.
-
-Les fonctionnaires et agents des administrations publiques exposés par leurs fonctions à des risques d'agression, ainsi que
-les personnels auxquels est confiée une mission de gardiennage et qui ont été préalablement agréés à cet effet par le préfet,
-peuvent être autorisés à s'armer pendant l'exercice de leurs fonctions, dans les conditions définies par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 20, alinéas 1 et 3
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Cité par**:
-
-	  - Décret n°2007-1322 du 7 septembre 2007 - art. 9 (V)
-	  - Décret n°2009-950 du 29 juillet 2009 (V)
-	  - Code de la défense. - art. L2339-9 (MMN)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L315-1 (VD)
-
 
 ###### Article L2338-2
 
@@ -9219,16 +8629,9 @@ code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'art
 
 ###### Article L2339-3
 
-I.-Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 euros : 
-
-1° Le fait de contrevenir aux dispositions des II et III de l'article L. 2332-1, des articles L. 2332-6 et L. 2332-9, du
-premier alinéa de l'article L. 2332-10 et des articles L. 2335-2 et L. 2336-2 du présent titre ; 
-
-2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des
-dispositions de l'article L. 2332-2 ; 
-
-3° Le fait de céder ou de vendre des matériels de guerre, des armes, des munitions ou leurs éléments constitutifs à un
-mineur, hors les cas où cette vente est autorisée dans les conditions fixées par décret en Conseil d'Etat. 
+I.-Le fait de contrevenir aux dispositions du II de l'article L. 2332-1, des articles L. 2332-6 et L. 2332-9, du premier
+alinéa de l'article L. 2332-10 et de l'article L. 2335-2 est puni d'un emprisonnement de cinq ans et d'une amende de 75 000
+euros. 
 
 II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
 des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
@@ -9238,7 +8641,7 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -9252,25 +8655,35 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 
 	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
-	  - Code de la défense. - art. L2332-1
-	  - Code de la défense. - art. L2332-10
-	  - Code de la défense. - art. L2332-2
-	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2332-9
-	  - Code de la défense. - art. L2335-2
-	  - Code de la défense. - art. L2336-2
 
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 25 (Ab)
 
 
+###### Article L2339-3-1
+
+Les sanctions pénales de l'exercice illicite du commerce de détail et de la vente et de la cession illicites des matériels de
+guerre, des armes et des munitions sont définies par les dispositions du chapitre VII du titre Ier du livre III du code de la
+sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
+
+
 ###### Article L2339-4
 
-Est punie des peines prévues à l'article L. 2339-5 la cession, à quelque titre que ce soit, par un fabricant ou commerçant,
-habilité en vertu de l'article L. 2332-1, d'une ou plusieurs armes ou munitions de la 1re ou de la 4e catégorie, en violation
-des articles L. 2336-1 ou L. 2337-4. 
+Est punie des peines prévues à l'article L. 317-4 du code de la sécurité intérieure, la cession, à quelque titre que ce soit,
+par un fabricant ou commerçant, habilité en vertu de l'article L. 2332-1 du présent code, d'une ou plusieurs armes ou
+munitions de la 1re ou de la 4e catégorie, en violation des articles L. 312-1 à L. 312-4 et L. 314-3 du code de la sécurité
+intérieure. 
 
 Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
@@ -9278,8 +8691,12 @@ Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -9290,14 +8707,13 @@ Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code de la défense. - art. L2336-1 (V)
-	  - Code de la défense. - art. L2337-4 (V)
-	  - Code de la défense. - art. L2339-5 (V)
+	  - Code de la défense. - art. L2332-1
+	  - Code de la sécurité intérieure - art. L312-1
+	  - Code de la sécurité intérieure - art. L314-3
+	  - Code de la sécurité intérieure - art. L317-4
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 29
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 29 (Ab)
 
 
@@ -9305,18 +8721,8 @@ Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
 ###### Article L2339-5
 
-Sont punies d'un emprisonnement de trois ans et d'une amende de 3 750 euros l'acquisition, la cession ou la détention, sans
-l'autorisation prévue au I de l'article L. 2332-1, une ou plusieurs armes de la 1re ou de la 4e catégorie ou leurs munitions
-en violation des dispositions des articles L. 2336-1, L. 2337-3 ou L. 2337-4. 
-
-La peine d'emprisonnement est portée à cinq ans et l'interdiction de séjour peut être prononcée suivant les modalités prévues
-par l'article 131-31 du code pénal, si le coupable a été antérieurement condamné à l'emprisonnement ou à une peine plus grave
-pour crime ou délit. 
-
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
-organisée. 
-
-Le tribunal ordonne, en outre, la confiscation des armes ou des munitions.
+Les sanctions pénales de l'acquisition et de la détention illicites des matériels de guerre, des armes et des munitions sont
+définies par les dispositions du chapitre VII du titre Ier du livre III du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -9333,67 +8739,24 @@ Le tribunal ordonne, en outre, la confiscation des armes ou des munitions.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 45 () JORF 7 mars 2007
-
-	**Cite**:
-
-	  - Code pénal - art. 131-31 (V)
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code de la défense. - art. L2337-3 (V)
-	  - Code de la défense. - art. L2337-4 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 28
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 28 (Ab)
 
 
-###### Article L2339-6
+##### Section 4 : Sanctions pénales du port, du transport et des expéditions
 
-Est puni d'un emprisonnement de trois ans et d'une amende de 45 000 euros le fait d'acquérir ou de détenir des armes et des
-munitions en violation d'une interdiction prévue au IV de l'article L. 2336-4 ou au huitième alinéa de l'article L. 2336-5.
+###### Article L2339-9
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 11 () JORF 13 décembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2336-4
-	  - Code de la défense. - art. L2336-5
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L317-5 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 28-1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 28-1 (Ab)
-
-
-###### Article L2339-7
-
-Est puni d'un emprisonnement de trois mois et d'une amende de 3 750 euros le fait de mettre obstacle à la saisie prévue par
-les articles L. 2336-4 et L. 2336-5. 
-
-La tentative du délit prévu à l'alinéa précédent est punie des mêmes peines.
+Les sanctions pénales du port, du transport et des expéditions illicites des matériels de guerre, des armes et des munitions
+sont définies par les dispositions du chapitre VII du titre Ier du livre III du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -9401,111 +8764,6 @@ La tentative du délit prévu à l'alinéa précédent est punie des mêmes pein
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2336-4
-	  - Code de la défense. - art. L2336-5
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L317-6 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 30
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 30 (Ab)
-
-
-###### Article L2339-8
-
-La détention d'un dépôt d'armes ou de munitions de la 1re, 4e ou 6e catégorie est punie d'un emprisonnement de cinq ans et
-d'une amende de 3 750 euros. 
-
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
-organisée. 
-
-La peine est portée à dix ans d'emprisonnement et la peine complémentaire d'interdiction de séjour peut être prononcée
-suivant les modalités prévues par l'article 131-31 du code pénal lorsque le coupable a antérieurement été condamné à
-l'emprisonnement ou à une peine plus grave pour crime ou délit. 
-
-Le tribunal ordonne, en outre, la confiscation des armes ou des munitions. 
-
-Ces dispositions ne sont pas applicables, dans la mesure où ils exercent leur industrie ou leur commerce, aux fabricants et
-aux vendeurs régulièrement autorisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Cite**:
-
-	  - Code pénal - art. 131-31 (V)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. 706-73 (V)
-	  - Code de la défense. - art. L2339-13 (V)
-	  - Code de la défense. - art. L2339-14 (V)
-	  - Code de procédure pénale - art. 78-2-2 (VD)
-	  - Code pénal - art. 321-6-1 (V)
-	  - Code pénal - art. 421-1 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L317-7 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 31
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 31 (Ab)
-
-
-##### Section 4 : Sanctions pénales du port, du transport et des expéditions
-
-###### Article L2339-9
-
-I.-Quiconque, hors de son domicile et sauf les exceptions résultant des dispositions des articles L. 2338-1 et L. 2338-2, est
-trouvé porteur ou effectue sans motif légitime le transport d'une ou plusieurs armes de 1re, 4e ou 6e catégorie, ou
-d'éléments constitutifs de ces armes des 1re et 4e catégories ou des munitions correspondantes, même s'il en est
-régulièrement détenteur, est puni : 
-
-1° S'il s'agit d'une arme de la 1re ou de la 4e catégorie ou d'éléments constitutifs de ces armes ou de munitions
-correspondantes, d'un emprisonnement de cinq ans et d'une amende de 3 750 euros ; 
-
-2° S'il s'agit d'une arme de la 6e catégorie, d'un emprisonnement de trois ans et d'une amende de 3 750 euros. 
-
-II.-L'emprisonnement peut être porté à dix ans dans les cas suivants : 
-
-1° Si l'auteur des faits a été antérieurement condamné pour crime ou délit à une peine égale ou supérieure à un an
-d'emprisonnement ferme ou à une peine plus grave ; 
-
-2° Si le transport d'armes est effectué par au moins deux personnes ; 
-
-3° Si deux personnes au moins sont trouvées ensemble porteuses d'armes. 
-
-III.-Dans tous les cas prévus au présent article, le tribunal ordonne la confiscation des armes. 
-
-IV.-La peine complémentaire de l'interdiction de séjour peut être prononcée suivant les modalités prévues par l'article
-131-31 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -9519,15 +8777,12 @@ IV.-La peine complémentaire de l'interdiction de séjour peut être prononcée 
 	  - Code de procédure pénale - art. 837 (VD)
 	  - Code pénal - art. 421-1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 131-31 (V)
-	  - Code de la défense. - art. L2338-1 (V)
-	  - Code de la défense. - art. L2338-2 (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 32
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 32 (Ab)
 
 
@@ -9604,75 +8859,81 @@ punis d'une amende de 3 750 euros et d'un emprisonnement de cinq ans.
 En cas de récidive les peines complémentaires de l'interdiction de séjour et l'interdiction des droits mentionnés à l'article
 131-26 du code pénal peuvent être prononcées. 
 
-Les délits prévus et réprimés par le présent titre sont considérés comme étant, du point de vue de la récidive, un même
-délit.
+Les délits prévus et réprimés par le présent titre, ainsi que ceux prévus et réprimés par le titre Ier du livre III du code
+de la sécurité intérieure sont considérés comme étant, du point de vue de la récidive, un même délit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 35, alinéas 3 et 4
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 35 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2007-1322 du 7 septembre 2007 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+
 	**Cite**:
 
-	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-26
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 35 (Ab)
 
 
 ##### Section 7 : Protection des personnes bénéficiant de réduction de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions
 
 ###### Article L2339-13
 
-La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues aux articles L. 2339-2, L. 2339-8
-et L. 2339-10 est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser les
+La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues aux articles L. 2339-2 et L.
+2339-10 est réduite de moitié si, ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser les
 agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou complices.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 35-1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 35-1 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2339-10 (V)
-	  - Code de la défense. - art. L2339-2 (V)
-	  - Code de la défense. - art. L2339-8 (V)
+	  - Code de la défense. - art. L2339-10
+	  - Code de la défense. - art. L2339-2
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 35-1 (Ab)
 
 
 ##### Section 8 : De la prolifération des vecteurs d'armes de destruction massive.
 
 ###### Article L2339-14
 
-Les infractions définies au premier alinéa du I de l'article L. 2339-2, à l'article L. 2339-4, au premier alinéa des articles
-L. 2339-5 et L. 2339-8, au 1° du I de l'article L. 2339-9 et au premier alinéa de l'article L. 2339-10 sont punies de quinze
-ans de réclusion criminelle et un million et demi d'euros d'amende lorsqu'elles concernent des missiles, fusées ou autres
-systèmes sans pilote capables de conduire à leur cible des armes nucléaires telles que définies au III de l'article L.
-1333-13-4, chimiques ou biologiques et spécialement conçus à cet usage. 
+Les infractions définies au premier alinéa du I de l'article L. 2339-2, à l'article L. 2339-4 et au premier alinéa de
+l'article L. 2339-10 du présent code, ainsi qu'au premier alinéa des articles L. 317-4 et L. 317-7 et au 1° de l'article L.
+317-8 du code de la sécurité intérieure, sont punies de quinze ans de réclusion criminelle et un million et demi d'euros
+d'amende lorsqu'elles concernent des missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des
+armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement conçus à cet
+usage. 
 
 Ces faits sont punis de vingt ans de réclusion criminelle et de trois millions d'euros d'amende lorsqu'ils sont commis en
 bande organisée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -9687,12 +8948,12 @@ bande organisée.
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-13-4
-	  - Code de la défense. - art. L2339-10 (V)
+	  - Code de la défense. - art. L2339-10
 	  - Code de la défense. - art. L2339-2
 	  - Code de la défense. - art. L2339-4
-	  - Code de la défense. - art. L2339-5
-	  - Code de la défense. - art. L2339-8
-	  - Code de la défense. - art. L2339-9 (V)
+	  - Code de la sécurité intérieure - art. L317-4
+	  - Code de la sécurité intérieure - art. L317-7
+	  - Code de la sécurité intérieure - art. L317-8
 
 
 ###### Article L2339-15
@@ -9724,25 +8985,25 @@ destinés à être utilisés, en tout ou partie, en vue de commettre l'une quelc
 ###### Article L2339-16
 
 Le fait de se faire délivrer indûment, par quelque moyen frauduleux que ce soit, les autorisations ou agréments mentionnés au
-I de l'article L. 2332-1, aux articles L. 2335-1 à L. 2335-3, au 2° du I de l'article L. 2336-1 et à l'article L. 2337-4 est
-puni de dix ans d'emprisonnement et un million et demi d'euros d'amende lorsque ces autorisations ou agréments concernent des
-missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des armes nucléaires telles que définies au
-III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement conçus à cet usage.
+I de l'article L. 2332-1 et aux articles L. 2335-1 à L. 2335-3 du présent code, ainsi qu'au 2° de l'article L. 312-1 et à
+l'article L. 314-3 du code de la sécurité intérieure, est puni de dix ans d'emprisonnement et un million et demi d'euros
+d'amende lorsque ces autorisations ou agréments concernent des missiles, fusées ou autres systèmes sans pilote capables de
+conduire à leur cible des armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et
+spécialement conçus à cet usage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 13
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-13-4
 	  - Code de la défense. - art. L2332-1
 	  - Code de la défense. - art. L2335-1
-	  - Code de la défense. - art. L2335-3
-	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2337-4
+	  - Code de la sécurité intérieure - art. L312-1
+	  - Code de la sécurité intérieure - art. L314-3
 
 	**Cité par**:
 
@@ -14921,31 +14182,23 @@ force des armes la défense de la patrie et des intérêts supérieurs de la nat
 
 ###### Article L3211-3
 
-La gendarmerie nationale est une force armée instituée pour veiller à l'exécution des lois.
+La gendarmerie nationale est une force armée instituée pour veiller à l'exécution des lois. 
 
-La police judiciaire constitue l'une de ses missions essentielles.
+Sans préjudice des dispositions de l'article L. 421-1 du code de la sécurité intérieure, elle participe à la défense de la
+patrie et des intérêts supérieurs de la Nation, notamment au contrôle et à la sécurité des armements nucléaires. 
 
-La gendarmerie nationale est destinée à assurer la sécurité publique et l'ordre public, particulièrement dans les zones
-rurales et périurbaines, ainsi que sur les voies de communication.
-
-Elle contribue à la mission de renseignement et d'information des autorités publiques, à la lutte contre le terrorisme, ainsi
-qu'à la protection des populations.
-
-Elle participe à la défense de la patrie et des intérêts supérieurs de la nation, notamment au contrôle et à la sécurité des
-armements nucléaires.
-
-L'ensemble de ses missions, civiles et militaires, s'exécute sur toute l'étendue du territoire national, hors de celui-ci en
-application des engagements internationaux de la France, ainsi qu'aux armées.
+L'ensemble de ses missions militaires s'exécute sur toute l'étendue du territoire national, hors de celui-ci en application
+des engagements internationaux de la France, ainsi qu'aux armées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 1
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L421-1 (VD)
+	  - Code de la sécurité intérieure - art. L421-1
 
 
 #### TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE
@@ -14954,11 +14207,10 @@ application des engagements internationaux de la France, ainsi qu'aux armées.
 
 ###### Article L3225-1
 
-Sans préjudice des attributions de l'autorité judiciaire pour l'exercice de ses missions judiciaires, la gendarmerie
-nationale est placée sous l'autorité du ministre de l'intérieur, responsable de son organisation, de sa gestion, de sa mise
-en condition d'emploi et de l'infrastructure militaire qui lui est nécessaire. Pour l'exécution de ses missions militaires,
-notamment lorsqu'elle participe à des opérations des forces armées à l'extérieur du territoire national, la gendarmerie
-nationale est placée sous l'autorité du ministre de la défense.
+Sans préjudice des attributions de l'autorité judiciaire pour l'exercice de ses missions judiciaires, et de celles du
+ministre de l'intérieur pour l'exercice de ses missions civiles, la gendarmerie nationale est placée sous l'autorité du
+ministre de la défense pour l'exécution de ses missions militaires, notamment lorsqu'elle participe à des opérations des
+forces armées à l'extérieur du territoire national.  
 
 Le ministre de la défense participe à la gestion des ressources humaines de la gendarmerie nationale dans des conditions
 définies par décret en Conseil d'Etat et exerce à l'égard des personnels militaires de la gendarmerie nationale les
@@ -14966,9 +14218,9 @@ attributions en matière de discipline.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 1
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -14980,10 +14232,6 @@ attributions en matière de discipline.
 	  - Code de la défense. - art. L3571-1 (M)
 	  - Code des pensions militaires d'invalidité et de... - art. D401 ter (Ab)
 	  - Code des pensions militaires d'invalidité et de... - art. R513-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L421-2 (VD)
 
 
 ### LIVRE IV : ÉTABLISSEMENTS PUBLICS
@@ -21276,43 +20524,6 @@ l'obligation de disponibilité peut être décidé par décret en conseil des mi
 	**Cite**:
 
 	  - Code de la défense. - art. L1111-2 (V)
-
-
-###### Article L4231-5
-
-En cas de troubles graves ou de menaces de troubles graves à l'ordre public, le ministre de la défense ou le ministre de
-l'intérieur peuvent être autorisés par décret, pour les missions qui relèvent de leur autorité, à faire appel, pour une durée
-déterminée, à tout ou partie des réservistes de la gendarmerie nationale soumis à l'obligation de disponibilité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°99-894 du 22 octobre 1999 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2000-1170 du 1 décembre 2000 - art. 11 (Ab)
-	  - Décret n°2000-1170 du 1 décembre 2000 - art. 27 (Ab)
-	  - Décret n°2000-1170 du 1 décembre 2000 - art. 28 (Ab)
-	  - Code de la défense. - art. L4231-3 (M)
-	  - Code de la défense. - art. L4271-1 (V)
-	  - Code de la défense. - art. L4271-2 (V)
-	  - Code de la défense. - art. L4271-3 (V)
-	  - Code de la défense. - art. L4271-4 (V)
-	  - Code de la défense. - art. L4271-5 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2009-971 du 3 août 2009 - art. 14
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L421-3 (VD)
 
 
 #### TITRE IV : RÉSERVE CITOYENNE
@@ -34538,9 +33749,9 @@ exécuté.
 
 ###### Article R*1336-14
 
-En dehors des cas prévus par les articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la sécurité
-civile, les dépenses afférentes aux marchés et réquisitions prévues aux articles R. * 1336-12 et R. * 1336-13 sont à la
-charge des autorités ou personnes bénéficiaires.
+En dehors des cas prévus par les articles L742-11 à L742-13 et L742-15 du code de la sécurité intérieure, les dépenses
+afférentes aux marchés et réquisitions prévues aux articles R. * 1336-12 et R. * 1336-13 sont à la charge des autorités ou
+personnes bénéficiaires.
 
 **Liens relatifs à cet article**
 
@@ -34548,14 +33759,15 @@ charge des autorités ou personnes bénéficiaires.
 
 	  - Décret n°65-1103 du 15 décembre 1965 - art. 5 bis (Ab)
 
-	**Cite**:
-
-	  - Loi n°2004-811 du 13 août 2004 - art. 27 (V)
-	  - Code de la défense. - art. R*1336-12 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art. 3
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L742-11 (V)
+	  - Code de la sécurité intérieure - art. L742-15 (V)
+	  - Code de la défense. - art. R*1336-12 (V)
 
 	**Cité par**:
 

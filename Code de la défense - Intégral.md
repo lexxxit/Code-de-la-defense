@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-05
 
 # Partie législative
 
@@ -46278,51 +46278,22 @@ l'industrie.
 
 ###### Article D2342-59
 
-Les dispositions de la présente section sont applicables lorsque des opérations menées dans le cadre d'inspections par mise
+Les dispositions de la présente section s'appliquent lorsque des opérations sont menées dans le cadre d'inspections par mise
 en demeure prévues par l'article IX de la convention de Paris, par l'annexe à cette convention appelée " annexe sur la
-vérification " et par les articles L. 2342-22 à L. 2342-39 se déroulent dans les sites non placés sous l'autorité du ministre
-de la défense ou sous celle du ministre de l'intérieur, conformément aux articles D. 2342-99 et D. 2342-100.
+vérification ” et par les articles L. 2342-22 à L. 2342-50. Lorsque ces opérations ont lieu dans les sites placés sous
+l'autorité du ministre de la défense ou sous celle du ministre de l'intérieur, elles se déroulent dans le respect des
+dispositions des articles D. 2342-99 et D. 2342-100.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-269 du 26 mars 2001 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Cite**:
-
-	  - Code de la défense. - art. D2342-99 (V)
-	  - Code de la défense. - art. L2342-22 (V)
-
-
-###### Article D2342-60
-
-Pour les opérations menées dans le cadre d'inspections par mise en demeure qui se déroulent dans les installations placées
-sous l'autorité du ministre de la défense ou sous celle du ministre de l'intérieur, conformément aux articles D. 2342-99 et
-D. 2342-100, les dispositions nécessaires sont définies et mises en œuvre par instructions ministérielles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-269 du 26 mars 2001 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-100
-	  - Code de la défense. - art. D2342-99
+	  - Code de la défense. - art. D2342-99 (V)
+	  - Code de la défense. - art. L2342-22 (V)
 
 
 ###### Article D2342-61
@@ -46347,7 +46318,7 @@ dixième partie de l'annexe sur la vérification, proposé par le chef de l'équ
 l'article D. 2342-63, à la place du " périmètre demandé ". 
 
 Un tel " périmètre alternatif " ne peut être proposé par le chef de l'équipe d'accompagnement qu'après qu'il a pris, dans la
-mesure du possible, l'avis des personnes concernées conformément à l'article D. 2342-64 ; 
+mesure du possible, l'avis des personnes concernées ; 
 
 5° " Périmètre déclaré ", la limite extérieure de toute installation déclarée à l'Organisation pour l'interdiction des armes
 chimiques conformément à la sixième partie de l'annexe sur la vérification ainsi que la limite extérieure des usines
@@ -46372,18 +46343,13 @@ définie dans la demande d'inspection étendue, le cas échéant, au périmètre
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 	**Cite**:
 
 	  - Code de la défense. - art. D2342-63 (V)
-	  - Code de la défense. - art. D2342-64 (V)
 
 	**Cité par**:
 
@@ -46448,48 +46414,6 @@ accompagnateurs proposés par le ministre chargé de l'industrie.
 
 ##### Sous-section 2 : Détermination du périmètre final
 
-###### Article D2342-64
-
-Conformément au premier alinéa de l'article L. 2342-37, le chef de l'équipe d'accompagnement, ou l'accompagnateur désigné par
-lui, avise, autant que faire se peut, par tout moyen et dans les délais les plus rapides, toutes les personnes concernées par
-le " périmètre demandé " relatif à l'inspection notifiée. 
-
-Le chef de l'équipe d'accompagnement, ou l'accompagnateur désigné par lui, en avisant ces personnes leur fixe un délai, qui
-en aucun cas ne saurait excéder vingt-trois heures après la remise du mandat d'inspection au chef de l'équipe
-d'accompagnement, pour qu'elles lui communiquent leur avis, si possible par écrit, sur le " périmètre demandé " par l'équipe
-d'inspection. 
-
-Le chef de l'équipe d'accompagnement ne peut éventuellement proposer un " périmètre alternatif " à l'équipe d'inspection
-qu'après avoir pris, dans la mesure du possible, l'avis des personnes concernées. 
-
-Dès que le " périmètre final " est définitivement fixé, le chef de l'équipe d'accompagnement le notifie aussitôt et par tout
-moyen aux personnes concernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-269 du 26 mars 2001 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-626 du 2 mai 2012 - art. 1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D2342-61 (V)
-	  - Code de la défense. - art. D2342-68 (V)
-	  - Code de la défense. - art. D2342-73 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2342-37
-
-
 ###### Article D2342-65
 
 Lorsque le chef de l'équipe d'accompagnement estime ne pas être en mesure de procéder au relevé de tous les véhicules sortant
@@ -46514,104 +46438,81 @@ nécessaires à sa disposition.
 
 ###### Article D2342-66
 
-Le chef de l'équipe d'accompagnement peut également demander aux représentants de l'Etat territorialement compétent de
+Le chef de l'équipe d'accompagnement peut également demander au procureur de la République territorialement compétent de
 désigner un officier de police judiciaire chargé d'assister l'équipe d'accompagnement, lequel, en cas d'indices apparents
 laissant présumer la commission d'une infraction, peut procéder à la visite du véhicule conformément aux articles 54, 56 et
 57 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 
 ##### Sous-section 3 : Droit d'accès
 
 ###### Article D2342-67
 
-En application du premier alinéa de l'article L. 2342-40, le chef de l'équipe d'accompagnement ou, à sa demande, le
-représentant de l'Etat territorialement compétent porte à la connaissance de la personne concernée qu'il va demander sans
-délai au président du tribunal de grande instance dans le ressort duquel se trouve situé le premier point d'accès au "
-périmètre demandé " l'autorisation de commencer l'inspection. Il désigne ce tribunal. 
+L'autorité administrative mentionnée au premier alinéa de l'article L. 2342-40 est le chef de l'équipe d'accompagnement. 
 
-Il doit en outre indiquer à la personne concernée que, faute de comparaître, elle s'expose à ce qu'une ordonnance soit rendue
-au vu des seuls éléments fournis au tribunal au nom de l'Etat. 
-
-Si la personne concernée ne peut être avisée, le chef de l'équipe d'accompagnement effectue toutes diligences en vue de
-porter à sa connaissance les informations prévues aux alinéas précédents et à l'article D. 2342-68. 
-
-Il laisse dans tous les cas aux lieux dont l'accès est demandé un avis daté mentionnant ces informations ainsi que l'heure du
-dépôt de cet avis. Il peut en remettre une copie à toute personne présente sur les lieux à la condition que celle-ci accepte,
-décline son identité et donne récépissé.
+Il saisit par requête le président du tribunal de grande instance afin d'obtenir l'autorisation de commencer l'inspection par
+mise en demeure.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-68 (V)
-	  - Code de la défense. - art. L2342-40 (V)
+	  - Code de la défense. - art. L2342-40
 
 
 ###### Article D2342-68
 
-En application du premier alinéa de l'article L. 2342-40, doivent être portées à la connaissance du président du tribunal de
-grande instance ou du juge délégué par lui, par tous moyens, et le plus tôt possible après l'expiration du délai fixé par le
-chef de l'équipe d'accompagnement à l'article D. 2342-64 : 
+La requête comporte : 
 
-1° Les éléments d'information qui lui permettent de s'assurer que la demande d'inspection est conforme aux stipulations de la
-convention de Paris ainsi que l'état des négociations avec l'équipe d'inspection ; 
+1° Les éléments d'information qui permettent au juge de s'assurer que la demande d'inspection est conforme aux stipulations
+de la convention de Paris ainsi que l'état des négociations avec l'équipe d'inspection et le mandat d'inspection ; 
 
 2° La copie de la demande d'inspection, y compris l'emplacement du site d'inspection tel que spécifié conformément au
 paragraphe 7 de la dixième partie de l'annexe sur la vérification ; 
 
 3° Le nom et la qualité de la personne qui sollicite l'autorisation ; 
 
-4° La liste nominative des membres de l'équipe d'inspection et des accompagnateurs ; 
+4° La liste nominative des membres de l'équipe d'inspection et des accompagnateurs ainsi que la décision du Premier ministre
+portant nomination du chef d'équipe d'accompagnement et des membres de l'équipe d'accompagnement ; 
 
 5° Le cas échéant, la liste nominative des autres personnes susceptibles de suivre le déroulement de l'inspection ; 
 
-6° Le cas échéant, la copie de la note que le ministre des affaires étrangères a adressée à l'Organisation pour
-l'interdiction des armes chimiques, dans les conditions de l'article D. 2342-73, pour lui signifier l'acceptation de la
-présence d'un observateur ; 
+6° Le cas échéant, copie de la note que le ministre des affaires étrangères a adressée à l'Organisation pour l'interdiction
+des armes chimiques, dans les conditions prévues à l'article D. 2342-73, pour lui signifier l'acceptation de la présence d'un
+observateur ; 
 
 7° En fonction de l'état des négociations avec l'équipe d'inspection, le " périmètre demandé ", le " périmètre alternatif "
 ou le " périmètre final " à l'intérieur duquel sont susceptibles de se dérouler les opérations d'inspection et autour duquel,
 sur une largeur ne dépassant pas cinquante mètres, l'équipe d'inspection est à même de mener des activités de verrouillage du
 site, de surveillance des sorties et des activités de périmètre conformément aux paragraphes 28, 29 et 35 à 37 de la dixième
-partie de l'annexe sur la vérification.
+partie de l'annexe sur la vérification ; 
+
+8° Les éléments d'information relatifs aux prélèvements relevant des activités de périmètre pouvant être effectués
+conformément à l'article 36 b de la dixième partie de l'annexe sur la vérification.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-	**Cite**:
-
-	  - Code de la défense. - art. D2342-64 (V)
-	  - Code de la défense. - art. D2342-73 (V)
-	  - Code de la défense. - art. L2342-40 (V)
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D2342-67 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. D2342-73
 
 
 ###### Article D2342-69
@@ -46632,6 +46533,35 @@ juge délégué par lui, aux personnes concernées dans les conditions prévues 
 	**Cite**:
 
 	  - Code de la défense. - art. L2342-43 (V)
+
+
+###### Article D2342-69-1
+
+En cas de notification par lettre recommandée avec demande d'avis de réception, la notification est réputée faite à la date
+de réception figurant sur l'avis. A défaut de réception, il est procédé à la signification de l'ordonnance par acte
+d'huissier de justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
+
+
+###### Article D2342-69-2
+
+Le procès-verbal prévu à l'article L. 2342-44 mentionne les voies et délais de recours contre les modalités de déroulement
+des opérations d'inspection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2342-44
 
 
 ###### Article D2342-70
@@ -46702,26 +46632,21 @@ le ministre qui l'a proposé comme accompagnateur au Premier ministre.
 
 Le ministre des affaires étrangères notifie à l'Organisation pour l'interdiction des armes chimiques l'acceptation ou le
 refus de la présence d'un observateur lors d'une telle inspection après avoir pris l'accord des ministres compétents, tels
-que définis par les articles D. 2342-95 à D. 2342-102 ou, à défaut, sur décision du Premier ministre, dans le délai fixé par
-le chef de l'équipe d'accompagnement à l'article D. 2342-64. 
+que définis par les articles D. 2342-95 à D. 2342-102 ou, à défaut, sur décision du Premier ministre. 
 
 Une copie de cette notification est transmise au chef de l'équipe d'accompagnement et au ministre qui l'a proposé comme
 accompagnateur au Premier ministre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-64 (V)
-	  - Code de la défense. - art. D2342-95 (V)
+	  - Code de la défense. - art. D2342-64
+	  - Code de la défense. - art. D2342-95
 
 	**Cité par**:
 
@@ -46896,13 +46821,12 @@ d'inspection les points d'entrée et de sortie du "périmètre final".
 
 ###### Article D2342-82
 
-Le chef de l'équipe d'accompagnement ne peut pas donner à l'équipe d'inspection l'autorisation de pénétrer à l'intérieur du
-site d'inspection :
+L'inspection ne peut débuter avant que le chef de l'équipe d'accompagnement n'ait : 
 
-1° Avant que l'équipe d'inspection lui ait remis copie du plan d'inspection initial établi conformément au paragraphe 34 de
-la dixième partie de l'annexe sur la vérification ;
+1°  Reçu du chef de l'équipe d'inspection copie du plan d'inspection  initial établi conformément au paragraphe 34 de la
+dixième partie de  l'annexe sur la vérification ; 
 
-2° Avant d'avoir notifié, par tout moyen, le plan d'inspection aux personnes concernées.
+2° Notifié par tout moyen le plan d'inspection aux personnes concernées.
 
 Lorsque le plan d'inspection ne peut être notifié à des personnes concernées qui ne sont pas des personnes publiques, une
 copie de ce plan d'inspection est communiquée à l'officier de police judiciaire désigné par le président du tribunal de
@@ -46914,13 +46838,9 @@ ce plan d'inspection est adressée, par tout moyen, au représentant de l'Etat t
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-269 du 26 mars 2001 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-626 du 2 mai 2012 - art. 1
 
 
 ###### Article D2342-83

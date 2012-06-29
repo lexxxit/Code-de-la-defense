@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-06-30
 
 # Partie législative
 
@@ -7416,8 +7416,9 @@ II.- Armes et munitions non considérées comme matériels de guerre :
 
 8e catégorie : Armes et munitions historiques et de collection. 
 
-III.- Les matériels, appartenant ou non aux précédentes catégories, qui sont soumis à des restrictions ou à une procédure
-spéciale pour l' importation ou l' exportation sont définis aux articles L. 2335- 1 et L. 2335- 3. 
+III.- Les matériels appartenant ou non aux précédentes catégories, qui sont soumis à des restrictions ou à une procédure
+spéciale pour l'importation ou l'exportation hors du territoire de l'Union européenne, ou le transfert au sein de l'Union
+européenne, sont définis au chapitre V du présent titre. 
 
 Les armes de toute espèce qui peuvent tirer des munitions utilisables dans des armes classées matériel de guerre, et les
 munitions de toute espèce qui peuvent être tirées dans des armes classées matériel de guerre sont considérées comme des
@@ -7462,7 +7463,7 @@ champ d' application du présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
 
 	**Anciens textes**:
 
@@ -7634,14 +7635,12 @@ Le ministre de la défense exerce, pour la réglementation et l'orientation du c
 commerce des matériels désignés dans les dispositions du présent titre et relatives au régime des matériels de guerre, armes
 et munitions, une action de centralisation et de coordination.
 
-Il dispose, à cet effet, du contrôle général des armées, dont les attributions sont définies par décret.
+**Nota:**
+
+Aux termes de la décision du Conseil constitutionnel n° 2016-262 L du 3 mars 2016 (NOR: CSCL1606529S), article 1 : Les
+dispositions de l'article L. 2332-3 du code de la défense ont le caractère réglementaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 3
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 3 (Ab)
 
 	**Cité par**:
 
@@ -7650,27 +7649,38 @@ Il dispose, à cet effet, du contrôle général des armées, dont les attributi
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 17
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 3 (Ab)
 
 
 ###### Article L2332-4
 
-Le contrôle est exercé sur place et sur pièces, suivant leurs attributions respectives, par les représentants des ministères
-intéressés et, notamment, en ce qui concerne le ministère de la défense, par des agents relevant du contrôle général des
-armées.
+Le contrôle est exercé sur place et sur pièces, suivant leurs attributions respectives, par les agents habilités des
+ministères intéressés et, notamment, en ce qui concerne le ministère de la défense, par des agents relevant du contrôle
+général des armées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 4
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -7679,6 +7689,10 @@ armées.
 	  - Code de la défense. - art. L2332-7 (VT)
 	  - Code de la défense. - art. L2332-9 (VT)
 	  - Code de la sécurité intérieure - art. R313-29 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 4 (Ab)
 
 
 ###### Article L2332-5
@@ -7752,34 +7766,6 @@ application faisant l'objet du brevet ou de l'addition demandé.
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 7 (Ab)
 
 
-###### Article L2332-7
-
-Les personnels mentionnés par l'article L. 2332-4, ainsi que les autres fonctionnaires officiers ou agents de l'Etat, qui ont
-connaissance à un titre quelconque des renseignements recueillis au sujet des entreprises en application du présent titre
-sont tenus au secret professionnel sous les peines définies par l'article 226-13 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 9
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-	  - Code de la défense. - art. L2332-4
-
-
 ###### Article L2332-8
 
 La surveillance technique des travaux confiés à l'industrie par le ministère de la défense demeure dans les attributions des
@@ -7806,49 +7792,22 @@ services de fabrication ou de construction de ce ministère.
 	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 
 
-##### Section 2 : Obligations des titulaires d'autorisation
+###### Article L2332-8-1
 
-###### Article L2332-9
-
-Les titulaires des autorisations prévues au I de l'article L. 2332-1 sont tenus : 
-
-1° De laisser pénétrer dans toutes les parties de leur entreprise les représentants du ministère de la défense et du contrôle
-général des armées mentionnés à l'article L. 2332-4 ; 
-
-2° De n'apporter aucune entrave aux investigations nécessaires à l'exécution de leur mission, lesquelles peuvent comporter,
-outre l'examen des lieux et du matériel, les recensements et les vérifications des comptabilités de toute espèce de leur
-entreprise qui leur paraissent utiles ; 
-
-3° De fournir les renseignements verbaux ou écrits et les comptes rendus demandés par les représentants de l'Etat, mentionnés
-à l'article L. 2332-4, en vertu des pouvoirs qu'ils tiennent du présent titre.
+Les canons d'arme de guerre fabriqués en France sont soumis à des épreuves constatées par l'application d'un poinçon.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°1939-04-18 art. 6
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 6 (Ab)
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
 
 	**Cité par**:
 
-	  - Décret n°95-589 du 6 mai 1995 - art. 9 (V)
-	  - Code de la défense. - art. L2339-1 (M)
-	  - Code de la défense. - art. L2339-3 (V)
+	  - Code de la défense. - art. L2339-11 (VD)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1
-	  - Code de la défense. - art. L2332-4
-
+##### Section 2 : Obligations des titulaires d'autorisation
 
 ###### Article L2332-10
 
@@ -7856,31 +7815,34 @@ Les titulaires des autorisations mentionnées au I de l'article L. 2332-1 donnen
 délai de huit jours à dater de leur acceptation, des commandes de matériels des quatre premières catégories, non destinées à
 l'exportation, autres que celles qui émanent de l'Etat et ne peuvent les exécuter que sur autorisation expresse. 
 
-Les prescriptions relatives à l'importation et à l'exportation, y compris celles qui concernent l'acceptation des commandes
-en vue de l'exportation, font l'objet des articles L. 2335-1 à L. 2335-3.
+Les prescriptions relatives à l'importation ou l'exportation hors du territoire de l'Union européenne ou au transfert au sein
+de l'Union européenne, y compris celles qui concernent l'acceptation des commandes en vue de l'exportation ou du transfert,
+sont définies au chapitre V du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de la défense. - art. L2332-1 (V)
-	  - Code de la défense. - art. L2335-1 (V)
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
 
 	**Cité par**:
 
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 	  - Code de la défense. - art. L2339-1 (M)
 	  - Code de la défense. - art. L2339-3 (VD)
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 8
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
 ##### Section 3 : Retrait des autorisations
@@ -8105,24 +8067,35 @@ et L. 2333-6, est sanctionnée par les pénalités prévues dans les cahiers des
 	  - Décret-loi 1935-10-30 art. 6
 
 
-##### Chapitre V : Importations et exportations
+##### Chapitre V : Importations et exportations. ―  Transferts au sein de l'Union européenne
+
+##### Section 1 : Importations et exportations des matériels de guerre et matériels assimilés hors du territoire de l'Union européenne
+
+##### Sous-section 1 : Autorisations d'importation et dérogations
 
 ###### Article L2335-1
 
-L'importation des matériels des 1re, 2e, 3e, 4e, 5e et 6e catégories est prohibée. Des dérogations à cette prohibition
-peuvent être établies par décret. Dans ce cas, l'importation est subordonnée à l'obtention d'une autorisation d'importation
-délivrée dans des conditions définies par l'autorité administrative.
+I.-L'importation sans autorisation préalable des matériels de 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L.
+2331-1 provenant des Etats non membres de l'Union européenne est prohibée. 
 
-Aucun des matériels des 1re ou 4e catégories d'origine étrangère dont l'importation en France serait prohibée ne peut figurer
-dans une vente publique à moins d'avoir été au préalable rendu impropre à son usage normal.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les
+conditions dans lesquelles une autorisation d'importation peut être délivrée. 
+
+II.-Aucun des matériels de 1re ou 4e catégorie mentionnés au même article L. 2331-1 dont l'importation en France est prohibée
+ne peut figurer dans une vente publique à moins d'avoir été au préalable rendu impropre à son usage normal. 
+
+III.-Aucun importateur des matériels appartenant aux quatre premières catégories mentionnées audit article L. 2331-1 ne peut
+obtenir une autorisation d'importation s'il n'est pas déjà titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+
+Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une autorisation
+d'importation des matériels des quatre premières catégories dans des conditions définies par décret en Conseil d'Etat. 
+
+IV.-L'autorité administrative peut à tout moment, dans les conditions fixées par décret en Conseil d'Etat, suspendre,
+modifier, abroger ou retirer les autorisations d'importation qu'elle a délivrées, pour des raisons de respect des engagements
+internationaux de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique, ou
+pour non-respect des conditions spécifiées dans l'autorisation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 11, art. 26, alinéa 2
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 11 (Ab)
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 26 (Ab)
 
 	**Cité par**:
 
@@ -8180,18 +8153,32 @@ dans une vente publique à moins d'avoir été au préalable rendu impropre à s
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 11 (Ab)
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 26 (Ab)
+
+
+##### Sous-section 2 : Autorisations d'exportation et dérogations
 
 ###### Article L2335-2
 
-Il n'est accepté aucune commande en vue de l'exportation des matériels désignés à l'article L. 2335-3 sans agrément préalable
-donné dans des conditions fixées par l'autorité administrative. Il n'est pas non plus, sans le même agrément, procédé, aux
-fins de cession ou de livraison ultérieures à l'étranger, à aucune présentation ni à aucun essai de ceux de ces matériels
-désignés ci-dessus, qui sont définis par ladite autorité. Il en est de même pour la cession des licences commerciales de
-fabrication et de tous les documents nécessaires pour l'exécution des fabrications. Les prescriptions du présent article ne
-font pas obstacle à l'application, s'il y a lieu, des dispositions du chapitre 1er du livre IV du code pénal.
+L'exportation sans autorisation préalable de matériels de guerre et matériels assimilés vers des Etats non membres de l'Union
+européenne est prohibée.
+
+L'autorité administrative définit la liste de ces matériels de guerre et matériels assimilés soumis à autorisation préalable
+ainsi que les dérogations à cette autorisation.
 
 **Liens relatifs à cet article**
 
@@ -8243,36 +8230,59 @@ font pas obstacle à l'application, s'il y a lieu, des dispositions du chapitre 
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la défense. - art. L2335-3 (V)
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 12
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 12 (Ab)
 
 
 ###### Article L2335-3
 
-L'exportation sous un régime douanier quelconque, sans autorisation, des matériels de guerre et matériels assimilés, est
-prohibée.
+I.-L'autorisation préalable d'exportation, dénommée licence d'exportation, est accordée par l'autorité administrative, sous
+l'une des formes suivantes : 
 
-L'autorité administrative définit :
+1° Des arrêtés dénommés " licences générales d'exportation ", comportant des listes de matériels et autorisant directement
+tout exportateur établi en France remplissant certaines conditions définies par l'autorité administrative à expédier ces
+matériels vers une ou plusieurs catégories de destinataires situés dans un Etat non membre de l'Union européenne ; 
 
-1° La liste des matériels désignés ci-dessus ;
+2° Des licences globales d'exportation, faisant l'objet d'une notification, autorisant, à sa demande, un exportateur établi
+en France à expédier des matériels de guerre et matériels assimilés spécifiques à un ou plusieurs destinataires identifiés,
+situés dans un Etat non membre de l'Union européenne, pour une durée déterminée, sans limite de quantité ni de montant ; 
 
-2° Les dérogations à l'obligation d'autorisation préalable ;
+3° Des licences individuelles d'exportation, faisant l'objet d'une notification, autorisant, à sa demande, un exportateur
+établi en France à expédier, en une ou plusieurs fois, un ou plusieurs matériels de guerre et matériels assimilés à un
+destinataire situé dans un Etat non membre de l'Union européenne. 
 
-3° La procédure de délivrance des autorisations d'exportation.
+Les licences d'exportation peuvent comporter des conditions ou des restrictions concernant l'utilisation finale de ces
+matériels. 
 
-Les contestations en douane portant sur la prohibition d'importation ou d'exportation édictée par le présent décret sont
-déférées à un comité siégeant auprès du ministre de la défense et tranchées par lui souverainement.
+II.-Les licences générales d'exportation autorisent tout exportateur établi en France à effectuer des exportations de
+matériels de guerre et matériels assimilés, y compris toutes les opérations commerciales préalables. 
 
-L'organisation et le fonctionnement de ce comité sont déterminés par l'autorité administrative.
+III.-Les licences globales et les licences individuelles d'exportation autorisent un exportateur établi en France à procéder
+à l'exportation de matériels de guerre et matériels assimilés, y compris toutes les opérations commerciales préalables. 
+
+IV.-Les opérations préalables mentionnées aux II et III comprennent la communication d'informations dans le cadre de la
+négociation d'un contrat, l'acceptation d'une commande ou la signature d'un contrat. 
+
+A la demande de l'exportateur ou lorsque l'autorité administrative l'estime nécessaire, compte tenu de l'opération
+d'exportation, l'autorisation peut être limitée à la communication d'informations dans le cadre de la négociation d'un
+contrat, à l'acceptation d'une commande ou à la signature d'un contrat. 
+
+V.-Aucun exportateur des matériels appartenant aux quatre premières catégories mentionnées à l'article L. 2331-1 ne peut
+utiliser une licence générale d'exportation ou obtenir une licence globale ou individuelle d'exportation s'il n'est déjà
+titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+
+Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une licence
+générale, globale ou individuelle d'exportation des matériels des quatre premières catégories. 
+
+VI.-Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8314,27 +8324,39 @@ L'organisation et le fonctionnement de ce comité sont déterminés par l'autori
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 13
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 13 (Ab)
 
 
 ###### Article L2335-4
 
-Tous les canons d'armes de guerre destinés au commerce extérieur sont soumis à des épreuves constatées par l'application d'un
-poinçon. Ces canons reçoivent, en outre, une marque dite d'exportation. Le régime et le tarif des épreuves et des marques
-sont déterminés par décret s'il y a lieu.
+L'autorité administrative peut à tout moment, dans les conditions fixées par un décret en Conseil d'Etat, suspendre,
+modifier, abroger ou retirer les licences d'exportation qu'elle a délivrées, pour des raisons de respect des engagements
+internationaux de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique ou
+pour non-respect des conditions spécifiées dans la licence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -8347,8 +8369,577 @@ sont déterminés par décret s'il y a lieu.
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 14
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 14 (Ab)
+
+
+##### Sous-section 3 : Obligations des exportateurs et des importateurs
+
+###### Article L2335-5
+
+Les exportateurs de matériels de guerre et matériels assimilés informent le ministre de la défense, dans un délai fixé par
+voie réglementaire, de leur intention d'utiliser une licence générale d'exportation pour la première fois. 
+
+Les exportateurs de matériels de guerre et matériels assimilés informent les destinataires des conditions dont est assortie
+la licence d'exportation ainsi que, le cas échéant, des restrictions dont elle fait l'objet concernant l'utilisation finale
+de ces matériels ou leur réexportation. Ces conditions et restrictions doivent être reproduites dans le contrat ou dans tout
+acte liant les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 10 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 17 (VT)
+	  - Code de la défense. - art. L2339-11-2 (VD)
+	  - Code de la défense. - art. R2335-10 (V)
+	  - Code de la défense. - art. R2335-16 (VD)
+
+
+###### Article L2335-6
+
+Les exportateurs de matériels de guerre et matériels assimilés tiennent, dans des conditions déterminées par l'autorité
+administrative, un registre des exportations qu'ils ont effectuées. 
+
+Le registre des exportations ainsi que l'ensemble des documents commerciaux nécessaires à leur réalisation sont conservés
+pendant dix ans à compter de la fin de l'année civile au cours de laquelle l'exportation a eu lieu. 
+
+Les exportateurs sont également tenus de transmettre à l'administration un compte rendu des prises de commande et des
+exportations effectuées. Les importateurs sont tenus de transmettre à l'administration un compte rendu des importations
+effectuées. L'autorité administrative définit le contenu de ce document, la périodicité de sa transmission et la liste des
+catégories de matériels concernées par cette obligation. 
+
+L'autorité administrative définit, en outre, les obligations spécifiques qui s'appliquent aux exportateurs sollicitant une
+licence globale d'exportation. 
+
+Sans préjudice des compétences du ministre chargé des douanes, le ministre de la défense exerce le contrôle du respect des
+obligations définies à la présente sous-section. 
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 18 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 19 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 8 (VT)
+	  - Arrêté du 30 novembre 2011 - art. 1 (V)
+	  - Arrêté du 30 novembre 2011 - art. 2 (V)
+	  - Arrêté du 30 novembre 2011 - art. 3 (VD)
+	  - Arrêté du 30 novembre 2011 - art. 5 (V)
+	  - Arrêté du 30 novembre 2011 - art. 6 (V)
+	  - Arrêté du 14 novembre 2014 - art. (V)
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. L2339-11-3 (VD)
+	  - Code de la défense. - art. R2335-17 (VD)
+	  - Code de la défense. - art. R2335-18 (VD)
+	  - Code de la défense. - art. R2335-19 (VD)
+	  - Code de la défense. - art. R2339-1 (VD)
+	  - Code de la sécurité intérieure - art. R316-37 (V)
+
+
+###### Article L2335-7
+
+Lors du dépôt d'une demande de licence d'exportation, les exportateurs de matériels de guerre et matériels assimilés qu'ils
+ont reçus au titre d'une licence de transfert publiée ou notifiée par un autre Etat membre de l'Union européenne et faisant
+l'objet de restrictions à l'exportation déclarent à l'autorité administrative qu'ils ont respecté ces restrictions ou, le cas
+échéant, qu'ils ont obtenu l'accord de cet Etat membre. Les modalités de cette déclaration sont fixées par l'autorité
+administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 15 (VD)
+	  - Arrêté du 30 novembre 2011 - art. 1 (VT)
+	  - Arrêté du 14 avril 2014 - art. 4 (VD)
+	  - Code de la défense. - art. L2339-11-2 (VD)
+	  - Code de la défense. - art. R2335-10 (V)
+	  - Code de la défense. - art. R2335-16 (VD)
+
+
+##### Section 2 : Transferts de produits liés à la défense au sein de l'Union européenne 
+
+
+
+
+
+
+
+##### Sous-section 1 : Définitions 
+
+
+
+###### Article L2335-8
+
+On entend par " transfert ” toute transmission ou tout mouvement de produits liés à la défense d'un fournisseur situé en
+France vers un destinataire situé dans un autre Etat membre de l'Union européenne ou d'un fournisseur situé dans un autre
+Etat membre vers un destinataire situé en France. 
+
+On entend par " fournisseur ” la personne physique ou morale établie en France responsable d'un transfert. 
+
+On entend par " destinataire ” la personne physique ou morale établie en France ou sur le territoire d'un autre Etat membre
+de l'Union européenne et qui est responsable de la réception d'un transfert. 
+
+On entend par " licence de transfert ” une autorisation publiée ou notifiée par l'autorité administrative et permettant à un
+fournisseur établi en France de transférer des produits liés à la défense à un destinataire situé dans un Etat membre de
+l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+
+##### Sous-section 2 : Autorisations de transfert et dérogations 
+
+
+
+
+###### Article L2335-9
+
+Le transfert de produits liés à la défense effectué depuis la France vers les autres Etats membres de l'Union européenne est
+soumis à autorisation préalable mentionnée à l'article L. 2335-10. 
+
+L'autorité administrative définit la liste des produits liés à la défense soumis à autorisation préalable conformément à
+l'annexe à la directive 2009/43/ CE du Parlement européen et du Conseil du 6 mai 2009 simplifiant les conditions des
+transferts de produits liés à la défense dans la Communauté.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 77 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 79 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
+	  - Arrêté du 11 décembre 2001 - art. 1 (V)
+	  - Arrêté du 2 décembre 2009 - art. 41 (VD)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 23 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 26 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 32 (VT)
+	  - Arrêté du 6 janvier 2012 - art. (V)
+	  - Arrêté du 6 janvier 2012 - art. 4 (V)
+	  - Arrêté du 27 juin 2012 - art. 2 (V)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 134 (Ab)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 83 (Ab)
+	  - Arrêté du 14 novembre 2014 - art. (V)
+	  - Arrêté du 14 novembre 2014 - art. 4 (V)
+	  - Décret n°2017-909 du 9 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. L2342-8 (V)
+	  - Code de la défense. - art. R2331-1 (V)
+	  - Code de la défense. - art. R2332-17 (V)
+	  - Code de la défense. - art. R2332-18 (V)
+	  - Code de la défense. - art. R2335-21 (V)
+	  - Code de la défense. - art. R2335-26 (VD)
+	  - Code de la défense. - art. R2335-29 (VD)
+	  - Code de la défense. - art. R2342-20 (V)
+	  - Code de la défense. - art. R2352-3 (V)
+	  - Code de la sécurité intérieure - art. R313-29 (V)
+	  - Code de la sécurité intérieure - art. R313-40 (V)
+	  - Code de la sécurité intérieure - art. R316-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-10
+
+
+###### Article L2335-10
+
+I. ― L'autorisation préalable de transfert, dénommée licence de transfert, est accordée par l'autorité administrative en
+tenant compte notamment de la sensibilité de l'opération ou de la catégorie d'opérations, sous l'une des formes suivantes : 
+
+1° Des arrêtés dénommés licences générales de transfert, comportant des listes de produits autorisant directement tout
+fournisseur établi en France à effectuer le transfert de ces produits vers une ou plusieurs catégories de destinataires
+situés dans un autre Etat membre de l'Union européenne ; 
+
+2° Des licences globales de transfert, faisant l'objet d'une notification, autorisant, à sa demande, un fournisseur établi en
+France à effectuer des transferts de produits liés à la défense spécifiques à un ou plusieurs destinataires identifiés,
+situés dans un autre Etat membre de l'Union européenne, pour une durée déterminée sans limite de quantité ni de montant ; 
+
+3° Des licences individuelles de transfert, faisant l'objet d'une notification, autorisant, à la demande d'un fournisseur
+établi en France, à transférer, en une ou plusieurs fois, un ou plusieurs produits liés à la défense à un destinataire situé
+dans un autre Etat membre de l'Union européenne. 
+
+Les licences de transfert peuvent comporter des conditions ou des restrictions concernant l'utilisation finale de ces
+produits ou leur exportation hors du territoire de l'Union européenne. 
+
+II. ― Les licences générales de transfert autorisent tout fournisseur à effectuer des transferts de produits liés à la
+défense, y compris toutes les opérations commerciales préalables. 
+
+III. ― Les licences globales et les licences individuelles de transfert autorisent un fournisseur à procéder au transfert de
+produits liés à la défense, y compris toutes les opérations commerciales préalables. 
+
+IV. ― Les opérations préalables mentionnées aux II et III comprennent la communication d'informations dans le cadre de la
+négociation d'un contrat, l'acceptation d'une commande ou la signature d'un contrat. 
+
+A la demande du fournisseur, ou lorsque l'autorité administrative l'estime nécessaire compte tenu de la nature des
+informations en cause, l'autorisation peut être limitée à la communication de certaines informations dans le cadre de la
+négociation d'un contrat, à l'acceptation d'une commande ou à la signature d'un contrat. 
+
+V. ― Les licences de transfert publiées ou notifiées par un Etat membre de l'Union européenne autorisent l'entrée ou le
+passage par le territoire national, sous réserve de l'application de dispositions nécessitées par les exigences de la
+protection de la sécurité publique, de l'ordre public ou de la sécurité des transports. 
+
+VI. ― Aucun fournisseur des matériels appartenant aux quatre premières catégories mentionnées à l'article L. 2331-1 ne peut
+utiliser une licence générale de transfert ou obtenir une licence globale ou individuelle de transfert s'il n'est déjà
+titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+
+Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une licence
+générale, globale ou individuelle de transfert des matériels des quatre premières catégories. 
+
+VII. ― Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 70 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 37-1 (VD)
+	  - Arrêté du 30 novembre 2011 - art. 1 (VD)
+	  - Arrêté du 30 novembre 2011 - art. 5 (V)
+	  - Arrêté du 30 novembre 2011 - art. 6 (V)
+	  - Code de la défense. - art. L2335-11 (VD)
+	  - Code de la défense. - art. L2335-16 (VD)
+	  - Code de la défense. - art. L2335-9 (VD)
+	  - Code de la défense. - art. R2335-21 (V)
+	  - Code de la défense. - art. R2335-22 (V)
+	  - Code de la défense. - art. R2335-40-1 (V)
+	  - Code de la sécurité intérieure - art. R312-19 (VD)
+	  - Code des douanes - art. 38 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2331-1
+	  - Code de la défense. - art. L2332-1
+
+
+###### Article L2335-11
+
+L'autorité administrative peut accorder des dérogations à l'obligation d'autorisation préalable mentionnée à l'article L.
+2335-10 lorsque : 
+
+1° Le fournisseur ou le destinataire est une institution publique au sens de l'article 4 de la directive 2009/43/ CE du
+Parlement européen et du Conseil du 6 mai 2009, précitée ou fait partie des forces armées ; 
+
+2° Les livraisons sont effectuées par l'Union européenne, l'Organisation du traité de l'Atlantique nord, l'Agence
+internationale de l'énergie atomique ou d'autres organisations intergouvernementales aux fins d'exécution de leurs
+missions ; 
+
+3° Le transfert est nécessaire pour la mise en œuvre d'un programme de coopération en matière d'armements entre Etats membres
+de l'Union européenne ; 
+
+4° Le transfert est lié à l'aide humanitaire en cas de catastrophe ou réalisé en tant que don dans le contexte d'une
+situation d'urgence ; 
+
+5° Le transfert est nécessaire dans le cadre d'opérations de réparation, d'entretien, d'exposition ou de démonstration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 2 juin 2014 - art. 2 (V)
+	  - Code de la défense. - art. R2335-26 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-10
+
+
+###### Article L2335-12
+
+L'autorité administrative peut à tout moment, dans les conditions fixées par décret en Conseil d'Etat, suspendre, modifier,
+abroger ou retirer les licences de transfert qu'elle a délivrées, pour des raisons de respect des engagements internationaux
+de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique ou pour non-respect
+des conditions spécifiées dans la licence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2335-18 (VD)
+	  - Code de la défense. - art. L2339-1-2 (V)
+	  - Code de la défense. - art. R2335-27 (VD)
+
+
+##### Sous-section 3 : Obligations des fournisseurs et des destinataires 
+
+
+
+
+###### Article L2335-13
+
+Les fournisseurs de produits liés à la défense informent le ministre de la défense, dans un délai fixé par voie
+réglementaire, de leur intention d'utiliser une licence générale de transfert pour la première fois. L'autorité
+administrative peut exiger des informations supplémentaires sur les produits dont le transfert est envisagé. 
+
+Les fournisseurs de produits liés à la défense informent les destinataires des conditions dont est assortie la licence de
+transfert ainsi que, le cas échéant, des restrictions dont elle fait l'objet concernant l'utilisation finale de ces produits
+ou leur exportation hors du territoire de l'Union européenne. Ces conditions et restrictions doivent être reproduites dans le
+contrat ou dans tout acte liant les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 22 (VT)
+	  - Code de la défense. - art. L2339-11-2 (VD)
+	  - Code de la défense. - art. R2335-22 (V)
+
+
+###### Article L2335-14
+
+Les fournisseurs de produits liés à la défense tiennent, dans des conditions déterminées par l'autorité administrative, un
+registre des transferts qu'ils ont effectués. 
+
+Le registre des transferts, ainsi que l'ensemble des documents commerciaux nécessaires à leur réalisation, sont conservés
+pendant dix ans à compter de la fin de l'année civile au cours de laquelle le transfert a eu lieu. 
+
+Les fournisseurs et les destinataires sont également tenus de transmettre à l'administration un compte rendu des prises de
+commande et des transferts effectués et reçus. L'autorité administrative définit le contenu de ce document, la périodicité de
+sa transmission et la liste des catégories de produits concernées par cette obligation. 
+
+Sans préjudice des compétences du ministre chargé des douanes, le ministre de la défense exerce le contrôle du respect des
+obligations définies à la présente sous-section. 
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat. Celui-ci fixe, en particulier,
+les informations qui doivent figurer dans le registre mentionné au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 32 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 33 (VT)
+	  - Arrêté du 30 novembre 2011 - art. 1 (V)
+	  - Arrêté du 30 novembre 2011 - art. 2 (V)
+	  - Arrêté du 30 novembre 2011 - art. 3 (VD)
+	  - Arrêté du 30 novembre 2011 - art. 5 (V)
+	  - Arrêté du 30 novembre 2011 - art. 6 (V)
+	  - Arrêté du 14 novembre 2014 - art. (V)
+	  - Arrêté du 28 juillet 2015 - art. 5 (V)
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. L2339-11-3 (VD)
+	  - Code de la défense. - art. R2335-29 (VD)
+	  - Code de la défense. - art. R2335-30 (VD)
+
+
+###### Article L2335-15
+
+Lorsque le transfert d'un produit en provenance d'un autre Etat membre de l'Union européenne est conditionné par cet Etat à
+la production d'une déclaration d'utilisation, le destinataire atteste que le produit lié à la défense qu'il acquiert doit
+être intégré dans ses propres produits et qu'il ne peut être ni transféré ni exporté en l'état à partir du territoire
+français, sauf dans un but d'entretien ou de réparation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 2012 - art. (V)
+	  - Code de la défense. - art. L2339-11-2 (VD)
+
+
+##### Sous-section 4 : Certification 
+
+
+
+
+###### Article L2335-16
+
+Les entreprises souhaitant être destinataires de produits liés à la défense transférés au titre des licences générales des
+autres Etats membres de l'Union européenne sollicitent, auprès de l'autorité administrative, une certification attestant de
+leur fiabilité, notamment de leur capacité à appliquer les restrictions mentionnées au dernier alinéa du I de l'article L.
+2335-10. 
+
+Les critères de certification sont définis par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 37 (VT)
+	  - Arrêté du 30 novembre 2011 - art. 1 (V)
+	  - Code de la défense. - art. R2335-32 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-10
+
+
+##### Sous-section 5 : Transferts soumis à une procédure spécifique 
+
+
+
+
+###### Article L2335-17
+
+I. ― Pour le contrôle de l'acquisition et de la détention d'armes, de munitions et de leurs éléments, le transfert de
+certaines armes, munitions et leurs éléments acquis à titre personnel figurant sur une liste fixée par décret en Conseil
+d'Etat, ainsi que des armes, munitions et leurs éléments non considérés comme matériels de guerre figurant sur la même liste,
+est soumis à une autorisation préalable spécifique. 
+
+Des dérogations à cette autorisation préalable peuvent être établies par l'autorité administrative. 
+
+II. ― L'autorité administrative peut à tout moment suspendre, modifier, abroger ou retirer les autorisations préalables
+qu'elle a délivrées pour des raisons de respect des engagements internationaux de la France, de protection des intérêts
+essentiels de sécurité, d'ordre public ou de sécurité publique ou pour non-respect des conditions spécifiées dans
+l'autorisation préalable. 
+
+III. ― Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 91 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 95-4 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 99 (VT)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 156 (Ab)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 159 (Ab)
+	  - Décret n°2017-909 du 9 mai 2017 - art. 8
+	  - Code de la défense. - art. L2339-10 (V)
+	  - Code de la sécurité intérieure - art. R316-2 (V)
+	  - Code de la sécurité intérieure - art. R316-23 (V)
+	  - Code de la sécurité intérieure - art. R316-26 (V)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+
+###### Article L2335-18
+
+I. ― Est soumis à une autorisation préalable le transfert effectué depuis la France vers les autres Etats membres de l'Union
+européenne des matériels suivants : 
+
+1° Les satellites de détection ou d'observation, leurs équipements d'observation et de prises de vue ainsi que leurs stations
+au sol d'exploitation, conçus ou modifiés pour un usage militaire ou auxquels leurs caractéristiques confèrent des capacités
+militaires ; 
+
+2° Les véhicules spatiaux, les autres satellites, leurs stations au sol d'exploitation, leurs équipements spécialement conçus
+ou modifiés pour un usage militaire ; 
+
+3° Les moteurs et systèmes de propulsion spécialement conçus ou modifiés pour les matériels mentionnés aux 1° et 2° ; 
+
+4° Les fusées et les lanceurs spatiaux à capacité balistique militaire, leurs équipements et composants ainsi que les moyens
+spécialisés de production, d'essai et de lancement ; 
+
+5° Les parties, composants, accessoires et matériels spécifiques d'environnement, y compris les équipements de maintenance,
+des matériels mentionnés aux 1° à 3° ; 
+
+6° Les outillages spécialisés de fabrication des matériels mentionnés aux 1° à 4°. 
+
+L'autorisation est refusée lorsque le transfert est de nature à compromettre les intérêts essentiels de la sécurité. 
+
+II. ― Les articles L. 2335-12 à L. 2335-15 sont applicables aux transferts régis par le I du présent article. 
+
+III. ― Un décret en Conseil d'Etat détermine les conditions et la procédure de délivrance de cette autorisation ainsi que les
+éventuelles dérogations à cette obligation d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-965 du 16 juillet 1955 - art. 1 (V)
+	  - Décret n°55-965 du 16 juillet 1955 - art. 4 (V)
+	  - Arrêté du 11 décembre 2001 - art. 1 (V)
+	  - Loi n°2011-702 du 22 juin 2011 - art. 7 (V)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 25 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 30 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 35 (VT)
+	  - Arrêté du 3 juin 2013 - art. 1 (V)
+	  - Arrêté du 6 juin 2013 - art. 1 (V)
+	  - Arrêté du 14 avril 2014 - art. 1 (VD)
+	  - Arrêté du 14 avril 2014 - art. 2 (VD)
+	  - Arrêté du 2 juin 2014 - art. 2 (V)
+	  - Arrêté du 28 juillet 2015 - art. 1 (V)
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. R2335-39 (V)
+	  - Code de la défense. - art. R2335-40 (VD)
+	  - Code des douanes - art. 38 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-12
+
+
+##### Sous-section 6 : Dispositions communes 
+
+
+
+
+###### Article L2335-19
+
+Les contestations en douane portant sur la prohibition d'importation, d'exportation ou de transfert prévue au présent
+chapitre peuvent être soumises à un comité siégeant auprès du ministre de la défense et tranchées par lui. L'organisation et
+le fonctionnement de ce comité sont déterminés par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-929 du 31 juillet 2012 (Ab)
+	  - Décret n°2012-929 du 31 juillet 2012 - art. 1 (Ab)
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 
 
 ##### Chapitre VI : Acquisition et détention
@@ -8505,10 +9096,49 @@ immobiliser les moyens de transport quand les conducteurs ne s'arrêtent pas à 
 ###### Article L2339-1
 
 Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
-douanes et par les autorités de police judiciaire qui en dressent procès-verbal.
+douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
 
-Ces infractions peuvent également être constatées par les agents relevant du contrôle général des armées qui possèdent, à cet
-effet, les attributions d'officier de police judiciaire et dont les procès-verbaux sont adressés au ministre de la défense.
+Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
+constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
+application. 
+
+Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
+parties de leurs locaux, les agents habilités de l'Etat. 
+
+Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
+
+Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
+habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
+recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
+
+Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
+en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
+pénal. 
+
+Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
+présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
+de leurs missions respectives. 
+
+En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
+procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
+ministre de la défense. 
+
+Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
+dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I
+et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une
+personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement
+compétent. 
+
+Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
+de l'autorité habilitée par lui. 
+
+A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
+lui. 
+
+Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
+par tout moyen. 
+
+L'autorité visée au huitième alinéa du présent article est habilitée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -8551,20 +9181,21 @@ effet, les attributions d'officier de police judiciaire et dont les procès-verb
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 10 () JORF 13 décembre 2005
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L317-1 (VD)
+	  - Code pénal - art. 226-13
+	  - Code de la défense. - art. L2331-1
+	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 36
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 36 (Ab)
 
 
@@ -8629,9 +9260,16 @@ code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'art
 
 ###### Article L2339-3
 
-I.-Le fait de contrevenir aux dispositions du II de l'article L. 2332-1, des articles L. 2332-6 et L. 2332-9, du premier
-alinéa de l'article L. 2332-10 et de l'article L. 2335-2 est puni d'un emprisonnement de cinq ans et d'une amende de 75 000
-euros. 
+I.-Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 euros : 
+
+1° Le fait de contrevenir aux dispositions des II et III de l'article L. 2332-1, de l'article L. 2332-6, du premier alinéa de
+l'article L. 2332-10 et des articles L. 2336-2 et L. 2339-1 du présent titre ; 
+
+2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des
+dispositions de l'article L. 2332-2 ; 
+
+3° Le fait de céder ou de vendre des matériels de guerre, des armes, des munitions ou leurs éléments constitutifs à un
+mineur, hors les cas où cette vente est autorisée dans les conditions fixées par décret en Conseil d'Etat. 
 
 II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
 des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
@@ -8641,7 +9279,7 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
 
 	**Cité par**:
 
@@ -8653,8 +9291,14 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code de la défense. - art. L2332-1
+	  - Code de la défense. - art. L2332-10
+	  - Code de la défense. - art. L2332-2
+	  - Code de la défense. - art. L2332-6
+	  - Code de la défense. - art. L2336-2
 
 	**Anciens textes**:
 
@@ -8788,6 +9432,8 @@ sont définies par les dispositions du chapitre VII du titre Ier du livre III du
 
 ##### Section 5 : Sanctions pénales des importations
 
+##### Section 5 : Sanctions pénales des importations, exportations et transferts
+
 ###### Article L2339-10
 
 Est punie de cinq ans d'emprisonnement et d'une amende de 9 000 euros l'importation, sans autorisation, des matériels des 1re
@@ -8826,30 +9472,149 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 ###### Article L2339-11
 
 Est puni d'une amende de 3 750 euros et d'un emprisonnement de deux ans l'usage, par une personne non qualifiée, du poinçon
-mentionné dans l'article L. 2335-4. 
+mentionné à l'article L. 2332-8-1.
 
-Les contrefaçons d'un poinçon d'épreuve ou du poinçon d'exportation et l'usage frauduleux des poinçons contrefaisants sont
-punis d'une amende de 3 750 euros et d'un emprisonnement de cinq ans.
+Les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux des poinçons contrefaisants sont punis d'une amende de 3 750
+euros et d'un emprisonnement de cinq ans.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 27, alinéas 2 et 3
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 27 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-4 (V)
+	  - Code de la défense. - art. L2332-8-1
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 27 (Ab)
+
+
+###### Article L2339-11-1
+
+Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 € : 
+
+1° Sans préjudice de l'application du code des douanes, le fait de contrevenir aux articles L. 2335-2, L. 2335-3, L. 2335-9
+et L. 2335-10 et au I de l'article L. 2335-18 ; 
+
+2° Le fait de ne pas tenir ou de ne pas conserver durant le délai prévu le registre des exportations mentionné à l'article L.
+2335-6 et le registre des transferts mentionné à l'article L. 2335-14 ; 
+
+3° Le fait de ne pas présenter le registre des exportations ou le registre des transferts aux agents visés à l'article L.
+2339-1 à leur première demande ; 
+
+4° Le fait d'omettre, de manière répétée et significative, de renseigner une ou plusieurs des informations obligatoires des
+registres prévus aux articles L. 2335-6 et L. 2335-14.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 46 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 40 (VD)
+	  - Code de la défense. - art. L2339-11-4 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-14
+	  - Code de la défense. - art. L2335-18
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-6
+	  - Code de la défense. - art. L2335-9
+	  - Code de la défense. - art. L2339-1
+
+
+###### Article L2339-11-2
+
+Est puni d'un emprisonnement de trois ans et d'une amende de 45 000 € : 
+
+1° Le fait de ne pas reproduire les mentions obligatoires prescrites au second alinéa des articles L. 2335-5 ou L. 2335-13 ; 
+
+2° Le fait pour le destinataire de transférer ou d'exporter des matériels non intégrés dans ses produits en violation de
+l'engagement prévu à l'article L. 2335-15 ; 
+
+3° Le fait d'obtenir la licence d'exportation mentionnée à l'article L. 2335-7 à la suite d'une déclaration mensongère ou
+frauduleuse selon laquelle les restrictions à l'exportation de produits liés à la défense, reçus au titre d'une licence de
+transfert d'un Etat membre de l'Union européenne, ont été respectées ou levées par l'Etat membre d'origine ; 
+
+4° Le fait pour un destinataire d'omettre ou de refuser de répondre aux demandes qui lui sont adressées par les agents
+mentionnés à l'article L. 2339-1 concernant les utilisateurs finaux et l'utilisation finale de tous les produits exportés,
+transférés ou reçus par l'entreprise au titre d'une licence de transfert d'un autre Etat membre de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-13
+	  - Code de la défense. - art. L2335-15
+	  - Code de la défense. - art. L2335-5
+	  - Code de la défense. - art. L2335-7
+	  - Code de la défense. - art. L2339-1 (V)
+
+
+###### Article L2339-11-3
+
+Est puni d'une amende de 15 000 € : 
+
+1° Le fait pour un fournisseur ou un exportateur de ne pas informer le ministre de la défense, dans le délai fixé, y compris
+par négligence, de son intention d'utiliser une licence générale d'exportation ou une licence générale de transfert pour la
+première fois ; 
+
+2° Le fait de ne pas transmettre à l'autorité administrative la déclaration des matériels exportés mentionnée à l'article L.
+2335-6 et la déclaration des matériels transférés mentionnée à l'article L. 2335-14.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-14
+	  - Code de la défense. - art. L2335-6
+
+
+###### Article L2339-11-4
+
+Pour les infractions prévues aux articles L. 2339-11-1 et L. 2339-11-2, les personnes morales encourent : 
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
+
+2° Les peines mentionnées aux 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39 (V)
+	  - Code de la défense. - art. L2339-11-1
 
 
 ##### Section 6 : Sanctions pénales de la récidive
@@ -12753,9 +13518,19 @@ loi, dans le cas contraire. La convention a été publiée par le décret n° 20
 
 ###### Article L2352-1
 
-La production, l'importation, l'exportation, le commerce, l'emploi, le transport et, la conservation et la destruction des
-produits explosifs sont subordonnés à un agrément technique et aux autorisations et contrôles nécessités par les exigences de
-la sécurité publique et de la défense nationale.
+La production, l'importation et l'exportation hors du territoire de l'Union européenne, le transfert entre Etats membres de
+l'Union européenne, le commerce, l'emploi, le transport et la conservation des produits explosifs sont subordonnés à un
+agrément technique et aux autorisations et contrôles nécessités par les exigences de la sécurité publique et de la défense
+nationale.
+
+L'autorité administrative peut à tout moment suspendre, modifier, abroger ou retirer l'agrément technique et les
+autorisations d'importation et d'exportation hors du territoire de l'Union européenne ou de transfert entre Etats membres de
+l'Union européenne prévus à l'alinéa précédent qu'elle a délivrés, pour des raisons de respect des engagements internationaux
+de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique, ou pour non-respect
+des conditions fixées dans l'agrément technique ou spécifiées dans l'autorisation.
+
+Les conditions dans lesquelles l'agrément technique et les autorisations sont accordés, suspendus, modifiés, abrogés ou
+retirés et les opérations de contrôle effectuées sont déterminées par décret en Conseil d'Etat. 
 
 Les conditions dans lesquelles l'agrément technique et les autorisations sont accordés et les opérations de contrôle
 effectuées sont déterminées par décret en Conseil d'Etat.
@@ -12784,12 +13559,12 @@ effectuées sont déterminées par décret en Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
 
 
 ###### Article L2352-2
@@ -12917,8 +13692,7 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 
 Sont punis d'un emprisonnement de cinq ans et d'une amende de 4 500 euros : 
 
-1° Le fait de vendre ou d'exporter des produits explosifs figurant sur une liste établie par décret, ou de produire ou
-d'importer tout produit explosif, en violation de l'article L. 2352-1 ou des textes pris pour son application ; 
+1° Toute violation de l'article L. 2352-1 ou des textes pris pour son application ; 
 
 2° Le fait de refuser de se soumettre aux contrôles prévus à l'article L. 2352-1, ou d'y apporter des entraves, ou de ne pas
 fournir les renseignements demandés en vue de ces contrôles. 
@@ -12930,17 +13704,16 @@ organisée.
 
 	**Anciens textes**:
 
-	  - Loi n°70-575 1970-07-03 art. 6 I
 	  - Loi n°70-575 du 3 juillet 1970 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+	  - Loi n°2011-702 du 22 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -12953,7 +13726,7 @@ organisée.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2352-1 (V)
+	  - Code de la défense. - art. L2352-1
 
 
 ###### Article L2353-6
@@ -44699,6 +45472,43 @@ décret n° 2007-663 du 2 mai 2007 pris pour l'application des articles 30, 31 e
 	**Créé par**:
 
 	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+#### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS SOUMIS A AUTORISATION
+
+##### Chapitre IX : Sanctions pénales
+
+###### Article R2339-1
+
+Sont punis de l'amende prévue pour les contraventions de la quatrième classe : 
+
+1° Le fait d'omettre de renseigner une des informations obligatoires des registres prévus aux articles L. 2335-6 et L.
+2335-14 du code de la défense ; 
+
+2° Le fait d'omettre de renseigner une des informations obligatoires des comptes rendus mentionnés aux articles L. 2335-6 et
+L. 2335-14 du code de la défense ; 
+
+3° Le fait, pour les titulaires des autorisations et licences définies au chapitre V du titre III du livre III de la deuxième
+partie législative du code de la défense, de ne pas communiquer les informations et documents requis par les agents habilités
+mentionnés à l'article L. 2339-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 50
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-6
+	  - Code de la défense. - art. L2339-1
 
 	**Cité par**:
 

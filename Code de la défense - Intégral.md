@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-06-30
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -9429,8 +9429,6 @@ sont définies par les dispositions du chapitre VII du titre Ier du livre III du
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 32 (Ab)
 
-
-##### Section 5 : Sanctions pénales des importations
 
 ##### Section 5 : Sanctions pénales des importations, exportations et transferts
 
@@ -19679,12 +19677,12 @@ Officiers des armes de l'armée de terre, officiers de marine, officiers spécia
 officiers mécaniciens de l'air
 
 </td>
-      <td width="398" colspan="4" valign="bottom">
+      <td valign="bottom" colspan="4" width="398">
 
 59
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 63
 
@@ -19696,7 +19694,7 @@ officiers mécaniciens de l'air
 Officiers de gendarmerie
 
 </td>
-      <td valign="bottom" colspan="3" width="318">
+      <td valign="bottom" width="318" colspan="3">
 
 59
 
@@ -19706,24 +19704,24 @@ Officiers de gendarmerie
 60
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 63
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers de l'air
 
 </td>
-      <td colspan="2" valign="bottom" width="205">
+      <td valign="bottom" width="205" colspan="2">
 
 52
 
 </td>
-      <td valign="bottom" colspan="2" width="192">
+      <td colspan="2" valign="bottom" width="192">
 
 56
 
@@ -19746,7 +19744,7 @@ militaires des essences, administrateurs des affaires maritimes
 62
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 64
 
@@ -19758,7 +19756,7 @@ militaires des essences, administrateurs des affaires maritimes
 Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 
 </td>
-      <td colspan="4" width="398" valign="bottom">
+      <td width="398" colspan="4" valign="bottom">
 
 62
 
@@ -19770,12 +19768,12 @@ Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
 
 </td>
-      <td width="398" colspan="4" valign="bottom">
+      <td valign="bottom" colspan="4" width="398">
 
 62
 
@@ -19787,13 +19785,13 @@ Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
 maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td width="398" valign="bottom" colspan="4">
 
 66
 
@@ -19805,13 +19803,13 @@ maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infr
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
 sein de la trésorerie aux armées, aumôniers militaires
 
 </td>
-      <td width="398" colspan="4" valign="bottom">
+      <td valign="bottom" colspan="4" width="398">
 
 66
 
@@ -19911,12 +19909,12 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale
 
 </td>
-      <td valign="bottom" colspan="4" align="center">
+      <td align="center" colspan="4" valign="bottom">
 
 58 (y compris le grade de gendarme)
 
 </td>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 59
 
@@ -19933,20 +19931,26 @@ Sous-officiers du personnel navigant de l'armée de l'air
 47
 
 </td>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 52
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-
-Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers), major des ports (marine) et officiers
-mariniers de carrière des ports (marine)
+      <td>Infirmiers en soins généraux et spécialisés 
 
 </td>
-      <td colspan="5" valign="bottom" align="center">
+      <td colspan="5" align="center">62</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ceux du corps des infirmiers en soins
+généraux et spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
+
+</td>
+      <td align="center" valign="bottom" colspan="5">
 
 59
 
@@ -19958,7 +19962,7 @@ mariniers de carrière des ports (marine)
 Sous-officiers du service des essences des armées
 
 </td>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 -
 
@@ -19978,7 +19982,7 @@ ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière
 appariteurs
 
 </td>
-      <td valign="bottom" align="center" colspan="5">
+      <td align="center" valign="bottom" colspan="5">
 
 66
 
@@ -20068,11 +20072,6 @@ retraite.
 
 Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
 
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 40 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -20096,7 +20095,7 @@ effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 40
+	  - Loi n°2012-347 du 12 mars 2012 - art. 68
 
 	**Cite**:
 

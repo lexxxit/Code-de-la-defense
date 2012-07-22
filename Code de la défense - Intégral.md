@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-07-23
 
 # Partie législative
 
@@ -46023,24 +46023,20 @@ sont fixés par arrêté du ministre chargé des douanes.
 ###### Article R2342-20
 
 Sous réserve des dispositions communautaires applicables en la matière et en application du a du 2° du II de l'article L.
-2342-8, les opérations d'exportation portant sur les produits du tableau 1 sont soumises à l'agrément préalable prévu par
-l'article L. 2335-2 et à l'autorisation d'exportation prévue par l'article L. 2335-3.
+2342-8, les opérations d'exportation et de transfert intracommunautaire portant sur les produits du tableau 1 sont soumises
+aux autorisations prévues par les articles L. 2335-2 et L. 2335-9.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-143 du 15 février 2001 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-901 du 20 juillet 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-2 (V)
-	  - Code de la défense. - art. L2335-3 (V)
-	  - Code de la défense. - art. L2342-8 (V)
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-9
+	  - Code de la défense. - art. L2342-8
 
 
 ###### Article R2342-21
@@ -49189,23 +49185,21 @@ soumises aux dispositions du présent chapitre.
 
 ###### Article R2352-3
 
-L'importation et l'exportation, faites sous le couvert de l'autorisation spéciale prévue aux articles L. 2335-1 à L. 2335-3,
-des produits explosifs incorporés à un matériel de guerre, à une arme ou à une munition sont dispensées de la production des
-autorisations d'importation et d'exportation prévues par le présent chapitre.
+L'importation, l'exportation et le transfert intracommunautaire, faits sous le couvert de l'autorisation prévue aux articles
+L. 2335-1, L. 2335-2 et L. 2335-9, des produits explosifs incorporés à un matériel de guerre, à une arme ou à une munition
+sont dispensées de la production des autorisations d'importation et d'exportation prévues par le présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-901 du 20 juillet 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2 (V)
+	  - Code de la défense. - art. L2335-9 (V)
 
 
 ###### Article R2352-4
@@ -49714,21 +49708,17 @@ ces activités fait l'objet d'une déclaration selon les mêmes modalités.
 ###### Article R2352-19
 
 L'importation des produits explosifs destinés à un usage militaire est soumise à autorisation délivrée par le ministre chargé
-des douanes après avis du ministre de la défense et du ministre de l'intérieur.
+des douanes après avis du ministre de la défense et du ministre de l'intérieur. 
 
-L'exportation des produits explosifs destinés à un usage militaire, à l'exception de ceux régis par l'article L. 2335-3, est
-soumise à autorisation délivrée par le ministre chargé des douanes, après avis du ministre de la défense, du ministre de
-l'intérieur et du ministre des affaires étrangères.
+L'exportation et le transfert intracommunautaire des produits explosifs destinés à un usage militaire, à l'exception de ceux
+régis par les articles L. 2335-2 et L. 2335-9, est soumise à autorisation délivrée par le ministre chargé des douanes, après
+avis du ministre de la défense, du ministre de l'intérieur et du ministre des affaires étrangères.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°71-753 du 10 septembre 1971 - art. 6-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-901 du 20 juillet 2012 - art. 3
 
 	**Cité par**:
 
@@ -49740,7 +49730,7 @@ l'intérieur et du ministre des affaires étrangères.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-3 (V)
+	  - Code de la défense. - art. L2335-2 (V)
 
 
 ###### Article R2352-20

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-07-26
+Version Consolidée au 2012-08-02
 
 # Partie législative
 
@@ -22236,40 +22236,6 @@ exécutées et de faire cesser les gênes mentionnées et de rétablir l'état d
 
 #### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE
 
-##### Chapitre Ier : Fonds d'avances
-
-###### Article L5211-1
-
-Les dispositions relatives à la constitution des fonds d'avance mis à la disposition des unités des forces armées sont
-définies à l'article 34 de la loi n° 48-1347 du 27 août 1948 portant fixation du budget des dépenses militaires pour
-l'exercice 1948 et à l'article 8 de la loi n° 55-1046 du 6 août 1955 relative au développement des crédits affectés aux
-dépenses du ministère de la France d'outre-mer (dépenses militaires) pour les exercices 1955 et 1956.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-1347 du 27 août 1948
-	  - Loi n°55-1046 du 6 août 1955
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L5331-1 (V)
-	  - Code de la défense. - art. L5341-1 (M)
-	  - Code de la défense. - art. L5351-1 (M)
-	  - Code de la défense. - art. L5361-1 (M)
-	  - Code de la défense. - art. L5371-1 (M)
-
-
 ##### Chapitre III : Comptes de commerce
 
 ###### Article L5213-1
@@ -22361,19 +22327,23 @@ II. ― Un décret en Conseil d'Etat détermine les conditions d'application du 
 
 ###### Article L5331-1
 
-Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2 et L. 5211-1 à L. 5213-2.
+Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2, L. 5213-1 et L. 5213-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5211-1 (V)
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5213-1
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
@@ -22382,19 +22352,24 @@ Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2
 
 ###### Article L5341-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 5111-1 à L. 5121-2 et L. 5211-1 à L. 5213-2.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 5111-1 à L. 5121-2  , L. 5213-1 et L.
+5213-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5211-1 (V)
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5211-1
 
 
 ###### Article L5341-3
@@ -22438,19 +22413,23 @@ objet applicables localement.
 
 ###### Article L5351-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 5111-1 à L. 5121-2 et L. 5211-1 à L. 5213-2.
+Sont applicables en Polynésie française les dispositions des articles L. 5111-1 à L. 5121-2  , L. 5213-1 et L. 5213-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5211-1 (V)
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5211-1
 
 
 ###### Article L5351-3
@@ -22480,19 +22459,23 @@ l'intérêt des réceptions radioélectriques.
 
 ###### Article L5361-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 5111-1 à L. 5120-2 et L. 5211-1 à L. 5213-2.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 5111-1 à L. 5120-2 , L. 5213-1 et L. 5213-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5211-1 (V)
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5211-1
 
 
 ###### Article L5361-3
@@ -22524,21 +22507,25 @@ l'intérêt des réceptions radioélectriques.
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
 applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 5111-1 à L. 5112-3, L. 5114-1 à
-L. 5121-2 et L. 5211-1 à L. 5213-2.
+L. 5121-2  , L. 5213-1 et L. 5213-2.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5114-1 (V)
-	  - Code de la défense. - art. L5211-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5114-1
+	  - Code de la défense. - art. L5211-1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
 
 
 ###### Article L5371-3

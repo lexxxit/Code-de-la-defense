@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-08-04
+Version Consolidée au 2012-10-05
 
 # Partie législative
 
@@ -61815,15 +61815,15 @@ directeur, assisté d'un conseil de la formation et d'un conseil de la recherche
 
 ###### Article R3411-33
 
-I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-quatre membres. 
+I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées est composé de vingt-cinq membres. 
 
 Il comprend : 
 
 1° Huit représentants de l'Etat : 
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ; 
 
-b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ; 
+b) Un directeur de l'administration centrale de la direction générale de l'armement, ou son représentant ; 
 
 c) Le directeur des affaires financières du ministère de la défense, ou son représentant ; 
 
@@ -61837,16 +61837,18 @@ g) Un représentant du ministre chargé de la mer ;
 
 h) Un représentant du ministre chargé du budget. 
 
-2° Huit personnalités : 
+2° Neuf membres extérieurs :
 
-a) Le directeur général de l'Ecole polytechnique ou son représentant ; 
+a) Le directeur général de l'Ecole polytechnique ou son représentant ;
 
-b) Cinq personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux
-activités de l'école ; 
+b) Le directeur de l'Ecole nationale supérieure de techniques avancées Bretagne ou son représentant ;
 
-c) Un représentant du conseil régional de la région Ile-de-France ; 
+c) Cinq personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant aux
+activités de l'école ;
 
-d) Un représentant de l'association des anciens élèves de l'école. 
+d) Le président du conseil régional d'Ile-de-France ou son représentant ;
+
+e) Le président de l'association des anciens élèves de l'école ou son représentant.
 
 3° Huit représentants du personnel et des étudiants : 
 
@@ -61866,7 +61868,7 @@ consultative.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 3
 
 	**Cité par**:
 
@@ -62326,110 +62328,11 @@ L'exclusion définitive est prononcée par l'autorité qui a prononcé l'admissi
 
 ##### Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement
 
-###### Article R3411-57
-
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est un établissement public national à
-caractère administratif, doté de l'autonomie administrative et financière. Elle est placée sous la tutelle du ministre de la
-défense. Ses règles d'organisation et de fonctionnement sont fixées par la présente section, par un règlement intérieur et
-par un règlement de scolarité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D675-21 (V)
-	  - Code de l'éducation - art. D755-1 (VD)
-
-
-###### Article R3411-58
-
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement dispense à ses élèves un enseignement
-supérieur ayant pour objet la formation d'ingénieurs des études et techniques d'armement et d'ingénieurs civils français et
-étrangers, dans les domaines naval, mécanique, chimique et électronique et les domaines connexes. 
-
-Elle dispense également à des personnes titulaires de certains diplômes des enseignements de spécialisation ainsi que des
-enseignements de perfectionnement et de mise à jour des connaissances. 
-
-Les dispositions des articles L. 612-1, L. 612-7 et L. 613-1 à L. 613-4 du code de l'éducation sont applicables à l'école.
-
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement conduit des travaux de recherche scientifique
-et technique dans des installations et laboratoires qui lui sont propres ou qui sont mis à sa disposition ou qui relèvent
-d'organismes avec lesquels elle a conclu des accords de coopération. 
-
-Elle concourt, par l'ensemble de ses activités, organisées en collaboration avec les milieux scientifiques et professionnels
-nationaux, étrangers ou internationaux, à l'effort national de formation, de recherche et de développement technologique dans
-le cadre d'une politique d'information scientifique et technique. Elle peut passer, à cet effet, des contrats ou conventions
-avec tout organisme public ou privé, français, étranger ou international.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L612-1 (V)
-	  - Code de l'éducation - art. L612-7 (V)
-	  - Code de l'éducation - art. L613-1 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R3411-82 (V)
-
-
-###### Article R3411-59
-
-I. ― L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement admet dans son cycle de formation
-d'ingénieurs, en qualité d'élèves : 
-
-1° Les élèves ingénieurs des études et techniques d'armement recrutés par la voie du concours prévu à l'article 8 du décret
-n° 79-1135 du 27 décembre 1979 portant statut des corps militaires des ingénieurs des études et techniques ; sous réserve de
-l'article R. 3411-74, ces élèves sont soumis aux dispositions du décret n° 78-721 du 28 juin 1978 fixant certaines
-dispositions applicables aux élèves officiers de carrière des écoles militaires ; 
-
-2° Des officiers nommés par le ministre de la défense sur proposition d'un jury d'admission ; 
-
-3° Des élèves civils recrutés soit par concours sur épreuves, soit sur titres. 
-
-Elle admet également des auditeurs n'ayant pas la qualité d'élèves. 
-
-Les conditions générales d'admission des élèves civils et des auditeurs sont fixées, pour chaque voie d'accès, par arrêté du
-ministre de la défense, après avis du conseil d'administration. Les modalités générales de la scolarité et du contrôle des
-connaissances et les conditions d'obtention du diplôme de l'école sont fixées, pour la totalité des élèves et des auditeurs,
-dans les mêmes conditions. 
-
-II. ― L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement accueille également dans ses formations
-de troisième cycle et ses enseignements de spécialisation des stagiaires et des auditeurs. Les modalités de recrutement,
-l'organisation de la scolarité et les conditions de délivrance des diplômes sanctionnant ces formations et enseignements sont
-fixées dans les mêmes conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations de troisième cycle, respecter
-la réglementation nationale en vigueur. 
-
-III. ― Les élèves, auditeurs et stagiaires sont désignés dans les dispositions de la présente section sous l'appellation
-d'étudiants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°78-721 du 28 juin 1978 (Ab)
-	  - Décret n°79-1135 du 27 décembre 1979 - art. 8 (Ab)
-	  - Code de la défense. - art. R3411-74 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
 ##### Sous-section 1 : Organisation administrative
 
 ###### Article D3411-68
 
-Le conseil de la formation de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend : 
+Le conseil de la formation de             l'Ecole nationale supérieure de techniques avancées Bretagne comprend : 
 
 1° Le directeur de l'école ou son représentant, président ; 
 
@@ -62441,7 +62344,7 @@ d'administration ;
 
 4° Trois représentants du personnel enseignant de l'école désignés par ce personnel ; 
 
-5° Trois représentants de la     direction générale de l'armement ; 
+5° Trois représentants de la direction générale de l'armement ; 
 
 6° Cinq personnalités extérieures, dont une ayant la qualité d'ancien élève de l'école, choisies par le conseil
 d'administration, après avis du directeur ; 
@@ -62453,7 +62356,7 @@ avis des étudiants.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 	**Cité par**:
 
@@ -62480,7 +62383,7 @@ Il entend, en tant que de besoin, les rapports des responsables pédagogiques de
 
 ###### Article D3411-70
 
-Le conseil de la recherche de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprend : 
+Le conseil de la recherche de             l'Ecole nationale supérieure de techniques avancées Bretagne comprend : 
 
 1° Le directeur de l'école ou son représentant, président ; 
 
@@ -62491,7 +62394,7 @@ Le conseil de la recherche de l'Ecole nationale supérieure des ingénieurs des 
 4° Trois représentants du personnel des laboratoires de l'école, dont au moins un chercheur ou ingénieur, désignés par ce
 personnel ; 
 
-5° Trois représentants de la     direction générale de l'armement ; 
+5° Trois représentants de la direction générale de l'armement ; 
 
 6° Cinq personnalités extérieures choisies par le conseil d'administration ; 
 
@@ -62501,7 +62404,7 @@ personnel ;
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article D3411-71
@@ -62564,14 +62467,14 @@ remplacement pour la durée restant à courir, sauf si cette vacance intervient 
 
 ###### Article R3411-60
 
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est administrée par un conseil
-d'administration et dirigée par un directeur, assisté d'un conseil de la formation et d'un conseil de la recherche.
+L'Ecole nationale supérieure de techniques avancées Bretagne est administrée par un conseil d'administration et dirigée par
+un directeur, assisté d'un conseil de la formation et d'un conseil de la recherche.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 	**Cité par**:
 
@@ -62580,16 +62483,16 @@ d'administration et dirigée par un directeur, assisté d'un conseil de la forma
 
 ###### Article R3411-61
 
-I. ― Le conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est
-composé de vingt-quatre membres. 
+I. ― Le conseil d'administration de l'Ecole nationale supérieure de techniques avancées Bretagne est composé de vingt-cinq
+membres. 
 
 Il comprend : 
 
 1° Neuf représentants de l'Etat : 
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ; 
 
-b) Un directeur de l'administration centrale de la     direction générale de l'armement, ou son représentant ; 
+b) Un directeur de l'administration centrale de la direction générale de l'armement, ou son représentant ; 
 
 c) Le directeur des affaires financières du ministère de la défense, ou son représentant ; 
 
@@ -62605,16 +62508,18 @@ h) Un représentant du ministre chargé de la mer ;
 
 i) Un représentant du ministre chargé du budget ; 
 
-2° Sept personnalités : 
+2° Huit membres extérieurs :
 
-a) Le directeur général de l'institut supérieur de l'aéronautique et de l'espace ; 
+a) Le directeur général de l'Institut supérieur de l'aéronautique et de l'espace ou son représentant ;
 
-b) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant
-aux activités de l'école ; 
+b) Le directeur de l'Ecole nationale supérieure de techniques avancées ou son représentant ;
 
-c) Un représentant de l'association des anciens élèves de l'école ; 
+c) Quatre personnalités qualifiées, désignées en raison de leur compétence dans les branches professionnelles correspondant
+aux activités de l'école ;
 
-d) Un représentant du conseil régional de la région Bretagne ; 
+d) Le président du conseil régional de Bretagne ou son représentant ;
+
+e) Le président de l'association des anciens élèves de l'école ou son représentant ; 
 
 3° Huit représentants du personnel et des étudiants : 
 
@@ -62634,7 +62539,8 @@ consultative.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 4
 
 	**Cité par**:
 
@@ -62643,20 +62549,20 @@ consultative.
 
 ###### Article R3411-62
 
-Le président du conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement
-est choisi parmi les personnalités qualifiées, désignées en raison de leur compétence membres du conseil. L'inspecteur de
-l'armement mentionné au I de l'article R. 3411-61 est vice-président du conseil d'administration.
+Le président du conseil d'administration de l'Ecole nationale supérieure de techniques avancées Bretagne est choisi parmi les
+personnalités qualifiées, désignées en raison de leur compétence membres du conseil. L'inspecteur de l'armement mentionné au
+I de l'article R. 3411-61 est vice-président du conseil d'administration. 
 
-Le président du conseil d'administration est nommé par décret pour une période de trois ans renouvelable une fois.
+Le président du conseil d'administration est nommé par décret pour une période de trois ans renouvelable une fois. 
 
 Le vice-président et les autres membres du conseil d'administration sont nommés par arrêté du ministre de la défense pour une
-période de trois ans renouvelable une fois.
+période de trois ans renouvelable une fois. 
 
-Le mandat des représentants des étudiants prend fin à l'achèvement de leur scolarité.
+Le mandat des représentants des étudiants prend fin à l'achèvement de leur scolarité. 
 
 Toute vacance par décès, démission ou perte de la qualité au titre de laquelle les intéressés ont été désignés donne lieu à
 remplacement pour la durée du mandat restant à courir, sauf si cette vacance intervient moins de six mois avant l'expiration
-du mandat.
+du mandat. 
 
 Les fonctions de président et de membre du conseil d'administration sont gratuites. Il peut toutefois être alloué des
 indemnités au titre des frais de déplacement et de séjour dans les conditions applicables aux personnels des établissements
@@ -62664,9 +62570,13 @@ publics nationaux à caractère administratif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3411-61 (V)
 
 
 ###### Article R3411-63
@@ -62729,87 +62639,90 @@ Il adresse chaque année au ministre de la défense un rapport sur l'activité e
 
 ###### Article R3411-64
 
-Le conseil d'administration de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement se réunit, sur
+Le conseil d'administration de             l'Ecole nationale supérieure de techniques avancées Bretagne se réunit, sur
 convocation de son président, au moins deux fois par an. Il est également réuni par son président si la moitié au moins de
-ses membres en font la demande, ou à la demande de l'autorité de tutelle.
+ses membres en font la demande, ou à la demande de l'autorité de tutelle. 
 
 L'ordre du jour des séances du conseil est établi par le président. Toute question faisant l'objet d'une demande d'au moins
-un tiers des membres du conseil et entrant dans son domaine d'attributions est inscrite à l'ordre du jour.
+un tiers des membres du conseil et entrant dans son domaine d'attributions est inscrite à l'ordre du jour. 
 
 Le conseil d'administration ne peut valablement délibérer que lorsque la majorité des membres en exercice sont présents. Si
 ce quorum n'est pas atteint, le conseil est de nouveau convoqué dans un délai de deux semaines et peut valablement siéger
 quel que soit le nombre des administrateurs présents. Les délibérations sont prises à la majorité absolue des membres
-présents. En cas de partage égal des voix, la voix du président est prépondérante.
+présents. En cas de partage égal des voix, la voix du président est prépondérante. 
 
 Le président du conseil d'administration peut inviter à assister à tout ou partie des séances du conseil toute personne dont
 la présence lui paraît utile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-65
 
-Le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est choisi parmi les
-ingénieurs généraux et les ingénieurs en chef appartenant soit au corps militaire des ingénieurs de l'armement, soit au corps
-militaire des ingénieurs des études et techniques d'armement. Il est nommé par décret pour une durée de cinq ans
-renouvelable.
+Le directeur de l'Ecole nationale supérieure de techniques avancées Bretagne est choisi parmi les ingénieurs généraux et les
+ingénieurs en chef appartenant soit au corps militaire des ingénieurs de l'armement, soit au corps militaire des ingénieurs
+des études et techniques d'armement. Il est nommé par décret pour une durée de cinq ans renouvelable. 
 
 Le directeur dirige l'école dans le cadre des orientations définies par le conseil d'administration. Il rend compte chaque
 année de sa gestion à ce conseil. Il exerce les compétences qui ne sont pas attribuées à une autre autorité par la présente
-section.
+section. 
 
-Il exerce notamment les compétences suivantes :
+Il exerce notamment les compétences suivantes : 
 
-1° Il représente l'école en justice et dans les actes de la vie civile ;
+1° Il représente l'école en justice et dans les actes de la vie civile ; 
 
-2° Il prépare et exécute les décisions du conseil d'administration ;
+2° Il prépare et exécute les décisions du conseil d'administration ; 
 
-3° Il prépare et exécute le budget ;
+3° Il prépare et exécute le budget ; 
 
-4° Il est ordonnateur des recettes et des dépenses ;
+4° Il est ordonnateur des recettes et des dépenses ; 
 
-5° Il conclut les contrats et conventions dans le respect des dispositions de l'article R. 3411-63 ;
+5° Il conclut les contrats et conventions dans le respect des dispositions de l'article R. 3411-63 ; 
 
-6° Il a autorité sur l'ensemble des personnels et des étudiants de l'école ;
+6° Il a autorité sur l'ensemble des personnels et des étudiants de l'école ; 
 
-7° Il est responsable de la discipline générale de l'établissement ;
+7° Il est responsable de la discipline générale de l'établissement ; 
 
 8° Il nomme et affecte à tous les emplois et toutes les fonctions pour lesquels aucune autre autorité n'a reçu pouvoir de
-nomination.
+nomination. 
 
 En outre, le directeur, ou son représentant, préside le conseil de la formation et le conseil de la recherche.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3411-63 (V)
 
 
 ###### Article R3411-66
 
-Le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est responsable devant le
-ministre de la défense de l'observation des règlements militaires à l'intérieur de l'établissement.
+Le directeur de             l'Ecole nationale supérieure de techniques avancées Bretagne est responsable devant le ministre
+de la défense de l'observation des règlements militaires à l'intérieur de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-67
 
-Le directeur de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est assisté par un directeur
+Le directeur de             l'Ecole nationale supérieure de techniques avancées Bretagne est assisté par un directeur
 adjoint. Un directeur scientifique l'assiste dans l'élaboration de la politique scientifique de l'école et dans l'évaluation
-de cette politique. Un secrétaire général est chargé de la gestion administrative de l'établissement.
+de cette politique. Un secrétaire général est chargé de la gestion administrative de l'établissement. 
 
 Le directeur adjoint et le secrétaire général sont nommés par arrêté du ministre de la défense sur proposition du directeur
-de l'école. Le directeur scientifique est nommé par le directeur de l'école, après avis du conseil d'administration.
+de l'école. Le directeur scientifique est nommé par le directeur de l'école, après avis du conseil d'administration. 
 
 Le directeur adjoint est le suppléant du directeur. Le directeur peut en outre, sous sa responsabilité, déléguer sa signature
 au directeur adjoint et au secrétaire général pour accomplir, en son nom, certains actes relatifs à certaines de ses
@@ -62817,23 +62730,23 @@ attributions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-74
 
 Les dispositions des articles 5, 6, 7, 8 et 9 du décret n° 78-721 du 28 juin 1978 fixant certaines dispositions applicables
 aux élèves officiers de carrière des écoles militaires relatives au conseil d'instruction et au conseil de discipline des
-écoles militaires de formation d'officiers de carrière ne sont pas applicables à l'Ecole nationale supérieure des ingénieurs
-des études et techniques d'armement.
+écoles militaires de formation d'officiers de carrière ne sont pas applicables à l'Ecole nationale supérieure de techniques
+avancées Bretagne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 	**Cité par**:
 
@@ -62879,17 +62792,17 @@ Le directeur de l'école transmet l'avis du conseil d'instruction pour décision
 
 ###### Article R3411-76
 
-Le personnel enseignant, administratif, scientifique et technique de l'Ecole nationale supérieure des ingénieurs des études
-et techniques d'armement comprend :
+Le personnel enseignant, administratif, scientifique et technique de l'Ecole nationale supérieure de techniques avancées
+Bretagne comprend : 
 
-1° Des fonctionnaires affectés ou détachés, hors cadre ou mis à disposition ;
+1° Des fonctionnaires affectés ou détachés, hors cadre ou mis à disposition ; 
 
-2° Des personnels militaires affectés, en service détaché ou hors cadre ;
+2° Des personnels militaires affectés, en service détaché ou hors cadre ; 
 
 3° Des agents non titulaires de droit public, en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984
-relative au statut général de la fonction publique de l'Etat ;
+relative au statut général de la fonction publique de l'Etat ; 
 
-4° Des ouvriers des établissements industriels de l'Etat ;
+4° Des ouvriers des établissements industriels de l'Etat ; 
 
 5° Des personnels enseignants-chercheurs associés ou invités, recrutés dans les conditions prévues par la loi n° 84-16 du 11
 janvier 1984 relative au statut général de la fonction publique de l'Etat, pour une durée qui ne peut être inférieure à un
@@ -62899,9 +62812,13 @@ supérieur ou de recherche.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Loi n°84-16 du 11 janvier 1984 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ##### Sous-section 3 : Organisation financière
@@ -62911,14 +62828,14 @@ supérieur ou de recherche.
 Le régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
 applicable aux établissements publics nationaux à caractère administratif et le décret n° 62-1587 du 29 décembre 1962 portant
 règlement général de la comptabilité publique et par l'article 60 de la loi de finances du 23 février 1963 relatif à la
-responsabilité des comptables publics est applicable à l'Ecole nationale supérieure des ingénieurs des études et techniques
-d'armement, sous réserve des dispositions du présent titre.
+responsabilité des comptables publics est applicable à             l'Ecole nationale supérieure de techniques avancées
+Bretagne, sous réserve des dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-78
@@ -62938,46 +62855,46 @@ L'agent comptable est nommé par arrêté conjoint du ministre de la défense et
 
 ###### Article R3411-79
 
-Les recettes de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprennent notamment :
+Les recettes de             l'Ecole nationale supérieure de techniques avancées Bretagne comprennent notamment : 
 
 1° Les subventions de l'Etat, des collectivités publiques et de tout organisme public ou privé, français, étranger ou
-international ;
+international ; 
 
 2° Le produit des droits de scolarité, d'examens et de concours, ainsi que les versements et contributions des élèves, des
 auditeurs et des stagiaires et de toutes personnes, y compris les membres du personnel permanent ou non, admis par le
-directeur aux différents services de l'école ;
+directeur aux différents services de l'école ; 
 
 3° Les ressources provenant de ses activités de formation, des congrès, colloques et manifestations qu'elle organise et des
-prestations de services qu'elle effectue ;
+prestations de services qu'elle effectue ; 
 
 4° Les produits des travaux de recherche, de développement et d'application correspondant aux contrats qu'elle exécute, à
-l'exploitation et à la cession de brevets, ou aux publications qu'elle édite ;
+l'exploitation et à la cession de brevets, ou aux publications qu'elle édite ; 
 
 5° Les recettes provenant du produit des dons et legs et de la participation des employeurs au financement des premières
 formations technologiques et professionnelles ou des formations professionnelles continues, notamment au titre de la taxe
-d'apprentissage ;
+d'apprentissage ; 
 
 6° Les revenus des biens meubles et immeubles, et notamment les produits des locations et, de manière générale, toutes les
 recettes autorisées par les lois et règlements.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-80
 
-Les dépenses de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement comprennent les frais de
-personnel propres à l'établissement, les charges d'équipement, de fonctionnement, d'entretien, de sécurité et, d'une manière
-générale, toutes les dépenses nécessaires aux activités de l'école.
+Les dépenses de             l'Ecole nationale supérieure de techniques avancées Bretagne comprennent les frais de personnel
+propres à l'établissement, les charges d'équipement, de fonctionnement, d'entretien, de sécurité et, d'une manière générale,
+toutes les dépenses nécessaires aux activités de l'école.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-81
@@ -63000,15 +62917,19 @@ de l'agent comptable.
 
 ###### Article R3411-82
 
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement peut prendre des participations financières
-et créer des filiales dans le cadre des missions définies à l'article R. 3411-58 en vue notamment d'assurer la valorisation
-de ses recherches.
+L'Ecole nationale supérieure de techniques avancées Bretagne peut prendre des participations financières et créer des
+filiales dans le cadre des missions définies à l'article R. 3411-58 en vue notamment d'assurer la valorisation de ses
+recherches.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3411-58 (V)
 
 
 ###### Article R3411-83
@@ -63043,49 +62964,52 @@ du ministre chargé du budget.
 
 ###### Article R3411-84
 
-L'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est soumise au contrôle financier de l'Etat
-prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat. Les modalités particulières d'exercice de ce contrôle sont fixées par arrêté conjoint du ministre
-de la défense et du ministre chargé du budget.
+L'Ecole nationale supérieure de techniques avancées Bretagne est soumise au contrôle financier de l'Etat prévu par le décret
+n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les
+modalités particulières d'exercice de ce contrôle sont fixées par arrêté conjoint du ministre de la défense et du ministre
+chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ##### Sous-section 4 : Discipline
 
 ###### Article R3411-85
 
-Le conseil de discipline de l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement est chargé
-d'examiner le cas des étudiants ayant enfreint les dispositions du règlement intérieur ou du règlement de scolarité de
-l'établissement.
+Le conseil de discipline de             l'Ecole nationale supérieure de techniques avancées Bretagne est chargé d'examiner le
+cas des étudiants ayant enfreint les dispositions du règlement intérieur ou du règlement de scolarité de l'établissement. 
 
-Le conseil de discipline comprend :
+Le conseil de discipline comprend : 
 
-1° Le directeur de l'école ou le directeur adjoint, président ;
+1° Le directeur de l'école ou le directeur adjoint, président ; 
 
 2° Deux membres désignés par le conseil d'administration parmi les personnels occupant dans l'école des fonctions de
 responsabilité en matière d'administration, d'enseignement ou de recherche, ou leurs suppléants, désignés dans les mêmes
-conditions ;
+conditions ; 
 
 3° Deux étudiants en cours de scolarité, désignés par le directeur de l'école parmi les étudiants appartenant à la promotion
-intéressée, sur proposition de ces étudiants transmettant une liste de quatre noms.
+intéressée, sur proposition de ces étudiants transmettant une liste de quatre noms. 
 
-L'envoi d'un étudiant devant le conseil de discipline est décidé par le directeur de l'école.
+L'envoi d'un étudiant devant le conseil de discipline est décidé par le directeur de l'école. 
 
 Le conseil de discipline se réunit sur convocation de son président. Il ne peut délibérer que lorsque trois de ses membres au
-moins sont présents.
+moins sont présents. 
 
 Le conseil de discipline se prononce à la majorité de ses membres présents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
 
 
 ###### Article R3411-86
@@ -63132,6 +63056,116 @@ L'exclusion définitive est prononcée par l'autorité qui a prononcé l'admissi
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
+
+##### Section 3 : Ecole nationale supérieure de techniques avancées Bretagne
+
+###### Article R3411-57
+
+L'Ecole nationale supérieure de techniques avancées Bretagne est un établissement public national à caractère administratif,
+doté de l'autonomie administrative et financière. Elle est placée sous la tutelle du ministre de la défense. Ses règles
+d'organisation et de fonctionnement sont fixées par la présente section, par un règlement intérieur et par un règlement de
+scolarité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D675-21 (V)
+	  - Code de l'éducation - art. D755-1 (VD)
+
+
+###### Article R3411-58
+
+L'Ecole nationale supérieure de techniques avancées Bretagne dispense à ses élèves un enseignement supérieur ayant pour objet
+la formation d'ingénieurs des études et techniques d'armement et d'ingénieurs civils français et étrangers, dans les domaines
+naval, mécanique, chimique et électronique et les domaines connexes. 
+
+Elle dispense également à des personnes titulaires de certains diplômes des enseignements de spécialisation ainsi que des
+enseignements de perfectionnement et de mise à jour des connaissances. 
+
+Les dispositions des articles L. 612-1, L. 612-7 et L. 613-1 à L. 613-4 du code de l'éducation sont applicables à l'école.
+
+L'Ecole nationale supérieure de techniques avancées Bretagne conduit des travaux de recherche scientifique et technique dans
+des installations et laboratoires qui lui sont propres ou qui sont mis à sa disposition ou qui relèvent d'organismes avec
+lesquels elle a conclu des accords de coopération. 
+
+Elle concourt, par l'ensemble de ses activités, organisées en collaboration avec les milieux scientifiques et professionnels
+nationaux, étrangers ou internationaux, à l'effort national de formation, de recherche et de développement technologique dans
+le cadre d'une politique d'information scientifique et technique. Elle peut passer, à cet effet, des contrats ou conventions
+avec tout organisme public ou privé, français, étranger ou international.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L612-1
+	  - Code de l'éducation - art. L612-7
+	  - Code de l'éducation - art. L613-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3411-82 (V)
+
+
+###### Article R3411-59
+
+I. ― L'Ecole nationale supérieure de techniques avancées Bretagne admet dans son cycle de formation d'ingénieurs, en qualité
+d'élèves : 
+
+1° Les élèves ingénieurs des études et techniques d'armement recrutés par la voie du concours prévu à l'article 8 du décret
+n° 79-1135 du 27 décembre 1979 portant statut des corps militaires des ingénieurs des études et techniques ; sous réserve de
+l'article R. 3411-74, ces élèves sont soumis aux dispositions du décret n° 78-721 du 28 juin 1978 fixant certaines
+dispositions applicables aux élèves officiers de carrière des écoles militaires ; 
+
+2° Des officiers nommés par le ministre de la défense sur proposition d'un jury d'admission ; 
+
+3° Des élèves civils recrutés soit par concours sur épreuves, soit sur titres. 
+
+Elle admet également des auditeurs n'ayant pas la qualité d'élèves. 
+
+Les conditions générales d'admission des élèves civils et des auditeurs sont fixées, pour chaque voie d'accès, par arrêté du
+ministre de la défense, après avis du conseil d'administration. Les modalités générales de la scolarité et du contrôle des
+connaissances et les conditions d'obtention du diplôme de l'école sont fixées, pour la totalité des élèves et des auditeurs,
+dans les mêmes conditions. 
+
+II. ― L'Ecole nationale supérieure de techniques avancées Bretagne accueille également dans ses formations de troisième cycle
+et ses enseignements de spécialisation des stagiaires et des auditeurs. Les modalités de recrutement, l'organisation de la
+scolarité et les conditions de délivrance des diplômes sanctionnant ces formations et enseignements sont fixées dans les
+mêmes conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations de troisième cycle, respecter la
+réglementation nationale en vigueur. 
+
+III. ― Les élèves, auditeurs et stagiaires sont désignés dans les dispositions de la présente section sous l'appellation
+d'étudiants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-721 du 28 juin 1978
+	  - Décret n°79-1135 du 27 décembre 1979 - art. 8
+	  - Code de la défense. - art. R3411-74
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+
+##### Sous-section 1 : Organisation administrative
+
+##### Sous-section 2 : Personnel
+
+##### Sous-section 3 : Organisation financière
+
+##### Sous-section 4 : Discipline
 
 ##### Chapitre II : Cercles et foyers
 

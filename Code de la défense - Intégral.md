@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-10-05
+Version Consolidée au 2012-10-17
 
 # Partie législative
 
@@ -26402,15 +26402,16 @@ se trouve le chef-lieu de celle-ci. Il porte le titre de préfet de zone de déf
 
 Sous l'autorité du Premier ministre et sous réserve des compétences du ministre de la défense et de l'autorité judiciaire, le
 préfet de zone de défense et de sécurité est le délégué des ministres dans l'exercice de leurs attributions en matière de
-défense et de sécurité nationale.
+défense et de sécurité nationale. 
 
 A cet effet, il dirige les services des administrations civiles de l'Etat dans le cadre de la zone de défense et de sécurité
 et exerce les attributions fixées par la section 2. 
 
-II.-Sous l'autorité du Premier ministre, les préfets de zone de défense et de sécurité, les préfets de région et les préfets
-de département sont responsables, chacun en ce qui le concerne, de la préparation et de l'exécution des mesures de sécurité
-intérieure, de sécurité civile et de sécurité économique concourant à la sécurité nationale et relevant des compétences du
-ministre de l'intérieur prévues à l'article L. 1142-2. 
+II.-Sous l'autorité du Premier ministre, les préfets de zone de défense et de sécurité, les préfets de région et les  préfets
+de département et, pour le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône sont responsables,
+chacun en ce qui le concerne, de la préparation et de l'exécution des mesures de sécurité intérieure, de sécurité civile et
+de sécurité économique concourant à la sécurité nationale et relevant des compétences du ministre de l'intérieur prévues à
+l'article L. 1142-2. 
 
 III.-Un comité des préfets de zone de défense et de sécurité est créé. Il est présidé par le ministre de l'intérieur. Il
 comprend les préfets de zone de défense et de sécurité, les hauts fonctionnaires de défense et de sécurité et le secrétaire
@@ -26426,7 +26427,7 @@ fonctionnement sont arrêtées par le ministre de l'intérieur.
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 2
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
 
 	**Cite**:
 
@@ -26440,6 +26441,12 @@ fonctionnement sont arrêtées par le ministre de l'intérieur.
 	  - Code de la défense. - art. R*1651-1 (M)
 	  - Code de la défense. - art. R*1661-1 (M)
 	  - Code de la défense. - art. R*1671-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-1  (VD)
+	  - Code de la sécurité intérieure - art. R*122-2 (VD)
+	  - Code de la sécurité intérieure - art. R*122-3 (VD)
 
 
 ##### Section 2 : Préfets de zone et de sécurité
@@ -26552,7 +26559,8 @@ départementaux de contrôle routier.
 
 ###### Article R*1311-4
 
-Le préfet de zone de défense et de sécurité dirige l'action des préfets de région et de département en ce qui concerne la
+Le préfet de zone de défense et de sécurité dirige l'action des préfets de région et de département et, pour le département
+des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, pour leurs attributions respectives, en ce qui concerne la
 préparation et la mise en œuvre des mesures relatives à la sécurité intérieure et à la sécurité civile.
 
 **Liens relatifs à cet article**
@@ -26563,12 +26571,20 @@ préparation et la mise en œuvre des mesures relatives à la sécurité intéri
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 4
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R*1641-1 (M)
 	  - Code de la défense. - art. R*1661-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-5 (VD)
 
 
 ###### Article R*1311-5
@@ -26756,6 +26772,10 @@ Les  préfets de zone et de sécurité  coordonnent l'action des préfets des d�
 événements troublant l'ordre public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette
 même zone.
 
+Dans la zone de défense et de sécurité Sud, le préfet de zone de défense et de sécurité coordonne l'action du préfet de
+police des Bouches-du-Rhône et des préfets des autres départements de la zone pour prévenir les événements troublant l'ordre
+public ou y faire face, lorsque ces événements intéressent au moins deux départements de cette zone.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -26764,7 +26784,11 @@ même zone.
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 23
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -26773,26 +26797,33 @@ même zone.
 	  - Code de la défense. - art. R*1661-1 (M)
 	  - Code de la défense. - art. R*1671-1 (M)
 
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-45  (VD)
+
 
 ###### Article R*1311-13
 
-I. - Le préfet de zone de défense et de sécurité procède à la répartition, entre les préfets de département qui lui adressent
-des demandes de renfort, des unités mobiles de police et de gendarmerie implantées sur le territoire de la zone de défense et
-de sécurité. 
+I. - Le préfet de zone de défense et de sécurité procède à la répartition, entre   les préfets de département et dans la zone
+de défense et de sécurité Sud, entre le préfet de police des Bouches-du-Rhône et les préfets des autres départements de la
+zone,  qui lui adressent des demandes de renfort, des unités mobiles de police et de gendarmerie implantées sur le territoire
+de la zone de défense et de sécurité. 
 
 Toutefois, le ministre de l'intérieur procède à la répartition des unités mobiles qu'il affecte à un emploi national et,
 lorsqu'un événement particulier le justifie, procède à la répartition de l'ensemble des unités mobiles. 
 
 Pour les besoins des services d'ordre et du maintien de l'ordre lorsque toutes les unités mobiles présentes dans la zone ne
 suffisent pas à assurer ces missions, le ministre de l'intérieur peut accorder des unités supplémentaires au préfet de zone
-de défense et de sécurité, qui les répartit entre les préfets de département. 
+de défense et de sécurité, qui les répartit entre   les préfets de département et dans la zone de défense et de sécurité Sud,
+entre le préfet de police des Bouches-du-Rhône et les préfets des autres départements de la zone. 
 
-II. - Lorsque la situation l'exige et à la demande d'un préfet de département, le préfet de zone de défense et de sécurité
-peut mettre à la disposition de celui-ci, afin de maintenir ou rétablir l'ordre public et pour une mission et une durée
-déterminées, des effectifs et des moyens de police ou de gendarmerie relevant d'un autre département de la zone de défense et
-de sécurité. 
+II. - Lorsque la situation l'exige et à la demande d'un préfet de département et, dans le département des Bouches-du-Rhône,
+le préfet de police des Bouches-du-Rhône, le préfet de zone de défense et de sécurité peut mettre à la disposition de celui-
+ci, afin de maintenir ou rétablir l'ordre public et pour une mission et une durée déterminées, des effectifs et des moyens de
+police ou de gendarmerie relevant d'un autre département de la zone de défense et de sécurité. 
 
-Le préfet de zone de défense et de sécurité informe sans délai les préfets de département de toute mise à disposition.
+Le préfet de zone de défense et de sécurité informe sans délai les préfets de département et, dans le département des
+Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône, de toute mise à disposition.
 
 **Liens relatifs à cet article**
 
@@ -26800,9 +26831,18 @@ Le préfet de zone de défense et de sécurité informe sans délai les préfets
 
 	  - Décret n°2002-84 du 16 janvier 2002 - art. 10 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-10 (VD)
+	  - Code de la sécurité intérieure - art. R*122-11 (VD)
+
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 7
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 	**Cité par**:
 
@@ -26996,19 +27036,31 @@ portant définition de l'emploi de préfet chargé de la protection de la forêt
 
 ###### Article R1311-20
 
-Les dispositions de la présente sous-section ne s'appliquent pas aux zones de défense de Paris, des Antilles, de la Guyane et
-du sud de l'océan Indien.
+Les dispositions de la présente sous-section ne s'appliquent pas aux zones de défense et de sécurité de Paris, Sud, des
+Antilles, de la Guyane et du sud de l'océan Indien.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-917 du 30 mai 2002 - art. 6, v. init.
 	  - Décret n°2002-917 du 30 mai 2002 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-40 (VD)
+	  - Code de la sécurité intérieure - art. R122-46 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
 
 
 ##### Sous-section 6 : Autorités et services de l'Etat assistant le préfet de zone et de sécurité
@@ -27223,6 +27275,28 @@ par le trésorier-payeur général dont la circonscription comprend le chef-lieu
 	  - Code de la défense. - art. R*1661-2 (V)
 	  - Code de la défense. - art. R*1671-2 (V)
 	  - Code de la santé publique - art. R3131-8-2 (Ab)
+
+
+###### Article R*1311-25-1
+
+Pour l'application à la zone de défense et de sécurité Sud des dispositions des articles R. 1311-22-1, R. * 1311-23 et R. *
+1311-25, la référence au préfet délégué pour la défense et la sécurité est remplacée par la référence au sous-préfet,
+secrétaire général de la zone de défense et de sécurité Sud.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-47 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1311-23
+	  - Code de la défense. - art. R1311-22-1
 
 
 ###### Article R1311-21-1
@@ -27507,6 +27581,71 @@ routes dont la liste est fixée par arrêté du ministre de l'intérieur.
 	  - Code de la défense. - art. R*1311-28
 	  - Code de la défense. - art. R1311-22-1
 	  - Code de la défense. - art. R1311-24-1
+
+
+##### Sous-Section 9 : Dispositions particulières à la zone de défense et de sécurité Sud
+
+###### Article R*1311-29-1
+
+I.-Le préfet de la zone de défense et de sécurité Sud dispose d'un secrétariat général de zone de défense et de sécurité,
+placé sous l'autorité d'un sous-préfet qui porte le titre de secrétaire général de zone de défense et de sécurité. 
+
+II.-Sous l'autorité du préfet de zone de défense et de sécurité, le secrétaire général de zone de défense et de sécurité
+assure la direction de l'état-major interministériel de zone de défense et de sécurité, du service de zone des systèmes
+d'information et de communication, du secrétariat général pour l'administration de la police et du centre régional
+d'information et de coordination routière. 
+
+A cet effet, il est assisté d'un chef d'état-major de zone, d'un chef de service de zone des systèmes d'information et de
+communication et du responsable du centre régional d'information et de coordination routière. 
+
+Sous l'autorité du préfet de zone de défense et de sécurité, il dirige l'action des délégués de zone de défense et de
+sécurité et coordonne l'action des correspondants de zone de défense et de sécurité désignés dans les conditions définies aux
+articles R. 1312-1 à R. 1312-6 afin qu'ils apportent leur concours à l'exercice des missions attribuées au préfet de zone de
+défense et de sécurité. 
+
+III.-Le préfet de zone de défense et de sécurité peut donner délégation de signature au secrétaire général de zone de défense
+et de sécurité ainsi qu'aux agents placés sous l'autorité de ce dernier pour les matières de sa compétence concernant la
+sécurité nationale ou relevant de l'état-major de zone, du secrétariat général pour l'administration de la police, du centre
+régional d'information et de coordination routière ou du service de zone des systèmes d'information et de communication. 
+
+Il peut également donner délégation de signature, pour les matières relevant de sa compétence concernant la sécurité
+nationale, au général commandant la gendarmerie pour la zone de défense et de sécurité. 
+
+IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité Sud, les mots : " le préfet
+délégué pour la défense et la sécurité " sont remplacés par les mots : " le sous-préfet secrétaire général de la zone de
+défense et de sécurité ". 
+
+V.-Le secrétaire général de zone de défense et de sécurité est également chargé, auprès du préfet de zone de défense et de
+sécurité Sud, de la protection de la forêt méditerranéenne. A ce titre, il conseille le préfet de la zone de défense et de
+sécurité en ce qui concerne les responsabilités de protection de la forêt méditerranéenne. Il anime et coordonne l'action des
+services de l'Etat qui concourent à la protection de la forêt méditerranéenne. 
+
+Le préfet de zone de défense et de sécurité peut mettre à la disposition du secrétaire général de zone de défense et de
+sécurité, pour l'exercice de sa mission, des personnels des services de l'Etat qui concourent à la protection de la forêt
+méditerranéenne. 
+
+Le secrétaire général de zone de défense et de sécurité peut présider, en l'absence du préfet de zone de défense et de
+sécurité, les conseils et comités ayant compétence en matière de protection de la forêt méditerranéenne. 
+
+Le préfet de zone de défense et de sécurité peut déléguer sa signature au secrétaire général de zone de défense et de
+sécurité en matière de protection de la forêt méditerranéenne.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R*122-48 (VD)
+	  - Code de la sécurité intérieure - art. R*122-49 (VD)
+	  - Code de la sécurité intérieure - art. R*122-50 (VD)
+	  - Code de la sécurité intérieure - art. R*122-51 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1312-1
 
 
 ##### Section 3 : Préfets de région
@@ -28078,6 +28217,31 @@ intéressé.
 	**Abrogé par**:
 
 	  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+
+###### Article R1312-6-1
+
+Pour l'application à la zone de défense et de sécurité Sud des dispositions de l'article R. 1312-5, la référence au préfet
+délégué pour la défense et la sécurité est remplacée par la référence au sous-préfet, secrétaire général de la zone de
+défense et de sécurité Sud.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. R122-47 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2012-1151 du 15 octobre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1312-5
 
 
 ##### Chapitre III : Services de défense pour l'équipement et les transports
@@ -62326,7 +62490,107 @@ L'exclusion définitive est prononcée par l'autorité qui a prononcé l'admissi
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+##### Section 3 : Ecole nationale supérieure de techniques avancées Bretagne
+
+###### Article R3411-57
+
+L'Ecole nationale supérieure de techniques avancées Bretagne est un établissement public national à caractère administratif,
+doté de l'autonomie administrative et financière. Elle est placée sous la tutelle du ministre de la défense. Ses règles
+d'organisation et de fonctionnement sont fixées par la présente section, par un règlement intérieur et par un règlement de
+scolarité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D675-21 (V)
+	  - Code de l'éducation - art. D755-1 (VD)
+
+
+###### Article R3411-58
+
+L'Ecole nationale supérieure de techniques avancées Bretagne dispense à ses élèves un enseignement supérieur ayant pour objet
+la formation d'ingénieurs des études et techniques d'armement et d'ingénieurs civils français et étrangers, dans les domaines
+naval, mécanique, chimique et électronique et les domaines connexes. 
+
+Elle dispense également à des personnes titulaires de certains diplômes des enseignements de spécialisation ainsi que des
+enseignements de perfectionnement et de mise à jour des connaissances. 
+
+Les dispositions des articles L. 612-1, L. 612-7 et L. 613-1 à L. 613-4 du code de l'éducation sont applicables à l'école.
+
+L'Ecole nationale supérieure de techniques avancées Bretagne conduit des travaux de recherche scientifique et technique dans
+des installations et laboratoires qui lui sont propres ou qui sont mis à sa disposition ou qui relèvent d'organismes avec
+lesquels elle a conclu des accords de coopération. 
+
+Elle concourt, par l'ensemble de ses activités, organisées en collaboration avec les milieux scientifiques et professionnels
+nationaux, étrangers ou internationaux, à l'effort national de formation, de recherche et de développement technologique dans
+le cadre d'une politique d'information scientifique et technique. Elle peut passer, à cet effet, des contrats ou conventions
+avec tout organisme public ou privé, français, étranger ou international.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L612-1
+	  - Code de l'éducation - art. L612-7
+	  - Code de l'éducation - art. L613-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3411-82 (V)
+
+
+###### Article R3411-59
+
+I. ― L'Ecole nationale supérieure de techniques avancées Bretagne admet dans son cycle de formation d'ingénieurs, en qualité
+d'élèves : 
+
+1° Les élèves ingénieurs des études et techniques d'armement recrutés par la voie du concours prévu à l'article 8 du décret
+n° 79-1135 du 27 décembre 1979 portant statut des corps militaires des ingénieurs des études et techniques ; sous réserve de
+l'article R. 3411-74, ces élèves sont soumis aux dispositions du décret n° 78-721 du 28 juin 1978 fixant certaines
+dispositions applicables aux élèves officiers de carrière des écoles militaires ; 
+
+2° Des officiers nommés par le ministre de la défense sur proposition d'un jury d'admission ; 
+
+3° Des élèves civils recrutés soit par concours sur épreuves, soit sur titres. 
+
+Elle admet également des auditeurs n'ayant pas la qualité d'élèves. 
+
+Les conditions générales d'admission des élèves civils et des auditeurs sont fixées, pour chaque voie d'accès, par arrêté du
+ministre de la défense, après avis du conseil d'administration. Les modalités générales de la scolarité et du contrôle des
+connaissances et les conditions d'obtention du diplôme de l'école sont fixées, pour la totalité des élèves et des auditeurs,
+dans les mêmes conditions. 
+
+II. ― L'Ecole nationale supérieure de techniques avancées Bretagne accueille également dans ses formations de troisième cycle
+et ses enseignements de spécialisation des stagiaires et des auditeurs. Les modalités de recrutement, l'organisation de la
+scolarité et les conditions de délivrance des diplômes sanctionnant ces formations et enseignements sont fixées dans les
+mêmes conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations de troisième cycle, respecter la
+réglementation nationale en vigueur. 
+
+III. ― Les élèves, auditeurs et stagiaires sont désignés dans les dispositions de la présente section sous l'appellation
+d'étudiants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-721 du 28 juin 1978
+	  - Décret n°79-1135 du 27 décembre 1979 - art. 8
+	  - Code de la défense. - art. R3411-74
+
+	**Modifié par**:
+
+	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
+
 
 ##### Sous-section 1 : Organisation administrative
 
@@ -63056,116 +63320,6 @@ L'exclusion définitive est prononcée par l'autorité qui a prononcé l'admissi
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
-
-##### Section 3 : Ecole nationale supérieure de techniques avancées Bretagne
-
-###### Article R3411-57
-
-L'Ecole nationale supérieure de techniques avancées Bretagne est un établissement public national à caractère administratif,
-doté de l'autonomie administrative et financière. Elle est placée sous la tutelle du ministre de la défense. Ses règles
-d'organisation et de fonctionnement sont fixées par la présente section, par un règlement intérieur et par un règlement de
-scolarité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D675-21 (V)
-	  - Code de l'éducation - art. D755-1 (VD)
-
-
-###### Article R3411-58
-
-L'Ecole nationale supérieure de techniques avancées Bretagne dispense à ses élèves un enseignement supérieur ayant pour objet
-la formation d'ingénieurs des études et techniques d'armement et d'ingénieurs civils français et étrangers, dans les domaines
-naval, mécanique, chimique et électronique et les domaines connexes. 
-
-Elle dispense également à des personnes titulaires de certains diplômes des enseignements de spécialisation ainsi que des
-enseignements de perfectionnement et de mise à jour des connaissances. 
-
-Les dispositions des articles L. 612-1, L. 612-7 et L. 613-1 à L. 613-4 du code de l'éducation sont applicables à l'école.
-
-L'Ecole nationale supérieure de techniques avancées Bretagne conduit des travaux de recherche scientifique et technique dans
-des installations et laboratoires qui lui sont propres ou qui sont mis à sa disposition ou qui relèvent d'organismes avec
-lesquels elle a conclu des accords de coopération. 
-
-Elle concourt, par l'ensemble de ses activités, organisées en collaboration avec les milieux scientifiques et professionnels
-nationaux, étrangers ou internationaux, à l'effort national de formation, de recherche et de développement technologique dans
-le cadre d'une politique d'information scientifique et technique. Elle peut passer, à cet effet, des contrats ou conventions
-avec tout organisme public ou privé, français, étranger ou international.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L612-1
-	  - Code de l'éducation - art. L612-7
-	  - Code de l'éducation - art. L613-1
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R3411-82 (V)
-
-
-###### Article R3411-59
-
-I. ― L'Ecole nationale supérieure de techniques avancées Bretagne admet dans son cycle de formation d'ingénieurs, en qualité
-d'élèves : 
-
-1° Les élèves ingénieurs des études et techniques d'armement recrutés par la voie du concours prévu à l'article 8 du décret
-n° 79-1135 du 27 décembre 1979 portant statut des corps militaires des ingénieurs des études et techniques ; sous réserve de
-l'article R. 3411-74, ces élèves sont soumis aux dispositions du décret n° 78-721 du 28 juin 1978 fixant certaines
-dispositions applicables aux élèves officiers de carrière des écoles militaires ; 
-
-2° Des officiers nommés par le ministre de la défense sur proposition d'un jury d'admission ; 
-
-3° Des élèves civils recrutés soit par concours sur épreuves, soit sur titres. 
-
-Elle admet également des auditeurs n'ayant pas la qualité d'élèves. 
-
-Les conditions générales d'admission des élèves civils et des auditeurs sont fixées, pour chaque voie d'accès, par arrêté du
-ministre de la défense, après avis du conseil d'administration. Les modalités générales de la scolarité et du contrôle des
-connaissances et les conditions d'obtention du diplôme de l'école sont fixées, pour la totalité des élèves et des auditeurs,
-dans les mêmes conditions. 
-
-II. ― L'Ecole nationale supérieure de techniques avancées Bretagne accueille également dans ses formations de troisième cycle
-et ses enseignements de spécialisation des stagiaires et des auditeurs. Les modalités de recrutement, l'organisation de la
-scolarité et les conditions de délivrance des diplômes sanctionnant ces formations et enseignements sont fixées dans les
-mêmes conditions qu'au I ci-dessus ; elles doivent, dans le cas des formations de troisième cycle, respecter la
-réglementation nationale en vigueur. 
-
-III. ― Les élèves, auditeurs et stagiaires sont désignés dans les dispositions de la présente section sous l'appellation
-d'étudiants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°78-721 du 28 juin 1978
-	  - Décret n°79-1135 du 27 décembre 1979 - art. 8
-	  - Code de la défense. - art. R3411-74
-
-	**Modifié par**:
-
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
-
-
-##### Sous-section 1 : Organisation administrative
-
-##### Sous-section 2 : Personnel
-
-##### Sous-section 3 : Organisation financière
-
-##### Sous-section 4 : Discipline
 
 ##### Chapitre II : Cercles et foyers
 

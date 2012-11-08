@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-10-17
+Version Consolidée au 2012-11-09
 
 # Partie législative
 
@@ -49308,14 +49308,13 @@ dépôts mobiles, soit des installations mobiles de fabrication de produits expl
 
 ###### Article R2352-2
 
-Les importations de produits explosifs réalisées sous les régimes douaniers du transit ou du transbordement ne sont pas
-soumises aux dispositions du présent chapitre.
+Le transit direct de frontière à frontière de produits explosifs entre deux pays, dont au moins l'un d'entre eux n'appartient
+pas à l'Union européenne, le transbordement dans les ports et aéroports de France de produits explosifs en provenance ou à
+destination d'un pays n'appartenant pas à l'Union européenne et le transfert de produits explosifs entre deux Etats membres
+de l'Union européenne via la France ne sont pas soumis aux dispositions des articles R. 2352-19, R. 2352-30, R. 2352-31, R.
+2352-36 et R. 2352-37 du code de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-753 du 10 septembre 1971 - art. 11 (Ab)
 
 	**Cité par**:
 
@@ -49329,9 +49328,15 @@ soumises aux dispositions du présent chapitre.
 	  - Arrêté du 29 mai 2009 - art. Annexe II (V)
 	  - Arrêté du 3 mars 1982 - art. 5 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2012-1238 du 7 novembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2352-19
+	  - Code de la défense. - art. R2352-30
+	  - Code de la défense. - art. R2352-36
 
 
 ###### Article R2352-3
@@ -49858,8 +49863,8 @@ ces activités fait l'objet d'une déclaration selon les mêmes modalités.
 
 ###### Article R2352-19
 
-L'importation des produits explosifs destinés à un usage militaire est soumise à autorisation délivrée par le ministre chargé
-des douanes après avis du ministre de la défense et du ministre de l'intérieur. 
+L'importation et le transfert intracommunautaire des produits explosifs destinés à un usage militaire sont soumis à
+autorisation délivrée par le ministre chargé des douanes après avis du ministre de la défense et du ministre de l'intérieur. 
 
 L'exportation et le transfert intracommunautaire des produits explosifs destinés à un usage militaire, à l'exception de ceux
 régis par les articles L. 2335-2 et L. 2335-9, est soumise à autorisation délivrée par le ministre chargé des douanes, après
@@ -49869,7 +49874,7 @@ avis du ministre de la défense, du ministre de l'intérieur et du ministre des 
 
 	**Modifié par**:
 
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 3
+	  - Décret n°2012-1238 du 7 novembre 2012 - art. 3
 
 	**Cité par**:
 
@@ -49881,7 +49886,7 @@ avis du ministre de la défense, du ministre de l'intérieur et du ministre des 
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-2 (V)
+	  - Code de la défense. - art. L2335-2
 
 
 ###### Article R2352-20
@@ -50553,7 +50558,7 @@ compétentes, sur leur demande, toutes les informations pertinentes relatives à
 	  - Code de la défense. - art. R2352-34 (V)
 
 
-##### Sous-section 2 : Marquage des produits explosifs
+##### Sous-section 2 : Identification et traçabilité  des produits explosifs
 
 ###### Article R2352-47
 
@@ -50566,15 +50571,15 @@ de manière lisible sur l'un au moins des sous-ensembles unitaires du produit.
 
 Les dispositions des deux alinéas précédents ne s'appliquent pas lorsque le produit explosif est fabriqué à des fins
 d'exportation et qu'il comporte une marque d'identification conforme aux exigences du pays d'importation, assurant la
-traçabilité du produit explosif. 
+traçabilité du produit explosif (1). 
 
-II.-Les entreprises qui fabriquent ou importent des produits explosifs mettent en place un système de traçabilité constitué
-de la collecte de données sur ces produits, y compris leur identification unique tout au long de la chaîne logistique et de
-leur durée de vie. 
+II.-Les entreprises qui fabriquent, importent, stockent, utilisent, transfèrent ou commercialisent des produits explosifs
+mettent en place un système de traçabilité constitué de la collecte de données sur ces produits, y compris leur
+identification unique tout au long de la chaîne logistique et de leur durée de vie. 
 
 Les données collectées, y compris le numéro d'identification unique, sont enregistrées et conservées pendant une période de
 dix ans à compter de la livraison ou de la date d'utilisation ou de destruction du produit explosif, même si l'entreprise
-concernée a mis fin à son activité. 
+concernée a mis fin à son activité (1). 
 
 III.-Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'industrie, du ministre de la défense et du
 ministre chargé des douanes fixe les modalités techniques de l'identification du produit, de la collecte et de la gestion des
@@ -50589,11 +50594,39 @@ b) Aux produits explosifs qui sont fabriqués sur le site d'emploi et chargés d
 
 c) Aux articles pyrotechniques ; 
 
-d) Aux produits explosifs mentionnés aux a et b de l'article 1er-1 du décret n° 90-153 du 16 février 1990 portant diverses
-dispositions relatives au régime des produits explosifs ; 
+d) Aux produits destinés à être utilisés exclusivement par les forces armées, y compris la gendarmerie nationale, et la
+police nationale ; 
 
-e) Aux munitions et éléments de munitions des armes qui sont énumérées dans le décret n° 95-589 du 6 mai 1995 modifié relatif
-à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions.
+e) Aux mèches qui sont des dispositifs inflammables, non détonants, de type cordeau ;
+
+f) Aux mèches lentes qui sont constituées d'une âme de poudre noire à grains fins entourée d'une enveloppe textile souple,
+tissée, revêtue d'une ou plusieurs gaines protectrices et qui, lorsqu'elles sont allumées, brûlent à une vitesse
+prédéterminée sans aucun effet explosif extérieur ;
+
+g) Aux amorces à percussion qui sont constituées d'une capsule de métal ou en plastique contenant une petite quantité d'un
+mélange explosif primaire aisément mis à feu sous l'effet d'un choc et qui servent d'éléments d'allumage pour les cartouches
+pour armes de petit calibre et dans les allumeurs à percussion pour les charges propulsives.
+
+**Nota:**
+
+(1) Dans leur rédaction issue du présent décret, les dispositions du I de l'article R. 2352-47 du code de la défense entrent
+en vigueur le 5 avril 2013 et celles du II le 5 avril 2015.
+
+Jusqu'au 5 avril 2013, à titre transitoire, les dispositions du I de l'article R. 2352-47 du même code sont remplacées par
+les dispositions suivantes :
+
+I. - Est apposé sur les produits explosifs fabriqués en France, autres que ceux mentionnés aux 1° à 4° de l'article R.
+2352-22 et à l'article R. 2352-73, un marquage spécial permettant leur identification. Ce marquage est effectué sur le lieu
+de la fabrication, sous la responsabilité du fabricant.
+
+Un marquage spécial permettant l'identification du produit est également apposé sur les produits importés, transférés ou en
+transit au moment de leur introduction sur le territoire douanier.
+
+Le marquage est reproduit sur l'emballage contenant le produit et doit être suffisant pour permettre l'identification de cet
+emballage jusqu'à son destinataire final.
+
+L'obligation de marquage est limitée à l'emballage lorsque le produit, par sa consistance ou du fait de ses dimensions
+réduites, ne se prête pas lui-même à cette opération.
 
 **Liens relatifs à cet article**
 
@@ -50608,31 +50641,29 @@ e) Aux munitions et éléments de munitions des armes qui sont énumérées dans
 	  - Code de la défense. - art. R2352-32 (V)
 	  - Code de la défense. - art. R2353-2 (V)
 
-	**Cite**:
-
-	  - Décret n°90-153 du 16 février 1990 - art. 1-1 (Ab)
-	  - Décret n°95-589 du 6 mai 1995 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2009-502 du 5 mai 2009 - art. 2
+	  - Décret n°2012-1238 du 7 novembre 2012 - art. 4
 
-
-##### Paragraphe 1 : Produits explosifs soumis au marquage CE
 
 ###### Article R2352-64
 
-Le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation de ces produits à l'intérieur du territoire
-national et le ministre chargé des douanes en ce qui concerne le transfert de ces produits en provenance ou à destination
-d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces graves ou d'atteintes à l'ordre public en
-raison de la détention ou de l'emploi illicites de ces produits, prendre toutes mesures nécessaires pour prévenir cette
-détention ou cet emploi illicites.
+Le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation des produits soumis aux règles
+d'identification et de traçabilité ainsi que des produits mentionnés à l'article 4 du décret n° 2010-455 du 4 mai 2010 à
+l'intérieur du territoire national et le ministre chargé des douanes en ce qui concerne le transfert de ces produits en
+provenance ou à destination d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces graves ou
+d'atteintes à l'ordre public en raison de la détention ou de l'emploi illicites de ces produits, prendre toutes mesures
+nécessaires pour prévenir cette détention ou cet emploi illicites.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2010-455 du 4 mai 2010 - art. 4
+
 	**Modifié par**:
 
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
+	  - Décret n°2012-1238 du 7 novembre 2012 - art. 4
 
 
 ##### Sous-section 3 : Acquisition, détention et transport des produits explosifs

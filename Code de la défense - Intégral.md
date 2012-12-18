@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-19
 
 # Partie législative
 
@@ -18043,7 +18043,7 @@ Reste dans cette position le militaire :
 
 a) De congés de maladie ; 
 
-b) De congés pour maternité, paternité ou adoption ; 
+b) De congés     de maternité, de paternité et d'accueil de l'enfant ou d'adoption  ; 
 
 c) De permissions ou de congés de fin de campagne ; 
 
@@ -18051,7 +18051,7 @@ d) De congés de solidarité familiale ;
 
 e) D'un congé de reconversion ; 
 
-f) De congés de présence parentale ;
+f) De congés de présence parentale ; 
 
 g) D'un congé pour création ou reprise d'entreprise ; 
 
@@ -18063,7 +18063,7 @@ dans le respect des dispositions prévues à l'article L. 4122-2. Les conditions
 par décret en Conseil d'Etat. 
 
 Le militaire dans l'une des situations de la position d'activité conserve sa rémunération, à l'exception de celui placé en
-congé de solidarité familiale ou en congé de présence parentale.
+congé de solidarité familiale ou en congé de présence parentale. 
 
 A l'exception du congé de présence parentale, la durée de chacune des situations de la position d'activité est assimilée à
 une période de service effectif. 
@@ -18162,7 +18162,7 @@ permissions et des congés de fin de campagne.
 
 	**Modifié par**:
 
-	  - Loi n°2011-14 du 5 janvier 2011 - art. 2
+	  - Loi n°2012-1404 du 17 décembre 2012 - art. 94
 
 	**Cite**:
 
@@ -18197,19 +18197,22 @@ d'affection dûment constatée mettant le militaire dans l'impossibilité d'exer
 
 ###### Article L4138-4
 
-Les congés pour maternité, paternité ou adoption sont d'une durée égale à celle prévue par la législation sur la sécurité
-sociale.
+Les congés     de maternité, de paternité et d'accueil de l'enfant ou d'adoption  sont d'une durée égale à celle prévue par
+la législation sur la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 48
 	  - Loi n°2005-270 du 24 mars 2005 - art. 48 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2012-1404 du 17 décembre 2012 - art. 94
 
 	**Cité par**:
 

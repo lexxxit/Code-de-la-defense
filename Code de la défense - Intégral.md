@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-12-19
+Version Consolidée au 2012-12-30
 
 # Partie législative
 
@@ -85979,10 +85979,10 @@ et destruction des munitions, mines, pièges, engins et explosifs sont fixées p
 
 ###### Article D5321-1
 
-Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon :
+Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon : 
 
-1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
-d'infrastructure de la défense ;
+1° La référence au         directeur de l'établissement du service d'infrastructure de la défense ou à l'établissement du
+service d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense ; 
 
 2° La référence au préfet est remplacée par la référence au représentant de l'Etat.
 
@@ -85991,6 +85991,10 @@ d'infrastructure de la défense ;
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA
@@ -86014,16 +86018,16 @@ Sont applicables dans les îles Wallis et Futuna les articles D. 5131-4 à D. 51
 
 ###### Article D5341-3
 
-Pour l'application de la présente partie du code aux îles Wallis et Futuna :
+Pour l'application de la présente partie du code aux îles Wallis et Futuna : 
 
-1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
-d'infrastructure de la défense ;
+1° La référence au         directeur de l'établissement du service d'infrastructure de la défense ou à l'établissement du
+service d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense ; 
 
-2° La référence au préfet est remplacée par la référence à l'administrateur des îles Wallis et Futuna ;
+2° La référence au préfet est remplacée par la référence à l'administrateur des îles Wallis et Futuna ; 
 
-3° La référence à la préfecture est remplacée par la référence au siège de l'administrateur des îles Wallis et Futuna ;
+3° La référence à la préfecture est remplacée par la référence au siège de l'administrateur des îles Wallis et Futuna ; 
 
-4° La référence à la commune ou à la mairie est remplacée par la référence à la circonscription ;
+4° La référence à la commune ou à la mairie est remplacée par la référence à la circonscription ; 
 
 5° La référence au maire est remplacée par la référence au chef de circonscription.
 
@@ -86032,6 +86036,10 @@ d'infrastructure de la défense ;
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ###### Article R5341-1
@@ -86071,12 +86079,12 @@ Sont applicables en Polynésie française les articles D. 5131-4 à D. 5131-15.
 
 ###### Article D5351-3
 
-Pour l'application de la présente partie du code à la Polynésie française :
+Pour l'application de la présente partie du code à la Polynésie française : 
 
-1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
-d'infrastructure de la défense ;
+1° La référence au         directeur de l'établissement du service d'infrastructure de la défense ou à l'établissement du
+service d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense ; 
 
-2° La référence au préfet est remplacée par la référence au haut-commissaire de la République en Polynésie française ;
+2° La référence au préfet est remplacée par la référence au haut-commissaire de la République en Polynésie française ; 
 
 3° La référence à la préfecture est remplacée par la référence au siège du haut-commissaire de la République en Polynésie
 française.
@@ -86086,6 +86094,10 @@ française.
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ###### Article R5351-1
@@ -86125,12 +86137,12 @@ Sont applicables en Nouvelle-Calédonie les articles D. 5131-4 à D. 5131-15.
 
 ###### Article D5361-3
 
-Pour l'application de la présente partie du code en Nouvelle-Calédonie :
+Pour l'application de la présente partie du code en Nouvelle-Calédonie : 
 
-1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
-d'infrastructure de la défense ;
+1° La référence au         directeur de l'établissement du service d'infrastructure de la défense ou à l'établissement du
+service d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense ; 
 
-2° La référence au préfet est remplacée par la référence au haut-commissaire de la république en Nouvelle-Calédonie ;
+2° La référence au préfet est remplacée par la référence au haut-commissaire de la république en Nouvelle-Calédonie ; 
 
 3° La référence à la préfecture est remplacée par la référence au siège du haut-commissaire de la République en Nouvelle-
 Calédonie.
@@ -86140,6 +86152,10 @@ Calédonie.
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ###### Article R5361-1
@@ -86181,12 +86197,13 @@ applicables aux Terres australes et antarctiques françaises les articles D. 513
 
 ###### Article D5371-3
 
-Pour l'application de la présente partie du code aux Terres australes et antarctiques françaises :
+Pour l'application de la présente partie du code aux Terres australes et antarctiques françaises : 
 
-1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
-d'infrastructure de la défense ;
+1° La référence au         directeur de l'établissement du service d'infrastructure de la défense ou à l'établissement du
+service d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense ; 
 
-2° La référence au préfet est remplacée par la référence à l'administrateur des Terres australes et antarctiques françaises ;
+2° La référence au préfet est remplacée par la référence à l'administrateur des Terres australes et antarctiques
+françaises ; 
 
 3° La référence à la préfecture est remplacée par la référence au siège de l'administrateur des Terres australes et
 antarctiques françaises.
@@ -86196,6 +86213,10 @@ antarctiques françaises.
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ###### Article R5371-1
@@ -86222,14 +86243,19 @@ applicables aux Terres australes et antarctiques françaises les articles R. 511
 
 ###### Article D5381-1
 
-Pour l'application de la présente partie du code à Saint-Barthélemy, la référence au directeur local du service
-d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense.
+Pour l'application de la présente partie du code à Saint-Barthélemy, la référence au         directeur de l'établissement du
+service d'infrastructure de la défense ou à l'établissement du service d'infrastructure de la défense est remplacée par la
+référence à la direction d'infrastructure de la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ##### Chapitre II : SAINT-MARTIN
@@ -86237,13 +86263,18 @@ d'infrastructure de la défense est remplacée par la référence à la directio
 
 ###### Article D5382-1
 
-Pour l'application de la présente partie du code à Saint-Martin, la référence au directeur local du service d'infrastructure
-de la défense est remplacée par la référence à la direction d'infrastructure de la défense.
+Pour l'application de la présente partie du code à Saint-Martin, la référence au         directeur de l'établissement du
+service d'infrastructure de la défense ou à l'établissement du service d'infrastructure de la défense est remplacée par la
+référence à la direction d'infrastructure de la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 

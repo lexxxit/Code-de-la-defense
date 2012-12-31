@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -19680,103 +19680,103 @@ Officiers des armes de l'armée de terre, officiers de marine, officiers spécia
 officiers mécaniciens de l'air
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
-
-59
-
-</td>
-      <td valign="bottom" width="111">
-
-63
-
-</td>
-    </tr>
-    <tr>
-      <td width="190" valign="top">
-
-Officiers de gendarmerie
-
-</td>
-      <td valign="bottom" width="318" colspan="3">
-
-59
-
-</td>
-      <td width="79" valign="bottom">
-
-60
-
-</td>
-      <td valign="bottom" width="111">
-
-63
-
-</td>
-    </tr>
-    <tr>
-      <td width="190" valign="top">
-
-Officiers de l'air
-
-</td>
-      <td valign="bottom" width="205" colspan="2">
-
-52
-
-</td>
-      <td colspan="2" valign="bottom" width="192">
-
-56
-
-</td>
-      <td width="111" valign="bottom">
-
-63
-
-</td>
-    </tr>
-    <tr>
-      <td width="190" valign="top">
-
-Officiers du cadre spécial, commissaires (terre, marine et air), officiers des corps techniques et administratifs, ingénieurs
-militaires des essences, administrateurs des affaires maritimes
-
-</td>
-      <td colspan="4" valign="bottom" width="398">
-
-62
-
-</td>
-      <td width="111" valign="bottom">
-
-64
-
-</td>
-    </tr>
-    <tr>
-      <td width="190" valign="top">
-
-Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
-
-</td>
       <td width="398" colspan="4" valign="bottom">
 
-62
+59
 
 </td>
       <td width="111" valign="bottom">
 
-67
+63
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="190">
 
+Officiers de gendarmerie
+
+</td>
+      <td width="318" valign="bottom" colspan="3">
+
+59
+
+</td>
+      <td valign="bottom" width="79">
+
+60
+
+</td>
+      <td width="111" valign="bottom">
+
+63
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="190">
+
+Officiers de l'air
+
+</td>
+      <td width="205" colspan="2" valign="bottom">
+
+52
+
+</td>
+      <td width="192" valign="bottom" colspan="2">
+
+56
+
+</td>
+      <td valign="bottom" width="111">
+
+63
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="190">
+
+Officiers du cadre spécial, commissaires des armées, officiers des corps techniques et administratifs, ingénieurs militaires
+des essences, administrateurs des affaires maritimes
+
+</td>
+      <td valign="bottom" width="398" colspan="4">
+
+62
+
+</td>
+      <td valign="bottom" width="111">
+
+64
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="190">
+
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
+
+</td>
+      <td colspan="4" width="398" valign="bottom">
+
+62
+
+</td>
+      <td valign="bottom" width="111">
+
+67
+
+</td>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
 Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td width="398" colspan="4" valign="bottom">
 
 62
 
@@ -19794,30 +19794,30 @@ Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, 
 maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
 
 </td>
-      <td width="398" valign="bottom" colspan="4">
+      <td colspan="4" valign="bottom" width="398">
 
 66
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 67
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
 sein de la trésorerie aux armées, aumôniers militaires
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td colspan="4" width="398" valign="bottom">
 
 66
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 -
 
@@ -19880,7 +19880,7 @@ correspondante
   </thead>
   <tbody>
     <tr>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant)
 
@@ -19890,7 +19890,7 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 47
 
 </td>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 52
 
@@ -19900,7 +19900,7 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 58
 
 </td>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 59
 
@@ -19912,7 +19912,7 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale
 
 </td>
-      <td align="center" colspan="4" valign="bottom">
+      <td align="center" valign="bottom" colspan="4">
 
 58 (y compris le grade de gendarme)
 
@@ -19929,7 +19929,7 @@ Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et a
 Sous-officiers du personnel navigant de l'armée de l'air
 
 </td>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 47
 
@@ -19953,7 +19953,7 @@ Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers) 
 généraux et spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
 
 </td>
-      <td align="center" valign="bottom" colspan="5">
+      <td colspan="5" align="center" valign="bottom">
 
 59
 
@@ -19970,7 +19970,7 @@ Sous-officiers du service des essences des armées
 -
 
 </td>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 62
 
@@ -23318,8 +23318,8 @@ déplacements des personnels civils ou militaires sur le territoire métropolita
 
 ###### Article R1132-25
 
-Le directeur de l'institut, les directeurs adjoints, l'autorité chargée du contrôle financier et l'agent comptable de
-l'institut assistent aux réunions du conseil d'administration avec voix consultative.
+Le directeur de l'institut, les directeurs adjoints,      le contrôleur budgétaire  et l'agent comptable de l'institut
+assistent aux réunions du conseil d'administration avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -23329,7 +23329,7 @@ l'institut assistent aux réunions du conseil d'administration avec voix consult
 
 	**Modifié par**:
 
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
@@ -23474,8 +23474,9 @@ Le procès-verbal est adressé aux membres du conseil d'administration dans le m
 
 ###### Article R1132-31
 
-Les délibérations du conseil d'administration sont exécutoires à compter de leur approbation expresse ou, à défaut, trente
-jours après réception du procès-verbal par l'autorité de tutelle si elle ne fait pas opposition dans ce délai.
+Sous réserve des dispositions de l'article R. 1132-33-9 les délibérations du conseil d'administration sont exécutoires à
+compter de leur approbation expresse ou, à défaut, trente jours après réception du procès-verbal par l'autorité de tutelle si
+elle ne fait pas opposition dans ce délai.
 
 **Liens relatifs à cet article**
 
@@ -23489,7 +23490,11 @@ jours après réception du procès-verbal par l'autorité de tutelle si elle ne 
 
 	**Modifié par**:
 
-	  - Décret n°2011-1899 du 19 décembre 2011 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1132-33-9
 
 
 ###### Article R1132-32
@@ -23591,56 +23596,16 @@ Le personnel de l'institut comprend des agents publics civils ou militaires.
 
 ###### Article R1132-33-2
 
-L'institut est soumis au régime financier et comptable fixé par le décret n° 53-1227 du 10 décembre 1953 modifié, relatif à
-la réglementation comptable applicable aux établissements publics nationaux à caractère administratif, le décret n° 62-1587
-du 29 décembre 1962 portant règlement général de la comptabilité publique et le décret n° 99-575 du 8 juillet 1999 relatif
-aux modalités d'application de certaines décisions financières des établissements publics de l'Etat.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°99-575 du 8 juillet 1999 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
 
-	**Créé par**:
-
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
-
-
-###### Article R1132-33-3
-
-Le contrôle financier est exercé dans les conditions prévues par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Les modalités de ce contrôle sont fixées par arrêté
-conjoint du Premier ministre et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Créé par**:
-
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
-
-
-###### Article R1132-33-4
-
-L'agent comptable est nommé par arrêté du Premier ministre et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -54720,22 +54685,22 @@ vérifier dans les services l'exécution des décisions prises.
 
 A l'administration centrale, le contrôle général des armées, tenu informé des directives ministérielles en matière
 administrative, économique et financière, est saisi obligatoirement et en temps utile des projets d'actes ou de décisions
-traitant des matières dont la liste est arrêtée par le ministre de la défense.
+traitant des matières dont la liste est arrêtée par le ministre de la défense. 
 
 A l'occasion de cet examen préventif, le contrôle général des armées formule tous avis, observations ou propositions qu'il
-juge utiles tant sur le plan de la régularité que sur celui de l'opportunité.
+juge utiles tant sur le plan de la régularité que sur celui de l'opportunité. 
 
 Lorsque le service responsable ne croit pas pouvoir donner suite à ces avis, observations ou propositions et que, après
-nouvel examen, le désaccord avec le contrôle persiste, l'affaire en cause est déférée à la décision du ministre.
+nouvel examen, le désaccord avec le contrôle persiste, l'affaire en cause est déférée à la décision du ministre. 
 
 Pour les matières qui sont soumises à son contrôle préventif, le contrôle général des armées recueille s'il y a lieu l'avis
-ou le visa du membre du corps du contrôle général économique et financier.
+ou le visa du        contrôleur budgétaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D3123-7
@@ -55849,14 +55814,16 @@ Pour l'exercice de ses missions, la direction générale de la sécurité extér
 
 ###### Article D3126-4
 
-L'organisation et le fonctionnement de la direction générale de la sécurité extérieure sont fixés par arrêté du ministre de
-la défense.
+La direction générale de la sécurité extérieure organise et met en œuvre les moyens matériels et les prestations nécessaires
+à ses missions.
+
+Son organisation et son fonctionnement sont fixés par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1391 du 11 décembre 2012 - art. 3
 
 
 ##### Section 2 : Direction de la protection et de la sécurité de la défense
@@ -61381,13 +61348,13 @@ I. ― Le conseil d'administration de l'institut comprend vingt-sept membres :
 
 1° Trois représentants du ministre de la défense, membres de droit : 
 
-a) Le directeur des ressources humaines de la     direction générale de l'armement, ou son représentant ; 
+a) Le directeur des ressources humaines de la direction générale de l'armement, ou son représentant ; 
 
 b) Le directeur des affaires financières du secrétariat général pour l'administration, ou son représentant ; 
 
 c) L'inspecteur de l'armement en charge de l'aéronautique et de l'espace. 
 
-2° Un directeur de l'administration centrale de la     direction générale de l'armement nommé par arrêté du ministre de la
+2° Un directeur de l'administration centrale de la direction générale de l'armement nommé par arrêté du ministre de la
 défense, ou son représentant ; 
 
 3° Cinq autres représentants de l'Etat nommés par arrêté du ministre de la défense sur proposition du ministre intéressé : 
@@ -61424,14 +61391,14 @@ administratif de l'institut ;
 
 II. ― Un arrêté du ministre de la défense précise les modalités des élections prévues aux 8° et 9° du I. 
 
-III. ― Le directeur général de l'institut, l'autorité chargée du contrôle financier de l'établissement ou son représentant et
-l'agent comptable assistent aux séances du conseil avec voix consultative.
+III. ― Le directeur général de l'institut,      le contrôleur budgétaire  de l'établissement ou son représentant et l'agent
+comptable assistent aux séances du conseil avec voix consultative.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
@@ -61737,18 +61704,18 @@ générale, toutes les dépenses nécessaires à l'activité de l'établissement
 
 ###### Article R3411-25
 
-L'ISAE est soumis au contrôle financier de l'Etat prévu à l'article L. 719-9 du code de l'éducation. Les modalités de ce
+L'ISAE est soumis au contrôle budgétaire de l'Etat prévu à l'article L. 719-9 du code de l'éducation. Les modalités de ce
 contrôle sont fixées par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L719-9 (V)
+	  - Code de l'éducation - art. L719-9
 
 
 ##### Sous-section 4 : Discipline
@@ -62345,30 +62312,16 @@ supérieur ou de recherche.
 
 ###### Article R3411-47
 
-Le régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
-applicable aux établissements publics nationaux à caractère administratif et le décret n° 62-1587 du 29 décembre 1962 portant
-règlement général de la comptabilité publique et par l'article 60 de la loi de finances du 23 février 1963 relatif à la
-responsabilité des comptables publics est applicable à l'Ecole nationale supérieure de techniques avancées, sous réserve des
-dispositions de la présente sous-section.
+L'Ecole est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique, sous réserve des dispositions de la présente sous-section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-
-###### Article R3411-48
-
-L'agent comptable est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -62454,47 +62407,31 @@ cadre des missions définies à l'article R. 3411-30 en vue notamment d'assurer 
 ###### Article R3411-53
 
 Les délibérations du conseil d'administration sont exécutoires dans le délai de trente jours à compter de la date de
-notification à l'autorité de tutelle.
+notification à l'autorité de tutelle. 
 
-Durant ce délai, le ministre de la défense peut s'opposer à l'exécution des délibérations.
+Durant ce délai, le ministre de la défense peut s'opposer à l'exécution des délibérations. 
 
 Les projets de budget et de décisions modificatives sont communiqués au ministre chargé de la défense et au ministre chargé
-du budget quinze jours au moins avant leur présentation au conseil d'administration.
+du budget quinze jours au moins avant leur présentation au conseil d'administration. 
 
-Les délibérations relatives au projet de budget et de décisions modificatives sont exécutoires dans le délai de trente jours
-à compter de leur notification aux ministres respectivement chargés de la défense et du budget, sauf opposition expresse de
-l'un ou l'autre de ces ministres.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-En cas de refus d'approbation, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau.
+En cas de refus d'approbation, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau. 
 
 A l'issue de cette nouvelle délibération ou à défaut d'une nouvelle délibération, si le budget n'est pas approuvé, il est
-arrêté conjointement par le ministre chargé de la défense et par le ministre chargé du budget.
+arrêté conjointement par le ministre chargé de la défense et par le ministre chargé du budget. 
 
-Les délibérations du conseil d'administration relatives à l'approbation du compte financier, aux prises de participations
-financières et à la création de filiales sont soumises à l'approbation expresse du ministre chargé de la défense et à celle
-du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3411-54
-
-L'Ecole nationale supérieure de techniques avancées est soumise au contrôle financier de l'Etat prévu par le décret n°
-2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les
-modalités particulières d'exercice de ce contrôle sont fixées par arrêté conjoint du ministre de la défense et du ministre
-chargé du budget.
+Les délibérations du conseil d'administration relatives aux prises de participations financières et à la création de filiales
+sont soumises à l'approbation expresse du ministre chargé de la défense et à celle du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -63156,30 +63093,16 @@ supérieur ou de recherche.
 
 ###### Article R3411-77
 
-Le régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
-applicable aux établissements publics nationaux à caractère administratif et le décret n° 62-1587 du 29 décembre 1962 portant
-règlement général de la comptabilité publique et par l'article 60 de la loi de finances du 23 février 1963 relatif à la
-responsabilité des comptables publics est applicable à             l'Ecole nationale supérieure de techniques avancées
-Bretagne, sous réserve des dispositions du présent titre.
+L'Ecole nationale supérieure est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
 	**Modifié par**:
-
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
-
-
-###### Article R3411-78
-
-L'agent comptable est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -63266,47 +63189,31 @@ recherches.
 ###### Article R3411-83
 
 Les délibérations du conseil d'administration sont exécutoires dans le délai de trente jours à compter de la date de
-notification à l'autorité de tutelle.
+notification à l'autorité de tutelle. 
 
-Durant ce délai, le ministre de la défense peut s'opposer à l'exécution des délibérations.
+Durant ce délai, le ministre de la défense peut s'opposer à l'exécution des délibérations. 
 
 Les projets de budget et de décisions modificatives sont communiqués au ministre chargé de la défense et au ministre chargé
-du budget quinze jours au moins avant leur présentation au conseil d'administration.
+du budget quinze jours au moins avant leur présentation au conseil d'administration. 
 
-Les délibérations relatives au projet de budget et de décisions modificatives sont exécutoires dans le délai de trente jours
-à compter de leur notification aux ministres respectivement chargés de la défense et du budget, sauf opposition expresse de
-l'un ou l'autre de ces ministres.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-En cas de refus d'approbation, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau.
+En cas de refus d'approbation, le conseil d'administration dispose d'un délai de quinze jours pour délibérer à nouveau. 
 
 A l'issue de cette nouvelle délibération ou à défaut d'une nouvelle délibération, si le budget n'est pas approuvé, il est
-arrêté conjointement par le ministre chargé de la défense et le ministre chargé du budget.
+arrêté conjointement par le ministre chargé de la défense et le ministre chargé du budget. 
 
-Les délibérations du conseil d'administration relatives à l'approbation du compte financier, aux prises de participations
-financières et à la création de filiales sont soumises à l'approbation expresse du ministre chargé de la défense et à celle
-du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3411-84
-
-L'Ecole nationale supérieure de techniques avancées Bretagne est soumise au contrôle financier de l'Etat prévu par le décret
-n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les
-modalités particulières d'exercice de ce contrôle sont fixées par arrêté conjoint du ministre de la défense et du ministre
-chargé du budget.
+Les délibérations du conseil d'administration relatives aux prises de participations financières et à la création de filiales
+sont soumises à l'approbation expresse du ministre chargé de la défense et à celle du ministre chargé du budget.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
 	**Modifié par**:
-
-	  - Décret n°2012-1120 du 2 octobre 2012 - art. 2
-
-	**Abrogé par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -64221,9 +64128,12 @@ e) A la fixation annuelle du montant des remises allouées à l'agent comptable 
 
 f) A l'autorisation d'acquérir, d'aliéner et d'échanger des biens immobiliers. 
 
-Les délibérations mentionnées à l'alinéa précédent deviennent exécutoires trente jours après la transmission du procès-verbal
-au ministre de la défense et au ministre chargé de l'économie et des finances, sauf opposition de l'un ou de l'autre de ces
+Les délibérations mentionnées aux c, d, e et f deviennent exécutoires trente jours après la transmission du procès-verbal au
+ministre de la défense et au ministre chargé de l'économie et des finances, sauf opposition de l'un ou de l'autre de ces
 ministres. 
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 2° Sont soumises à l'approbation du ministre de la défense les délibérations relatives : 
 
@@ -64269,18 +64179,19 @@ du conseil d'administration ou par le directeur du musée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code de la défense. - art. R3413-6
+	  - Code du patrimoine - art. L451-2
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R3413-12 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3413-6 (V)
-	  - Code du patrimoine. - art. L451-2 (V)
 
 
 ###### Article R3413-11
@@ -64391,23 +64302,18 @@ Le directeur du musée est logé à l'Hôtel national des Invalides par nécessi
 
 ###### Article R3413-16
 
-Le musée de l'Armée est soumis au régime financier et comptable défini par les articles 14 à 25 du décret n° 53-1227 du 10
-décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère
-administratif, par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique ainsi que par l'article 60 de la loi n° 63-156 du 23 février 1963 portant loi de finances pour 1963
-relatif à la responsabilité des comptables publics.
+Le musée de l'Armée est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 - art. 14 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-17
@@ -64451,28 +64357,6 @@ sont nécessaires à l'activité de l'établissement.
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-19
-
-Le musée de l'Armée est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Un contrôleur financier, placé sous l'autorité du
-ministre chargé du budget, exerce le contrôle du fonctionnement financier de l'établissement. Ses attributions sont fixées
-par arrêté du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-20
@@ -64696,21 +64580,6 @@ Le personnel du musée de l'Armée comprend :
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-33
-
-L'agent comptable est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-34
@@ -64972,11 +64841,12 @@ e) A la fixation annuelle du montant des remises allouées à l'agent comptable 
 
 f) A l'autorisation d'acquérir, d'aliéner, d'échanger des biens immobiliers. 
 
-Les délibérations mentionnées ci-dessus, à l'exception de la délibération relative au compte financier, deviennent
-exécutoires trente jours après la transmission du procès-verbal au ministre de la défense et au ministre chargé de l'économie
-et des finances, sauf opposition de l'un ou l'autre de ces ministres.
+Les délibérations mentionnées aux c, d, e et f, deviennent exécutoires trente jours après la transmission du procès-verbal au
+ministre de la défense et au ministre chargé de l'économie et des finances, sauf opposition de l'un ou l'autre de ces
+ministres. 
 
-L'approbation de la délibération relative au compte financier doit faire l'objet d'une mention expresse. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 2° Sont soumises à l'approbation du ministre de la défense les délibérations qui sont relatives : 
 
@@ -65030,9 +64900,13 @@ ministre intéressé pour les questions relevant de sa compétence, le présiden
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 	**Cité par**:
 
@@ -65140,23 +65014,18 @@ Le directeur peut leur déléguer sa signature pour accomplir en son nom des act
 
 ###### Article R3413-50
 
-Le musée national de la Marine est soumis au régime financier et comptable défini par les articles 14 à 25 du décret n°
-53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère
-administratif et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique ainsi que l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963 relatif à la
-responsabilité des comptables publics.
+Le musée national de la marine est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 - art. 14 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-51
@@ -65197,28 +65066,6 @@ sont nécessaires à l'activité de l'établissement.
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-53
-
-Le musée national de la Marine est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005 relatif
-au contrôle financier au sein des établissements publics administratifs de l'Etat. Un contrôleur financier placé sous
-l'autorité du ministre chargé du budget exerce le contrôle du fonctionnement financier de l'établissement. Ses attributions
-sont fixées par arrêté du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-54
@@ -65307,21 +65154,6 @@ Le personnel du musée national de la Marine comprend :
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-60
-
-L'agent comptable est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-61
@@ -65594,9 +65426,11 @@ d) A l'autorisation d'acquérir, d'aliéner, d'échanger des biens immobiliers ;
 
 e) A l'approbation des conventions prévues à l'article R. 3413-63. 
 
-Les délibérations, à l'exception de celles relatives au compte financier, deviennent exécutoires trente jours après la
-transmission du procès-verbal au ministre de la défense et au ministre chargé du budget, à moins que ceux-ci n'y fassent
-opposition.
+Les délibérations, mentionnées aux c, d et e, deviennent exécutoires trente jours après la transmission du procès-verbal au
+ministre de la défense et au ministre chargé du budget, à moins que ceux-ci n'y fassent opposition. 
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 S'agissant du compte financier, la mention expresse de l'approbation est requise. 
 
@@ -65654,13 +65488,14 @@ directeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. R3413-63 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Code de la défense. - art. R3413-63
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 	**Cité par**:
 
@@ -65770,22 +65605,18 @@ Le directeur peut leur déléguer sa signature pour accomplir en son nom des act
 
 ###### Article R3413-78
 
-Les opérations financières et comptables de l'établissement sont effectuées conformément aux dispositions de l'article 60 de
-la loi de finances n° 63-156 du 23 février 1963 et des décrets n° 53-1227 du 10 décembre 1953 relatif à la réglementation
-comptable applicable aux établissements publics nationaux à caractère administratif et n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique.
+Le musée de l'Air et de l'Espace est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-79
@@ -65826,27 +65657,6 @@ est nécessaire à l'activité de l'établissement.
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-81
-
-Le musée de l'Air et de l'Espace est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005
-relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les attributions du contrôleur
-financier sont fixées par arrêté du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005 - art. 3
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-82
@@ -65906,21 +65716,6 @@ Le personnel du musée de l'Air et de l'Espace comprend :
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-86
-
-L'agent comptable est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-87
@@ -66246,20 +66041,18 @@ En fin d'année académique, chaque section présente un rapport d'activité au 
 
 ###### Article R3413-103
 
-Sous réserve des dispositions particulières de la présente section, l'Académie de marine est soumise au régime financier et
-comptable défini par les textes généraux en vigueur, en particulier les décrets n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique. 
+Sous réserve des dispositions particulières de la présente section, l'Académie de marine est soumise aux dispositions des
+titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 La commission administrative et financière statue sur toutes les questions financières concernant le fonctionnement matériel
-de l'académie.
+de l'académie. 
 
 A cet effet, la commission est réunie, à l'initiative de son président, au moins deux fois par an. Le chef d'état-major de la
 marine, ou son représentant, et le contrôleur financier sont invités à participer, avec voix consultative, aux activités de
 la commission. 
 
 Le budget est établi et les comptes annuels sont arrêtés par l'académie, après rapport de la commission ; ils doivent ensuite
-être soumis à l'approbation de l'autorité de tutelle.
+être soumis à l'approbation de l'autorité de tutelle. 
 
 L'académie se prononce, en outre, après avis de la commission administrative et financière sur l'acceptation des dons et legs
 ainsi que sur toutes les conventions ayant une incidence financière.
@@ -66268,12 +66061,11 @@ ainsi que sur toutes les conventions ayant une incidence financière.
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953, v. init.
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-104
@@ -66287,22 +66079,6 @@ l'ordonnancement des dépenses de l'académie.
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3413-105
-
-L'agent comptable de l'Académie de marine est nommé par arrêté conjoint du ministre chargé du budget et du ministre de la
-défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3413-106
@@ -66524,24 +66300,16 @@ objet de permettre aux volontaires pour l'insertion d'obtenir un diplôme nation
 
 L'Etablissement public d'insertion de la défense peut également prendre des participations financières, participer, y compris
 sous la forme financière, à des groupements d'intérêt public ou à toute autre forme de groupement public ou privé, ainsi qu'à
-des opérations de mécénat et de parrainage. Il peut placer ses fonds disponibles dans les conditions fixées par le ministre
-chargé de l'économie, conformément aux dispositions des décrets n° 62-1587 du 29 décembre 1962 portant règlement général sur
-la comptabilité publique et n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions
-financières des établissements publics de l'Etat.
+des opérations de mécénat et de parrainage. 
 
 L'Etablissement public d'insertion de la défense peut enfin assurer la maîtrise d'ouvrage des opérations de construction, sur
 des propriétés foncières par lui acquises ou mises à sa disposition, des bâtiments nécessaires à l'exercice de ses missions.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 	**Cité par**:
 
@@ -66932,57 +66700,16 @@ soit le fonctionnement de jurys d'examens ou de concours.
 
 ###### Article R3414-21
 
-Le régime financier et comptable défini par les décrets n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
-applicable aux établissements publics nationaux à caractère administratif, n° 62-1587 du 29 décembre 1962 portant règlement
-général sur la comptabilité publique et n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
-décisions financières des établissements publics de l'Etat est applicable à l'établissement.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3414-22
-
-L'Etablissement public d'insertion de la défense est soumis au contrôle financier prévu par le décret n° 2005-757 du 4
-juillet 2005 relatif au contrôle financier au sein des établissements publics administratifs de l'Etat. Les modalités de ce
-contrôle sont fixées par arrêté conjoint des ministres de tutelle et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
 	**Modifié par**:
-
-	  - Décret n°2011-555 du 20 mai 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
-
-
-###### Article R3414-23
-
-L'agent comptable de l'Etablissement public d'insertion de la défense est nommé par arrêté conjoint des ministres de tutelle
-et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-555 du 20 mai 2011 - art. 1
-
-	**Abrogé par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -67346,34 +67073,16 @@ troisième partie du présent code.
 ###### Article R3415-12
 
 Le régime financier et comptable de l'établissement, complété par les dispositions particulières ou complémentaires édictées
-dans les articles ci-après, est défini par l'article 60 de la loi de finances n° 63-156 du 23 février 1963 et par les décrets
-n° 53-1227 du 10 décembre 1953 modifié relatif à la réglementation comptable applicable aux établissements publics nationaux
-à caractère administratif et n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+dans les articles ci-après, est défini par les titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3415-13
-
-L'agent comptable est nommé par arrêté du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -67425,9 +67134,8 @@ Les projets de budget, de décisions modificatives, de compte financier ainsi qu
 incidence financière non prévue au budget sont communiqués à l'autorité de tutelle et au ministre chargé du budget quinze
 jours au moins avant leur présentation au conseil d'administration. 
 
-Les délibérations relatives au budget, aux décisions modificatives, au compte financier ainsi que celles ayant une incidence
-financière non prévue au budget sont exécutoires dans les conditions prévues à l'article 1er du décret n° 99-575 du 8 juillet
-1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 En cas d'opposition de l'autorité de tutelle ou du ministre chargé du budget, le conseil d'administration dispose d'un délai
 de quinze jours pour délibérer à nouveau. A l'issue de cette nouvelle délibération, si le désaccord persiste, la décision est
@@ -67437,18 +67145,14 @@ arrêtée par le ministre de la défense et le ministre chargé du budget.
 
 	**Cite**:
 
-	  - Décret n°99-575 du 8 juillet 1999 - art. 1 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3415-17
-
-L'établissement est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Les attributions du contrôle financier sont fixées par
-arrêté du ministre de tutelle et du ministre chargé du budget. 
 
 Des régies d'avances et de recettes peuvent être créées par le directeur de l'établissement, après accord du contrôleur
 financier, dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux
@@ -67460,12 +67164,11 @@ Les régisseurs sont désignés par le directeur de l'établissement avec l'agr�
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
+	  - Décret n°92-681 du 20 juillet 1992
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ##### Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM)
@@ -67721,19 +67424,18 @@ mandat.
 
 ###### Article R3416-12
 
-Le directeur général, l'autorité chargée du contrôle financier et l'agent comptable assistent aux séances avec voix
-consultative.
+Le directeur général,      le contrôleur budgétaire  et l'agent comptable assistent aux séances avec voix consultative. 
 
 Le contrôle général des armées est tenu informé des séances du conseil d'administration. Il peut s'y faire représenter par
-l'un de ses membres.
+l'un de ses membres. 
 
 Le président du conseil d'administration peut décider l'audition par le conseil d'administration de toute personne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R3416-13
@@ -68001,10 +67703,8 @@ Un arrêté du ministre de la défense précise les missions, l'organisation et 
 
 ###### Article R3416-23
 
-L'établissement est soumis au régime financier et comptable fixé par les dispositions des décrets n° 53-1227 du 10 décembre
-1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère administratif et n°
-62-1587 du 29 décembre 1962 portant règlement général de la comptabilité publique, qui sont applicables aux établissements
-publics nationaux à caractère administratif. 
+L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à
+la gestion budgétaire et comptable publique. 
 
 Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
 juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
@@ -68013,47 +67713,10 @@ juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances d
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°92-681 du 20 juillet 1992 (V)
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3416-24
-
-L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé de la défense et du ministre chargé du
-budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
-
-
-###### Article R3416-25
-
-Le contrôle financier de l'établissement est exercé dans les conditions prévues par le décret n° 2005-757 du 4 juillet 2005
-relatif au contrôle financier au sein des établissements publics administratifs de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -68296,14 +67959,14 @@ mandat.
 
 ###### Article R3417-8
 
-Le directeur de l'établissement, l'autorité chargé du contrôle financier et l'agent comptable près l'établissement assistent
+Le directeur de l'établissement, l'autorité chargé du contrôle budgétaire et l'agent comptable près l'établissement assistent
 aux réunions du conseil d'administration avec voix consultative.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R3417-9
@@ -68423,10 +68086,10 @@ Les délibérations mentionnées à l'article R. 3417-12 sont exécutoires, à d
 délai de vingt jours à compter de la date de réception du procès-verbal par le ministre de la défense. Dans ce délai, le
 ministre de la défense peut refuser d'approuver ces délibérations ou décider de surseoir à leur application. 
 
-Les délibérations mentionnées aux 2°, 3°, 4° et 5° de l'article R. 3417-12 sont exécutoires, à défaut d'approbation expresse,
-à l'expiration d'un délai de vingt jours à compter de la date de réception du procès-verbal par le ministre chargé de
-l'économie et celles du 1° de l'article R. 3417-12, dans les mêmes conditions, par le ministre chargé du budget. Dans ce
-délai, le ministre intéressé peut refuser d'approuver ces délibérations ou décider de surseoir à leur application. 
+Les délibérations mentionnées aux 2°, 3° et 5° de l'article R. 3417-12 sont exécutoires, à défaut d'approbation expresse, à
+l'expiration d'un délai de vingt jours à compter de la date de réception du procès-verbal par le ministre chargé de
+l'économie. Celles portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Lorsque le ministre de la défense, le ministre chargé de l'économie ou le ministre chargé du budget demande par écrit des
 informations complémentaires, le délai de vingt jours est suspendu jusqu'à la date de leur réception par le ministre
@@ -68434,13 +68097,14 @@ intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cite**:
 
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 	  - Code de la défense. - art. R3417-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3417-15
@@ -68719,45 +68383,22 @@ La gestion administrative de l'établissement comprend notamment :
 
 ###### Article R3417-27
 
-L'établissement est soumis au régime financier et comptable fixé par les décrets n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et n° 99-575 du 8 juillet
-1999 relatif aux modalités d'application de certaines décisions financières des établissements publics de l'Etat.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°99-575 du 8 juillet 1999 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 	**Cité par**:
 
 	  - Arrêté du 21 mars 2014 (V)
-
-
-###### Article R3417-28
-
-Le contrôle financier est exercé dans les conditions prévues par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Les modalités de ce contrôle sont fixées par arrêté
-conjoint du ministre de la défense et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3417-29
@@ -69081,19 +68722,12 @@ Le président a voix prépondérante en cas de partage égal des voix.
 
 ###### Article R3421-7
 
-Les projets d'état prévisionnel de recettes et de dépenses, de modifications, de compte financier, ainsi que les projets de
-délibérations ayant une incidence financière non prévue au budget sont communiqués par le président du conseil
-d'administration à l'autorité de tutelle et au ministre chargé du budget, quinze jours au moins avant leur présentation au
-conseil d'administration. 
+Les projets de budget, de compte financier, ainsi que les projets de délibérations ayant une incidence financière non prévue
+au budget sont communiqués par le président du conseil d'administration à l'autorité de tutelle et au ministre chargé du
+budget, quinze jours au moins avant leur présentation au conseil d'administration. 
 
-Les délibérations relatives à l'état prévisionnel de recettes et de dépenses, à ses modifications, au compte financier ainsi
-que celles ayant une incidence financière non prévue au budget sont exécutoires dans les conditions prévues à l'article 1er
-du décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des
-établissements publics de l'Etat. 
-
-En cas d'opposition de l'autorité de tutelle ou du ministre chargé du budget, le conseil d'administration dispose d'un délai
-de quinze jours pour délibérer à nouveau.A l'issue de cette nouvelle délibération, si le désaccord persiste, la décision est
-arrêtée par le ministre de la défense et le ministre chargé du budget. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les autres délibérations obligatoires prévues à l'article R. 3421-5 sont soumises à l'approbation expresse de l'autorité de
 tutelle. 
@@ -69105,18 +68739,18 @@ Si, dans un délai de trente jours suivant la réception par l'autorité de tute
 délibérations du conseil d'administration, elles deviennent exécutoires. 
 
 En cas d'urgence liée au soutien des forces armées en opération extérieure, le président du conseil d'administration peut
-demander que les délais prévus aux troisième et cinquième alinéas soient ramenés à sept jours.
+demander que les délais prévus au quatrième alinéa soient ramenés à sept jours.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°99-575 du 8 juillet 1999 - art. 1 (V)
-	  - Code de la défense. - art. R3421-5 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Code de la défense. - art. R3421-5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3421-8
@@ -69137,48 +68771,41 @@ Le directeur de comptoir peut déléguer sa signature.
 
 ###### Article R3421-9
 
-Le fonctionnement financier et comptable de l'établissement est régi par les décrets n° 53-707 du 9 août 1953 relatif au
-contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre économique et
-social et n° 62-1587 du 29 décembre 1962 portant règlement général de la comptabilité publique en ce qui concerne les
-établissement publics à caractère industriel et commercial dotés d'un agent comptable. 
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185,204 à 208 et 220
+à 228. 
 
 Un arrêté du ministre chargé du budget et du ministre de la défense précise les modalités de ce fonctionnement. 
 
 Des régies d'avances et de recettes peuvent être instituées conformément au décret n° 92-681 du 20 juillet 1992 relatif aux
 régies de recettes et aux régies d'avance des organismes publics. 
 
-Le contrôle de la gestion financière de l'établissement est exercé conformément aux décrets n° 55-733 du 26 mai 1955 relatif
-au contrôle économique et financier de l'Etat et n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines
-décisions financières des établissements publics de l'Etat sous l'autorité du ministre chargé de l'économie, par un
-contrôleur d'Etat. Un arrêté du ministre chargé du budget précise les modalités de ce contrôle.
+Le contrôle de l'établissement est exercé conformément au décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et
+financier de l'Etat. Un arrêté du ministre chargé du budget précise les modalités de ce contrôle.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-707 du 9 août 1953 (V)
-	  - Décret n°55-733 du 26 mai 1955 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-	  - Décret n°99-575 du 8 juillet 1999 (V)
+	  - Décret n°55-733 du 26 mai 1955
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3421-10
-
-L'agent comptable principal est nommé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.
 
 Des agents comptables secondaires, placés auprès des directeurs de comptoirs, peuvent être nommés par le directeur général,
 après accord du ministre chargé du budget et après avis de l'agent comptable principal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
 ###### Article R3421-11
@@ -70501,40 +70128,16 @@ Les frais et indemnités afférents à l'établissement de ces rapports sont ré
 
 ###### Article R3423-26
 
-Le fonctionnement financier et comptable de l'établissement est assuré dans les conditions fixées par le décret n° 62-1587 du
-29 décembre 1962 portant règlement général sur la comptabilité publique, compte tenu des modalités particulières de la
-présente sous-section.
+L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à
+la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-
-###### Article R3423-27
-
-L'état des prévisions de recettes et de dépenses est établi pour la période de douze mois commençant le 1er janvier. Il fait
-apparaître sous deux sections distinctes les opérations relatives à l'exploitation et les opérations en capital. Il est
-présenté selon un modèle arrêté par le ministre chargé du budget et divisé en chapitres qui ne doivent comprendre que des
-dépenses ou des recettes de même nature.
-
-Les opérations en capital peuvent donner lieu à des prévisions d'exécution échelonnées sur plusieurs années sous forme
-d'autorisations de programmes limitatives, individualisées par opérations ou groupes d'opérations.
-
-L'état est accompagné de toutes justifications, et notamment de tableaux analytiques faisant ressortir les effectifs des
-personnels de toute nature et l'état d'avancement des opérations d'équipement.
-
-Les crédits ont un caractère soit évaluatif, soit limitatif. L'arrêté prévu à l'article R. 3423-34 détermine la ventilation
-des crédits selon cette distinction.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -70555,35 +70158,12 @@ défense.
 
 ###### Article R3423-29
 
-L'agent comptable de l'office est nommé par arrêté conjoint du ministre chargé du budget et du ministre de la défense après
-avis du conseil d'administration.
-
-Sa rémunération est fixée par le ministre chargé du budget.
-
 Des agents comptables secondaires peuvent être désignés par le président du conseil d'administration de l'office sur
 proposition de l'agent comptable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3423-30
-
-Le contrôle de la gestion financière de l'office est exercé, sous l'autorité du ministre chargé du budget, par un contrôleur
-d'Etat.
-
-Un arrêté du ministre chargé du budget précise les modalités suivant lesquelles s'exerce ce contrôle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
@@ -79721,11 +79301,10 @@ L'affectation d'un militaire, pour une durée limitée, en application de l'arti
 prononcée par arrêté du ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie
 nationale. Lorsqu'elle est prononcée auprès d'une des personnes morales mentionnées au 2° de l'article L. 4138-2 du code de
 la défense autre que l'Etat, elle est subordonnée à la signature d'une convention entre le ministre de la défense, ou le
-ministre de l'intérieur pour les militaires de la gendarmerie nationale, et la personne morale intéressée.
+ministre de l'intérieur pour les militaires de la gendarmerie nationale, et la personne morale intéressée. 
 
-La convention, conclue pour une durée maximale de dix ans, est examinée par l'autorité chargée du contrôle financier, dans
-les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations
-de l'Etat. 
+La convention, conclue pour une durée maximale de dix ans, est examinée par      le contrôleur budgétaire, dans les
+conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Elle précise notamment les objectifs poursuivis par l'affectation, le nombre de militaires affectés, leur mission, la nature
 et le niveau des activités qu'ils exercent, les modalités de leur affectation, leurs conditions d'emploi, les modalités et
@@ -79736,12 +79315,13 @@ contrôle et de l'évaluation desdites activités.
 
 	**Cite**:
 
-	  - Décret n°2005-54 du 27 janvier 2005
+	  - Décret n°2012-1246 du 7 novembre 2012
 	  - Code de la défense. - art. L4138-2
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 28
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R4138-31
@@ -79861,11 +79441,11 @@ d'intérêt général ;
 caractère international pour remplir une mission d'intérêt public. Le détachement auprès d'un organisme d'intérêt général à
 caractère international ne peut intervenir que dans les conditions prévues par une convention préalablement passée entre le
 ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, l'autorité de tutelle
-de l'organisme d'accueil et le ministre des affaires étrangères. Cette convention, examinée par l'autorité chargée du
-contrôle financier, dans les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au
-sein des administrations de l'Etat, définit la nature et le niveau des activités confiées au militaire, ses conditions
-d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de
-l'évaluation desdites activités ; 
+de l'organisme d'accueil et le ministre des affaires étrangères. Cette convention, examinée par      le contrôleur
+budgétaire , dans les conditions prévues par le décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, définit la nature et le niveau des activités confiées au militaire, ses conditions d'emploi et de
+rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de l'évaluation desdites
+activités ; 
 
 6° a) Auprès d'une entreprise privée ou d'un organisme privé pour y exécuter des travaux de recherche d'intérêt national
 entrant dans le cadre fixé par le comité interministériel de la recherche scientifique et technique, ou pour assurer le
@@ -79886,9 +79466,9 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 	**Cite**:
 
-	  - Ordonnance n°2004-559 du 17 juin 2004 (V)
-	  - Décret n°2005-54 du 27 janvier 2005 (V)
-	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+	  - Ordonnance n°2004-559 du 17 juin 2004
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Cité par**:
 
@@ -79903,7 +79483,8 @@ telle collectivité ou pour suivre un cycle de préparation à un concours donna
 
 	**Modifié par**:
 
-	  - Décret n°2011-1517 du 14 novembre 2011 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R4138-36
@@ -85166,13 +84747,14 @@ pour toute construction nouvelle ou toute reconstruction, réhabilitation ou tra
 ###### Article R5111-7
 
 La délivrance de l'autorisation préalable donne lieu à la présentation d'une demande indiquant la nature des travaux, la
-position et les principales dimensions de la construction, ainsi que la nature des matériaux.
+position et les principales dimensions de la construction, ainsi que la nature des matériaux. 
 
-Le directeur local du service d'infrastructure de la défense instruit la demande et fait connaître son avis au ministre dans
-les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être complétée.
+Le directeur de l'établissement du service d'infrastructure de la défense instruit la demande et fait connaître son avis au
+ministre dans les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être
+complétée. 
 
-L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur local ou de l'expiration
-du délai qui lui était imparti pour le donner.
+L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur de l'établissement du
+service d'infrastructure de la défense ou de l'expiration du délai qui lui était imparti pour le donner.
 
 **Liens relatifs à cet article**
 
@@ -85180,10 +84762,53 @@ du délai qui lui était imparti pour le donner.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
+
 	**Cité par**:
 
 	  - Décret n°2014-453 du 5 mai 2014 (V)
 	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+
+
+###### Article R5111-7-1
+
+Le ministre de la défense peut déléguer par arrêté sa signature en matière d'autorisations mentionnées à l'article L.
+5111-6 : 
+
+1° A l'inspecteur de l'armement pour les poudres et explosifs, pour les autorisations de construire dans les polygones
+d'isolement établis autour des établissements transférés par la loi n° 70-575 du 3 juillet 1970 portant réforme du régime des
+poudres et substances explosives et par la loi n° 89-924 du 23 décembre 1989 autorisant le transfert à une société nationale
+des établissements industriels dépendant du groupement industriel des armements terrestres ; 
+
+2° Au directeur technique de la direction générale de l'armement, pour les autorisations de construire dans les polygones
+d'isolement établis autour des magasins et établissements servant à la conservation, à la manipulation ou à la fabrication de
+poudres, munitions, artifices et explosifs relevant du délégué général pour l'armement ou dont la direction générale de
+l'armement exerce la tutelle ; 
+
+3° Aux commandants de région terre, aux commandants d'arrondissement maritime et au commandant de la défense aérienne et des
+opérations aériennes, pour signer, après avis technique du service interarmées des munitions, les autorisations de construire
+dans les polygones d'isolement établis autour des établissements relevant de leur compétence. 
+
+Les autorités mentionnées aux 1° à 3° peuvent subdéléguer cette signature à leurs adjoints.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-575 du 3 juillet 1970 (V)
+	  - Loi n°89-924 du 23 décembre 1989 (V)
+	  - Code de la défense. - art. L5111-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-453 du 5 mai 2014 (V)
+	  - Arrêté du 22 décembre 2015 - art. 5 (V)
 
 
 ###### Article R5111-8
@@ -85204,8 +84829,8 @@ par le code de l'urbanisme.
 
 ###### Article R5111-9
 
-Le directeur local du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation préalable une copie
-certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées.
+Le         directeur de l'établissement du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation
+préalable une copie certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées. 
 
 L'autorisation préalable dont il n'a pas été fait usage dans le délai d'un an, à partir de la date du certificat délivré, est
 frappée de péremption.
@@ -85216,12 +84841,16 @@ frappée de péremption.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
+
 
 ###### Article R5111-10
 
 Les travaux ayant fait l'objet d'une autorisation en application de l'article R. 5111-6 ne peuvent être entrepris qu'après
-déclaration adressée au directeur local du service d'infrastructure de la défense. La déclaration de travaux doit être
-transmise par lettre recommandée avec avis de réception.
+déclaration adressée au         directeur de l'établissement du service d'infrastructure de la défense. La déclaration de
+travaux doit être transmise par lettre recommandée avec avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -85229,9 +84858,13 @@ transmise par lettre recommandée avec avis de réception.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
+
 	**Cite**:
 
-	  - Code de la défense. - art. R5111-6 (V)
+	  - Code de la défense. - art. R5111-6
 
 
 ##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime
@@ -85383,23 +85016,28 @@ conformément aux dispositions de l'article R. 5114-1.
 
 ###### Article R5114-4
 
-Le directeur local du service d'infrastructure de la défense fait établir, par agent assermenté, un plan et des photographies
-des constructions existant à la date de publication du décret instaurant la servitude. Le plan et les photographies
-constituent un dossier qui atteste de l'état initial des zones de servitudes. Ce dossier, contresigné par le directeur local
-du service d'infrastructure de la défense et les maires des communes concernées, est établi en trois exemplaires, dont un
-déposé en mairie, un deuxième à la préfecture et le troisième au siège local du service d'infrastructure de la défense. 
+Le directeur de l'établissement du service d'infrastructure de la défense fait établir, par agent assermenté, un plan et des
+photographies des constructions existant à la date de publication du décret instaurant la servitude. Le plan et les
+photographies constituent un dossier qui atteste de l'état initial des zones de servitudes. Ce dossier, contresigné par le
+directeur de l'établissement du service d'infrastructure de la défense et les maires des communes concernées, est établi en
+trois exemplaires, dont un déposé en mairie, un deuxième à la préfecture et le troisième au         siège de l'établissement
+du service d'infrastructure de la défense. 
 
 Ce dossier est modifié lorsqu'intervient un décret modificatif en application de l'article R. 5114-3.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret du 10 août 1853 - art. 30 (Ab), alinéa 1 et 2
+	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R5114-3 (V)
+	  - Code de la défense. - art. R5114-3
 
 
 ##### Section 2 : Conditions d'autorisation de certaines
@@ -85434,15 +85072,19 @@ clôtures et autres ouvrages. Il fixe les limites et conditions que doivent resp
 ###### Article R5114-6
 
 L'autorisation des constructions dont la réalisation est conforme aux prescriptions du décret prévu par l'article R. 5114-5
-est donnée par le directeur local du service d'infrastructure de la défense, dans le délai de trois mois du dépôt de la
-demande complète indiquant la nature des travaux, la position et les principales dimensions de la construction et justifiant
-du respect des prescriptions énoncées par le décret.
+est donnée par le         directeur de l'établissement du service d'infrastructure de la défense, dans le délai de trois mois
+du dépôt de la demande complète indiquant la nature des travaux, la position et les principales dimensions de la construction
+et justifiant du respect des prescriptions énoncées par le décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -85452,7 +85094,7 @@ du respect des prescriptions énoncées par le décret.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R5114-5 (V)
+	  - Code de la défense. - art. R5114-5
 
 
 ##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable
@@ -85488,19 +85130,24 @@ d'ouvrage existant dans la zone de servitudes.
 ###### Article R5114-8
 
 La délivrance de l'autorisation préalable donne lieu à la présentation d'une demande indiquant la nature des travaux, la
-position et les principales dimensions de la construction, ainsi que la nature des matériaux.
+position et les principales dimensions de la construction, ainsi que la nature des matériaux. 
 
-Le directeur local du service d'infrastructure de la défense instruit la demande et fait connaître son avis au ministre dans
-les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être complétée.
+Le directeur de l'établissement du service d'infrastructure de la défense instruit la demande et fait connaître son avis au
+ministre dans les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être
+complétée. 
 
-L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur local ou de l'expiration
-du délai qui lui était imparti pour le donner.
+L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur de l'établissement du
+service d'infrastructure de la défense ou de l'expiration du délai qui lui était imparti pour le donner.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -85528,8 +85175,8 @@ déclarations exigées par le code de l'urbanisme.
 
 ###### Article R5114-10
 
-Le directeur local du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation préalable une copie
-certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées.
+Le         directeur de l'établissement du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation
+préalable une copie certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées. 
 
 L'autorisation dont il n'a pas été fait usage dans le délai d'un an, à partir de la date du certificat délivré, est frappée
 de péremption.
@@ -85540,12 +85187,16 @@ de péremption.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
+
 
 ###### Article R5114-11
 
 Les travaux ayant fait l'objet d'une autorisation en application des articles R. 5114-6 et R. 5114-7 ne peuvent être
-entrepris qu'après déclaration adressée au directeur local du service d'infrastructure de la défense. La déclaration de
-travaux doit être transmise par lettre recommandée avec avis de réception.
+entrepris qu'après déclaration adressée au         directeur de l'établissement du service d'infrastructure de la défense. La
+déclaration de travaux doit être transmise par lettre recommandée avec avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -85553,13 +85204,13 @@ travaux doit être transmise par lettre recommandée avec avis de réception.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret du 10 août 1853 - art. 26 (Ab), alinéa 1
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R5114-6 (V)
+	  - Code de la défense. - art. R5114-6
 
 
 #### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE
@@ -85608,113 +85259,28 @@ vue de l'engagement de l'action devant le juge administratif.
 ##### Chapitre unique : Gestion et administration des infrastructures de la défense
 
 
-##### Section 1 : Dispositions générales
-
-
-###### Article D5131-4
-
-L'attributaire d'un élément du domaine utilisé par le ministère de la défense est l'état-major, la direction ou le service
-qui en reçoit la disposition ou en assure la garde.
-
-L'attribution d'un élément du domaine est confiée par décision du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 4 (Ab)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D5341-2 (V)
-	  - Code de la défense. - art. D5351-2 (V)
-	  - Code de la défense. - art. D5361-2 (V)
-	  - Code de la défense. - art. D5371-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R5131-4 (M)
-
-
-###### Article D5131-5
-
-Les attributaires désignent les occupants, qui peuvent être des formations, des services, des organismes, des personnes
-physiques ou morales et qui reçoivent le droit d'usage de tout ou partie d'un élément immobilier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 5 (Ab)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R5131-5 (M)
-
-
-###### Article D5131-6
-
-La gestion de l'infrastructure est l'ensemble des mesures et décisions concourant à sa constitution, son occupation, son
-utilisation, son adaptation et sa conservation.
-
-L'administration de l'infrastructure est chargée de la mise en œuvre de ces mesures et décisions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2011-280 du 16 mars 2011 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. D5341-2 (V)
-	  - Code de la défense. - art. D5351-2 (V)
-	  - Code de la défense. - art. D5361-2 (V)
-	  - Code de la défense. - art. D5371-2 (V)
-
-
-###### Article D5131-7
-
-Un arrêté du ministre de la défense précise les conditions d'application des sections 1 à 4 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2011-280 du 16 mars 2011 (V)
-
+##### Section 1 : Politique immobilière de la défense
 
 ###### Article R5131-1
 
-La politique immobilière de la défense répond aux besoins des formations militaires et des autres organismes du ministère, en
-conformité avec les règles applicables en matière d'aménagement du territoire, d'urbanisme et d'environnement et dans le
-respect des intérêts domaniaux de l'Etat.
+La politique immobilière de la défense répond aux besoins des formations militaires et autres organismes du ministère de la
+défense en matière domaniale, d'infrastructure, d'environnement et de logement, dans le respect des intérêts domaniaux de
+l'Etat. 
+
+Elle comprend la programmation des crédits correspondants. 
+
+Elle concourt à la définition et la mise en œuvre des politiques d'urbanisme et d'aménagement du territoire, pour les aspects
+intéressant le ministère de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 	**Cité par**:
 
@@ -85723,26 +85289,41 @@ respect des intérêts domaniaux de l'Etat.
 
 ###### Article R5131-2
 
-Au sens du présent code, l'infrastructure de la défense est constituée, d'une part, par l'ensemble des immeubles bâtis ou non
-appartenant au domaine public ou privé de l'Etat et utilisés par les unités militaires et services du ministère et, d'autre
-part, par les immeubles bâtis ou non que les services du ministère prennent à bail ou occupent à un autre titre.
+Au sens du présent code, l'infrastructure de la défense est constituée des immeubles, bâtis ou non, appartenant au domaine
+privé ou public de l'Etat et utilisés par les formations militaires et autres organismes du ministère de la défense ou pris à
+bail ou occupés à un autre titre par ces formations et organismes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
 
 ###### Article R5131-3
 
-Conformément aux articles R. 53, R. 57-3 et R. 57-4 du code du domaine de l'Etat, le ministre de la défense, ou l'autorité à
-laquelle il donne délégation à cette fin, signe les conventions d'occupation temporaire et délivre les autorisations
-d'occupation temporaire du domaine public utilisé par le ministère de la défense.
+Le schéma directeur immobilier met en œuvre les décisions du ministre de la défense relatives aux implantations des
+formations militaires et autres organismes du ministère de la défense et à l'adaptation de l'infrastructure de la défense à
+leurs besoins opérationnels. Le cas échéant, il prend en compte les plans de stationnement des unités. 
+
+Le schéma directeur immobilier évalue les possibilités d'aménagement et d'évolution des emprises utilisées par le ministère
+de la défense dans le périmètre géographique de chacune des bases dont la liste est fixée par arrêté du ministre de la
+défense. Il définit les besoins d'investissements en infrastructure de défense. Il analyse son insertion dans les projets
+urbains ou d'aménagement du territoire après avis du préfet de région. 
+
+Le schéma directeur immobilier est établi : 
+
+1° Par les autorités militaires commandant des bases dont la liste est fixée par arrêté du ministre de la défense, pour les
+bases qu'elles commandent, et à l'exception des immeubles situés en Ile-de-France ; 
+
+2° Par le secrétaire général pour l'administration du ministère de la défense pour les immeubles situés en Ile-de-France,
+dans des conditions définies par arrêté du ministre de la défense. 
+
+Le schéma directeur immobilier est approuvé par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -85763,130 +85344,291 @@ d'occupation temporaire du domaine public utilisé par le ministère de la défe
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R53 (V)
-	  - Code du domaine de l'Etat - art. R57-3 (V)
+	  - Code du domaine de l'Etat - art. R53
+	  - Code du domaine de l'Etat - art. R57-3
 
 
-##### Section 2 : Compétence des autorités chargées de l'infrastructure
+##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale
 
+###### Article D5131-6
 
-###### Article D5131-8
+Les établissements du service d'infrastructure de la défense instruisent les actes relatifs aux biens et droits immobiliers
+répondant aux besoins des formations militaires et autres organismes du ministère de la défense, sous réserve des
+dispositions de l'article 31 du décret du 5 octobre 2009 mentionné à l'article R. 5131-4. 
 
-Le secrétaire général pour l'administration propose au ministre de la défense, en liaison avec les états-majors, directions
-et services, la politique immobilière d'ensemble du ministère en matière domaniale, d'infrastructure, d'environnement et de
-logement, et notamment la programmation des crédits relatifs à cette politique immobilière. Il en assure la mise en œuvre en
-coordination avec les attributaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 7 (Ab)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R5131-8 (V)
-
-
-###### Article D5131-9
-
-Les attributaires ont en charge l'infrastructure mise à leur disposition ou sous leur garde.
-
-Ils en établissent les règles d'utilisation et peuvent proposer d'en modifier l'assiette ou la consistance.
-
-Avec l'assistance du service d'infrastructure de la défense, ils définissent leurs besoins, proposent au secrétaire général
-pour l'administration, le cas échéant en fonction des priorités définies par le chef d'état-major des armées, les programmes
-correspondants et en suivent la réalisation.
-
-Quelles que soient les modalités de financement ou de conduite des opérations à réaliser, les attributaires ont
-obligatoirement recours au service d'infrastructure de la défense, sous réserve des attributions confiées à la direction
-générale de la sécurité extérieure, à la direction générale pour l'armement pour ses installations à vocation industrielle ou
-d'expérimentation et au service des essences des armées pour ses installations techniques de gestion de la ressource
-pétrolière.
+Pour l'instruction de ces actes, ces établissements comprennent, dans les bases dont la liste est fixée par arrêté du
+ministre de la défense, des unités de soutien de l'infrastructure de la défense. Ces unités exercent un rôle d'expertise et
+de conseil en matière immobilière auprès des autorités militaires mentionnées à l'article R. 5131-3.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D5341-2 (V)
+	  - Code de la défense. - art. D5351-2 (V)
+	  - Code de la défense. - art. D5361-2 (V)
+	  - Code de la défense. - art. D5371-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5131-3 (V)
+	  - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article D5131-7
+
+Les établissements du service d'infrastructure de la défense participent à la mise en œuvre de la politique immobilière en
+matière de constitution, d'adaptation et d'inventaire permanent du domaine immobilier occupé par les formations militaires et
+autres organismes du ministère de la défense, sous réserve des dispositions de l'article 31 du décret du 5 octobre 2009
+mentionné à l'article R. 5131-4. 
+
+Ils assurent à ce titre l'entretien et le maintien en bon état du patrimoine immobilier occupé par ces formations et
+organismes. 
+
+Ils appuient les autorités chargées de l'établissement des schémas directeurs immobiliers définis à l'article R. 5131-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5131-3 (V)
+	  - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article R5131-4
+
+Les autorités militaires mentionnées à l'article R. 5131-3 répartissent les immeubles et les locaux entre les formations
+militaires et autres organismes du ministère de la défense, sous réserve des dispositions de l'article 31 du décret n°
+2009-1179 du 5 octobre 2009 fixant les attributions et l'organisation du secrétariat général pour l'administration du
+ministère de la défense. 
+
+La répartition intervient dans le respect des orientations fixées par le schéma directeur immobilier approuvé ou, à défaut,
+en tenant compte des plans de stationnement des unités.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2009-1179 du 5 octobre 2009 - art. 31 (V)
+	  - Code de la défense. - art. R5131-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
 	**Anciens textes**:
 
-	  - Décret n°2000-288 du 30 mars 2000 - art. 8 (Ab)
+	  - Code de la défense. - art. D5131-4 (T)
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+	  - Code de la défense. - art. D5131-6 (V)
+	  - Code de la défense. - art. D5131-7 (V)
+	  - Code de la défense. - art. D5351-2 (V)
+	  - Code de la défense. - art. D5361-2 (V)
+	  - Code de la défense. - art. D5371-2 (V)
 
-	**Nouveaux textes**:
 
-	  - Code de la défense. - art. R5131-9 (V)
+###### Article R5131-5
 
+Sous réserve des matières qui relèvent de la compétence du délégué général pour l'armement et du secrétaire général pour
+l'administration de la défense, le ministre de la défense peut par arrêté déléguer des pouvoirs aux autorités militaires
+mentionnées à l'article R. 5131-3 pour exercer des attributions et prendre des actes relatifs aux biens et droits immobiliers
+répondant aux besoins des formations militaires et autres organismes du ministère de la défense. 
+
+La signature de conventions d'utilisation, la saisine de l'administration chargée des domaines pour l'acquisition,
+l'aliénation ou le changement d'utilisation d'immeubles, la prise à bail d'immeubles privés et la location d'immeubles du
+domaine privé militaire, la réception de demandes et la délivrance de titres ou d'autorisations d'occupation, la signature de
+conventions de gestion pour assurer la conservation, la protection ou la mise en valeur du patrimoine et le transfert de la
+gestion d'immeubles du domaine public militaire au profit d'une personne publique peuvent être délégués. 
+
+Un arrêté fixe la liste des attributions et actes concernés et les limites dans lesquelles la délégation est consentie. 
+
+L'autorité militaire commandant de base ayant reçu délégation de pouvoirs peut déléguer sa signature à son adjoint ou, le cas
+échéant, son suppléant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 2012 - art. 4 (V)
+	  - Code de la défense. - art. R5341-1 (V)
+	  - Code de la défense. - art. R5351-1 (V)
+	  - Code de la défense. - art. R5361-1 (V)
+	  - Code de la défense. - art. R5371-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. D5131-5 (T)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5131-3 (V)
+
+
+###### Article R5131-8
+
+Au titre de la police du domaine immobilier, les établissements du service d'infrastructure de la défense participent à la
+surveillance du domaine et disposent à cette fin d'agents assermentés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. D5131-8 (T)
+
+
+###### Article R5131-9
+
+Les responsables des formations militaires et autres organismes du ministère de la défense occupant les immeubles veillent à
+l'intégrité, à la surveillance et à la sauvegarde des éléments d'infrastructure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 2010 - art. 3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. D5131-9 (T)
+
+
+##### Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme
+
+##### Sous-section 1 : Compétences en matière d'environnement
 
 ###### Article D5131-10
 
-Les autorités subordonnées aux attributaires participent, dans leurs zones de compétences respectives, à la gestion de
-l'infrastructure dont ils ont la charge, sous réserve des attributions des commandants supérieurs dans les départements et
-collectivités d'outre-mer, en Nouvelle-Calédonie, dans les Terres australes et antarctiques françaises, et des commandants de
-forces françaises à l'étranger. Elles peuvent recevoir à cet effet en matière domaniale des délégations de pouvoirs du
-ministre.
+Le ministre de la défense définit la politique immobilière de la défense en matière d'environnement. Celle-ci met en œuvre
+les prescriptions résultant des dispositions suivantes : 
+
+1° Les articles R. 217-1 et suivants et R. 517-1 et suivants du code de l'environnement, en ce qui concerne les polices
+administratives des installations, ouvrages, travaux ou activités et des installations classées pour la protection de
+l'environnement, au sein des organismes relevant du ministère de la défense ; 
+
+2° Les articles R. 222-1 et suivants du code de l'environnement pour les schémas régionaux du climat, de l'air et de
+l'énergie ; 
+
+3° Le titre III du livre 3 du code de l'environnement pour les parcs et réserves ; 
+
+4° Les articles R. 414-3 et suivants du code de l'environnement pour la désignation et la conservation des sites Natura 2000
+constitués exclusivement ou partiellement de terrains militaires ; 
+
+5° L'article R. 1321-63 du code de la santé publique et les dispositions qui en découlent, en matière d'organisation, au sein
+des installations, services et organismes relevant du ministère de la défense, de la police des eaux destinées à la
+consommation humaine. 
+
+Pour l'exercice des compétences prévues aux 2° à 4° et par délégation du ministre de la défense, les autorités militaires
+territorialement compétentes ont recours à l'établissement du service d'infrastructure de la défense territorialement
+compétent pour l'instruction de ces dossiers et peuvent le solliciter pour assurer sa représentation auprès des services
+déconcentrés de l'Etat et des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 9 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
 
-###### Article D5131-11
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
-Les occupants sont responsables devant les attributaires de l'intégrité, de la surveillance et de la sauvegarde des éléments
-d'infrastructure dont ils ont la jouissance. Ils veillent à leur maintien en bon état.
+	**Cite**:
 
-Ils peuvent demander l'assistance du service d'infrastructure de la défense et bénéficier de prestations de sa part.
+	  - Code de l'environnement - art. R217-1 (VD)
+
+
+##### Sous-section 2 : Compétences en matière de logement
+
+###### Article R5131-11
+
+A l'exception des immeubles situés en Ile-de-France, le ministre délègue aux autorités militaires mentionnées à l'article R.
+5131-3 des pouvoirs pour attribuer, aux agents civils et militaires du ministère de la défense, les logements situés dans un
+immeuble appartenant à l'Etat, pris à bail par lui ou réservé par convention auprès d'un bailleur. Ces autorités militaires
+peuvent déléguer leur signature à un ou plusieurs subordonnés.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 2010 - art. 3 (V)
+	  - Code de la défense. - art. R3231-9-1 (V)
+	  - Code de la défense. - art. R5341-1 (V)
+	  - Code de la défense. - art. R5351-1 (V)
+	  - Code de la défense. - art. R5361-1 (V)
+	  - Code de la défense. - art. R5371-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
 	**Anciens textes**:
 
-	  - Décret n°2000-288 du 30 mars 2000 - art. 10 (Ab)
+	  - Code de la défense. - art. D5131-11 (T)
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R5131-11 (V)
+	  - Code de la défense. - art. R5131-3 (V)
 
 
-##### Section 3 : Attributions du service d'infrastructure
-de la défense
-
+##### Sous-section 3 : Compétences en matière d'urbanisme
 
 ###### Article D5131-12
 
-Le service d'infrastructure de la défense participe aux tâches d'administration concernant la constitution, l'adaptation et
-l'inventaire permanent du domaine immobilier confié aux unités et services du ministère de la défense.
+Sous réserve des compétences dévolues en la matière aux états-majors, directions et services, le commandant de région terre
+représente le ministre auprès des services déconcentrés de l'Etat et auprès des collectivités territoriales, dans les limites
+de la région terre, pour les questions d'urbanisme intéressant le ministère de la défense. Il transmet au préfet les
+informations relatives aux installations de la défense ayant une incidence sur le territoire concerné, que l'Etat porte à la
+connaissance des communes ou de leurs groupements en application de l'article R. * 121-1 du code de l'urbanisme. 
 
-Il participe à la surveillance, à la conservation et à la police de ce domaine et peut disposer à cette fin d'agents
-assermentés.
+Au titre de cette compétence, il a recours à l'établissement du service d'infrastructure de la défense territorialement
+compétent pour assurer l'instruction de ces dossiers et peut le solliciter pour assurer sa représentation auprès des services
+déconcentrés de l'Etat et des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 11 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 	**Cité par**:
 
@@ -85896,35 +85638,66 @@ assermentés.
 	  - Code de la défense. - art. D5371-2 (V)
 	  - Code de la défense. - art. R3222-5 (V)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*121-1 (V)
+
 
 ###### Article D5131-13
 
-Le service d'infrastructure de la défense participe à l'élaboration des procédures réglementaires d'établissement des
-servitudes administratives dont bénéficient les installations de la défense.
+Les établissements du service d'infrastructure de la défense participent à l'établissement des servitudes d'utilité publique
+suivantes, dont bénéficient les installations de défense : 
 
-Il en assure la continuité et l'application. Il est consulté à cet effet sur les projets susceptibles de les affecter.
+1° Polygones d'isolement créés en application des articles L. 5111-1 à L. 5111-7 et autorisations de construction à
+l'intérieur des polygones d'isolement ; 
+
+2° Servitudes et champs de vue des postes électrosémaphoriques de la marine nationale et des postes militaires de défense des
+côtes et de sécurité de la navigation institués par les articles L. 5112-1 à L. 5112-3 ; 
+
+3° Servitudes de protection des émissions et réceptions radioélectriques du ministère de la défense définies par les articles
+R. 21 à R. 39 du code des postes et des communications électroniques ; 
+
+4° Servitudes instituées au profit d'autres installations de défense en application des articles L. 5114-1 à L. 5114-3, y
+compris les servitudes aux abords des champs de tir ; 
+
+5° Servitudes aéronautiques instituées en application du titre IV du livre II du code de l'aviation civile. 
+
+Ils en tiennent un inventaire et assurent leur prise en compte.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des postes et des communications électroni... - art. R*21 (V)
+	  - Code de la défense. - art. L5111-1 (V)
+	  - Code de la défense. - art. L5112-1 (V)
+	  - Code de la défense. - art. L5114-1 (V)
+
+
+##### Section 4 : Programmation et coordination en matière d'infrastructure
+
 
 ###### Article D5131-14
 
-Le service d'infrastructure prête son concours aux attributaires pour la maintenance et la conservation de l'infrastructure.
-Il en assure l'entretien conjointement avec les occupants.
+Un comité de coordination de la fonction immobilière examine les orientations de la politique immobilière de la défense, à
+l'exception des installations de la direction générale de la sécurité extérieure et du soutien des forces en opération
+extérieure. Il soumet au secrétaire général pour l'administration, sur la base des propositions de l'état-major des armées,
+des directions et services rattachés directement au ministre, la programmation des crédits couvrant les dépenses immobilières
+du ministère de la défense répondant aux besoins organiques et opérationnels des forces, aux besoins des divers organismes de
+soutien, au logement du personnel et des familles et au fonctionnement du service d'infrastructure de la défense. 
+
+A ce titre, il assure le suivi du déroulement des principaux programmes d'infrastructure et examine la satisfaction des
+besoins opérationnels. Il s'assure de l'exécution de la programmation par le service d'infrastructure de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 13 (Ab)
 
 	**Cité par**:
 
@@ -85935,39 +85708,19 @@ Il en assure l'entretien conjointement avec les occupants.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
 
-##### Section 4 : Programmation et coordination en matière d'infrastructure
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 
 ###### Article D5131-15
 
-Le comité de coordination de la fonction immobilière examine les orientations de la politique immobilière de la défense, à
-l'exception des installations de la direction générale de la sécurité extérieure et du soutien des forces en opération
-extérieure. Il propose au secrétaire général pour l'administration, sur la base des propositions des états-majors, directions
-et services établies, le cas échéant, en fonction des priorités définies par le chef d'état-major des armées, la
-programmation des crédits couvrant les dépenses immobilières du ministère répondant aux besoins organiques et opérationnels
-des forces, aux besoins des divers organismes de soutien, au logement du personnel et des familles et au fonctionnement du
-service d'infrastructure.
+Le comité de coordination de la nction immobilière est présidé par le secrétaire général pour l'administration. Il regroupe
+les représentants des états-majors, directions et services. 
 
-A ce titre, il prend connaissance des principaux programmes d'infrastructure proposés par les attributaires. Il propose au
-secrétaire général pour l'administration leurs modalités de gestion et suit l'évolution des projets.
-
-Il est saisi des propositions du comité interarmées du logement militaire en matière de logement familial.
-
-En liaison avec le conseil de gestion du service d'infrastructure de la défense, il suit l'activité de ce service. Il
-s'assure de l'exécution de la programmation et propose les redéploiements de crédits nécessaires. Présidé par le secrétaire
-général pour l'administration, il regroupe les représentants des états-majors, directions et services.
-
-La direction de la mémoire, du patrimoine et des archives assure la préparation et le suivi de ses travaux.
-
-La composition et les modalités de fonctionnement du comité de coordination de la fonction immobilière sont fixées par
-arrêté.
+Sa composition et ses modalités de fonctionnement sont fixées par arrêté.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2000-288 du 30 mars 2000 - art. 14 (Ab)
 
 	**Cité par**:
 
@@ -85976,6 +85729,10 @@ arrêté.
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 
 ##### Section 5 : Attributions particulières en matière de déminage
@@ -86036,7 +85793,11 @@ service d'infrastructure de la défense est remplacée par la référence à la 
 
 ###### Article D5341-2
 
-Sont applicables dans les îles Wallis et Futuna les articles D. 5131-4 à D. 5131-15.
+Sont applicables dans les îles Wallis et Futuna les articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
+
+**Nota:**
+
+Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 **Liens relatifs à cet article**
 
@@ -86044,9 +85805,13 @@ Sont applicables dans les îles Wallis et Futuna les articles D. 5131-4 à D. 51
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. D5131-4 (V)
+	  - Code de la défense. - art. D5131-6 (V)
 
 
 ###### Article D5341-3
@@ -86077,7 +85842,7 @@ service d'infrastructure de la défense est remplacée par la référence à la 
 
 ###### Article R5341-1
 
-Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
 
 **Liens relatifs à cet article**
 
@@ -86085,10 +85850,16 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 51
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. R5111-1 (V)
-	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5111-1
+	  - Code de la défense. - art. R5131-11 (V)
+	  - Code de la défense. - art. R5131-16
+	  - Code de la défense. - art. R5131-5 (V)
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE
@@ -86097,7 +85868,11 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 51
 
 ###### Article D5351-2
 
-Sont applicables en Polynésie française les articles D. 5131-4 à D. 5131-15.
+Sont applicables en Polynésie française les articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
+
+**Nota:**
+
+Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 **Liens relatifs à cet article**
 
@@ -86105,9 +85880,13 @@ Sont applicables en Polynésie française les articles D. 5131-4 à D. 5131-15.
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. D5131-4 (V)
+	  - Code de la défense. - art. D5131-4
 
 
 ###### Article D5351-3
@@ -86135,7 +85914,7 @@ française.
 
 ###### Article R5351-1
 
-Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
 
 **Liens relatifs à cet article**
 
@@ -86143,10 +85922,16 @@ Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3 et
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. R5111-1 (V)
-	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5111-1
+	  - Code de la défense. - art. R5131-11 (V)
+	  - Code de la défense. - art. R5131-16
+	  - Code de la défense. - art. R5131-5 (V)
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE
@@ -86155,13 +85940,21 @@ Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3 et
 
 ###### Article D5361-2
 
-Sont applicables en Nouvelle-Calédonie les articles D. 5131-4 à D. 5131-15.
+Sont applicables en Nouvelle-Calédonie les  articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
+
+**Nota:**
+
+Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 	**Cite**:
 
@@ -86193,7 +85986,7 @@ Calédonie.
 
 ###### Article R5361-1
 
-Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
 
 **Liens relatifs à cet article**
 
@@ -86201,10 +85994,16 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3 et R
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. R5111-1 (V)
-	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5111-1
+	  - Code de la défense. - art. R5131-11 (V)
+	  - Code de la défense. - art. R5131-16
+	  - Code de la défense. - art. R5131-5 (V)
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES
@@ -86214,7 +86013,12 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3 et R
 ###### Article D5371-2
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les articles D. 5131-4 à D. 5131-15.
+applicables aux Terres australes et antarctiques françaises les  articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D.
+5131-15.
+
+**Nota:**
+
+Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 **Liens relatifs à cet article**
 
@@ -86226,6 +86030,10 @@ applicables aux Terres australes et antarctiques françaises les articles D. 513
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 ###### Article D5371-3
@@ -86255,18 +86063,24 @@ antarctiques françaises.
 ###### Article R5371-1
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3.
+applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3, R. 5131-5 et R. 5131-11.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. R5111-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. R5111-1
+	  - Code de la défense. - art. R5131-11 (V)
+	  - Code de la défense. - art. R5131-5 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
 #### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN

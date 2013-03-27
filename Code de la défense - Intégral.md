@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-03-22
+Version Consolidée au 2013-03-28
 
 # Partie législative
 
@@ -23173,19 +23173,21 @@ politique scientifique de l'institut.
 
 Le président du conseil d'administration est nommé par décret. La durée de son mandat est de trois ans renouvelable une fois.
 
+La limite d'âge applicable au président du conseil d'administration est fixée à soixante-treize ans.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°97-817 du 5 septembre 1997 - art. 9 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2009-752 du 23 juin 2009 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-247 du 25 mars 2013 - art. 1
 
 
 ###### Article R1132-21
@@ -23221,7 +23223,7 @@ d'administration ;
 
 4° Dix représentants de l'Etat désignés par le Premier ministre, sur proposition des ministres concernés :
 
-- quatre représentants du ministre de la défense dont un appartenant à la direction générale de l'armement  ;
+- quatre représentants du ministre de la défense dont un appartenant à la direction générale de l'armement ;
 
 - deux représentants du ministre des affaires étrangères ;
 
@@ -23249,6 +23251,10 @@ la recherche ;
 - deux auditeurs civils ayant satisfait aux obligations des sessions, sur proposition du secrétaire général de la défense
 nationale et de la sécurité nationale.
 
+Lorsque le président ne peut présider une séance, le conseil est présidé par le secrétaire général de la défense et de la
+sécurité nationale. A défaut, un président de séance est élu à la majorité des membres présents, réputés présents ou
+représentés.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -23257,7 +23263,7 @@ nationale et de la sécurité nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1899 du 19 décembre 2011 - art. 1
+	  - Décret n°2013-247 du 25 mars 2013 - art. 2
 
 	**Cité par**:
 
@@ -23379,11 +23385,14 @@ un ordre du jour déterminé.
 
 ###### Article R1132-28
 
-Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente ou réputée
-présente. 
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente, réputée
+présente ou représentée. 
 
 Sont réputés présents les membres participant à la réunion du conseil par des moyens de visioconférence ou de communication
-électronique permettant leur identification et leur participation effective à une délibération collégiale. 
+électronique permettant leur identification et leur participation effective à une délibération collégiale.
+
+Chaque membre du conseil d'administration peut donner mandat à un autre membre pour le représenter. Nul ne peut être porteur
+de plus d'un mandat.
 
 Si le quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai de quinze jours.
 Il délibère alors valablement quel que soit le nombre de membres présents. 
@@ -23399,7 +23408,7 @@ voix, celle du président du conseil d'administration est prépondérante.
 
 	**Modifié par**:
 
-	  - Décret n°2009-752 du 23 juin 2009 - art. 1
+	  - Décret n°2013-247 du 25 mars 2013 - art. 3
 
 
 ###### Article R1132-29

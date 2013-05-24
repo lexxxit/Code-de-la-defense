@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-05-03
+Version Consolidée au 2013-05-25
 
 # Partie législative
 
@@ -23887,32 +23887,6 @@ La composition et les attributions de ces organes ou services font l'objet pour 
 	  - Code de la défense. - art. R1337-8 (V)
 
 
-###### Article R*1141-4
-
-Chaque ministre responsable du contrôle et de la répartition d'une grande catégorie de ressources dispose pour la préparation
-et l'exécution des mesures correspondantes d'un comité consultatif qu'il constitue par arrêté et au sein duquel sont
-représentés le ministre chargé de l'économie et les ministres utilisateurs des ressources considérées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-729 du 29 juin 1962 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R1331-1 (Ab)
-	  - Code de la défense. - art. R1337-6 (Ab)
-
-
 ##### Chapitre II : Dispositions particulières à certains ministres
 
 ##### Section 1 : Défense
@@ -24279,51 +24253,6 @@ préparation et de la conduite supérieure des opérations ;
 	  - Code de la défense. - art. R*1142-29 (V)
 	  - Code de la défense. - art. R1337-9 (V)
 	  - Code de la défense. - art. R1682-4 (V)
-
-
-###### Article R*1142-13
-
-Le ministre chargé de l'économie est assisté par une commission permanente des affaires économiques de la défense dont les
-missions et la composition sont les suivantes : 
-
-1° Cette commission : 
-
-a) Est saisie des questions relatives à l'élaboration et à la mise en application des plans économiques de la défense, chaque
-fois que ces questions nécessitent une coopération entre les divers départements ministériels intéressés, soit à l'échelon
-central, soit aux différents échelons de l'organisation territoriale ; 
-
-b) Donne son avis sur la mise à la disposition de certains départements ministériels des contingents en ressources
-essentielles, en vue de l'exécution, par des services civils, des missions primordiales pour la défense fixées par le Premier
-ministre. 
-
-2° Elle est composée : 
-
-a) Du ministre chargé de l'économie ou de son représentant, président ; 
-
-b) Des représentants des ministres de l'intérieur et de la défense, ainsi que des ministres chargés de l'équipement, des
-transports et de l'industrie, de l'agriculture, des postes et communications électroniques et, en tant que de besoin, de ceux
-d'autres départements ministériels ; 
-
-c) Du représentant du Commissaire général à la stratégie et à la prospective ; 
-
-d) Du représentant du secrétaire général de la défense et de la sécurité nationale. 
-
-Le ministre chargé de l'outre-mer est représenté lorsque la commission examine des affaires intéressant les départements, les
-régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-729 du 29 juin 1962 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2013-333 du 22 avril 2013 - art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 13 (V)
 
 
 ##### Sous-section 2 : Industrie
@@ -29198,33 +29127,6 @@ La récidive est réprimée conformément à l'article 132-11 du code pénal.
 
 
 #### TITRE III : DÉFENSE ÉCONOMIQUE
-
-##### Chapitre Ier : Constitution de groupements
-
-###### Article R1331-1
-
-Les ministères utilisateurs d'une ressource ou d'une catégorie de ressources essentielles à la vie du pays ainsi que les
-organisations syndicales représentatives des employeurs et des salariés des entreprises commerciales, industrielles et
-agricoles intéressées, sont représentés au comité consultatif mentionné à l'article R. * 1141-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 du 23 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 9 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1141-4
-
-	**Anciens textes**:
-
-	  - Loi n°1938-07-11 art. 48 al. 2
-
 
 ##### Chapitre II : Protection des installations d'importance vitale
 
@@ -35515,30 +35417,6 @@ qui sont mis sur pied sur décision du Premier ministre. Au chef-lieu de région
 	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
 
 
-###### Article R1337-6
-
-La constitution des bureaux régionaux et départementaux du ravitaillement est réglée conformément aux dispositions de
-l'article R. * 1141-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-789 du 31 juillet 1963 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 9 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1141-4
-
-
 ###### Article R1337-7
 
 Les mesures prévues pour le contrôle et la répartition des ressources alimentaires destinées à l'alimentation humaine ou à la
@@ -35734,19 +35612,22 @@ susceptibles d'être réutilisés directement ou après traitement.
 ###### Article D1337-14
 
 Pour l'exécution de leur mission, les ministres chargés de l'industrie et du commerce disposent d'un organe de direction, le
-commissariat général à la mobilisation industrielle et d'organes consultatifs, le comité de mobilisation industrielle et le
-comité de répartition des matières premières et produits industriels.
+commissariat général à la mobilisation industrielle                     et d'un organe consultatif, le comité de mobilisation
+industrielle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-257 1954-03-10 art. 2 al. 1 et 2
 	  - Décret n°54-257 du 10 mars 1954 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 31 (V)
 
 	**Cité par**:
 
@@ -35813,28 +35694,29 @@ participe en tant que de besoin.
 
 ###### Article D1337-17
 
-Au titre des délégations mentionnées à l'article D. 1142-21, le comité de mobilisation industrielle et le comité de
-répartition des matières premières et produits industriels assistent le ministre chargé de l'industrie. 
-
-Leur composition, leur organisation et leur attributions sont fixées, dès le temps de paix, par arrêtés du Premier ministre,
-pris sur proposition du ministre de la défense et des ministres chargés de l'économie et de l'industrie. 
-
-Le comité de mobilisation industrielle est présidé par le commissaire général. La composition de ce comité peut être
-restreinte en temps de paix. 
-
-Le comité de répartition des matières premières et produits industriels est présidé par une personnalité désignée par le
-Premier ministre.
+Au titre des délégations mentionnées à l'article D. 1142-21, le comité de mobilisation industrielle assiste le ministre
+chargé de l'industrie. Sa composition, son organisation et ses attributions sont fixées, dès le temps de paix, par arrêtés du
+Premier ministre, pris sur proposition du ministre de la défense et des ministres chargés de l'économie et de l'industrie. Le
+comité de mobilisation industrielle est présidé par le commissaire général. La composition de ce comité peut être restreinte
+en temps de paix.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°54-257 1954-03-10 art. 2 al. 4 à 6
 	  - Décret n°54-257 du 10 mars 1954 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 31 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-132 du 17 février 2014 - art. 5
 
 
 ##### Sous-section 3 : Répartition des ressources industrielles

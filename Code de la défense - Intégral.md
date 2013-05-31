@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-06-01
 
 # Partie législative
 
@@ -48158,15 +48158,9 @@ Il préserve les intérêts de défense dans les sites où ont été ou sont ex�
 des marchés classifiés de défense.A cet effet, il désigne un représentant au sein de l'équipe d'accompagnement organisée par
 le ministre chargé de l'industrie au titre de l'article D. 2342-101.
 
+Il est responsable du site de destruction des armes chimiques.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-36 du 16 janvier 1998 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 	**Cité par**:
 
@@ -48176,41 +48170,39 @@ le ministre chargé de l'industrie au titre de l'article D. 2342-101.
 	  - Code de la défense. - art. D2342-60 (Ab)
 	  - Code de la défense. - art. D2342-63 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2013-377 du 2 mai 2013 - art. 1
+
 	**Cite**:
 
-	  - Code de la défense. - art. D2342-101 (V)
+	  - Code de la défense. - art. D2342-101
 
 
 ###### Article D2342-100
 
-Le ministre de l'intérieur est responsable :
+Le ministre de l'intérieur est responsable : 
 
-1° De la collecte, du transport et des stockages intermédiaires des munitions chimiques anciennes. En attente de la mise en
-service du site de démantèlement et de destruction de ces munitions, il est responsable du stockage des munitions chimiques
-existantes et de celles qui seront collectées jusqu'à cette mise en service ;
+1° De la collecte, du transport et du stockage des munitions chimiques anciennes ; 
 
-2° De la déclaration des munitions chimiques anciennes et de leurs installations de stockage, ainsi que de la transmission de
-ces déclarations au ministre des affaires étrangères ;
+2° De la déclaration des munitions chimiques anciennes et de leur installation de stockage, ainsi que de la transmission de
+ces déclarations au ministre des affaires étrangères ; 
 
-3° Des déclarations concernant les agents anti-émeute qu'il détient ;
+3° Des déclarations concernant les agents anti-émeute qu'il détient ; 
 
-4° De l'accueil et de l'accompagnement des équipes d'inspection sur les listes de stockage.
+4° De l'accueil et de l'accompagnement des équipes d'inspection sur le site de stockage. 
 
-Il formule, le cas échéant, après réception des rapports d'inspection des sites de stockage de munitions chimiques, des
-observations, qui sont transmises au ministre des affaires étrangères.
+Il formule, le cas échéant, après réception des rapports d'inspection du site de stockage de munitions chimiques, des
+observations, qui sont transmises au ministre des affaires étrangères. 
 
 En outre, il s'assure de l'identité des membres de l'équipe d'inspection lors de l'arrivée de celle-ci sur le territoire
 national.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°98-36 du 16 janvier 1998 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2013-377 du 2 mai 2013 - art. 2
 
 	**Cité par**:
 

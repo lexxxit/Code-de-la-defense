@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-06-01
+Version Consolidée au 2013-06-08
 
 # Partie législative
 
@@ -39642,23 +39642,26 @@ gendarmerie aux missions de défense civile.
 
 ###### Article D*1681-14
 
-Les responsabilités de défense aérienne y sont exercées par les officiers généraux ou supérieurs, adjoints " air ", sous
-l'autorité des commandants supérieurs.
+Les responsabilités de défense aérienne y sont exercées, sous l'autorité des commandants supérieurs, par un officier général
+ou supérieur de l'armée de l'air désigné par décision du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°75-930 1975-10-10 art. 9 al. 2
 	  - Décret n°75-930 du 10 octobre 1975 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-584 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-584 du 23 avril 2007
 
 	**Cité par**:
 
 	  - Arrêté du 28 novembre 2007 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 1
 
 
 ###### Article D1681-7
@@ -39750,7 +39753,7 @@ l'article 2 du décret n° 2005-1514 du 6 décembre 2005 relatif à l'organisati
 
 ###### Article D1681-10
 
-Les commandants supérieurs sont assistés par trois adjoints, officiers supérieurs appartenant à chacune des armées. 
+Les commandants supérieurs sont assistés par un adjoint interarmées et un chef d'état-major interarmées. 
 
 En Nouvelle-Calédonie et dans les collectivités territoriales mentionnées à l'article D. 1681-7 dont le chef-lieu n'est pas
 le siège d'un commandement supérieur, le commandant supérieur dispose, le cas échéant, d'un commandant militaire
@@ -39763,17 +39766,20 @@ définies par le décret n° 2004-1102 du 15 octobre 2004 portant règlement du 
 
 	**Cite**:
 
-	  - Décret n°2004-1102 du 15 octobre 2004 (V)
-	  - Code de la défense. - art. D1681-7 (V)
+	  - Décret n°2004-1102 du 15 octobre 2004
+	  - Code de la défense. - art. D1681-7
 
 	**Anciens textes**:
 
-	  - Décret n°2007-26 du 5 janvier 2007 - art. 4, v. init.
 	  - Décret n°2007-26 du 5 janvier 2007 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 2
 
 	**Cité par**:
 
@@ -56307,11 +56313,11 @@ la défense.
 ###### Article R3222-7
 
 Sous réserve des compétences des commandants supérieurs dans les départements et collectivités d'outre-mer et en Nouvelle-
-Calédonie et de celles des commandants des forces françaises du Cap-Vert, stationnées à Djibouti ou au Gabon, et, sous
-réserve des délégations de pouvoirs ou de signature données à d'autres autorités par décret ou par arrêté du ministre de la
-défense, le commandant de la région terre Ile-de-France exerce les responsabilités de commandement organique mentionnées à
-l'article R. 3222-6 pour les formations de l'armée de terre stationnées outre-mer et à l'étranger, à l'exception de la
-République fédérale d'Allemagne.
+Calédonie et de celles des commandants des éléments français au Sénégal, stationnées à Djibouti ou au Gabon, et, sous réserve
+des délégations de pouvoirs ou de signature données à d'autres autorités par décret ou par arrêté du ministre de la défense,
+le commandant de la région terre Ile-de-France exerce les responsabilités de commandement organique mentionnées à l'article
+R. 3222-6 pour les formations de l'armée de terre stationnées outre-mer et à l'étranger, à l'exception de la République
+fédérale d'Allemagne. 
 
 Dans ce domaine, il peut déléguer sa signature à l'un de ses adjoints et, pour les affaires devant être traitées localement,
 à l'officier de l'armée de terre adjoint au commandant supérieur ou au commandant des forces, dans les conditions fixées par
@@ -56319,9 +56325,13 @@ arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 31
 
 
 ##### Section 4 : Dispositions relatives aux services de l'armée de terre
@@ -59793,63 +59803,74 @@ opérationnelle des matériels aéronautiques du ministère de la défense et le
 
 ##### Chapitre unique : Commandements de forces  françaises à l'étranger
 
-##### Section 1 : Commandement des forces françaises au Cap-Vert
+##### Section 1 : Commandement des éléments français au Sénégal
 
 ###### Article D3241-1
 
-Les forces françaises stationnées au Sénégal sont placées sous le commandement d'un officier général qui porte le titre de
-commandant des forces françaises du Cap-Vert.
+Les éléments français stationnés au Sénégal sont placés sous le commandement d'un officier qui porte le titre de commandant
+des éléments français au Sénégal. 
 
-Cet officier relève directement du chef d'état-major des armées.
+Cet officier relève du commandant des forces françaises stationnées au Gabon. 
 
-Il est assisté par trois adjoints, officiers supérieurs appartenant à chacune des armées.
+Cependant, pour l'exercice de ses attributions en matière de coopération opérationnelle, telles que définies par l'article D.
+3241-3 du présent code, il relève du chef d'état-major des armées. Il est assisté par un adjoint interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 3
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3241-2 (M)
 
+	**Cite**:
+
+	  - Code de la défense. - art. D3241-3
+
 
 ###### Article D3241-2
 
-Le commandant des forces françaises du Cap-Vert a autorité sur les formations et éléments de service des trois armées
-stationnés dans les limites territoriales de son commandement.
+Le commandant des éléments français au Sénégal a autorité sur les formations des armées et des services interarmées
+stationnées dans les limites territoriales de son commandement. 
 
 Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
-directions et services du ministère de la défense.
+directions et services du ministère de la défense. 
 
-Il peut consentir des délégations de signature à ses adjoints mentionnés à l'article D. 3241-1 et aux responsables locaux des
+Il peut consentir des délégations de signature à son adjoint mentionné à l'article D. 3241-1 et aux responsables locaux des
 organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3241-1
 
 
 ###### Article D3241-3
 
-Sous l'autorité du chef de la mission diplomatique française au Sénégal, le commandant des forces françaises du Cap-Vert
-veille à l'application des accords relatifs à la présence et au statut des forces françaises qui stationnent au Sénégal.
+Sous l'autorité du chef de la mission diplomatique française au Sénégal, le commandant des éléments français au Sénégal
+veille à l'application des accords relatifs à la présence et au statut des forces françaises qui stationnent au Sénégal. 
 
-Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités sénégalaises.
+Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités sénégalaises. 
 
-Le commandant des forces françaises du Cap-Vert est habilité à correspondre avec les organes militaires de la communauté
-économique régionale dont fait partie le Sénégal et avec ceux de la Mauritanie. Il tient les chefs des missions diplomatiques
-françaises auprès des pays membres de cette communauté et de la Mauritanie informés des relations qu'il entretient à ce titre
-et des déplacements qu'il peut être conduit à effectuer dans ces pays.
+Sous l'autorité du chef d'état-major des armées, le commandant des éléments français au Sénégal est habilité à conduire des
+actions de coopération opérationnelle. 
+
+A ce titre et en liaison avec les chefs des missions diplomatiques françaises concernées, il entretient toutes relations
+utiles avec les organes militaires de la communauté économique régionale de l'Afrique de l'Ouest, avec les organes militaires
+des pays qui composent cette communauté économique régionale et avec les organes militaires de la Mauritanie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 3
 
 	**Cité par**:
 
@@ -59859,14 +59880,13 @@ et des déplacements qu'il peut être conduit à effectuer dans ces pays.
 
 ###### Article D3241-4
 
-Le commandant des forces françaises du Cap-Vert dispose d'un état-major interarmées dont la structure et les effectifs sont
-fixés par le ministre de la défense.
+Le commandant des éléments français au Sénégal dispose d'une structure adaptée à sa mission de coopération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 3
 
 
 ##### Section 2 : Commandement des forces françaises stationnées à Djibouti
@@ -59878,13 +59898,13 @@ officier général qui porte le titre de commandant des forces françaises stati
 
 Cet officier relève directement du chef d'état-major des armées.
 
-Il est assisté par trois adjoints, officiers supérieurs appartenant à chacune des armées.
+Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 4
 
 	**Cité par**:
 
@@ -59893,24 +59913,24 @@ Il est assisté par trois adjoints, officiers supérieurs appartenant à chacune
 
 ###### Article D3241-6
 
-Le commandant des forces françaises stationnées à Djibouti a autorité sur les formations et éléments de service des trois
-armées stationnées dans les limites territoriales de son commandement. 
+Le commandant des forces françaises stationnées à Djibouti a autorité sur les formations des armées et des services
+interarmées stationnées dans les limites territoriales de son commandement. 
 
 Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
 directions et services du ministère de la défense. 
 
-Il peut consentir des délégations de signature à ses adjoints mentionnés à l'article D. 3241-5 et aux responsables locaux des
-organismes sur lesquels il exerce une autorité d'emploi.
+Il peut consentir des délégations de signature à son adjoint et à son chef d'état-major mentionnés à l'article D. 3241-5 et
+aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-5 (V)
+	  - Code de la défense. - art. D3241-5
 
 
 ###### Article D3241-7
@@ -59921,16 +59941,16 @@ territoire de la République à Djibouti.
 
 Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités djiboutiennes.
 
-Le commandant des forces françaises stationnées à Djibouti est habilité à correspondre avec les organes militaires de la
-communauté économique régionale dont fait partie la République de Djibouti. Il tient les chefs des missions diplomatiques
-françaises auprès des pays membres de cette communauté informés des relations qu'il entretient à ce titre et des déplacements
-qu'il peut être conduit à effectuer dans ces pays.
+En liaison avec les chefs des missions diplomatiques françaises concernées, le commandant des forces françaises stationnées à
+Djibouti entretient toutes relations utiles avec les organes militaires des communautés économiques régionales de l'Afrique
+de l'Est, avec les organes militaires des pays qui composent ces communautés économiques régionales et avec les organes
+militaires des pays de sa zone de responsabilité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 4
 
 
 ###### Article D3241-8
@@ -59954,13 +59974,14 @@ général qui porte le titre de commandant des forces françaises stationnées a
 
 Cet officier relève directement du chef d'état-major des armées.
 
-Il dispose de trois adjoints, officiers supérieurs appartenant à chacune des armées.
+Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées. Il a autorité sur le commandant des
+éléments français au Sénégal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 5
 
 	**Cité par**:
 
@@ -59969,24 +59990,24 @@ Il dispose de trois adjoints, officiers supérieurs appartenant à chacune des a
 
 ###### Article D3241-10
 
-Le commandant des forces françaises stationnées au Gabon a autorité sur les formations et éléments de service des trois
-armées stationnées dans les limites territoriales de son commandement. 
+Le commandant des forces françaises stationnées au Gabon a autorité sur les formations des armées et des services interarmées
+stationnées dans les limites territoriales de son commandement. 
 
 Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
 directions et services du ministère de la défense. 
 
-Il peut consentir des délégations de signature à ses adjoints mentionnés à l'article D. 3241-9 et aux responsables locaux des
-organismes sur lesquels il exerce une autorité d'emploi.
+Il peut consentir des délégations de signature à son adjoint et à son chef d'état-major mentionnés à l'article D. 3241-9 et
+aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-9 (V)
+	  - Code de la défense. - art. D3241-9
 
 
 ###### Article D3241-11
@@ -59997,16 +60018,16 @@ territoire de la République du Gabon.
 
 Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités gabonaises.
 
-Le commandant des forces françaises stationnées au Gabon est habilité à correspondre avec les organes militaires de la
-communauté économique régionale dont fait partie la République du Gabon. Il tient les chefs des missions diplomatiques
-françaises auprès des pays membres de cette communauté informés des relations qu'il entretient à ce titre et des déplacements
-qu'il peut être conduit à effectuer dans ces pays.
+En liaison avec les chefs des missions diplomatiques françaises concernées, le commandant des forces françaises stationnées
+au Gabon entretient toutes relations utiles avec les organes militaires de la communauté économique régionale de l'Afrique
+centrale, avec les organes militaires des pays qui composent cette communauté économique régionale et avec les organes
+militaires des pays de sa zone de responsabilité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-478 du 5 juin 2013 - art. 5
 
 
 ###### Article D3241-12
@@ -60087,6 +60108,80 @@ dans les conditions fixées par arrêté du ministre de la défense.
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+
+
+##### Section 5 : Commandement des forces françaises stationnées aux Emirats arabes unis
+
+###### Article D3241-18
+
+Les forces françaises stationnées sur le territoire des Emirats arabes unis sont placées sous le commandement d'un officier
+général qui porte le titre de commandant des forces françaises stationnées aux Emirats arabes unis. 
+
+Cet officier relève directement du chef d'état-major des armées. 
+
+Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3241-19 (M)
+
+
+###### Article D3241-19
+
+Le commandant des forces françaises stationnées aux Emirats arabes unis a autorité sur les formations des armées et des
+services interarmées stationnées dans les limites territoriales de son commandement. 
+
+Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
+directions et services du ministère de la défense. 
+
+Il peut consentir des délégations de signature à son adjoint et à son chef d'état-major mentionnés à l'article D. 3241-18 et
+aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3241-18
+
+
+###### Article D3241-20
+
+Sous l'autorité du chef de la mission diplomatique française auprès des Emirats arabes unis, le commandant des forces
+françaises veille à l'application des accords relatifs à la présence et au statut des forces françaises stationnées sur le
+territoire des Emirats arabes unis. 
+
+Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités émiriennes. 
+
+En liaison avec les chefs des missions diplomatiques françaises concernées, le commandant des forces françaises stationnées
+aux Emirats arabes unis entretient toutes relations utiles avec les organes militaires des pays de sa zone de responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+
+
+###### Article D3241-21
+
+Le commandant des forces françaises stationnées aux Emirats arabes unis dispose d'un état-major interarmées dont la structure
+et les effectifs sont fixés par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-478 du 5 juin 2013 - art. 6
 
 
 ### LIVRE III : ORGANISMES CONSULTATIFS

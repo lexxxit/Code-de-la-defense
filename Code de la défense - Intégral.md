@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-08-30
 
 # Partie législative
 
@@ -57930,6 +57930,43 @@ général des collectivités territoriales.
 	  - Code général des collectivités territoriales - art. R2513-6 (V)
 
 
+##### Section 7 : Dispositions relatives aux ports militaires
+
+###### Article R3223-61
+
+Un port militaire est une zone militaire au sens de l'article R. 2361-1, comprenant des terrains, des quais, des
+installations, des équipements et des plans d'eau affectés à l'autorité militaire. 
+
+Les limites du port militaire sont fixées, côté terre comme côté mer, par le ministre de la défense. Lorsque le plan d'eau du
+port militaire inclut un accès nautique à un port maritime civil contigu, la décision du ministre ne peut intervenir qu'après
+avis de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire de ce port, mentionnées aux articles L.
+5331-5 et L. 5331-6 du code des transports. 
+
+Cette délimitation est établie sans préjudice de l'application des dispositions relatives aux zones maritimes et fluviales de
+régulation prévues à l'article L. 5331-1 du code des transports. 
+
+La demande d'avis sur la délimitation du port militaire comporte le projet de règlement d'usage de la zone, qui doit prendre
+en compte les impératifs d'accès au port maritime civil attenant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-779 du 27 août 2013 - art. 10
+
+	**Cité par**:
+
+	  - Décret n°2017-471 du 3 avril 2017 - art. 3
+	  - Code de la défense. - art. R*1333-67-1 (V)
+	  - Code de la santé publique - art. D3115-15-1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2361-1
+	  - Code des transports - art. L5331-1
+	  - Code des transports - art. L5331-5
+
+
 ##### Chapitre  IV : Organisation de l'armée de l'air
 
 ##### Section 1 : Dispositions générales
@@ -68379,35 +68416,29 @@ juillet 1992 relatif aux régies de recettes et aux régies d'avances des organi
 
 ###### Article R3421-1
 
-L'établissement public Economat des armées comprend la direction générale de l'économat des armées ainsi que des comptoirs
-regroupant chacun l'ensemble des succursales installées sur un même territoire.
+L'établissement public Economat des armées comprend la direction générale de l'économat des armées ainsi que des  missions de
+soutien regroupant chacune l'ensemble des succursales installées sur un même territoire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 1
 
 
 ###### Article R3421-2
 
-L'Economat des armées est une centrale d'achat au sens du code des marchés publics. 
-
-Les contrats relatifs aux fournitures, denrées et services qu'il conclut en cas d'urgence impérieuse au profit des formations
-militaires envoyées à l'étranger sont passés conformément au décret n° 2005-1742 du 30 décembre 2005 fixant les règles
-applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6 juin
-2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics.
+L'Economat des armées est une centrale d'achat au sens de l'article 9 du code des marchés publics.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2013-779 du 27 août 2013 - art. 2
+
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-	  - Décret n°2005-1742 du 30 décembre 2005 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Code des marchés publics - art. 9
 
 
 ###### Article R3421-3
@@ -68520,24 +68551,27 @@ l'économie, des finances et de l'industrie ;
 
 9° Transactions ;
 
-10° Créations et suppressions des comptoirs ;
+10° Créations et suppressions des missions de soutien ;
 
 11° Conditions générales de recrutement, d'emploi et de rémunération du personnel.
 
 Le président peut soumettre toute autre question au conseil d'administration pour délibération ou avis.
 
 L'avis du conseil d'administration est demandé pour l'organisation générale de la direction générale de l'économat et des
-comptoirs.
+missions de soutien.
 
 Le conseil d'administration établit son règlement intérieur et fixe le siège social de l'établissement public. Tout membre du
 conseil peut se faire communiquer les documents internes et les informations nécessaires au bon exercice de son mandat, en
 respectant leur caractère confidentiel.
 
+Le conseil d'administration, sur la proposition de son président, peut décider la création de comités consultatifs dont il
+fixe la composition et les modalités de fonctionnement.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 5
 
 	**Cité par**:
 
@@ -68552,13 +68586,14 @@ quinze jours, le conseil d'administration. Les délibérations sont alors valabl
 
 Les délibérations ou avis sont adoptés à la majorité relative des voix.
 
-Le président a voix prépondérante en cas de partage égal des voix.
+Le président a voix prépondérante en cas de partage égal des voix. En cas d'absence ou d'empêchement du président, la séance
+est présidée par le vice-président.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 6
 
 
 ###### Article R3421-7
@@ -68596,18 +68631,20 @@ demander que les délais prévus au quatrième alinéa soient ramenés à sept j
 
 ###### Article R3421-8
 
-Chaque comptoir est placé sous l'autorité d'un directeur désigné par le directeur général de l'établissement.
+Chaque mission de soutien est placée sous l'autorité d'un chef de mission de soutien désigné par le directeur général de
+l'établissement.
 
-Il peut donner une délégation de compétence aux directeurs de comptoirs pour représenter l'établissement en justice, recruter
-et gérer le personnel et assurer les relations sociales avec les représentants élus du personnel du comptoir.
+Il peut donner une délégation de compétence aux chefs de missions de soutien pour représenter l'établissement en justice,
+recruter et gérer le personnel et assurer les relations sociales avec les représentants élus du personnel de la mission de
+soutien.
 
-Le directeur de comptoir peut déléguer sa signature.
+Le chef de mission de soutien peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 7
 
 
 ###### Article R3421-9
@@ -68639,14 +68676,14 @@ financier de l'Etat. Un arrêté du ministre chargé du budget précise les moda
 
 ###### Article R3421-10
 
-Des agents comptables secondaires, placés auprès des directeurs de comptoirs, peuvent être nommés par le directeur général,
-après accord du ministre chargé du budget et après avis de l'agent comptable principal.
+Des agents comptables secondaires, placés auprès des chefs de missions de soutien, peuvent être nommés par le directeur
+général, après accord du ministre chargé du budget et après avis de l'agent comptable principal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+	  - Décret n°2013-779 du 27 août 2013 - art. 8
 
 
 ###### Article R3421-11
@@ -68722,7 +68759,9 @@ rend compte chaque année de sa gestion. A ce titre, il exerce notamment les com
 
 7° Il exerce le pouvoir hiérarchique sur les personnes affectées à l'établissement, à l'exception des agents comptables ;
 
-8° Il pourvoit aux emplois et gère le personnel de l'établissement.
+8° Il pourvoit aux emplois et gère le personnel de l'établissement ;
+
+9° Il prépare le rapport annuel d'activité de l'établissement.
 
 Par délégation du conseil d'administration, le directeur général peut conclure des transactions.
 
@@ -68733,14 +68772,14 @@ Le directeur général peut déléguer sa signature. Toutefois, pour l'exercice 
 article, l'objet précis et le montant maximum de la délégation doivent avoir été préalablement approuvés par le conseil
 d'administration.
 
-Le directeur général est assisté par un directeur général adjoint, nommé par arrêté du ministre de la défense, et qui le
-remplace en cas d'absence.
+Le directeur général est assisté par un directeur général adjoint, nommé par arrêté du ministre de la défense, et qui le le
+supplée en cas de besoin.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 9
 
 
 ##### Chapitre II : L'Institution de gestion sociale des armées
@@ -69588,11 +69627,14 @@ l'office ainsi que les décisions de la commission plénière fixant la réparti
 Doivent, en outre, être soumises à l'examen du conseil d'administration les questions estimées importantes par le délégué
 général pour l'armement, par le président du conseil d'administration ou par le directeur général de l'aviation civile.
 
+Le conseil d'administration, sur la proposition de son président, peut décider la création de comités consultatifs dont il
+fixe la composition et les modalités de fonctionnement.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2013-779 du 27 août 2013 - art. 11
 
 	**Cité par**:
 
@@ -85660,11 +85702,7 @@ service d'infrastructure de la défense est remplacée par la référence à la 
 
 ###### Article D5341-2
 
-Sont applicables dans les îles Wallis et Futuna les articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
-
-**Nota:**
-
-Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
+Sont applicables dans les îles Wallis et Futuna les articles R. 5131-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
 
 **Liens relatifs à cet article**
 
@@ -85674,11 +85712,12 @@ Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2013-779 du 27 août 2013 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5131-6 (V)
+	  - Code de la défense. - art. D5131-12 (V)
+	  - Code de la défense. - art. D5131-6
 
 
 ###### Article D5341-3
@@ -85735,11 +85774,7 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 51
 
 ###### Article D5351-2
 
-Sont applicables en Polynésie française les articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
-
-**Nota:**
-
-Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
+Sont applicables en Polynésie française les articles R. 5131-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
 
 **Liens relatifs à cet article**
 
@@ -85749,11 +85784,13 @@ Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2013-779 du 27 août 2013 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5131-4
+	  - Code de la défense. - art. D5131-12 (V)
+	  - Code de la défense. - art. D5131-6 (V)
+	  - Code de la défense. - art. R5131-4 (V)
 
 
 ###### Article D5351-3
@@ -85807,11 +85844,7 @@ Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R
 
 ###### Article D5361-2
 
-Sont applicables en Nouvelle-Calédonie les  articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
-
-**Nota:**
-
-Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
+Sont applicables en Nouvelle-Calédonie les articles R. 5131-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D. 5131-15.
 
 **Liens relatifs à cet article**
 
@@ -85821,11 +85854,13 @@ Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2013-779 du 27 août 2013 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5131-4 (V)
+	  - Code de la défense. - art. D5131-12 (V)
+	  - Code de la défense. - art. D5131-6 (V)
+	  - Code de la défense. - art. R5131-4 (V)
 
 
 ###### Article D5361-3
@@ -85880,19 +85915,17 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 
 ###### Article D5371-2
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les  articles R. 5134-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D.
+applicables aux Terres australes et antarctiques françaises les articles R. 5131-4, D. 5131-6 à R. 5131-9 et D. 5131-12 à D.
 5131-15.
-
-**Nota:**
-
-Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. D5131-4 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. D5131-12 (V)
+	  - Code de la défense. - art. D5131-6 (V)
+	  - Code de la défense. - art. R5131-4 (V)
 
 	**Codifié par**:
 
@@ -85900,7 +85933,7 @@ Au lieu de " R. 5134-4 ", il convient de lire " R. 5131-4 ".
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2013-779 du 27 août 2013 - art. 12
 
 
 ###### Article D5371-3

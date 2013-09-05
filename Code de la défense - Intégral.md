@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2013-09-06
 
 # Partie législative
 
@@ -7393,39 +7393,44 @@ titre III de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'écono
 
 ###### Article L2331-1
 
-Les matériels de guerre, armes et munitions et éléments désignés par les dispositions du présent titre et relatives au régime
-des matériels de guerre, armes et munitions sont classés dans les catégories ci- après : 
+I.-Les matériels de guerre et les armes, munitions et éléments désignés par le présent titre sont classés dans les catégories
+suivantes : 
 
-I.- Matériels de guerre : 
+1° Catégorie A : matériels de guerre et armes interdits à l'acquisition et à la détention, sous réserve des dispositions des
+articles L. 312-1 à L. 312-4-3 du code de la sécurité intérieure. 
 
-1re catégorie : armes à feu et leurs munitions conçues pour ou destinées à la guerre terrestre, navale ou aérienne. 
+Cette catégorie comprend :
 
-2e catégorie : matériels destinés à porter ou à utiliser au combat les armes à feu. 
+- A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention ;
 
-3e catégorie : matériels de protection contre les gaz de combat. 
+- A2 : les armes relevant des matériels de guerre, les matériels destinés à porter ou à utiliser au combat les armes à feu,
+les matériels de protection contre les gaz de combat ; 
 
-II.- Armes et munitions non considérées comme matériels de guerre : 
+2° Catégorie B : armes soumises à autorisation pour l'acquisition et la détention ; 
 
-4e catégorie : armes à feu dites de défense et leurs munitions. 
+3° Catégorie C : armes soumises à déclaration pour l'acquisition et la détention ; 
 
-5e catégorie : armes de chasse et leurs munitions. 
+4° Catégorie D : armes soumises à enregistrement et armes et matériels dont l'acquisition et la détention sont libres. 
 
-6e catégorie : armes blanches. 
+Un décret en Conseil d'Etat détermine les matériels, armes, munitions, éléments essentiels, accessoires et opérations
+industrielles compris dans chacune de ces catégories ainsi que les conditions de leur acquisition et de leur détention. Il
+fixe les modalités de délivrance des autorisations ainsi que celles d'établissement des déclarations ou des enregistrements. 
 
-7e catégorie : Armes de tir, de foire ou de salon et leurs munitions. 
+En vue de préserver la sécurité et l'ordre publics, le classement prévu aux 1° à 4° est fondé sur la dangerosité des
+matériels et des armes. Pour les armes à feu, la dangerosité s'apprécie en particulier en fonction des modalités de
+répétition du tir ainsi que du nombre de coups tirés sans qu'il soit nécessaire de procéder à un réapprovisionnement de
+l'arme. 
 
-8e catégorie : Armes et munitions historiques et de collection. 
+Par dérogation à l'avant-dernier alinéa du présent I, les armes utilisant des munitions de certains calibres fixés par décret
+en Conseil d'Etat sont classées par la seule référence à ce calibre. 
 
-III.- Les matériels appartenant ou non aux précédentes catégories, qui sont soumis à des restrictions ou à une procédure
-spéciale pour l'importation ou l'exportation hors du territoire de l'Union européenne, ou le transfert au sein de l'Union
-européenne, sont définis au chapitre V du présent titre. 
+II.-Les matériels qui sont soumis à des restrictions ou à une procédure spéciale pour l'importation ou l'exportation hors du
+territoire de l'Union européenne ou pour le transfert au sein de l'Union européenne sont définis au chapitre V du présent
+titre. 
 
-Les armes de toute espèce qui peuvent tirer des munitions utilisables dans des armes classées matériel de guerre, et les
-munitions de toute espèce qui peuvent être tirées dans des armes classées matériel de guerre sont considérées comme des
-matériels de guerre. 
-
-Un décret énumère les matériels ou éléments de chaque catégorie et les opérations industrielles y afférentes rentrant dans le
-champ d' application du présent titre.
+III.-Les différents régimes d'acquisition et de détention mentionnés au présent article ne s'appliquent pas aux personnes se
+livrant à la fabrication ou au commerce des matériels de guerre, des armes et des munitions conformément au chapitre II du
+présent titre, auxquelles s'appliquent les règles spécifiques au titre de l'autorisation de fabrication et de commerce.
 
 **Liens relatifs à cet article**
 
@@ -7463,11 +7468,31 @@ champ d' application du présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L312-1
+
+
+###### Article L2331-1-1
+
+La collection des matériels de guerre relevant de la catégorie A est régie par l'article L. 311-3 et par la section 2 du
+chapitre II du titre Ier du livre III du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L311-3
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 
 ###### Article L2331-2
@@ -7501,14 +7526,14 @@ par les dispositions du titre Ier du livre III du code de la sécurité intérie
 
 ###### Article L2332-1
 
-I.-Les entreprises de fabrication ou de commerce de matériels de guerre et d'armes et munitions de défense des 1re, 2e, 3e,
-4e catégories ne peuvent fonctionner et l'activité de leurs intermédiaires ou agents de publicité ne peut s'exercer qu'après
+I.-Les entreprises de fabrication ou de commerce de matériels de guerre et d'armes et munitions de défense des catégories A
+ou B   ne peuvent fonctionner et l'activité de leurs intermédiaires ou agents de publicité ne peut s'exercer qu'après
 autorisation de l'Etat et sous son contrôle. 
 
 II.-Toute personne qui se propose de créer ou d'utiliser un établissement pour se livrer à la fabrication ou au commerce,
-autre que de détail, des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e catégories,
-ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat est tenue d'en faire au préalable la déclaration
-au préfet du département où est situé l'établissement. 
+autre que de détail, des matériels de guerre, armes, munitions ou de leurs éléments essentiels des catégories A, B, C ainsi
+que des armes de catégorie D énumérées par décret en Conseil d'Etat est tenue d'en faire au préalable la déclaration au
+préfet du département où est situé l'établissement. 
 
 La cessation de l'activité, ainsi que la fermeture ou le transfert de l'établissement, doivent être déclarés dans les mêmes
 conditions. 
@@ -7593,7 +7618,7 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Anciens textes**:
 
@@ -7602,19 +7627,18 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 
 ###### Article L2332-2
 
-L'ouverture des locaux destinés au commerce de détail des armes, éléments d'armes et munitions des 5e à 7e catégories est
+L'ouverture des locaux destinés au commerce de détail des armes, éléments d'armes et munitions des catégories C et D est
 régie par les dispositions de l'article L. 313-3 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
 
 	**Cité par**:
 
@@ -7733,16 +7757,20 @@ y a lieu.
 ###### Article L2332-6
 
 Les entreprises de fabrication mentionnées au I de l'article L. 2332-1 sont tenues, dans le délai de huit jours, après le
-dépôt de toute demande de brevet ou d'addition à un brevet concernant des matériels des quatre premières catégories, faite
-par elles ou pour leur compte, de faire connaître au service désigné par décret la description de la découverte, invention ou
-application faisant l'objet du brevet ou de l'addition demandé.
+dépôt de toute demande de brevet ou d'addition à un brevet concernant des matériels des catégories A et B, faite par elles ou
+pour leur compte, de faire connaître au service désigné par décret la description de la découverte, invention ou application
+faisant l'objet du brevet ou de l'addition demandé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cité par**:
 
@@ -7758,11 +7786,10 @@ application faisant l'objet du brevet ou de l'addition demandé.
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. L2332-1
 
 	**Anciens textes**:
 
-	  - Décret n°1939-04-18 art. 7
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 7 (Ab)
 
 
@@ -7812,7 +7839,7 @@ Les canons d'arme de guerre fabriqués en France sont soumis à des épreuves co
 ###### Article L2332-10
 
 Les titulaires des autorisations mentionnées au I de l'article L. 2332-1 donnent communication au service compétent, dans un
-délai de huit jours à dater de leur acceptation, des commandes de matériels des quatre premières catégories, non destinées à
+délai de huit jours à dater de leur acceptation, des commandes de matériels des catégories A et B, non destinées à
 l'exportation, autres que celles qui émanent de l'Etat et ne peuvent les exécuter que sur autorisation expresse. 
 
 Les prescriptions relatives à l'importation ou l'exportation hors du territoire de l'Union européenne ou au transfert au sein
@@ -7828,13 +7855,17 @@ sont définies au chapitre V du présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cité par**:
 
 	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 	  - Code de la défense. - art. L2339-1 (M)
 	  - Code de la défense. - art. L2339-3 (VD)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 
 	**Cite**:
 
@@ -8075,20 +8106,21 @@ et L. 2333-6, est sanctionnée par les pénalités prévues dans les cahiers des
 
 ###### Article L2335-1
 
-I.-L'importation sans autorisation préalable des matériels de 1re, 2e, 3e, 4e, 5e et 6e catégories mentionnés à l'article L.
-2331-1 provenant des Etats non membres de l'Union européenne est prohibée. 
+I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D
+figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1 provenant des Etats non membres
+de l'Union européenne est prohibée. 
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les
 conditions dans lesquelles une autorisation d'importation peut être délivrée. 
 
-II.-Aucun des matériels de 1re ou 4e catégorie mentionnés au même article L. 2331-1 dont l'importation en France est prohibée
+II.-Aucun des matériels de catégories A ou B mentionnés au même article L. 2331-1 dont l'importation en France est prohibée
 ne peut figurer dans une vente publique à moins d'avoir été au préalable rendu impropre à son usage normal. 
 
-III.-Aucun importateur des matériels appartenant aux quatre premières catégories mentionnées audit article L. 2331-1 ne peut
-obtenir une autorisation d'importation s'il n'est pas déjà titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+III.-Aucun importateur des matériels appartenant aux catégories A et B mentionnées audit article L. 2331-1 ne peut obtenir
+une autorisation d'importation s'il n'est pas déjà titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
 
 Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une autorisation
-d'importation des matériels des quatre premières catégories dans des conditions définies par décret en Conseil d'Etat. 
+d'importation des matériels des catégories A et B dans des conditions définies par décret en Conseil d'Etat. 
 
 IV.-L'autorité administrative peut à tout moment, dans les conditions fixées par décret en Conseil d'Etat, suspendre,
 modifier, abroger ou retirer les autorisations d'importation qu'elle a délivrées, pour des raisons de respect des engagements
@@ -8151,14 +8183,9 @@ pour non-respect des conditions spécifiées dans l'autorisation.
 	  - Code de la sécurité intérieure - art. R316-35 (V)
 	  - Code de la sécurité intérieure - art. R316-55 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cite**:
 
@@ -8275,12 +8302,12 @@ A la demande de l'exportateur ou lorsque l'autorité administrative l'estime né
 d'exportation, l'autorisation peut être limitée à la communication d'informations dans le cadre de la négociation d'un
 contrat, à l'acceptation d'une commande ou à la signature d'un contrat. 
 
-V.-Aucun exportateur des matériels appartenant aux quatre premières catégories mentionnées à l'article L. 2331-1 ne peut
-utiliser une licence générale d'exportation ou obtenir une licence globale ou individuelle d'exportation s'il n'est déjà
-titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+V.-Aucun exportateur des matériels appartenant aux catégories A et B mentionnées à l'article L. 2331-1 ne peut utiliser une
+licence générale d'exportation ou obtenir une licence globale ou individuelle d'exportation s'il n'est déjà titulaire de
+l'autorisation prévue au I de l'article L. 2332-1. 
 
 Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une licence
-générale, globale ou individuelle d'exportation des matériels des quatre premières catégories. 
+générale, globale ou individuelle d'exportation des matériels de catégories A et B. 
 
 VI.-Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -8322,14 +8349,9 @@ VI.-Les modalités d'application du présent article sont déterminées par déc
 	  - Code du domaine de l'Etat - art. L67 (Ab)
 	  - Code général de la propriété des personnes publ... - art. R3211-35 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cite**:
 
@@ -8600,12 +8622,12 @@ V. ― Les licences de transfert publiées ou notifiées par un Etat membre de l
 passage par le territoire national, sous réserve de l'application de dispositions nécessitées par les exigences de la
 protection de la sécurité publique, de l'ordre public ou de la sécurité des transports. 
 
-VI. ― Aucun fournisseur des matériels appartenant aux quatre premières catégories mentionnées à l'article L. 2331-1 ne peut
-utiliser une licence générale de transfert ou obtenir une licence globale ou individuelle de transfert s'il n'est déjà
-titulaire de l'autorisation prévue au I de l'article L. 2332-1. 
+VI. ― Aucun fournisseur des matériels appartenant aux catégories A et B mentionnées à l'article L. 2331-1 ne peut utiliser
+une licence générale de transfert ou obtenir une licence globale ou individuelle de transfert s'il n'est déjà titulaire de
+l'autorisation prévue au I de l'article L. 2332-1. 
 
 Les personnes non titulaires de cette autorisation peuvent, à titre exceptionnel, demander à bénéficier d'une licence
-générale, globale ou individuelle de transfert des matériels des quatre premières catégories. 
+générale, globale ou individuelle de transfert des matériels de catégories A et B. 
 
 VII. ― Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
@@ -8627,9 +8649,9 @@ VII. ― Les modalités d'application du présent article sont déterminées par
 	  - Code de la sécurité intérieure - art. R312-19 (VD)
 	  - Code des douanes - art. 38 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cite**:
 
@@ -9119,6 +9141,9 @@ Par dérogation à l'alinéa précédent, les agents des douanes et les agents h
 présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
 de leurs missions respectives. 
 
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
+le département ou, à Paris, au préfet de police. 
+
 En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
 procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
 ministre de la défense. 
@@ -9138,7 +9163,7 @@ lui.
 Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
 par tout moyen. 
 
-L'autorité visée au huitième alinéa du présent article est habilitée par arrêté du ministre de la défense.
+L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -9179,14 +9204,9 @@ L'autorité visée au huitième alinéa du présent article est habilitée par a
 	  - Code de procédure pénale - art. 28-1 (V)
 	  - Code de procédure pénale - art. 706-55 (M)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Cite**:
 
@@ -9203,21 +9223,21 @@ L'autorité visée au huitième alinéa du présent article est habilitée par a
 
 ###### Article L2339-2
 
-I.-Est puni d'un emprisonnement de sept ans et d'une amende de 100 000 euros quiconque, sans y être régulièrement autorisé,
-se livre à la fabrication ou au commerce des matériels de guerre ou d'armes ou de munitions de défense de l'une des
-catégories mentionnées au I de l'article L. 2332-1, ou exerce son activité en qualité d'intermédiaire ou d'agent de publicité
-à l'occasion de la fabrication ou du commerce des matériels, armes ou munitions desdites catégories. 
+I. - Est puni d'un emprisonnement de sept ans et d'une amende de 100 000 € quiconque, sans respecter les obligations
+résultant des I et II de l'article L. 2332-1, se livre à la fabrication ou au commerce de matériels, armes, munitions et de
+leurs éléments essentiels, ou exerce son activité en qualité d'intermédiaire ou d'agent de publicité à l'occasion de la
+fabrication ou du commerce de matériels, armes, munitions et de leurs éléments essentiels. 
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
 organisée. 
 
 La confiscation du matériel fabriqué ou du matériel à vendre, ainsi que sa vente aux enchères publiques, est ordonnée par le
-même jugement.
+même jugement. 
 
 L'autorité administrative peut prescrire ou faire effectuer la mise hors d'usage, aux frais de l'auteur de l'infraction, du
 matériel avant sa mise aux enchères publiques. 
 
-II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
+II. - Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
 des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
 code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
@@ -9244,7 +9264,7 @@ code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'art
 
 	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 19
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Cite**:
 
@@ -9260,18 +9280,13 @@ code pénal, les peines prévues par les 1°, 2°, 4°, 5°, 8° et 9° de l'art
 
 ###### Article L2339-3
 
-I.-Est puni d'un emprisonnement de cinq ans et d'une amende de 75 000 euros : 
+I.-Le fait de contrevenir aux dispositions de l'article L. 2332-6, du premier alinéa de l'article L. 2332-10 et de l'article
+L. 2339-1 est puni de cinq ans d'emprisonnement et de 75 000 € d'amende. 
 
-1° Le fait de contrevenir aux dispositions des II et III de l'article L. 2332-1, de l'article L. 2332-6, du premier alinéa de
-l'article L. 2332-10 et des articles L. 2336-2 et L. 2339-1 du présent titre ; 
+II.-Les peines sont portées à dix ans d'emprisonnement et 500 000 € d'amende si les infractions prévues au I sont commises en
+bande organisée. 
 
-2° Le fait de vendre ou d'acheter des matériels de guerre, des armes, des munitions ou leurs éléments en méconnaissance des
-dispositions de l'article L. 2332-2 ; 
-
-3° Le fait de céder ou de vendre des matériels de guerre, des armes, des munitions ou leurs éléments constitutifs à un
-mineur, hors les cas où cette vente est autorisée dans les conditions fixées par décret en Conseil d'Etat. 
-
-II.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
 des infractions définies au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
 code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
@@ -9279,14 +9294,13 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 23
 	  - Loi n°2016-731 du 3 juin 2016 - art. 24
 	  - Loi n°2016-731 du 3 juin 2016 - art. 25
-	  - Code de la défense. - art. L2339-1 (M)
 	  - Code de la sécurité intérieure - art. L312-3 (V)
 
 	**Cite**:
@@ -9294,11 +9308,9 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code de la défense. - art. L2332-1
 	  - Code de la défense. - art. L2332-10
-	  - Code de la défense. - art. L2332-2
 	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2336-2
+	  - Code de la défense. - art. L2339-1
 
 	**Anciens textes**:
 
@@ -9324,23 +9336,19 @@ sécurité intérieure.
 
 ###### Article L2339-4
 
-Est punie des peines prévues à l'article L. 317-4 du code de la sécurité intérieure, la cession, à quelque titre que ce soit,
-par un fabricant ou commerçant, habilité en vertu de l'article L. 2332-1 du présent code, d'une ou plusieurs armes ou
-munitions de la 1re ou de la 4e catégorie, en violation des articles L. 312-1 à L. 312-4 et L. 314-3 du code de la sécurité
-intérieure. 
+Est punie d'un emprisonnement de trois ans et d'une amende de 45 000 € la cession, à quelque titre que ce soit, par un
+fabricant ou commerçant, détenteur de l'une des autorisations mentionnées à l'article L. 2332-1 du présent code, d'une ou
+plusieurs armes ou munitions des catégories A, B, C ainsi que d'une ou plusieurs armes ou munitions de catégorie D
+mentionnées au second alinéa de l'article L. 312-4-2 du code de la sécurité intérieure, en violation des articles L. 312-1 à
+L. 312-4-3 ou L. 314-3 du même code. 
 
 Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Cité par**:
 
@@ -9353,12 +9361,52 @@ Le tribunal ordonne, en outre, la confiscation des armes et des munitions.
 
 	  - Code de la défense. - art. L2332-1
 	  - Code de la sécurité intérieure - art. L312-1
+	  - Code de la sécurité intérieure - art. L312-4-2
 	  - Code de la sécurité intérieure - art. L314-3
-	  - Code de la sécurité intérieure - art. L317-4
 
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 29 (Ab)
+
+
+###### Article L2339-4-1
+
+Est punie d'un emprisonnement de six mois et d'une amende de 7 500 € toute personne titulaire de l'une des autorisations de
+fabrication ou de commerce d'armes et de munitions mentionnées à l'article L. 2332-1 qui : 
+
+1° Ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des conditions fixées par décret en Conseil
+d'Etat, les matériels mis en fabrication, en réparation, en transformation, achetés, vendus, loués ou détruits ; 
+
+2° Dans le cas d'opérations d'intermédiation, ne tient pas à jour le registre spécial dans lequel sont enregistrés, dans des
+conditions fixées par le même décret en Conseil d'Etat, le nom des entreprises mises en relation ou des autres participants à
+l'opération d'intermédiation, ainsi que le contenu de ces opérations ; 
+
+3° En cas de cessation d'activité, ne dépose pas auprès de l'autorité administrative compétente les registres spéciaux
+mentionnés aux 1° et 2° ou n'en assure pas la conservation pendant un délai et dans des conditions fixés par le même décret
+en Conseil d'Etat ; 
+
+4° Cède à un autre commerçant ou fabricant autorisé un matériel, une arme, un élément essentiel ou des munitions des
+catégories A, B ou C ou une arme, un élément essentiel ou des munitions de catégorie D mentionnés au second alinéa de
+l'article L. 312-4-2 du code de la sécurité intérieure, sans accomplir les formalités déterminées par le même décret en
+Conseil d'Etat ; 
+
+5° Vend par correspondance des matériels, armes, munitions et leurs éléments essentiels sans avoir reçu et conservé les
+documents nécessaires à leur inscription sur le registre spécial mentionné au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 24
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1
+	  - Code de la sécurité intérieure - art. L312-4-2
 
 
 ##### Section 3 : Sanctions pénales de l'acquisition et de la détention
@@ -9434,8 +9482,8 @@ sont définies par les dispositions du chapitre VII du titre Ier du livre III du
 
 ###### Article L2339-10
 
-Est punie de cinq ans d'emprisonnement et d'une amende de 9 000 euros l'importation, sans autorisation, des matériels des 1re
-à 6e catégories.
+Est punie de cinq ans d'emprisonnement et d'une amende de 9 000 euros l'importation, sans autorisation, des matériels des
+catégories A, B, C et D figurant sur une liste fixée par un décret en Conseil d'Etat.
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
 organisée.
@@ -9444,15 +9492,14 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 26, alinéa 1
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 26 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cité par**:
 
@@ -9466,29 +9513,28 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 	  - Code de procédure pénale - art. 706-73 (V)
 	  - Code pénal - art. 321-6-1 (V)
 
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 26 (Ab)
+
 
 ###### Article L2339-11
 
-Est puni d'une amende de 3 750 euros et d'un emprisonnement de deux ans l'usage, par une personne non qualifiée, du poinçon
-mentionné à l'article L. 2332-8-1.
+Est puni d'un emprisonnement de deux ans et d'une amende de 30 000 € l'usage, par une personne non qualifiée, du poinçon
+mentionné à l'article L. 2332-8-1. 
 
-Les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux des poinçons contrefaisants sont punis d'une amende de 3 750
-euros et d'un emprisonnement de cinq ans.
+Les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux des poinçons contrefaits sont punis d'un emprisonnement de cinq
+ans et d'une amende de 75 000 €.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 3
+	  - Loi n°2012-304 du 6 mars 2012 - art. 27
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2332-8-1
+	  - Code de la défense. - art. L2332-8-1 (V)
 
 	**Anciens textes**:
 
@@ -9748,24 +9794,24 @@ destinés à être utilisés, en tout ou partie, en vue de commettre l'une quelc
 ###### Article L2339-16
 
 Le fait de se faire délivrer indûment, par quelque moyen frauduleux que ce soit, les autorisations ou agréments mentionnés au
-I de l'article L. 2332-1 et aux articles L. 2335-1 à L. 2335-3 du présent code, ainsi qu'au 2° de l'article L. 312-1 et à
-l'article L. 314-3 du code de la sécurité intérieure, est puni de dix ans d'emprisonnement et un million et demi d'euros
-d'amende lorsque ces autorisations ou agréments concernent des missiles, fusées ou autres systèmes sans pilote capables de
-conduire à leur cible des armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et
-spécialement conçus à cet usage.
+I de l'article L. 2332-1 et aux articles L. 2335-1 à L. 2335-3 du présent code, ainsi qu'à l'article L. 312-2 et à l'article
+L. 314-3 du code de la sécurité intérieure, est puni de dix ans d'emprisonnement et un million et demi d'euros d'amende
+lorsque ces autorisations ou agréments concernent des missiles, fusées ou autres systèmes sans pilote capables de conduire à
+leur cible des armes nucléaires telles que définies au III de l'article L. 1333-13-4 du présent code, chimiques ou
+biologiques et spécialement conçus à cet usage.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-13-4
 	  - Code de la défense. - art. L2332-1
 	  - Code de la défense. - art. L2335-1
-	  - Code de la sécurité intérieure - art. L312-1
+	  - Code de la sécurité intérieure - art. L312-2
 	  - Code de la sécurité intérieure - art. L314-3
 
 	**Cité par**:
@@ -9846,6 +9892,30 @@ laquelle l'infraction a été commise.
 	  - Code de la défense. - art. L2339-14
 	  - Code de la défense. - art. L2339-15 (V)
 	  - Code de la défense. - art. L2339-16
+
+
+##### Section 9 : Peines complémentaires applicables aux personnes physiques
+
+###### Article L2339-19
+
+En cas de condamnation pour les infractions prévues au présent chapitre, le prononcé des peines complémentaires suivantes est
+obligatoire :
+
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;
+
+3° Le retrait du permis de chasser avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
+plus.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer ces peines, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
 
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
@@ -13930,7 +14000,7 @@ de six mois et d'une amende de 3 750 euros.
 ###### Article L2353-13
 
 L'acquisition, la détention, le transport ou le port illégal de produits explosifs ou d'engins explosifs sont punis selon les
-dispositions du chapitre IX du titre III du présent livre applicables aux armes de la 1re catégorie.
+dispositions du chapitre IX du titre III du présent livre applicables aux armes de la catégorie A.
 
 Les dispositions du premier alinéa ne sont pas applicables à l'acquisition, à la détention, au transport ou au port d'une
 quantité de 2 kilogrammes au plus de poudre noire ou de poudre à usage civil, en vue de la confection de munitions de chasse
@@ -13938,25 +14008,39 @@ ou de tir.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 38 alinéa 2
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 38 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 24
 	  - Code de procédure pénale - art. 28-1 (V)
 	  - Code pénal - art. 421-1 (VD)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 38 (Ab)
+
+
+###### Article L2353-14
+
+En cas de condamnation pour une infraction prévue par la présente section, le prononcé de la peine complémentaire
+d'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation est obligatoire.
+
+Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
 
 #### TITRE VII : DU RENSEIGNEMENT

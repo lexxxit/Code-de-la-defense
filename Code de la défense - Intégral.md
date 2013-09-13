@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-09-06
+Version Consolidée au 2013-09-14
 
 # Partie législative
 
@@ -23986,35 +23986,35 @@ La composition et les attributions de ces organes ou services font l'objet pour 
 
 ###### Article R*1142-1
 
-Le ministre de la défense prépare et met en œuvre la politique de défense conformément aux directives données par le Premier
-ministre en application de l'article L. 1131-1.
+Le ministre de la défense prépare et met en œuvre la politique de défense conformément aux directives générales du Premier
+ministre. Il traduit ces directives en ordres et instructions pour les autorités subordonnées. 
 
-I.-Au titre de l'autorité qu'il exerce sur les armées, directions et services : 
+I.-Il est responsable de la préparation et, sous réserve des dispositions particulières relatives à la dissuasion, de
+l'emploi des forces. Il est également responsable de la sécurité des moyens militaires de défense. 
 
-1° Il fixe l'organisation des armées, ainsi que des directions et services du ministère ; 
+Il fixe l'organisation des armées ainsi que des directions et services du ministère. 
 
-2° Il établit la programmation des effectifs, des équipements et des infrastructures ; il en contrôle la mise en œuvre ; 
+Il établit la programmation des effectifs, des équipements et des infrastructures ; il en contrôle la mise en œuvre. 
 
-3° Il définit la politique des ressources humaines et veille au respect des droits et obligations des militaires ; 
+Il définit la politique des ressources humaines et veille au respect des droits et obligations des militaires. 
 
-4° Il organise le soutien des personnels et du matériel et fixe les orientations de la gestion du patrimoine immobilier ; 
+Il organise le soutien des personnels et du matériel et fixe les orientations de la gestion du patrimoine immobilier. 
 
-5° Il définit les conditions de la contribution du service de santé des armées à la politique de santé publique ; 
+Il définit les conditions de la contribution du service de santé des armées à la politique de santé publique. 
 
-6° Il propose et met en œuvre les politiques de coopération et d'exportation relatives aux équipements de défense ; 
+Il propose et met en œuvre les politiques de coopération et d'exportation relatives aux équipements de défense. 
 
-7° Il définit les missions relevant de sa compétence confiées aux formations spécialisées de la gendarmerie. 
+Il définit les missions relevant de sa compétence confiées aux formations spécialisées de la gendarmerie. 
 
 Il définit également la mission militaire des prévôts à l'exception des missions de police judiciaire militaire prévues à
-l'article L. 411-2 du code de justice militaire. 
+l'article L. 411-2 du code de la justice militaire. 
 
 Il exerce son autorité sur les personnels militaires de la gendarmerie engagés dans des missions militaires à l'intérieur
-comme à l'extérieur du territoire national ; 
+comme à l'extérieur du territoire national. 
 
-8° Il propose la nomination et l'affectation des officiers généraux. 
+Il propose la nomination et l'affectation des officiers généraux. 
 
-II.-Au titre de la mise en condition d'emploi et de la sécurité des armées, il est responsable de la sécurité des moyens
-militaires de défense et de la préparation des armées. 
+II.-Il est chargé du renseignement extérieur et du renseignement d'intérêt militaire. 
 
 III.-Au titre de la politique internationale de défense : 
 
@@ -24022,7 +24022,7 @@ III.-Au titre de la politique internationale de défense :
 
 2° Il propose la nomination des attachés de défense. 
 
-IV.-Il est responsable de la prospective de défense.
+IV.-Il est responsable de la prospective de défense. 
 
 V.-Au titre de la politique industrielle et de recherche dans les domaines intéressant la défense : 
 
@@ -24047,11 +24047,10 @@ l'exécution de marchés relatifs à des matériels de guerre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 1
+	  - Décret n°2013-816 du 12 septembre 2013 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1131-1
 	  - Code de justice militaire. - art. L411-2
 
 
@@ -53539,12 +53538,8 @@ du titre IX du livre IV de la Partie 2, intitulée "armes chimiques", au lieu de
 
 Dans l'exercice de ses attributions, le ministre de la défense est assisté : 
 
-1° Par le chef d'état-major des armées pour les missions définies à l'article R. * 3121-2, notamment :
-
-- l'organisation générale des armées et des organismes interarmées placés sous l'autorité de ce dernier, leur préparation et
-leur mise en condition d'emploi ;
-
-- les choix capacitaires ; 
+1° Par le chef d'état-major des armées en matière d'organisation interarmées et d'organisation générale des armées, de choix
+capacitaires, de préparation et d'emploi des forces ; 
 
 2° Par le délégué général pour l'armement en matière de recherche, de réalisation d'équipements des forces, de relations
 internationales concernant l'armement et de politique industrielle concernant la défense ; 
@@ -53564,11 +53559,7 @@ notamment en matière budgétaire, financière, juridique, patrimoniale, immobil
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 2
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3121-2
+	  - Décret n°2013-816 du 12 septembre 2013 - art. 3
 
 
 ##### Section 2 :  Organisation de l'administration centrale
@@ -53597,9 +53588,11 @@ organisation de l'administration centrale.
 
 ###### Article R*3121-1
 
+Le chef d'état-major des armées assiste le ministre dans ses attributions relatives à l'emploi des forces. Il est responsable
+de l'emploi opérationnel des forces. 
+
 Sous l'autorité du Président de la République et du Gouvernement, et sous réserve des dispositions particulières relatives à
-la dissuasion, le chef d'état-major des armées, responsable de l'emploi des forces, assure le commandement des opérations
-militaires. 
+la dissuasion, le chef d'état-major des armées assure le commandement des opérations militaires. 
 
 Il est le conseiller militaire du Gouvernement.
 
@@ -53622,7 +53615,7 @@ Il est le conseiller militaire du Gouvernement.
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+	  - Décret n°2013-816 du 12 septembre 2013 - art. 4
 
 
 ###### Article R*3121-2

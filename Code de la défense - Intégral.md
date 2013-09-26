@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-09-14
+Version Consolidée au 2013-09-27
 
 # Partie législative
 
@@ -71862,8 +71862,9 @@ l'indice brut 203.
 
 Les militaires, à l'exception de ceux qui sont affiliés au fonds de prévoyance de l'aéronautique, sont affiliés au fonds de
 prévoyance militaire destiné à verser, hors le cas de mobilisation générale ou de participation à des opérations qualifiées
-d'opérations de guerre par décret en conseil des ministres, des allocations en cas d'infirmité ou de décès imputable au
-service dans le cas où l'infirmité ou le décès n'ouvre pas droit aux allocations du fonds de prévoyance de l'aéronautique.
+d'opérations de guerre par décret en conseil des ministres, des allocations en cas de blessure, d'infirmité ou de décès
+imputable au service dans le cas où la blessure, l'infirmité ou le décès n'ouvre pas droit aux allocations du fonds de
+prévoyance de l'aéronautique.
 
 Sont également affiliés à ce fonds de prévoyance :
 
@@ -71876,9 +71877,9 @@ militaire ou par des sociétés agréées par elle ou au cours et à l'occasion 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2013-854 du 24 septembre 2013 - art. 1
 
 	**Cité par**:
 
@@ -72091,6 +72092,45 @@ autre allocation du fonds de prévoyance militaire.
 	  - Code de la défense. - art. D4123-4
 
 
+###### Article D4123-6-1
+
+Après consolidation définitive médicalement attestée, la blessure reçue en opération extérieure, y compris le trouble
+psychique post-traumatique imputable à cette opération, fait l'objet, si l'affilié n'a pas été mis à la retraite ou réformé
+définitivement, d'une allocation versée dans les conditions suivantes : 
+
+1° En cas d'invalidité égale ou supérieure à 40 % : 
+
+a) Si l'affilié est marié ou partenaire lié par un pacte civil de solidarité ou a des enfants à charge, le montant de ce
+complément d'allocation est égal à la moitié de la solde budgétaire annuelle correspondant :
+
+- à l'indice brut 762 lorsque le blessé est officier ;
+
+- à l'indice brut 560 lorsqu'il est non-officier ; 
+
+b) Dans les autres cas, le montant de ce complément d'allocation est égal à la moitié de la solde budgétaire annuelle
+correspondant :
+
+- à l'indice brut 546 lorsque le blessé est officier ;
+
+- à l'indice brut 398 lorsqu'il est non-officier. 
+
+2° En cas d'invalidité inférieure à 40 %, le montant de cette allocation est calculé proportionnellement au taux d'invalidité
+de l'affilié, rapporté au taux de 40 %, sur la base du montant déterminé au 1°. 
+
+Dans tous les cas, les allocations servies au titre du présent article sont déduites en cas de versement à l'intéressé des
+allocations prévues à l'article D. 4123-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-854 du 24 septembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. D4123-6
+
+
 ###### Article D4123-7
 
 Les allocations mentionnées aux articles D. 4123-4 et D. 4123-5 sont calculées : 
@@ -72237,16 +72277,16 @@ totale déterminée dans les conditions fixées à l'article D. 4123-4.
 
 ###### Article D4123-11
 
-Indépendamment des allocations visées aux articles D. 4123-4 à D. 4123-10, des secours peuvent être versés, lorsque leur
-situation le justifie, à certains ayants cause de militaires dont le décès, imputable au service ou en relation avec le
-service, est survenu en dehors d'une période de mobilisation générale et n'a pas ouvert droit aux allocations du fonds de
-prévoyance de l'aéronautique.
+Indépendamment des allocations prévues aux articles D. 4123-4 à D. 4123-10, des secours peuvent être versés, lorsque leur
+situation le justifie, aux personnels affiliés au fonds de prévoyance militaire et à leurs ayants cause en cas d'invalidité
+ou de décès imputable au service ou en relation avec le service, lorsque l'invalidité ou le décès est survenu en dehors des
+cas prévus à l'article D. 4123-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2013-854 du 24 septembre 2013 - art. 3
 
 	**Cité par**:
 
@@ -72254,7 +72294,8 @@ prévoyance de l'aéronautique.
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4123-4 (V)
+	  - Code de la défense. - art. D4123-2
+	  - Code de la défense. - art. D4123-4
 
 
 ###### Article D4123-12

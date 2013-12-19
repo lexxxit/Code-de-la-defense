@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-11-17
+Version Consolidée au 2013-12-20
 
 # Partie législative
 
@@ -1160,6 +1160,8 @@ Les organisations syndicales représentatives du patronat et des salariés y son
 
 ##### Chapitre II : Protection des installations d'importance vitale
 
+##### Section 1 : Dispositions générales
+
 ###### Article L1332-1
 
 Les opérateurs publics ou privés exploitant des établissements ou utilisant des installations et ouvrages, dont
@@ -1175,11 +1177,6 @@ vigueur des dispositions réglementaires désignant l'autorité administrative c
 désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 58-1371 1958-12-29 art. 1er, alinéa 1
-	  - Ordonnance n°58-1371 du 29 décembre 1958 - art. 1 (Ab)
 
 	**Cité par**:
 
@@ -1224,13 +1221,12 @@ désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005 en vigueur le 24 février 2006
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 
 ###### Article L1332-2
@@ -1261,14 +1257,14 @@ grave pour la population. Ces établissements sont désignés par l'autorité ad
 	  - Code des postes et des communications électroni... - art. R10-13-1 (V)
 	  - Code des postes et des communications électroni... - art. R9-7 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L511-1 (V)
-	  - Code de l'environnement - art. L593-1 (V)
+	  - Code de l'environnement - art. L511-1
+	  - Code de l'environnement - art. L593-1
 
 
 ###### Article L1332-2-1
@@ -1289,14 +1285,14 @@ La personne concernée est informée de l'enquête administrative dont elle fait
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
 
-	**Créé par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 26
-
 	**Cité par**:
 
 	  - Décret n°2012-491 du 16 avril 2012 (V)
 	  - Code de la défense. - art. R1332-22-3 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 
 ###### Article L1332-3
@@ -1316,20 +1312,14 @@ désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-1371 1958-12-29 art. 3, alinéa 1
-	  - Ordonnance n°58-1371 du 29 décembre 1958 - art. 3 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005 en vigueur le 24 février 2006
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cité par**:
 
@@ -1351,19 +1341,14 @@ décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°58-1371 du 29 décembre 1958 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cité par**:
 
@@ -1385,22 +1370,18 @@ décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-1371 1958-12-29 art. 4 bis
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1332-4 (V)
+	  - Code de la défense. - art. L1332-4
 
 	**Cité par**:
 
@@ -1424,25 +1405,183 @@ décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 58-1371 1958-12-29 art. 4 ter
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+	  - DEPLACE: Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1332-4 (V)
-	  - Code de la défense. - art. L1332-5 (V)
+	  - Code de la défense. - art. L1332-4
+	  - Code de la défense. - art. L1332-5
 
+
+##### Section 2 : Dispositions spécifiques à la sécurité des systèmes d'information
+
+###### Article L1332-6-1
+
+Le Premier ministre fixe les règles de sécurité nécessaires à la protection des systèmes d'information des opérateurs
+mentionnés aux articles L. 1332-1 et L. 1332-2 et des opérateurs publics ou privés qui participent à ces systèmes pour
+lesquels l'atteinte à la sécurité ou au fonctionnement risquerait de diminuer d'une façon importante le potentiel de guerre
+ou économique, la sécurité ou la capacité de survie de la Nation. Ces opérateurs sont tenus d'appliquer ces règles à leurs
+frais. 
+
+Les règles mentionnées au premier alinéa peuvent notamment prescrire que les opérateurs mettent en œuvre des systèmes
+qualifiés de détection des événements susceptibles d'affecter la sécurité de leurs systèmes d'information. Ces systèmes de
+détection sont exploités sur le territoire national par des prestataires de service qualifiés en matière de sécurité de
+systèmes d'information, par l'autorité nationale de sécurité des systèmes d'information ou par d'autres services de l'Etat
+désignés par le Premier ministre. 
+
+Les qualifications des systèmes de détection et des prestataires de service exploitant ces systèmes sont délivrées par le
+Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+	**Cité par**:
+
+	  - Décret n°2015-350 du 27 mars 2015 (V)
+	  - Décret n°2015-351 du 27 mars 2015 (V)
+	  - Arrêté du 10 juin 2016 (V)
+	  - Arrêté du 10 juin 2016 - art. 1 (V)
+	  - Arrêté du 10 juin 2016 - art. 2 (V)
+	  - Arrêté du 17 juin 2016 (V)
+	  - Arrêté du 17 juin 2016 - art. 1 (V)
+	  - Arrêté du 17 juin 2016 - art. 2 (V)
+	  - Arrêté du 28 novembre 2016 (V)
+	  - Arrêté du 28 novembre 2016 (VD)
+	  - Arrêté du 28 novembre 2016 - art. 1 (V)
+	  - Arrêté du 28 novembre 2016 - art. 1 (VD)
+	  - Arrêté du 28 novembre 2016 - art. 2 (V)
+	  - Arrêté du 28 novembre 2016 - art. 2 (VD)
+	  - Arrêté du 10 mars 2017 (V)
+	  - Arrêté du 10 mars 2017 - art. 1 (V)
+	  - Arrêté du 10 mars 2017 - art. 2 (V)
+	  - Code de la défense. - art. L1332-6-2 (V)
+	  - Code de la défense. - art. L1332-6-3 (V)
+	  - Code de la défense. - art. L1332-7 (V)
+	  - Code de la défense. - art. R1332-41-1 (V)
+	  - Code de la défense. - art. R1332-41-15 (V)
+	  - Code de la défense. - art. R1332-41-2 (V)
+	  - Code de la défense. - art. R1332-41-21 (V)
+	  - Code de la défense. - art. R1332-41-22 (V)
+	  - Code de la défense. - art. R1332-41-23 (V)
+	  - Code de la défense. - art. R1332-41-3 (V)
+	  - Code de la défense. - art. R1332-41-7 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+
+
+###### Article L1332-6-2
+
+Les opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 informent sans délai le Premier ministre des incidents
+affectant le fonctionnement ou la sécurité des systèmes d'information mentionnés au premier alinéa de l'article L. 1332-6-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+	  - Code de la défense. - art. L1332-6-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1332-7 (V)
+	  - Code de la défense. - art. R1332-41-10 (V)
+	  - Code de la défense. - art. R1332-41-23 (V)
+
+
+###### Article L1332-6-3
+
+A la demande du Premier ministre, les opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 soumettent leurs systèmes
+d'information à des contrôles destinés à vérifier le niveau de sécurité et le respect des règles de sécurité prévues à
+l'article L. 1332-6-1. Les contrôles sont effectués par l'autorité nationale de sécurité des systèmes d'information ou par
+des services de l'Etat désignés par le Premier ministre ou par des prestataires de service qualifiés par ce dernier. Le coût
+des contrôles est à la charge de l'opérateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+	**Cité par**:
+
+	  - Décret n°2015-350 du 27 mars 2015 (V)
+	  - Code de la défense. - art. R1332-41-12 (V)
+	  - Code de la défense. - art. R1332-41-16 (V)
+	  - Code de la défense. - art. R1332-41-17 (V)
+	  - Code de la défense. - art. R1332-41-21 (V)
+	  - Code de la défense. - art. R1332-41-22 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+	  - Code de la défense. - art. L1332-6-1
+
+
+###### Article L1332-6-4
+
+Pour répondre aux crises majeures menaçant ou affectant la sécurité des systèmes d'information, le Premier ministre peut
+décider des mesures que les opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 doivent mettre en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1332-41-18 (V)
+
+
+###### Article L1332-6-5
+
+L'Etat préserve la confidentialité des informations qu'il recueille auprès des opérateurs mentionnés aux articles L. 1332-1
+et L. 1332-2 dans le cadre de l'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+
+
+###### Article L1332-6-6
+
+Un décret en Conseil d'Etat précise les conditions et limites dans lesquelles s'appliquent les dispositions de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
+
+
+##### Section 3 :  Dispositions pénales
 
 ###### Article L1332-7
 
@@ -1451,26 +1590,33 @@ l'expiration du délai défini par l'arrêté de mise en demeure, d'omettre d'é
 travaux prévus. 
 
 Est puni d'une amende de 150 000 euros le fait, pour les mêmes personnes, d'omettre, après une mise en demeure, d'entretenir
-en bon état les dispositifs de protection antérieurement établis.
+en bon état les dispositifs de protection antérieurement établis. 
+
+Est puni d'une amende de 150 000 € le fait, pour les mêmes personnes, de ne pas satisfaire aux obligations prévues aux
+articles L. 1332-6-1 à L. 1332-6-4. Hormis le cas d'un manquement à l'article L. 1332-6-2, cette sanction est précédée d'une
+mise en demeure. 
+
+Les personnes morales déclarées responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions
+prévues à la présente section encourent une amende suivant les modalités prévues à l'article 131-38 du même code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°58-1371 du 29 décembre 1958 - art. 5 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1332-4 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code de la défense. - art. L1332-4
+	  - Code de la défense. - art. L1332-6-1
+	  - Code de la défense. - art. L1332-6-2
 
 	**Cité par**:
 
@@ -7360,6 +7506,92 @@ définies par l'article L. 11-3 du code de l'expropriation pour cause d'utilité
 
 #### TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION
 
+##### Chapitre Ier : Responsabilités
+
+###### Article L2321-1
+
+Dans le cadre de la stratégie de sécurité nationale et de la politique de défense, le Premier ministre définit la politique
+et coordonne l'action gouvernementale en matière de sécurité et de défense des systèmes d'information. Il dispose à cette fin
+de l'autorité nationale de sécurité des systèmes d'information qui assure la fonction d'autorité nationale de défense des
+systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 21
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2441-1 (M)
+	  - Code de la défense. - art. L2451-1 (M)
+	  - Code de la défense. - art. L2461-1 (V)
+	  - Code de la défense. - art. L2471-1 (V)
+	  - Code de la défense. - art. R2321-1 (V)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+
+
+###### Article L2321-2
+
+Pour répondre à une attaque informatique qui vise les systèmes d'information affectant le potentiel de guerre ou économique,
+la sécurité ou la capacité de survie de la Nation, les services de l'Etat peuvent, dans les conditions fixées par le Premier
+ministre, procéder aux opérations techniques nécessaires à la caractérisation de l'attaque et à la neutralisation de ses
+effets en accédant aux systèmes d'information qui sont à l'origine de l'attaque.
+
+Pour être en mesure de répondre aux attaques mentionnées au premier alinéa, les services de l'Etat déterminés par le Premier
+ministre peuvent détenir des équipements, des instruments, des programmes informatiques et toutes données susceptibles de
+permettre la réalisation d'une ou plusieurs des infractions prévues aux articles 323-1 à 323-3 du code pénal, en vue
+d'analyser leur conception et d'observer leur fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 21
+
+	**Cité par**:
+
+	  - Arrêté du 17 juillet 2015 - art. 1 (V)
+	  - Arrêté du 17 juillet 2015 - art. 2 (V)
+	  - Arrêté du 4 mai 2017 (V)
+	  - Décret n°2017-743 du 4 mai 2017 (V)
+	  - Code de la défense. - art. D3121-14-1 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 323-1
+
+
+###### Article L2321-3
+
+Pour les besoins de la sécurité des systèmes d'information de l'Etat et des opérateurs mentionnés aux articles L. 1332-1 et
+L. 1332-2, les agents de l'autorité nationale de sécurité des systèmes d'information, habilités par le Premier ministre et
+assermentés dans des conditions fixées par décret en Conseil d'Etat, peuvent obtenir des opérateurs de communications
+électroniques, en application du III de l'article L. 34-1 du code des postes et des communications électroniques, l'identité,
+l'adresse postale et l'adresse électronique d'utilisateurs ou de détenteurs de systèmes d'information vulnérables, menacés ou
+attaqués, afin de les alerter sur la vulnérabilité ou la compromission de leur système.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 (V)
+	  - Décret n°2016-515 du 26 avril 2016 - art. 58
+	  - Code de la défense. - art. R2321-2 (V)
+	  - Code de la défense. - art. R2321-3 (V)
+	  - Code de la défense. - art. R2321-5 (V)
+	  - Code des postes et des communications électroni... - art. R10-13-1 (V)
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L34-1
+	  - Code de la défense. - art. L1332-1
+
+
 ##### Chapitre II : Cryptologie
 
 ###### Article L2322-1
@@ -8108,10 +8340,10 @@ et L. 2333-6, est sanctionnée par les pénalités prévues dans les cahiers des
 
 I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D
 figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1 provenant des Etats non membres
-de l'Union européenne est prohibée. 
+de l'Union européenne est prohibée.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les
-conditions dans lesquelles une autorisation d'importation peut être délivrée. 
+L'autorité administrative détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les conditions
+dans lesquelles une autorisation d'importation peut être délivrée. 
 
 II.-Aucun des matériels de catégories A ou B mentionnés au même article L. 2331-1 dont l'importation en France est prohibée
 ne peut figurer dans une vente publique à moins d'avoir été au préalable rendu impropre à son usage normal. 
@@ -8183,9 +8415,14 @@ pour non-respect des conditions spécifiées dans l'autorisation.
 	  - Code de la sécurité intérieure - art. R316-35 (V)
 	  - Code de la sécurité intérieure - art. R316-55 (V)
 
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 26
 
 	**Cite**:
 
@@ -10465,9 +10702,10 @@ sont détruits à l'initiative de l'administration et aux frais de l'exploitant.
 ###### Article L2342-8
 
 I.-La mise au point, la fabrication, l'acquisition, la cession, l'utilisation, la détention, la conservation, le stockage,
-l'importation, l'exportation, le transit, le commerce et le courtage des produits chimiques inscrits au tableau 1 annexé à la
-Convention de Paris sont interdits sauf à des fins médicales, pharmaceutiques, de recherche ou de protection et dans des
-quantités limitées à ce que peuvent strictement justifier ces fins. 
+l'importation, l'exportation, le transit, le transfert entre Etats membres de l'Union européenne, le commerce et le courtage
+des produits chimiques inscrits au tableau 1 annexé à la Convention de Paris sont interdits sauf à des fins médicales,
+pharmaceutiques, de recherche ou de protection et dans des quantités limitées à ce que peuvent strictement justifier ces
+fins. 
 
 II.-Lorsqu'ils ne sont pas interdits au I : 
 
@@ -10476,7 +10714,10 @@ des produits chimiques inscrits au tableau 1 sont soumis à autorisation. Celle-
 accordée ; 
 
 2° L'importation, l'exportation et le transit des produits chimiques inscrits au tableau 1 sont interdits lorsqu'ils sont en
-provenance ou à destination d'un Etat non partie à la Convention de Paris. 
+provenance ou à destination d'un Etat non partie à la Convention de Paris ; 
+
+2° bis Le transfert entre Etats membres de l'Union européenne des produits chimiques inscrits au tableau 1 est soumis aux
+articles L. 2335-9 et suivants. 
 
 Dans les autres cas, sans préjudice des dispositions communautaires applicables en la matière : 
 
@@ -10521,15 +10762,19 @@ Convention de Paris.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-1 (V)
-	  - Code de la défense. - art. L2335-2 (V)
-	  - Code de la défense. - art. L2335-3 (V)
-	  - Convention de Paris 1993-01-13
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+	  - Code de la défense. - art. L2335-9
 
 
 ###### Article L2342-9
@@ -11939,7 +12184,8 @@ prévues par le présent article.
 
 Est puni de la réclusion criminelle à perpétuité et de 7 500 000 euros d'amende le fait de diriger ou d'organiser un
 groupement ayant pour objet l'emploi, la mise au point, la fabrication, le stockage, la détention, la conservation,
-l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le courtage : 
+l'acquisition, la cession, l'importation, l'exportation, le transit, le transfert entre Etats membres de l'Union européenne,
+le commerce ou le courtage : 
 
 1° D'une arme chimique ; 
 
@@ -11953,13 +12199,16 @@ prévues par le présent article.
 
 	**Anciens textes**:
 
-	  - Loi n°98-467 du 17 juin 1998 - art. 60 (M)
 	  - Loi n°98-467 du 17 juin 1998 - art. 60 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cité par**:
 
@@ -11969,14 +12218,14 @@ prévues par le présent article.
 
 	**Cite**:
 
-	  - Code pénal - art. 132-23 (V)
+	  - Code pénal - art. 132-23
 
 
 ###### Article L2342-60
 
 Sont punis de vingt ans de réclusion criminelle et de 3 000 000 euros d'amende la mise au point, la fabrication, le stockage,
-la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le
-courtage : 
+la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le transfert entre Etats
+membres de l'Union européenne, le commerce ou le courtage : 
 
 1° D'une arme chimique autre qu'une arme chimique ancienne ou qu'une arme chimique abandonnée ; 
 
@@ -11989,9 +12238,9 @@ sachant qu'ils sont destinés à être utilisés, en tout ou partie, en vue de c
 aux articles L. 2342-57 et L. 2342-58 et aux alinéas ci-dessus, indépendamment de la commission effective d'une telle
 infraction. 
 
-Sont punis des mêmes peines l'importation, l'exportation, le commerce ou le courtage de tout matériel de fabrication d'armes
-chimiques ou de tout document ou objet en vue de permettre ou de faciliter la violation des dispositions de la sous-section 1
-de la première section du présent chapitre. 
+Sont punis des mêmes peines l'importation, l'exportation, le commerce, le transfert entre Etats membres de l'Union européenne
+ou le courtage de tout matériel de fabrication d'armes chimiques ou de tout document ou objet en vue de permettre ou de
+faciliter la violation des dispositions de la sous-section 1 de la première section du présent chapitre. 
 
 Est punie de la même peine la communication de toute information en vue de permettre ou de faciliter la violation des
 dispositions de la sous-section 1 de la première section du présent chapitre. 
@@ -12015,7 +12264,7 @@ prévues par le présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 12
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cité par**:
 
@@ -12070,19 +12319,23 @@ volonté de leur auteur, la peine est de sept ans d'emprisonnement et de 100 000
 ###### Article L2342-62
 
 Sont punis de cinq ans d'emprisonnement et de 75 000 euros d'amende l'acquisition, la cession, l'importation, l'exportation,
-le transit, le commerce ou le courtage d'une arme chimique ancienne ou d'une arme chimique abandonnée.
+le transit, le transfert entre Etats membres de l'Union européenne, le commerce ou le courtage d'une arme chimique ancienne
+ou d'une arme chimique abandonnée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°98-467 du 17 juin 1998 - art. 63 (M)
 	  - Loi n°98-467 du 17 juin 1998 - art. 63 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cité par**:
 
@@ -12221,27 +12474,30 @@ leur bon fonctionnement.
 
 ###### Article L2342-68
 
-Sont punis de sept ans d'emprisonnement et de 100 000 euros d'amende :
+Sont punis de sept ans d'emprisonnement et de 100 000 euros d'amende : 
 
 1° L'exploitation d'une installation de fabrication de produits chimiques inscrits au tableau 1 à des fins médicales,
 pharmaceutiques, de recherche ou de protection sans autorisation lorsque celle-ci est obligatoire, ou en violation des
-conditions de l'autorisation délivrée ;
+conditions de l'autorisation délivrée ; 
 
-2° L'importation, l'exportation, le transit, le commerce ou le courtage de produits chimiques inscrits au tableau 1, à des
-fins médicales, pharmaceutiques, de recherche ou de protection, en provenance ou à destination d'un Etat non partie à la
-Convention de Paris.
+2° L'importation, l'exportation, le transit, le transfert entre Etats membres de l'Union européenne, le commerce ou le
+courtage de produits chimiques inscrits au tableau 1, à des fins médicales, pharmaceutiques, de recherche ou de protection,
+en provenance ou à destination d'un Etat non partie à la Convention de Paris.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°98-467 du 17 juin 1998 - art. 69 (M)
 	  - Loi n°98-467 du 17 juin 1998 - art. 69 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cité par**:
 
@@ -12251,34 +12507,33 @@ Convention de Paris.
 	  - Code de la défense. - art. L2342-80 (V)
 	  - Code de la défense. - art. L2342-81 (V)
 
-	**Cite**:
-
-	  - Convention de Paris 1993-01-13
-
 
 ###### Article L2342-69
 
-Sont punis de trois ans d'emprisonnement et de 45 000 Euros d'amende :
+Sont punis de trois ans d'emprisonnement et de 45 000 Euros d'amende : 
 
 1° La mise au point, la fabrication, l'acquisition, la cession, l'utilisation, la détention, la conservation ou le stockage
 de produits chimiques inscrits au tableau 1 réalisé à des fins médicales, pharmaceutiques, de recherche ou de protection sans
-autorisation ou en violation des autorisations délivrées ;
+autorisation ou en violation des autorisations délivrées ; 
 
-2° L'importation, l'exportation, le transit, le commerce ou le courtage, sans autorisation, de produits chimiques inscrits au
-tableau 1 réalisé à des fins médicales, pharmaceutiques, de recherche ou de protection en provenance ou à destination d'un
-Etat partie à la Convention de Paris.
+2° L'importation, l'exportation, le transit, le transfert entre Etats membres de l'Union européenne, le commerce ou le
+courtage, sans autorisation, de produits chimiques inscrits au tableau 1 réalisé à des fins médicales, pharmaceutiques, de
+recherche ou de protection en provenance ou à destination d'un Etat partie à la Convention de Paris.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°98-467 du 17 juin 1998 - art. 70 (M)
 	  - Loi n°98-467 du 17 juin 1998 - art. 70 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 27
 
 	**Cité par**:
 
@@ -12286,10 +12541,6 @@ Etat partie à la Convention de Paris.
 	  - Code de la défense. - art. L2342-77 (V)
 	  - Code de la défense. - art. L2342-80 (V)
 	  - Code de la défense. - art. L2342-81 (V)
-
-	**Cite**:
-
-	  - Convention de Paris 1993-01-13
 
 
 ###### Article L2342-70
@@ -13587,9 +13838,9 @@ loi, dans le cas contraire. La convention a été publiée par le décret n° 20
 ###### Article L2352-1
 
 La production, l'importation et l'exportation hors du territoire de l'Union européenne, le transfert entre Etats membres de
-l'Union européenne, le commerce, l'emploi, le transport et la conservation des produits explosifs sont subordonnés à un
-agrément technique et aux autorisations et contrôles nécessités par les exigences de la sécurité publique et de la défense
-nationale. 
+l'Union européenne, le commerce, l'emploi, le transport, la conservation et la destruction des produits explosifs sont
+subordonnés à un agrément technique et aux autorisations et contrôles nécessités par les exigences de la sécurité publique et
+de la défense nationale. 
 
 L'autorité administrative peut à tout moment suspendre, modifier, abroger ou retirer l'agrément technique et les
 autorisations d'importation et d'exportation hors du territoire de l'Union européenne ou de transfert entre Etats membres de
@@ -13637,7 +13888,7 @@ effectuées sont déterminées par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 15
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 28
 
 	**Cite**:
 
@@ -15325,30 +15576,27 @@ travail, nonobstant les dispositions du cinquième alinéa du I de cet article.
 	  - Code du travail - art. L322-4-7 (Ab)
 
 
-##### Chapitre VIII : Autres établissements publics à caractère administratif
+##### Chapitre VIII :  Foyer d'entraide de la légion étrangère
+
+##### Section 1 : Dispositions générales
 
 ###### Article L3418-1
 
-Les règles relatives aux missions et à l'organisation de l'Office national des anciens combattants et victimes de guerre sont
-définies par les articles L. 517 à L. 519 du code des pensions militaires d'invalidité et des victimes de la guerre.
+Le foyer d'entraide de la légion étrangère est un établissement public de l'Etat placé sous la tutelle du ministre de la
+défense. 
+
+L'activité du foyer d'entraide de la légion étrangère s'exerce au profit des militaires et des anciens militaires servant ou
+ayant servi à titre étranger, ainsi qu'à leurs familles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
 
 	**Cité par**:
 
 	  - Loi n°2013-1168 du 18 décembre 2013 - art. 45 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. L3419-1 (V)
 
 	**Cite**:
 
@@ -15357,6 +15605,180 @@ définies par les articles L. 517 à L. 519 du code des pensions militaires d'in
 
 ###### Article L3418-2
 
+Le foyer d'entraide de la légion étrangère assure les missions suivantes : 
+
+1° L'aide matérielle, administrative et financière aux militaires et aux anciens militaires servant ou ayant servi à titre
+étranger, ainsi qu'à leurs familles ; 
+
+2° L'accueil des militaires et des anciens militaires servant ou ayant servi à titre étranger en difficulté afin de leur
+offrir un accompagnement social, une adaptation à la vie active ou une aide à l'insertion sociale et professionnelle ; 
+
+3° L'accueil d'anciens militaires ayant servi à titre étranger handicapés ou âgés afin de leur offrir un soutien médico-
+social ; 
+
+4° La mise en œuvre de mesures de protection des majeurs ordonnées par l'autorité judiciaire à l'égard des anciens militaires
+ayant servi à titre étranger ; 
+
+5° Le maintien et la promotion de l'identité légionnaire, notamment par la réalisation et la vente de publications et
+d'objets de communication ; 
+
+6° Le soutien financier aux actions relatives à la mémoire de la légion étrangère ; 
+
+7° L'octroi de subventions au profit des personnes morales à but non lucratif agissant dans le domaine de l'action sociale ou
+médico-sociale à destination des militaires ou des anciens militaires servant ou ayant servi à titre étranger.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L528
+
+
+##### Section 2 : Organisation administrative et financière
+
+###### Article L3418-3
+
+Le foyer d'entraide de la légion étrangère est administré par un conseil d'administration présidé par le général commandant
+la légion étrangère. 
+
+Il comprend, en outre : 
+
+1° Des représentants de l'Etat, dont des représentants de la légion étrangère ; 
+
+2° Des représentants des bénéficiaires des prestations délivrées par l'établissement ; 
+
+3° Des membres nommés en raison de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L713-19
+
+
+###### Article L3418-4
+
+Le foyer d'entraide de la légion étrangère est dirigé par un directeur général nommé par arrêté du ministre de la défense,
+sur proposition du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3418-6 (VD)
+
+
+###### Article L3418-5
+
+Le foyer d'entraide de la légion étrangère n'a pas de but lucratif. Ses ressources sont constituées par : 
+
+1° Les subventions et prestations en nature que le foyer d'entraide de la légion étrangère peut recevoir de l'Etat, des
+collectivités territoriales et de toutes autres personnes publiques ou privées ; 
+
+2° Les revenus des biens meubles et immeubles propriété de l'établissement ; 
+
+3° Les dons et legs ; 
+
+4° Le produit du placement de ses fonds ; 
+
+5° Le produit des aliénations ; 
+
+6° Les recettes provenant de l'exercice de ses activités. 
+
+En outre, il peut souscrire des emprunts et recevoir des contributions financières des cercles et des foyers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+
+###### Article L3418-6
+
+Le foyer d'entraide de la légion étrangère observe, pour sa gestion financière et comptable, les règles du droit privé. Il
+n'est pas tenu de déposer ses fonds au Trésor.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+
+###### Article L3418-7
+
+Le personnel du foyer d'entraide de la légion étrangère comprend : 
+
+1° Des militaires affectés par ordre de mutation dans les conditions du droit commun et servant en position d'activité ; 
+
+2° Des personnels régis par le code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+
+##### Section 3 : Dispositions diverses
+
+###### Article L3418-8
+
+L'Etat met gratuitement à la disposition du foyer d'entraide de la légion étrangère les biens immobiliers nécessaires à
+l'accomplissement de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+
+###### Article L3418-9
+
+Un décret en Conseil d'Etat définit les modalités d'organisation et de fonctionnement du foyer d'entraide de la légion
+étrangère.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+
+##### Chapitre IX : Autres établissements publics à caractère administratif
+
+###### Article L3419-1
+
+Les règles relatives aux missions et à l'organisation de l'Office national des anciens combattants et victimes de guerre sont
+définies par les articles L. 517 à L. 519 du code des pensions militaires d'invalidité et des victimes de la guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. L3418-1 (T)
+
+
+###### Article L3419-2
+
 Les règles relatives aux missions et à l'organisation de l'Institution nationale des invalides sont définies par les articles
 L. 528 à L. 537 du code des pensions militaires d'invalidité et des victimes de la guerre.
 
@@ -15364,22 +15786,14 @@ L. 528 à L. 537 du code des pensions militaires d'invalidité et des victimes d
 
 	**Créé par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. L3419-2 (V)
-
-	**Cite**:
-
-	  - Code des pensions militaires d'invalidité et des victimes de la guerre. - art. L528
+	  - Code de la défense. - art. L3418-2 (T)
 
 
-###### Article L3418-3
+###### Article L3419-3
 
 Les règles relatives aux missions et à l'organisation de la Caisse nationale militaire de sécurité sociale sont définies par
 les articles L. 713-19 à L. 713-22 du code de la sécurité sociale.
@@ -15388,19 +15802,15 @@ les articles L. 713-19 à L. 713-22 du code de la sécurité sociale.
 
 	**Créé par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 44
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Loi n°2013-1168 du 18 décembre 2013 - art. 44
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. L3419-3 (V)
+	  - Code de la défense. - art. L3418-3 (T)
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L713-19
+	  - Code de la sécurité sociale. - art. L713-19 (V)
 
 
 #### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL
@@ -16130,6 +16540,28 @@ Lorsque les circonstances l'exigent, la liberté de circulation des militaires p
 	  - Code de la sécurité intérieure - art. R723-86 (VD)
 
 
+###### Article L4121-5-1
+
+Le temps de service des militaires mineurs ayant suivi avec succès un cursus de formation d'une des écoles préparatoires de
+la marine nationale et âgés de plus de dix-sept ans est limité à onze heures par jour lorsqu'ils sont embarqués.
+
+Pour chaque période de vingt-quatre heures, ils bénéficient d'une période minimale de repos de huit heures consécutives.
+
+Pour chaque période de sept jours, ils bénéficient d'une période minimale de repos de vingt-quatre heures consécutives.
+
+Sous réserve de disposer d'un temps de récupération ne pouvant être inférieur à huit heures par jour, les militaires mineurs
+ayant suivi avec succès un cursus de formation d'une des écoles préparatoires de la marine nationale et âgés de plus de dix-
+sept ans peuvent être tenus d'assurer un service de nuit lorsqu'ils sont embarqués. Est considéré comme service de nuit tout
+service de 22 heures à 6 heures. La durée de ces services ne peut dépasser quatre heures. Ils sont réservés aux seules
+activités strictement nécessaires au fonctionnement des bâtiments de la marine nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 42
+
+
 ###### Article L4121-6
 
 Les règles relatives à l'interdiction faite aux militaires de la gendarmerie en activité de service d'exercer les fonctions
@@ -16422,20 +16854,21 @@ Les modalités d'application du présent article sont fixées par décret au Con
 
 Les militaires participant à des opérations extérieures ainsi que leurs ayants cause bénéficient : 
 
-1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l' article L. 43, des articles
-L. 136 bis, L. 393 à L. 396, 
+1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l'article L. 43, des articles
+L. 136 bis, L. 253 ter,
+L. 393 à L. 396, 
 L. 461 à L. 490, 
-L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d' invalidité et des victimes de la guerre ; 
+L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
 
 2° Des dispositions prévues en matière de blessures de guerre et de délégation de solde ; 
 
-3° Des dispositions de l' article L. 37 du même code pour les blessures ou les maladies contractées au cours de ces
-opérations dès lors que sont remplies les conditions relatives à la nature ou à la gravité de l' infirmité ou des infirmités
-définies à cet article ; 
+3° Des dispositions de l'article L. 37 du même code pour les blessures ou les maladies contractées au cours de ces opérations
+dès lors que sont remplies les conditions relatives à la nature ou à la gravité de l'infirmité ou des infirmités définies à
+cet article ; 
 
-4° Des dispositions de l' article L. 36 du même code, lorsque les conditions définies à cet article sont remplies. 
+4° Des dispositions de l'article L. 36 du même code, lorsque les conditions définies à cet article sont remplies. 
 
-Le champ d' application de chaque opération est défini par arrêté interministériel.
+Le champ d'application de chaque opération est défini par arrêté interministériel.
 
 **Liens relatifs à cet article**
 
@@ -16487,7 +16920,7 @@ Le champ d' application de chaque opération est défini par arrêté interminis
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 34
 
 	**Cite**:
 
@@ -16496,6 +16929,7 @@ Le champ d' application de chaque opération est défini par arrêté interminis
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L136 bis
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L15
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L2
+	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L253 ter
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L3
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L36
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L37
@@ -16657,28 +17091,50 @@ militaires de la gendarmerie nommés dans les conditions prévues au I.
 ###### Article L4123-10
 
 Les militaires sont protégés par le code pénal et les lois spéciales contre les menaces, violences, voies de fait, injures,
-diffamations ou outrages dont ils peuvent être l'objet.
+diffamations ou outrages dont ils peuvent être l'objet. 
 
 L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent être l'objet à l'occasion de l'exercice de
 leurs fonctions et de réparer, le cas échéant, le préjudice qui en est résulté. Il est subrogé aux droits de la victime pour
-obtenir des auteurs des menaces ou attaques la restitution des sommes versées aux victimes.
+obtenir des auteurs des menaces ou attaques la restitution des sommes versées aux victimes. 
 
 Il peut exercer, aux mêmes fins, une action directe, au besoin par voie de constitution de partie civile, devant la
-juridiction pénale.
+juridiction pénale. 
 
 L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à
-l'occasion de faits qui n'ont pas le caractère d'une faute personnelle.
+l'occasion de faits qui n'ont pas le caractère d'une faute personnelle. 
 
-Le service compétent pour accorder la protection est celui dont relève le militaire à la date des faits en cause.
+Le service compétent pour accorder la protection est celui dont relève le militaire à la date des faits en cause. 
 
 En cas de poursuites exercées par un tiers contre des militaires pour faute de service sans que le conflit d'attribution ait
 été élevé, l'Etat doit, dans la mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a été commise,
-les couvrir des condamnations civiles prononcées contre eux.
+les couvrir des condamnations civiles prononcées contre eux. 
 
-Les conjoints, enfants et ascendants directs des militaires bénéficient de la protection de l'Etat lorsque, du fait des
-fonctions de ces derniers, ils sont victimes de menaces, violences, voies de fait, injures, diffamations ou outrages.
+Les conjoints, concubins, partenaires liés par un pacte civil de solidarité, enfants et ascendants directs des militaires
+bénéficient de la protection de l'Etat lorsque, du fait des fonctions de ces derniers, ils sont victimes de menaces,
+violences, voies de fait, injures, diffamations ou outrages. 
+
+Cette protection peut également être accordée, à sa demande, au conjoint, concubin ou partenaire lié par un pacte civil de
+solidarité qui engage une instance civile ou pénale contre les auteurs d'une atteinte volontaire à la vie du militaire du
+fait des fonctions de celui-ci. En l'absence d'action engagée par le conjoint, concubin ou partenaire lié par un pacte civil
+de solidarité, la protection peut être accordée aux enfants ou, à défaut, aux ascendants directs du militaire qui engagent
+une telle action. 
+
+Cette protection est également accordée, dans les mêmes conditions que celles prévues au huitième alinéa, aux ayants droit de
+l'agent civil relevant du ministère de la défense victime à l'étranger d'une atteinte volontaire à sa vie du fait de sa
+participation à une mission de soutien à l'exportation de matériel de défense. 
+
+Un décret en Conseil d'Etat précise les conditions et les limites de la prise en charge par l'Etat au titre de la protection
+des frais exposés dans le cadre d'instances civiles ou pénales par le militaire ou les ayants droit mentionnés au présent
+article. 
+
+Le présent article s'applique sans préjudice des dispositions de l'article L. 113-1 du code de la sécurité intérieure et de
+celles de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 11
 
 	**Cité par**:
 
@@ -16712,7 +17168,7 @@ fonctions de ces derniers, ils sont victimes de menaces, violences, voies de fai
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 71
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 35
 
 
 ###### Article L4123-11
@@ -16722,20 +17178,26 @@ sur le fondement du troisième alinéa de ce même article pour des faits non in
 fonctions que s'il est établi qu'ils n'ont pas accompli les diligences normales compte tenu de leurs compétences, du pouvoir
 et des moyens dont ils disposaient ainsi que des difficultés propres aux missions que la loi leur confie.
 
+Ces diligences normales sont appréciées en particulier au regard de l'urgence dans laquelle ils ont exercé leurs missions,
+des informations dont ils ont disposé au moment de leur intervention et des circonstances liées à l'action de combat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 16
 	  - Loi n°2005-270 du 24 mars 2005 - art. 16 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 31
 
 	**Cite**:
 
-	  - Code pénal - art. 121-3 (V)
+	  - Code pénal - art. 121-3
 
 
 ###### Article L4123-12
@@ -16753,19 +17215,24 @@ lesquelles sont définies les zones de défense hautement sensibles, les conditi
 pénétrer et les modalités de leur protection. Il précise les modalités des sommations auxquelles procède le militaire.
 
 II. - N'est pas pénalement responsable le militaire qui, dans le respect des règles du droit international et dans le cadre
-d'une opération militaire se déroulant à l'extérieur du territoire français, exerce des mesures de coercition ou fait usage
-de la force armée, ou en donne l'ordre, lorsque cela est nécessaire à l'accomplissement de sa mission.
+d'une opération mobilisant des capacités militaires, se déroulant à l'extérieur du territoire français ou des eaux
+territoriales françaises, quels que soient son objet, sa durée ou son ampleur, y compris la libération d'otages, l'évacuation
+de ressortissants ou la police en haute mer, exerce des mesures de coercition ou fait usage de la force armée, ou en donne
+l'ordre, lorsque cela est nécessaire à l'exercice de sa mission.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 17
 	  - Loi n°2005-270 du 24 mars 2005 - art. 17 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 31
 
 	**Cité par**:
 
@@ -16920,15 +17387,17 @@ de ces conseils sont fixés par décret en Conseil d'Etat.
 
 Les retraités militaires sont représentés au sein du Conseil supérieur de la fonction militaire.
 
+Le ministre de la défense communique aux commissions compétentes de chaque assemblée parlementaire un rapport annuel de
+synthèse des travaux du Conseil supérieur de la fonction militaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 18
 	  - Loi n°2005-270 du 24 mars 2005 - art. 18 (Ab)
 
 	**Cité par**:
@@ -16939,6 +17408,10 @@ Les retraités militaires sont représentés au sein du Conseil supérieur de la
 	  - Code de la défense. - art. L4144-1 (V)
 	  - Code de la défense. - art. R4124-1 (M)
 	  - Code des relations entre le public et l'adminis... - art. R*133-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 46
 
 
 #### TITRE III : DISPOSITIONS STATUTAIRES RELATIVES AUX DÉROULEMENTS DES CARRIÈRES
@@ -19716,7 +20189,7 @@ prévoit notamment les conditions de préavis et d'indemnisation des intéressé
 I.-Les limites d'âge et âges maximaux de maintien en première section des militaires sont : 
 
 1° Dans le corps militaire du contrôle général des armées au grade de contrôleur adjoint, de contrôleur et de contrôleur
-général, soixante-six ans.
+général, soixante-six ans. 
 
 L'âge maximal de maintien en première section est de soixante-sept ans ; 
 
@@ -19730,96 +20203,96 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 </td>
       <td width="102">
 
-OFFICIERS
+OFFICIERS 
 
-subalternes ou dénomination correspondante
+subalternes ou dénomination correspondante 
 
 </td>
       <td width="103">
 
-COMMANDANT
+COMMANDANT 
 
-ou dénomination correspondante
+ou dénomination correspondante 
 
 </td>
       <td width="113">
 
 LIEUTENANT-
 
-colonel ou dénomination correspondante
+colonel ou dénomination correspondante 
 
 </td>
       <td width="79">
 
-COLONEL
+COLONEL 
 
-ou
+ou 
 
-dénomination correspondante
+dénomination correspondante 
 
 </td>
       <td width="111">
 
-ÂGE MAXIMAL
+ÂGE MAXIMAL 
 
-de maintien en première section des officiers généraux
+de maintien en première section des officiers généraux 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
-officiers mécaniciens de l'air
+officiers mécaniciens de l'air 
 
 </td>
-      <td width="398" colspan="4" valign="bottom">
+      <td width="398" valign="bottom" colspan="4">
 
-59
-
-</td>
-      <td width="111" valign="bottom">
-
-63
+59 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="190">
+      <td valign="bottom" width="111">
 
-Officiers de gendarmerie
-
-</td>
-      <td width="318" valign="bottom" colspan="3">
-
-59
-
-</td>
-      <td valign="bottom" width="79">
-
-60
-
-</td>
-      <td width="111" valign="bottom">
-
-63
+63 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="190">
 
-Officiers de l'air
+Officiers de gendarmerie 
 
 </td>
-      <td width="205" colspan="2" valign="bottom">
+      <td valign="bottom" width="318" colspan="3">
 
-52
+59 
 
 </td>
-      <td width="192" valign="bottom" colspan="2">
+      <td width="79" valign="bottom">
 
-56
+60 
+
+</td>
+      <td width="111" valign="bottom">
+
+63 
+
+</td>
+    </tr>
+    <tr>
+      <td width="190" valign="top">
+
+Officiers de l'air 
+
+</td>
+      <td valign="bottom" width="205" colspan="2">
+
+52 
+
+</td>
+      <td valign="bottom" width="192" colspan="2">
+
+56 
 
 </td>
       <td valign="bottom" width="111">
@@ -19829,27 +20302,44 @@ Officiers de l'air
 </td>
     </tr>
     <tr>
+      <td width="190" valign="top">
+
+Commissaires des armées (1), officiers des corps techniques et administratifs, ingénieurs militaires des essences,
+administrateurs des affaires maritimes 
+
+</td>
+      <td valign="bottom" colspan="4" width="398">
+
+62 
+
+</td>
+      <td valign="bottom" width="111">
+
+64 
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="190">
 
-Officiers du cadre spécial, commissaires des armées, officiers des corps techniques et administratifs, ingénieurs militaires
-des essences, administrateurs des affaires maritimes
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes 
 
 </td>
       <td valign="bottom" width="398" colspan="4">
 
-62
+62 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
-64
+67 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="190">
 
-Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
+Militaires infirmiers et techniciens des hôpitaux des armées (officiers) 
 
 </td>
       <td colspan="4" width="398" valign="bottom">
@@ -19857,24 +20347,7 @@ Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 62
 
 </td>
-      <td valign="bottom" width="111">
-
-67
-
-</td>
-    </tr>
-    <tr>
-      <td width="190" valign="top">
-
-Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
-
-</td>
-      <td width="398" colspan="4" valign="bottom">
-
-62
-
-</td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 -
 
@@ -19884,17 +20357,17 @@ Militaires infirmiers et techniciens des hôpitaux des armées (officiers)
       <td valign="top" width="190">
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
-maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense
+maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense 
 
 </td>
-      <td colspan="4" valign="bottom" width="398">
+      <td colspan="4" width="398" valign="bottom">
 
-66
+66 
 
 </td>
       <td valign="bottom" width="111">
 
-67
+67 
 
 </td>
     </tr>
@@ -19902,15 +20375,16 @@ maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infr
       <td width="190" valign="top">
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
-sein de la trésorerie aux armées, aumôniers militaires
+sein de la trésorerie aux armées, aumôniers militaires, officiers spécialistes de l'armée de terre, officiers logisticiens
+des essences 
 
 </td>
-      <td colspan="4" width="398" valign="bottom">
+      <td width="398" valign="bottom" colspan="4">
 
 66
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 -
 
@@ -19936,100 +20410,100 @@ demande agréée, être maintenus en service au-delà de la limite d'âge par p�
       <td>
       </td><td>
 
-SERGENT
+SERGENT 
 
-ou dénomination correspondante
-
-</td>
-      <td>
-
-SERGENT-CHEF
-
-ou dénomination
-
-correspondante
+ou dénomination correspondante 
 
 </td>
       <td>
 
-ADJUDANT
+SERGENT-CHEF 
 
-ou dénomination
+ou dénomination 
 
-correspondante
+correspondante 
 
 </td>
       <td>
 
-ADJUDANT-CHEF
+ADJUDANT 
 
-ou dénomination
+ou dénomination 
 
-correspondante
+correspondante 
 
 </td>
-      <td>MAJOR</td>
+      <td>
+
+ADJUDANT-CHEF 
+
+ou dénomination 
+
+correspondante 
+
+</td>
+      <td>MAJORSous</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="bottom">
-
-Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant)
-
-</td>
-      <td colspan="2" align="center" valign="bottom">
-
-47
-
-</td>
       <td valign="bottom" align="center">
 
-52
+Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant) 
+
+</td>
+      <td colspan="2" valign="bottom" align="center">
+
+47 
 
 </td>
       <td align="center" valign="bottom">
 
-58
+52 
 
 </td>
       <td valign="bottom" align="center">
 
-59
+58 
+
+</td>
+      <td valign="bottom" align="center">
+
+59 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale
+Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale 
 
 </td>
-      <td align="center" valign="bottom" colspan="4">
+      <td align="center" colspan="4" valign="bottom">
 
-58 (y compris le grade de gendarme)
+58 (y compris le grade de gendarme) 
 
 </td>
       <td valign="bottom" align="center">
 
-59
+59 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Sous-officiers du personnel navigant de l'armée de l'air
+Sous-officiers du personnel navigant de l'armée de l'air 
 
 </td>
       <td align="center" colspan="3">
 
-47
+47 
 
 </td>
       <td align="center" colspan="2">
 
-52
+52 
 
 </td>
     </tr>
@@ -20037,18 +20511,18 @@ Sous-officiers du personnel navigant de l'armée de l'air
       <td>Infirmiers en soins généraux et spécialisés 
 
 </td>
-      <td colspan="5" align="center">62</td>
+      <td align="center" colspan="5">62Militaires</td>
     </tr>
     <tr>
       <td align="center">
 
-Militaires infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ceux du corps des infirmiers en soins
-généraux et spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
+infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ceux du corps des infirmiers en soins généraux et
+spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
 
 </td>
-      <td colspan="5" align="center" valign="bottom">
+      <td valign="bottom" colspan="5" align="center">
 
-59
+59 
 
 </td>
     </tr>
@@ -20058,14 +20532,14 @@ généraux et spécialisés, majors des ports (marine) et officiers mariniers de
 Sous-officiers du service des essences des armées
 
 </td>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 -
 
 </td>
       <td align="center" colspan="3">
 
-62
+62 
 
 </td>
     </tr>
@@ -20075,12 +20549,12 @@ Sous-officiers du service des essences des armées
 Fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, majors
 sous-chefs de musique (trois armées), sous-chefs de musique de carrière (trois armées), maîtres ouvriers (terre), maîtres
 ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière (air), commis greffiers et huissiers
-appariteurs
+appariteurs 
 
 </td>
       <td align="center" valign="bottom" colspan="5">
 
-66
+66 
 
 </td>
     </tr>
@@ -20127,7 +20601,7 @@ Militaires commissionnés
 </td>
       <td>
 
-17
+17 
 
 </td>
     </tr>
@@ -20139,7 +20613,7 @@ Militaires engagés
 </td>
       <td>
 
-27
+27 
 
 </td>
     </tr>
@@ -20168,6 +20642,11 @@ retraite.
 
 Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
 
+**Nota:**
+
+Conformément au II de l'article 40 de la loi n° 2013-1168 du 18 décembre 2013, le 1° du I entre en vigueur le 1er janvier
+2016.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -20191,7 +20670,7 @@ Cette prolongation de service est prise en compte au titre de la constitution et
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 68
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 40 (V)
 
 	**Cite**:
 
@@ -21890,17 +22369,21 @@ Sont applicables aux Terres australes et antarctiques françaises les dispositio
 
 ###### Article L5111-1
 
-Les établissements du ministère de la défense servant à la conservation, à la manipulation ou à la fabrication des poudres,
-munitions, artifices et explosifs bénéficiant des servitudes définies au présent chapitre sont désignés par décret, pris
-après enquête conduite selon les modalités définies par les articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause
-d'utilité publique.
+Les établissements relevant du ministère de la défense ou présentant un intérêt pour la défense nationale servant à la
+conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices et explosifs bénéficiant des servitudes
+définies au présent chapitre sont désignés par décret, pris après enquête conduite selon les modalités définies par les
+articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 49
 
 	**Cité par**:
 
@@ -21918,8 +22401,8 @@ d'utilité publique.
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-3
 
 
 ###### Article L5111-2
@@ -22041,15 +22524,15 @@ publique.
 
 ###### Article L5111-6
 
-Aucune construction de nature quelconque ne peut être réalisée à l'intérieur du polygone d'isolement sans l'autorisation du
-ministre de la défense.
+Aucune construction de nature quelconque ne peut être réalisée à l'intérieur du polygone d'isolement        sans autorisation
+de l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -22062,9 +22545,9 @@ ministre de la défense.
 	  - Code de la défense. - art. R5111-6 (VD)
 	  - Code de la défense. - art. R5111-7-1 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1929-08-08 art. 5
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 49
 
 
 ###### Article L5111-7

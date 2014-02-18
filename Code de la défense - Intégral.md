@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-02-17
+Version Consolidée au 2014-02-19
 
 # Partie législative
 
@@ -26949,20 +26949,21 @@ sécurité intérieure.
 
 ###### Article R*1311-25
 
-Le préfet de zone préside le comité de défense de zone.
+Le préfet de zone préside le comité de défense de zone. 
 
-Ce comité comprend le préfet délégué pour la défense et la sécurité, les préfets des départements, le directeur régional des
-finances publiques dont la circonscription comprend le chef-lieu de la zone de défense et de sécurité, l'officier général de
-zone de défense et de sécurité, s'il y a lieu le général commandant la région terre et l'amiral commandant la région
-maritime, le général commandant la défense aérienne et les opérations aériennes, le général commandant la gendarmerie pour la
-zone de défense et de sécurité, le chef d'état-major de zone, le ou les chefs de service de la police nationale désignés à
-cet effet par le préfet de zone de défense et de sécurité, les délégués de zone de défense et de sécurité représentant les
-services déconcentrés des ministères et le directeur général de l'agence régionale de santé de zone.
+Ce comité comprend le préfet délégué pour la défense et la sécurité, les  préfets des départements et, dans la zone de
+défense et de sécurité Sud, le préfet de police des Bouches-du-Rhône, le directeur régional des finances publiques dont la
+circonscription comprend le chef-lieu de la zone de défense et de sécurité, l'officier général de zone de défense et de
+sécurité, s'il y a lieu le général commandant la région terre et l'amiral commandant la région maritime, le général
+commandant la défense aérienne et les opérations aériennes, le général commandant la gendarmerie pour la zone de défense et
+de sécurité, le chef d'état-major de zone, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone de défense et de sécurité, les délégués de zone de défense et de sécurité représentant les services
+déconcentrés des ministères et le directeur général de l'agence régionale de santé de zone. 
 
 Le préfet de zone de défense et de sécurité peut également associer aux travaux du comité, en tant que de besoin, les chefs
 des services déconcentrés de l'Etat, les commandants de région et de groupement de gendarmerie, le ou les directeurs
 départementaux des services d'incendie et de secours intéressés et, le cas échéant, les représentants des collectivités
-territoriales.
+territoriales. 
 
 Le comité de défense de zone peut se réunir dans une formation restreinte de commission de défense économique dont la
 composition est arrêtée par le préfet de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est présidée
@@ -26976,7 +26977,7 @@ par le trésorier-payeur général dont la circonscription comprend le chef-lieu
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 14
+	  - Décret n°2014-134 du 17 février 2014 - art. 4
 
 	**Cité par**:
 
@@ -28732,98 +28733,6 @@ Ce délégué exerce au niveau local les fonctions prévues au deuxième alinéa
 
 
 ##### Section 3 : Organismes consultatifs
-
-##### Sous-section 1 : Comité national des secteurs d'activité d'importance vitale
-
-###### Article R1332-7
-
-Le comité national des secteurs d'activités d'importance vitale est présidé par le     secrétaire général de la défense et de
-la sécurité nationale. 
-
-Ce comité comprend : 
-
-1° Le haut fonctionnaire mentionné à l'article R. 1143-1 placé auprès de chacun des ministres coordonnateurs chargés d'un
-secteur d'activités d'importance vitale et du ministre chargé de l'outre-mer, ainsi que le représentant du ministre de la
-défense ; 
-
-2° Trois représentants des collectivités territoriales désignés, pour la durée de leur mandat électif, par le ministre de
-l'intérieur après consultation des associations représentatives d'élus locaux, dont : 
-
-a) Un conseiller régional ; 
-
-b) Un conseiller général ; 
-
-c) Un maire. 
-
-3° Un préfet de zone désigné par le ministre de l'intérieur ; 
-
-4° Dix personnalités désignées pour une durée de trois ans par le Premier ministre parmi les dirigeants d'opérateurs
-d'importance vitale. 
-
-Sur décision de son président, le comité peut entendre toute personnalité qualifiée. Lorsque l'ordre du jour le justifie, il
-entend un représentant des collectivités d'outre-mer désigné par le ministre chargé de l'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-212 du 23 février 2006 - art. 7 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-132 du 17 février 2014 - art. 6
-
-	**Cite**:
-
-	  - Code de la défense. - art. R1143-1
-
-
-###### Article R1332-8
-
-Le comité se réunit au moins une fois par an sur convocation de son président, qui détermine l'ordre du jour de la réunion.
-Son secrétariat est assuré par le     secrétariat général de la défense et de la sécurité nationale. 
-
-Les membres du comité sont tenus au secret des délibérations et des informations dont ils ont connaissance à l'occasion de
-leurs travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-212 du 23 février 2006 - art. 7 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-132 du 17 février 2014 - art. 6
-
-
-###### Article R1332-9
-
-Le comité est informé :
-
-1° De l'état de la menace concernant les secteurs d'activités d'importance vitale ;
-
-2° De l'état d'avancement des plans de sécurité d'opérateur d'importance vitale et des plans particuliers de protection.
-
-Le comité peut être saisi de toute question jugée utile par son président. Il émet des recommandations, notamment sur les
-questions intéressant les relations entre les pouvoirs publics et les opérateurs d'importance vitale dans la mise en oeuvre
-des mesures relatives à la sécurité des secteurs d'activités d'importance vitale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-212 2006-02-23 art. 7 al. 12 à 15
-	  - Décret n°2006-212 du 23 février 2006 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2014-132 du 17 février 2014 - art. 6
-
 
 ##### Sous-section 2 : Commission interministérielle de défense et de sécurité des secteurs d'activité d'importance vitale
 
@@ -34912,8 +34821,7 @@ susceptibles d'être réutilisés directement ou après traitement.
 ###### Article D1337-14
 
 Pour l'exécution de leur mission, les ministres chargés de l'industrie et du commerce disposent d'un organe de direction, le
-commissariat général à la mobilisation industrielle                     et d'un organe consultatif, le comité de mobilisation
-industrielle.
+commissariat général à la mobilisation industrielle.
 
 **Liens relatifs à cet article**
 
@@ -34927,7 +34835,7 @@ industrielle.
 
 	**Modifié par**:
 
-	  - Décret n°2013-420 du 23 mai 2013 - art. 31 (V)
+	  - Décret n°2014-132 du 17 février 2014 - art. 5
 
 	**Cité par**:
 
@@ -34965,7 +34873,7 @@ Le commissaire général à la mobilisation industrielle est chargé de prépare
 de guerre l'activité des entreprises industrielles. 
 
 Au titre des délégations prévues à l'article D. 1142-21, il dresse le plan d'emploi de ces entreprises pour le temps de
-guerre et, après avis du comité de mobilisation industrielle, le soumet à l'approbation du ministre chargé de l'industrie. 
+guerre et le soumet à l'approbation du ministre chargé de l'industrie. 
 
 En liaison avec les ministres intéressés : 
 
@@ -34989,32 +34897,9 @@ participe en tant que de besoin.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
-
-
-###### Article D1337-17
-
-Au titre des délégations mentionnées à l'article D. 1142-21, le comité de mobilisation industrielle assiste le ministre
-chargé de l'industrie. Sa composition, son organisation et ses attributions sont fixées, dès le temps de paix, par arrêtés du
-Premier ministre, pris sur proposition du ministre de la défense et des ministres chargés de l'économie et de l'industrie. Le
-comité de mobilisation industrielle est présidé par le commissaire général. La composition de ce comité peut être restreinte
-en temps de paix.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-257 du 10 mars 1954 - art. 2 (Ab)
-
-	**Codifié par**:
-
 	  - Décret n°2007-586 du 23 avril 2007
 
 	**Modifié par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 31 (V)
-
-	**Abrogé par**:
 
 	  - Décret n°2014-132 du 17 février 2014 - art. 5
 

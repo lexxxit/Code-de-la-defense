@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-04-03
+Version Consolidée au 2014-05-01
 
 # Partie législative
 
@@ -57471,15 +57471,16 @@ gendarmerie relève du directeur général de la gendarmerie nationale. Il exerc
 sont subordonnées à titre permanent ou temporaire dans les conditions prévues par le titre 2 du livre II de la première
 partie du présent code.
 
-Le commandant de la région de gendarmerie situé au siège de la zone de défense dispose d'attributions particulières définies
-par arrêté du ministre de l'intérieur. Il peut recevoir délégation de signature du préfet de zone en matière d'ordonnancement
-secondaire pour les formations de gendarmerie nationale de son ressort.
+Le commandant de la région de gendarmerie situé au siège de la zone de défense est, pour l'exercice de ses attributions en
+matière de sécurité intérieure, placé sous l'autorité du préfet de zone de défense et de sécurité. Il peut recevoir de ce
+dernier délégation de signature en matière d'ordonnancement secondaire pour les formations de gendarmerie nationale de son
+ressort. Il dispose d'attributions particulières définies par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1718 du 30 décembre 2009 - art. 1
+	  - Décret n°2014-296 du 6 mars 2014 - art. 7
 
 
 ###### Article R3225-9

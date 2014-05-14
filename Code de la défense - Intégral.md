@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-05-01
+Version Consolidée au 2014-05-15
 
 # Partie législative
 
@@ -23262,6 +23262,29 @@ assuré par le secrétaire général de la défense et de la sécurité national
 
 
 ##### Sous-section 2 : Conseil national du renseignement
+
+###### Article D1122-8-1
+
+Les services spécialisés de renseignement, mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958
+relative au fonctionnement des assemblées parlementaires, sont la direction générale de la sécurité extérieure, la direction
+de la protection et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la
+sécurité intérieure, le service à compétence nationale dénommé " direction nationale du renseignement et des enquêtes
+douanières " et le service à compétence nationale dénommé " traitement du renseignement et action contre les circuits
+financiers clandestins ". 
+
+Ces services forment avec le coordonnateur national du renseignement et l'académie du renseignement la communauté française
+du renseignement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+
+	**Créé par**:
+
+	  - Décret n°2014-474 du 12 mai 2014 - art. 1
+
 
 ###### Article R*1122-6
 

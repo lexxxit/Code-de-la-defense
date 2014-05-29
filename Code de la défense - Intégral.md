@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-05-18
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -26978,8 +26978,8 @@ sécurité intérieure.
 
 Le préfet de zone préside le comité de défense de zone. 
 
-Ce comité comprend le préfet délégué pour la défense et la sécurité, les  préfets des départements et, dans la zone de
-défense et de sécurité Sud, le préfet de police des Bouches-du-Rhône, le directeur régional des finances publiques dont la
+Ce comité comprend le préfet délégué pour la défense et la sécurité, les préfets des départements et, dans la zone de défense
+et de sécurité Sud, le préfet de police des Bouches-du-Rhône, le directeur régional des finances publiques dont la
 circonscription comprend le chef-lieu de la zone de défense et de sécurité, l'officier général de zone de défense et de
 sécurité, s'il y a lieu le général commandant la région terre et l'amiral commandant la région maritime, le général
 commandant la défense aérienne et les opérations aériennes, le général commandant la gendarmerie pour la zone de défense et
@@ -26994,7 +26994,7 @@ territoriales.
 
 Le comité de défense de zone peut se réunir dans une formation restreinte de commission de défense économique dont la
 composition est arrêtée par le préfet de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est présidée
-par le trésorier-payeur général dont la circonscription comprend le chef-lieu de la zone.
+par le   directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone.
 
 **Liens relatifs à cet article**
 
@@ -27004,7 +27004,7 @@ par le trésorier-payeur général dont la circonscription comprend le chef-lieu
 
 	**Modifié par**:
 
-	  - Décret n°2014-134 du 17 février 2014 - art. 4
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cité par**:
 
@@ -36679,11 +36679,11 @@ Pour l'application du présent code dans les départements d'outre-mer :
 
 2° Le deuxième alinéa de l'article R. * 1311-25 est remplacé par les dispositions suivantes : 
 
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
-fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
-général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
-zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
-police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. "
+" Ce comité comprend les préfets des régions et des départements, le            directeur régional des finances publiques
+dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone de défense et de sécurité. "
 
 **Liens relatifs à cet article**
 
@@ -36693,7 +36693,7 @@ police nationale désignés à cet effet par le préfet de zone de défense et d
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cite**:
 
@@ -37114,21 +37114,17 @@ remplacés par les mots : " et les commandants territoriaux de la gendarmerie na
 
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
-fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
-général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
-zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
-police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. "
+" Ce comité comprend les préfets des régions et des départements, le            directeur régional des finances publiques
+dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone de défense et de sécurité. "
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 28
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. R152-3 (VD)
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cite**:
 
@@ -37408,11 +37404,11 @@ Pour l'application de la présente partie du code dans les îles Wallis et Futun
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
 " Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis
-et Futuna, le trésorier-payeur général ou l'administrateur général des finances publiques exerçant la fonction de directeur
-local des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant
-supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a
-lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police
-nationale désignés à cet effet par le préfet de zone. " ; 
+et Futuna, le                    directeur chargé de la direction des finances publiques des îles Wallis et Futuna dont la
+circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone. " ; 
 
 3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par les dispositions suivantes : 
 
@@ -37427,7 +37423,7 @@ localement.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cite**:
 
@@ -37722,16 +37718,15 @@ avec l'autorité sanitaire et sociale compétente localement ;
 territoriales mentionné au 7° de l'article R. * 1311-6 est remplacée par la référence à l'article 27 de la loi organique n°
 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
 
-b) (Supprimé)
+b) (Supprimé) 
 
 c) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-" Ce comité comprend le haut-commissaire de la République en Polynésie française, le trésorier-payeur général ou
-l'administrateur général des finances publiques exerçant la fonction de directeur local des finances publiques dont la
-circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
-gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
-commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
-préfet de zone. " 
+" Ce comité comprend le haut-commissaire de la République en Polynésie française, le                    directeur chargé de
+la direction des finances publiques de la Polynésie française  dont la circonscription comprend le chef-lieu de la zone,
+l'officier général commandant supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense, le chef
+d'état-major de zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs
+de service de la police nationale désignés à cet effet par le préfet de zone. " 
 
 3° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : " la loi n° 2004-811 du 13 août 2004 de modernisation
 de la sécurité civile " sont remplacés par les mots : " l'ordonnance n° 2006-173 du 15 février 2006 portant actualisation et
@@ -37743,6 +37738,11 @@ fonctionnaire de zone et de sécurité, représente le commissaire aux transport
 c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
 sécurité civile est remplacée par la référence à l'article 16 de l'ordonnance n° 2006-173 du 15 février 2006 portant
 actualisation et adaptation du droit applicable en matière de sécurité civile en Polynésie française.
+
+**Nota:**
+
+Les articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 ont été codifiés aux articles L742-11 à L742-13 et L742-15 du
+code de la sécurité intérieure par l'ordonnance n° 2012-351 du 12 mars 2012.
 
 **Liens relatifs à cet article**
 
@@ -37762,7 +37762,7 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cité par**:
 
@@ -38065,16 +38065,16 @@ actualisation et adaptation du droit applicable en matière de sécurité civile
 
 3° Au livre III : 
 
-a) (Supprimé)
+a) (Supprimé) 
 
 b) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
 " Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis
-et Futuna, le trésorier-payeur général ou l'administrateur général des finances publiques exerçant la fonction de directeur
-local des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant
-supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a
-lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police
-nationale désignés à cet effet par le préfet de zone. " ; 
+et Futuna, le                    directeur chargé de la direction des finances publiques de la Nouvelle-Calédonie dont la
+circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au chef-lieu de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone. " ; 
 
 c) Le deuxième alinéa de l'article R. * 1311-33 est remplacé par l'alinéa suivant : 
 
@@ -38085,6 +38085,11 @@ d) Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 
 territoriales est remplacée par les dispositions prévues par le statut de la collectivité ayant le même objet applicables
 localement.
 
+**Nota:**
+
+Les articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 ont été codifiés aux articles L742-11 à L742-13 et L742-15 du
+code de la sécurité intérieure par l'ordonnance n° 2012-351 du 12 mars 2012.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -38092,7 +38097,6 @@ localement.
 	  - Ordonnance n°2006-172 du 15 février 2006
 	  - Code de la défense. - art. R*1142-22
 	  - Code de la défense. - art. R*1311-25
-	  - Code de la défense. - art. R*1311-3
 	  - Code de la défense. - art. R*1311-33
 	  - Code de la défense. - art. R*1311-36
 	  - Code de la défense. - art. R*1336-1
@@ -38101,7 +38105,7 @@ localement.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cité par**:
 
@@ -38380,11 +38384,11 @@ remplacés par les mots : " et les commandants territoriaux de la gendarmerie na
 
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la
-fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier
-général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de
-zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la
-police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. " ; 
+" Ce comité comprend les préfets des régions et des départements, le            directeur régional des finances publiques
+dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la
+gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le
+commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le
+préfet de zone de défense et de sécurité. " ; 
 
 3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par l'alinéa suivant : 
 
@@ -38398,11 +38402,11 @@ territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août
 
 	**Cite**:
 
-	  - Loi n°55-1052 du 6 août 1955 (V)
+	  - Loi n°55-1052 du 6 août 1955
 	  - Code de la défense. - art. R*1311-24
-	  - Code de la défense. - art. R*1311-25 (V)
-	  - Code de la défense. - art. R*1311-33 (V)
-	  - Code de la défense. - art. R*1311-36 (V)
+	  - Code de la défense. - art. R*1311-25
+	  - Code de la défense. - art. R*1311-33
+	  - Code de la défense. - art. R*1311-36
 
 	**Anciens textes**:
 
@@ -38410,7 +38414,7 @@ territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 36
+	  - Décret n°2014-552 du 27 mai 2014 - art. 6
 
 	**Cité par**:
 
@@ -39098,7 +39102,7 @@ Le commandant militaire du département ou de la collectivité territoriale en e
 
 La commission comprend en outre : 
 
-1° Le trésorier-payeur général ou le fonctionnaire en tenant lieu ; 
+1° Le directeur des finances publiques, régional ou chargé d'une direction locale ou son représentant ; 
 
 2° Le commissaire de l'armée de terre, le commissaire de la marine ou le commissaire de l'air territorialement compétent ; 
 
@@ -39123,7 +39127,7 @@ participer à titre consultatif aux travaux de cette commission.
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 
 ###### Article R1682-4
@@ -42704,7 +42708,7 @@ toutefois excéder la valeur des travaux, appréciée au jour de la décision fi
 ###### Article R2234-53
 
 L'indemnité de plus-value se compense, de plein droit, avec l'indemnité qui peut être due au propriétaire par l'Etat pour
-détérioration de l'immeuble dépassant celle que comporte l'usage normal.
+détérioration de l'immeuble dépassant celle que comporte l'usage normal. 
 
 L'indemnité ou la partie de l'indemnité de plus-value ainsi compensée s'impute sur les premières annuités dues par le
 propriétaire, lesquelles sont calculées compte tenu de l'escompte de 1 % prévu à l'article R. 2234-55. 
@@ -42712,7 +42716,8 @@ propriétaire, lesquelles sont calculées compte tenu de l'escompte de 1 % prév
 La créance de l'Etat au titre de la plus-value est liquidée par l'administration chargée du règlement des indemnités
 d'occupation. 
 
-Le service des domaines est chargé du recouvrement de l'indemnité de plus-value. 
+Le directeur départemental ou, le cas échéant, régional des finances publiques est chargé du recouvrement de l'indemnité de
+plus-value. 
 
 Le cas échéant, les poursuites sont diligentées par ses soins conformément aux dispositions des articles L. 2323-4 à L.
 2323-6 du code général de la propriété des personnes publiques. 
@@ -42723,13 +42728,14 @@ de l'immeuble, compte non tenu des travaux exécutés et du prix de vente du ter
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2323-4 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2323-4
+	  - Code de la défense. - art. R2234-55 (V)
 
 	**Cité par**:
 
@@ -42793,25 +42799,25 @@ Le propriétaire qui, dans le cas prévu au deuxième alinéa de l'article L. 22
 une offre de vente à l'administration liquidatrice de l'indemnité par lettre recommandée avec demande d'avis de réception. 
 
 Cette offre est, à peine de forclusion, souscrite dans les trois mois de la notification à l'intéressé de la décision
-définitive fixant le montant de l'indemnité de plus-value ; cependant, le ministre chargé de l'économie et des finances peut
-relever de cette déchéance le propriétaire qui justifie n'avoir pu agir dans le délai prescrit. 
+définitive fixant le montant de l'indemnité de plus-value ; cependant, le ministre chargé du budget peut relever de cette
+déchéance le propriétaire qui justifie n'avoir pu agir dans le délai prescrit. 
 
-La décision d'acquérir est prise par le ministre chargé de l'économie et des finances après consultation du service des
-domaines.L'acte d'acquisition est passé par le service des domaines. 
+La décision d'acquérir est prise par le ministre chargé du budget après consultation de l'administration chargée des
+domaines. L'acte d'acquisition est passé par l'administration chargée des domaines. 
 
-Si le ministre chargé de l'économie et des finances décide de ne pas réaliser l'acquisition, l'administration liquidatrice de
-l'indemnité notifie cette décision au propriétaire et l'informe que la créance du Trésor est ramenée à 50 % de la valeur
-vénale de l'immeuble, compte tenu des travaux exécutés.
+Si le ministre chargé du budget décide de ne pas réaliser l'acquisition, l'administration liquidatrice de l'indemnité notifie
+cette décision au propriétaire et l'informe que la créance du Trésor est ramenée à 50 % de la valeur vénale de l'immeuble,
+compte tenu des travaux exécutés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2234-14 (V)
+	  - Code de la défense. - art. L2234-14
 
 
 ###### Article R2234-57
@@ -42870,29 +42876,30 @@ transfert de la propriété, déduction faite de la plus-value apportée par les
 d'amortissement dans l'indemnité d'occupation. S'il s'agit d'un immeuble bâti, ce prix tient compte de la valeur vénale du
 terrain.
 
-Lorsqu'il y a lieu à consultation du service des domaines, cet organisme se prononce uniquement sur l'affectation qu'il
-convient de donner à l'immeuble. L'acte d'acquisition est passé par le service des domaines.
+Lorsqu'il y a lieu à consultation de l'administration chargée des domaines, cet organisme se prononce uniquement sur
+l'affectation qu'il convient de donner à l'immeuble. L'acte d'acquisition est passé par l'administration chargée des
+domaines.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 
 ###### Article R2234-60
 
 L'intention de l'Etat de procéder au recouvrement de l'indemnité de plus-value est notifiée au propriétaire par
-l'administration liquidatrice de l'indemnité, par lettre recommandée avec avis de réception.
+l'administration liquidatrice de l'indemnité, par lettre recommandée avec avis de réception. 
 
-Le service des domaines, à la demande de l'administration liquidatrice de l'indemnité, fait procéder à l'inscription de
-l'hypothèque de l'Etat.
+Le  directeur départemental ou, le cas échéant, régional des finances publiques, à la demande de l'administration
+liquidatrice de l'indemnité, fait procéder à l'inscription de l'hypothèque de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 
 ###### Article R2234-61
@@ -43499,13 +43506,13 @@ demande.
 ###### Article R2234-81
 
 Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de
-réquisitions de services comportant des prestations immobilières, elle est composée de douze membres : 
+réquisitions de services comportant des prestations immobilières, elle est composée de dix membres : 
 
 1° Un membre de l'administration préfectorale, président ; 
 
-2° Le directeur des services fiscaux du département (contributions directes et cadastre) ou son représentant ; 
+2° Le directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant ; 
 
-3° Le directeur des services fiscaux du département (contributions indirectes) ou son représentant ; 
+3° Abrogé ; 
 
 4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ; 
 
@@ -43530,11 +43537,11 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2234-77 (V)
+	  - Code de la défense. - art. R2234-77
 
 	**Cité par**:
 
@@ -51597,6 +51604,23 @@ Il en est de même en cas de survol au moyen d'un parachute.
 
 ### LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER
 
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON
+
+##### Chapitre unique
+
+###### Article R2421-1
+
+Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon, la référence au " directeur départemental ou, le
+cas échéant, régional des finances publiques  "   est remplacée par la référence au " directeur chargé de la direction locale
+des finances publiques de Saint-Pierre-et-Miquelon ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
+
+
 #### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE
 
 ##### Chapitre unique
@@ -51871,13 +51895,16 @@ ainsi :
 
 1° La référence au département est remplacée par la référence à la Polynésie française ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat.
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques "   est remplacée par la
+référence au " directeur chargé de la direction locale des finances publiques de la Polynésie française ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE
@@ -52020,13 +52047,16 @@ ainsi :
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat.
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
+
+3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques  "   est remplacée par la
+référence au " directeur chargé de la direction locale des finances publiques de la Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES
@@ -52316,18 +52346,19 @@ réquisitions prévues aux articles R. 2234-77 et R. 2234-81.
 ###### Article R2491-6
 
 Pour l'application de l'article R. 2234-21, la valeur de l'ensemble des éléments de l'actif requis est fournie sur demande
-aux autorités chargées du règlement des réquisitions et à la commission d'évaluation par le trésorier-payeur général, en
-liaison, en tant que de besoin, avec les services d'Etat ou territoriaux compétents.
+aux autorités chargées du règlement des réquisitions et à la commission d'évaluation par le   directeur départemental ou, le
+cas échéant, régional des finances publiques, en liaison, en tant que de besoin, avec les services d'Etat ou territoriaux
+compétents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2234-21 (V)
+	  - Code de la défense. - art. R2234-21
 
 
 ###### Article R2491-7
@@ -52357,21 +52388,21 @@ taux définis à l'alinéa précédent.
 ###### Article R2491-8
 
 Pour l'application de l'article R. 2234-53, la créance de l'Etat au titre de la plus-value prévue par l'article L. 2234-14
-est recouvrée par le service local du Trésor. 
+est recouvrée par la direction générale des finances publiques. 
 
-Le cas échéant, les poursuites sont diligentées par les soins du trésorier-payeur général selon les règles applicables dans
-le territoire au recouvrement des créances de l'Etat.
+Le cas échéant, les poursuites sont diligentées par les soins du directeur départemental ou, le cas échéant, régional des
+finances publiques selon les règles applicables dans le territoire au recouvrement des créances de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-551 du 27 mai 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2234-14 (V)
-	  - Code de la défense. - art. R2234-53 (V)
+	  - Code de la défense. - art. L2234-14
+	  - Code de la défense. - art. R2234-53
 
 
 ###### Article R2491-9

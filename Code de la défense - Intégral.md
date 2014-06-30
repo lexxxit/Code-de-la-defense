@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-06-04
+Version Consolidée au 2014-07-01
 
 # Partie législative
 
@@ -34033,8 +34033,8 @@ commandement militaire.
 
 ###### Article D1336-40
 
-Le chef d'état-major de l'armée de terre est chargé de l'organisation et de la mise en oeuvre du service militaire des
-chemins de fer.
+Le chef d'état-major des armées est responsable de l'organisation et de la mise en œuvre du service militaire des chemins de
+fer.
 
 **Liens relatifs à cet article**
 
@@ -34044,11 +34044,15 @@ chemins de fer.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
 
 	**Cité par**:
 
 	  - Décret n°2014-620 du 13 juin 2014 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-620 du 13 juin 2014 - art. 1
 
 
 ###### Article D1336-41
@@ -59370,31 +59374,32 @@ définies par arrêté du ministre de la défense.
 
 L'armée de l'air comprend différents services : 
 
-1° La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense ; 
+1° La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense dont
+les attributions sont fixées par les articles R. 3233-20 à R. 3233-28 du présent code ; 
 
-2° Le service industriel de l'aéronautique ; 
+2° Le service industriel de l'aéronautique dont les attributions sont fixées par décret ; 
 
-3° (Supprimé). 
-
-Les attributions des services mentionnés aux 1° et 2° ci-dessus sont fixées par décret. 
-
-Chacun de ces services est placé sous l'autorité d'un directeur central dont les responsabilités et les compétences sont
-fixées conformément aux dispositions des articles R. 3231-1 à R. 3231-11 du présent code. 
+Chacun de ces services est placé sous l'autorité d'un directeur central. 
 
 Outre une direction centrale, ils peuvent comprendre des établissements et des organismes. 
 
 Des éléments des services peuvent être rattachés aux commandements ou peuvent être placés de façon occasionnelle sous leur
 autorité.
 
+**Nota:**
+
+Décret n° 2014-480 du 13 mai 2014 article 8 : les présentes dispositions entrent en vigueur à la date d'installation du
+conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du deuxième mois suivant celui de sa publication.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - Décret n°2014-480 du 13 mai 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1
+	  - Code de la défense. - art. R3233-20 (VD)
 
 
 ##### Section 4 : Relations entre commandements et services
@@ -60642,21 +60647,43 @@ Le personnel peut provenir d'une ou de plusieurs armées, directions ou services
 ###### Article R3233-20
 
 La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (SIMMAD)
-relève du chef d'état-major de l'armée de l'air.
+relève du chef d'état-major de l'armée de l'air. 
 
 Pour l'exercice de leurs attributions en matière de maintien en condition opérationnelle des matériels aéronautiques de la
 défense, le délégué général pour l'armement, les chefs d'état-major d'armée et le directeur général de la gendarmerie
-nationale disposent de la SIMMAD.
+nationale disposent de la SIMMAD. 
+
+Les responsabilités et les compétences du directeur central de la structure intégrée du maintien en condition opérationnelle
+des matériels aéronautiques du ministère de la défense sont fixées conformément aux dispositions des articles R. 3231-1 à R.
+3231-11 du présent code.
+
+**Nota:**
+
+Décret n° 2014-480 du 13 mai 2014 article 8 : les présentes dispositions entrent en vigueur à la date d'installation du
+conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du deuxième mois suivant celui de sa publication.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2014-480 du 13 mai 2014 - art. 5
 
 	**Cité par**:
 
 	  - Arrêté du 9 février 2016 - art. 1 (V)
+	  - Code de la défense. - art. R3224-8 (VD)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3231-1
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-30 (V)
 
 
 ###### Article R3233-21
@@ -60760,7 +60787,7 @@ aéronautiques ;
 2° Etablit l'inventaire des rechanges et prestations nécessaires au maintien en condition opérationnelle des matériels
 aéronautiques et participe à l'ajustement entre les objectifs et l'enveloppe financière correspondante ; 
 
-3° Gère les crédits qui lui sont alloués et rend compte des résultats obtenus lors du conseil de gestion du service ; 
+3° Gère les crédits mis à sa disposition et rend compte des résultats obtenus lors du conseil de gestion du service ; 
 
 4° Passe les marchés de prestations et de matériels de maintien en condition opérationnelle ; 
 
@@ -60784,20 +60811,33 @@ cohérence avec les instructions d'achat des armées et de la gendarmerie nation
 8° Définit sa politique de qualité en concertation avec les services compétents de la direction générale de l'armement et en
 cohérence avec les politiques de qualité des armées et de la gendarmerie nationale ; 
 
-9° Gère les stocks de rechanges et les outillages spécifiques appartenant à l'Etat, hormis ceux du service de la maintenance
-aéronautique. 
+9° Gère les stocks de rechanges et les outillages spécifiques appartenant à l'Etat, hormis ceux du service industriel de
+l'aéronautique. 
 
-Elle est associée au processus d'approvisionnement du service de la maintenance aéronautique.
+Elle est associée au processus d'approvisionnement du service industriel de l'aéronautique.
+
+**Nota:**
+
+Décret n° 2014-480 du 13 mai 2014 article 8 : les présentes dispositions entrent en vigueur à la date d'installation du
+conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du deuxième mois suivant celui de sa publication.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art. 5
+	  - Décret n°2014-480 du 13 mai 2014 - art. 6
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-34 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3233-23 (V)
+	  - Code de la défense. - art. R3233-23
 
 
 ###### Article R3233-25
@@ -64805,42 +64845,42 @@ assure l'intérim des fonctions de directeur en cas de vacance du poste.
 
 ###### Article R3412-14
 
-I. ― Les cercles et les foyers couvrent l'ensemble de leurs dépenses par des ressources qui comprennent :
+I. ― Les cercles et les foyers couvrent l'ensemble de leurs dépenses par des ressources qui comprennent : 
 
-1° Les participations de l'Etat aux frais de fonctionnement ;
+1° Les participations de l'Etat aux frais de fonctionnement ; 
 
-2° Les recettes relatives aux prestations ;
+2° Les recettes relatives aux prestations ; 
 
 3° Les secours, avances ou prêts des fonds d'entraide constitués des versements des autres cercles et foyers selon les
-instructions ministérielles ;
+instructions ministérielles ; 
 
-4° Les dons et legs ;
+4° Les dons et legs ; 
 
-5° Les produits des aliénations de leurs biens propres ;
+5° Les produits des aliénations de leurs biens propres ; 
 
-6° La contribution de l'Etat à l'alimentation des cadres et des militaires du rang dans les cercles mixtes.
+6° La contribution de l'Etat à l'alimentation des cadres et des militaires du rang dans les cercles mixtes. 
 
-II. ― Les fonds excédant leurs dépenses de fonctionnement ne peuvent être employés qu'à :
+II. ― Les fonds excédant leurs dépenses de fonctionnement ne peuvent être employés qu'à : 
 
-1° L'amélioration de la qualité des services ;
+1° L'amélioration de la qualité des services ; 
 
-2° L'équipement des locaux d'accueil ;
+2° L'équipement des locaux d'accueil ; 
 
-3° La constitution de fonds de secours au profit de leurs membres ;
+3° La constitution de fonds de secours au profit de leurs membres ; 
 
-4° La constitution de réserves dans les limites fixées par l'autorité de tutelle ;
+4° La constitution de réserves dans les limites fixées par l'autorité de tutelle ; 
 
 5° La constitution de fonds d'entraide au profit des autres cercles et foyers pour le financement d'actions au profit direct
-de l'ensemble des membres, à l'exception de dépenses de prestige ou de représentation ;
+de l'ensemble des membres, à l'exception de dépenses de prestige ou de représentation ; 
 
-6° L'octroi de dons à des fondations œuvrant au profit de la communauté militaire avec l'accord de l'autorité exerçant le
-pouvoir de tutelle et dans les limites qu'elle aura fixées.
+6° L'octroi de dons à des établissements publics ou à des fondations œuvrant au profit de la communauté militaire avec
+l'accord de l'autorité exerçant le pouvoir de tutelle et dans les limites qu'elle aura fixées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2014-562 du 30 mai 2014 - art. 2
 
 
 ###### Article R3412-15
@@ -69676,6 +69716,281 @@ juillet 1992 relatif aux régies de recettes et aux régies d'avances des organi
 	**Créé par**:
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+
+
+##### Chapitre VIII : Foyer d'entraide de la Légion étrangère
+
+##### Section 1 : Dispositions générales
+
+###### Article R3418-1
+
+Le siège du foyer d'entraide de la Légion étrangère est situé à Aubagne (Bouches-du-Rhône).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+##### Section 2 : Organisation administrative et financière
+
+###### Article R3418-2
+
+Le foyer d'entraide de la Légion étrangère est administré par un conseil d'administration présidé par l'officier général
+commandant la Légion étrangère. En cas d'absence ou d'empêchement, les fonctions de président du conseil d'administration
+sont exercées par l'officier adjoint au général commandant la Légion étrangère. Outre son président, le conseil
+d'administration comprend : 
+
+1° Des membres de droit : 
+
+a) Le chef d'état-major de l'armée de terre ou son représentant ; 
+
+b) Les commandants des formations administratives de la Légion étrangère ou leurs représentants ; 
+
+c) L'officier adjoint au général commandant la Légion étrangère ; 
+
+d) Le chef d'état-major du commandement de la Légion étrangère ; 
+
+2° Deux personnalités qualifiées, désignées en raison de leurs compétences dans les domaines administratif, financier,
+social, médico-social ou culturel par arrêté du ministre de la défense après avis du président du conseil d'administration ; 
+
+3° Trois représentants des bénéficiaires des prestations délivrées par l'établissement, désignés par arrêté du ministre de la
+défense après avis du président du conseil d'administration : 
+
+a) Un membre d'association d'anciens militaires ayant servi à la Légion étrangère ; 
+
+b) Un représentant des sous-officiers servant à titre étranger ou son suppléant ; 
+
+c) Un représentant des militaires du rang servant à titre étranger ou son suppléant. 
+
+Les membres du conseil d'administration mentionnés aux 2° et 3° sont désignés pour une période de deux ans renouvelable.
+Lorsque l'un de ces membres ou son suppléant cesse d'exercer ses fonctions, il est remplacé dans les conditions fixées pour
+la nomination des membres, pour la durée du mandat restant à courir. 
+
+Assistent, en outre, aux séances, avec voix consultative : 
+
+1° Le directeur général du foyer d'entraide de la Légion étrangère ; 
+
+2° Le commissaire aux comptes. 
+
+Le président du conseil d'administration peut inviter à participer aux séances, avec voix consultative, toute personne dont
+la présence serait jugée utile sur un point particulier de l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-3
+
+Le mandat des membres du conseil d'administration est gratuit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-4
+
+Le conseil d'administration se réunit, sur convocation de son président, chaque fois qu'il est nécessaire et au minimum deux
+fois par an. La convocation est de droit si elle est demandée par le ministre de la défense ou par au moins la moitié des
+membres sur un ordre du jour déterminé.
+
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente. Si le quorum
+n'est pas atteint, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de quinze jours. Il délibère
+alors valablement quel que soit le nombre de membres présents.
+
+Les décisions sont prises à la majorité des voix. Le président a voix prépondérante en cas de partage égal des voix.
+
+Les procès-verbaux des séances sont adressés au ministre de la défense.
+
+Les délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de trente jours à compter de leur
+réception par le ministre de la défense, à moins que celui-ci n'y ait fait opposition. Ce délai peut être prolongé d'un mois
+supplémentaire par décision du ministre. En cas d'urgence, il peut autoriser l'exécution immédiate.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-5
+
+Le conseil d'administration délibère notamment sur les objets ci-après :
+
+1° Programme général d'activité de l'établissement ;
+
+2° Conditions générales d'organisation et de fonctionnement et règlement intérieur de l'établissement ;
+
+3° Conditions générales de recrutement, d'emploi et de rémunération du personnel de droit privé ;
+
+4° Les plans pluriannuels d'investissement de l'établissement ;
+
+5° Les orientations pluriannuelles de l'établissement, notamment en matière d'investissement ;
+
+6° Budgets initiaux de l'établissement et leurs modifications éventuelles, les comptes financiers, les affectations des
+résultats et les constitutions de réserves ;
+
+7° Octroi de subventions au profit des personnes morales à but non lucratif ;
+
+8° Tarifs des prestations de l'établissement ;
+
+9° Souscription d'emprunts et octroi d'avances remboursables et garanties, quel qu'en soit le montant ;
+
+10° Acquisition et aliénation des biens propres de l'établissement, baux ;
+
+11° Règles générales de passation des contrats ;
+
+12° Acceptation ou refus des dons et legs ;
+
+13° Autorisation d'ester en justice ;
+
+14° Autorisation de transactions ;
+
+15° Les décisions de remise gracieuse et d'admission en non-valeur des créances de l'établissement.
+
+Le président du conseil d'administration et le ministre de la défense peuvent soumettre toute autre question au conseil
+d'administration pour délibération ou avis. Ils peuvent également décider que des communications soient portées à la
+connaissance des membres par le directeur général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-6
+
+Un directeur général, nommé parmi le personnel militaire conformément aux dispositions de l'article L. 3418-4, assure la
+direction du foyer d'entraide de la Légion étrangère. 
+
+Il met en œuvre les décisions du conseil d'administration devenues exécutoires dans les conditions fixées à l'article R.
+3418-4. 
+
+Il est assisté d'un directeur général adjoint, nommé dans les mêmes conditions, qui le supplée en cas d'absence ou
+d'empêchement. 
+
+La durée du mandat du directeur général et du directeur général adjoint est de trois ans renouvelables. 
+
+Le ministre de la défense peut mettre fin à leurs fonctions avant l'expiration de leur mandat, notamment sur proposition du
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3418-4
+
+
+###### Article R3418-7
+
+Le directeur général assure la direction du foyer d'entraide de la Légion étrangère.
+
+Dans le cadre de ses fonctions, il exerce, outre celles qui peuvent lui être déléguées par le conseil d'administration, les
+compétences suivantes :
+
+1° La préparation des délibérations du conseil d'administration et leur exécution ;
+
+2° Le fonctionnement de l'établissement ;
+
+3° L'emploi sous son autorité du personnel militaire affecté dans l'établissement ;
+
+4° La gestion sous son autorité du personnel de droit privé qu'il recrute, affecte et licencie conformément aux orientations
+du conseil d'administration ;
+
+5° L'exécution du budget ;
+
+6° L'élaboration du plan annuel d'investissement de l'établissement conformément aux orientations du conseil
+d'administration ;
+
+7° Le suivi des travaux de l'infrastructure de l'établissement ;
+
+8° La sécurité et la prévention au sein de l'établissement ;
+
+9° La signature des marchés, contrats et conventions passés par l'établissement ;
+
+10° La représentation de l'établissement en justice et dans tous les actes de la vie civile ainsi que dans ses rapports avec
+les tiers ;
+
+11° Les opérations funéraires.
+
+Il peut déléguer au directeur général adjoint une partie de ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-8
+
+Le foyer d'entraide de la Légion étrangère est doté d'un commissaire aux comptes.
+
+Le foyer d'entraide de la Légion étrangère est soumis également au contrôle du contrôle général des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-9
+
+Les dépenses du foyer d'entraide de la Légion étrangère comprennent les frais de personnel qui ne sont pas pris en charge par
+l'Etat, les frais de fonctionnement et d'équipement et, d'une manière générale, toutes les dépenses nécessaires à la
+réalisation de la mission de l'établissement public.
+
+L'octroi de subventions au profit de personnes morales à but non lucratif ne peut être réalisé qu'avec l'accord du ministre
+de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-10
+
+Les biens immobiliers mis gratuitement à la disposition du foyer d'entraide de la Légion étrangère le sont par autorisation
+d'occupation temporaire ou convention d'occupation temporaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
+
+
+###### Article R3418-11
+
+Par dérogation à l'article 2 du code des marchés publics, le foyer d'entraide de la Légion étrangère est soumis aux règles
+fixées par l'ordonnance du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises
+au code des marchés publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Code des marchés publics - art. 2
+
+	**Créé par**:
+
+	  - Décret n°2014-562 du 30 mai 2014 - art. 1
 
 
 #### TITRE II : ETABLISSEMENTS PUBLICS A CARACTERE  INDUSTRIEL ET COMMERCIAL

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-07-12
 
 # Partie législative
 
@@ -829,9 +829,9 @@ territoriales dévolues dans cette zone au commandant en chef ou à ses délégu
 
 ###### Article L1311-1
 
-Dans chaque zone de défense, un haut fonctionnaire civil détient les pouvoirs nécessaires au contrôle des efforts non
-militaires prescrits en vue de la défense, au respect des priorités et à la réalisation des aides réciproques entre services
-civils et militaires, en vue de la défense civile et de la sécurité intérieure du territoire. 
+Dans chaque  zone de défense et de sécurité, un haut fonctionnaire civil détient les pouvoirs nécessaires au contrôle des
+efforts non militaires prescrits en vue de la défense, au respect des priorités et à la réalisation des aides réciproques
+entre services civils et militaires, en vue de la défense civile et de la sécurité intérieure du territoire. 
 
 Ce haut fonctionnaire civil détient en outre les pouvoirs nécessaires pour prescrire, en cas de rupture des communications
 avec le Gouvernement du fait d'une agression interne ou externe, la mise en garde prévue à l'article L. 2141-2, ainsi que les
@@ -845,8 +845,8 @@ mesures nécessaires à l'exécution des plans de défense intérieure ou extér
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -858,7 +858,6 @@ mesures nécessaires à l'exécution des plans de défense intérieure ou extér
 	  - Code de la sécurité intérieure - art. R158-4 (VD)
 	  - Code de la défense. - art. D1313-4 (V)
 	  - Code de la défense. - art. L1221-1 (V)
-	  - Code de la défense. - art. L2141-2 (V)
 	  - Code de la défense. - art. L2431-4 (V)
 	  - Code de la défense. - art. L2441-4 (V)
 	  - Code de la défense. - art. L2451-5 (V)
@@ -872,6 +871,14 @@ mesures nécessaires à l'exécution des plans de défense intérieure ou extér
 	  - Code de la défense. - art. R1682-6 (V)
 	  - Code de la défense. - art. R2211-4 (V)
 	  - Code de la santé publique - art. R1435-7 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2141-2
 
 
 #### TITRE II : DÉFENSE CIVILE
@@ -1630,20 +1637,18 @@ prévues à la présente section encourent une amende suivant les modalités pr�
 
 ##### Section 1 : Protection et contrôle des matières nucléaires
 
+##### Sous-section 1 : Champ d'application
+
 ###### Article L1333-1
 
-Sont soumises aux dispositions du présent chapitre les matières nucléaires fusibles, fissiles ou fertiles, ainsi que toute
-matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste est
-précisée par décret en Conseil d'Etat.
+Sont soumises aux dispositions  de la présente section les matières nucléaires fusibles, fissiles ou fertiles, ainsi que
+toute matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste
+est précisée par décret en Conseil d'Etat. 
 
-Les conditions particulières d'application du présent chapitre aux matières nucléaires affectées aux moyens nécessaires à la
-mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat.
+Les conditions particulières d'application  de la présente section aux matières nucléaires affectées aux moyens nécessaires à
+la mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -1664,20 +1669,22 @@ mise en oeuvre de la politique de dissuasion sont définies par décret en Conse
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2007-289 du 5 mars 2007 - art. 3
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
+
+##### Sous-section 2 : Dispositions générales
 
 ###### Article L1333-2
 
 L'importation et l'exportation de matières nucléaires définies à l'article L. 1333-1 faites en exécution de contrats conclus
 par les opérateurs français et étrangers ainsi que l'élaboration, la détention, le transfert, l'utilisation et le transport
-des mêmes matières sont soumis à une autorisation et à un contrôle dans les conditions définies par le présent chapitre. Ces
-conditions sont précisées par décret en Conseil d'Etat pris        après consultation de l'Autorité de sûreté nucléaire. 
+des mêmes matières sont soumis à une autorisation et à un contrôle dans les conditions définies   par la présente section.
+Ces conditions sont précisées par décret en Conseil d'Etat pris après consultation de l'Autorité de sûreté nucléaire. 
 
 L'exportateur est tenu de stipuler aux acquéreurs et sous-acquéreurs les conditions relatives à l'utilisation ultérieure des
 matières nucléaires auxquelles peut être subordonnée la délivrance de l'autorisation de toute exportation.
@@ -1726,7 +1733,7 @@ matières nucléaires auxquelles peut être subordonnée la délivrance de l'aut
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 95
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
@@ -1739,27 +1746,23 @@ L'autorisation prévue à l'article L. 1333-2 peut être assortie de spécificat
 quantités et à la forme des matières nucléaires, aux mesures à prendre pour en connaître la localisation et en assurer la
 protection. 
 
-Elle peut être suspendue ou retirée en cas d'infraction aux dispositions du présent chapitre et des règlements pris pour son
-application, ou en raison du non-respect de ces spécifications.
+Elle peut être suspendue ou retirée en cas d'infraction aux dispositions  de la présente section et des règlements pris pour
+son application, ou en raison du non-respect de ces spécifications.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 3 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-2 (V)
+	  - Code de la défense. - art. L1333-2
 
 	**Cité par**:
 
@@ -1780,29 +1783,25 @@ respectées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
-	  - Code de la défense. - art. L1333-12 (V)
+	  - Code de la défense. - art. L1333-12 (M)
 	  - Code de la défense. - art. L1333-4-1 (V)
 	  - Code de la défense. - art. R1333-10 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-2 (V)
-	  - Code de la défense. - art. L1333-3 (V)
+	  - Code de la défense. - art. L1333-2
+	  - Code de la défense. - art. L1333-3
 
 
 ###### Article L1333-5
@@ -1812,14 +1811,10 @@ astreints au secret professionnel dans les conditions et sous les sanctions pré
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 5, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -1831,36 +1826,35 @@ astreints au secret professionnel dans les conditions et sous les sanctions pré
 	  - Code de la défense. - art. R1333-10 (V)
 	  - Code de la défense. - art. R1333-71 (V)
 
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
 
 
 ###### Article L1333-6
 
-Avant de lui confier la garde des matières nucléaires soumises aux dispositions du présent chapitre, l'employeur avertit le
-préposé des obligations que lui créent les dispositions de l'article L. 1333-13 et des peines qu'il encourt en cas
+Avant de lui confier la garde des matières nucléaires soumises aux dispositions  de la présente section, l'employeur avertit
+le préposé des obligations que lui créent les dispositions de l'article L. 1333-13 et des peines qu'il encourt en cas
 d'infraction, et obtient reconnaissance de cet avertissement. Ces dispositions sont précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 1980-07-25 art. 8, alinéa 3
-	  - Loi n°80-572 du 25 juillet 1980 - art. 8 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-13 (V)
+	  - Code de la défense. - art. L1333-13
 
 	**Cité par**:
 
@@ -1870,47 +1864,46 @@ d'infraction, et obtient reconnaissance de cet avertissement. Ces dispositions s
 
 ###### Article L1333-7
 
-Le Gouvernement fait un rapport annuel au Parlement sur l'application des dispositions du présent chapitre.
+Le Gouvernement fait un rapport annuel au Parlement sur l'application des dispositions  de la présente section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 1980-07-25 art. 10, alinéa 1
-	  - Loi n°80-572 du 25 juillet 1980 - art. 10, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L1333-2 (V)
 
 
-##### Section 2 : Dispositions pénales
+##### Sous-section 3 : Dispositions pénales
 
-##### Sous-section 1 : Agents habilités à constater les infractions.
+##### Paragraphe 1 : Agents habilités à constater les infractions
 
 ###### Article L1333-8
 
-Les infractions aux dispositions du présent chapitre et aux dispositions réglementaires afférentes sont constatées par les
-officiers et agents de police judiciaire, les agents des services des douanes, les agents de la répression des fraudes, le
-haut fonctionnaire de défense placé auprès du    ministre chargé de l'énergie, les agents en charge de la métrologie légale.
+Les infractions aux dispositions  de la présente section et aux dispositions réglementaires afférentes sont constatées par
+les officiers et agents de police judiciaire, les agents des services des douanes, les agents de la répression des fraudes,
+le haut fonctionnaire de défense placé auprès du ministre chargé de l'énergie, les agents en charge de la métrologie légale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-928 du 29 juillet 2009 - art. 15
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R1333-72 (V)
 
 
-##### Sous-section 2 : Sanctions pénales.
+##### Paragraphe 2 : Sanctions pénales
 
 ###### Article L1333-9
 
@@ -1939,9 +1932,9 @@ III.-La tentative des délits prévus au I est punie des mêmes peines.
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 1
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
@@ -1984,19 +1977,18 @@ conventions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 1980-07-25 art. 6, alinéas 3, 4 et 5
-	  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-1 (V)
+	  - Code de la défense. - art. L1333-1
 
 	**Cité par**:
 
@@ -2014,20 +2006,20 @@ transporter, hors du territoire de la République, les matières nucléaires ent
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 6-1 (Ab)
-
 	**Cite**:
 
-	  - Décret n°92-110 du 3 février 1992, v. init.
-	  - Code de la défense. - art. L1333-10 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Décret n°92-110 du 3 février 1992
+	  - Code de la défense. - art. L1333-10
+	  - Code de la défense. - art. L1333-9
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
@@ -2052,18 +2044,14 @@ par l'arrêté de mise en demeure prévu à l'article L. 1333-4, n'a pas respect
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 du 25 juillet 1980 - art. 7, v. init.
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
@@ -2075,16 +2063,16 @@ par l'arrêté de mise en demeure prévu à l'article L. 1333-4, n'a pas respect
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-2 (V)
-	  - Code de la défense. - art. L1333-4 (V)
+	  - Code de la défense. - art. L1333-2
+	  - Code de la défense. - art. L1333-4 (M)
 
 
 ###### Article L1333-13
 
 Quiconque, titulaire de l'autorisation prévue à l'article L. 1333-2 ou ayant, à quelque titre que ce soit, la garde des
-matières nucléaires soumises aux dispositions du présent chapitre ou en assurant la gestion, a constaté la perte, le vol, la
-disparition ou le détournement de ces matières et n'a pas informé les services de police ou de gendarmerie au plus tard dans
-les vingt-quatre heures suivant cette constatation, est puni d'un emprisonnement de deux ans et d'une amende de 37 500
+matières nucléaires soumises aux dispositions  de la présente section ou en assurant la gestion, a constaté la perte, le vol,
+la disparition ou le détournement de ces matières et n'a pas informé les services de police ou de gendarmerie au plus tard
+dans les vingt-quatre heures suivant cette constatation, est puni d'un emprisonnement de deux ans et d'une amende de 37 500
 euros. 
 
 Lorsque la personne titulaire de l'autorisation prévue à l'article L. 1333-2 est une personne morale, les mêmes peines sont
@@ -2093,15 +2081,10 @@ ne l'ont pas déclaré dans le délai prévu à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°80-572 1980-07-25 art. 8, alinéas 1 et 2
-	  - Loi n°80-572 du 25 juillet 1980 - art. 8 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -2111,9 +2094,13 @@ ne l'ont pas déclaré dans le délai prévu à l'alinéa précédent.
 	  - Code de la défense. - art. R1333-74 (V)
 	  - Code de la défense. - art. R1333-76 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-2 (V)
+	  - Code de la défense. - art. L1333-2
 
 
 ###### Article L1333-13-1
@@ -2128,10 +2115,6 @@ biens.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 30 juillet 2012 - art. 1 (V)
@@ -2140,6 +2123,10 @@ biens.
 	  - Code de la défense. - art. L1333-13-4 (V)
 	  - Code de la défense. - art. L1333-13-8 (V)
 	  - Code de procédure pénale - art. 706-167 (V)
+
+	**Liens**:
+
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 
 ###### Article L1333-13-2
@@ -2153,15 +2140,15 @@ indépendantes de la volonté de leur auteur, la peine est de trois ans d'empris
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-13-1 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-13-1
+	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
 
@@ -2181,16 +2168,16 @@ millions d'euros d'amende lorsqu'elles sont commises en bande organisée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-12 (V)
-	  - Code de la défense. - art. L1333-13-1 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-12
+	  - Code de la défense. - art. L1333-13-1
+	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
 
@@ -2224,17 +2211,17 @@ l'énergie a pour origine la fission de noyaux d'atomes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-12 (V)
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-12
 	  - Code de la défense. - art. L1333-13-1 (V)
-	  - Code de la défense. - art. L1333-13-2 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L1333-13-2
+	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
 
@@ -2255,9 +2242,9 @@ puni des peines prévues au même article, indépendamment de la commission effe
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
@@ -2268,7 +2255,7 @@ puni des peines prévues au même article, indépendamment de la commission effe
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-13-4 (V)
+	  - Code de la défense. - art. L1333-13-4
 
 
 ###### Article L1333-13-6
@@ -2282,9 +2269,9 @@ indépendantes de la volonté de leur auteur, la peine est de sept ans d'empriso
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cité par**:
 
@@ -2297,12 +2284,12 @@ indépendantes de la volonté de leur auteur, la peine est de sept ans d'empriso
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-3
 
 
 ###### Article L1333-13-7
 
-Les personnes physiques coupables de l'une des infractions prévues à la présente sous-section encourent les peines
+Les personnes physiques coupables de l'une des infractions prévues     au présent paragraphe encourent les peines
 complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
@@ -2329,16 +2316,16 @@ transport de ces matières ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
 	  - Code pénal - art. 131-26
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-30 (V)
-	  - Code pénal - art. 131-31 (V)
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-30
+	  - Code pénal - art. 131-31
 	  - Code pénal - art. 131-35
 
 	**Cité par**:
@@ -2348,7 +2335,7 @@ transport de ces matières ;
 
 ###### Article L1333-13-8
 
-Les personnes morales coupables de l'une des infractions prévues à la présente sous-section encourent, outre l'amende suivant
+Les personnes morales coupables de l'une des infractions prévues     au présent paragraphe encourent, outre l'amende suivant
 les modalités prévues par l'article 131-38 du même code, les peines suivantes : 
 
 1° Dans les cas prévus par les articles L. 1333-9 et L. 1333-11, le premier alinéa de l'article L. 1333-13-2, les articles L.
@@ -2363,21 +2350,21 @@ laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
 	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-12 (V)
-	  - Code de la défense. - art. L1333-13 (V)
+	  - Code de la défense. - art. L1333-12 (M)
+	  - Code de la défense. - art. L1333-13
 	  - Code de la défense. - art. L1333-13-2 (V)
 	  - Code de la défense. - art. L1333-13-3 (V)
 	  - Code de la défense. - art. L1333-13-6 (V)
-	  - Code de la défense. - art. L1333-9 (V)
+	  - Code de la défense. - art. L1333-9 (M)
 
 
 ###### Article L1333-13-9
@@ -2389,15 +2376,15 @@ complices.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-13-3 (V)
+	  - Code de la défense. - art. L1333-13-3
 	  - Code de la défense. - art. L1333-13-4 (V)
-	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-13-6
 
 
 ###### Article L1333-13-10
@@ -2409,14 +2396,14 @@ infirmité permanente et d'identifier, le cas échéant, les autres auteurs ou c
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-13-3 (V)
-	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-13-3
+	  - Code de la défense. - art. L1333-13-6
 
 
 ###### Article L1333-13-11
@@ -2426,18 +2413,18 @@ Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 2
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
 	  - Code pénal - art. 132-23
-	  - Code de la défense. - art. L1333-13-3 (V)
-	  - Code de la défense. - art. L1333-13-6 (V)
+	  - Code de la défense. - art. L1333-13-3
+	  - Code de la défense. - art. L1333-13-6
 
 
-##### Sous-section 3 : Matières nucléaires intéressant la dissuasion.
+##### Paragraphe 3 : Dispositions applicables aux matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion
 
 ###### Article L1333-14
 
@@ -2454,14 +2441,14 @@ présent article, mais seulement en ce qu'elles renvoient aux infractions prévu
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2011-266 du 14 mars 2011 - art. 3
+	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-10
-	  - Code de la défense. - art. L1333-13-2 (V)
+	  - Code de la défense. - art. L1333-10 (M)
+	  - Code de la défense. - art. L1333-13-2
 	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
@@ -2469,6 +2456,234 @@ présent article, mais seulement en ce qu'elles renvoient aux infractions prévu
 	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. R1333-1 (V)
 	  - Code de procédure pénale - art. 706-167 (V)
+
+
+##### Section 2 : Installations et activités nucléaires intéressant la défense
+
+##### Sous-section 1 : Champ d'application
+
+###### Article L1333-15
+
+Les installations et activités nucléaires intéressant la défense sont : 
+
+1° Les installations nucléaires de base secrètes, qui font l'objet d'un classement et dont la création est soumise à
+autorisation dans les conditions prévues par un décret en Conseil d'Etat ; 
+
+2° Les systèmes nucléaires militaires, définis dans les conditions prévues par un décret en Conseil d'Etat ; 
+
+3° Les sites et installations d'expérimentations nucléaires intéressant la défense, définis dans les conditions prévues par
+un décret en Conseil d'Etat ; 
+
+4° Les anciens sites d'expérimentations nucléaires du Pacifique ; 
+
+5° Les transports de matières fissiles ou radioactives liés aux activités d'armement nucléaire et de propulsion nucléaire
+navale. 
+
+Un décret en Conseil d'Etat définit l'obligation de contrôle appliquée aux installations et activités nucléaires intéressant
+la défense selon des modalités conciliant les principes d'organisation de la sûreté nucléaire et de la radioprotection avec
+les exigences liées à la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-422 du 29 mars 2012 - art. 4 (V)
+	  - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
+	  - Arrêté du 20 août 2015 - art. 1 (V)
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 31
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 38
+	  - Décret n°2016-333 du 21 mars 2016 - art. 2 (V)
+	  - Arrêté du 28 novembre 2016 - art. 14
+	  - Décret n°2017-539 du 13 avril 2017 - art. 16
+	  - Code de l'environnement - art. L123-2 (VD)
+	  - Code de l'environnement - art. L593-35 (V)
+	  - Code de l'environnement - art. L597-2 (V)
+	  - Code de l'environnement - art. L597-27 (VT)
+	  - Code de l'environnement - art. R541-42 (V)
+	  - Code de l'environnement - art. R541-44 (V)
+	  - Code de l'environnement - art. R541-48 (V)
+	  - Code de l'environnement - art. R542-67 (V)
+	  - Code de la défense. - art. L1333-17 (V)
+	  - Code de la défense. - art. L1333-18 (VD)
+	  - Code de la défense. - art. L1333-19 (VD)
+	  - Code de la défense. - art. L1333-20 (V)
+	  - Code de la défense. - art. R*1333-37 (V)
+	  - Code de la défense. - art. R*1333-37-1 (V)
+	  - Code de la défense. - art. R*1333-39 (V)
+	  - Code de la défense. - art. R*1333-40 (V)
+	  - Code de la défense. - art. R*1333-61 (V)
+	  - Code de la défense. - art. R*1333-67-1 (V)
+	  - Code de la défense. - art. R*1333-67-1-1 (V)
+	  - Code de la défense. - art. R*1333-67-3-1 (V)
+	  - Code de la défense. - art. R*1333-67-4 (V)
+	  - Code de la défense. - art. R*1333-67-5 (V)
+	  - Code de la défense. - art. R*1333-67-6 (V)
+	  - Code de la santé publique - art. R1333-102 (V)
+	  - Code de la santé publique - art. R1333-12 (V)
+	  - Code de la santé publique - art. R1333-17 (V)
+	  - Code de la santé publique - art. R1333-45 (V)
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+
+##### Sous-section 2 : Dispositions applicables aux installations et activités nucléaires intéressant la défense
+
+###### Article L1333-16
+
+Sous réserve des dispositions de l'article L. 125-12, du premier alinéa de l'article L. 125-13 et des articles L. 591-1 à L.
+591-4 du code de l'environnement, qui leur sont applicables, les installations et activités nucléaires intéressant la défense
+sont régies par les dispositions du code de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-17 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L125-12
+	  - Code de l'environnement - art. L125-13
+	  - Code de l'environnement - art. L591-1
+
+
+##### Sous-section 3 : Dispositions applicables aux équipements et installations situés dans le périmètre d'une installation nucléaire intéressant la défense
+
+###### Article L1333-17
+
+Les équipements et installations nécessaires à l'exploitation d'une des installations et activités nucléaires intéressant la
+défense mentionnées aux 1° et 3° de l'article L. 1333-15 et situés dans son périmètre sont réputés faire partie de cette
+installation et sont soumis au régime applicable à cette installation conformément aux articles L. 1333-16 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. L1333-16
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1333-47-1 (VD)
+
+
+###### Article L1333-18
+
+Les équipements et installations, situés dans le périmètre d'une des installations et activités nucléaires intéressant la
+défense mentionnées aux 1° et 3° de l'article L. 1333-15, mais qui ne sont pas nécessaires à son exploitation, restent soumis
+aux dispositions des articles L. 214-1 à L. 214-6 et du titre Ier du livre V du code de l'environnement, ainsi qu'à l'article
+L. 1333-4 du code de la santé publique. Pour l'application des dispositions précitées du code de l'environnement et du code
+de la santé publique à ces équipements et installations, l'autorité compétente en matière de sûreté nucléaire et de
+radioprotection pour les installations et activités nucléaires intéressant la défense exerce les attributions qui sont celles
+de l'autorité administrative en matière de décisions individuelles et de contrôle prévues par ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+	**Cité par**:
+
+	  - Décret n°2016-333 du 21 mars 2016 - art. 3 (V)
+	  - Code de l'environnement - art. L181-2 (VD)
+	  - Code de la défense. - art. R*1333-47-1 (VD)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+	  - Code de la santé publique - art. L1333-4
+	  - Code de l'environnement - art. L214-1
+
+
+##### Sous-Section 4 : Droit à l'information 
+
+
+###### Article L1333-19
+
+I.-Les personnes exerçant des activités nucléaires au sens du premier alinéa de l'article L. 1333-1 du code de la santé
+publique et liées aux installations et activités nucléaires intéressant la défense doivent respecter le droit qu'a toute
+personne d'être informée sur les risques liés aux activités nucléaires et leur impact sur la santé et la sécurité des
+personnes et sur l'environnement, ainsi que sur les rejets d'effluents des installations. 
+
+Ce droit qu'a toute personne d'être informée est mis en œuvre selon des modalités conciliant les principes d'organisation de
+la sûreté nucléaire et de la radioprotection avec les exigences liées à la défense nationale, dans les conditions définies
+par la présente sous-section. 
+
+II.-Est considérée comme information relative à la sûreté nucléaire et à la radioprotection, au sens de la présente section,
+toute information, quel qu'en soit le support, relative aux conséquences, sur la population et l'environnement, des activités
+exercées sur les sites d'implantation d'installations nucléaires mentionnés à l'article L. 1333-15. 
+
+Ces informations portent notamment sur la nature et les résultats des mesures des rejets radioactifs et non radioactifs
+effectués dans l'environnement, ainsi que leur impact potentiel sur la santé du public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+	  - Code de la santé publique - art. L1333-1
+
+
+###### Article L1333-20
+
+I.-1° Des commissions d'information sont créées par l'autorité administrative pour :
+
+- les installations nucléaires de base secrètes mentionnées au 1° de l'article L. 1333-15 ;
+
+- les navires militaires à propulsion nucléaire sur leurs lieux habituels de stationnement ;
+
+- les anciens sites d'expérimentations nucléaires du Pacifique mentionnés au 4° de l'article L. 1333-15 ; 
+
+2° L'autorité administrative peut créer des commissions d'information pour les sites et installations d'expérimentations
+nucléaires intéressant la défense mentionnés au 3° de l'article L. 1333-15, lorsque les nuisances éventuelles, dangers et
+inconvénients possibles présentés par ces sites et installations le justifient. 
+
+II.-Ces commissions d'information ont pour mission d'informer le public sur l'impact potentiel sur la santé et
+l'environnement des activités nucléaires qui y sont exercées. 
+
+Elles reçoivent les informations nécessaires à l'accomplissement de leurs missions de la part des représentants du ministre
+de la défense pour les installations nucléaires relevant de son autorité, des exploitants dans les autres cas, dans le
+respect des dispositions relatives aux secrets protégés par la loi. 
+
+III.-Les commissions d'information sont présidées par l'autorité administrative ou par des personnalités qualifiées nommées
+par elle. Outre les représentants des services de l'Etat intéressés, elles comprennent des représentants : 
+
+1° Des intérêts économiques et sociaux, des associations agréées de protection de l'environnement et, sur leur demande, des
+collectivités territoriales ; 
+
+2° Du ministre de la défense pour les installations et activités relevant de son autorité ou des exploitants dans les autres
+cas. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1333-38 (V)
 
 
 ##### Chapitre IV : Postes et communications électroniques
@@ -3133,20 +3348,24 @@ Pour l'application de la présente partie du code à Mayotte, les termes énumé
 
 ###### Article L1641-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-14 et L. 1521-1 à L.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L.
 1521-10.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1521-1 (V)
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1521-1
 
 
 ###### Article L1641-2
@@ -3209,19 +3428,23 @@ ayant le même objet applicables localement.
 
 ###### Article L1651-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-14 et L. 1521-1 à L. 1521-10.
+Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1521-1 (V)
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1521-1
 
 
 ###### Article L1651-2
@@ -3303,19 +3526,23 @@ ayant le même objet applicables localement.
 
 ###### Article L1661-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-14 et L. 1521-1 à L. 1521-10.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1521-1 (V)
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1521-1
 
 
 ###### Article L1661-2
@@ -3392,21 +3619,25 @@ objet applicables localement.
 ###### Article L1671-1
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-14 et L. 1521-1 à L.
+publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L.
 1521-10.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1521-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1521-1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
 
 
 ###### Article L1671-2
@@ -7924,8 +8155,7 @@ dispositions de l'article L. 2332-3 du code de la défense ont le caractère ré
 ###### Article L2332-4
 
 Le contrôle est exercé sur place et sur pièces, suivant leurs attributions respectives, par les agents habilités des
-ministères intéressés et, notamment, en ce qui concerne le ministère de la défense, par des agents relevant du contrôle
-général des armées.
+ministères intéressés.
 
 **Liens relatifs à cet article**
 
@@ -7934,10 +8164,6 @@ général des armées.
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
-
 	**Cité par**:
 
 	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
@@ -7945,6 +8171,10 @@ général des armées.
 	  - Code de la défense. - art. L2332-7 (VT)
 	  - Code de la défense. - art. L2332-9 (VT)
 	  - Code de la sécurité intérieure - art. R313-29 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 15
 
 	**Anciens textes**:
 
@@ -8025,32 +8255,6 @@ faisant l'objet du brevet ou de l'addition demandé.
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 7 (Ab)
 
 
-###### Article L2332-8
-
-La surveillance technique des travaux confiés à l'industrie par le ministère de la défense demeure dans les attributions des
-services de fabrication ou de construction de ce ministère.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 art. 10
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Cité par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
-
-
 ###### Article L2332-8-1
 
 Les canons d'arme de guerre fabriqués en France sont soumis à des épreuves constatées par l'application d'un poinçon.
@@ -8064,48 +8268,6 @@ Les canons d'arme de guerre fabriqués en France sont soumis à des épreuves co
 	**Cité par**:
 
 	  - Code de la défense. - art. L2339-11 (VD)
-
-
-##### Section 2 : Obligations des titulaires d'autorisation
-
-###### Article L2332-10
-
-Les titulaires des autorisations mentionnées au I de l'article L. 2332-1 donnent communication au service compétent, dans un
-délai de huit jours à dater de leur acceptation, des commandes de matériels des catégories A et B, non destinées à
-l'exportation, autres que celles qui émanent de l'Etat et ne peuvent les exécuter que sur autorisation expresse. 
-
-Les prescriptions relatives à l'importation ou l'exportation hors du territoire de l'Union européenne ou au transfert au sein
-de l'Union européenne, y compris celles qui concernent l'acceptation des commandes en vue de l'exportation ou du transfert,
-sont définies au chapitre V du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
-
-	**Cité par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
-	  - Code de la défense. - art. L2339-1 (M)
-	  - Code de la défense. - art. L2339-3 (VD)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 8 (Ab)
 
 
 ##### Section 3 : Retrait des autorisations
@@ -8339,8 +8501,8 @@ et L. 2333-6, est sanctionnée par les pénalités prévues dans les cahiers des
 ###### Article L2335-1
 
 I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D
-figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1 provenant des Etats non membres
-de l'Union européenne est prohibée.
+figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1         provenant des Etats non
+membres de l'Union européenne ainsi que des territoires exclus du territoire douanier de l'Union européenne est prohibée. 
 
 L'autorité administrative détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les conditions
 dans lesquelles une autorisation d'importation peut être délivrée. 
@@ -8422,7 +8584,7 @@ pour non-respect des conditions spécifiées dans l'autorisation.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 26
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 7
 
 	**Cite**:
 
@@ -8438,8 +8600,8 @@ pour non-respect des conditions spécifiées dans l'autorisation.
 
 ###### Article L2335-2
 
-L'exportation sans autorisation préalable de matériels de guerre et matériels assimilés vers des Etats non membres de l'Union
-européenne est prohibée.
+L'exportation sans autorisation préalable de matériels de guerre et matériels assimilés vers        des Etats non membres de
+l'Union européenne ainsi que des territoires exclus du territoire douanier de l'Union européenne est prohibée. 
 
 L'autorité administrative définit la liste de ces matériels de guerre et matériels assimilés soumis à autorisation préalable
 ainsi que les dérogations à cette autorisation.
@@ -8499,7 +8661,7 @@ ainsi que les dérogations à cette autorisation.
 
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 7
 
 	**Anciens textes**:
 
@@ -8513,15 +8675,18 @@ l'une des formes suivantes :
 
 1° Des arrêtés dénommés " licences générales d'exportation ", comportant des listes de matériels et autorisant directement
 tout exportateur établi en France remplissant certaines conditions définies par l'autorité administrative à expédier ces
-matériels vers une ou plusieurs catégories de destinataires situés dans un Etat non membre de l'Union européenne ; 
+matériels vers une ou plusieurs catégories de destinataires situés         dans un Etat non membre de l'Union européenne
+ainsi que dans les territoires exclus du territoire douanier de l'Union européenne ; 
 
 2° Des licences globales d'exportation, faisant l'objet d'une notification, autorisant, à sa demande, un exportateur établi
 en France à expédier des matériels de guerre et matériels assimilés spécifiques à un ou plusieurs destinataires identifiés,
-situés dans un Etat non membre de l'Union européenne, pour une durée déterminée, sans limite de quantité ni de montant ; 
+situés         dans un Etat non membre de l'Union européenne ainsi que dans les territoires exclus du territoire douanier de
+l'Union européenne, pour une durée déterminée, sans limite de quantité ni de montant ; 
 
 3° Des licences individuelles d'exportation, faisant l'objet d'une notification, autorisant, à sa demande, un exportateur
 établi en France à expédier, en une ou plusieurs fois, un ou plusieurs matériels de guerre et matériels assimilés à un
-destinataire situé dans un Etat non membre de l'Union européenne. 
+destinataire situé         dans un Etat non membre de l'Union européenne ainsi que dans les territoires exclus du territoire
+douanier de l'Union européenne. 
 
 Les licences d'exportation peuvent comporter des conditions ou des restrictions concernant l'utilisation finale de ces
 matériels. 
@@ -8586,9 +8751,14 @@ VI.-Les modalités d'application du présent article sont déterminées par déc
 	  - Code du domaine de l'Etat - art. L67 (Ab)
 	  - Code général de la propriété des personnes publ... - art. R3211-35 (V)
 
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 7
 
 	**Cite**:
 
@@ -9080,9 +9250,8 @@ Les critères de certification sont définis par décret en Conseil d'Etat.
 ###### Article L2335-17
 
 I. ― Pour le contrôle de l'acquisition et de la détention d'armes, de munitions et de leurs éléments, le transfert de
-certaines armes, munitions et leurs éléments acquis à titre personnel figurant sur une liste fixée par décret en Conseil
-d'Etat, ainsi que des armes, munitions et leurs éléments non considérés comme matériels de guerre figurant sur la même liste,
-est soumis à une autorisation préalable spécifique. 
+certaines armes, munitions et leurs éléments ne relevant pas de la catégorie A2 mentionnées à l'article L. 2331-1 du présent
+code, figurant sur une liste fixée par décret en Conseil d'Etat, est soumis à une autorisation préalable spécifique. 
 
 Des dérogations à cette autorisation préalable peuvent être établies par l'autorité administrative. 
 
@@ -9108,9 +9277,13 @@ III. ― Les conditions d'application du présent article sont déterminées par
 	  - Code de la sécurité intérieure - art. R316-23 (V)
 	  - Code de la sécurité intérieure - art. R316-26 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 14
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2331-1
 
 
 ###### Article L2335-18
@@ -9171,34 +9344,6 @@ III. ― Un décret en Conseil d'Etat détermine les conditions et la procédure
 	**Cite**:
 
 	  - Code de la défense. - art. L2335-12
-
-
-##### Sous-section 6 : Dispositions communes 
-
-
-
-
-###### Article L2335-19
-
-Les contestations en douane portant sur la prohibition d'importation, d'exportation ou de transfert prévue au présent
-chapitre peuvent être soumises à un comité siégeant auprès du ministre de la défense et tranchées par lui. L'organisation et
-le fonctionnement de ce comité sont déterminés par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2012-929 du 31 juillet 2012 (Ab)
-	  - Décret n°2012-929 du 31 juillet 2012 - art. 1 (Ab)
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 29 (V)
 
 
 ##### Chapitre VI : Acquisition et détention
@@ -14378,6 +14523,31 @@ général des collectivités territoriales est remplacée par la référence aux
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
+###### Article L2421-1-1
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 2335-1, les mots : " provenant des Etats non
+membres de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 2335-2, les mots : " vers des Etats non
+membres de l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 2335-3, les mots : " en France " sont
+remplacés par les mots : " à Saint-Pierre-et-Miquelon " et les mots : " dans un Etat non membre de l'Union européenne " sont
+remplacés par les mots : " hors de la collectivité. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 8
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+
+
 ###### Article L2421-2
 
 Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés
@@ -14492,25 +14662,28 @@ En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut po
 à des personnes physiques ou morales dont le domicile ou le siège social est situé à Mayotte. Les autres navires ou aéronefs
 en stationnement dans un port ou un aéroport de Mayotte ne peuvent être réquisitionnés que par le ministre chargé des
 transports qui les utilise après consultation préalable du ministre de l'outre-mer ; toutefois, en cas de rupture des
-communications prévu par l'article L. 1311-1, le haut fonctionnaire de zone de défense territorialement compétent peut, en
-liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge d'en rendre compte,
-dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
+communications prévu par l'article L. 1311-1, le haut fonctionnaire de  zone de défense et de sécurité territorialement
+compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge
+d'en rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-156 1980-02-18 art. 2, alinéa 3, ecqc Mayotte
 	  - Décret n°80-156 du 18 février 1980 - art. 2 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article L2431-6
@@ -14533,8 +14706,9 @@ applicables localement.
 
 ###### Article L2441-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2353-13 et L. 2371-1.
+Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, 
+L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
@@ -14545,7 +14719,7 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 139
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 9
 
 	**Cite**:
 
@@ -14555,6 +14729,7 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322
 	  - Code de la défense. - art. L2232-1
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2336-1
 	  - Code de la défense. - art. L2371-1
 
 	**Cité par**:
@@ -14610,31 +14785,59 @@ commandant supérieur des forces armées.
 	  - Code de la défense. - art. L2221-1 (V)
 
 
+###### Article L2441-3-1
+
+Pour l'application dans les îles Wallis et Futuna des dispositions de l'article L. 2335-1, les mots : " provenant des Etats
+non membres de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application dans les îles Wallis et Futuna des dispositions de l'article L. 2335-2, les mots : " vers des Etats non
+membres de l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application dans les îles Wallis et Futuna des dispositions de l'article L. 2335-3, les mots : " en France " sont
+remplacés par les mots : " dans les îles Wallis et Futuna " et les mots : " dans un Etat non membre de l'Union européenne "
+sont remplacés par les mots : " hors de la collectivité ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 9
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+
+
 ###### Article L2441-4
 
 En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut porter que sur ceux d'entre eux qui appartiennent
 à des personnes physiques ou morales dont le domicile ou le siège social est situé dans les îles Wallis et Futuna. Les autres
 navires ou aéronefs en stationnement dans un port ou un aéroport des îles Wallis et Futuna ne peuvent être réquisitionnés que
 par le ministre chargé des transports qui les utilise après consultation préalable du ministre de l'outre-mer ; toutefois, en
-cas de rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de zone de défense territorialement
-compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge
-d'en rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
+cas de rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de  zone de défense et de sécurité
+territorialement compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces
+moyens, à charge d'en rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-156 1980-02-18 art. 2, alinéa 3, ecqc Wallis et Futuna
 	  - Décret n°80-156 du 18 février 1980 - art. 2 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article L2441-5
@@ -14657,15 +14860,17 @@ ayant le même objet applicables localement.
 
 ###### Article L2451-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1
-à L. 2312-8, L. 2313-4, L. 2322-1 à L. 2343-12, 
-L. 2344-1 à L. 2344-11, L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 2371-1.
+Sont applicables en Polynésie française, les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L.
+2311-1 à L. 2312-8, L. 2313-4, 
+L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, 
+L. 2344-1 à L. 2344-11, 
+L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 139
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 10
 
 	**Cite**:
 
@@ -14674,11 +14879,12 @@ L. 2344-1 à L. 2344-11, L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 23
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2313-4
 	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2344-1
+	  - Code de la défense. - art. L2336-1
 	  - Code de la défense. - art. L2352-2
 	  - Code de la défense. - art. L2353-11
 	  - Code de la défense. - art. L2353-4
 	  - Code de la défense. - art. L2371-1
+	  - Code de la défense. - art. L2441-1
 
 
 ###### Article L2451-2
@@ -14752,31 +14958,59 @@ au commandant supérieur des forces armées.
 	  - Code de la défense. - art. L2221-1 (V)
 
 
+###### Article L2451-4-1
+
+Pour l'application en Polynésie française des dispositions de l'article L. 2335-1, les mots : " provenant des Etats non
+membres de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application en Polynésie française des dispositions de l'article L. 2335-2, les mots : " vers des Etats non membres de
+l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application en Polynésie française des dispositions de l'article L. 2335-3, les mots : " en France " sont remplacés
+par les mots : " en Polynésie française " et les mots : " dans un Etat non membre de l'Union européenne " sont remplacés par
+les mots : " hors de la collectivité ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 10
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+
+
 ###### Article L2451-5
 
 En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut porter que sur ceux d'entre eux qui appartiennent
 à des personnes physiques ou morales dont le domicile ou le siège social est situé en Polynésie française. Les autres navires
 ou aéronefs en stationnement dans un port ou un aéroport de Polynésie française ne peuvent être réquisitionnés que par le
 ministre chargé des transports qui les utilise après consultation préalable du ministre de l'outre-mer ; toutefois, en cas de
-rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de zone de défense territorialement compétent
-peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge d'en
-rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
+rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de  zone de défense et de sécurité
+territorialement compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces
+moyens, à charge d'en rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-156 1980-02-18 art. 2, alinéa 3, ecqc la Polynésie française
 	  - Décret n°80-156 du 18 février 1980 - art. 2 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article L2451-6
@@ -14827,8 +15061,9 @@ autorisation.
 
 ###### Article L2461-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2223-19, L. 2232-1
-à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2353-13 et L. 2371-1.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L.
+2371-1.
 
 **Liens relatifs à cet article**
 
@@ -14839,7 +15074,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 139
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 11
 
 	**Cite**:
 
@@ -14848,6 +15083,7 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 
 	  - Code de la défense. - art. L2232-1
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2336-1
 	  - Code de la défense. - art. L2371-1
 
 
@@ -14917,27 +15153,55 @@ et au commandant supérieur des forces armées.
 	  - Code de la défense. - art. L2221-1 (V)
 
 
+###### Article L2461-4-1
+
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 2335-1, les mots : " provenant des Etats non
+membres de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 2335-2, les mots : " vers des Etats non membres de
+l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 2335-3, les mots : " en France " sont remplacés par
+les mots : " en Nouvelle-Calédonie " et les mots : " dans un Etat non membre de l'Union européenne " sont remplacés par les
+mots : " hors de la collectivité ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+
+
 ###### Article L2461-5
 
 En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut porter que sur ceux d'entre eux qui appartiennent
 à des personnes physiques ou morales dont le domicile ou le siège social est situé en Nouvelle-Calédonie. Les autres navires
 ou aéronefs en stationnement dans un port ou un aéroport de Nouvelle-Calédonie ne peuvent être réquisitionnés que par le
 ministre chargé des transports qui les utilise après consultation préalable du ministre de l'outre-mer ; toutefois, en cas de
-rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de zone de défense territorialement compétent
-peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces moyens, à charge d'en
-rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
+rupture des communications prévu par l'article L. 1311-1, le haut fonctionnaire de  zone de défense et de sécurité
+territorialement compétent peut, en liaison avec le représentant local du ministre chargé des transports, réquisitionner ces
+moyens, à charge d'en rendre compte, dès que possible, au ministre de l'outre-mer et au ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°80-156 1980-02-18 art. 2, alinéa 3, ecqc la Nouvelle Calédonie
 	  - Décret n°80-156 du 18 février 1980 - art. 2 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
 
 	**Cite**:
 
@@ -14966,7 +15230,8 @@ objet applicables localement.
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
-2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2353-13 et L. 2371-1.
+2161-3, L. 2211-1 à L. 2223-19, 
+L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
 
 **Liens relatifs à cet article**
 
@@ -14974,12 +15239,13 @@ publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des art
 
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Code de la défense. - art. L2113-1
-	  - Code de la défense. - art. L2151-1 (V)
+	  - Code de la défense. - art. L2151-1
 	  - Code de la défense. - art. L2211-1
 	  - Code de la défense. - art. L2232-1
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2371-1 (T)
+	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2371-1
 
 	**Codifié par**:
 
@@ -14988,7 +15254,7 @@ publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des art
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 139
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 12
 
 
 ###### Article L2471-2
@@ -15034,6 +15300,25 @@ de l'Etat et au commandant supérieur des forces armées.
 	  - Code de la défense. - art. L2221-1 (V)
 
 
+###### Article L2471-3-1
+
+Pour l'application aux Terres australes et antarctiques françaises des dispositions de l'article L. 2335-1, les mots :
+provenant des Etats non membres de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application aux Terres australes et antarctiques françaises des dispositions de l'article L. 2335-2, les mots : " vers
+des Etats non membres de l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application aux Terres australes et antarctiques françaises des dispositions de l'article L. 2335-3, les mots : " en
+France " sont remplacés par les mots : " dans les Terres australes et antarctiques françaises " et les mots : " dans un Etat
+non membre de l'Union européenne " sont remplacés par les mots : " hors du territoire ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 12
+
+
 ###### Article L2471-4
 
 En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut porter que sur ceux d'entre eux qui appartiennent
@@ -15041,26 +15326,28 @@ En ce qui concerne les navires ou aéronefs, le droit de réquisition ne peut po
 françaises. Les autres navires ou aéronefs en stationnement dans un port ou un aéroport des Terres australes et antarctiques
 françaises ne peuvent être réquisitionnés que par le ministre chargé des transports qui les utilise après consultation
 préalable du ministre de l'outre-mer ; toutefois, en cas de rupture des communications prévu par l'article L. 1311-1, le haut
-fonctionnaire de zone de défense territorialement compétent peut, en liaison avec le représentant local du ministre chargé
-des transports, réquisitionner ces moyens, à charge d'en rendre compte, dès que possible, au ministre de l'outre-mer et au
-ministre chargé des transports.
+fonctionnaire de  zone de défense et de sécurité territorialement compétent peut, en liaison avec le représentant local du
+ministre chargé des transports, réquisitionner ces moyens, à charge d'en rendre compte, dès que possible, au ministre de
+l'outre-mer et au ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°1939-05-02 art. 22, alinéa 1, ecqc les TAAF
-	  - Décret n°80-156 1980-02-18, art. 2, alinéa 3, ecqc les TAAF
 	  - Décret n°80-156 du 18 février 1980 - art. 2 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ###### Article L2471-5
@@ -15099,6 +15386,31 @@ première instance ".
 	  - Loi n°2008-493 du 26 mai 2008 - art. 4
 
 
+###### Article L2481-2
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 2335-1, les mots : " provenant des Etats non membres
+de l'Union européenne " sont remplacés par les mots : " de toute provenance ". 
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 2335-2, les mots : " vers des Etats non membres de
+l'Union européenne " sont remplacés par les mots : " quelle que soit leur destination ". 
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 2335-3, les mots : " en France " sont remplacés par
+les mots : " à Saint-Barthélemy " et les mots : " dans un Etat non membre de l'Union européenne " sont remplacés par les
+mots : " hors de la collectivité ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 13
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-1
+	  - Code de la défense. - art. L2335-2
+	  - Code de la défense. - art. L2335-3
+
+
 ##### Chapitre II : Saint-Martin
 
 ###### Article L2482-1
@@ -15125,15 +15437,15 @@ première instance ".
 
 #### TITRE II : ORGANISMES ET AUTORITES MILITAIRES
 
-##### Chapitre V : Organismes d'enquêtes techniques
+##### Chapitre V : Organismes d'enquêtes
 
 ###### Article L3125-1
 
-Les dispositions du titre III de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes de
-transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques sont
-applicables aux enquêtes techniques relatives aux événements de mer affectant les bâtiments des forces armées quel que soit
-l'endroit où ils se trouvent et aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques
-du ministère de la défense. 
+Les dispositions du titre II du livre VI de la première partie législative du code des transports applicables aux enquêtes
+techniques en cas d'évènement de mer ou d'accident ou incident de transport terrestre sont applicables aux enquêtes
+techniques relatives aux événements de mer affectant les bâtiments des forces armées quel que soit l'endroit où ils se
+trouvent et aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques du ministère de la
+défense. 
 
 Les attributions du ministre chargé des transports et des organismes permanents spécialisés sont exercées respectivement par
 le ministre de la défense et par des organismes militaires spécialisés.
@@ -15142,16 +15454,12 @@ le ministre de la défense et par des organismes militaires spécialisés.
 
 	**Cite**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 (V)
+	  - Loi n°2002-3 du 3 janvier 2002
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Créé par**:
-
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -15166,29 +15474,37 @@ le ministre de la défense et par des organismes militaires spécialisés.
 	  - Code de la défense. - art. R3125-1 (V)
 	  - Code de procédure pénale - art. A1 (VT)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 26
+
 
 ###### Article L3125-2
 
-Les dispositions des I, II et III de l'article L. 711-1 et celles des articles L. 711-2 à L. 741-3 du code de l'aviation
-civile sont applicables à l'enquête technique relative à un accident ou un incident survenu à un aéronef conçu exclusivement
-à usage militaire ou exploité en circulation aérienne militaire ou à un aéronef qui n'est pas inscrit au registre
-d'immatriculation de l'aviation civile. 
+Les dispositions du titre II du livre VI de la première partie législative du code des transports applicables aux enquêtes de
+sécurité menées à la suite d'un accident ou incident grave de l'aviation civile, ainsi que les articles L. 6222-2 à L. 6223-3
+du même code, sont applicables à l'enquête de sécurité relative à un accident ou un incident survenu à un aéronef conçu
+exclusivement à usage militaire ou exploité en circulation aérienne militaire ou à un aéronef qui n'est pas inscrit au
+registre d'immatriculation de l'aviation civile. 
 
-Pour l'application des articles L. 711-2, L. 711-3 et L. 731-1 du même code, les attributions du ministre chargé de
-l'aviation civile, des agents appartenant aux corps techniques de l'aviation civile et des autorités administratives chargées
-de la sécurité de l'aviation civile sont exercées respectivement par le ministre de la défense, les agents commissionnés ou
-agréés et les organismes militaires ou civils chargés de la sécurité aérienne.
+Les attributions de l'autorité responsable des enquêtes de sécurité, des enquêteurs de sécurité, des enquêteurs de première
+information sont exercées respectivement par le directeur d'un organisme militaire spécialisé, les agents de cet organisme
+militaire spécialisé, des agents commissionnés ou agréés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Code des transports - art. L6222-2
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 26
 
 	**Cité par**:
 
@@ -15199,28 +15515,34 @@ agréés et les organismes militaires ou civils chargés de la sécurité aérie
 	  - Code de la défense. - art. L3571-1 (V)
 	  - Code de procédure pénale - art. A1 (VT)
 
-	**Cite**:
-
-	  - Code de l'aviation civile - art. L711-1 (V)
-	  - Code de l'aviation civile - art. L711-2 (Ab)
-	  - Code de l'aviation civile - art. L711-3 (V)
-	  - Code de l'aviation civile - art. L731-1 (V)
-
 
 ###### Article L3125-3
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+Les règles relatives à la procédure d'enquête, aux pouvoirs d'investigation reconnus aux enquêteurs, au respect du secret de
+l'enquête judiciaire et du secret professionnel, ainsi qu'au régime des sanctions relatives à l'enquête technique, prévues en
+cas d'événement de mer ou d'accident ou d'incident de transport terrestre aux articles L. 1621-2 à L. 1622-2 du code des
+transports, sont applicables à l'enquête technique dont tout accident de tir ou de munitions ou tout accident de plongée
+subaquatique en scaphandre autonome ou de plongée en caisson intervenu au cours d'une activité des armées peut faire
+l'objet. 
+
+Les attributions du ministre chargé des transports et celles de l'organisme permanent sont exercées respectivement par le
+ministre de la défense et par les organismes militaires spécialisés mentionnés à l'article L. 3125-1 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - Code des transports - art. L1621-2
+	  - Code de la défense. - art. L3125-1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 27
 
 	**Cité par**:
 
@@ -15229,6 +15551,17 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 	  - Code de la défense. - art. L3551-1 (V)
 	  - Code de la défense. - art. L3561-1 (V)
 	  - Code de la défense. - art. L3571-1 (V)
+
+
+###### Article L3125-4
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 27
 
 
 ### LIVRE II : LES FORCES ARMÉES
@@ -16168,23 +16501,25 @@ le même objet applicables localement.
 
 ###### Article L3531-1
 
-Sont applicables à Mayotte les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3, L. 3225-1 et
-L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables à Mayotte les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1 et L. 3421-1
+à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 24
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3125-3 (V)
-	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3225-1 (V)
-	  - Code de la défense. - art. L3421-1 (V)
+	  - Code de la défense. - art. L3125-1
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L3225-1
+	  - Code de la défense. - art. L3421-1
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
@@ -16193,28 +16528,25 @@ L. 3421-1 à L. 3422-7 du code de la défense.
 
 ###### Article L3541-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1, L.
-3211-2 et L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1, L. 3211-2 et
+L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3125-3 (V)
-	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3211-2 (V)
-	  - Code de la défense. - art. L3421-1 (V)
+	  - Code de la défense. - art. L3125-1
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L3421-1
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -16223,22 +16555,21 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 
 ###### Article L3551-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3,
-L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables en Polynésie française les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1
+et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 24
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3225-1 (V)
-	  - Code de la défense. - art. L3421-1 (V)
+	  - Code de la défense. - art. L3125-1
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L3225-1
+	  - Code de la défense. - art. L3421-1
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -16247,23 +16578,21 @@ L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 ###### Article L3561-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L. 3211-1 à L. 3211-3,
-L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1
+et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 24
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3125-3 (V)
-	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3225-1 (V)
-	  - Code de la défense. - art. L3421-1 (V)
+	  - Code de la défense. - art. L3125-1
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L3225-1
+	  - Code de la défense. - art. L3421-1
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -16273,24 +16602,21 @@ L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 ###### Article L3571-1
 
 Sous réserve des dispositions du traité de l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1, L. 3125-2, L. 3125-3, L.
-3211-1 à L. 3211-3, L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
+applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à
+L. 3211-3, L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°61-1300 du 30 novembre 1961, v. init.
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de la défense. - art. L3125-2 (V)
-	  - Code de la défense. - art. L3125-3 (V)
-	  - Code de la défense. - art. L3211-1 (V)
-	  - Code de la défense. - art. L3225-1 (V)
-	  - Code de la défense. - art. L3421-1 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 24
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3125-1
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L3225-1
+	  - Code de la défense. - art. L3421-1
 
 
 ## PARTIE 4 : LE PERSONNEL MILITAIRE
@@ -16719,25 +17045,29 @@ des sommes indûment perçues, par voie de retenue sur la solde.
 
 Les militaires ont droit à une rémunération comportant notamment la solde dont le montant est fixé en fonction soit du grade,
 de l'échelon et de la qualification ou des titres détenus, soit de l'emploi auquel ils ont été nommés. Il peut y être ajouté
-des prestations en nature.
+des prestations en nature. 
 
 Le classement indiciaire des corps, grades et emplois qui est applicable aux militaires tient compte des sujétions et
-obligations particulières auxquelles ils sont soumis.
+obligations particulières auxquelles ils sont soumis. 
 
 A la solde des militaires s'ajoutent l'indemnité de résidence et, le cas échéant, les suppléments pour charges de famille.
 Une indemnité pour charges militaires tenant compte des sujétions propres à l'état militaire leur est également allouée dans
-les conditions fixées par décret.
+les conditions fixées par décret. 
 
 Peuvent également s'ajouter des indemnités particulières allouées en raison des fonctions exercées, des risques courus, du
-lieu d'exercice du service ou de la qualité des services rendus.
+lieu d'exercice du service ou de la qualité des services rendus. 
 
 Les statuts particuliers fixent les règles de classement et d'avancement dans les échelons d'un grade. Ils peuvent prévoir
-des échelons exceptionnels ou spéciaux.
+des échelons exceptionnels ou spéciaux. 
 
 Toute mesure de portée générale affectant la rémunération des fonctionnaires civils de l'Etat est, sous réserve des mesures
-d'adaptation nécessaires, appliquée avec effet simultané aux militaires.
+d'adaptation nécessaires, appliquée avec effet simultané aux militaires. 
 
-Lorsque l'affectation entraîne des difficultés de logement, les militaires bénéficient d'une aide appropriée.
+Lorsque l'affectation entraîne des difficultés de logement, les militaires bénéficient d'une aide appropriée. 
+
+Les volontaires dans les armées et les élèves ayant le statut de militaire en formation dans les écoles désignées par arrêté
+du ministre de la défense reçoivent une rémunération fixée par décret qui peut être inférieure à la rémunération prévue à
+l'article L. 3231-2 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -16763,12 +17093,19 @@ Lorsque l'affectation entraîne des difficultés de logement, les militaires bé
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 10
 	  - Loi n°2005-270 du 24 mars 2005 - art. 10 (Ab)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 23
+
+	**Cite**:
+
+	  - Code du travail - art. L3231-2
 
 
 ##### Section 2 : Garanties et couverture des risques
@@ -18606,9 +18943,9 @@ Reste dans cette position le militaire :
 
 1° Qui bénéficie : 
 
-a) De congés de maladie ; 
+a)   De congés de maladie ou du congé du blessé ; 
 
-b) De congés     de maternité, de paternité et d'accueil de l'enfant ou d'adoption  ; 
+b) De congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ; 
 
 c) De permissions ou de congés de fin de campagne ; 
 
@@ -18701,6 +19038,7 @@ permissions et des congés de fin de campagne.
 	  - Décret n°2017-1012 du 10 mai 2017 - art. 10 (VD)
 	  - Code de commerce - art. R821-1-2 (Ab)
 	  - Code de commerce - art. R821-14-1 (V)
+	  - Code de la défense. - art. L4138-14 (V)
 	  - Code de la défense. - art. L4139-5 (V)
 	  - Code de la défense. - art. L4139-5-1 (V)
 	  - Code de la défense. - art. L4144-1 (V)
@@ -18727,7 +19065,7 @@ permissions et des congés de fin de campagne.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1404 du 17 décembre 2012 - art. 94
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 20 (V)
 
 	**Cite**:
 
@@ -18758,6 +19096,39 @@ d'affection dûment constatée mettant le militaire dans l'impossibilité d'exer
 
 	  - Loi n°2005-270 2005-03-24 art. 47
 	  - Loi n°2005-270 du 24 mars 2005 - art. 47 (Ab)
+
+
+###### Article L4138-3-1
+
+Le congé du blessé, d'une durée maximale de dix-huit mois, est attribué, après épuisement des droits à congés de maladie
+fixés à l'article L. 4138-3, au militaire blessé ou ayant contracté une maladie, en opération de guerre, au cours d'une
+opération qualifiée d'opération extérieure dans les conditions prévues à l'article L. 4123-4, sauf faute détachable du
+service, s'il se trouve dans l'impossibilité d'exercer ses fonctions et s'il présente une probabilité objective de
+réinsertion ou de reconversion au sein du ministère de la défense ou, pour les militaires de la gendarmerie nationale, au
+sein du ministère de l'intérieur. 
+
+Un décret en Conseil d'Etat fixe les modalités d'attribution de ce congé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-130 du 3 février 2017 (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 12 (V)
+	  - Code de l'éducation - art. D633-15 (V)
+	  - Code de l'éducation - art. R632-18 (V)
+	  - Code de l'éducation - art. R632-47 (VD)
+	  - Code de la défense. - art. R4138-3-1 (V)
+	  - Code général des impôts, CGI. - art. 796 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4123-4
+	  - Code de la défense. - art. L4138-3
 
 
 ###### Article L4138-4
@@ -19105,8 +19476,9 @@ militaire servant en vertu d'un contrat.
 
 ###### Article L4138-12
 
-Le congé de longue durée pour maladie est attribué, après épuisement des droits de congé de maladie prévus à l'article L.
-4138-3, pour les affections dont la liste est fixée par décret en Conseil d'Etat. 
+Le congé de longue durée pour maladie est attribué, après épuisement des droits de congé de maladie ou des droits du congé du
+blessé prévus aux articles L. 4138-3 et L. 4138-3-1, pour les affections dont la liste est fixée par décret en Conseil
+d'Etat. 
 
 Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions ou à la suite de l'une des causes
 exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
@@ -19128,12 +19500,15 @@ temps passé en congé est pris en compte pour les droits à pension de retraite
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 55
 	  - Loi n°2005-270 du 24 mars 2005 - art. 55 (Ab)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 21
 
 	**Cité par**:
 
@@ -19145,18 +19520,19 @@ temps passé en congé est pris en compte pour les droits à pension de retraite
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L27 (V)
-	  - Code de la défense. - art. L4138-3 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L27
+	  - Code de la défense. - art. L4138-3
 
 
 ###### Article L4138-13
 
-Le congé de longue maladie est attribué, après épuisement des droits de congé de maladie fixés à l'article L.4138-3, dans les
-cas autres que ceux prévus à l'article L.4138-12, lorsque l'affection constatée met l'intéressé dans l'impossibilité
-d'exercer ses fonctions et qu'elle présente un caractère invalidant et de gravité confirmée. 
+Le congé de longue maladie est attribué, après épuisement des droits de congé de maladie ou des droits du congé du blessé
+fixés aux articles L. 4138-3 et L. 4138-3-1, dans les cas autres que ceux prévus à l'article L. 4138-12, lorsque l'affection
+constatée met l'intéressé dans l'impossibilité d'exercer ses fonctions et qu'elle présente un caractère invalidant et de
+gravité confirmée. 
 
 Lorsque l'affection survient du fait ou à l'occasion de l'exercice des fonctions ou à la suite de l'une des causes
-exceptionnelles prévues à l'article L.27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
+exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite, ce congé est d'une durée
 maximale de trois ans. Le militaire conserve, dans les conditions définies par décret en Conseil d'Etat, sa rémunération. 
 
 Dans les autres cas, le militaire de carrière, ou le militaire servant en vertu d'un contrat réunissant au moins trois ans de
@@ -19180,12 +19556,12 @@ congé est pris en compte pour les droits à pension de retraite.
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 21
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L27
-	  - Code de la défense. - art. L4138-12
+	  - Code de la défense. - art. L4138-12 (M)
 	  - Code de la défense. - art. L4138-3
 
 	**Cité par**:
@@ -19196,27 +19572,28 @@ congé est pris en compte pour les droits à pension de retraite.
 ###### Article L4138-14
 
 Le congé parental est la situation du militaire qui est admis à cesser temporairement de servir dans les armées pour élever
-son enfant.
+son enfant. 
 
-Ce congé, non rémunéré, est accordé à la mère après un congé pour maternité ou au père après la naissance et, au maximum,
-jusqu'au troisième anniversaire de l'enfant. Il est également accordé à la mère ou au père après l'adoption d'un enfant
-n'ayant pas atteint l'âge de la fin de l'obligation scolaire, sans préjudice du congé d'adoption qui peut intervenir au
-préalable. Le congé parental prend fin au plus tard à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de
-l'enfant, adopté ou confié en vue de son adoption, âgé de moins de trois ans. Lorsque l'enfant adopté ou confié en vue
+Ce congé, non rémunéré, est accordé de droit sur simple demande du militaire après la naissance ou l'adoption d'un enfant,
+sans préjudice du congé de maternité ou du congé d'adoption qui peut intervenir au préalable. Le congé parental prend fin au
+plus tard au troisième anniversaire de l'enfant ou à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de
+l'enfant, adopté ou confié en vue de son adoption, âgé de trois ans au plus. Lorsque l'enfant adopté ou confié en vue
 d'adoption est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé
-parental ne peut excéder une année à compter de l'arrivée au foyer.
+parental ne peut excéder une année à compter de l'arrivée au foyer. 
 
-Dans cette situation, le militaire acquiert le droit à la retraite dans les conditions fixées par le code des pensions
-civiles et militaires de retraite ; il conserve ses droits à l'avancement d'échelon, réduits de moitié. A l'expiration de son
-congé, il est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine. Il peut, sur sa demande, être
-réaffecté dans un poste le plus proche possible de sa résidence, sous réserve des nécessités du service.
+Dans cette situation, le militaire n'acquiert pas de droit à la retraite, sous réserve des dispositions législatives ou
+réglementaires relatives aux pensions prévoyant la prise en compte de périodes d'interruption d'activité liées à l'enfant ;
+il conserve ses droits à l'avancement d'échelon pour la totalité la première année, puis réduits de moitié. Le congé parental
+est considéré comme du service effectif dans sa totalité la première année, puis pour moitié les années suivantes. A
+l'expiration de son congé, le militaire est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine ou
+dans le grade ou l'emploi de détachement antérieur. Il peut, sur sa demande, être réaffecté dans un poste le plus proche
+possible de sa résidence, sous réserve des nécessités du service. 
 
-Le congé parental est accordé de droit à l'occasion de chaque naissance ou de chaque adoption dans les conditions prévues aux
-deuxième et troisième alinéas, sur simple demande, à la mère ou au père militaire.
-
-Si une nouvelle naissance survient au cours du congé parental, ce congé est prolongé au maximum jusqu'au troisième
-anniversaire du nouvel enfant ou, en cas d'adoption, jusqu'à l'expiration d'un délai maximum de trois ans à compter de
-l'arrivée au foyer du nouvel enfant adopté, dans les conditions prévues aux deuxième et troisième alinéas.
+Si une nouvelle naissance ou adoption intervient alors que le militaire se trouve déjà placé en congé parental, celui-ci a
+droit, du chef de son nouvel enfant, sans préjudice du bénéfice des dispositions du b du 1° de l'article L. 4138-2 du présent
+code, à un nouveau congé parental pour une durée de trois ans au plus à compter de la naissance ou de l'arrivée au foyer de
+l'enfant lorsque celui-ci est âgé de trois ans au plus, et d'un an au plus à compter de l'arrivée au foyer de l'enfant adopté
+lorsque celui-ci est âgé de plus de trois ans mais n'a pas encore atteint l'âge de la fin de l'obligation scolaire. 
 
 Le titulaire du congé parental peut demander d'écourter la durée de ce congé.
 
@@ -19224,12 +19601,19 @@ Le titulaire du congé parental peut demander d'écourter la durée de ce congé
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 57
 	  - Loi n°2005-270 du 24 mars 2005 - art. 57 (Ab)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 18
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-2 (V)
 
 	**Cité par**:
 
@@ -20249,34 +20633,34 @@ Officiers des armes de l'armée de terre, officiers de marine, officiers spécia
 officiers mécaniciens de l'air 
 
 </td>
-      <td width="398" valign="bottom" colspan="4">
+      <td valign="bottom" width="398" colspan="4">
 
 59 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 63 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers de gendarmerie 
 
 </td>
-      <td valign="bottom" width="318" colspan="3">
+      <td width="318" colspan="3" valign="bottom">
 
 59 
 
 </td>
-      <td width="79" valign="bottom">
+      <td valign="bottom" width="79">
 
 60 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 63 
 
@@ -20288,12 +20672,12 @@ Officiers de gendarmerie
 Officiers de l'air 
 
 </td>
-      <td valign="bottom" width="205" colspan="2">
+      <td colspan="2" width="205" valign="bottom">
 
 52 
 
 </td>
-      <td valign="bottom" width="192" colspan="2">
+      <td colspan="2" width="192" valign="bottom">
 
 56 
 
@@ -20305,18 +20689,18 @@ Officiers de l'air
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Commissaires des armées (1), officiers des corps techniques et administratifs, ingénieurs militaires des essences,
-administrateurs des affaires maritimes 
+administrateurs des affaires maritimes, officiers spécialistes de l'armée de terre, officiers logisticiens des essences. 
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td width="398" valign="bottom" colspan="4">
 
 62 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 64 
 
@@ -20325,32 +20709,32 @@ administrateurs des affaires maritimes
     <tr>
       <td valign="top" width="190">
 
-Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes 
+Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 
 </td>
-      <td valign="bottom" width="398" colspan="4">
+      <td colspan="4" valign="bottom" width="398">
 
 62 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 67 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Militaires infirmiers et techniciens des hôpitaux des armées (officiers) 
 
 </td>
-      <td colspan="4" width="398" valign="bottom">
+      <td width="398" colspan="4" valign="bottom">
 
 62
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 -
 
@@ -20368,7 +20752,7 @@ maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infr
 66 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 67 
 
@@ -20378,11 +20762,10 @@ maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infr
       <td width="190" valign="top">
 
 Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au
-sein de la trésorerie aux armées, aumôniers militaires, officiers spécialistes de l'armée de terre, officiers logisticiens
-des essences 
+sein de la trésorerie aux armées, aumôniers militaires
 
 </td>
-      <td width="398" valign="bottom" colspan="4">
+      <td width="398" colspan="4" valign="bottom">
 
 66
 
@@ -20404,6 +20787,11 @@ pensions civiles et militaires de retraite correspond au terme de la durée ains
 
 Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur
 demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ; 
+
+Les officiers du corps technique et administratif de la marine admis d'office, le 1er janvier 2016, dans le corps des
+officiers spécialisés de la marine conservent à titre personnel la limite d'âge qui leur était applicable avant leur
+intégration dans ce corps. Lorsqu'ils sont promus au premier grade d'officier général, ces officiers conservent l'âge de
+maintien en première section de leur ancien corps d'appartenance.
 
 3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après : 
 
@@ -20450,12 +20838,12 @@ correspondante
   </thead>
   <tbody>
     <tr>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant) 
 
 </td>
-      <td colspan="2" valign="bottom" align="center">
+      <td valign="bottom" colspan="2" align="center">
 
 47 
 
@@ -20465,7 +20853,7 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 52 
 
 </td>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 58 
 
@@ -20487,7 +20875,7 @@ Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et a
 58 (y compris le grade de gendarme) 
 
 </td>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 59 
 
@@ -20499,12 +20887,12 @@ Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et a
 Sous-officiers du personnel navigant de l'armée de l'air 
 
 </td>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 47 
 
 </td>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 52 
 
@@ -20523,7 +20911,7 @@ infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ce
 spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
 
 </td>
-      <td valign="bottom" colspan="5" align="center">
+      <td colspan="5" align="center" valign="bottom">
 
 59 
 
@@ -20535,7 +20923,7 @@ spécialisés, majors des ports (marine) et officiers mariniers de carrière des
 Sous-officiers du service des essences des armées
 
 </td>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 -
 
@@ -20555,7 +20943,7 @@ ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière
 appariteurs 
 
 </td>
-      <td align="center" valign="bottom" colspan="5">
+      <td valign="bottom" colspan="5" align="center">
 
 66 
 
@@ -20673,7 +21061,8 @@ Conformément au II de l'article 40 de la loi n° 2013-1168 du 18 décembre 2013
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 40 (V)
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 19
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 2 (V)
 
 	**Cite**:
 
@@ -21019,9 +21408,9 @@ définies par les articles 21-14-1 et 21-15 du code civil.
 Les dispositions des articles L. 4121-1 et L. 4121-2, des premier et dernier alinéas de l'article L. 4121-4, des premier et
 dernier alinéas de l'article L. 4121-5, des articles L. 4121-7 et L. 4121-8, des articles L. 4122-1 et L. 4123-1, des
 premier, troisième et quatrième alinéas de l'article L. 4123-2, des articles L. 4123-4 et L. 4123-5, L. 4123-8, L. 4123-10 à
-L. 4123-18, L. 4131-1, L. 4135-1, L. 4136-1, L. 4137-1 à L. 4137-5, L. 4138-3, L. 4138-5 et des 2° à 4° de l'article L.
-4139-14 sont applicables aux réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve
-opérationnelle ou au titre de la disponibilité.
+L. 4123-18, L. 4131-1, L. 4135-1, L. 4136-1, L. 4137-1 à L. 4137-5, L. 4138-3, L. 4138-3-1,L. 4138-5 et des 2° à 4° de
+l'article L. 4139-14 sont applicables aux réservistes qui exercent une activité au titre d'un engagement à servir dans la
+réserve opérationnelle ou au titre de la disponibilité. 
 
 L'officier ou le sous-officier de réserve ne peut être promu au grade supérieur que s'il compte, dans le grade, une
 ancienneté au moins égale à celle de l'officier ou du sous-officier de carrière du même corps et du même grade le moins
@@ -21049,7 +21438,7 @@ politique ou syndicale pendant leur présence sous les drapeaux.
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 22
 
 	**Cite**:
 
@@ -21060,7 +21449,7 @@ politique ou syndicale pendant leur présence sous les drapeaux.
 	  - Code de la défense. - art. L4121-7
 	  - Code de la défense. - art. L4121-8
 	  - Code de la défense. - art. L4122-1
-	  - Code de la défense. - art. L4123-1
+	  - Code de la défense. - art. L4123-1 (V)
 	  - Code de la défense. - art. L4123-10
 	  - Code de la défense. - art. L4123-2
 	  - Code de la défense. - art. L4123-4
@@ -21071,7 +21460,7 @@ politique ou syndicale pendant leur présence sous les drapeaux.
 	  - Code de la défense. - art. L4136-1
 	  - Code de la défense. - art. L4137-1
 	  - Code de la défense. - art. L4138-3
-	  - Code de la défense. - art. L4138-5 (V)
+	  - Code de la défense. - art. L4138-5
 	  - Code de la défense. - art. L4139-14
 
 

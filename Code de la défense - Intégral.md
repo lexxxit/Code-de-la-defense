@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-07-19
 
 # Partie législative
 
@@ -36840,11 +36840,10 @@ aériennes ;
 
 En matière de sûreté aérienne, la commission peut émettre des propositions relatives à la répartition des attributions des
 services de l'Etat concourant à la sûreté des aérodromes, aux principe de délégation de missions de sûreté ainsi qu'à la
-politique de formation. Elle valide les orientations stratégiques du programme national de sûreté de l'aviation civile et
-examine annuellement le bilan de la mise en oeuvre de ce programme. 
+politique de formation. Elle valide les orientations stratégiques du programme national de sûreté de l'aviation civile. 
 
 En matière de défense aérienne, la commission coordonne l'élaboration des mesures interministérielles de mise en oeuvre des
-plans et des décisions arrêtés en  conseil de défense et de sécurité nationale. Elle veille à la prise en compte des
+plans et des décisions arrêtés en conseil de défense et de sécurité nationale. Elle veille à la prise en compte des
 contraintes liées aux opérations de défense aérienne.
 
 **Liens relatifs à cet article**
@@ -36852,6 +36851,10 @@ contraintes liées aux opérations de défense aérienne.
 	**Anciens textes**:
 
 	  - Décret n°2007-234 du 22 février 2007 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-805 du 16 juillet 2014 - art. 1
 
 	**Cité par**:
 
@@ -36866,38 +36869,41 @@ contraintes liées aux opérations de défense aérienne.
 Outre le directeur du cabinet du Premier ministre qui en assure la présidence, la commission interministérielle de la sûreté
 aérienne comprend : 
 
-1° Le     secrétaire général de la défense et de la sécurité nationale ; 
+1° Le secrétaire général de la défense et de la sécurité nationale ; 
 
-2° Le secrétaire général du ministère de l'intérieur ; 
+2° Le haut fonctionnaire de défense placé auprès du ministre de l'intérieur ;
 
 3° Le directeur général de la police nationale ; 
 
-4° Le haut fonctionnaire de défense placé auprès du ministre de l'intérieur ; 
+4° Le directeur général de la gendarmerie nationale ; 
 
-5° Le directeur général de la gendarmerie nationale ; 
+5° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre de la défense ; 
 
-6° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre de la défense ; 
+6° Le commandant de la défense aérienne et des opérations aériennes ; 
 
-7° Le commandant de la défense aérienne et des opérations aériennes ; 
+7° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre des affaires étrangères ; 
 
-8° Le haut fonctionnaire correspondant de défense et de sécurité placé auprès du ministre des affaires étrangères ; 
+8° Le directeur général des douanes et droits indirectes ; 
 
-9° Le directeur général des douanes et droits indirectes ; 
+9° Le directeur général de l'aviation civile ; 
 
-10° Le directeur général de l'aviation civile ; 
+10° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre chargé de l'aviation civile ; 
 
-11° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre chargé des transports ; 
-
-12° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre de l'outre-mer. 
+11° Le haut fonctionnaire de défense et de sécurité placé auprès du ministre de l'outre-mer. 
 
 Les membres de la commission peuvent se faire représenter par un suppléant nommément désigné à cet effet. 
 
-Le secrétariat de la commission est assuré par le     secrétaire général de la défense et de la sécurité nationale. 
+Le secrétariat de la commission est assuré par le secrétaire général de la défense et de la sécurité nationale. 
 
 La commission se réunit sur convocation de son président au moins deux fois par an. 
 
 Lorsqu'une question particulière le justifie, le président de la commission peut inviter des personnalités qualifiées à
 participer aux travaux de la commission.
+
+Afin de rendre compte à la commission des travaux du conseil national de la sûreté de l'aviation civile, le président de ce
+conseil transmet, chaque année, au secrétariat de la commission le rapport annuel du conseil. Le président de la commission
+peut inviter le président du conseil national de la sûreté de l'aviation civile à présenter ce rapport au cours d'une réunion
+de la commission.
 
 **Liens relatifs à cet article**
 
@@ -36905,24 +36911,33 @@ participer aux travaux de la commission.
 
 	  - Décret n°2007-234 du 22 février 2007 - art. 3 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2014-805 du 16 juillet 2014 - art. 2
+
 
 ###### Article D1443-4
 
-Le ministre chargé des transports est l'autorité compétente au sens du 2 de l'article 5 du règlement n° 2320/2002 du
-Parlement européen et du Conseil relatif à l'instauration de règles communes, dans le domaine de la sûreté de l'aviation
-civile. A ce titre, il est chargé de coordonner et de contrôler la mise en oeuvre du programme national de sûreté de
-l'aviation civile qui porte en particulier sur la sûreté des aérodromes.
+Le ministre chargé de l'aviation civile est l'autorité compétente au sens de l'article 9 du règlement (CE) n°300/2008 du
+Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et abrogeant le règlement (CE) n°2320/2002. A ce titre, il représente le Gouvernement dans les instances de
+concertation européenne relatives à la sûreté de l'aviation civile et il est chargé de la coordination et de la surveillance
+de la mise en œuvre des normes de base communes visées à l'article 4 de ce règlement. Il est également l'autorité compétente
+au sens du point 3.1.2 de l'annexe 17 à la convention relative à l'aviation civile internationale susvisée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2007-234 du 22 février 2007 - art. 4, v. init.
 	  - Décret n°2007-234 du 22 février 2007 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2014-805 du 16 juillet 2014 - art. 3
 
 
 ### LIVRE V : ACTION DE L'ÉTAT EN MER

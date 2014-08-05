@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-08-01
+Version Consolidée au 2014-08-06
 
 # Partie législative
 
@@ -17426,8 +17426,8 @@ militaires de la gendarmerie nommés dans les conditions prévues au I.
 
 ###### Article L4123-10
 
-Les militaires sont protégés par le code pénal et les lois spéciales contre les menaces, violences, voies de fait, injures,
-diffamations ou outrages dont ils peuvent être l'objet. 
+Les militaires sont protégés par le code pénal et les lois spéciales contre les menaces, violences, harcèlements moral ou
+sexuel, voies de fait, injures, diffamations ou outrages dont ils peuvent être l'objet. 
 
 L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent être l'objet à l'occasion de l'exercice de
 leurs fonctions et de réparer, le cas échéant, le préjudice qui en est résulté. Il est subrogé aux droits de la victime pour
@@ -17447,7 +17447,7 @@ les couvrir des condamnations civiles prononcées contre eux.
 
 Les conjoints, concubins, partenaires liés par un pacte civil de solidarité, enfants et ascendants directs des militaires
 bénéficient de la protection de l'Etat lorsque, du fait des fonctions de ces derniers, ils sont victimes de menaces,
-violences, voies de fait, injures, diffamations ou outrages. 
+violences, harcèlements moral ou sexuel, voies de fait, injures, diffamations ou outrages. 
 
 Cette protection peut également être accordée, à sa demande, au conjoint, concubin ou partenaire lié par un pacte civil de
 solidarité qui engage une instance civile ou pénale contre les auteurs d'une atteinte volontaire à la vie du militaire du
@@ -17504,7 +17504,66 @@ celles de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 35
+	  - Loi n°2014-873 du 4 août 2014 - art. 42
+
+
+###### Article L4123-10-1
+
+Aucun militaire ne doit subir les faits : 
+
+1° Soit de harcèlement sexuel, constitué par des propos ou comportements à connotation sexuelle répétés qui soit portent
+atteinte à sa dignité en raison de leur caractère dégradant ou humiliant, soit créent à son encontre une situation
+intimidante, hostile ou offensante ; 
+
+2° Soit assimilés au harcèlement sexuel, consistant en toute forme de pression grave, même non répétée, exercée dans le but
+réel ou apparent d'obtenir un acte de nature sexuelle, que celui-ci soit recherché au profit de l'auteur des faits ou au
+profit d'un tiers. 
+
+Aucune mesure concernant notamment le recrutement, la titularisation, la formation, la notation, la discipline, la promotion,
+l'affectation et la mutation ne peut être prise à l'égard d'un militaire : 
+
+a) Parce qu'il a subi ou refusé de subir les faits de harcèlement sexuel mentionnés aux trois premiers alinéas, y compris,
+dans le cas mentionné au 1°, si les propos ou comportements n'ont pas été répétés ; 
+
+b) Parce qu'il a formulé un recours auprès d'un supérieur hiérarchique ou engagé une action en justice visant à faire cesser
+ces faits ; 
+
+c) Ou parce qu'il a témoigné de tels faits ou qu'il les a relatés. 
+
+Est passible d'une sanction disciplinaire tout agent ou militaire ayant procédé ou enjoint de procéder aux faits de
+harcèlement sexuel mentionnés aux trois premiers alinéas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 42
+
+
+###### Article L4123-10-2
+
+Aucun militaire ne doit subir les agissements répétés de harcèlement moral qui ont pour objet ou pour effet une dégradation
+des conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale
+ou de compromettre son avenir professionnel. 
+
+Aucune mesure concernant notamment le recrutement, la titularisation, la formation, la notation, la discipline, la promotion,
+l'affectation et la mutation ne peut être prise à l'égard d'un militaire en prenant en considération : 
+
+1° Le fait qu'il ait subi ou refusé de subir les agissements de harcèlement moral mentionnés au premier alinéa ; 
+
+2° Le fait qu'il ait exercé un recours auprès d'un supérieur hiérarchique ou engagé une action en justice visant à faire
+cesser ces agissements ; 
+
+3° Ou le fait qu'il ait témoigné de tels agissements ou qu'il les ait relatés. 
+
+Est passible d'une sanction disciplinaire tout agent ou militaire ayant procédé ou ayant enjoint de procéder aux agissements
+définis ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-873 du 4 août 2014 - art. 42
 
 
 ###### Article L4123-11

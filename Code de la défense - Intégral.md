@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-08-10
 
 # Partie législative
 
@@ -15814,7 +15814,7 @@ collectivités territoriales, des établissements publics ou de toute autre pers
 
 2° Les dons et legs ; 
 
-3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre du 4° de l'article L. 6241-8-1 du code du
+3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre du 1° de l'article L. 6241-8 du code du
 travail et les ressources provenant de l'application de la législation sur la formation professionnelle continue ; 
 
 4° Les produits des activités de l'établissement ; 
@@ -15833,11 +15833,11 @@ travail et les ressources provenant de l'application de la législation sur la f
 
 	**Modifié par**:
 
-	  - Loi n°2014-288 du 5 mars 2014 - art. 19 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 8
 
 	**Cite**:
 
-	  - Code du travail - art. L6241-8-1
+	  - Code du travail - art. L6241-8
 
 
 ###### Article L3414-6

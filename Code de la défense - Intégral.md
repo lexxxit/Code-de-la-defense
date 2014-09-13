@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-08-10
+Version Consolidée au 2014-09-14
 
 # Partie législative
 
@@ -55647,14 +55647,14 @@ des armées.
 
 ###### Article D3121-17
 
-Le chef d'état-major des armées propose l'organisation générale des armées. Il élabore les directives correspondantes pour
-les commandements, les services et organismes interarmées, et les armées.
+Le chef d'état-major des armées propose l'organisation générale des armées. Il élabore  les ordres et les directives
+correspondants pour les commandements, les services et organismes interarmées, et les armées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2014-1040 du 11 septembre 2014 - art. 1
 
 
 ###### Article D3121-18
@@ -55735,14 +55735,14 @@ Il est placé sous les ordres du major général des armées.
 
 ###### Article D3121-22
 
-Le major général des armées est assisté d'un officier général adjoint, de cinq sous-chefs d'état-major et d'officiers
+Le major général des armées est assisté d'un officier général adjoint, de trois sous-chefs d'état-major et d'officiers
 généraux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
+	  - Décret n°2014-1040 du 11 septembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -55763,53 +55763,65 @@ conduites au sein de l'état-major des armées.
 
 ###### Article D3121-24
 
-Les sous-chefs d'état-major exercent les attributions ci-dessous, relevant des domaines dont ils sont particulièrement
-chargés. 
+Les sous-chefs d'état-major exercent les attributions ci-dessous. 
 
-Ils disposent chacun d'un officier général adjoint. 
+Chaque sous-chef d'état-major dispose d'un officiel général adjoint qui peut le suppléer en cas d'absence ou d'empêchement. 
 
 Leurs attributions sont : 
 
-I.-Pour le sous-chef d'état-major opérations : les attributions relevant des 2° et 4° de l'article R. * 3121-2 et des
-articles D. 3121-6 et D. 3121-8. 
+I.-Pour le sous-chef d'état-major opérations : les attributions relevant du 4° de l'article R. * 3121-2 et des articles D.
+3121-6 et D. 3121-8. 
 
 II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2 et de l'article D.
 3121-9. 
 
-III.-Pour le sous-chef d'état-major ressources humaines : les attributions relevant du 2° de l'article R. * 3121-2, de
-l'article D. 3121-10, des paragraphes II, III et IV de l'article D. 3121-11 et des articles D. 3121-13 et D. 3121-18. 
-
-Il contribue aux travaux liés à la définition de la politique relative à l'encadrement supérieur militaire. 
-
-IV.-Pour le sous-chef d'état-major relations internationales : les attributions relevant du paragraphe II de l'article D.
-3121-12 et de l'article D. 3121-14.
-
-V.-Pour le sous-chef d'état-major soutien : les attributions relevant du 5° de l'article R. * 3121-2 et des articles D.
-3121-15, D. 3121-16 et D. 3121-18.
+III.-Pour le sous-chef d'état-major " performance " : les attributions relevant des 1°, 2° et 5° de l'article R. * 3121-2, de
+l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des articles D. 3121-13, D. 3121-15, D. 3121-16, D.
+3121-17 et D. 3121-18.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 3 septembre 2012 - art. 2 (Ab)
 	  - Arrêté du 20 mars 2015 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1040 du 11 septembre 2014 - art. 3
+
 	**Cite**:
 
 	  - Code de la défense. - art. R*3121-2
 	  - Code de la défense. - art. R3121-10
 	  - Code de la défense. - art. R3121-11
-	  - Code de la défense. - art. R3121-12
 	  - Code de la défense. - art. R3121-13
-	  - Code de la défense. - art. R3121-14
 	  - Code de la défense. - art. R3121-15
 	  - Code de la défense. - art. R3121-18
 	  - Code de la défense. - art. R3121-6
+	  - Code de la défense. - art. R3121-8
 	  - Code de la défense. - art. R3121-9
+
+
+###### Article D3121-24-1
+
+Un officier général " relations internationales militaires " assiste le major général des armées. Il exerce les attributions
+relevant du II de l'article D. 3121-12 et de l'article D. 3121-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1040 du 11 septembre 2014 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 20 mars 2015 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3121-12
+	  - Code de la défense. - art. R3121-14
 
 
 ##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air 

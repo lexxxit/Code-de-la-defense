@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-09-14
+Version Consolidée au 2014-10-13
 
 # Partie législative
 
@@ -28658,23 +28658,25 @@ Dans le cadre de ses missions, la brigade de sapeurs-pompiers de Paris intervien
 
 3° La protection des personnes, des biens et de l'environnement ;
 
-4° L'assistance et les secours d'urgence aux personnes en détresse ou victimes d'accidents, de sinistres ou de catastrophes
-ainsi que leur évacuation.
+4° Les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes ainsi que leur évacuation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2000-1162 2000-11-28 art. 4 al. 3 à 7
 	  - Décret n°2000-1162 du 28 novembre 2000 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
 
 	**Cité par**:
 
 	  - Arrêté du 14 février 2014 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 1
 
 
 ###### Article R1321-21
@@ -58229,14 +58231,16 @@ auprès du ministre de l'intérieur dans les conditions prévues aux articles D.
 La brigade de sapeurs-pompiers de Paris est une unité militaire de sapeurs-pompiers de l'armée de terre appartenant à l'arme
 du génie. Le commandement en est exercé par un officier général.
 
-Le commandant de la brigade dispose d'adjoints, officiers supérieurs, auxquels il peut déléguer sa signature dans les
-conditions fixées par arrêté du ministre de la défense.
+Le commandant de la brigade dispose d'un commandant en second et d'adjoints. Sans préjudice des dispositions de l'article 77
+du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de
+l'Etat dans les régions et départements, il peut leur déléguer sa signature dans les conditions fixées par arrêté du ministre
+de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2004-374 du 29 avril 2004 - art. 77
 
 	**Cité par**:
 
@@ -58245,6 +58249,10 @@ conditions fixées par arrêté du ministre de la défense.
 	  - Code de la défense. - art. R3551-3 (V)
 	  - Code de la défense. - art. R3561-3 (V)
 	  - Code de la défense. - art. R3571-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 2
 
 
 ###### Article R3222-14
@@ -58267,7 +58275,7 @@ défense après avis du préfet de police.
 ###### Article R3222-15
 
 Le service de santé et de secours médical de la brigade de sapeurs-pompiers de Paris participe, dans son domaine de
-compétence, à l'exercice des missions prévues aux articles R. 1321-11 à R. 1321-15.
+compétence, à l'exercice des missions prévues aux articles R. 1321-19 à R. 1321-24-1. 
 
 A cet effet, il concourt en particulier à l'aide médicale urgente telle que définie par l'article L. 6311-1 du code de la
 santé publique. 
@@ -58282,20 +58290,20 @@ fonctionnement du service de santé et de secours médical de la brigade.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 3
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6311-1 (V)
-	  - Code de la santé publique - art. R1321-11 (V)
+	  - Code de la défense. - art. R1321-19
+	  - Code de la santé publique - art. L6311-1
 
 
 ###### Article R3222-16
 
-I. ― Le général commandant la brigade de sapeurs-pompiers de Paris dispose d'un centre de coordination des opérations et des
-transmissions lui permettant d'assurer :
+I. ― Le général commandant la brigade de sapeurs-pompiers de Paris dispose d'un centre opérationnel lui permettant
+d'assurer :
 
 1° La coordination des moyens d'incendie et de secours sur le secteur de compétence de la brigade ;
 
@@ -58304,23 +58312,22 @@ transmissions lui permettant d'assurer :
 3° La coordination médicale de la brigade et le déclenchement des interventions des équipes médicales du service de santé et
 de secours médical de la brigade.
 
-II. ― Le centre de coordination des opérations et des transmissions de la brigade est interconnecté avec, d'une part, les
-centres de réception et de régulation des appels des unités participant au service d'aide médicale urgente appelées SAMU des
-départements concernés et, d'autre part, les dispositifs de réception des appels des services de police territorialement
-compétents.
+II. ― Le centre opérationnel de la brigade est interconnecté avec, d'une part, les centres de réception et de régulation des
+appels des unités participant au service d'aide médicale urgente appelées SAMU des départements concernés et, d'autre part,
+les dispositifs de réception des appels des services de police territorialement compétents.
 
 III. ― Pour les interventions relevant de la gestion quotidienne des secours, les relations entre la brigade de sapeurs-
 pompiers de Paris et chacun des SAMU susmentionnés sont organisées par voie de convention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Arrêté du 14 février 2014 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 4
 
 
 ###### Article R3222-17
@@ -58351,28 +58358,6 @@ Elle peut, également, appliquer les dispositions contenues dans les guides nati
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. R1424-52 (V)
-
-
-###### Article R3222-18
-
-Le général commandant la brigade de sapeurs-pompiers de Paris peut recevoir délégation de signature du préfet de police.
-
-En cas d'absence ou d'empêchement du général commandant la brigade de sapeurs-pompiers de Paris, le préfet de police peut
-donner délégation de signature aux officiers supérieurs de l'état-major dans la limite de leurs attributions respectives.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Décret n°2014-1169 du 10 octobre 2014 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1169 du 10 octobre 2014 - art. 5
 
 
 ##### Sous-section 5 : Le commandement du service militaire adapté
@@ -69280,9 +69265,9 @@ Il peut déléguer au directeur adjoint une partie de ses compétences.
 
 ###### Article R3416-19
 
-Le comité directeur de l'océanographie militaire, le comité scientifique de l'océanographie militaire et le comité
-consultatif des utilisateurs des documents, levés et prestations du SHOM, dont les attributions et la composition sont fixées
-par arrêtés du ministre de la défense, assistent le conseil d'administration et le directeur général.
+Le comité directeur de l'océanographie militaire et le comité consultatif des utilisateurs des documents, levés et
+prestations du SHOM, dont les attributions et la composition sont fixées par arrêtés du ministre de la défense, assistent le
+conseil d'administration et le directeur général.
 
 Sur proposition du directeur général, le conseil d'administration peut décider de la création de comités consultatifs dont il
 fixe l'objet, la composition et la durée.
@@ -69299,16 +69284,16 @@ l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Arrêté du 11 mai 2009 - art. 1 (V)
 	  - Décret n°2009-630 du 6 juin 2009 - art. (VD)
 	  - Décret n°2014-596 du 6 juin 2014 - art. (V)
 	  - Code de la défense. - art. R3416-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 6
 
 
 ###### Article R3416-20
@@ -71752,20 +71737,19 @@ alinéas ci-dessus conclues au cours de l'année écoulée.
 ###### Article R3423-13
 
 Le président du conseil d'administration de l'office est nommé parmi les membres du conseil d'administration et sur
-proposition de celui-ci, pour une durée de trois ans renouvelable, par décret en conseil des ministres pris sur le rapport du
-ministre de la défense.
+proposition de celui-ci, par décret en conseil des ministres pris sur le rapport du ministre de la défense.
 
 Il assure la direction générale de l'office.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2014-1169 du 10 octobre 2014 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1169 du 10 octobre 2014 - art. 7
 
 
 ###### Article R3423-14

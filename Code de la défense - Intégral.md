@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-12-19
+Version Consolidée au 2014-12-25
 
 # Partie législative
 
@@ -2729,6 +2729,274 @@ Les règles relatives à la constitution et la conservation des stocks stratégi
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
+### LIVRE IV : MISE EN OEUVRE DE LA DEFENSE MILITAIRE
+
+#### TITRE Ier : LA DISSUASION NUCLEAIRE
+
+##### Chapitre Ier : Préparation, mise en œuvre et contrôle gouvernemental de la dissuasion nucléaire
+
+##### Section 1 : Protection des installations nucléaires intéressant la dissuasion
+
+###### Article L1411-1
+
+Les opérateurs publics ou privés exploitant des installations fixes susceptibles de détenir des matières nucléaires
+mentionnées à l'article L. 1333-14 et dont l'activité est destinée à développer, créer, stocker, contenir, maintenir, mettre
+en œuvre ou démanteler des moyens nécessaires à la mise en œuvre de la politique de dissuasion participent, dans les
+conditions définies à la présente section, à la protection de ces installations contre les actes malveillants ou hostiles et
+contre les atteintes au secret de la défense nationale. 
+
+Ces installations, dénommées installations nucléaires intéressant la dissuasion, sont désignées par décision de l'autorité
+administrative selon des modalités définies par décret en Conseil d'Etat. La décision désignant une installation comme
+installation nucléaire intéressant la dissuasion est notifiée à l'opérateur par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
+	  - Décret n°2016-284 du 10 mars 2016 (V)
+	  - Décret n°2017-588 du 20 avril 2017 - art. 2 (V)
+	  - Code de la défense. - art. D1333-79 (V)
+	  - Code de la défense. - art. L1333-13-12 (V)
+	  - Code de la défense. - art. L1411-2 (V)
+	  - Code de la défense. - art. L1641-1 (V)
+	  - Code de la défense. - art. L1651-1 (V)
+	  - Code de la défense. - art. L1661-1 (V)
+	  - Code de la défense. - art. L1671-1 (V)
+	  - Code de la défense. - art. R*1411-11-1 (V)
+	  - Code de la défense. - art. R*1411-11-18 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-14 (V)
+
+
+###### Article L1411-2
+
+Pour garantir la protection de chaque installation nucléaire intéressant la dissuasion, les opérateurs mentionnés à l'article
+L. 1411-1 mettent en œuvre des mesures adaptées permettant de répondre en permanence à un référentiel de menaces qui leur est
+adressé par l'autorité administrative selon des modalités définies par décret en Conseil d'Etat. 
+
+Pour les installations relevant du régime de protection des installations d'importance vitale défini par le chapitre II du
+titre III du livre III de la première partie du présent code, les plans particuliers de protection mentionnés à l'article L.
+1332-3 intègrent les mesures de protection mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
+	  - Code de la défense. - art. L1411-3 (V)
+	  - Code de la défense. - art. L1411-4 (V)
+	  - Code de la défense. - art. L1411-6 (V)
+	  - Code de la défense. - art. R*1411-11-3 (V)
+	  - Code de la défense. - art. R*1411-11-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-3 (V)
+	  - Code de la défense. - art. L1411-1 (V)
+
+
+###### Article L1411-3
+
+Indépendamment des autres procédures qui peuvent lui être applicables au titre d'autres dispositions du présent code ou
+d'autres législations, tout dispositif de protection d'une installation nucléaire intéressant la dissuasion doit faire
+l'objet d'une homologation par l'autorité administrative. Cette homologation atteste l'adéquation des mesures mises en œuvre
+au référentiel de menaces mentionné à l'article L. 1411-2. A cette fin, l'opérateur adresse à l'autorité administrative, dans
+le délai de six mois suivant la réception du référentiel de menaces mentionné à l'article L. 1411-2, une demande
+d'homologation décrivant les mesures déjà adoptées ou envisagées. Le contenu de la demande d'homologation est précisé par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-2 (V)
+	  - Code de la défense. - art. R*1411-11-5 (V)
+	  - Code de la défense. - art. R*1411-11-9 (V)
+	  - Code de la défense. - art. R1411-11-6 (V)
+
+
+###### Article L1411-4
+
+.-La décision d'homologation est prise par l'autorité administrative après l'examen de la demande d'homologation présentée
+par l'opérateur et, le cas échéant, un examen de l'installation, selon des modalités définies par décret en Conseil d'Etat. 
+
+L'homologation est prononcée par l'autorité administrative pour une durée maximale de quatre ans, renouvelable dans les mêmes
+conditions de fond et de forme. L'autorité administrative peut toutefois exiger le renouvellement de la demande
+d'homologation avant le terme prévu en cas de modification des conditions d'exploitation de l'installation nucléaire
+intéressant la dissuasion ou de modification du référentiel de menaces mentionné au premier alinéa de l'article L. 1411-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cité par**:
+
+	  - Arrêté du 3 juin 2016 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-2 (V)
+
+
+###### Article L1411-5
+
+Les mesures de protection mises en œuvre par l'opérateur exploitant une installation nucléaire intéressant la dissuasion font
+l'objet d'un contrôle par l'autorité administrative. 
+
+Les agents exerçant ce contrôle sont habilités au secret de la défense nationale et astreints au secret professionnel dans
+les conditions et sous les sanctions prévues aux articles 226-13 et suivants du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1411-10 (V)
+
+
+###### Article L1411-6
+
+I.-En cas de refus d'un opérateur de présenter une demande d'homologation ou de renouvellement d'homologation, l'autorité
+administrative l'avise des faits qui lui sont reprochés ainsi que des sanctions qu'il encourt et, après l'avoir informé de la
+possibilité de présenter ses observations, écrites ou orales, dans un délai d'un mois, le cas échéant assisté par un conseil
+ou représenté par un mandataire de son choix, peut le mettre en demeure de présenter une demande dans le délai qu'elle fixe. 
+
+II.-En cas de rejet d'une demande d'homologation motivé par l'inadaptation des mesures de protection au référentiel de
+menaces, l'autorité administrative peut mettre en demeure l'opérateur de réaliser, dans le délai qu'elle fixe et qui tient
+compte des conditions de fonctionnement de l'installation, les mesures nécessaires à la délivrance de l'homologation. 
+
+III.-En cas de manquement, constaté par l'autorité administrative, dans la mise en œuvre des mesures de protection répondant
+au référentiel de menaces mentionné au premier alinéa de l'article L. 1411-2, l'autorité administrative avise l'opérateur des
+faits qui lui sont reprochés ainsi que des sanctions qu'il encourt et, après l'avoir informé de la possibilité de présenter
+ses observations, écrites ou orales, dans un délai d'un mois, le cas échéant assisté par un conseil ou représenté par un
+mandataire de son choix, peut le mettre en demeure de prendre les mesures prescrites dans un délai qu'elle fixe et qui tient
+compte des conditions de fonctionnement de l'installation et des travaux à exécuter. 
+
+A l'expiration de ce délai, l'homologation peut être retirée lorsque les prescriptions de la mise en demeure ne sont pas
+respectées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1411-7 (V)
+	  - Code de la défense. - art. L1411-9 (V)
+
+
+###### Article L1411-7
+
+Indépendamment des poursuites pénales qui peuvent être exercées, l'autorité administrative peut, lorsque l'homologation a été
+retirée dans les conditions prévues au dernier alinéa du III de l'article L. 1411-6 : 
+
+1° Obliger l'opérateur à consigner entre les mains d'un comptable public avant la date qu'elle détermine une somme
+correspondant au montant des travaux ou opérations à réaliser. La somme consignée est restituée au fur et à mesure de
+l'exécution des travaux ou opérations ; 
+
+2° Faire procéder d'office, en lieu et place de l'opérateur et à ses frais, à l'exécution des mesures prescrites. Les sommes
+consignées en application du 1° sont utilisées pour régler les dépenses ainsi engagées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-6 (V)
+
+
+##### Section 2 : Sanctions pénales
+
+###### Article L1411-8
+
+Les infractions aux dispositions du présent chapitre et aux dispositions réglementaires afférentes sont constatées par des
+agents du ministère de la défense et les agents publics habilités dans des conditions fixées par décret en Conseil d'Etat. 
+
+Les opérateurs sont tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
+habilités. Ces investigations peuvent comporter notamment l'examen des lieux et des matériels. 
+
+Ils sont tenus de fournir les renseignements verbaux ou écrits demandés par ces mêmes agents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-15 (V)
+
+
+###### Article L1411-9
+
+Est puni d'un emprisonnement de trois ans et d'une amende de 150 000 € le fait de ne pas respecter les prescriptions d'une
+mise en demeure prévue aux I, II et III de l'article L. 1411-6 à l'expiration du délai fixé par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-6 (V)
+
+
+###### Article L1411-10
+
+Est puni d'un emprisonnement de deux ans et d'une amende de 30 000 € le fait d'entraver l'exercice du contrôle prévu à
+l'article L. 1411-5 ou de fournir sciemment aux agents chargés de ce contrôle des renseignements inexacts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-5 (V)
+
+
 ### LIVRE V : ACTION DE L'ÉTAT EN MER
 
 #### TITRE II : OPÉRATIONS EN MER
@@ -3348,8 +3616,8 @@ Pour l'application de la présente partie du code à Mayotte, les termes énumé
 
 ###### Article L1641-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L.
-1521-10.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10
+et L. 1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
@@ -3360,11 +3628,12 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1
 
 
@@ -3428,7 +3697,8 @@ ayant le même objet applicables localement.
 
 ###### Article L1651-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L. 1521-10.
+Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
+1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
@@ -3439,11 +3709,12 @@ Sont applicables en Polynésie française les dispositions des articles L. 1111-
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1
 
 
@@ -3526,7 +3797,8 @@ ayant le même objet applicables localement.
 
 ###### Article L1661-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L. 1521-10.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
+1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
@@ -3537,11 +3809,12 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1
 
 
@@ -3619,15 +3892,16 @@ objet applicables localement.
 ###### Article L1671-1
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-20 et L. 1521-1 à L.
-1521-10.
+publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L.
+1411-10 et L. 1521-1 à L. 1521-10.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1
 
 	**Codifié par**:
@@ -3637,7 +3911,7 @@ publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des art
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
 
 
 ###### Article L1671-2
@@ -23266,63 +23540,39 @@ exécutées et de faire cesser les gênes mentionnées et de rétablir l'état d
 	  - Code général de la propriété des personnes publ... - art. L2132-19 (V)
 
 
-### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
+#### TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES
 
-#### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE
+##### Chapitre unique
 
-##### Chapitre III : Comptes de commerce
+###### Article L5141-1
 
-###### Article L5213-1
-
-Les règles relatives au compte de commerce " Exploitations industrielles des ateliers aéronautiques de l'Etat " sont définies
-à l'article 25 de la loi n° 52-1402 du 30 décembre 1952, portant ouverture de crédits provisoires applicables au mois de
-janvier 1953.
+Tous bâtiments de guerre ennemis qui, au cours d'hostilités, tombent au pouvoir des forces maritimes françaises sont la
+propriété de l'Etat français.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Créé par**:
 
-	  - Loi n°52-1402 du 30 décembre 1952
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 1
 
 	**Cité par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
-	  - Code de la défense. - art. L5331-1 (M)
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 2
+	  - Code de la défense. - art. L5341-1 (V)
+	  - Code de la défense. - art. L5351-1 (V)
+	  - Code de la défense. - art. L5361-1 (V)
 
 
-###### Article L5213-2
-
-Les règles relatives au compte de commerce " Approvisionnement des armées en produits pétroliers " sont définies à l'article
-71 de la loi n° 84-1208 du 29 décembre 1984 portant loi de finances pour 1985.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-1208 DE FINANCES POUR 1985
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 2
-
+### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
 
 #### TITRE II : ADMINISTRATION ET COMPTABILITE DES FORMATIONS
 
 ##### Chapitre unique : Responsabilité des trésoriers militaires
+
+### LIVRE II : DISPOSITIONS BUDGÉTAIRES, FINANCIÈRES ET COMPTABLES
+
+#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
+
+##### Chapitre Ier : Trésoreries militaires
 
 ###### Article L5221-1
 
@@ -23361,7 +23611,7 @@ II. ― Un décret en Conseil d'Etat détermine les conditions d'application du 
 
 ###### Article L5331-1
 
-Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2, L. 5213-1 et L. 5213-2.
+Les dispositions des articles L. 5111-1 à L. 5141-1 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -23372,12 +23622,15 @@ Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2
 
 	**Modifié par**:
 
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1
-	  - Code de la défense. - art. L5213-1
+	  - Code de la défense. - art. L5111-1 (V)
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
@@ -23386,8 +23639,11 @@ Sont applicables à Mayotte les dispositions des articles L. 5111-1 à L. 5121-2
 
 ###### Article L5341-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 5111-1 à L. 5121-2  , L. 5213-1 et L.
-5213-2.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 5111-1 à L. 5141-1 et L. 5221-1. 
+
+Les dispositions de l'article L. 5141-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2014-1567 du 22
+décembre 2014 portant application de l'article 55 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation
+militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -23396,14 +23652,16 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1
-	  - Code de la défense. - art. L5211-1
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Code de la défense. - art. L5111-1 (V)
+	  - Code de la défense. - art. L5141-1 (V)
+	  - Code de la défense. - art. L5221-1 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
 
 
 ###### Article L5341-3
@@ -23447,7 +23705,11 @@ objet applicables localement.
 
 ###### Article L5351-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 5111-1 à L. 5121-2  , L. 5213-1 et L. 5213-2.
+Sont applicables en Polynésie française les dispositions des articles L. 5111-1 à L. 5141-1 et L. 5221-1. 
+
+Les dispositions de l'article L. 5141-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2014-1567 du 22
+décembre 2014 portant application de l'article 55 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation
+militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -23456,14 +23718,16 @@ Sont applicables en Polynésie française les dispositions des articles L. 5111-
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1
-	  - Code de la défense. - art. L5211-1
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Code de la défense. - art. L5111-1 (V)
+	  - Code de la défense. - art. L5141-1 (V)
+	  - Code de la défense. - art. L5221-1 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
 
 
 ###### Article L5351-3
@@ -23493,7 +23757,11 @@ l'intérêt des réceptions radioélectriques.
 
 ###### Article L5361-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 5111-1 à L. 5120-2 , L. 5213-1 et L. 5213-2.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 5111-1 à L. 5141-1 et L. 5221-1. 
+
+Les dispositions de l'article L. 5141-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2014-1567 du 22
+décembre 2014 portant application de l'article 55 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation
+militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale.
 
 **Liens relatifs à cet article**
 
@@ -23502,14 +23770,16 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 5111-1 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
-
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1
-	  - Code de la défense. - art. L5211-1
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Code de la défense. - art. L5111-1 (V)
+	  - Code de la défense. - art. L5141-1 (V)
+	  - Code de la défense. - art. L5221-1 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
 
 
 ###### Article L5361-3
@@ -23541,25 +23811,29 @@ l'intérêt des réceptions radioélectriques.
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
 applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 5111-1 à L. 5112-3, L. 5114-1 à
-L. 5121-2  , L. 5213-1 et L. 5213-2.
+L. 5141-1 et L. 5221-1. 
+
+Les dispositions de l'article L. 5141-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2014-1567 du 22
+décembre 2014 portant application de l'article 55 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation
+militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. L5111-1
-	  - Code de la défense. - art. L5114-1
-	  - Code de la défense. - art. L5211-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
+	**Cite**:
+
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 55 (V)
+	  - Code de la défense. - art. L5111-1 (V)
+	  - Code de la défense. - art. L5114-1 (V)
+	  - Code de la défense. - art. L5221-1 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2012-926 du 31 juillet 2012 - art. 8 (V)
+	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
 
 
 ###### Article L5371-3

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-12-25
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -7991,14 +7991,18 @@ définies par l'article L. 517-1 du code de l'environnement.
 ###### Article L2313-4
 
 Les règles relatives à la déclaration d'utilité publique des opérations secrètes intéressant la défense nationale sont
-définies par l'article L. 11-3 du code de l'expropriation pour cause d'utilité publique.
+définies par l'article L. 122-4 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -8006,7 +8010,7 @@ définies par l'article L. 11-3 du code de l'expropriation pour cause d'utilité
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
 #### TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION
@@ -20467,30 +20471,29 @@ ou admis dans la deuxième section des officiers généraux.
 
 Le militaire de carrière se trouvant à moins de deux ans de la limite d'âge de son grade, l'officier sous contrat et le
 militaire engagé se trouvant à moins de deux ans de la limite de durée des services ainsi que le militaire en congé de
-reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 133-6-8-1 et L. 133-6-8-2 du code de
-la sécurité sociale et 50-0 et 102 ter du code général des impôts. 
+reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 133-6-8 du code de la sécurité
+sociale et 50-0 et 102 ter du code général des impôts. 
 
 Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues aux cinquième
 et sixième alinéas de l'article L. 4122-2 du présent code et par le décret en Conseil d'Etat pris pour leur application.
 
 **Nota:**
 
-Conformément à l'article 27 VI de la loi n° 2014-626 du 18 juin 2014, ces dispositions entrent en vigueur à une date fixée
-par décret et, au plus tard, six mois à compter de la date de publication de la présente loi.
+Conformément au 25 VI de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions sont applicables aux cotisations et
+aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-626 du 18 juin 2014 - art. 27
+	  - Loi n°2014-626 du 18 juin 2014 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 102 ter (V)
-	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code général des impôts, CGI. - art. 102 ter
+	  - Code général des impôts, CGI. - art. 50-0
 	  - Code de la défense. - art. L4122-2
-	  - Code de la sécurité sociale. - art. L133-6-8-1 (VD)
-	  - Code de la sécurité sociale. - art. L133-6-8-2 (V)
+	  - Code de la sécurité sociale. - art. L133-6-8 (VT)
 
 	**Cité par**:
 
@@ -23101,7 +23104,7 @@ Sont applicables aux Terres australes et antarctiques françaises les dispositio
 Les établissements relevant du ministère de la défense ou présentant un intérêt pour la défense nationale servant à la
 conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices et explosifs bénéficiant des servitudes
 définies au présent chapitre sont désignés par décret, pris après enquête conduite selon les modalités définies par les
-articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité publique.
+articles L. 1, L. 110-1, L. 110-2 et L. 122-4 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -23112,7 +23115,7 @@ articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité pub
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 49
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -23120,7 +23123,7 @@ articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité pub
 	  - Code de l'urbanisme - art. (V)
 	  - Code de la défense. - art. D5131-13 (V)
 	  - Code de la défense. - art. L5111-2 (V)
-	  - Code de la défense. - art. L5111-5 (V)
+	  - Code de la défense. - art. L5111-5 (VD)
 	  - Code de la défense. - art. L5331-1 (V)
 	  - Code de la défense. - art. L5341-1 (V)
 	  - Code de la défense. - art. L5351-1 (V)
@@ -23130,8 +23133,9 @@ articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité pub
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
-	  - Code de l'expropriation pour cause d'utilité publique - art. L11-3
+	  - Code de l'expropriation pour cause d'utilité publique - art. L1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L110-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
 ###### Article L5111-2
@@ -23226,25 +23230,26 @@ est procédé à expropriation pour cause d'utilité publique.
 
 Si les circonstances l'exigent, en raison des risques mutuels de voisinage, le ministre de la défense peut, en outre, créer
 par décret un polygone d'isolement autour de chacun des établissements mentionnés à l'article L. 5111-1, après enquête
-conduite selon les modalités définies par les articles L. 11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité
-publique.
+conduite selon les modalités définies par les articles L. 1, L. 110-1, L. 110-2 et L. 122-4 du code de l'expropriation pour
+cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1929-08-08 art. 4
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
+	  - Code de la défense. - art. L5111-1 (VD)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L110-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 	**Cité par**:
 
@@ -23303,15 +23308,15 @@ l'expropriation pour cause d'utilité publique.
 
 Les postes électro-sémaphoriques de la marine nationale et les postes militaires de défense des côtes et de sécurité de la
 navigation bénéficiant des servitudes définies au présent chapitre, ainsi que les limites de leur champ de vue, sont désignés
-par décret, pris après enquête conduite selon les modalités définies aux articles L. 11-1 et L. 11-3 du code de
-l'expropriation pour cause d'utilité publique.
+par décret, pris après enquête conduite selon les modalités définies aux articles L. 1, L. 110-1, L. 110-2 et L. 122-4 du
+code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -23321,15 +23326,15 @@ l'expropriation pour cause d'utilité publique.
 	  - Code de la défense. - art. L5112-2 (V)
 	  - Code de la défense. - art. R5112-1 (V)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
+
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1895-07-18 art. 1
-	  - Loi n°1933-07-11 art. 1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L110-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
 ###### Article L5112-2
@@ -23413,15 +23418,19 @@ sont définies par le code des postes et des communications électroniques, livr
 ###### Article L5114-1
 
 Les installations de défense, dont les conditions de sécurité rendent nécessaire l'application des servitudes définies au
-présent chapitre, sont désignées par décret, pris après enquête conduite selon les modalités définies par les articles L.
-11-1 et L. 11-3 du code de l'expropriation pour cause d'utilité publique.
+présent chapitre, sont désignées par décret, pris après enquête conduite selon les modalités définies par les articles L. 1,
+L. 110-1, L. 110-2 et L. 122-4 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -23434,8 +23443,9 @@ présent chapitre, sont désignées par décret, pris après enquête conduite s
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-3 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L110-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L122-4
 
 
 ###### Article L5114-2
@@ -23561,12 +23571,6 @@ propriété de l'Etat français.
 	  - Code de la défense. - art. L5351-1 (V)
 	  - Code de la défense. - art. L5361-1 (V)
 
-
-### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
-
-#### TITRE II : ADMINISTRATION ET COMPTABILITE DES FORMATIONS
-
-##### Chapitre unique : Responsabilité des trésoriers militaires
 
 ### LIVRE II : DISPOSITIONS BUDGÉTAIRES, FINANCIÈRES ET COMPTABLES
 
@@ -24186,6 +24190,29 @@ justice.
 	**Modifié par**:
 
 	  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
+
+
+###### Article D1132-7
+
+Pour assurer les missions qui lui sont assignées au 6° de l'article R. * 1132-3 du code de la défense, le secrétaire général
+de la défense et de la sécurité nationale dispose d'une unité militaire placée pour emploi sous son autorité, dénommée "
+centre de transmissions gouvernemental ". 
+
+Le centre de transmissions gouvernemental constitue une formation administrative au sens de l'article R. 3231-10. Il relève
+du chef d'état-major des armées. 
+
+Les emplois du centre de transmissions gouvernemental sont inscrits au budget des services du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-613 du 12 juin 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1132-3
+	  - Code de la défense. - art. R3231-10
 
 
 ###### Article R*1132-1
@@ -45346,13 +45373,13 @@ Les dispositions relatives aux installations classées relevant du ministère de
 ###### Article R2313-4
 
 Les règles relatives à la commission d'examen des opérations immobilières présentant un caractère secret sont définies par
-les articles R. 11-17, R. 11-17-1 et R. 11-17-2 du code de l'expropriation pour cause d'utilité publique.
+les articles R. 122-4 à R. 122-7 du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cité par**:
 
@@ -45360,7 +45387,7 @@ les articles R. 11-17, R. 11-17-1 et R. 11-17-2 du code de l'expropriation pour 
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-17 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
 
 
 ##### Sous-section 4 : Enquêtes publiques
@@ -55708,14 +55735,16 @@ opérations d'armement.
 
 ###### Article D3121-10
 
-En matière de ressources humaines, le chef d'état-major des armées est responsable de l'adéquation de la ressource humaine
-militaire et civile, d'active et de réserve aux besoins des armées, des services et des organismes interarmées.
+En matière de ressources humaines, le chef d'état-major des armées est chargé, pour ce qui concerne les armées, les services
+et les organismes interarmées, de définir les besoins en emplois militaires et civils et en compétences. Il veille à la
+satisfaction de ces besoins dans le respect du cadre fixé pour la politique des ressources humaines du ministère de la
+défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 4
 
 	**Cité par**:
 
@@ -55724,24 +55753,29 @@ militaire et civile, d'active et de réserve aux besoins des armées, des servic
 
 ###### Article D3121-11
 
-Le chef d'état-major des armées est responsable : 
+I. - Le chef d'état-major des armées est responsable :
 
-I. - De la politique relative à l'encadrement supérieur militaire issu des armées et des services et organismes interarmées,
-ainsi que de sa mise en œuvre ; 
+1° De la politique relative à l'encadrement supérieur militaire issu des armées et des services et organismes interarmées
+ainsi que de sa mise en œuvre ;
 
-II. - De l'organisation de la discipline des militaires affectés dans les services et organismes interarmées et des
-militaires engagés en opérations. Il s'assure de la cohérence de l'organisation de la discipline dans les armées. 
+2° De l'organisation de la discipline des militaires affectés dans les services et organismes interarmées et des militaires
+engagés en opérations. Il s'assure de la cohérence de l'organisation de la discipline dans les armées ;
 
-III. - De la formation dans les armées. 
+3° De la formation dans les armées ;
 
-IV. - De la définition des besoins, du pilotage des effectifs et de la masse salariale associée, et de la mise en œuvre de la
-politique du personnel civil relevant de son autorité. Il participe au dialogue social.
+4° De la condition militaire et du moral.
+
+II. - Le chef d'état-major des armées participe :
+
+1° Pour le personnel militaire, à la concertation ;
+
+2° Pour le personnel civil relevant de son autorité, au dialogue social.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -56098,28 +56132,37 @@ matériels livrés, ainsi que leur retrait du service, après avoir pris l'avis 
 
 ###### Article D3121-30
 
-En matière de ressources humaines, ils sont responsables pour le personnel militaire de leur armée : 
+En matière de ressources humaines, conformément aux dispositions de l'article R. * 3121-25, ils sont responsables pour le
+personnel militaire de leur armée :
 
-- du recrutement et de la formation initiale ; 
+- du recrutement et de la formation initiale et continue ;
 
-- de la discipline, du moral et de la condition du personnel ; 
+- de la discipline, du moral et de la condition du personnel ;
 
-- des parcours professionnels et de carrière du personnel, à l'exception de l'encadrement supérieur militaire ; 
+- des parcours professionnels et de carrière du personnel, à l'exception de l'encadrement supérieur militaire ;
 
-- de la gestion des effectifs, des emplois et des compétences ; 
+- de la gestion des effectifs, des emplois et des compétences ;
 
 - de l'administration du personnel, à l'exception des officiers généraux, sous réserve des attributions des services de
 soutien interarmées. 
 
-Pour le personnel civil relevant de leur autorité, ils assurent le pilotage des effectifs et de la masse salariale associée,
-en définissant notamment les expressions de besoins annuels et en participant à la mise en œuvre de cette politique. Ils
-participent en tant que de besoin aux différentes instances de concertation.
+Pour le personnel civil relevant de leur autorité, ils expriment les besoins en emplois, effectifs et compétences. Ils
+s'assurent du suivi de ces effectifs et prennent part à la mise en œuvre de la politique ministérielle correspondante. Ils
+participent aux différentes instances dans lesquelles s'exerce le dialogue social. 
+
+Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air ont autorité sur, respectivement, la
+direction des ressources humaines de l'armée de terre, la direction du personnel militaire de la marine et la direction des
+ressources humaines de l'armée de l'air.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 3
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*3121-25 (V)
 
 
 ###### Article D3121-31
@@ -56162,9 +56205,10 @@ commandants des forces.
 Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air conseillent et assistent le chef d'état-major
 des armées au titre de l'expertise propre à leur armée. 
 
-Sous l'autorité du chef d'état-major des armées, ils assurent la préparation opérationnelle des forces placées sous leur
-propre autorité ; ils sont responsables, pour leur armée, du recrutement, de la formation initiale, de la discipline, du
-moral et de la condition des militaires. 
+Sous l'autorité du chef d'état-major des armées et dans le cadre qu'il leur fixe, ils assurent la préparation opérationnelle
+des forces placées sous leur propre autorité et expriment les besoins de leur armée en personnel militaire et civil. Pour le
+personnel militaire de leur armée, ils sont responsables du recrutement, de la formation initiale et continue, de la
+discipline, du moral et de la condition militaire. 
 
 Ils peuvent se voir confier par décret des responsabilités particulières en matière de maîtrise des risques liés à l'activité
 spécifique de leur armée et en matière de sûreté nucléaire. 
@@ -56189,7 +56233,7 @@ opérationnelle des équipements.
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 6
 
 
 ###### Article R*3121-26
@@ -60826,17 +60870,17 @@ législatives et réglementaires des actes d'administration et de gestion pris d
 
 ###### Article R3232-9
 
-Le service du commissariat des armées assure le recrutement, la gestion et l'administration des militaires d'active et de
-réserve des corps des commissaires de l'armée de terre, de la marine et de l'air, ainsi que ceux du corps des maîtres
-ouvriers des armées. Il exerce les mêmes attributions pour les officiers sous contrat rattachés aux trois corps de
-commissaires. 
+Le service du commissariat des armées assure le recrutement, la formation, la gestion et l'administration des militaires
+d'active et de réserve du corps des commissaires des armées ainsi que ceux du corps des maîtres ouvriers des armées. Il
+exerce les mêmes attributions pour les officiers sous contrat et les volontaires dans les armées rattachés au corps des
+commissaires des armées. Il assure la programmation et le suivi des effectifs et de la masse salariale correspondants. 
 
-Il est chargé de définir les besoins en formation du personnel qui lui est affecté. Il contribue à la définition des
-objectifs et modalités de formation et d'emploi du personnel des armées et des services de soutien dans les domaines de
-l'administration générale et des soutiens communs. 
+Il est chargé de définir les besoins en formation du personnel qui lui est affecté. Il propose les objectifs et modalités de
+formation du personnel des armées et des services de soutien dans les domaines de l'administration générale et des soutiens
+communs.  Il assure ou fait assurer les actions de formation correspondantes.  
 
 Le service du commissariat des armées assure également la gestion et l'administration des aumôniers militaires d'active et de
-réserve ainsi que des aumôniers civils de la défense.
+réserve.
 
 **Liens relatifs à cet article**
 
@@ -60848,7 +60892,7 @@ réserve ainsi que des aumôniers civils de la défense.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1983 du 28 décembre 2011 - art. 1
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 8
 
 
 ###### Article R3232-10
@@ -60914,20 +60958,30 @@ L'exercice des compétences en matière vétérinaire lui est rattaché.
 
 ###### Article R3233-2
 
-Pour remplir ses missions, le service de santé des armées dispose de moyens relevant directement de son autorité.
+Pour remplir ses missions, le service de santé des armées dispose de moyens relevant directement de son autorité. Il assure
+le recrutement, la formation, la gestion et l'administration des militaires d'active et de réserve des corps et spécialités
+qui lui sont propres. 
 
 Des éléments du service sont placés, de façon permanente ou occasionnelle, au sein des armées et de la gendarmerie nationale,
 ainsi que dans les organismes relevant du ministre de la défense. Ils peuvent être renforcés par des moyens propres à ces
 formations et organismes.
 
 Le service de santé des armées contrôle la capacité, au regard des objectifs assignés au service, de l'ensemble de ces
-moyens.
+moyens. Il assure la programmation et le suivi des effectifs qui lui sont propres et de la masse salariale correspondante.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-12 (V)
 
 
 ###### Article R3233-3
@@ -60964,11 +61018,23 @@ l'aide technique et de la coopération, ainsi que de missions humanitaires déci
 Le service de santé des armées a, dans le domaine technique, autorité sur son personnel, quelle que soit l'autorité d'emploi
 dont celui-ci relève, ainsi que sur le personnel mis à sa disposition pour l'exécution de prestations sanitaires.
 
+Il est chargé de définir les besoins en formation du personnel dont il est l'employeur. Dans le domaine de la santé, il
+définit les objectifs et modalités de formation du personnel des forces armées, des autres organismes relevant du ministre de
+la défense et, le cas échéant, d'autres départements ministériels.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 10
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-14 (V)
 
 
 ##### Section 2 : Le service des essences des armées
@@ -61086,6 +61152,36 @@ attributions de défense.
 	**Nouveaux textes**:
 
 	  - Code de la défense. - art. R3232-19 (V)
+
+
+###### Article R3233-9-1
+
+Le  service des essences des armées assure le recrutement, la formation, la  gestion et l'administration des militaires
+d'active et de réserve des  corps et spécialités qui lui sont propres. Il exerce les mêmes  attributions pour les militaires
+sous contrat rattachés à ces corps.
+
+Il assure la programmation et le suivi des effectifs et de la masse salariale correspondante.
+
+Il est chargé de définir les besoins en  formation du personnel qui lui est affecté. Dans le domaine du soutien  pétrolier,
+il contribue à la définition des objectifs et modalités de  formation du personnel des forces armées et d'autres organismes
+relevant  du ministre de la défense et, le cas échéant, d'un autre département  ministériel.
+
+Le service des essences des armées a, dans  le domaine technique, autorité sur son personnel, quelle que soit  l'autorité
+d'emploi dont celui-ci relève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1537 du 19 décembre 2014 - art. 11
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3232-20 (V)
 
 
 ##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
@@ -86874,7 +86970,8 @@ d'aide sociale à l'enfance " sont remplacés par les mots : " service local d'a
 
 Le décret pris en application de l'article L. 5111-1 désigne l'établissement bénéficiant du régime de servitude défini aux
 articles L. 5111-2 à L. 5111-4. Il est notifié aux propriétaires dont les biens, soumis à ce régime, ont été déterminés
-contradictoirement en application du I de l'article L. 11-1 du code de l'expropriation pour cause d'utilité publique.
+contradictoirement en application du titre III du livre Ier du code de l'expropriation pour cause d'utilité publique (partie
+réglementaire).
 
 **Liens relatifs à cet article**
 
@@ -86882,11 +86979,14 @@ contradictoirement en application du I de l'article L. 11-1 du code de l'expropr
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
 	**Cite**:
 
-	  - Code de la défense. - art. L5111-1 (V)
-	  - Code de la défense. - art. L5111-2 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
+	  - Code de la défense. - art. L5111-1
+	  - Code de la défense. - art. L5111-2
 
 	**Cité par**:
 
@@ -87216,7 +87316,7 @@ l'étendue. Il est accompagné d'un plan indiquant, avec le tracé de l'installa
 Ce décret est publié au Journal officiel de la République française et affiché dans les communes intéressées. 
 
 Il est notifié aux propriétaires dont les biens, soumis à la servitude, ont été déterminés contradictoirement en application
-du I de l'article L. 11-1 du code de l'expropriation pour cause d'utilité publique.
+du titre III du livre Ier du code de l'expropriation pour cause d'utilité publique (partie réglementaire).
 
 **Liens relatifs à cet article**
 
@@ -87224,14 +87324,14 @@ du I de l'article L. 11-1 du code de l'expropriation pour cause d'utilité publi
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret du 10 août 1853 - art. 3 (Ab), alinéas 3 et 4
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L5114-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
+	  - Code de la défense. - art. L5114-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-1
 
 	**Cité par**:
 

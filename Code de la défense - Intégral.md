@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-05
 
 # Partie législative
 
@@ -55682,7 +55682,7 @@ En matière de définition du format d'ensemble des armées et de leur cohérenc
 
 I. - Conduit les travaux de prospective opérationnelle, évalue les risques, les menaces et les situations d'emploi
 potentielles. Il propose au ministre les orientations et priorités en matière de capacités et de posture opérationnelle. Il
-participe à la coordination des travaux prospectifs du ministère. 
+participe à la cohérence  des travaux prospectifs du ministère. 
 
 II. - Est responsable du besoin opérationnel et s'assure de la cohérence capacitaire globale des armées : ressources
 humaines, équipements, organisation, soutiens, préparation, concepts et doctrines. Il propose au ministre les arbitrages
@@ -55699,6 +55699,10 @@ affectées ;
 - de l'élaboration et de l'actualisation de la programmation militaire, au regard des finalités opérationnelles, de leur
 compatibilité avec les ressources financières appréciées par le secrétaire général pour l'administration et des contraintes
 techniques et industrielles appréciées par le délégué général pour l'armement ; 
+
+- de la contribution des armées aux études et propositions de la direction générale des relations internationales et de la
+stratégie, en matière de politique internationale de défense, de stratégie de défense et aux travaux relatifs au Livre blanc
+sur la défense et la sécurité nationale.  
 
 Il veille également au respect de la cohérence capacitaire dans l'exécution de la programmation militaire. 
 
@@ -55718,13 +55722,19 @@ besoin et de la phase d'emploi des équipements. Il contribue également aux tra
 général pour l'armement lors de la phase de réalisation des équipements. 
 
 Il élabore, enfin, en prenant avis du délégué général pour l'armement, les directives relatives au soutien dans les
-opérations d'armement.
+opérations d'armement. 
+
+VI. - Il présente la position nationale dans les travaux de planification et de programmation des capacités conduits dans un
+cadre international, en liaison avec le directeur général des relations internationales et de la stratégie.
+
+En matière de contrôle des exportations de matériels de guerre et assimilés et de biens à double usage, il définit les
+impératifs liés à la protection des forces qui doivent être pris en compte dans l'élaboration de la position du ministère.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2015-4 du 2 janvier 2015 - art. 11
 
 	**Cité par**:
 
@@ -55789,14 +55799,20 @@ Il propose au ministre :
 I. - Les affectations des officiers généraux issus des armées et des services et organismes interarmées, ainsi que les
 nominations des commandants de forces. 
 
-II. - Les affectations aux postes d'attaché de défense issus des armées et est consulté pour celles relevant de la direction
-générale de l'armement.
+II.-Conjointement avec le directeur général des relations internationales et de la stratégie du ministère de la défense, les
+affectations des attachés de défense issus des armées. 
+
+III.-Conjointement avec le directeur général des relations internationales et de la stratégie du ministère de la défense, les
+affectations des représentants militaires auprès des organisations internationales et des officiers occupant au sein des
+organisations internationales les postes d'influence définis par décision ministérielle. 
+
+IV.-Les affectations aux postes d'attaché de défense adjoint issus des armées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1177 du 5 octobre 2009 - art. 1
+	  - Décret n°2015-4 du 2 janvier 2015 - art. 12
 
 	**Cité par**:
 
@@ -55826,29 +55842,44 @@ Il est responsable de l'enseignement militaire supérieur du personnel des armé
 
 En matière de relations internationales militaires, le chef d'état-major des armées :
 
-- est chargé des relations avec les armées étrangères et les structures militaires de l'Union européenne et de l'Organisation
-du traité de l'Atlantique Nord ;
+1° Est chargé des relations militaires avec les armées étrangères. A ce titre, il élabore et conduit les plans de coopération
+entre armées et mène les dialogues bilatéraux militaires ;
 
-- organise, dans le cadre de la politique de coopération militaire internationale, la participation des armées, en prépare
-les programmes et en dresse les bilans ;
+2° Est chargé des relations militaires avec les structures militaires internationales, notamment de l'Union européenne et de
+l'Organisation du traité de l'Atlantique Nord ;
 
-- prépare, avec le directeur chargé des affaires stratégiques et le délégué général pour l'armement, les instructions du
-ministre aux attachés de défense et aux représentants militaires placés auprès des organismes internationaux ; il veille à
-leur application ;
+3° A autorité sur les officiers insérés au sein des organisations internationales. Il exerce cette autorité conjointement
+avec le directeur général des relations internationales et de la stratégie en ce qui concerne les officiers occupant au sein
+des organisations internationales les postes d'influence définis par décision ministérielle ;
 
-- suit les négociations internationales qui peuvent avoir une incidence sur l'emploi ou la nature des forces, en liaison avec
-le     secrétaire général de la défense et de la sécurité nationale ;
+4° Assure la coordination interarmées des relations internationales militaires, dans le cadre de la politique internationale
+de défense, et notamment la participation des armées à l'élaboration et à la mise en œuvre des plans de coopération ;
 
-- siège au comité militaire de certaines organisations internationales ;
+5° Participe à la rédaction des instructions du ministre validées et adressées par la direction générale des relations
+internationales et de la stratégie aux missions de défense et représentations militaires et de la défense auprès des
+organisations internationales ;
 
-- négocie, avec le soutien du secrétaire général pour l'administration, et signe les accords militaires opérationnels ;
+6° Adresse, dans le périmètre de ses attributions et après coordination entre l'état-major des armées et la direction
+générale des relations internationales et de la stratégie, des instructions à ses représentants au sein des organisations
+internationales ;
 
-- présente la position nationale dans les travaux de planification et de programmation des capacités conduits dans un cadre
-international ;
+7° Suit les négociations internationales qui peuvent avoir une incidence sur l'emploi opérationnel des forces, en liaison
+avec le secrétaire général de la défense et de la sécurité nationale ;
 
-- est responsable de la conduite des négociations relatives à la maîtrise des armements conventionnels.
+8° Emet un avis sur les exportations de matériels de guerre afin d'assurer la sécurité des forces ;
+
+9° Formule un avis sur les concours demandés aux armées dans le cadre du soutien aux exportations de défense et en coordonne
+la mise en œuvre ;
+
+10° Siège au comité militaire de certaines organisations internationales ;
+
+11° Négocie, avec le soutien du secrétaire général pour l'administration, et signe les accords militaires opérationnels.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-4 du 2 janvier 2015 - art. 13
 
 	**Cité par**:
 
@@ -56023,8 +56054,8 @@ Leurs attributions sont :
 I.-Pour le sous-chef d'état-major opérations : les attributions relevant du 4° de l'article R. * 3121-2 et des articles D.
 3121-6 et D. 3121-8. 
 
-II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2 et de l'article D.
-3121-9. 
+II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2 et        de l'article D.
+3121-9 , ainsi que des 8° et 9° de l'article D. 3121-14. 
 
 III.-Pour le sous-chef d'état-major " performance " : les attributions relevant des 1°, 2° et 5° de l'article R. * 3121-2, de
 l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des articles D. 3121-13, D. 3121-15, D. 3121-16, D.
@@ -56039,7 +56070,7 @@ l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des ar
 
 	**Modifié par**:
 
-	  - Décret n°2014-1040 du 11 septembre 2014 - art. 3
+	  - Décret n°2015-4 du 2 janvier 2015 - art. 14
 
 	**Cite**:
 
@@ -56057,13 +56088,13 @@ l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des ar
 ###### Article D3121-24-1
 
 Un officier général " relations internationales militaires " assiste le major général des armées. Il exerce les attributions
-relevant du II de l'article D. 3121-12 et de l'article D. 3121-14.
+relevant des II, III et IV de l'article D. 3121-12 et des 1° à 7° et 10° à 11° de l'article D. 3121-14.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1040 du 11 septembre 2014 - art. 4
+	  - Décret n°2015-4 du 2 janvier 2015 - art. 15
 
 	**Cité par**:
 

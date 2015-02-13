@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-01-31
+Version Consolidée au 2015-02-14
 
 # Partie législative
 
@@ -27775,63 +27775,6 @@ du titre II du livre Ier du code de la sécurité intérieure.
 	  - Code de la défense. - art. R*1671-1 (M)
 
 
-##### Section 2 : Préfets de zone et de sécurité
-
-##### Sous-section 2 : Pouvoirs du préfet de zone et de sécurité en matière de sécurité nationale
-
-##### Sous-section 6 : Autorités et services de l'Etat assistant le préfet de zone et de sécurité
-
-##### Sous-section 8 : Dispositions particulières à la zone de défense et de sécurité de Paris
-
-###### Article R*1311-29
-
-I. à III. (Abrogés)
-
-IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité de Paris, les mots : " le
-préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le préfet secrétaire général de la zone de
-défense et de sécurité, le préfet secrétaire général pour l'administration de la préfecture de police ".
-
-V.- (Abrogé)
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-84 du 16 janvier 2002 - art. 21 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 23 juin 2010 - art. 1 (V)
-	  - Arrêté du 23 juin 2010 - art. Annexe (V)
-
-	**Modifié par**:
-
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
-
-
-##### Sous-Section 9 : Dispositions particulières à la zone de défense et de sécurité Sud
-
-###### Article R*1311-29-1
-
-I. à III. - (Abrogés)
-
-IV. - Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité Sud, les mots : " le
-préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le sous-préfet secrétaire général de la zone
-de défense et de sécurité ". 
-
-V. - (Abrogé)
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
-
-	**Cite**:
-
-	  - Code de la défense. - art. R1312-1
-
-
 ##### Section 2 : Préfets de zone de défense et de sécurité
 
 ##### Sous-section 2 : Pouvoirs du préfet de zone de défense et de sécurité en matière de sécurité nationale
@@ -27937,7 +27880,54 @@ secrétaire général de la zone de défense et de sécurité Sud.
 
 ##### Sous-section 8 : Dispositions particulières à la zone de défense et de sécurité de Paris
 
+###### Article R*1311-29
+
+I. à III. (Abrogés)
+
+IV.-Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité de Paris, les mots : " le
+préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le préfet secrétaire général de la zone de
+défense et de sécurité, le préfet secrétaire général pour l'administration de la préfecture de police ".
+
+V.- (Abrogé)
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-84 du 16 janvier 2002 - art. 21 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 23 juin 2010 - art. 1 (V)
+	  - Arrêté du 23 juin 2010 - art. Annexe (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+
 ##### Sous-Section 9 : Dispositions particulières à la zone de défense et de sécurité Sud
+
+###### Article R*1311-29-1
+
+I. à III. - (Abrogés)
+
+IV. - Dans la composition du comité de défense et de sécurité de la zone de défense et de sécurité Sud, les mots : " le
+préfet délégué pour la défense et la sécurité " sont remplacés par les mots : " le sous-préfet secrétaire général de la zone
+de défense et de sécurité ". 
+
+V. - (Abrogé)
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-1112 du 4 décembre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1312-1
+
 
 ##### Section 3 : Préfets de région
 
@@ -31848,33 +31838,18 @@ Il rend compte de ses vérifications au Président de la République et en tient
 
 ###### Article R*1333-37
 
-I.-Les installations et activités nucléaires intéressant la défense mentionnées au III de l'article 2 de la loi du 13 juin
-2006 relative à la transparence et à la sécurité en matière nucléaire sont : 
-
-1° Les installations nucléaires de base secrètes, classées par décision du Premier ministre, dans les conditions prévues à
-l'article R. * 1333-40 ; 
-
-2° Les systèmes nucléaires militaires définis par arrêté du ministre de la défense ; 
-
-3° Les sites et installations d'expérimentations nucléaires intéressant la défense, dont la liste est fixée par un arrêté
-conjoint du ministre de la défense et du ministre chargé de l'industrie ; 
-
-4° Les anciens sites d'expérimentations nucléaires du Pacifique ; 
-
-5° Les transports de matières fissiles ou radioactives liés aux activités d'armement nucléaire et de propulsion nucléaire
-navale. 
-
-II.-Le ministre de la défense et le ministre chargé de l'industrie définissent la politique de sûreté nucléaire et de la
-radioprotection relative aux installations et activités mentionnées du 1° au 5° du I. 
+I.-Le ministre de la défense et le ministre chargé de l'industrie définissent la politique de sûreté nucléaire et de la
+radioprotection relative aux installations et activités nucléaires intéressant la défense mentionnées à l'article L.
+1333-15. 
 
 Ils fixent les objectifs et les exigences correspondantes en matière de sûreté nucléaire et de radioprotection auxquelles ces
 installations et activités doivent satisfaire en tenant compte de leurs différentes situations et des configurations de leur
-mise en oeuvre. 
+mise en œuvre. 
 
 Ils fixent la réglementation de sûreté nucléaire et de radioprotection et notamment la réglementation technique générale,
 applicable à ces installations et activités. 
 
-III.-Ils veillent à ce que soient prises les dispositions propres à assurer la protection des personnes, des biens et de
+II.-Ils veillent à ce que soient prises les dispositions propres à assurer la protection des personnes, des biens et de
 l'environnement contre les dangers ou inconvénients résultant de la création, du fonctionnement, de l'arrêt et du
 démantèlement des installations, ainsi que des activités couvertes par la présente sous-section. 
 
@@ -31890,18 +31865,9 @@ Ils s'assurent en particulier :
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 1 (Ab)
 
-	**Cite**:
-
-	  - Loi n°2006-686 du 13 juin 2006 - art. 2 (V)
-	  - Code de la défense. - art. R*1333-40 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Modifié par**:
-
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Cité par**:
 
@@ -31923,7 +31889,7 @@ Ils s'assurent en particulier :
 	  - Code de l'environnement - art. R541-48 (M)
 	  - Code de l'environnement - art. R542-67 (M)
 	  - Code de la défense. - art. R*1333-37-1 (M)
-	  - Code de la défense. - art. R*1333-44 (M)
+	  - Code de la défense. - art. R*1333-44 (V)
 	  - Code de la défense. - art. R*1333-53 (Ab)
 	  - Code de la défense. - art. R*1333-67-1 (M)
 	  - Code de la défense. - art. R*1411-13 (Ab)
@@ -31934,46 +31900,70 @@ Ils s'assurent en particulier :
 	  - Code des transports - art. R1252-8 (V)
 	  - Code du travail - art. R4462-29 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+
 
 ###### Article R*1333-37-1
 
-Est considérée comme information relative à la sûreté nucléaire et à la radioprotection, au sens de la présente section,
-toute information, quel qu'en soit le support, relative aux conséquences, sur la population et l'environnement, des activités
-exercées sur les sites d'implantation d'installations nucléaires mentionnés à l'article R. * 1333-37. 
+Les responsables d'installations ou d'activités nucléaires mentionnées à l'article L. 1333-15 sont tenus de déclarer sans
+délai au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense
+mentionné à l'article R. * 1333-67-5 tout incident ou accident nucléaire ou non, ayant ou risquant d'avoir des conséquences
+notables sur la sûreté des installations ou des activités ou de porter atteinte notamment, par exposition aux rayonnements
+ionisants, aux personnes ou à l'environnement. 
 
-Ces informations portent notamment sur la nature et les résultats des mesures des rejets radioactifs et non radioactifs
-effectués dans l'environnement, ainsi que leur impact sur la santé du public.
+Dès qu'il est informé de la survenue d'un tel incident ou accident, le délégué ou, en cas d'empêchement, son représentant,
+propose aux ministres concernés, en application des articles R. * 1333-67-5 à R. * 1333-67-8, les mesures rendues
+nécessaires, ou les fait adopter en cas d'urgence. Il participe à l'action des pouvoirs publics en cas d'événement entraînant
+une situation d'urgence radiologique.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-37 (V)
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5 (V)
 
 
 ###### Article R*1333-38
 
-Des commissions d'information sont créées respectivement par arrêté du ministre de la défense ou du ministre chargé de
-l'industrie pour les sites d'exploitation des installations nucléaires de base secrètes soumises à la présente section et
-pour les lieux habituels de stationnement des navires militaires à propulsion nucléaire.
+I.-Les commissions d'information mentionnées à l'article L. 1333-20 sont créées respectivement par arrêté du ministre de la
+défense ou du ministre chargé de l'industrie. 
 
-Elles ont pour mission d'informer le public sur l'impact des activités nucléaires sur la santé et l'environnement.
+Elles sont présidées : 
 
-Elles reçoivent les informations nécessaires à l'accomplissement de leurs missions de la part des représentants du ministre
-de la défense pour les installations nucléaires relevant de son autorité, des exploitants dans les autres cas, dans le
-respect des dispositions relatives aux secrets protégés par la loi.
+1° S'agissant des installations nucléaires de base secrètes, des navires militaires à propulsion nucléaire sur leurs lieux
+habituels de stationnement et, le cas échéant, des sites et installations d'expérimentations nucléaires intéressant la
+défense : par les préfets de département ou par des personnalités qualifiées nommées par eux ; 
 
-Lorsqu'il existe, pour le même site, une commission locale d'information pour une installation nucléaire de base et une
-commission d'information pour une installation nucléaire de base secrète, ces deux commissions s'échangent toutes
-informations utiles et peuvent se réunir en formation commune.
+2° S'agissant des anciens sites d'expérimentations nucléaires du Pacifique : par le haut-commissaire de la République en
+Polynésie française ou par une personnalité qualifiée nommée par lui. 
+
+II.-Outre les représentants des services de l'Etat intéressés, les commissions d'information comprennent des représentants : 
+
+1° Des intérêts économiques et sociaux, des associations agréées de protection de l'environnement et, sur leur demande, des
+collectivités territoriales ; 
+
+2° Du ministre de la défense pour les installations et activités relevant de son autorité ou des exploitants dans les autres
+cas. 
+
+Dans le respect des exigences liées à la défense nationale, les représentants du ministre de la défense ou de l'exploitant,
+selon les cas, transmettent à ces commissions, ainsi qu'au délégué à la sûreté nucléaire et à la radioprotection pour les
+installations et activités intéressant la défense, un rapport annuel de la sûreté nucléaire du site, des risques d'origine
+radiologique et des rejets produits par l'installation, ainsi que des mesures prises pour en réduire les impacts.
 
 **Liens relatifs à cet article**
 
@@ -31983,7 +31973,7 @@ informations utiles et peuvent se réunir en formation commune.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Cité par**:
 
@@ -31991,22 +31981,20 @@ informations utiles et peuvent se réunir en formation commune.
 	  - Arrêté du 16 avril 2012 - art. Annexe II (V)
 	  - Arrêté du 23 décembre 2013 - art. Annexe II (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-20 (V)
+
 
 ###### Article R*1333-39
 
-Les commissions d'information sont présidées par les préfets de département ou par des personnalités qualifiées nommées par
-eux. Outre les représentants des services de l'Etat intéressés, elles comprennent des représentants :
-
-1° Des intérêts économiques et sociaux, des associations agréées de protection de l'environnement et, sur leur demande, des
-collectivités territoriales ;
-
-2° Du ministre de la défense pour les installations et activités relevant de son autorité ou des exploitants dans les autres
-cas.
-
-Dans le respect des exigences liées à la défense nationale, les représentants du ministre de la défense ou de l'exploitant,
-selon les cas, transmettent à ces commissions, ainsi qu'au délégué, un rapport annuel de la sûreté nucléaire du site, des
-risques d'origine radiologique et des rejets produits par l'installation, ainsi que des mesures prises pour en réduire les
-impacts.
+Lorsqu'il existe, pour le même site, une commission locale d'information pour une installation nucléaire de base et une
+commission d'information pour une des installations nucléaires intéressant la défense mentionnées au 1° et au 3° de l'article
+L. 1333-15, ces deux commissions s'échangent toutes informations utiles et peuvent se réunir en formation commune.
 
 **Liens relatifs à cet article**
 
@@ -32016,27 +32004,31 @@ impacts.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
 
 
 ##### Sous-section 2 : Installations nucléaires de base secrètes.
 
 ###### Article R*1333-40
 
-I. - Le classement en installation nucléaire de base secrète est décidé par le Premier ministre sur proposition du ministre
-compétent. Celui-ci étant, selon le cas, le ministre de la défense ou le ministre chargé de l'industrie pour leurs
-installations respectives.
+I.-Le classement en installation nucléaire de base secrète, mentionnée au 1° de l'article L. 1333-15, est décidé par le
+Premier ministre sur proposition du ministre compétent. Celui-ci étant, selon le cas, le ministre de la défense ou le
+ministre chargé de l'industrie pour leurs installations respectives. 
 
 Ce classement est prononcé lorsqu'une au moins des installations comprises dans le périmètre, dénommée installation
 individuelle, présente les caractéristiques techniques fixées par arrêté conjoint du ministre de la défense et du ministre
 chargé de l'industrie, intéresse la défense nationale et justifie d'une protection particulière contre la prolifération
-nucléaire, la malveillance ou la divulgation d'informations classifiées.
+nucléaire, la malveillance ou la divulgation d'informations classifiées. 
 
-II. - Les installations nucléaires de base secrètes sont définies par leur périmètre fixé par le plan annexé à la décision de
+II.-Les installations nucléaires de base secrètes sont définies par leur périmètre fixé par le plan annexé à la décision de
 classement. En font partie l'ensemble des installations et équipements, nucléaires ou non, compris dans le périmètre
 susmentionné.
 
@@ -32068,11 +32060,15 @@ susmentionné.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
 
 
 ###### Article R*1333-41
@@ -32119,7 +32115,7 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 
 ###### Article R*1333-42
 
-I.-La demande d'autorisation de création d'une installation nucléaire de base secrète est adressée par le futur exploitant ou
+La demande d'autorisation de création d'une installation nucléaire de base secrète est adressée par le futur exploitant ou
 service utilisateur au ministre compétent. 
 
 La demande porte sur l'ensemble des installations individuelles comprises dans le périmètre mentionné à l'article R. *
@@ -32129,20 +32125,19 @@ La demande porte sur l'ensemble des installations individuelles comprises dans l
 
 	**Anciens textes**:
 
-	  - Décret n°2001-592 2001-07-05 art. 9 al. 1 à 3
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-40 (V)
+	  - Code de la défense. - art. R*1333-40 (M)
 
 	**Cité par**:
 
@@ -32220,9 +32215,10 @@ prescriptions générales auxquelles doit se conformer le titulaire de l'autoris
 technique générale prévue à l'article R. * 1333-37 et de l'application des polices administratives pour la protection de
 l'eau et des installations classées pour la protection de l'environnement. 
 
-Il détermine notamment les justifications particulières que le titulaire de l'autorisation doit présenter au délégué à la
-sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense aux étapes successives de
-la construction, de la mise en service, de l'arrêt définitif et du démantèlement des installations individuelles. 
+Il détermine notamment les justifications particulières que le titulaire de l'autorisation doit présenter au
+délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné à
+l'article R.* 1333-67-5 aux étapes successives de la construction, de la mise en service, de l'arrêt définitif et du
+démantèlement des installations individuelles. 
 
 Il prévoit la transmission au préfet des éléments lui permettant d'établir le plan particulier d'intervention relatif à
 l'installation nucléaire de base secrète.
@@ -32231,21 +32227,20 @@ l'installation nucléaire de base secrète.
 
 	**Anciens textes**:
 
-	  - Décret n°2001-592 2001-07-05 art. 10 al. 1 à 4
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-37 (V)
-	  - Code de la défense. - art. R*1333-40 (V)
+	  - Code de la défense. - art. R*1333-37 (M)
+	  - Code de la défense. - art. R*1333-40
 
 	**Cité par**:
 
@@ -32255,8 +32250,8 @@ l'installation nucléaire de base secrète.
 ###### Article R*1333-45
 
 Le titulaire de l'autorisation désigné à l'article R. * 1333-44 soumet au délégué à la sûreté nucléaire et à la
-radioprotection pour les activités et installations intéressant la défense, six mois au moins avant la date prévue pour le
-premier chargement en combustible d'un réacteur ou pour la mise en oeuvre d'un faisceau de particules ou de substances
+radioprotection pour les installations et activités intéressant la défense, six mois au moins avant la date prévue pour le
+premier chargement en combustible d'un réacteur ou pour la mise en œuvre d'un faisceau de particules ou de substances
 radioactives : 
 
 1° Un rapport provisoire de sûreté comportant en particulier les éléments permettant de s'assurer de la conformité de la
@@ -32265,22 +32260,25 @@ réalisation avec les prescriptions prévues par le décret d'autorisation ;
 2° Les règles générales d'exploitation à observer au cours de la période antérieure à la mise en service pour assurer la
 sûreté de l'exploitation ; 
 
-3° Un plan d'urgence interne précisant l'organisation et les moyens à mettre en oeuvre sur le site en cas d'accident.
+3° Un plan d'urgence interne précisant l'organisation et les moyens à mettre en œuvre sur le site en cas d'accident.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2001-592 2001-07-05 art. 10 al. 5 à 8
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-44 (V)
+	  - Code de la défense. - art. R*1333-44
 
 
 ###### Article R*1333-46
@@ -32366,32 +32364,30 @@ la prorogation sont définies par décret.
 ###### Article R*1333-47-1
 
 Les autorisations et les déclarations concernant les équipements et installations situées dans le périmètre de l'installation
-nucléaire de base secrète et nécessaires au fonctionnement de l'installation, mentionnés au premier alinéa du III de
-l'article 2 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire, sont
-instruites et délivrées par le délégué à la sûreté nucléaire et à la radioprotection des activités et installations
-nucléaires intéressant la défense mentionné à l'article R. * 1411-7. 
+nucléaire de base secrète et nécessaires au fonctionnement de l'installation, mentionnés à l'article L. 1333-17, sont
+instruites et délivrées par le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités
+intéressant la défense mentionné à l'article R. * 1333-67-5. 
 
-Les demandes d'autorisation et les déclarations concernant les équipements et installations mentionnés au dernier alinéa du
-III de l'article 2 de la même loi sont adressées au délégué. Ce dernier transmet les demandes d'autorisation au préfet pour
-qu'il procède ou fasse procéder aux consultations et enquêtes prévues, suivant le cas, au chapitre 4 du titre Ier du livre II
-ou à l'article L. 512-2 du code de l'environnement. Le préfet transmet au délégué, avec son avis, les résultats des
-consultations et des enquêtes effectuées.
+Les demandes d'autorisation et les déclarations concernant les équipements et installations mentionnés à l'article L. 1333-18
+sont adressées au délégué. Ce dernier transmet les demandes d'autorisation au préfet pour qu'il procède ou fasse procéder aux
+consultations et enquêtes prévues, suivant le cas, au chapitre 4 du titre Ier du livre II ou à l'article L. 512-2 du code de
+l'environnement. Le préfet transmet au délégué, avec son avis, les résultats des consultations et des enquêtes effectuées.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2006-686 du 13 juin 2006 - art. 2 (V)
-	  - Code de la défense. - art. R*1411-7 (V)
-	  - Code de l'environnement - art. L512-2 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-17
+	  - Code de la défense. - art. L1333-18
+	  - Code de l'environnement - art. L512-2
 
 
 ###### Article R*1333-48
@@ -32434,8 +32430,8 @@ de base secrète, des modifications notables de la nature des risques ou un accr
 
 ###### Article R*1333-49
 
-Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les activités et
-installations intéressant la défense informé de toute modification envisagée des installations individuelles, de nature à
+Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les installations et
+activités intéressant la défense informé de toute modification envisagée des installations individuelles, de nature à
 entraîner une mise à jour des rapports de sûreté, des règles d'exploitation ou du plan d'urgence interne de l'installation
 nucléaire de base secrète.
 
@@ -32458,14 +32454,18 @@ notamment par suspension du fonctionnement de l'installation.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 
 ###### Article R*1333-50
 
 Lorsque le titulaire de l'autorisation prévoit, pour quelque raison que ce soit, la mise à l'arrêt définitif d'une
-installation individuelle, il en informe le délégué à la sûreté nucléaire et à la radioprotection pour les activités et
-installations intéressant la défense et lui adresse :
+installation individuelle, il en informe le délégué à la sûreté nucléaire et à la radioprotection pour les installations et
+activités intéressant la défense et lui adresse :
 
 1° Un document définissant et justifiant l'état choisi pour l'installation après son arrêt définitif et, le cas échéant, les
 phases de son démantèlement ultérieur ;
@@ -32478,8 +32478,8 @@ radioprotection et le maintien d'un niveau satisfaisant de sûreté ;
 
 4° Une mise à jour du plan d'urgence interne au périmètre dans lequel l'installation nucléaire de base secrète est située.
 
-La mise en oeuvre de ces dispositions est subordonnée à leur approbation par le ministre compétent ou par le délégué à la
-sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense agissant par délégation.
+La mise en œuvre de ces dispositions est subordonnée à leur approbation par le ministre compétent ou par le délégué à la
+sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense agissant par délégation.
 
 **Liens relatifs à cet article**
 
@@ -32489,11 +32489,11 @@ sûreté nucléaire et à la radioprotection pour les activités et installation
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 
 ###### Article R*1333-51
@@ -32503,12 +32503,12 @@ décision mettant fin au classement est prise dans les formes prévues à l'arti
 s'applique qu'à une ou plusieurs installations individuelles, le périmètre de l'installation nucléaire de base secrète est
 modifié dans les conditions fixées au premier alinéa de l'article R. * 1333-48. 
 
-Chaque installation individuelle relevant de la compétence du ministre chargé de l'industrie répondant à la définition du III
-de l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire, ainsi
-déclassée, fait l'objet d'un enregistrement dans les formes prévues par le décret mentionné à l'article 36 de la même loi,
-sans enquête publique. Les dispositions réglementant l'installation lorsqu'elle était classée secrète restent applicables
-aussi longtemps que de nouvelles dispositions prises au titre du décret susmentionné ne s'y substituent pas. Les étapes
-ultérieures du fonctionnement de chacune de ces installations sont régies par ce même décret. 
+Chaque installation individuelle relevant de la compétence du ministre chargé de l'industrie qui, après déclassement, répond
+à la définition d'une installation nucléaire de base telle que fixée par l'article L. 593-2 du code de l'environnement, fait
+l'objet d'un enregistrement dans les formes prévues par le décret en Conseil d'Etat mentionné à l'article L. 593-38 du code
+de l'environnement, sans enquête publique. Les dispositions réglementant l'installation lorsqu'elle était classée secrète
+restent applicables aussi longtemps que de nouvelles dispositions prises au titre du décret susmentionné ne s'y substituent
+pas. Les étapes ultérieures du fonctionnement de chacune de ces installations sont régies par ce même décret. 
 
 La décision d'exclure du périmètre défini à l'article R. * 1333-40 un équipement ou une installation mentionnée à l'article
 R. * 1333-47, relevant du chapitre IV du titre Ier du livre II du code de l'environnement ou du titre Ier du livre V de ce
@@ -32527,21 +32527,21 @@ générales de ces installations sont établies par décision du ministre compé
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 15 (Ab)
 
-	**Cite**:
-
-	  - Loi n°2006-686 du 13 juin 2006 - art. 28 (V)
-	  - Loi n°2006-686 du 13 juin 2006 - art. 36 (V)
-	  - Code de la défense. - art. R*1333-40 (V)
-	  - Code de la défense. - art. R*1333-47 (V)
-	  - Code de la défense. - art. R*1333-48 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-40
+	  - Code de la défense. - art. R*1333-47
+	  - Code de la défense. - art. R*1333-48
+	  - Code de l'environnement - art. L593-2
+	  - Code de l'environnement - art. L593-38
 
 	**Cité par**:
 
@@ -32583,9 +32583,9 @@ appelés à procéder aux analyses et contrôles des prélèvements effectués d
 nationale. 
 
 8° S'agissant des ouvrages, travaux ou activités intéressant des installations ou enceintes relevant du ministre de la
-défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale, les dispositions des 4° et 5°
-ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le rapport du ministre de la défense et
-après avis du délégué. 
+défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale, les dispositions des 4°, 5° et
+6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le rapport du ministre de la défense
+et après avis du délégué. 
 
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de prélèvements d'eau ainsi que la procédure d'instruction
 de ces dossiers sont fixés par arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie.
@@ -32594,35 +32594,29 @@ de ces dossiers sont fixés par arrêté conjoint du ministre de la défense et 
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Créé par**:
-
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Cité par**:
 
 	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
 	  - Code de la défense. - art. R*1333-67-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L1416-1 (V)
-	  - Code de l'environnement - art. L214-1 (V)
-	  - Code de l'environnement - art. L214-2 (V)
+	  - Code de la santé publique - art. L1416-1
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'environnement - art. L214-2
 
 
 ###### Article R*1333-52
 
-Les anciens sites d'expérimentations nucléaires du Pacifique font l'objet de mesures de surveillance radiologique et
-géomécanique.
-
-Cette surveillance est réalisée selon des modalités arrêtées par le ministre de la défense.
-
-Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense est
-chargé de s'assurer du suivi radiologique de ces sites, d'apprécier l'évolution de leur état géomécanique et de soumettre au
-ministre de la défense toute proposition visant à adapter, le cas échéant, la réglementation technique de sûreté nucléaire et
-de radioprotection aux spécificités de ces sites.
+Pour chacune des installations nucléaires de base secrètes, le responsable de cette installation et le préfet intéressé
+déterminent conjointement les modalités d'alerte et d'information des pouvoirs publics. Ces modalités sont annexées aux plans
+particuliers d'intervention.
 
 **Liens relatifs à cet article**
 
@@ -32632,62 +32626,66 @@ de radioprotection aux spécificités de ces sites.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 
-###### Article R*1333-53
+##### Sous-section 4 : Systèmes nucléaires militaires.
 
-Les responsables de l'exploitation d'installations ou d'activités nucléaires mentionnées à l'article R. * 1333-37 sont tenus
-de déclarer sans délai au délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations
-intéressant la défense tout incident ou accident nucléaire ou non, ayant ou risquant d'avoir des conséquences notables sur la
-sûreté des installations ou des activités ou de porter atteinte notamment, par exposition aux rayonnements ionisants, aux
-personnes ou à l'environnement. 
+##### Sous-section 5 : Sites et installations d'expérimentations nucléaires intéressant la défense.
 
-Dès qu'il est informé de la survenue d'un tel incident ou accident, le délégué ou, en cas d'empêchement, son représentant,
-propose aux ministres concernés, en application des articles R. * 1411-7 à R. * 1411-10, les mesures rendues nécessaires, ou
-les fait adopter en cas d'urgence. Il participe à l'action des pouvoirs publics en cas d'événement entraînant une situation
-d'urgence radiologique. Ses missions sont fixées par le Premier ministre. 
+##### Sous-section 6 :  Transports 
 
-Pour chaque site, une convention entre les responsables d'installations ou d'activités nucléaires mentionnées à R. * 1333-37
-et les préfets intéressés précise les modalités d'alerte et d'information des pouvoirs publics. Elle est annexée aux plans
-particuliers d'intervention.
+###### Article R*1333-67-4
+
+Les transports de matières fissiles ou radioactives liés aux activités d'armement nucléaire et de propulsion nucléaire
+navale, mentionnés au 5° de l'article L. 1333-15, s'effectuent sous la responsabilité du ministre de la défense. 
+
+Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné
+à l'article R. * 1333-67-5 exerce les attributions prévues aux articles R. * 1333-67-5 à R. * 1333-67-8. Il est l'autorité
+compétente au sens de la réglementation des transports de matières dangereuses, tant pour les substances radioactives liées
+aux activités d'armement nucléaire et de propulsion nucléaire navale que pour les marchandises dangereuses non radioactives
+liées aux éléments d'armes nucléaires. 
+
+Dans le cas des sites d'étape dont la liste est fixée par décision du ministre de la défense, l'étude de dangers prévue à
+l'article L. 551-2 du code de l'environnement est transmise au délégué.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2001-592 du 5 juillet 2001 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
 	**Modifié par**:
-
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
-
-	**Abrogé par**:
 
 	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-37
-	  - Code de la défense. - art. R*1411-7
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5 (V)
+	  - Code de l'environnement - art. L551-2
 
 
-##### Sous-section 4 : Systèmes nucléaires militaires.
+##### Section 2 : Installations et activités nucléaires intéressant la défense
+
+##### Sous-section 1 : Dispositions générales.
+
+##### Sous-section 2 : Installations nucléaires de base secrètes.
+
+##### Sous-section 3 : Systèmes nucléaires militaires.
 
 ###### Article R*1333-61
 
-Pour l'application des décisions de réalisation d'un nouveau type de système nucléaire militaire, les prescriptions
+1° Un système nucléaire militaire, mentionné au 2° de l'article L. 1333-15, est un ensemble constitué d'au moins un système
+d'armes nucléaires ou d'au moins un réacteur nucléaire ainsi que, le cas échéant, des installations et moyens qui concourent
+à leur mise en œuvre et à leur sûreté. 
+
+Les différentes catégories de systèmes nucléaires militaires sont fixées par un arrêté du ministre de la défense. 
+
+2° Pour l'application des décisions de réalisation d'un nouveau type de système nucléaire militaire, les prescriptions
 nécessaires à la sûreté nucléaire et à la radioprotection sont approuvées par décision du Premier ministre prise sur le
-rapport du ministre de la défense, après avis du délégué à la sûreté nucléaire et à la radioprotection pour les activités et
-installations intéressant la défense, mentionné à l'article R. * 1411-7. La mise en service d'un système nucléaire militaire
+rapport du ministre de la défense, après avis du délégué à la sûreté nucléaire et à la radioprotection pour les installations
+et activités intéressant la défense mentionné à l'article R. * 1333-67-5. La mise en service d'un système nucléaire militaire
 respectant ces prescriptions est décidée par le ministre de la défense. Ces décisions peuvent ne pas être publiées.
 
 **Liens relatifs à cet article**
@@ -32698,7 +32696,11 @@ respectant ces prescriptions est décidée par le ministre de la défense. Ces d
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cité par**:
 
@@ -32706,7 +32708,8 @@ respectant ces prescriptions est décidée par le ministre de la défense. Ces d
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1411-7 (V)
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5 (V)
 
 
 ###### Article R*1333-62
@@ -32914,15 +32917,17 @@ notamment pour prendre en compte les enseignements de l'expérience d'arrêt des
 	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
 
 
-##### Sous-section 5 : Sites et installations d'expérimentations nucléaires intéressant la défense.
+##### Sous-section 4 : Sites et installations d'expérimentations nucléaires intéressant la défense.
 
 ###### Article R*1333-67-1
 
-Les sites et installations d'expérimentations nucléaires intéressant la défense, dont la liste est fixée par l'arrêté prévu à
-l'article R. * 1333-37, sont définis par leur périmètre figurant sur un plan dont un exemplaire est transmis au préfet. 
+Les sites et installations d'expérimentations nucléaires intéressant la défense, mentionnés au 3° de l'article L. 1333-15 et
+dont la liste est fixée par un arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie, sont définis
+par leur périmètre figurant sur un plan dont un exemplaire est transmis au préfet. 
 
 Toute modification de ce périmètre est soumise, selon le cas, à décision du ministre de la défense ou du ministre chargé de
-l'industrie, prise sur avis du délégué. 
+l'industrie, prise sur avis du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités
+intéressant la défense mentionné à l'article R. * 1333-67-5. 
 
 Le délégué y assure la surveillance en matière de protection de l'environnement, de sûreté nucléaire et de radioprotection.
 
@@ -32930,20 +32935,28 @@ Le délégué y assure la surveillance en matière de protection de l'environnem
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Créé par**:
-
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Cité par**:
 
 	  - Arrêté du 24 novembre 2009 - art. 1 (V)
 	  - Arrêté du 24 novembre 2009 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-1243 du 23 septembre 2016 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-37 (V)
+	  - Code de la défense. - art. L1333-15
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R*1333-67-1-1 (M)
 
 
 ###### Article R*1333-67-2
@@ -33007,30 +33020,252 @@ par les régimes mentionnés à l'article R. * 1333-67-2.
 	  - Code de la défense. - art. R*1333-67-2 (V)
 
 
-##### Sous-section 6 :  Transports 
+##### Sous-section 5 : Anciens sites d'expérimentations nucléaires du Pacifique.
 
-###### Article R*1333-67-4
+###### Article R*1333-67-3-1
 
-Les transports de matières fissiles et radioactives intéressant la défense s'effectuent sous la responsabilité du ministre de
-la défense. 
+Les anciens sites d'expérimentations nucléaires du Pacifique mentionnés au 4° de l'article L. 1333-15 font l'objet de mesures
+de surveillance radiologique et géomécanique. 
 
-Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations liées aux activités d'armement
-nucléaire et de propulsion nucléaire navale exerce les attributions prévues aux articles R. * 1412-1 à R. * 1412-4. Il est, à
-ce titre, l'autorité compétente au sens de la réglementation des transports de matières dangereuses. 
+Cette surveillance est réalisée selon des modalités arrêtées par le ministre de la défense. 
 
-Dans le cas des sites d'étape dont la liste est fixée par décision du ministre de la défense, l'étude de dangers prévue à
-l'article L. 551-2 du code de l'environnement est transmise au délégué.
+Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense,
+mentionné à l'article R. * 1333-67-5, est chargé de s'assurer du suivi radiologique de ces sites, d'apprécier l'évolution de
+leur état géomécanique et de soumettre au ministre de la défense toute proposition visant à adapter, le cas échéant, la
+réglementation technique de sûreté nucléaire et de radioprotection aux spécificités de ces sites.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 3
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1412-1
-	  - Code de l'environnement - art. L551-2
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5 (V)
+
+
+##### Sous-section 6 :  Transports 
+
+##### Section 2 bis : Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense
+
+###### Article R*1333-67-5
+
+Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense participe
+au contrôle de la sûreté nucléaire et de la radioprotection des installations et activités nucléaires intéressant la défense
+mentionnées à l'article L. 1333-15. 
+
+Le délégué est placé auprès du ministre de la défense et du ministre chargé de l'industrie. Il est nommé par décret, sur
+proposition conjointe des deux ministres, pour une durée de cinq ans renouvelable. 
+
+Le délégué est chargé d'étudier et de proposer au ministre de la défense et au ministre chargé de l'industrie la politique de
+sûreté nucléaire et de radioprotection applicable aux installations et activités nucléaires mentionnées à l'article L.
+1333-15. Il en contrôle l'application. 
+
+Il leur propose également, en tenant compte des spécificités propres aux installations et activités nucléaires intéressant la
+défense, toute adaptation de la réglementation qu'il juge nécessaire, notamment en matière de prévention et de contrôle des
+risques que ces installations et activités peuvent présenter pour les personnes, les biens et l'environnement. 
+
+Pour l'exercice de ses missions, il établit des échanges réguliers d'informations avec l'Autorité de sûreté nucléaire
+mentionnée au chapitre II du titre IX du livre V de la partie législative du code de l'environnement. 
+
+Il rend compte au ministre de la défense et au ministre chargé de l'industrie de la sûreté nucléaire des installations et
+activités relevant de leurs compétences respectives, de leur création jusqu'au terme de leur démantèlement ou de leur
+déclassement. Il rend compte également de l'ensemble de ses actions et de ses constatations, dans l'exercice de ses
+attributions en matière de radioprotection. A ce titre, il remet au ministre de la défense et au ministre chargé de
+l'industrie un rapport annuel sur l'état de la sûreté nucléaire et de la radioprotection de ces installations et activités.
+Il leur fait des propositions relatives à l'information du public en ces domaines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2015-1029 du 19 août 2015 - art. 3 (V)
+	  - Décret n°2017-539 du 13 avril 2017 - art. 16
+	  - Code de la défense. - art. R*1333-37-1 (M)
+	  - Code de la défense. - art. R*1333-47-1 (VD)
+	  - Code de la défense. - art. R*1333-61 (V)
+	  - Code de la défense. - art. R*1333-67-1-1 (V)
+	  - Code de la défense. - art. R*1333-67-3-1 (V)
+	  - Code de la défense. - art. R*1333-67-4 (V)
+	  - Code de la défense. - art. R*1333-67-9 (V)
+	  - Code de la défense. - art. R*1411-17 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+
+
+###### Article R*1333-67-6
+
+Le délégué est notamment chargé : 
+
+1° De contrôler l'application de la réglementation de sûreté nucléaire en faisant procéder à l'inspection des installations
+et activités nucléaires intéressant la défense mentionnées à l'article L. 1333-15 ; 
+
+2° De contrôler l'application de la réglementation prévue pour assurer la protection radiologique du public et du personnel,
+notamment la pertinence des dispositions techniques prises dans le cadre de la protection contre les rayonnements
+ionisants ; 
+
+3° De contrôler l'application de la réglementation relative aux sources radioactives détenues et utilisées dans les
+installations mentionnées à l'article L. 1333-15 ; 
+
+4° D'instruire les demandes d'autorisation mentionnées aux articles R. * 1333-42 et R. * 1333-63, d'établir les prescriptions
+de sûreté nucléaire et de radioprotection correspondantes et de donner son avis au ministre de la défense et au ministre
+chargé de l'industrie ; 
+
+5° De proposer au ministre de la défense et au ministre chargé de l'industrie ou de prendre, dans la limite des délégations
+qui lui sont consenties, toute mesure de sûreté nucléaire et de radioprotection nécessaire, notamment pour prévenir les
+accidents ou incidents impliquant ces installations ou activités et d'en limiter les conséquences ; 
+
+6° De conduire des études prospectives et de proposer au ministre de la défense et au ministre chargé de l'industrie la
+réalisation d'enquêtes en matière de sûreté nucléaire et de radioprotection ; 
+
+7° De participer à l'information du public dans les domaines de sa compétence, dans le respect des exigences liées à la
+défense nationale ; 
+
+8° De donner un avis sur l'impact des actes de malveillance sur la sûreté nucléaire et la radioprotection selon des scénarios
+d'agression définis par les services compétents de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-42 (V)
+
+
+###### Article R*1333-67-7
+
+Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à l'article L. 1333-4 du code de la santé
+publique lorsque les sources de rayonnements ionisants sont détenues ou utilisées dans les équipements et installations
+soumis à son contrôle. 
+
+Le délégué peut recevoir délégation du ministre de la défense et du ministre chargé de l'industrie pour signer en leur nom
+tout acte ou décision concernant l'application des dispositions de la section 2 du chapitre III du titre III du livre III et
+de la présente section, à l'exception des décrets, des décisions de mise en service des systèmes nucléaires militaires ainsi
+que de celles ayant une incidence directe sur la disponibilité opérationnelle des forces nucléaires. 
+
+Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la composition, le fonctionnement et les
+attributions sont précisés, sur son rapport, par arrêté conjoint du ministre de la défense et du ministre chargé de
+l'industrie. 
+
+Le délégué est informé de tout projet de textes réglementaires pris en application des articles L. 4451-1 et L. 4451-2 du
+code du travail ou du chapitre III du titre III du livre III de la première partie du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1333-67-10 (V)
+	  - Code de la défense. - art. R*1641-1-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L4451-1 (VT)
+	  - Code de la santé publique - art. L1333-4 (VT)
+
+
+###### Article R*1333-67-8
+
+Le délégué est assisté de deux adjoints, un adjoint militaire nommé par le ministre de la défense et un adjoint nommé par le
+ministre chargé de l'industrie. 
+
+Il bénéficie du concours de personnel mis à sa disposition, notamment par le ministre de la défense et le ministre chargé de
+l'industrie, regroupé au sein d'un service dénommé Autorité de sûreté nucléaire de défense et placé sous sa responsabilité.
+Des arrêtés du ministre de la défense et du ministre chargé de l'industrie fixent les moyens nécessaires au fonctionnement de
+ce service. 
+
+Il peut également avoir recours à des experts de son choix. 
+
+Le personnel de l'Autorité de sûreté nucléaire de défense et les experts sont habilités au secret de la défense nationale et
+astreints au secret professionnel dans les conditions et sous les sanctions prévues aux articles 226-13 et suivants du code
+pénal, sans préjudice de l'application des dispositions prévues aux articles 413-9 et suivants du même code, réprimant les
+atteintes au secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 413-9
+
+
+###### Article R*1333-67-9
+
+Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1333-67-5 à R. * 1333-67-7 portent sur : 
+
+1° Le respect de la réglementation de sûreté nucléaire applicable aux installations et activités nucléaires et des
+prescriptions contenues dans les autorisations de création ou imposées ultérieurement pour le maintien de la sûreté
+nucléaire ; 
+
+2° Le respect de la réglementation de la radioprotection applicable aux installations et activités nucléaires, sans préjudice
+des inspections prévues par le code du travail. Cette mission de contrôle est exercée, s'il y a lieu, conjointement avec les
+agents chargés de l'inspection du travail en application des articles du code du travail ; 
+
+3° L'application des règles et des prescriptions et le suivi des mesures relatives aux effluents et à la gestion des déchets
+radioactifs et de leur impact, sans préjudice de l'application des règles existantes pour les contrôles effectués par les
+services de l'Etat compétents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-67-5 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1641-1-1 (V)
+
+
+###### Article R*1333-67-10
+
+A l'intérieur du périmètre des installations nucléaires de base secrètes et des sites et installations d'expérimentations
+nucléaires intéressant la défense, les inspecteurs désignés par décision du délégué au sein de l'Autorité de sûreté nucléaire
+de défense, en application notamment des dispositions de l'article L. 1333-18 du code de la santé publique, sont chargés de
+l'inspection des installations mentionnées à l'article R. * 1333-47 ou qui présentent un caractère technique d'installations
+classées pour la protection de l'environnement ou un caractère technique d'installations, ouvrages, travaux et activités
+relatifs à l'eau. La décision précise les catégories d'installations, d'équipements ou d'activités intéressées ainsi que la
+nature des inspections à entreprendre. 
+
+Les inspecteurs peuvent être associés aux travaux des commissions techniques de sûreté nucléaire mentionnées à l'article R. *
+1333-67-7. 
+
+Ils portent à la connaissance du délégué tout fait susceptible de mettre en cause la sûreté nucléaire et la radioprotection
+de ces installations ou activités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-47 (V)
+	  - Code de la défense. - art. R*1333-67-7 (V)
+	  - Code de la santé publique - art. L1333-18
 
 
 ##### Section 3 : Comité interministériel aux crises nucléaires ou radiologiques.
@@ -36468,9 +36703,10 @@ instances de contrôle ou les autres organismes mandatés qui contribuent au con
 
 ###### Article R*1411-17
 
-La sûreté nucléaire participe à la crédibilité et à la pérennité de la dissuasion.A cette fin, l'inspecteur des armements
+La sûreté nucléaire participe à la crédibilité et à la pérennité de la dissuasion. A cette fin, l'inspecteur des armements
 nucléaires s'assure de la cohérence des mesures prises au regard des exigences de la dissuasion, notamment auprès du délégué
-à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense.
+à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné à
+l'article R. * 1333-67-5.
 
 **Liens relatifs à cet article**
 
@@ -36480,7 +36716,11 @@ nucléaires s'assure de la cohérence des mesures prises au regard des exigences
 
 	**Modifié par**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+	  - Décret n°2015-159 du 11 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1333-67-5 (V)
 
 
 ###### Article R*1411-18
@@ -36500,231 +36740,6 @@ des armées.
 	**Modifié par**:
 
 	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
-
-##### Chapitre II : Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense
-
-###### Article R*1412-1
-
-Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités nucléaires intéressant la
-défense est placé auprès du ministre de la défense et du ministre chargé de l'industrie. Le délégué est nommé par décret, sur
-proposition conjointe des deux ministres, pour une durée de cinq ans renouvelable. 
-
-Le délégué est chargé d'étudier et de proposer au ministre de la défense et au ministre chargé de l'industrie la politique de
-sûreté nucléaire et de radioprotection applicable aux installations et activités nucléaires mentionnées à l'article R. *
-1333-37. Il en contrôle l'application. 
-
-Il leur propose également, en tenant compte des spécificités propres aux installations et activités nucléaires intéressant la
-défense, toute adaptation de la réglementation qu'il juge nécessaire, notamment en matière de prévention et de contrôle des
-risques que ces installations et activités peuvent présenter pour les personnes, les biens et l'environnement. 
-
-Pour l'exercice de ses missions, il établit des échanges réguliers d'informations avec l'Autorité de sûreté nucléaire
-mentionnée au titre II de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière
-nucléaire. 
-
-Il rend compte au ministre de la défense et au ministre chargé de l'industrie de la sûreté nucléaire des installations et
-activités relevant de leurs compétences respectives, de leur création jusqu'au terme de leur démantèlement ou de leur
-déclassement. Il rend compte également de l'ensemble de ses actions et de ses constatations, dans l'exercice de ses
-attributions en matière de radioprotection.A ce titre, il remet au ministre de la défense et au ministre chargé de
-l'industrie un rapport annuel sur l'état de la sûreté nucléaire et de la radioprotection de ces installations et activités.
-Il leur fait des propositions relatives à l'information du public en ces domaines.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 24 novembre 2009 - art. 1 (V)
-	  - Arrêté du 24 novembre 2009 - art. 4 (V)
-	  - Arrêté du 27 novembre 2013 - art. 6 (VD)
-	  - Code de la défense. - art. R*1333-67-4 (M)
-	  - Code de la défense. - art. R*1412-5 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1411-7 (T)
-
-
-###### Article R*1412-2
-
-Le délégué est notamment chargé : 
-
-1° De contrôler l'application de la réglementation de sûreté nucléaire en faisant procéder à l'inspection de ces
-installations et activités ; 
-
-2° De contrôler l'application de la réglementation prévue pour assurer la protection radiologique du public et du personnel,
-notamment la pertinence des dispositions techniques prises dans le cadre de la protection contre les rayonnements
-ionisants ; 
-
-3° De contrôler l'application de la réglementation relative aux sources radioactives détenues et utilisées dans les
-installations mentionnées à l'article R. * 1333-37 ; 
-
-4° D'instruire les demandes d'autorisation mentionnées aux articles R. * 1333-42 et R. * 1333-63, d'établir les prescriptions
-de sûreté nucléaire et de radioprotection correspondantes et de donner son avis au ministre de la défense et au ministre
-chargé de l'industrie ; 
-
-5° De proposer au ministre de la défense et au ministre chargé de l'industrie ou de prendre, dans la limite des délégations
-qui lui sont consenties, toute mesure de sûreté nucléaire et de radioprotection nécessaire, notamment pour prévenir les
-accidents ou incidents impliquant ces installations ou activités et d'en limiter les conséquences ; 
-
-6° De conduire des études prospectives et de proposer au ministre de la défense et au ministre chargé de l'industrie la
-réalisation d'enquêtes en matière de sûreté nucléaire et de radioprotection ; 
-
-7° De participer à l'information du public dans les domaines de sa compétence, dans le respect des exigences liées à la
-défense nationale ; 
-
-8° De donner un avis sur l'impact des actes de malveillance sur la sûreté nucléaire et la radioprotection selon des scénarios
-d'agression définis par les services compétents de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1411-8 (T)
-
-
-###### Article R*1412-3
-
-Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à l'article L. 1333-4 du code de la santé
-publique lorsque les sources de rayonnements ionisants sont détenues ou utilisées dans les équipements et installations
-soumis à son contrôle. 
-
-Le délégué peut recevoir délégation du ministre de la défense et du ministre chargé de l'industrie pour signer en leur nom
-tout acte ou décision concernant l'application des dispositions de la section 2 du chapitre 3 du titre III du livre III,
-hormis celles des articles D. 1333-55 à D. 1333-60, et de la présente section, à l'exception des décrets, des décisions de
-mise en service des systèmes nucléaires militaires ainsi que de celles ayant une incidence directe sur la disponibilité
-opérationnelle des forces nucléaires. 
-
-Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la composition, le fonctionnement et les
-attributions sont précisés, sur son rapport, par arrêté conjoint du ministre de la défense et du ministre chargé de
-l'industrie. 
-
-Le délégué est informé de tout projet de textes réglementaires pris en application de l'article L. 231-7-1 du code du travail
-ou du chapitre III du titre III du livre III de la première partie du code de la santé publique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1411-9 (T)
-
-
-###### Article R*1412-4
-
-Le délégué est assisté de deux adjoints, un adjoint militaire nommé par le ministre de la défense et un adjoint nommé par le
-ministre chargé de l'industrie. 
-
-Il bénéficie du concours de personnel mis à sa disposition, notamment par le ministre de la défense et le ministre chargé de
-l'industrie, regroupé au sein d'une structure dénommée Autorité de sûreté nucléaire de défense et placé sous sa
-responsabilité. Des arrêtés du ministre de la défense et du ministre chargé de l'industrie fixent les moyens nécessaires au
-fonctionnement de cette structure. 
-
-Il peut également avoir recours à des experts de son choix. 
-
-Le personnel et les experts sont habilités au secret de la défense nationale et astreints au secret professionnel dans les
-conditions et sous les sanctions prévues aux articles 226-13 et suivants du code pénal, sans préjudice de l'application des
-dispositions prévues aux articles 413-9 et suivants du même code, réprimant les atteintes au secret de la défense nationale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1411-10 (T)
-
-
-###### Article R*1412-5
-
-Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1412-1 à R. * 1412-3 portent sur : 
-
-1° Le respect de la réglementation de sûreté nucléaire applicable aux installations et activités nucléaires et des
-prescriptions contenues dans les autorisations de création ou imposées ultérieurement pour le maintien de la sûreté
-nucléaire ; 
-
-2° Le respect de la réglementation de la radioprotection applicable aux installations et activités nucléaires, sans préjudice
-des inspections prévues par le code du travail. Cette mission de contrôle est exercée, s'il y a lieu, conjointement avec les
-agents chargés de l'inspection du travail en application des articles du code du travail ; 
-
-3° L'application des règles et des prescriptions et le suivi des mesures relatives aux effluents et à la gestion des déchets
-radioactifs et de leur impact, sans préjudice de l'application des règles existantes pour les contrôles effectués par les
-services de l'Etat compétents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1537 du 16 novembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1412-1 (Ab)
-
-
-###### Article R*1412-6
-
-A l'intérieur du périmètre des installations nucléaires de base secrètes et des sites et installations d'expérimentations
-nucléaires intéressant la défense, les inspecteurs désignés par décision du délégué au sein de l'Autorité de sûreté nucléaire
-de défense, en application notamment des dispositions de l'article L. 1333-18 du code de la santé publique, sont chargés de
-l'inspection des installations mentionnées à l'article R. * 1333-47 ou qui présentent un caractère technique d'installations
-classées pour la protection de l'environnement ou un caractère technique d'installations, ouvrages, travaux et activités
-relatifs à l'eau. La décision précise les catégories d'installations, d'équipements ou d'activités intéressées ainsi que la
-nature des inspections à entreprendre. 
-
-Les inspecteurs peuvent être associés aux travaux des commissions techniques de sûreté nucléaire mentionnées à l'article R. *
-1412-3. 
-
-Ils portent à la connaissance du délégué tout fait susceptible de mettre en cause la sûreté nucléaire et la radioprotection
-de ces installations ou activités.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1537 du 16 novembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
-
-	**Cite**:
-
-	  - Code de la défense. - art. R*1333-47
-	  - Code du travail - art. R1412-3
-	  - Code de la santé publique - art. L1333-18
 
 
 #### TITRE II : DÉFENSE OPÉRATIONNELLE DU TERRITOIRE
@@ -38278,37 +38293,57 @@ l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R.
 
 Pour l'application de la présente partie du code dans les îles Wallis et Futuna : 
 
-1° (Supprimé) ; 
+1° En l'absence d'adaptation, les références faites, par des dispositions de la présente partie du code applicables dans les
+îles Wallis et Futuna, à des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions
+ayant le même objet applicables localement ; 
 
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes : 
 
-"Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis et
-Futuna, le directeur chargé de la direction des finances publiques des îles Wallis et Futuna dont la circonscription comprend
-le chef-lieu de la zone de défense et de sécurité, l'officier général commandant supérieur, l'officier commandant la
+" Ce comité comprend le haut-commissaire de la République en Nouvelle-Calédonie, l'administrateur supérieur des îles Wallis
+et Futuna, le directeur chargé de la direction des finances publiques des îles Wallis et Futuna dont la circonscription
+comprend le chef-lieu de la zone de défense et de sécurité, l'officier général commandant supérieur, l'officier commandant la
 gendarmerie au chef-lieu de la zone de défense et de sécurité, le chef d'état-major de zone de défense et de sécurité, s'il y
 a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police
-nationale désignés à cet effet par le préfet de zone de défense et de sécurité." ; 
+nationale désignés à cet effet par le préfet de zone de défense et de sécurité. " ; 
 
 3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par les dispositions suivantes : 
 
-"Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues par le statut de la
-collectivité" ; 
+" Il exerce son pouvoir de substitution et son pouvoir hiérarchique dans les conditions prévues par le statut de la
+collectivité " ; 
 
 4° Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
 territoriales est remplacée par les dispositions prévues par le statut de la collectivité ayant le même objet et applicables
-localement.
+localement. ; 
+
+5° A l'article R. * 1333-51, les mots : " répond à la définition d'une installation nucléaire de base telle que fixée par
+l'article L. 593-2 du code de l'environnement " sont remplacés par les mots : " répond à la définition d'une installation
+nucléaire de base au sens de l'article L. 593-2 du code de l'environnement " et les mots : " dans les formes prévues par le
+décret en Conseil d'Etat mentionné à l'article L. 593-38 du code de l'environnement " sont supprimés ; 
+
+6° Au dernier alinéa de l'article R. * 1333-67-7, les mots : " des articles L. 4451-1 et L. 4451-2 du code du travail ou "
+sont supprimés ; 
+
+7° A l'article R. * 1333-67-9, les mots : " prévues par le code du travail " et les mots : " en application des articles du
+code du travail " sont remplacés respectivement par les mots : " prévues par les dispositions applicables localement en
+matière de travail " et les mots : " en application des dispositions applicables localement ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+	  - Décret n°2015-159 du 11 février 2015 - art. 12
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L1111-7 (V)
 	  - Code de la défense. - art. R*1311-25
 	  - Code de la défense. - art. R*1311-33
 	  - Code de la défense. - art. R*1311-36
+	  - Code de la défense. - art. R*1333-51 (V)
+	  - Code de la défense. - art. R*1333-67-7 (V)
+	  - Code de la défense. - art. R*1333-67-9 (V)
+	  - Code du travail - art. L4451-1 (V)
+	  - Code de l'environnement - art. L593-2 (V)
 
 
 ###### Article R1641-2
@@ -38603,11 +38638,33 @@ c) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplac�
 
 "Ce comité comprend le haut-commissaire de la République en Polynésie française, le directeur chargé de la direction des
 finances publiques de la Polynésie française dont la circonscription comprend le chef-lieu de la zone de défense et de
-sécurité, l'officier général commandant supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense,
-le chef d'état-major de zone de défense et de sécurité, s'il y a lieu les commandants des forces, le commandant territorial
-de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le préfet de zone." 
+sécurité, l'officier général commandant supérieur, l'officier commandant la gendarmerie au chef-lieu de la zone de défense et
+de sécurité, le chef d'état-major de zone de défense et de sécurité, s'il y a lieu les commandants des forces, le commandant
+territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le préfet de
+zone." 
 
-3° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : "la loi n° 2004-811 du 13 août 2004 de modernisation
+3° A l'article R. * 1333-51, les mots : "répond à la définition d'une installation nucléaire de base telle que fixée par
+l'article L. 593-2 du code de l'environnement" sont remplacés par les mots : "répond à la définition d'une installation
+nucléaire de base au sens de l'article L. 593-2 du code de l'environnement" et les mots : "dans les formes prévues par le
+décret en Conseil d'Etat mentionné à l'article L. 593-38 du code de l'environnement" sont supprimés ; 
+
+4° Au premier alinéa de l'article R. * 1333-67-7, les mots : "mentionnées à l'article L. 1333-4 du code de la santé publique"
+sont remplacés par les mots : "auxquelles sont soumises les activités comportant un risque d'exposition des personnes aux
+rayonnements ionisants" ; 
+
+5° Le dernier alinéa de l'article R. * 1333-67-7 est ainsi rédigé : 
+
+Le délégué est informé de tout projet de textes réglementaires applicables localement dans le domaine de la protection des
+travailleurs contre les risques d'exposition aux rayonnements ionisants. ; 
+
+6° A l'article R. * 1333-67-9, les mots : "prévues par le code du travail" et les mots : "en application des articles du code
+du travail" sont remplacés respectivement par les mots : "prévues par les dispositions applicables localement en matière de
+travail" et les mots : "en application des dispositions applicables localement" ; 
+
+7° A l'article R. * 1333-67-10, les mots : ", en application notamment des dispositions de l'article L. 1333-18 du code de la
+santé publique," sont supprimés ; 
+
+8° a) Aux articles R. * 1336-1, R. * 1336-9 et R. * 1336-12, les mots : "la loi n° 2004-811 du 13 août 2004 de modernisation
 de la sécurité civile" sont remplacés par les mots : " l'ordonnance n° 2006-173 du 15 février 2006 portant actualisation et
 adaptation du droit applicable en matière de sécurité civile en Polynésie française" ; 
 
@@ -38616,7 +38673,11 @@ fonctionnaire de zone et de sécurité, représente le commissaire aux transport
 
 c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 2004-811 du 13 août 2004 de modernisation de la
 sécurité civile est remplacée par la référence à l'article 16 de l'ordonnance n° 2006-173 du 15 février 2006 portant
-actualisation et adaptation du droit applicable en matière de sécurité civile en Polynésie française.
+actualisation et adaptation du droit applicable en matière de sécurité civile en Polynésie française ;
+
+9° En l'absence d'adaptation, les références faites, par des dispositions de la présente partie du code applicables en
+Polynésie française, à des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions
+ayant le même objet applicables localement.
 
 **Nota:**
 
@@ -38641,7 +38702,7 @@ code de la sécurité intérieure par l'ordonnance n° 2012-351 du 12 mars 2012.
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+	  - Décret n°2015-159 du 11 février 2015 - art. 12
 
 	**Cité par**:
 
@@ -38962,7 +39023,32 @@ collectivité." ;
 
 d) Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
 territoriales est remplacée par les dispositions prévues par le statut de la collectivité ayant le même objet applicables
-localement.
+localement ;
+
+e) A l'article R. * 1333-51, les mots : "répond à la définition d'une installation nucléaire de base telle que fixée par
+l'article L. 593-2 du code de l'environnement" sont remplacés par les mots : "répond à la définition d'une installation
+nucléaire de base au sens de l'article L. 593-2 du code de l'environnement" et les mots : "dans les formes prévues par le
+décret en Conseil d'Etat mentionné à l'article L. 593-38 du code de l'environnement" sont supprimés ; 
+
+f) Au premier alinéa de l'article R. * 1333-67-7, les mots : "mentionnées à l'article L. 1333-4 du code de la santé publique"
+sont remplacés par les mots : "auxquelles sont soumises les activités comportant un risque d'exposition des personnes aux
+rayonnements ionisants" ; 
+
+g) Le dernier alinéa de l'article R. * 1333-67-7 est ainsi rédigé : 
+
+Le délégué est informé de tout projet de textes réglementaires applicables localement dans le domaine de la protection des
+travailleurs contre les risques d'exposition aux rayonnements ionisants ;
+
+h) A l'article R. * 1333-67-9, les mots : "prévues par le code du travail" et les mots : "en application des articles du code
+du travail" sont remplacés respectivement par les mots : "prévues par les dispositions applicables localement en matière de
+travail" et les mots : "en application des dispositions applicables localement" ; 
+
+i) A l'article R. * 1333-67-10, les mots : ", en application notamment des dispositions de l'article L. 1333-18 du code de la
+santé publique," sont supprimés ;
+
+4° En l'absence d'adaptation, les références faites, par des dispositions de la présente partie du code applicables en
+Nouvelle-Calédonie, à des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant
+le même objet applicables localement.
 
 **Nota:**
 
@@ -38984,7 +39070,7 @@ code de la sécurité intérieure par l'ordonnance n° 2012-351 du 12 mars 2012.
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+	  - Décret n°2015-159 du 11 février 2015 - art. 12
 
 	**Cité par**:
 
@@ -39275,7 +39361,23 @@ service de la police nationale désignés à cet effet par le préfet de zone de
 collectivité." ; 
 
 4° Au premier alinéa de l'article R. * 1311-36, la référence à l'article L. 1111-7 du code général des collectivités
-territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août 1955.
+territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août 1955 ;
+
+5° A l'article R. * 1333-51, les mots : "répond à la définition d'une installation nucléaire de base telle que fixée par
+l'article L. 593-2 du code de l'environnement" sont remplacés par les mots : "répond à la définition d'une installation
+nucléaire de base au sens de l'article L. 593-2 du code de l'environnement" et les mots : "dans les formes prévues par le
+décret en Conseil d'Etat mentionné à l'article L. 593-38 du code de l'environnement" sont supprimés ; 
+
+6° Au dernier alinéa de l'article R. * 1333-67-7, les mots : "des articles L. 4451-1 et L. 4451-2 du code du travail ou" sont
+supprimés ; 
+
+7° A l'article R. * 1333-67-9, les mots : "prévues par le code du travail" et les mots : "en application des articles du code
+du travail" sont remplacés respectivement par les mots : "prévues par les dispositions applicables localement en matière de
+travail" et les mots : "en application des dispositions applicables localement" ; 
+
+8° En l'absence d'adaptation, les références faites, par des dispositions de la présente partie du code applicables aux
+Terres australes et antarctiques françaises, à des dispositions qui n'y sont pas applicables sont remplacées par les
+références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
@@ -39293,7 +39395,7 @@ territoriales est remplacée par la référence à la loi n° 55-1052 du 6 août
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+	  - Décret n°2015-159 du 11 février 2015 - art. 12
 
 	**Cité par**:
 

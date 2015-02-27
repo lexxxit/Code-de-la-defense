@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-02-14
+Version Consolidée au 2015-02-28
 
 # Partie législative
 
@@ -26691,12 +26691,12 @@ confiées.
 
 ###### Article D1211-5
 
-Dans chacune des zones de défense, le comité interarmées de zone de défense, présidé par l'officier général de zone de
-défense, est chargé d'étudier :
+Dans chacune des zones de défense et de sécurité, le comité interarmées de zone de défense et de sécurité, présidé par
+l'officier général de zone de défense et de sécurité, est chargé d'étudier :
 
-1° Les menaces et les risques susceptibles d'affecter la zone de défense ;
+1° Les menaces et les risques susceptibles d'affecter la  zone de défense et de sécurité   ; 
 
-2° Les mesures de coordination des actions des forces armées en matière de défense militaire ;
+2° Les mesures de coordination des actions des forces armées en matière de défense militaire ; 
 
 3° Les mesures de coordination de l'action des armées pour les concours qu'elles fournissent en matière de défense civile et
 la cohérence de ces concours avec l'action de la gendarmerie.
@@ -26709,7 +26709,12 @@ la cohérence de ces concours avec l'action de la gendarmerie.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
+	  - Décret n°2015-213 du 25 février 2015 - art. 22
 
 
 ###### Article D1211-6
@@ -28365,14 +28370,14 @@ II du titre II du livre Ier du code de la sécurité intérieure.
 
 ###### Article D1313-1
 
-Dans chaque zone de défense, un chef de service de défense de zone pour l'équipement et les transports est le collaborateur
-direct du préfet de zone, pour toutes les responsabilités de défense que cette autorité détient en ce qui concerne les
-ministères chargés de l'équipement, du logement et des transports.
+Dans chaque  zone de défense et de sécurité, un chef de service de défense de zone pour l'équipement et les transports est le
+collaborateur direct du préfet de zone de défense et de sécurité, pour toutes les responsabilités de défense que cette
+autorité détient en ce qui concerne les ministères chargés de l'équipement, du logement et des transports. 
 
-Ce chef du service de défense de zone est le directeur régional de l'équipement, dont le siège est au chef-lieu de la zone de
-défense, sauf désignation d'une autre personnalité par arrêté conjoint des ministres chargés des transports, de l'équipement
-et du logement. Dans ce dernier cas, le directeur régional de l'équipement devient chef adjoint du service de défense de
-zone.
+Ce chef du service de défense de zone est le directeur régional de l'équipement, dont le siège est au chef-lieu de la  zone
+de défense et de sécurité, sauf désignation d'une autre personnalité par arrêté conjoint des ministres chargés des
+transports, de l'équipement et du logement. Dans ce dernier cas, le directeur régional de l'équipement devient chef adjoint
+du service de défense de zone. 
 
 Le chef du service de défense de zone pour l'équipement et les transports est assisté d'un haut fonctionnaire, adjoint pour
 la sécurité et la défense.
@@ -28385,7 +28390,11 @@ la sécurité et la défense.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cité par**:
 
@@ -28394,7 +28403,8 @@ la sécurité et la défense.
 
 ###### Article D1313-2
 
-Sous l'autorité du préfet de zone, le chef du service de défense de zone pour l'équipement et les transports : 
+Sous l'autorité du  préfet de zone de défense et de sécurité, le chef du service de défense de zone pour l'équipement et les
+transports : 
 
 1° Dirige l'action des chefs des services régionaux et des directeurs départementaux de l'équipement en ce qui concerne les
 problèmes intéressant la défense civile, coordonne l'action des autres chefs des services déconcentrés, conformément aux
@@ -28411,11 +28421,15 @@ des besoins civils et militaires.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1313-9 (V)
+	  - Code de la défense. - art. D1313-9
 
 
 ###### Article D1313-3
@@ -28437,10 +28451,10 @@ transports, de l'équipement et du logement.
 ###### Article D1313-4
 
 En cas de rupture des communications, prévue à l'article L. 1311-1, et dans la portion de territoire isolée, le chef du
-service de défense de zone pour les transports, l'équipement et le logement prend, sous l'autorité du préfet de zone, la
-direction des services locaux des ministres chargés des transports, de l'équipement et du logement. La représentation locale
-des services déconcentrés et des organismes rattachés passe sous sa direction et il assure la continuité de l'action de ceux-
-ci.
+service de défense de zone pour les transports, l'équipement et le logement prend, sous l'autorité du  préfet de zone de
+défense et de sécurité, la direction des services locaux des ministres chargés des transports, de l'équipement et du
+logement. La représentation locale des services déconcentrés et des organismes rattachés passe sous sa direction et il assure
+la continuité de l'action de ceux-ci.
 
 **Liens relatifs à cet article**
 
@@ -28450,11 +28464,15 @@ ci.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 
 ##### Section 2 : Service de défense régional
@@ -28612,7 +28630,7 @@ chefs des services régionaux de l'équipement des questions de défense les con
 
 Ils se concertent avec eux en tant que de besoin et se conforment aux directives que ces chefs de service de défense sont
 appelés à leur donner dans le cadre de leurs missions de coordination ou de direction ainsi que dans leur rôle de
-collaborateur direct du préfet de zone ou de région.
+collaborateur direct du  préfet de zone de défense et de sécurité  ou de région.
 
 **Liens relatifs à cet article**
 
@@ -28622,19 +28640,24 @@ collaborateur direct du préfet de zone ou de région.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1313-9 (V)
+	  - Code de la défense. - art. D1313-9
 
 
 ###### Article D1313-12
 
-Dans les cas prévus à l'article L. 1111-2, le contrôle du préfet de zone sur l'action des responsables des services ou
-organismes mentionnés à l'article D. 1313-9 s'exerce par l'intermédiaire du chef de service de défense de zone. Si le champ
-d'action d'un de ces services et organismes s'étend sur une zone de défense autre que celle où est situé son siège, un
-adjoint du chef de ce service ou de cet organisme est désigné en tout temps pour le représenter dans cette zone.
+Dans les cas prévus à l'article L. 1111-2, le contrôle du préfet de zone de défense et de sécurité  sur l'action des
+responsables des services ou organismes mentionnés à l'article D. 1313-9 s'exerce par l'intermédiaire du chef de service de
+défense de zone. Si le champ d'action d'un de ces services et organismes s'étend sur une  zone de défense et de sécurité
+autre que celle où est situé son siège, un adjoint du chef de ce service ou de cet organisme est désigné en tout temps pour
+le représenter dans cette zone.
 
 **Liens relatifs à cet article**
 
@@ -28644,20 +28667,24 @@ adjoint du chef de ce service ou de cet organisme est désigné en tout temps po
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1313-9 (V)
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. D1313-9
+	  - Code de la défense. - art. L1111-2
 
 
 ###### Article D1313-13
 
-Des arrêtés conjoints des ministres chargés des transports, de l'équipement et du logement précisent, pour chaque zone de
-défense, le détail de l'organisation.
+Des arrêtés conjoints des ministres chargés des transports, de l'équipement et du logement précisent, pour chaque  zone de
+défense et de sécurité, le détail de l'organisation. 
 
-Des dispositions spéciales peuvent être prévues pour la zone de défense de Paris.
+Des dispositions spéciales peuvent être prévues pour la  zone de défense et de sécurité   de Paris.
 
 **Liens relatifs à cet article**
 
@@ -28667,7 +28694,11 @@ Des dispositions spéciales peuvent être prévues pour la zone de défense de P
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 
 #### TITRE II : DÉFENSE CIVILE
@@ -28756,29 +28787,29 @@ gendarmerie mises sur pied à la mobilisation ou sur décision ministérielle co
 Les forces de première catégorie assurent quotidiennement et d'initiative des missions entrant dans le cadre du maintien de
 l'ordre public. 
 
-Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de zone de défense pour ce qui concerne les
-forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
+Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de  zone de défense et de sécurité   pour ce qui
+concerne les forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-777 du 8 juillet 2010 - art. 3
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 
 ###### Article D1321-8
 
 Les forces de deuxième catégorie constituent une réserve générale à la disposition du Gouvernement pour le maintien de
-l'ordre.
+l'ordre. 
 
-Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de zone de défense pour ce qui concerne les
-forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
+Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de  zone de défense et de sécurité   pour ce qui
+concerne les forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-777 du 8 juillet 2010 - art. 4
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 
 ###### Article D1321-9
@@ -29677,8 +29708,8 @@ I.-La commission émet un avis sur :
 5° Les directives nationales de sécurité, à l'exception de celles intéressant les secteurs d'activités d'importance vitale
 dont le ministre de la défense est le coordonnateur ; 
 
-6° Les plans de sécurité d'opérateurs d'importance vitale dont le périmètre dépasse celui de la zone de défense, à
-l'exception des plans d'opérateurs d'importance vitale relevant du ministre de la défense ; 
+6° Les plans de sécurité d'opérateurs d'importance vitale dont le périmètre dépasse celui de la  zone de défense et de
+sécurité, à l'exception des plans d'opérateurs d'importance vitale relevant du ministre de la défense ; 
 
 7° La liste des points d'importance vitale annexée aux plans de sécurité mentionnés au 6°. La commission propose
 éventuellement des ajouts ou suppressions à cette liste. 
@@ -29704,53 +29735,59 @@ III.-La commission établit un rapport annuel adressé au Premier ministre.
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 8 al. 12 à 25
 	  - Décret n°2006-212 du 23 février 2006 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1332-18 (V)
-	  - Code de la défense. - art. R1332-21 (V)
-	  - Code de la défense. - art. R1332-26 (V)
-	  - Code de la défense. - art. R1332-3 (V)
-	  - Code de la défense. - art. R1332-34 (V)
+	  - Code de la défense. - art. R1332-18
+	  - Code de la défense. - art. R1332-21
+	  - Code de la défense. - art. R1332-26
+	  - Code de la défense. - art. R1332-3
+	  - Code de la défense. - art. R1332-34
 
 
 ##### Sous-section 3 : Commission zonale de défense et de sécurité des secteurs d'activité d'importance vitale
 
 ###### Article R1332-13
 
-Dans chaque zone de défense, une commission zonale de défense et de sécurité des secteurs d'activités d'importance vitale est
-présidée par le préfet de zone ou son représentant.
+Dans chaque zone de défense et de sécurité, une commission zonale de défense et de sécurité des secteurs d'activités
+d'importance vitale est présidée par le préfet de zone ou son représentant. 
 
-Cette commission comprend :
+Cette commission comprend : 
 
-1° Le procureur général près la cour d'appel dans le ressort de laquelle se trouve la préfecture de la zone de défense ou son
-représentant ;
+1° Le procureur général près la cour d'appel dans le ressort de laquelle se trouve la préfecture de la zone de défense et de
+sécurité ou son représentant ; 
 
-2° L'officier général de la zone de défense ou son représentant ;
+2° L'officier général de la zone de défense et de sécurité ou son représentant ; 
 
-3° L'officier commandant la région de gendarmerie situé au siège de la zone de défense ou son représentant ;
+3° L'officier commandant la région de gendarmerie situé au siège de la zone de défense et de sécurité ou son représentant ; 
 
-4° Le délégué de zone du ministre chargé de l'économie ou son représentant ;
+4° Le  délégué de zone de défense et de sécurité du ministre chargé de l'économie ou son représentant ; 
 
-5° Sur convocation du président, les préfets de départements, les chefs des services déconcentrés de l'Etat, le délégué de
-zone du ministre, intéressés par les questions traitées, ou leurs représentants.
+5° Sur convocation du président, les préfets de départements, les chefs des services déconcentrés de l'Etat, le  délégué de
+zone de défense et de sécurité du ministre, intéressés par les questions traitées, ou leurs représentants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 9 al. 1 à 7
 	  - Décret n°2006-212 du 23 février 2006 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cité par**:
 
@@ -29769,18 +29806,21 @@ zone du ministre, intéressés par les questions traitées, ou leurs représenta
 ###### Article R1332-14
 
 La commission se réunit sur convocation de son président, qui établit l'ordre du jour de la réunion. Son secrétariat est
-assuré par l'état-major de la zone de défense.
+assuré par l'état-major de la  zone de défense et de sécurité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-02 art. 9 al. 8
 	  - Décret n°2006-212 du 23 février 2006 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 
 ###### Article R1332-15
@@ -29791,9 +29831,9 @@ défense. Elle donne un avis sur :
 
 1° La désignation des opérateurs d'importance vitale mentionnés au deuxième alinéa de l'article R. 1332-3 ; 
 
-2° Les plans de sécurité des opérateurs d'importance vitale dont le périmètre ne dépasse pas le ressort de la zone de
-défense. Tout opérateur d'importance vitale présent dans la zone est entendu lors de l'examen de son plan par la commission,
-s'il en fait la demande ; 
+2° Les plans de sécurité des opérateurs d'importance vitale dont le périmètre ne dépasse pas le ressort de la  zone de
+défense et de sécurité. Tout opérateur d'importance vitale présent dans la zone est entendu lors de l'examen de son plan par
+la commission, s'il en fait la demande ; 
 
 3° La liste des points d'importance vitale annexée aux plans de sécurité mentionnés au 2°. Elle propose éventuellement des
 ajouts ou suppressions à cette liste ; 
@@ -29812,18 +29852,21 @@ mesures prises pour la sécurité des points d'importance vitale.
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-02 art. 9 al. 9 à 16
 	  - Décret n°2006-212 du 23 février 2006 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1332-3 (V)
-	  - Code de la défense. - art. R1332-35 (V)
-	  - Code de la défense. - art. R1332-38 (V)
+	  - Code de la défense. - art. R1332-3
+	  - Code de la défense. - art. R1332-35
+	  - Code de la défense. - art. R1332-38
 
 	**Cité par**:
 
@@ -30622,11 +30665,12 @@ dispositions des articles R. 1332-23 à R. 1332-28.
 
 Lorsque dans une zone géographique continue sont implantés plusieurs points d'importance vitale relevant d'opérateurs
 différents et interdépendants, le préfet du département dans le ressort duquel se situe cette zone peut la désigner zone
-d'importance vitale, par arrêté pris après avis de la commission mentionnée à l'article R. 1332-13.
+d'importance vitale, par arrêté pris après avis de la commission mentionnée à l'article R. 1332-13. 
 
 L'arrêté délimite la zone et identifie les opérateurs d'importance vitale. Il est notifié à chacun des opérateurs
-d'importance vitale ainsi qu'à l'officier général de la zone de défense et est protégé dans les conditions prévues par les
-articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale.
+d'importance vitale ainsi qu'à l'officier général de la  zone de défense et de sécurité et est protégé dans les conditions
+prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense
+nationale.
 
 **Liens relatifs à cet article**
 
@@ -30636,7 +30680,7 @@ articles R. 2311-1 et suivants du code de la défense relatifs à la protection 
 
 	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cité par**:
 
@@ -30651,7 +30695,7 @@ articles R. 2311-1 et suivants du code de la défense relatifs à la protection 
 	**Cite**:
 
 	  - Code de la défense. - art. R1332-13 (V)
-	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2311-1
 
 
 ###### Article R1332-37
@@ -31832,7 +31876,7 @@ Il rend compte de ses vérifications au Président de la République et en tient
 	  - Décret n°2011-1537 du 16 novembre 2011 - art. 1
 
 
-##### Section 2 : Installations et systèmes nucléaires de défense
+##### Section 2 : Installations et activités nucléaires intéressant la défense
 
 ##### Sous-section 1 : Dispositions générales.
 
@@ -32633,45 +32677,6 @@ particuliers d'intervention.
 	  - Décret n°2015-159 du 11 février 2015 - art. 1
 
 
-##### Sous-section 4 : Systèmes nucléaires militaires.
-
-##### Sous-section 5 : Sites et installations d'expérimentations nucléaires intéressant la défense.
-
-##### Sous-section 6 :  Transports 
-
-###### Article R*1333-67-4
-
-Les transports de matières fissiles ou radioactives liés aux activités d'armement nucléaire et de propulsion nucléaire
-navale, mentionnés au 5° de l'article L. 1333-15, s'effectuent sous la responsabilité du ministre de la défense. 
-
-Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné
-à l'article R. * 1333-67-5 exerce les attributions prévues aux articles R. * 1333-67-5 à R. * 1333-67-8. Il est l'autorité
-compétente au sens de la réglementation des transports de matières dangereuses, tant pour les substances radioactives liées
-aux activités d'armement nucléaire et de propulsion nucléaire navale que pour les marchandises dangereuses non radioactives
-liées aux éléments d'armes nucléaires. 
-
-Dans le cas des sites d'étape dont la liste est fixée par décision du ministre de la défense, l'étude de dangers prévue à
-l'article L. 551-2 du code de l'environnement est transmise au délégué.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1333-15
-	  - Code de la défense. - art. R*1333-67-5 (V)
-	  - Code de l'environnement - art. L551-2
-
-
-##### Section 2 : Installations et activités nucléaires intéressant la défense
-
-##### Sous-section 1 : Dispositions générales.
-
-##### Sous-section 2 : Installations nucléaires de base secrètes.
-
 ##### Sous-section 3 : Systèmes nucléaires militaires.
 
 ###### Article R*1333-61
@@ -33047,6 +33052,33 @@ réglementation technique de sûreté nucléaire et de radioprotection aux spéc
 
 
 ##### Sous-section 6 :  Transports 
+
+###### Article R*1333-67-4
+
+Les transports de matières fissiles ou radioactives liés aux activités d'armement nucléaire et de propulsion nucléaire
+navale, mentionnés au 5° de l'article L. 1333-15, s'effectuent sous la responsabilité du ministre de la défense. 
+
+Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné
+à l'article R. * 1333-67-5 exerce les attributions prévues aux articles R. * 1333-67-5 à R. * 1333-67-8. Il est l'autorité
+compétente au sens de la réglementation des transports de matières dangereuses, tant pour les substances radioactives liées
+aux activités d'armement nucléaire et de propulsion nucléaire navale que pour les marchandises dangereuses non radioactives
+liées aux éléments d'armes nucléaires. 
+
+Dans le cas des sites d'étape dont la liste est fixée par décision du ministre de la défense, l'étude de dangers prévue à
+l'article L. 551-2 du code de l'environnement est transmise au délégué.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-159 du 11 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5 (V)
+	  - Code de l'environnement - art. L551-2
+
 
 ##### Section 2 bis : Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense
 
@@ -34353,8 +34385,8 @@ groupe avec leur répartition par catégories.
 
 ###### Article D1334-14
 
-Les préfets de zones de défense décident de l'application de ces mesures dans leurs zones. Ils adressent les instructions
-nécessaires aux préfets des départements qui dépendent d'eux.
+Les préfets de  zones de défense et de sécurité  décident de l'application de ces mesures dans leurs zones. Ils adressent les
+instructions nécessaires aux préfets des départements qui dépendent d'eux. 
 
 Le représentant de l'Etat dans le département, dans les collectivités d'outre-mer, en Nouvelle-Calédonie et dans les Terres
 australes et antarctiques françaises est chargé, chacun en ce qui le concerne, de l'exécution de ces mesures et prend à cet
@@ -34368,7 +34400,11 @@ effet, par arrêtés, les décisions d'interruption ou de reprise des émissions
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 
 ##### Chapitre V : Contrôle naval de la navigation maritime
@@ -35705,15 +35741,16 @@ pour mission de seconder en matière de ravitaillement le haut fonctionnaire de 
 ###### Article R1337-4
 
 Dans chaque région ainsi que dans la collectivité territoriale de Corse, la préparation et la mise en oeuvre des mesures de
-défense dans le domaine alimentaire sont assurées sous l'autorité du préfet de zone de défense et suivant les directives du
-ministre chargé de l'agriculture.
+défense dans le domaine alimentaire sont assurées sous l'autorité du  préfet de zone de défense et de sécurité et suivant les
+directives du ministre chargé de l'agriculture. 
 
-Le ministre de la défense met à la disposition de chaque préfet de zone un officier du service du commissariat des armées
-pour le seconder en matière de ravitaillement. Ces derniers sont placés en position de service détaché.
+Le ministre de la défense met à la disposition de chaque  préfet de zone de défense et de sécurité un officier du service du
+commissariat des armées pour le seconder en matière de ravitaillement. Ces derniers sont placés en position de service
+détaché. 
 
-Le préfet de zone de défense dispose d'un bureau du ravitaillement chargé de la coordination des travaux opérés à l'échelon
-départemental et constituant l'organe mobilisateur de la direction régionale du ravitaillement qui est mise sur pied sur
-décision du Premier ministre.
+Le  préfet de zone de défense et de sécurité dispose d'un bureau du ravitaillement chargé de la coordination des travaux
+opérés à l'échelon départemental et constituant l'organe mobilisateur de la direction régionale du ravitaillement qui est
+mise sur pied sur décision du Premier ministre.
 
 **Liens relatifs à cet article**
 
@@ -35723,7 +35760,7 @@ décision du Premier ministre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 
 ###### Article R1337-5
@@ -38201,11 +38238,11 @@ Pour l'application de la présente partie du code dans les îles Wallis et Futun
 
 1° La référence au département et la référence à la région sont remplacées par la référence aux îles Wallis-et-Futuna ; 
 
-2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence à
+2° La référence au préfet de département et la référence au préfet de région sont remplacées par la référence à
 l'administrateur supérieur des îles Wallis-et-Futuna ; 
 
-3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
-de sécurité ; 
+3° La référence au     préfet de zone de défense et de sécurité  est remplacée par la référence au haut fonctionnaire de zone
+de défense et de sécurité ; 
 
 4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
 mer ; 
@@ -38219,9 +38256,9 @@ remplacée par la référence à l'officier commandant la gendarmerie située au
 7° La référence à la préfecture de la zone de défense et de sécurité est remplacée par la référence au siège de la zone de
 défense et de sécurité ; 
 
-8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ; 
 
-9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ; 
 
 10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
 publiques sont remplacées par la référence au directeur local des finances publiques.
@@ -38230,8 +38267,7 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 4
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cité par**:
 
@@ -38538,11 +38574,11 @@ Pour l'application de la présente partie du code en Polynésie française :
 
 1° La référence au département et la référence à la région sont remplacées par la référence à la Polynésie française ; 
 
-2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
+2° La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
 commissaire de la République en Polynésie française ; 
 
-3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
-de sécurité ; 
+3° La référence au     préfet de zone de défense et de sécurité  est remplacée par la référence au haut fonctionnaire de zone
+de défense et de sécurité ; 
 
 4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
 mer ; 
@@ -38554,11 +38590,11 @@ commandant supérieur ;
 remplacée par la référence à l'officier commandant la gendarmerie située au siège de la zone de défense et de sécurité ; 
 
 7° La référence à la préfecture de la zone de défense et de sécurité est remplacée par la référence au siège de la zone de
-défense et de sécurité ;
+défense et de sécurité ; 
 
-8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ; 
 
-9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ; 
 
 10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
 publiques sont remplacées par la référence au directeur local des finances publiques.
@@ -38567,8 +38603,7 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 5
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cité par**:
 
@@ -38896,11 +38931,11 @@ Pour l'application de la présente partie du code en Nouvelle Calédonie :
 
 1° La référence au département et la référence à la région sont remplacées par la référence à la Nouvelle-Calédonie ; 
 
-2°       La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
+2° La référence au préfet de département et la référence au préfet de région sont remplacées par la référence au haut
 commissaire de la République en Nouvelle-Calédonie ; 
 
-3° La référence au préfet de zone et de sécurité est remplacée par la référence au haut fonctionnaire de zone de défense et
-de sécurité ; 
+3° La référence au     préfet de zone de défense et de sécurité  est remplacée par la référence au haut fonctionnaire de zone
+de défense et de sécurité ; 
 
 4° La référence au préfet maritime est remplacée par la référence au délégué du Gouvernement pour l'action de l'Etat en
 mer ; 
@@ -38914,9 +38949,9 @@ remplacée par la référence à l'officier commandant la gendarmerie située au
 7° La référence à la préfecture de zone de défense et de sécurité est remplacée par la référence au siège de la zone de
 défense et de sécurité ; 
 
-8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ;
+8° La référence au sous-préfet est remplacée par la référence aux commissaires délégués ; 
 
-9° La référence à l'arrondissement est remplacée par la référence à la subdivision ;
+9° La référence à l'arrondissement est remplacée par la référence à la subdivision ; 
 
 10° La référence au directeur départemental des finances publiques et la référence au directeur régional des finances
 publiques sont remplacées par la référence au directeur local des finances publiques.
@@ -38925,8 +38960,7 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 6
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2015-213 du 25 février 2015 - art. 21
 
 	**Cité par**:
 
@@ -39746,8 +39780,8 @@ même code dans les conditions prévues par le présent code et par le titre V d
 Les fonctions de commandant de zone de défense et de sécurité sont exercées par les commandants supérieurs mentionnés dans le
 tableau figurant à l'article R. 1681-2. 
 
-Le commandant de zone de défense et de sécurité est le conseiller du haut fonctionnaire de zone et de sécurité en ce qui
-concerne les responsabilités de défense de ce dernier.
+Le commandant de zone de défense et de sécurité est le conseiller du      haut fonctionnaire de zone de défense et de
+sécurité en ce qui concerne les responsabilités de défense de ce dernier.
 
 **Liens relatifs à cet article**
 
@@ -39757,7 +39791,7 @@ concerne les responsabilités de défense de ce dernier.
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cite**:
 
@@ -39885,15 +39919,9 @@ En Nouvelle-Calédonie et dans les collectivités territoriales mentionnées à 
 le siège d'un commandement supérieur, le commandant supérieur dispose, le cas échéant, d'un commandant militaire
 départemental ou territorial. Celui-ci est le représentant du commandant supérieur auprès des autorités locales et exerce,
 conformément à ses directives, le commandement des forces stationnées ou mises à sa disposition en renfort dans la
-collectivité territoriale considérée ou en Nouvelle-Calédonie. Il exerce en outre les attributions de commandant d'armes
-définies par le décret n° 2004-1102 du 15 octobre 2004 portant règlement du service de garnison.
+collectivité territoriale considérée ou en Nouvelle-Calédonie. Il exerce en outre les attributions de commandant d'armes.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2004-1102 du 15 octobre 2004
-	  - Code de la défense. - art. D1681-7
 
 	**Anciens textes**:
 
@@ -39905,11 +39933,15 @@ définies par le décret n° 2004-1102 du 15 octobre 2004 portant règlement du 
 
 	**Modifié par**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 2
+	  - Décret n°2015-213 du 25 février 2015 - art. 15
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D1681-11 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. D1681-7
 
 
 ###### Article D1681-11
@@ -40113,7 +40145,7 @@ participer à titre consultatif aux travaux de cette commission.
 
 ###### Article R1682-4
 
-En cas de rupture des communications mentionnée à l'article L. 1311-1, le     haut fonctionnaire de zone de défense et de
+En cas de rupture des communications mentionnée à l'article L. 1311-1, le haut fonctionnaire de zone de défense et de
 sécurité prend les mesures économiques imposées par les besoins de la défense et le ravitaillement des populations. 
 
 Il exerce notamment les pouvoirs du ministre chargé de l'économie en matière de préparation des plans de répartition
@@ -40123,7 +40155,8 @@ Il est autorisé à passer les accords commerciaux nécessaires à la satisfacti
 économique dans sa zone. 
 
 En cas de rupture des communications à l'intérieur des zones de défense et de sécurité outre-mer, les pouvoirs dévolus au
-haut fonctionnaire de défense par les dispositions du présent article sont exercés par le représentant de l'Etat.
+haut fonctionnaire de zone de défense et de sécurité par les dispositions du présent article sont exercés par le représentant
+de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -40133,7 +40166,7 @@ haut fonctionnaire de défense par les dispositions du présent article sont exe
 
 	**Modifié par**:
 
-	  - Décret n°2010-226 du 4 mars 2010 - art. 8
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cite**:
 
@@ -41193,17 +41226,17 @@ charge :
 
 2° Les officiers généraux exerçant un commandement territorial ; 
 
-3° Les hauts fonctionnaires de zones de défense, mentionnés à l'article L. 1311-1.
+3° Les hauts fonctionnaires de  zones de défense et de sécurité, mentionnés à l'article L. 1311-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1311-1 (V)
+	  - Code de la défense. - art. L1311-1
 
 	**Cité par**:
 
@@ -44495,7 +44528,7 @@ réquisitions de services comportant des prestations immobilières, elle est com
 
 3° Abrogé ; 
 
-4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ; 
+4° Un officier désigné par le directeur central du service du commissariat des armées ;
 
 5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ; 
 
@@ -44518,7 +44551,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 9
+	  - Décret n°2015-211 du 25 février 2015 - art. 13
 
 	**Cite**:
 
@@ -44589,19 +44622,19 @@ du ministre de la défense et du ministre chargé de l'économie et des finances
 à l'article R. 2234-96. 
 
 Le président et les membres de ces commissions spéciales d'évaluation sont désignés par le ministre responsable, qui peut
-déléguer ce droit au préfet ou, pour les réquisitions de navires, au commandant de la région maritime et, pour les
+déléguer ce droit au préfet ou, pour les réquisitions de navires, au commandant de l'arrondissement maritime et, pour les
 réquisitions d'aéronefs, au chef d'état-major de l'armée de l'air ou à l'officier général de l'armée de l'air ayant reçu
 délégation à cet effet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-211 du 25 février 2015 - art. 14
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2234-20 (V)
+	  - Code de la défense. - art. L2234-20
 
 	**Cité par**:
 
@@ -54381,24 +54414,17 @@ installations relevant de leur responsabilité.
 
 Les officiers généraux commandants supérieurs des forces armées dans les départements d'outre-mer, en Polynésie française,
 dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à
-Saint-Barthélemy, à Saint-Martin, l'officier général commandant de la défense aérienne et des opérations aériennes et les
-commandants organiques à compétence territoriale, dont la liste est fixée par le ministre de la défense, reçoivent délégation
-de pouvoirs pour déterminer par arrêté, à l'intérieur des établissements et services relevant de leur commandement,
-l'implantation et les limites des zones protégées prévues au premier alinéa de l'article R. 413-3 du code pénal. Ils
-établissent en application de l'article R. 413-5, premier alinéa du même code, les directives fixant les conditions dans
-lesquelles sont délivrées les autorisations de pénétrer dans ces zones. 
+Saint-Barthélemy, à Saint-Martin, les officiers généraux de zone de défense et de sécurité,  l'officier général commandant de
+la défense aérienne et des opérations aériennes et les commandants organiques à compétence territoriale, dont la liste est
+fixée par le ministre de la défense, reçoivent délégation de pouvoirs pour déterminer par arrêté, à l'intérieur des
+établissements et services relevant de leur commandement ou de leur zone de responsabilité, l'implantation et les limites des
+zones protégées prévues au premier alinéa de l'article R. 413-3 du code pénal. Ils établissent en application de l'article R.
+413-5, premier alinéa du même code, les directives fixant les conditions dans lesquelles sont délivrées les autorisations de
+pénétrer dans ces zones. 
 
 Ces autorités sont habilitées à déléguer leur signature.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-745 du 24 août 2001 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 	**Cité par**:
 
@@ -54406,33 +54432,36 @@ Ces autorités sont habilitées à déléguer leur signature.
 	  - Arrêté du 22 décembre 2015 - art. 5 (V)
 	  - Code de la défense. - art. D2362-4 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2015-213 du 25 février 2015 - art. 20
+
 	**Cite**:
 
-	  - Code pénal - art. R413-3 (V)
-	  - Code pénal - art. R413-5 (V)
+	  - Code pénal - art. R413-3
+	  - Code pénal - art. R413-5
 
 
 ###### Article D2362-4
 
 Le chef d'état-major des armées, le délégué général pour l'armement, le secrétaire général pour l'administration, le
 directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense, le directeur
-central du service de santé des armées et le directeur central du service des essences des armées peuvent, au nom du ministre
-de la défense, par délégation de signature, procéder aux actes prévus à l'article D. 2362-3 pour les organismes et
-établissements relevant de leur autorité.
+central du service de santé des armées, le directeur central de la direction interarmées des réseaux d'infrastructure et des
+systèmes d'information de la défense, le directeur central du service du commissariat des armées, le directeur du service
+interarmées des munitions, le directeur du renseignement militaire, le directeur général des systèmes d'information et de
+communication  et le directeur central du service des essences des armées peuvent, au nom du ministre de la défense, par
+délégation de signature, procéder aux actes prévus à l'article D. 2362-3 pour les organismes et établissements relevant de
+leur autorité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-745 du 24 août 2001 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2015-211 du 25 février 2015 - art. 15
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2362-3 (V)
+	  - Code de la défense. - art. D2362-3
 
 	**Cité par**:
 
@@ -56261,12 +56290,12 @@ Leurs attributions sont :
 I.-Pour le sous-chef d'état-major opérations : les attributions relevant du 4° de l'article R. * 3121-2 et des articles D.
 3121-6 et D. 3121-8. 
 
-II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2 et        de l'article D.
-3121-9 , ainsi que des 8° et 9° de l'article D. 3121-14. 
+II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2, de l'article D. 3121-9 à
+l'exclusion du sixième alinéa du II, ainsi que des 8° et 9° de l'article D. 3121-14. 
 
 III.-Pour le sous-chef d'état-major " performance " : les attributions relevant des 1°, 2° et 5° de l'article R. * 3121-2, de
-l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des articles D. 3121-13, D. 3121-15, D. 3121-16, D.
-3121-17 et D. 3121-18.
+l'article D. 3121-10, de l'article D. 3121-11 à l'exclusion du 1° du I, ainsi que des articles D. 3121-13, D. 3121-15, D.
+3121-16, D. 3121-17 et D. 3121-18.
 
 **Liens relatifs à cet article**
 
@@ -56277,7 +56306,7 @@ l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des ar
 
 	**Modifié par**:
 
-	  - Décret n°2015-4 du 2 janvier 2015 - art. 14
+	  - Décret n°2015-213 du 25 février 2015 - art. 16
 
 	**Cite**:
 
@@ -56285,7 +56314,8 @@ l'article D. 3121-10, des II, III et IV de l'article D. 3121-11 ainsi que des ar
 	  - Code de la défense. - art. R3121-10
 	  - Code de la défense. - art. R3121-11
 	  - Code de la défense. - art. R3121-13
-	  - Code de la défense. - art. R3121-15
+	  - Code de la défense. - art. R3121-14
+	  - Code de la défense. - art. R3121-16
 	  - Code de la défense. - art. R3121-18
 	  - Code de la défense. - art. R3121-6
 	  - Code de la défense. - art. R3121-8
@@ -58395,30 +58425,30 @@ de remplir une fonction.
 
 ###### Article R3222-3
 
-I. - L'armée de terre comprend :
+I.-L'armée de terre comprend : 
 
-1° L'état-major de l'armée de terre ;
+1° L'état-major de l'armée de terre ; 
 
-2° L'inspection de l'armée de terre ;
+2° L'inspection de l'armée de terre ; 
 
-3° La direction des ressources humaines de l'armée de terre ;
+3° La direction des ressources humaines de l'armée de terre ; 
 
-4° Les forces ;
+4° Les forces ; 
 
-5° Les régions terre ;
+5° Les zones terre ; 
 
-6° Les services ;
+6° Les services ; 
 
-7° Les organismes chargés de la formation du personnel et de l'enseignement militaire supérieur.
+7° Les organismes chargés de la formation du personnel et de l'enseignement militaire supérieur. 
 
-II. - Ces composantes sont placées sous l'autorité du chef d'état-major de l'armée de terre dans les conditions définies par
-la sous-section 1 de la section 3 du chapitre 1er du titre II du livre Ier de la partie III du présent code.
+II.-Ces composantes sont placées sous l'autorité du chef d'état-major de l'armée de terre dans les conditions définies par la
+sous-section 1 de la section 3 du chapitre 1er du titre II du livre Ier de la partie III du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 16
 
 
 ##### Section 2 : Dispositions relatives aux forces
@@ -58458,99 +58488,83 @@ responsables de l'entraînement des formations qui leur sont rattachées.
 
 ###### Article R3222-5
 
-Le commandement de région terre est un commandement organique qui s'exerce à l'égard de toutes les formations de l'armée de
-terre stationnées dans le ressort territorial de la région terre fixé par les articles R. * 1212-1 à R. * 1212-4. En outre,
-il peut se voir confier un commandement opérationnel. 
+I.-Le commandant de zone terre exerce un commandement organique à l'égard de toutes les formations de l'armée de terre
+stationnées dans le ressort territorial de la zone terre fixé à l'article R. * 1212-4. 
 
-Le commandant de région terre préside le comité interarmées régional. 
+Dans ce cadre, il est responsable dans les domaines suivants : 
 
-Le commandement de région terre est responsable dans les domaines suivants : 
+1° Préparation et mise en œuvre de la mobilisation ; 
 
-1° Mise et maintien en condition des formations ; 
+2° Protection et défense des installations de l'armée de terre ; 
 
-2° Relations avec les autorités civiles pour l'exercice de ses attributions ; 
+3° Coordination de la mise en œuvre des actions de concertation au sein des formations de l'armée de terre ; 
 
-3° Instruction, sous réserve des attributions des autres commandements de l'armée de terre ; 
+4° Expression des besoins en matière d'infrastructure et de stationnement des unités ; 
 
-4° Sécurité des formations et des installations ; 
+5° Participation à l'élaboration et au suivi de l'exécution de la programmation financière des opérations d'infrastructure ; 
 
-5° Soutien aux formations participant à la défense sur le territoire ; 
+6° Mise en œuvre et suivi de la réglementation en matière d'environnement et de développement durable ; 
 
-6° Préparation de la mobilisation en fonction des besoins exprimés par les autres commandements organiques ou directions de
-service et mise en œuvre des mesures de mobilisation à leur profit ; 
+7° Relations avec les autorités civiles et militaires dans le cadre de ses attributions ; 
 
-7° Organisation des mouvements, transports et transits par voie de surface ; 
+8° Dans la limite des délégations de pouvoirs qui lui sont consenties par le ministre de la défense : 
 
-8° Participation de l'armée de terre à des activités ne relevant pas de ses missions spécifiques ; 
-
-9° Service de garnison ; 
-
-10° Gestion et administration du patrimoine foncier et immobilier attribué à l'armée de terre, sous réserve des attributions
-dévolues au service d'infrastructure de la défense ; 
-
-11° Hygiène, sécurité du travail et prévention des accidents, sous réserve des compétences des directions de service ; 
-
-12° Protection de l'environnement, sous réserve des compétences des directions de service ; 
-
-13° Protection contre l'incendie, sous réserve des compétences des directions de services ; 
-
-14° Logement ; 
-
-15° Discipline générale, conformément aux dispositions du chapitre 7 du titre III du livre Ier de la quatrième partie
+a) De la discipline générale, conformément aux dispositions du chapitre 7 du titre III du livre 1er de la quatrième partie
 réglementaire ; 
 
-16° Gestion et administration des officiers et des sous-officiers, sous réserve des compétences de la direction des
-ressources humaines de l'armée de terre ; 
-
-17° Gestion et administration des militaires du rang engagés, sous réserve des compétences de la direction des ressources
-humaines de l'armée de terre ; 
-
-18° Répartition des militaires du rang volontaires de l'armée de terre et des militaires du rang appelés entre les formations
-stationnées dans la région terre, sous réserve des compétences de la direction des ressources humaines de l'armée de terre ; 
-
-19° Gestion et administration du personnel civil des services déconcentrés dans les conditions fixées par le décret n°
-2011-1864 du 12 décembre 2011 autorisant le ministre de la défense et des anciens combattants à déléguer certains de ses
-pouvoirs en matière d'administration et de gestion du personnel civil du ministère de la défense, sous réserve des
-compétences de la direction des ressources humaines du ministère de la défense ; 
-
-20° Recrutement, sous réserve des compétences de la direction des ressources humaines de l'armée de terre ; 
-
-21° Actions en faveur de la reconversion professionnelle, sous réserve des compétences de la direction des ressources
-humaines de l'armée de terre et de la direction des ressources humaines du ministère de la défense ; 
-
-22° Action sociale, sous réserve des compétences de la direction des ressources humaines du ministère de la défense ; 
-
-23° Gestion et administration du personnel de réserve, sous réserve des compétences de la direction des ressources humaines
-de l'armée de terre ; 
-
-24° Périodes militaires d'initiation ou de perfectionnement à la défense nationale, sous réserve des compétences de la
-direction des ressources humaines de l'armée de terre ; 
-
-25° Contentieux des dommages, y compris, le cas échéant, pour le compte d'autres régions terre ou pour le compte d'autres
-organismes de la défense stationnés sur le territoire de la région terre, sous réserve des compétences de la direction des
+b) Des affaires pénales militaires, y compris, le cas échéant, pour le compte d'autres zones ou pour le compte d'autres
+organismes de la défense stationnés sur le territoire de la zone terre, sous réserve des compétences de la direction des
 affaires juridiques ; 
 
-26° Affaires pénales militaires, y compris, le cas échéant, pour le compte d'autres régions terre ou pour le compte d'autres
-organismes de la défense stationnés sur le territoire de la région terre, sous réserve des compétences de la direction des
-affaires juridiques ; 
+c) De la participation de l'armée de terre à des activités ne relevant pas de ses missions spécifiques ; 
 
-27° Communication.
+d) Des décisions d'habilitation à connaître des informations et supports faisant l'objet d'une classification secret-défense
+ou confidentiel-défense, concernant le personnel de l'armée de terre placé sous son autorité. 
+
+II.-Dans le cadre de la défense opérationnelle du territoire telle que décrite aux articles R. * 1421-1 et suivants, le
+commandant de zone terre conseille et assiste l'officier général de zone de défense et de sécurité auprès duquel il est
+stationné au titre de l'expertise propre à son armée, pour l'exercice de ses missions en matière de défense terrestre du
+territoire. 
+
+III.-En outre, le commandant de zone terre est chargé d'exercer en matière : 
+
+1° D'environnement et de développement durable, les attributions prévues aux articles R. 222-4, R. 414-3, R. 414-8, R.
+414-8-2, R. 414-8-3, R. 414-8-5, R. 414-9-4, R. 414-10, R. 414-12-1, R. 414-13, R. 414-15 et R. 414-20 du code de
+l'environnement ; 
+
+2° D'urbanisme, les attributions prévues à l'article D. 5131-12 du code de la défense ; 
+
+3° De domanialité, les attributions prévues au 2° de l'article R. 3211-34 du code général de la propriété des personnes
+publiques. Il peut également apporter son concours aux autorités civiles et militaires en la matière.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2011-1864 du 12 décembre 2011 (V)
-	  - Code de la défense. - art. R*1212-1
-
 	**Modifié par**:
 
-	  - Décret n°2011-1864 du 12 décembre 2011 - art. 6 (VD)
+	  - Décret n°2015-211 du 25 février 2015 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2015-213 du 25 février 2015 - art. 4 (V)
 	  - Arrêté du 30 juillet 2015 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-34 (V)
+	  - Code de la défense. - art. D5131-12
+	  - Code de la défense. - art. R*1421-1
+	  - Code de la défense. - art. R1212-4
+	  - Code de l'environnement - art. R222-4 (VT)
+	  - Code de l'environnement - art. R414-10 (V)
+	  - Code de l'environnement - art. R414-12-1 (V)
+	  - Code de l'environnement - art. R414-13 (M)
+	  - Code de l'environnement - art. R414-15 (M)
+	  - Code de l'environnement - art. R414-20 (V)
+	  - Code de l'environnement - art. R414-3 (V)
+	  - Code de l'environnement - art. R414-8 (V)
+	  - Code de l'environnement - art. R414-8-2 (V)
+	  - Code de l'environnement - art. R414-8-5 (V)
+	  - Code de l'environnement - art. R414-9-4 (V)
 
 
 ###### Article R3222-6
@@ -58565,61 +58579,32 @@ la défense.
 	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-###### Article R3222-7
-
-Sous réserve des compétences des commandants supérieurs dans les départements et collectivités d'outre-mer et en Nouvelle-
-Calédonie et de celles des commandants des éléments français au Sénégal, stationnées à Djibouti ou au Gabon, et, sous réserve
-des délégations de pouvoirs ou de signature données à d'autres autorités par décret ou par arrêté du ministre de la défense,
-le commandant de la région terre Ile-de-France exerce les responsabilités de commandement organique mentionnées à l'article
-R. 3222-6 pour les formations de l'armée de terre stationnées outre-mer et à l'étranger, à l'exception de la République
-fédérale d'Allemagne. 
-
-Dans ce domaine, il peut déléguer sa signature à l'un de ses adjoints et, pour les affaires devant être traitées localement,
-à l'officier de l'armée de terre adjoint au commandant supérieur ou au commandant des forces, dans les conditions fixées par
-arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-478 du 5 juin 2013 - art. 8 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-211 du 25 février 2015 - art. 31
-
-
 ##### Section 4 : Dispositions relatives aux services de l'armée de terre
 
 ###### Article R3222-8
 
-Les services de l'armée de terre sont : 
+La structure intégrée du maintien en condition opérationnelle des matériels terrestres est un service de l'armée de terre. 
 
-1° Le matériel de l'armée de terre ; 
+Les attributions de ce service sont fixées par décret. 
 
-2° La structure intégrée du maintien en condition opérationnelle des matériels terrestres. 
+Ce service de l'armée de terre est placé sous l'autorité d'un directeur central dont les responsabilités et les compétences
+sont fixées conformément aux dispositions des articles R. 3231-1 à R. 3231-11. 
 
-Leurs attributions sont fixées par décret. 
+Outre une direction centrale, il peut comprendre des établissements et des formations diverses relevant du directeur
+central. 
 
-Ils sont placés sous l'autorité d'un directeur central, dont les responsabilités et les compétences sont fixées conformément
-aux dispositions des articles R. 3231-1 à R. 3231-11.
-
-Outre une direction centrale, ils peuvent comprendre des directions régionales, des établissements et des formations diverses
-qui relèvent du directeur central soit directement, soit par l'intermédiaire des directeurs régionaux. La compétence de ces
-derniers s'exerce dans les limites d'une ou plusieurs régions terre. 
-
-Des éléments des services sont rattachés aux forces ou placés de façon occasionnelle auprès d'elles ainsi qu'auprès d'autres
+Des éléments de ce service sont rattachés aux forces ou placés de façon occasionnelle auprès d'elles ainsi qu'auprès d'autres
 commandements opérationnels.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 1
+	  - Décret n°2015-211 du 25 février 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1
+	  - Code général de la propriété des personnes publiques. - art. R3231-1
 
 
 ##### Section 5 : Relations entre commandements et services
@@ -58629,28 +58614,11 @@ commandements opérationnels.
 Chaque commandement organique ou service peut fournir des prestations aux autres commandements organiques, services de
 l'armée de terre et organismes du ministère de la défense, et en recevoir.
 
-Dans le respect des directives arrêtées par les directions centrales de service, le commandant de région terre fixe à chaque
-directeur régional de service des priorités pour les prestations à fournir aux formations. Il coordonne l'action des
-services.
-
-Les directeurs régionaux des services l'informent des crédits et des ressources mis en place au niveau régional par les
-directions centrales.
-
-Le commandant de région terre préside un comité de coordination auquel participe un représentant de chaque commandement
-organique, dont des formations sont stationnées sur le territoire de la région terre, ainsi qu'un représentant de chaque
-direction régionale de service. Les modalités de fonctionnement de ce comité sont fixées par le ministre de la défense.
-
-Le commandant de région terre participe à la notation des directeurs régionaux des services et note les directeurs
-d'établissements. Il ne note pas les commissaires désignés pour assurer la vérification des comptes.
-
-Il donne son avis au chef d'état-major de l'armée de terre sur les résultats de la politique de soutien des services menée
-dans le cadre de la région terre.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 3
 
 
 ##### Section 6 : Dispositions particulières à certaines formations
@@ -59878,35 +59846,31 @@ arrêté du ministre de la défense.
 
 ###### Article R3223-46
 
-I.-Les commandements maritimes à compétence territoriale comprennent : 
+I. - Les commandements maritimes à compétence territoriale comprennent :
 
-1° Les commandements de région maritime ; 
+1° Les commandements d'arrondissement maritime ;
 
-2° Les commandements d'arrondissement maritime ; 
-
-3° Les commandements de la marine en un lieu déterminé. 
+2° Les commandements de la marine en un lieu déterminé.
 
 Ces commandements exercent le commandement organique des forces maritimes qui leur sont affectées ; ils peuvent, en outre, en
 exercer le commandement opérationnel. 
 
-II.-Les limites des régions maritimes et des arrondissements maritimes sont fixées par l'article R. * 1212-5. 
+II.-Les limites des arrondissements maritimes sont fixées par l'article R. * 1212-5. 
 
-Le commandant de région maritime est commandant de l'arrondissement maritime dont le siège est le port chef-lieu de la
-région. 
+III. - En dehors des chefs-lieux des arrondissements maritimes, là où les missions de la marine nationale le justifient, un
+commandement de la marine est constitué.
 
-III.-En dehors des chefs-lieux des régions et arrondissements maritimes, là où les missions de la marine nationale le
-justifient, un commandement de la marine est constitué. Dans les ports où il n'existe pas de commandement de la marine,
-l'administrateur des affaires maritimes, chef du quartier des affaires maritimes, représente la marine nationale et assure la
-suppléance de ses services. 
+Dans les ports où il n'existe pas de commandement de la marine, un administrateur des affaires maritimes territorialement
+compétent peut représenter la marine nationale et assurer la suppléance de ses services. 
 
-IV.-Pour l'exercice des attributions prévues par les dispositions relatives à l'action de l'Etat en mer, les commandants de
-région maritime et, le cas échéant, les commandants d'arrondissement maritime sont préfets maritimes.
+IV.-Pour l'exercice des attributions prévues par les dispositions relatives à l'action de l'Etat en mer, les commandants
+d'arrondissement maritime sont préfets maritimes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 4
 
 	**Cité par**:
 
@@ -59919,19 +59883,19 @@ région maritime et, le cas échéant, les commandants d'arrondissement maritime
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1212-5 (V)
+	  - Code de la défense. - art. R1212-5
 
 
 ###### Article R3223-47
 
-Les commandants de région maritime et d'arrondissement maritime sont assistés d'adjoints auxquels ils peuvent déléguer leurs
-pouvoirs ou leur signature dans les conditions définies par arrêté du ministre de la défense.
+Les commandants    d'arrondissement maritime sont assistés d'adjoints auxquels ils peuvent déléguer leurs pouvoirs ou leur
+signature dans les conditions définies par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 17
 
 
 ###### Article R3223-48
@@ -59939,45 +59903,48 @@ pouvoirs ou leur signature dans les conditions définies par arrêté du ministr
 Le commandant d'arrondissement maritime exerce, dans les limites de l'arrondissement, ses attributions dans les domaines
 suivants : 
 
-1° Commandement militaire des ports et arsenaux ; 
+1° Commandement militaire des ports militaires et arsenaux ; 
 
-2° Orientation et coordination de l'action locale de tous les services chargés de satisfaire les besoins des forces
-maritimes ; 
+2° Orientation et coordination de l'action locale des services et organismes de la marine nationale chargés de satisfaire les
+besoins des forces maritimes ; 
 
-3° Préparation et mise en œuvre de la mobilisation conformément aux principes définis à l'article R. 3223-58 ; 
+3° Protection et défense des installations de la marine nationale ; 
 
-4° Relations avec les autorités civiles et militaires et participation de la marine à des activités ne relevant pas de ses
-missions spécifiques ; 
+4° Sécurité nucléaire ; 
 
-5° Discipline générale, sous réserve des compétences du service d'infrastructure de la défense, d'autres commandements
-organiques et des directions de service ; 
+5° Expression des besoins en matière d'infrastructure et de stationnement des unités ; 
 
-6° Service de garnison ; 
+6° Participation à l'élaboration et au suivi de l'exécution de la programmation financière des opérations d'infrastructure ; 
 
-7° Infrastructure, sous réserve des compétences d'autres commandements organiques et des directions de service ; 
+7° Mise en œuvre de la réglementation en matière d'environnement et de développement durable ; 
 
-8° Hygiène, sécurité, prévention et conditions de travail, sous réserve des responsabilités d'autres commandements organiques
-et des directions de service ; 
+8° Relations avec les autorités civiles et militaires dans le cadre de ses attributions ; 
 
-9° Logement ; 
+9° Instruction du personnel de réserve et de la préparation militaire ; 
 
-10° Action sociale ; 
+10° Préparation et mise en œuvre de la mobilisation conformément aux principes définis à l'article R. 3223-58 ; 
 
-11° Gestion et administration du personnel civil, sous réserve des compétences des directions de service et du secrétariat
-général pour l'administration ; 
+11° Dans la limite des délégations de pouvoirs qui lui sont consenties par le ministre de la défense : 
 
-12° Instruction du personnel de réserve et préparation militaire ; 
+a) Discipline générale, conformément aux dispositions du chapitre 7, du titre III, du livre 1er, de la quatrième partie
+réglementaire ; 
 
-13° Sécurité nucléaire ; 
+b) Affaires pénales militaires, y compris, le cas échéant, au profit d'autres arrondissements, sous réserve des compétences
+de la direction des affaires juridiques ; 
 
-14° Contentieux des dommages et affaires pénales militaires, y compris, le cas échéant, au profit d'autres arrondissements,
-sous réserve des compétences du secrétariat général pour l'administration.
+c) Participation de la marine nationale à des activités ne relevant pas de ses missions spécifiques ; 
+
+d) Décisions d'habilitation à connaître des informations et supports faisant l'objet d'une classification secret-défense ou
+confidentiel-défense, concernant le personnel de la marine placé sous son autorité. 
+
+En outre, le commandant d'arrondissement maritime peut apporter son concours aux autorités civiles et militaires en matière
+d'utilisation des moyens de la marine nationale et de domanialité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 5
 
 	**Cité par**:
 
@@ -59986,77 +59953,46 @@ sous réserve des compétences du secrétariat général pour l'administration.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3223-58 (V)
-
-
-###### Article R3223-49
-
-Le commandant de région maritime est responsable de :
-
-1° La défense maritime du territoire dans le ressort de la région maritime ;
-
-2° La protection et la défense des installations de la marine nationale et, le cas échéant, d'installations intéressant la
-défense, dans le cadre de sa participation à la défense militaire terrestre.
-
-Dans ces domaines, il peut déléguer aux commandants d'arrondissement maritime certaines de ses attributions dans les
-conditions définies par arrêté du ministre de la défense.
-
-Il est membre du comité interarmées régional.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-211 du 25 février 2015 - art. 31
+	  - Code de la défense. - art. R3223-58
 
 
 ###### Article R3223-50
 
-I. - Le commandant de la marine en un lieu déterminé exerce, par délégation du commandant d'arrondissement dont il relève,
-ses attributions dans les conditions définies par arrêté du ministre de la défense.
+I.-Le commandant de la marine en un lieu déterminé exerce, par délégation du commandant d'arrondissement dont il relève, ses
+attributions dans les conditions définies par arrêté du ministre de la défense. 
 
-Il représente le commandant d'arrondissement maritime auprès des autorités civiles et des autres autorités militaires.
+Il représente le commandant d'arrondissement maritime auprès des autorités civiles et des autres autorités militaires. 
 
-II. - Le commandant de la marine à Paris est subordonné directement au chef d'état-major de la marine. Il exerce certaines
-attributions d'un commandant d'arrondissement maritime. Il relève du commandant de la région terre Ile-de-France dans des
-domaines fixés par le ministre de la défense.
+II.-Le commandant de la marine à Paris est subordonné directement au chef d'état-major de la marine. Il exerce certaines
+attributions d'un commandant d'arrondissement maritime. Il relève          du gouverneur militaire de Paris dans des domaines
+fixés par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 6
 
 
 ##### Section 4 : Dispositions relatives aux services de la marine
 
 ###### Article R3223-56
 
-Les services de la marine nationale sont : 
+Le service de soutien de la flotte est un service de la marine nationale. 
 
-1° (Supprimé) ; 
+Les attributions de ce service sont fixées par décret. 
 
-2° Le service de soutien de la flotte ; 
+Ce service de la marine nationale est placé sous l'autorité d'un directeur central dont les responsabilités et les
+compétences sont fixées conformément aux dispositions des articles R. 3231-1 à R. 3231-11. 
 
-3° Le service des systèmes d'information de la marine. 
-
-Les attributions des services de la marine nationale sont fixées par décret. 
-
-Les services de la marine nationale sont placés sous l'autorité d'un directeur central dont les responsabilités et les
-compétences sont fixées conformément aux dispositions des articles R. 3231-1 à R. 3231-11 du présent code. 
-
-Outre une direction centrale, ils peuvent comprendre des directions locales, des établissements et organismes divers qui
+Outre une direction centrale, il peut comprendre des directions locales et des établissements et organismes divers qui
 relèvent du directeur central soit directement, soit par l'intermédiaire de directeurs locaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - Décret n°2015-211 du 25 février 2015 - art. 7
 
 	**Cité par**:
 
@@ -60077,7 +60013,7 @@ relèvent du directeur central soit directement, soit par l'intermédiaire de di
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-1
+	  - Code de la défense. - art. R3231-1 (M)
 
 
 ##### Section 5 : Relations entre commandements et services 
@@ -60596,31 +60532,31 @@ compagnies ou escadrons, sections, pelotons ou brigades organisées ou non en co
 Sous réserve des attributions du préfet en matière d'ordre public et de police administrative, le commandant de région de
 gendarmerie relève du directeur général de la gendarmerie nationale. Il exerce son commandement sur toutes les unités qui lui
 sont subordonnées à titre permanent ou temporaire dans les conditions prévues par le titre 2 du livre II de la première
-partie du présent code.
+partie du présent code. 
 
-Le commandant de la région de gendarmerie situé au siège de la zone de défense est, pour l'exercice de ses attributions en
-matière de sécurité intérieure, placé sous l'autorité du préfet de zone de défense et de sécurité. Il peut recevoir de ce
-dernier délégation de signature en matière d'ordonnancement secondaire pour les formations de gendarmerie nationale de son
-ressort. Il dispose d'attributions particulières définies par arrêté du ministre de l'intérieur.
+Le commandant de la région de gendarmerie situé au siège de la zone de défense et de sécurité est, pour l'exercice de ses
+attributions en matière de sécurité intérieure, placé sous l'autorité du  préfet de zone de défense et de sécurité. Il peut
+recevoir de ce dernier délégation de signature en matière d'ordonnancement secondaire pour les formations de gendarmerie
+nationale de son ressort. Il dispose d'attributions particulières définies par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-296 du 6 mars 2014 - art. 7
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 
 ###### Article R3225-9
 
 Sous réserve des attributions des préfets en matière d'ordre public et de police administrative, les formations de
 gendarmerie départementale sont placées sous l'autorité du commandant de région de gendarmerie sur le territoire de laquelle
-elles sont implantées.
+elles sont implantées. 
 
 Sous réserve des attributions des représentants du Gouvernement en matière d'ordre public et de police administrative, les
-formations territoriales  implantées dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-et-
+formations territoriales implantées dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-et-
 Futuna, à Saint-Martin et Saint-Barthélemy, dans les Terres australes et antarctiques françaises, en Polynésie française et
 en Nouvelle-Calédonie sont placées sous l'autorité de l'officier commandant la gendarmerie outre-mer, directement subordonné
-au directeur général de la gendarmerie nationale.
+au directeur général de la gendarmerie nationale. 
 
 Les personnels isolés servant à l'étranger, le groupement des opérations extérieures, le détachement gendarmerie de la force
 de gendarmerie européenne et les unités de circonstance sont placés sous le commandement d'officiers qui relèvent de
@@ -60630,13 +60566,13 @@ Les formations prévôtales sont placées sous le commandement d'officiers qui r
 la gendarmerie prévôtale. 
 
 Les formations de gendarmerie mobile sont placées sous l'autorité du commandant de la région de gendarmerie située au siège
-de la zone de défense sur le territoire de laquelle elles sont implantées.
+de la  zone de défense et de sécurité sur le territoire de laquelle elles sont implantées. 
 
 Les formations spécialisées sont placées sous le commandement d'officiers de gendarmerie qui relèvent du directeur général de
-la gendarmerie nationale.
+la gendarmerie nationale. 
 
 Les organismes d'administration et de soutien relèvent soit directement du directeur général de la gendarmerie nationale,
-soit des commandants de région de gendarmerie.
+soit des commandants de région de gendarmerie. 
 
 Les organismes de formation relèvent du commandant des écoles de la gendarmerie nationale ou, le cas échéant, directement du
 directeur général de la gendarmerie nationale.
@@ -60645,7 +60581,7 @@ directeur général de la gendarmerie nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2013-231 du 19 mars 2013 - art. 1
+	  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 
 ###### Article R3225-10
@@ -60664,6 +60600,8 @@ d'Ile-de-France, commandant la gendarmerie pour la zone de défense et de sécur
 
 ##### Chapitre Ier : Organisation générale
 
+##### Section 1 : Dispositions générales
+
 ###### Article R3231-1
 
 Les services de soutien ont pour mission de satisfaire les besoins des armées et de la gendarmerie. Ils peuvent, de façon
@@ -60674,16 +60612,16 @@ des conditions fixées par le ministre de la défense, d'assurer leurs missions 
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2016 - art. 3 (V)
 	  - Arrêté du 14 décembre 2016 - art. 4 (VD)
 	  - Code de la défense. - art. R3222-8 (M)
-	  - Code de la défense. - art. R3223-56 (VD)
+	  - Code de la défense. - art. R3223-56 (V)
 	  - Code de la défense. - art. R3224-8 (VD)
 	  - Code de la défense. - art. R3233-20 (T)
 
@@ -60701,14 +60639,14 @@ apprécie la qualité de la gestion du service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
-
 	**Cité par**:
 
 	  - Arrêté du 15 avril 2010 (V)
 	  - Code de la défense. - art. R3232-10 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
 ###### Article R3231-3
@@ -60717,9 +60655,9 @@ Les directeurs de service sont directement responsables devant le ministre de la
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
 ###### Article R3231-4
@@ -60729,13 +60667,13 @@ de façon permanente ou occasionnelle, au sein de forces ou d'autres services.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R3231-8 (M)
+	  - Code de la défense. - art. R3231-8 (V)
 	  - Code de la défense. - art. R3232-2-3 (V)
 
 
@@ -60749,9 +60687,9 @@ autres services.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
 ###### Article R3231-6
@@ -60765,9 +60703,9 @@ Ils contribuent à la définition de la formation des autres catégories de leur
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
 ###### Article R3231-7
@@ -60781,9 +60719,9 @@ relevant de leur autorité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
 ###### Article R3231-8
@@ -60806,13 +60744,13 @@ non prévus par les lois et les règlements.
 
 	  - Décret n°2007-1766 du 14 décembre 2007 - art. 2 (VD)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3231-4 (V)
+	  - Code de la défense. - art. R3231-4 (M)
 
 
 ###### Article R3231-9
@@ -60825,30 +60763,71 @@ militaires relevant de leur autorité tout ou partie des crédits qui leur ont �
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 3
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
 
 
-###### Article R3231-10
+##### Section 2 : Organisation du soutien de la défense. - Bases de défense 
 
-L'élément de base de l'administration au sein des armées, de la gendarmerie et des services de soutien interarmées est la
-formation administrative.
+###### Article R3231-9-1
 
-Les formations administratives sont les corps de troupe de l'armée de terre, les formations autonomes de la marine, les bases
-aériennes de l'armée de l'air, les régions de gendarmerie et les organismes administrés comme tels. D'autres organismes ou
-formations peuvent leur être administrativement rattachés.
+I. - L'organisation du soutien de la défense repose sur des bases de défense. La base de défense regroupe en son sein les
+formations et organismes du ministère pour lesquels des soutiens sont assurés de manière mutualisée. 
 
-Les commandants de formation administrative sont responsables de l'administration intérieure de leur formation.
+II. - Sous l'autorité du chef d'état-major des armées, les commandants de base de défense sont responsables, dans le cadre de
+chacune des bases de défense, de la coordination des soutiens délivrés par les services de soutien interarmées et les
+directions et services relevant du secrétaire général pour l'administration, à l'exception du maintien en condition
+opérationnelle des matériels. 
 
-La responsabilité de certaines tâches administratives peut être exercée au profit des formations administratives par des
-organismes dont les attributions sont fixées par le ministre de la défense.
+A ce titre, ils :
+
+- arbitrent et hiérarchisent les besoins exprimés en fonction des capacités de soutien ;
+
+- s'assurent de la qualité des services rendus. 
+
+Ils exercent, le cas échéant par délégation de pouvoirs du ministre, les attributions prévues aux articles R. 5131-3, R.
+5131-4, R. 5131-5 et R. 5131-11. 
+
+III. - Les commandants de base de défense peuvent recevoir des délégations de pouvoirs et déléguer leur signature à leurs
+subordonnés.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 30 juillet 2015 - art. 6 (Ab)
+	  - Arrêté du 5 mai 2017 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5131-11
+	  - Code de la défense. - art. R5131-3 (V)
+	  - Code de la défense. - art. R5131-4 (V)
+	  - Code de la défense. - art. R5131-5 (V)
+
+
+##### Section 3 : Formations administratives et contrôle interne
+
+###### Article R3231-10
+
+I. - La formation administrative est l'élément de base de l'administration au sein des forces armées.
+
+Placée sous l'autorité d'un commandant de formation administrative, elle administre le personnel qui lui est affecté et les
+biens qui lui sont confiés, dans la limite des délégations de pouvoirs qui sont consenties.
+
+Les formations administratives sont les corps de troupe de l'armée de terre, les formations de la marine, les bases
+aériennes, les régions de gendarmerie et les organismes administrés comme tels. D'autres organismes ou formations peuvent
+leur être rattachés pour leur administration.
+
+II. - Les chefs d'états-majors et le directeur général de la gendarmerie nationale fixent par arrêté la liste des formations
+administratives relevant de leur autorité.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -60869,21 +60848,26 @@ organismes dont les attributions sont fixées par le ministre de la défense.
 	  - Arrêté du 12 mai 2017 - art. 1 (V)
 	  - Code de la défense. - art. D1132-7 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 10
+
 
 ###### Article R3231-11
 
-Les autorités de commandement et les directeurs de service sont responsables de la surveillance administrative et technique
-des formations placées sous leur autorité soit directement, soit en déléguant leur compétence dans les conditions définies
-par arrêté du ministre de la défense.
-
-Ils s'assurent que les besoins des formations sont satisfaits conformément aux dispositions législatives et réglementaires et
-ils apprécient à la fois les résultats obtenus et les moyens mis en œuvre pour les atteindre.
+Au titre de la maîtrise des risques liés à leurs activités, les autorités de commandement et les directeurs de service
+mettent en œuvre, dans leurs domaines de compétences, un dispositif de contrôle interne, évalué dans le cadre de leur audit
+interne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 10
+
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 11
 
 
 ###### Article R3231-12
@@ -60896,9 +60880,9 @@ responsables devant le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 10
 
 
 ##### Chapitre II : Les services du commissariat
@@ -61636,19 +61620,39 @@ organismes relevant du ministre de la défense. Il peut être renforcé par des 
 
 ###### Article R3233-19
 
-On appelle organisme à vocation interarmées (OVIA) un organisme qui remplit les conditions suivantes :
+I.-Est un organisme interarmées un organisme qui remplit les conditions suivantes : 
 
-1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ;
+1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
+nationale ; 
 
-2° Il relève organiquement d'une armée pour son organisation et son fonctionnement interne.
+2° Il relève organiquement du chef d'état-major des armées. 
 
-Le personnel peut provenir d'une ou de plusieurs armées, directions ou services de soutien.
+Il peut être mis à la disposition d'une autre autorité ; 
+
+3° Le personnel est issu d'au moins deux armées, directions ou services de soutien ou de la gendarmerie nationale. 
+
+II.-Est un organisme à vocation interarmées un organisme qui remplit les conditions suivantes : 
+
+1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
+nationale ; 
+
+2° Il relève organiquement d'une armée pour son organisation et son fonctionnement interne ; 
+
+3° Le personnel est issu d'une ou de plusieurs armées, directions ou services de soutien ou de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 12
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de la défense. - art. R3211-1 (V)
 
 
 ##### Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
@@ -65613,16 +65617,12 @@ citées à l'article R. 3412-17 lorsque existent des besoins communs à plusieur
 ###### Article R3412-6
 
 Par dérogation à l'article R. 3412-5, des cercles et des foyers peuvent être créés par arrêté du ministre de la défense
-lorsqu'ils ont vocation à couvrir les besoins d'une garnison, de formations administratives ou d'éléments français déployés à
-l'étranger. 
+lorsqu'ils ont vocation à couvrir les besoins d'une garnison, d'une base de défense, de formations administratives ou
+d'éléments français déployés à l'étranger. 
 
 Les statuts des cercles et foyers créés par arrêté ne peuvent déroger aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 	**Cité par**:
 
@@ -65630,9 +65630,13 @@ Les statuts des cercles et foyers créés par arrêté ne peuvent déroger aux d
 	  - Arrêté du 5 août 2011 - art. 1 (V)
 	  - Arrêté du 29 juillet 2014 - art. 9 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-211 du 25 février 2015 - art. 18
+
 	**Cite**:
 
-	  - Code de la défense. - art. R3412-5 (V)
+	  - Code de la défense. - art. R3412-5
 
 
 ###### Article R3412-7
@@ -65894,7 +65898,7 @@ l'accord de l'autorité exerçant le pouvoir de tutelle et dans les limites qu'e
 
 ###### Article R3412-15
 
-I. ― Au sein de chaque armée et de la gendarmerie, il est constitué des fonds d'entraide des cercles et foyers.
+I. ― Au sein des forces armées  et de la gendarmerie, il est constitué des fonds d'entraide des cercles et foyers.
 
 II. ― Ces fonds d'entraide sont alimentés par :
 
@@ -65918,13 +65922,13 @@ IV. ― Les règles relatives à la constitution et au fonctionnement des fonds 
 ministérielles.
 
 V. ― Un cercle peut être désigné par l'autorité de tutelle pour recevoir et gérer les fonds d'entraide pour l'ensemble des
-cercles et des foyers d'une armée ou de la gendarmerie.
+cercles et des foyers d'une armée, des cercles et foyers interarmées ou des cercles et foyers de la gendarmerie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 19
 
 
 ###### Article R3412-16
@@ -87388,7 +87392,7 @@ Les autorisations prévues à l'article L. 5111-6 sont délivrées, pour leur zo
 
 2° L'inspecteur de l'armement pour les poudres et explosifs ; 
 
-3° Les commandants de région terre ; 
+3° Les commandants de zone terre ; 
 
 4° Les commandants d'arrondissement maritime ; 
 
@@ -87409,11 +87413,10 @@ construire dans les polygones d'isolement établis autour des établissements re
 
 	  - Décret n°2014-453 du 5 mai 2014 (V)
 	  - Arrêté du 22 décembre 2015 - art. 5 (V)
-	  - Code de la défense. - art. R5111-6 (VD)
 
 	**Modifié par**:
 
-	  - Décret n°2014-453 du 5 mai 2014 - art. 3
+	  - Décret n°2015-211 du 25 février 2015 - art. 16
 
 	**Cite**:
 
@@ -87926,8 +87929,7 @@ urbains ou d'aménagement du territoire après avis du préfet de région.
 
 Le schéma directeur immobilier est établi : 
 
-1° Par les autorités militaires commandant des bases dont la liste est fixée par arrêté du ministre de la défense, pour les
-bases qu'elles commandent, et à l'exception des immeubles situés en Ile-de-France ; 
+1° Par les commandants de base de défense, à l'exception des immeubles situés en Ile-de-France ; 
 
 2° Par le secrétaire général pour l'administration du ministère de la défense pour les immeubles situés en Ile-de-France,
 dans des conditions définies par arrêté du ministre de la défense. 
@@ -87935,6 +87937,10 @@ dans des conditions définies par arrêté du ministre de la défense.
 Le schéma directeur immobilier est approuvé par le ministre de la défense.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-280 du 16 mars 2011 (V)
 
 	**Cité par**:
 
@@ -87945,22 +87951,14 @@ Le schéma directeur immobilier est approuvé par le ministre de la défense.
 	  - Décret n°2017-818 du 5 mai 2017 - art. 4
 	  - Code de la défense. - art. D5131-6 (M)
 	  - Code de la défense. - art. D5131-7 (V)
+	  - Code de la défense. - art. R3231-9-1 (V)
 	  - Code de la défense. - art. R5131-11 (V)
 	  - Code de la défense. - art. R5131-4 (M)
 	  - Code de la défense. - art. R5131-5 (M)
 
-	**Codifié par**:
-
-	  - Décret n°2011-280 du 16 mars 2011 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R53
-	  - Code du domaine de l'Etat - art. R57-3
+	  - Décret n°2015-211 du 25 février 2015 - art. 20
 
 
 ##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale
@@ -87971,11 +87969,16 @@ Les établissements du service d'infrastructure de la défense instruisent les a
 répondant aux besoins des formations militaires et autres organismes du ministère de la défense, sous réserve des
 dispositions de l'article 31 du décret du 5 octobre 2009 mentionné à l'article R. 5131-4. 
 
-Pour l'instruction de ces actes, ces établissements comprennent, dans les bases dont la liste est fixée par arrêté du
-ministre de la défense, des unités de soutien de l'infrastructure de la défense. Ces unités exercent un rôle d'expertise et
-de conseil en matière immobilière auprès des autorités militaires mentionnées à l'article R. 5131-3.
+Pour l'instruction de ces actes, ces établissements comprennent, dans les bases de défense dont la liste est fixée par arrêté
+du ministre de la défense, des unités de soutien de l'infrastructure de la défense. Ces unités exercent un rôle d'expertise
+et de conseil en matière immobilière auprès des commandants de base de défense.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2009-1179 du 5 octobre 2009 - art. 31
+	  - Code de la défense. - art. R5131-4
 
 	**Codifié par**:
 
@@ -87983,7 +87986,7 @@ de conseil en matière immobilière auprès des autorités militaires mentionné
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+	  - Décret n°2015-211 du 25 février 2015 - art. 22
 
 	**Cité par**:
 
@@ -87991,11 +87994,6 @@ de conseil en matière immobilière auprès des autorités militaires mentionné
 	  - Code de la défense. - art. D5351-2 (V)
 	  - Code de la défense. - art. D5361-2 (V)
 	  - Code de la défense. - art. D5371-2 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R5131-3 (V)
-	  - Code de la défense. - art. R5131-4 (V)
 
 
 ###### Article D5131-7
@@ -88028,10 +88026,9 @@ Ils appuient les autorités chargées de l'établissement des schémas directeur
 
 ###### Article R5131-4
 
-Les autorités militaires mentionnées à l'article R. 5131-3 répartissent les immeubles et les locaux entre les formations
-militaires et autres organismes du ministère de la défense, sous réserve des dispositions de l'article 31 du décret n°
-2009-1179 du 5 octobre 2009 fixant les attributions et l'organisation du secrétariat général pour l'administration du
-ministère de la défense. 
+Les commandants de base de défense répartissent les immeubles et les locaux entre les formations militaires et autres
+organismes du ministère de la défense, sous réserve des dispositions de l'article 31 du décret n° 2009-1179 du 5 octobre 2009
+fixant les attributions et l'organisation du secrétariat général pour l'administration du ministère de la défense. 
 
 La répartition intervient dans le respect des orientations fixées par le schéma directeur immobilier approuvé ou, à défaut,
 en tenant compte des plans de stationnement des unités.
@@ -88040,16 +88037,11 @@ en tenant compte des plans de stationnement des unités.
 
 	**Cite**:
 
-	  - Décret n°2009-1179 du 5 octobre 2009 - art. 31 (V)
-	  - Code de la défense. - art. R5131-3 (V)
+	  - Décret n°2009-1179 du 5 octobre 2009 - art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. D5131-4 (T)
+	  - Décret n°2015-211 du 25 février 2015 - art. 21
 
 	**Cité par**:
 
@@ -88058,14 +88050,15 @@ en tenant compte des plans de stationnement des unités.
 	  - Code de la défense. - art. D5351-2 (V)
 	  - Code de la défense. - art. D5361-2 (V)
 	  - Code de la défense. - art. D5371-2 (V)
+	  - Code de la défense. - art. R3231-9-1 (V)
 
 
 ###### Article R5131-5
 
 Sous réserve des matières qui relèvent de la compétence du délégué général pour l'armement et du secrétaire général pour
-l'administration de la défense, le ministre de la défense peut par arrêté déléguer des pouvoirs aux autorités militaires
-mentionnées à l'article R. 5131-3 pour exercer des attributions et prendre des actes relatifs aux biens et droits immobiliers
-répondant aux besoins des formations militaires et autres organismes du ministère de la défense. 
+l'administration de la défense, le ministre de la défense peut par arrêté déléguer des pouvoirs aux commandants de bases de
+défense pour exercer des attributions et prendre des actes relatifs aux biens et droits immobiliers répondant aux besoins des
+formations militaires et autres organismes du ministère de la défense. 
 
 La signature de conventions d'utilisation, la saisine de l'administration chargée des domaines pour l'acquisition,
 l'aliénation ou le changement d'utilisation d'immeubles, la prise à bail d'immeubles privés et la location d'immeubles du
@@ -88075,7 +88068,7 @@ gestion d'immeubles du domaine public militaire au profit d'une personne publiqu
 
 Un arrêté fixe la liste des attributions et actes concernés et les limites dans lesquelles la délégation est consentie. 
 
-L'autorité militaire commandant de base ayant reçu délégation de pouvoirs peut déléguer sa signature à son adjoint ou, le cas
+Le commandant de base de défense ayant reçu délégation de pouvoirs peut déléguer sa signature à son adjoint ou, le cas
 échéant, son suppléant.
 
 **Liens relatifs à cet article**
@@ -88083,22 +88076,15 @@ L'autorité militaire commandant de base ayant reçu délégation de pouvoirs pe
 	**Cité par**:
 
 	  - Arrêté du 27 décembre 2012 - art. 4 (V)
+	  - Code de la défense. - art. R3231-9-1 (V)
 	  - Code de la défense. - art. R5341-1 (V)
 	  - Code de la défense. - art. R5351-1 (V)
 	  - Code de la défense. - art. R5361-1 (V)
 	  - Code de la défense. - art. R5371-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. D5131-5 (T)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R5131-3 (V)
+	  - Décret n°2015-211 du 25 février 2015 - art. 21
 
 
 ###### Article R5131-8
@@ -88219,9 +88205,9 @@ peuvent déléguer leur signature à un ou plusieurs subordonnés.
 
 ###### Article D5131-12
 
-Sous réserve des compétences dévolues en la matière aux états-majors, directions et services, le commandant de région terre
+Sous réserve des compétences dévolues en la matière aux états-majors, directions et services, le commandant de zone terre
 représente le ministre auprès des services déconcentrés de l'Etat et auprès des collectivités territoriales, dans les limites
-de la région terre, pour les questions d'urbanisme intéressant le ministère de la défense. Il transmet au préfet les
+de la zone terre, pour les questions d'urbanisme intéressant le ministère de la défense. Il transmet au préfet les
 informations relatives aux installations de la défense ayant une incidence sur le territoire concerné, que l'Etat porte à la
 connaissance des communes ou de leurs groupements en application de l'article R. * 121-1 du code de l'urbanisme. 
 
@@ -88237,7 +88223,7 @@ déconcentrés de l'Etat et des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+	  - Décret n°2015-213 du 25 février 2015 - art. 17
 
 	**Cité par**:
 
@@ -88249,7 +88235,7 @@ déconcentrés de l'Etat et des collectivités territoriales.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*121-1 (V)
+	  - Code de l'urbanisme - art. R*121-1
 
 
 ###### Article D5131-13

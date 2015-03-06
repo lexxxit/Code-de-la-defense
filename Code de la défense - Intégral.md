@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-02-28
+Version Consolidée au 2015-03-07
 
 # Partie législative
 
@@ -40117,7 +40117,7 @@ La commission comprend en outre :
 
 1° Le directeur des finances publiques, régional ou chargé d'une direction locale ou son représentant ; 
 
-2° Le commissaire de l'armée de terre, le commissaire de la marine ou le commissaire de l'air territorialement compétent ; 
+2° Un officier désigné par le directeur central du service du commissariat des armées ;
 
 3° Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, les chefs des services des ministères de
 l'industrie, des transports, de l'agriculture, de l'environnement et du cadre de vie et des postes et télécommunications ; 
@@ -40140,7 +40140,7 @@ participer à titre consultatif aux travaux de cette commission.
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 9
+	  - Décret n°2015-258 du 4 mars 2015 - art. 1
 
 
 ###### Article R1682-4
@@ -40986,15 +40986,15 @@ déposer leurs réclamations à la mairie dans les trois jours qui suivent le pa
 
 Deux semaines au moins avant le début des manœuvres, les officiers généraux exerçant un commandement territorial nomment des
 commissions de règlement des indemnités et désignent les circonscriptions assignées à leurs opérations. Ces commissions sont
-composées d'un commissaire de l'armée de terre, président, d'un agent de l'Etat désigné par le préfet et d'un personnel
-assermenté du service d'infrastructure de la défense. Cette commission est assistée par un sous-officier remplissant les
-fonctions de comptable.
+composées d'un commissaire des armées, président, d'un agent de l'Etat désigné par le préfet et d'un personnel assermenté du
+service d'infrastructure de la défense. Cette commission est assistée par un sous-officier remplissant les fonctions de
+comptable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-258 du 4 mars 2015 - art. 2
 
 	**Cité par**:
 
@@ -41046,24 +41046,24 @@ Le maire, par notification administrative, met immédiatement les ayants droit e
 ou de les refuser dans le délai de deux semaines. 
 
 Les refus sont formulés par écrit et motivés. Les déclarations de refus sont déposées à la mairie et annexées au procès-
-verbal mentionné à l'article R. 2161-6.
+verbal mentionné à l'article R. 2161-6. 
 
 A l'expiration du délai de deux semaines, le maire consigne sur l'état qui lui a été remis par la commission les réponses
-qu'il a reçues et transmet ensuite l'état au commissaire de l'armée de terre, président de la commission : ce dernier assure
-le paiement des indemnités qui n'ont pas été refusées. 
+qu'il a reçues et transmet ensuite l'état au      commissaire des armées, président de la commission : ce dernier assure le
+paiement des indemnités qui n'ont pas été refusées. 
 
 En cas de contestation, l'extrait du procès-verbal de la commission d'évaluation est remis par le maire au tribunal de grande
 instance chargé de statuer sur les réclamations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-258 du 4 mars 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2161-6 (V)
+	  - Code de la défense. - art. R2161-6
 
 
 ###### Article R2161-8
@@ -55531,8 +55531,8 @@ française.
 
 ###### Article R2491-13
 
-Le droit de requérir peut être délégué, par les autorités militaires énumérées à l'article R. 2211-5, aux officiers du
-commissariat et aux officiers commandant les détachements. 
+Le droit de requérir peut être délégué, par les autorités militaires énumérées à l'article R. 2211-5, aux  commissaires des
+armées et aux officiers commandant les détachements. 
 
 Dans les cas limitativement rappelés ci-après, le droit de réquisition peut être également délégué : 
 
@@ -55559,16 +55559,16 @@ l'autorité militaire, aux ingénieurs des travaux publics de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-258 du 4 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2223-17 (V)
-	  - Code de la défense. - art. L2223-18 (V)
-	  - Code de la défense. - art. L2223-19 (V)
-	  - Code de la défense. - art. R2211-5 (V)
+	  - Code de la défense. - art. L2223-17
+	  - Code de la défense. - art. L2223-18
+	  - Code de la défense. - art. L2223-19
+	  - Code de la défense. - art. R2211-5
 
 
 ###### Article R2491-14
@@ -60873,19 +60873,21 @@ interne.
 ###### Article R3231-12
 
 La vérification des comptes des formations administratives a pour objet le contrôle de toutes les opérations comptables afin
-de s'assurer de leur réalité, de leur exactitude et de leur conformité aux dispositions législatives et réglementaires.
+de s'assurer de leur réalité, de leur exactitude et de leur conformité aux dispositions législatives et réglementaires. 
 
-Elle est assurée par des commissaires désignés à cet effet qui, pour l'exercice de cette responsabilité particulière, sont
-responsables devant le ministre de la défense.
+Elle est assurée par des commissaires des armées désignés à cet effet qui, pour l'exercice de cette responsabilité
+particulière, sont responsables devant le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 10
+	  - Décret n°2015-258 du 4 mars 2015 - art. 5
 
 
 ##### Chapitre II : Les services du commissariat
+
+##### Chapitre II : Le service du commissariat des armées
 
 ###### Article R3232-1
 
@@ -61073,9 +61075,9 @@ Le service du commissariat des armées est chargé de veiller à la régularité
 comptabilités tenues dans les armées ; il s'assure du respect des procédures comptables. Il participe à l'organisation et à
 la mise en œuvre du contrôle interne budgétaire et comptable dans les armées. 
 
-Il charge les commissaires désignés à cet effet d'assurer les opérations de contrôle des comptes des trésoriers militaires.
-Il instruit et règle les dossiers de mise en jeu de la responsabilité pécuniaire de ces trésoriers dans les limites de sa
-compétence. 
+Il charge les commissaires des armées désignés à cet effet d'assurer les opérations de contrôle des comptes des trésoriers
+militaires. Il instruit et règle les dossiers de mise en jeu de la responsabilité pécuniaire de ces trésoriers dans les
+limites de sa compétence. 
 
 Le service du commissariat des armées contribue à l'évaluation de la performance financière des armées et services de
 soutien ; il leur apporte le concours de ses moyens d'audit comptable et financier. 
@@ -61087,7 +61089,7 @@ législatives et réglementaires des actes d'administration et de gestion pris d
 
 	**Modifié par**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+	  - Décret n°2015-258 du 4 mars 2015 - art. 5
 
 
 ###### Article R3232-9
@@ -61119,8 +61121,8 @@ réserve.
 
 ###### Article R3232-10
 
-Le service du commissariat des armées est dirigé par un directeur central, officier général du corps des commissaires de
-l'armée de terre, de la marine ou de l'air. 
+Le service du commissariat des armées est dirigé par un directeur central, officier général du corps des commissaires
+des armées. 
 
 La composition et le fonctionnement du conseil de gestion du service du commissariat des armées sont fixés par arrêté du
 ministre de la défense. Outre les missions qui lui sont dévolues par l'article R. 3231-2, il élabore et définit les
@@ -61128,14 +61130,14 @@ orientations générales du service et lui assigne ses objectifs pluriannuels et
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2009 - art. 2 (Ab)
 	  - Arrêté du 29 juillet 2014 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-258 du 4 mars 2015 - art. 6
 
 	**Cite**:
 

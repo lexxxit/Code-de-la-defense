@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-03-07
+Version Consolidée au 2015-03-19
 
 # Partie législative
 
@@ -60885,8 +60885,6 @@ particulière, sont responsables devant le ministre de la défense.
 	  - Décret n°2015-258 du 4 mars 2015 - art. 5
 
 
-##### Chapitre II : Les services du commissariat
-
 ##### Chapitre II : Le service du commissariat des armées
 
 ###### Article R3232-1
@@ -85017,17 +85015,23 @@ Son organisation est fixée par arrêté du ministre de la défense.
 ###### Article R4211-1
 
 Les réservistes appartiennent au contrôle général des armées, à une armée ou à une formation rattachée, qui en assurent la
-gestion.
+gestion. 
 
 Les officiers, les sous-officiers et les officiers mariniers de la réserve opérationnelle sont rattachés aux différents corps
-statutaires de l'armée professionnelle et, en fonction des besoins, répartis par armes, services, branches, groupes de
-spécialité et spécialités.
+statutaires de l'armée professionnelle des militaires de carrière. 
+
+Ils sont soumis aux dispositions de leur corps de rattachement en tant qu'elles ne sont pas contraires aux dispositions de
+l'article L. 4143-1 et du livre II de la partie 4 du code de la défense. 
+
+Les militaires du rang de la réserve opérationnelle sont soumis aux dispositions statutaires qui leur sont applicables, en
+tant qu'elles ne sont pas contraires aux dispositions de l'article L. 4143-1 et du livre II de la partie 4 du code de la
+défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 3
 
 	**Cité par**:
 
@@ -85037,6 +85041,10 @@ spécialité et spécialités.
 	  - Code de la défense. - art. R4361-2 (VT)
 	  - Code de la défense. - art. R4381-2 (V)
 	  - Code de la défense. - art. R4382-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4143-1
 
 
 ###### Article R4211-2
@@ -85062,30 +85070,30 @@ Les réservistes peuvent, pour les besoins du service, être admis sur leur dema
 l'armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps d'une autre armée
 ou d'une autre formation rattachée que sur leur demande.
 
-En cas d'appartenance à la réserve opérationnelle, l'admission dans un corps d'une autre armée ou formation rattachée, qui
-doit donner lieu à la conclusion d'un nouvel engagement à servir dans la réserve opérationnelle, ne peut entraîner ni la
-modification du grade et de l'ancienneté de grade acquise, ni la prise de rang avant les autres militaires de même grade et
-de même ancienneté, ni la perte d'une inscription au tableau d'avancement.
+L'admission d'un réserviste dans un corps d'une autre armée ou formation rattachée, qui doit donner lieu à la conclusion d'un
+nouvel engagement à servir dans la réserve opérationnelle, ne peut entraîner ni la modification du grade et de l'ancienneté
+de grade acquise, ni la prise de rang avant les autres militaires de même grade et de même ancienneté, ni la perte d'une
+inscription au tableau d'avancement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 4
 
 
 ###### Article R4211-4
 
 Des récompenses peuvent être accordées aux réservistes et aux anciens réservistes admis à l'honorariat dans les conditions
-prévues à la section 2 du chapitre 7 du titre III du présent livre. Les intéressés peuvent bénéficier de nominations ou
-promotions dans les ordres nationaux de la Légion d'honneur et du mérite, de la concession de la médaille militaire et de
-l'attribution de la médaille de la défense nationale et de la médaille des services militaires volontaires.
+prévues à la section 2 du chapitre 7 du titre III du livre Ier de la présente partie. Les intéressés peuvent bénéficier de
+nominations ou promotions dans les ordres nationaux de la Légion d'honneur et du mérite, de la concession de la médaille
+militaire et de l'attribution de la médaille de la défense nationale et de la médaille des services militaires volontaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 5
 
 
 ###### Article R4211-5
@@ -85116,16 +85124,22 @@ citation ;
 
 4° Avoir été décoré de la médaille de la défense nationale ; 
 
-5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle.
+5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle ;
+
+6° Avoir été décoré de la médaille des services militaires volontaires. 
 
 II. - Lorsqu'ils remplissent au moins l'une des conditions mentionnées au I, les réservistes de la gendarmerie nationale sont
 admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de l'intérieur.
+
+III. - Dès souscription d'un contrat d'engagement à servir dans la réserve opérationnelle ou dès délivrance d'un agrément
+dans la réserve citoyenne, l'honorariat est suspendu pour la durée de l'engagement à servir dans la réserve opérationnelle ou
+de l'agrément dans la réserve citoyenne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 55
+	  - Décret n°2015-296 du 16 mars 2015 - art. 6
 
 	**Cite**:
 
@@ -85172,20 +85186,22 @@ déléguer aux autorités chargées de la gestion du personnel de la réserve mi
 ###### Article R4211-9
 
 En cas de comportement portant atteinte à l'honneur ou à la probité, l'honorariat peut être retiré par décision du ministre
-de la défense, après que l'intéressé a été mis à même de présenter ses observations.
+de la défense, ou par le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, après que l'intéressé a
+été mis à même de présenter ses observations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 7
 
 
 #####  Section 3 : Radiation de la réserve
 
 ###### Article R4211-10
 
-La radiation de la réserve est prononcée d'office par l'autorité militaire dans les cas suivants : 
+La radiation de la réserve est prononcée d'office par le ministre de la défense, ou le ministre de l'intérieur pour les
+réservistes de la gendarmerie nationale dans les cas suivants : 
 
 1° Admission dans l'armée professionnelle par souscription d'un engagement ou recrutement dans un corps militaire ; 
 
@@ -85199,13 +85215,15 @@ La radiation de la réserve est prononcée d'office par l'autorité militaire da
 criminelle, soit à la destitution ou à la perte du grade dans les conditions prévues aux articles L. 311-3 à L. 311-9 du code
 de justice militaire ; 
 
-6° Retrait définitif par l'autorité militaire de l'agrément donné à la demande d'accès à la réserve citoyenne.
+6° Retrait définitif par le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie
+nationale de l'agrément donné à la demande d'accès à la réserve citoyenne.
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+article. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -85216,10 +85234,14 @@ de justice militaire ;
 	  - Code de la défense. - art. R4211-12 (V)
 	  - Code de la défense. - art. R4221-19 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 8
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-2 (V)
-	  - Code de justice militaire. - art. L311-3 (V)
+	  - Code de la défense. - art. L4221-2
+	  - Code de justice militaire. - art. L311-3
 
 
 ###### Article R4211-11
@@ -85240,23 +85262,24 @@ détenu.
 
 ###### Article R4211-12
 
-La radiation de la réserve opérationnelle peut être prononcée, après avis d'une commission présidée par un officier de
-carrière, pour insuffisance professionnelle, inconduite notoire, faute grave dans le service ou contre la discipline, faute
-contre l'honneur ou la probité, ou pour des faits ayant entraîné une condamnation à une peine d'emprisonnement autre que
-celles prévues au 5° de l'article R. 4211-10.
+La radiation de la réserve opérationnelle peut être prononcée, après avis de la commission prévue à l'article R. 4221-26 : 
 
-L'organisation et les modalités de fonctionnement de la commission mentionnée au premier alinéa sont fixées par arrêté du
-ministre de la défense.
+1° Par décision du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie nationale,
+pour insuffisance professionnelle ; 
+
+2° Par décision du ministre de la défense pour faute grave ou manquement, faute contre l'honneur ou la probité, ou pour des
+faits ayant entraîné une condamnation à une peine d'emprisonnement autre que celles prévues au 5° de l'article R. 4211-10.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4211-10 (V)
+	  - Code de la défense. - art. R4211-10
+	  - Code de la défense. - art. R4221-26
 
 	**Cité par**:
 
@@ -85296,23 +85319,21 @@ L'aptitude physique exigée est identique à celle requise pour les militaires p
 
 ###### Article R4221-3
 
-Le contrat d'engagement est dressé ou homologué par un commissaire de l'armée de terre, de l'air ou de la marine. Il prend
-effet au jour de sa signature par un commissaire de l'armée de terre, de l'air ou de la marine ou, le cas échéant, de son
-homologation par une de ces autorités. Pour le contrôle général des armées, le contrat d'engagement est dressé par le chef du
-corps militaire du contrôle général des armées et prend effet au jour de sa signature.
+Le contrat d'engagement est signé par le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale. Il prend effet à la date prévue dans le contrat ou, à défaut, au jour de sa signature. 
 
 Toutefois, s'agissant d'un premier contrat d'engagement souscrit par un volontaire, en qualité d'officier, de sous-officier
-ou d'officier marinier, le contrat signé prend effet à la date fixée par le décret ou la décision de nomination, au premier
-grade d'officier, de sous-officier ou d'officier marinier.
+ou d'officier marinier, le contrat signé prend effet à la date fixée par le décret ou la décision de nomination. 
 
 Le contrat rattache le réserviste à la garnison de son lieu d'affectation pour le calcul de ses droits à solde et aux
-accessoires qui s'y attachent.
+accessoires qui s'y attachent. 
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+article. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -85321,18 +85342,22 @@ accessoires qui s'y attachent.
 	  - Arrêté du 5 août 2015 - art. 4 (V)
 	  - Code de la défense. - art. R4221-12 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 10
+
 
 ###### Article R4221-4
 
-Les mentions du contrat d'engagement à servir dans la réserve opérationnelle sont précisées par arrêté du ministre de la
-défense. Elles comprennent obligatoirement le lieu et l'unité d'affectation du réserviste ainsi que la durée de son
-engagement.
+Les mentions du contrat d'engagement à servir dans la réserve opérationnelle sont précisées par arrêté conjoint du ministre
+de la défense et du ministre de l'intérieur. Elles comprennent obligatoirement le lieu et l'unité d'affectation du réserviste
+ainsi que la durée de son engagement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 11
 
 	**Cité par**:
 
@@ -85341,30 +85366,23 @@ engagement.
 
 ###### Article R4221-5
 
-Sous réserve de l'application des articles L. 4231-2, L. 4231-4 et L. 4231-5 et des sections 4 et 5 du présent chapitre, les
-périodes d'activité dans la réserve opérationnelle sont déterminées au titre d'un programme prévisionnel daté, établi et
-signé conjointement par l'autorité militaire d'emploi et le réserviste. La durée de chacune de ces périodes ne peut être
-inférieure à une demi-journée. 
+Les périodes d'activité dans la réserve opérationnelle sont déterminées, de manière prévisionnelle, par l'autorité militaire
+d'emploi en accord avec le réserviste. La durée de chacune des périodes d'activité ne peut être inférieure à une demi-
+journée. 
 
-Ce programme prévisionnel, couvrant au maximum douze mois, est actualisé chaque année, au plus tard dans le mois qui suit la
-date anniversaire de la signature du contrat d'engagement à servir dans la réserve opérationnelle auquel il est annexé. 
-
-Toute modification des périodes d'activité prévues est inscrite sur le programme prévisionnel avec la signature des parties.
+Le nombre prévisionnel de jours d'activité est fixé par l'autorité militaire d'emploi pour la période restant à courir entre
+la date de prise d'effet du contrat d'engagement et la fin de l'année civile. Il est communiqué au réserviste et actualisé au
+moins une fois par an.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D4221-6 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L4231-2 (V)
-	  - Code de la défense. - art. L4231-4 (V)
 
 
 #####  Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an
@@ -85375,9 +85393,9 @@ La durée des activités dans la réserve opérationnelle peut, dans les mêmes 
 soixante jours : 
 
 1° Pour l'encadrement des périodes militaires d'initiation ou de perfectionnement à la défense nationale, et de la journée
-d'appel de préparation à la défense ; 
+défense et citoyenneté ; 
 
-2° Ou lorsque le réserviste a suivi une formation initiale dans l'année en cours. 
+2° Ou lorsque le réserviste a suivi une formation dans l'année en cours. 
 
 Le contrôle général des armées, chaque armée et formation rattachée, dans la limite de 15 % de l'effectif de la réserve
 opérationnelle sous contrat d'engagement au 1er janvier de l'année en cours, déterminent le nombre de réservistes qui, ne
@@ -85390,7 +85408,7 @@ l'accomplissement de missions requérant une présence d'une durée supérieure 
 
 	**Modifié par**:
 
-	  - Décret n°2009-1728 du 30 décembre 2009 - art. 1
+	  - Décret n°2015-296 du 16 mars 2015 - art. 13
 
 	**Cité par**:
 
@@ -85408,13 +85426,19 @@ l'accomplissement de missions requérant une présence d'une durée supérieure 
 ###### Article D4221-7
 
 En cas de nécessité liée à l'emploi des forces, la durée des activités dans la réserve opérationnelle peut être portée, par
-décision de l'autorité militaire, à cent cinquante jours par année civile, après accord du réserviste.
+décision du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie nationale, à cent
+cinquante jours par année civile, après accord du réserviste.
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+article. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 14
 
 	**Cité par**:
 
@@ -85462,15 +85486,43 @@ Les services comptent du jour de la mise en route jusqu'à celui du retour du r�
 
 ###### Article R4221-10
 
-Le réserviste titulaire d'un contrat d'engagement à servir dans la réserve opérationnelle est tenu d'avertir l'autorité
-militaire d'emploi de tout changement dans sa situation personnelle susceptible d'affecter l'exécution des activités
-programmées.
+Le réserviste opérationnel est tenu d'informer par écrit, lors de la signature du contrat d'engagement à servir dans la
+réserve opérationnelle, l'autorité militaire d'emploi et l'organisme chargé de sa gestion administrative de son appartenance
+à l'une des réserves mentionnées à l'article L. 2171-1 ou de son assujettissement aux dispositions du titre V du livre Ier de
+la deuxième partie relatives au service de sécurité nationale. 
+
+Le réserviste opérationnel est tenu d'informer par écrit, sans délai, l'autorité militaire d'emploi et l'organisme chargé de
+sa gestion administrative de tout changement dans sa situation susceptible d'affecter l'exécution des périodes d'activité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2171-1
+
+
+###### Article R4221-10-1
+
+Le réserviste peut être admis, avec son accord, à servir auprès d'une autre unité de son armée ou formation rattachée
+d'appartenance pour y effectuer des périodes d'activité au titre de son engagement à servir dans la réserve opérationnelle.
+Le réserviste peut également être admis à servir dans les mêmes conditions auprès d'une autre armée ou formation rattachée.
+
+Ces admissions à servir doivent être agréées par l'autorité militaire de l'armée ou formation rattachée d'appartenance et
+l'autorité militaire d'emploi intéressée.
+
+L'exécution des périodes d'activité prévues au premier alinéa fait l'objet, sauf urgence, d'une convention conclue entre
+l'autorité militaire de l'armée ou formation rattachée d'appartenance et l'autorité militaire d'emploi intéressée et
+précisant, en tant que de besoin, les modalités financières de l'admission à servir.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 16
 
 
 #####  Section 4 : Souscription et exécution de la clause de réactivité
@@ -85496,19 +85548,18 @@ Cette clause devient caduque lorsque le réserviste change d'employeur.
 
 ###### Article R4221-12
 
-La clause de réactivité, quelle que soit la date de sa conclusion, est signée par l'autorité militaire mentionnée à l'article
-R. 4221-3. Elle ne peut être proposée à la signature de cette autorité que revêtue de l'accord préalable du ou des employeurs
-du réserviste.
+La clause de réactivité, quelle que soit la date de sa conclusion, est signée dans les formes prévues à l'article R. 4221-3.
+Elle est revêtue de l'accord préalable du ou des employeurs du réserviste.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 17
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4221-3 (V)
+	  - Code de la défense. - art. R4221-3
 
 
 ###### Article R4221-13
@@ -85624,15 +85675,15 @@ admis à servir.
 ###### Article R4221-17-1
 
 L'admission à servir d'un réserviste dans les conditions prévues par le dernier alinéa de l'article L. 4221-1 est subordonnée
-à la signature d'une convention entre le ministre de la défense et les autorités compétentes de l'Etat, de l'établissement
-public ou de l'organisation internationale concernés. Cette convention est conclue pour une durée maximale de trois ans
-renouvelable.
+à la signature d'une convention entre le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale, et les autorités compétentes de l'Etat, de l'établissement public ou de l'organisation internationale
+concernés. Cette convention est conclue pour une durée maximale de trois ans renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+	  - Décret n°2015-296 du 16 mars 2015 - art. 18
 
 	**Cite**:
 
@@ -85654,7 +85705,8 @@ La convention mentionnée à l'article R. 4221-17-1 précise notamment :
 3° Les modalités de leur admission et leurs conditions d'emploi ; 
 
 4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées
-par les réservistes intéressés sont remboursés au ministère de la défense ; 
+par les réservistes intéressés sont remboursés au ministère de la défense, ou au ministre de l'intérieur pour les réservistes
+de la gendarmerie nationale ; 
 
 5° Les modalités du contrôle et de l'évaluation desdites activités ; 
 
@@ -85663,26 +85715,27 @@ terme initialement prévu par l'arrêté mentionné au dernier alinéa de l'arti
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+	  - Décret n°2015-296 du 16 mars 2015 - art. 19
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4221-1 (V)
+	  - Code de la défense. - art. L4221-1
 	  - Code de la défense. - art. R4221-17-1
 
 
 ###### Article R4221-17-3
 
 Le réserviste admis à servir auprès d'une administration de l'Etat, d'un établissement public ou d'une organisation
-internationale reste soldé par le ministère de la défense, à l'exclusion de toute autre rémunération.
+internationale reste soldé par le ministère de la défense, ou le ministre de l'intérieur pour les réservistes de la
+gendarmerie nationale, à l'exclusion de toute autre rémunération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+	  - Décret n°2015-296 du 16 mars 2015 - art. 20
 
 
 #####  Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle
@@ -85690,14 +85743,16 @@ internationale reste soldé par le ministère de la défense, à l'exclusion de 
 ###### Article R4221-18
 
 Sur demande de l'intéressé, l'exécution des obligations nées du contrat d'engagement à servir dans la réserve opérationnelle
-peut être suspendue par l'autorité militaire pour une durée maximum de vingt-quatre mois, sans que cette décision ait pour
-effet de différer le terme prévu de l'engagement.
+peut être suspendue par le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie
+nationale, pour une durée maximum de vingt-quatre mois, sans que cette décision ait pour effet de différer le terme prévu de
+l'engagement. 
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du précédent
+alinéa. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du précédent alinéa.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -85705,27 +85760,48 @@ effet de différer le terme prévu de l'engagement.
 	  - Arrêté du 5 août 2015 - art. 1 (V)
 	  - Arrêté du 5 août 2015 - art. 6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 21
+
 
 ###### Article R4221-19
 
-La résiliation du contrat d'engagement à servir dans la réserve opérationnelle est prononcée de droit par l'autorité
-militaire en cas de radiation de la réserve dans les conditions prévues aux articles R. 4211-10 à R. 4211-12.
+La résiliation du contrat d'engagement à servir dans la réserve opérationnelle est prononcée : 
 
-En outre, la résiliation du contrat d'engagement à servir dans la réserve opérationnelle peut être prononcée par l'autorité
-militaire : 
+1° D'office par le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale : 
 
-1° En cas d'inaptitude à l'emploi ; 
+a) En cas de radiation de la réserve dans les conditions prévues aux articles R. 4211-10 et R. 4211-11 ; 
 
-2° En cas d'impossibilité, non due à l'inaptitude, de remplir les conditions requises par l'affectation qui figure dans le
-contrat d'engagement ; 
+b) En cas de souscription d'un nouveau contrat se substituant au contrat en cours. 
 
-3° Sur demande justifiée de l'intéressé.
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+1° ; 
+
+2° D'office par le ministre de la défense, en cas de radiation de la réserve dans les conditions prévues à l'article R.
+4211-12.
+
+Le ministre de la défense peut, par arrêté, déléguer aux commandants de formation administrative ou aux autorités dont ils
+relèvent les pouvoirs qu'il tient du présent 2° ; 
+
+3° La résiliation du contrat d'engagement à servir dans la réserve opérationnelle peut être prononcée par le ministre de la
+défense ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale : 
+
+a) Sur demande justifiée de l'intéressé ; 
+
+b) En cas d'absence de réponse à trois convocations successives, sans justification ; 
+
+c) En cas d'inaptitude à l'emploi, de retrait ou de non-renouvellement d'une habilitation requise pour l'exercice de la
+fonction, d'échec à une formation nécessaire à la bonne exécution de la fonction, de changement de résidence affectant les
+conditions d'exécution de la fonction, de fermeture, de transfert ou de réorganisation de l'unité d'affectation. 
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+3°. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent 3°.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -85733,9 +85809,14 @@ contrat d'engagement ;
 	  - Arrêté du 5 août 2015 - art. 1 (V)
 	  - Arrêté du 5 août 2015 - art. 7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 22
+
 	**Cite**:
 
-	  - Code de la défense. - art. R4211-10 (V)
+	  - Code de la défense. - art. R4211-10
+	  - Code de la défense. - art. R4211-12
 
 
 #####  Section 7 : Dispositions relatives à la nomination et à l'avancement
@@ -85745,21 +85826,25 @@ contrat d'engagement ;
 Les officiers de réserve sont nommés ou promus par décret du Président de la République aux différents grades de la
 hiérarchie du corps de rattachement.
 
-Les autres militaires de la réserve sont nommés ou promus par décision du ministre de la défense, ou du ministre de
-l'intérieur pour les réservistes de la gendarmerie nationale, aux différents grades de la hiérarchie du corps de
-rattachement.
+Les sous-officiers et officiers mariniers de réserve sont nommés ou promus par décision du ministre de la défense, ou du
+ministre de l'intérieur pour les réservistes de la gendarmerie nationale, aux différents grades de la hiérarchie du corps de
+rattachement. 
+
+Les militaires du rang de réserve sont nommés ou promus par décision du ministre de la défense, ou du ministre de l'intérieur
+pour les réservistes de la gendarmerie nationale, aux différents grades de la hiérarchie définie dans les dispositions
+statutaires qui leur sont applicables.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 59
 
 	**Cité par**:
 
 	  - Arrêté du 30 juin 2010 - art. 1 (V)
 	  - Arrêté du 20 octobre 2010 - art. 1 (V)
 	  - Code de la défense. - art. R4221-28 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 23
 
 
 ###### Article R4221-21
@@ -85791,24 +85876,19 @@ d'aspirant par décision du ministre de la défense, ou du ministre de l'intéri
 nationale, à l'issue de ce cycle. Ceux qui ont satisfait à un cycle de formation militaire initiale de sous-officier ou
 d'officier marinier peuvent être nommés au premier grade de sous-officier ou d'officier marinier.
 
-Les aspirants nommés dans les conditions prévues à l'alinéa précédent sont soumis aux dispositions applicables aux officiers
-dans les domaines intéressant la discipline générale, les sanctions disciplinaires et professionnelles, la suspension de
-fonctions, les récompenses, le commandement, la notation, les fonds de prévoyance et l'accès aux cercles et mess. Dans les
-autres domaines, les aspirants sont soumis aux dispositions applicables aux sous-officiers et aux officiers mariniers.
-
 Les aspirants ayant au moins trois mois de grade peuvent être nommés au premier grade d'officier, après agrément de
 l'autorité militaire d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 61
-
 	**Cité par**:
 
 	  - Arrêté du 30 juin 2010 - art. 1 (V)
 	  - Code de la défense. - art. R4221-28 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 24
 
 
 ###### Article R4221-23
@@ -85827,6 +85907,9 @@ ministre de l'intérieur.
 
 Les nominations aux grades d'officiers généraux ne peuvent intervenir qu'en temps de guerre.
 
+Les conditions de diplômes ainsi que de temps de commandement ou de responsabilité exigées par les statuts particuliers des
+corps de rattachement ou les dispositions statutaires de rattachement ne sont pas applicables aux réservistes opérationnels.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -85835,7 +85918,7 @@ Les nominations aux grades d'officiers généraux ne peuvent intervenir qu'en te
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 62
+	  - Décret n°2015-296 du 16 mars 2015 - art. 25
 
 	**Cite**:
 
@@ -85848,11 +85931,14 @@ Les nominations aux grades d'officiers généraux ne peuvent intervenir qu'en te
 L'ancienneté de grade d'un militaire de la réserve compte de la date de sa nomination ou de sa promotion à ce grade soit dans
 l'armée professionnelle, soit dans la réserve.
 
+Les périodes d'interruption du contrat d'engagement ne sont pas prises en compte pour le calcul de l'ancienneté de grade du
+réserviste opérationnel.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 26
 
 
 ###### Article R4221-25
@@ -86036,21 +86122,27 @@ Les services comptent du jour de la mise en route jusqu'à celui du retour du di
 
 ###### Article R4241-1
 
-Un arrêté du ministre de la défense définit les modalités d'accès à la réserve citoyenne pour le contrôle général des armées,
-les armées et les formations rattachées.
+Un arrêté conjoint du ministre de la défense et du ministre de l'intérieur définit les modalités d'accès à la réserve
+citoyenne du contrôle général des armées, des armées et des formations rattachées. 
 
 L'agrément donné à la demande d'accès à la réserve citoyenne peut à tout moment être retiré, à titre temporaire ou définitif,
-par décision motivée de l'autorité militaire.
+par décision motivée du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie
+nationale.
+
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+article. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2012 - art. 15-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 27
 
 
 ###### Article R4241-2
@@ -86073,27 +86165,33 @@ Toutefois, lorsqu'ils agissent en qualité de collaborateurs bénévoles du serv
 
 ###### Article R4241-3
 
-Les réservistes de la réserve citoyenne sont agréés par l'autorité militaire en qualité d'officiers, d'aspirants, de sous-
-officiers ou d'officiers mariniers, ou de militaires du rang de la réserve citoyenne.
+Les réservistes de la réserve citoyenne sont agréés par le ministre de la défense, ou le ministre de l'intérieur pour les
+réservistes de la gendarmerie nationale, en qualité d'officiers, d'aspirants, de sous-officiers ou d'officiers mariniers, ou
+de militaires du rang de la réserve citoyenne. 
 
 Le droit au port des insignes d'un grade, attribué à titre honorifique, dans une des catégories de la réserve citoyenne ne
 permet pas d'occuper un emploi militaire, d'exercer un commandement et d'être admis à ce grade dans la réserve opérationnelle
-ou l'armée d'active.
+ou l'armée d'active. 
 
 Pour les anciens militaires d'active et les anciens réservistes de la réserve opérationnelle, le port de grade autorisé ne
 peut être inférieur à celui antérieurement détenu.
 
+Le ministre de la défense, ou le ministre de l'intérieur pour les réservistes de la gendarmerie nationale, peut, par arrêté,
+déléguer aux commandants de formation administrative ou aux autorités dont ils relèvent les pouvoirs qu'il tient du présent
+article. Ces délégataires peuvent déléguer leur signature à un ou plusieurs de leurs subordonnés pour les actes pris en
+application du présent article.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2012 - art. 15-1 (V)
 	  - Arrêté du 5 août 2015 - art. 1 (V)
 	  - Arrêté du 5 août 2015 - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-296 du 16 mars 2015 - art. 28
 
 
 ####  TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE

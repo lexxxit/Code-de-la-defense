@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-03-30
 
 # Partie législative
 
@@ -29652,7 +29652,9 @@ Cette commission comprend :
 
 6° Le haut fonctionnaire de défense et de sécurité auprès du ministre chargé de l'économie ou son représentant ; 
 
-7° En fonction des questions traitées et sur convocation du président, les hauts fonctionnaires mentionnés à l'article R.
+7° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant ;  
+
+8° En fonction des questions traitées et sur convocation du président, les hauts fonctionnaires mentionnés à l'article R.
 1143-1 et les directeurs d'administration centrale intéressés, ou leurs représentants, ainsi que les présidents des
 commissions mentionnées à l'article R. 1332-13. 
 
@@ -29663,6 +29665,10 @@ Sur décision de son président, la commission peut entendre toute personnalité
 	**Anciens textes**:
 
 	  - Décret n°2006-212 du 23 février 2006 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 2
 
 	**Cite**:
 
@@ -30569,20 +30575,24 @@ aucune information classifiée.
 ###### Article R1332-33
 
 Préalablement à l'introduction d'un recours contentieux contre tout acte administratif pris en application du présent
-chapitre, à l'exception de la décision mentionnée au II de l'article R. 1332-26, le requérant adresse un recours
-administratif au ministre coordonnateur du secteur d'activités dont il relève. Le ministre statue dans un délai de deux mois.
-En l'absence de décision à l'expiration de ce délai, le recours est réputé être rejeté.
+chapitre, à l'exception de la décision mentionnée au II de l'article R. 1332-26 ou de toute décision mentionnée à la section
+7 bis du présent chapitre, le requérant adresse un recours administratif au ministre coordonnateur du secteur d'activités
+dont il relève. Le ministre statue dans un délai de deux mois. En l'absence de décision à l'expiration de ce délai, le
+recours est réputé être rejeté.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 27
 	  - Décret n°2006-212 du 23 février 2006 - art. 27 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 2
 
 	**Cite**:
 
@@ -30839,6 +30849,586 @@ arrêté du ministre de la défense.
 	**Codifié par**:
 
 	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+
+
+##### Section 7 bis : Dispositions spécifiques à la sécurité des systèmes d'information 
+
+
+
+
+
+
+##### Sous-section 1 : Règles de sécurité
+
+###### Article R1332-41-1
+
+L'Agence nationale de la sécurité des systèmes d'information élabore et propose au Premier ministre les règles de sécurité
+prévues à l'article L. 1332-6-1. Ces règles sont établies par arrêté du Premier ministre pris après avis des ministres
+coordonnateurs des secteurs d'activités d'importance vitale concernés. Lorsque l'arrêté n'est pas publié, il est notifié aux
+personnes ayant besoin d'en connaître. 
+
+Les arrêtés mentionnés au premier alinéa peuvent prévoir des règles de sécurité différentes selon le secteur ou le type
+d'activité de l'opérateur. Ils fixent les délais dans lesquels les opérateurs d'importance vitale sont tenus d'appliquer les
+règles de sécurité. Ces délais peuvent être différents selon les règles de sécurité, le type de systèmes d'information
+concernés ou la date de mise en service de ces systèmes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 (V)
+	  - Arrêté du 17 juin 2016 (V)
+	  - Arrêté du 28 novembre 2016 (V)
+	  - Arrêté du 28 novembre 2016 (VD)
+	  - Arrêté du 10 mars 2017 (V)
+	  - Code de la défense. - art. R1641-2 (M)
+	  - Code de la défense. - art. R1651-3 (M)
+	  - Code de la défense. - art. R1661-3 (M)
+	  - Code de la défense. - art. R1671-3 (M)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+
+
+###### Article R1332-41-2
+
+Chaque opérateur d'importance vitale établit et tient à jour la liste des systèmes d'information mentionnés à l'article L.
+1332-6-1, y compris ceux des opérateurs tiers qui participent à ces systèmes, auxquels s'appliquent les règles de sécurité
+prévues au même article. 
+
+Les systèmes d'information figurant sur la liste mentionnée au premier alinéa sont dénommés “ systèmes d'information
+d'importance vitale ”. 
+
+La liste est établie selon des modalités fixées par arrêté du Premier ministre pris après avis des ministres coordonnateurs
+des secteurs d'activités d'importance vitale concernés. Ces arrêtés peuvent prévoir des modalités différentes selon le
+secteur ou le type d'activité de l'opérateur. Lorsque l'arrêté n'est pas publié, il est notifié aux personnes ayant besoin
+d'en connaître. 
+
+Chaque opérateur communique sa liste de systèmes d'information d'importance vitale et les mises à jour de celle-ci à l'Agence
+nationale de la sécurité des systèmes d'information selon des modalités et dans des délais fixés par l'arrêté mentionné au
+troisième alinéa. 
+
+L'Agence nationale de la sécurité des systèmes d'information peut, après avis des ministres coordonnateurs concernés, faire
+des observations à l'opérateur sur sa liste. Dans ce cas, l'opérateur modifie sa liste conformément à ces observations et
+communique la liste modifiée à l'Agence nationale de la sécurité des systèmes d'information dans un délai de deux mois à
+compter de la réception des observations. 
+
+La liste des systèmes d'information d'importance vitale est couverte par le secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 (V)
+	  - Arrêté du 10 juin 2016 - art. 2 (V)
+	  - Arrêté du 17 juin 2016 (V)
+	  - Arrêté du 17 juin 2016 - art. 2 (V)
+	  - Arrêté du 28 novembre 2016 (V)
+	  - Arrêté du 28 novembre 2016 (VD)
+	  - Arrêté du 28 novembre 2016 - art. 2 (V)
+	  - Arrêté du 28 novembre 2016 - art. 2 (VD)
+	  - Arrêté du 10 mars 2017 (V)
+	  - Arrêté du 10 mars 2017 - art. 2 (V)
+	  - Code de la défense. - art. R1332-41-19 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+
+
+##### Sous-section 2 : Détection des événements de sécurité 
+
+###### Article R1332-41-3
+
+Les règles de sécurité prévues à l'article L. 1332-6-1 fixent les conditions et les délais dans lesquels les opérateurs
+d'importance vitale mettent en œuvre des systèmes de détection des événements susceptibles d'affecter la sécurité de leurs
+systèmes d'information d'importance vitale. Elles déterminent également le type de système de détection utilisé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 - art. (V)
+	  - Arrêté du 17 juin 2016 - art. (V)
+	  - Arrêté du 28 novembre 2016 - art. (V)
+	  - Arrêté du 28 novembre 2016 - art. (VD)
+	  - Arrêté du 10 mars 2017 - art. (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+
+
+###### Article R1332-41-4
+
+Lorsque l'opérateur d'importance vitale est une administration de l'Etat, le Premier ministre, après avis des ministres
+coordonnateurs des secteurs d'activités d'importance vitale concernés, décide, en fonction des risques particuliers encourus
+par les systèmes d'information en cause, si les systèmes de détection sont exploités par l'Agence nationale de la sécurité
+des systèmes d'information, par un autre service de l'Etat ou par un prestataire de service qualifié. 
+
+Dans les autres cas, les systèmes de détection sont exploités exclusivement par un prestataire de service qualifié. 
+
+Lorsque les systèmes de détection sont exploités par un prestataire de service qualifié, l'opérateur choisit le prestataire
+sur la liste prévue à l'article R. 1332-41-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-41-9
+
+
+###### Article R1332-41-5
+
+L'opérateur d'importance vitale conclut une convention avec le service de l'Etat ou le prestataire de service chargé
+d'exploiter les systèmes de détection. Cette convention précise : 
+
+1° Les systèmes d'information de l'opérateur qui font l'objet du service de détection ; 
+
+2° Les fonctionnalités du service de détection et le type de système de détection utilisé ; 
+
+3° Les systèmes de détection qualifiés utilisés et leurs modalités d'installation et d'exploitation par le service de l'Etat
+ou le prestataire ; 
+
+4° La nature des informations échangées entre l'opérateur et le service de l'Etat ou le prestataire, les conditions dans
+lesquelles elles sont utilisées et protégées ainsi que les moyens de communication sécurisés nécessaires à ces échanges ; 
+
+5° Les moyens techniques et humains nécessaires à l'opérateur pour la mise en œuvre du service de détection. 
+
+La convention est conclue dans des délais compatibles avec ceux prévus pour la mise en service des systèmes de détection. 
+
+Une copie de la convention signée est adressée sans délai par l'opérateur à l'Agence nationale de la sécurité des systèmes
+d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+
+###### Article R1332-41-6
+
+Afin de rechercher et d'analyser des événements susceptibles d'affecter la sécurité des systèmes d'information d'importance
+vitale, l'Agence nationale de la sécurité des systèmes d'information peut demander aux services de l'Etat et aux prestataires
+de service chargés d'exploiter les systèmes de détection d'utiliser dans ces systèmes des données techniques qu'elle leur
+fournit. 
+
+L'utilisation de ces données techniques est soumise à des conditions particulières définies par l'Agence nationale de la
+sécurité des systèmes d'information, en particulier lorsque les données sont couvertes par le secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+
+##### Sous-section 3 : Qualification des systèmes de détection et des prestataires de service exploitant ces systèmes 
+
+###### Article R1332-41-7
+
+Les systèmes de détection et les prestataires de service mentionnés à l'article L. 1332-6-1 sont qualifiés dans les
+conditions prévues respectivement par les chapitres II et III du décret n° 2015-350 du 27 mars 2015 relatif à la
+qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2015-350 du 27 mars 2015
+	  - Code de la défense. - art. L1332-6-1
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1332-41-8 (V)
+	  - Code de la défense. - art. R1332-41-9 (V)
+
+
+###### Article R1332-41-8
+
+Un opérateur d'importance vitale peut agir comme prestataire de service exploitant des systèmes de détection au profit
+d'autres opérateurs d'importance vitale ou pour ses besoins propres sous réserve d'être qualifié dans les conditions prévues
+à l'article R. 1332-41-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-41-7
+
+
+###### Article R1332-41-9
+
+L'Agence nationale de la sécurité des systèmes d'information met à la disposition du public par voie électronique la liste
+des systèmes de détection et des prestataires de service exploitant ces systèmes, qualifiés dans les conditions prévues à
+l'article R. 1332-41-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 - art. (V)
+	  - Arrêté du 17 juin 2016 - art. (V)
+	  - Arrêté du 28 novembre 2016 - art. (V)
+	  - Arrêté du 28 novembre 2016 - art. (VD)
+	  - Arrêté du 10 mars 2017 - art. (V)
+	  - Code de la défense. - art. R1332-41-4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-41-7
+
+
+##### Sous-section 4 : Déclaration des incidents de sécurité 
+
+
+###### Article R1332-41-10
+
+En application de l'article L. 1332-6-2, les opérateurs d'importance vitale communiquent à l'Agence nationale de la sécurité
+des systèmes d'information les informations relatives aux incidents affectant la sécurité ou le fonctionnement de leurs
+systèmes d'information d'importance vitale. 
+
+Les opérateurs communiquent les informations dont ils disposent dès qu'ils ont connaissance d'un incident et les complètent
+au fur et à mesure de leur analyse de l'incident. Ils répondent aux demandes d'informations complémentaires de l'Agence
+nationale de la sécurité des systèmes d'information concernant l'incident. 
+
+Le Premier ministre précise par arrêté, en distinguant le cas échéant selon le secteur ou le type d'activité de l'opérateur,
+les informations qui doivent être communiquées, les modalités de leur transmission ainsi que les types d'incident auxquels
+s'applique l'obligation prévue à l'article L. 1332-6-2. Lorsque l'arrêté n'est pas publié, il est notifié aux personnes ayant
+besoin d'en connaître.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 (V)
+	  - Arrêté du 10 juin 2016 - art. 4 (V)
+	  - Arrêté du 17 juin 2016 (V)
+	  - Arrêté du 17 juin 2016 - art. 4 (V)
+	  - Arrêté du 28 novembre 2016 (V)
+	  - Arrêté du 28 novembre 2016 (VD)
+	  - Arrêté du 28 novembre 2016 - art. 4 (V)
+	  - Arrêté du 28 novembre 2016 - art. 4 (VD)
+	  - Arrêté du 10 mars 2017 (V)
+	  - Arrêté du 10 mars 2017 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-2
+
+
+###### Article R1332-41-11
+
+L'Agence nationale de la sécurité des systèmes d'information transmet aux ministres coordonnateurs des secteurs d'activités
+d'importance vitale concernés, lorsque son analyse de l'incident le justifie, une synthèse des informations recueillies
+relatives à cet incident.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+
+##### Sous-section 5 : Contrôles de sécurité 
+
+###### Article R1332-41-12
+
+Le Premier ministre, après avis des ministres coordonnateurs des secteurs d'activités d'importance vitale concernés, notifie
+aux opérateurs d'importance vitale sa décision d'imposer un contrôle prévu à l'article L. 1332-6-3. Il précise les objectifs
+et le périmètre du contrôle et fixe le délai dans lequel le contrôle est réalisé. Il précise, en fonction de la nature des
+opérations à mener, si ce contrôle est effectué par l'Agence nationale de la sécurité des systèmes d'information, par un
+autre service de l'Etat ou par un prestataire de service qualifié. Dans ce dernier cas, l'opérateur choisit le prestataire
+sur la liste prévue à l'article R. 1332-41-16. 
+
+Le Premier ministre ne peut imposer à un opérateur plus d'un contrôle par année civile d'un même système d'information, sauf
+si les systèmes d'information de cet opérateur sont affectés par un incident de sécurité ou si des vulnérabilités ou des
+manquements aux règles de sécurité ont été constatés lors d'un contrôle précédent subi par l'opérateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-3
+	  - Code de la défense. - art. R1332-41-16
+
+
+###### Article R1332-41-13
+
+L'opérateur d'importance vitale fournit au service de l'Etat ou au prestataire de service chargé du contrôle : 
+
+1° Les informations nécessaires pour évaluer la sécurité de ses systèmes d'information, notamment la documentation technique
+des équipements et des logiciels utilisés dans ses systèmes ainsi que les codes sources de ces logiciels ; 
+
+2° Les moyens nécessaires pour accéder à ses systèmes d'information et à l'ensemble de leurs composants afin de permettre au
+service de l'Etat ou au prestataire de réaliser des analyses sur les systèmes, notamment des relevés d'informations
+techniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+
+###### Article R1332-41-14
+
+L'opérateur d'importance vitale conclut une convention avec le service de l'Etat ou le prestataire de service chargé
+d'effectuer le contrôle. Cette convention précise : 
+
+1° Les systèmes d'information qui font l'objet du contrôle ; 
+
+2° Les objectifs et le périmètre du contrôle ; 
+
+3° Les modalités de déroulement du contrôle, notamment les conditions d'accès aux sites et aux systèmes d'information de
+l'opérateur ; 
+
+4° Les informations nécessaires à la réalisation du contrôle, fournies par l'opérateur, et les conditions de leur
+protection ; 
+
+5° Les modalités selon lesquelles sont effectuées les analyses techniques sur les systèmes d'information de l'opérateur. 
+
+La convention est conclue dans des délais compatibles avec le délai fixé par le Premier ministre pour la réalisation du
+contrôle. 
+
+Une copie de la convention signée est adressée sans délai par l'opérateur à l'Agence nationale de la sécurité des systèmes
+d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+
+###### Article R1332-41-15
+
+Le service de l'Etat ou le prestataire ayant réalisé le contrôle rédige un rapport exposant ses constatations, au regard de
+l'objectif du contrôle, sur le niveau de sécurité des systèmes d'information contrôlés et le respect des règles de sécurité
+prévues à l'article L. 1332-6-1. Les vulnérabilités et les manquements aux règles de sécurité constatés lors du contrôle sont
+indiqués dans le rapport, qui formule le cas échéant des recommandations pour y remédier. Le rapport est couvert par le
+secret de la défense nationale. 
+
+Après avoir mis l'opérateur en mesure de faire valoir ses observations, le service de l'Etat ou le prestataire remet, dans le
+délai fixé pour la réalisation du contrôle, le rapport à l'Agence nationale de la sécurité des systèmes d'information. 
+
+L'Agence nationale de la sécurité des systèmes d'information peut auditionner, dans un délai de deux mois à compter de la
+remise du rapport, le service de l'Etat ou le prestataire ayant réalisé le contrôle, le cas échéant en présence de
+l'opérateur, aux fins d'examiner les constatations et les recommandations figurant dans le rapport. Elle peut inviter les
+ministres coordonnateurs des secteurs d'activités d'importance vitale concernés à assister à cette audition. 
+
+L'Agence nationale de la sécurité des systèmes d'information communique aux ministres coordonnateurs des secteurs d'activités
+d'importance vitale concernés les conclusions du contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+
+
+###### Article R1332-41-16
+
+Les prestataires de service mentionnés à l'article L. 1332-6-3 sont qualifiés dans les conditions prévues par le chapitre III
+du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de
+confiance pour les besoins de la sécurité nationale. 
+
+L'Agence nationale de la sécurité des systèmes d'information met à la disposition du public par voie électronique la liste
+des prestataires de service qualifiés mentionnés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2015-350 du 27 mars 2015
+	  - Code de la défense. - art. L1332-6-3
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1332-41-12 (V)
+
+
+###### Article R1332-41-17
+
+Le coût des contrôles effectués par un service de l'Etat en application de l'article L. 1332-6-3 est calculé en fonction du
+temps nécessaire à la réalisation du contrôle et du nombre d'agents publics qui y participent. Un arrêté du Premier ministre
+fixe le coût d'un contrôle mobilisant un agent public pendant une journée. 
+
+Le coût des contrôles effectués par un prestataire de service est déterminé librement par les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-3
+
+
+##### Sous-section 6 : Réponse aux crises majeures 
+
+###### Article R1332-41-18
+
+L'Agence nationale de la sécurité des systèmes d'information propose au Premier ministre les mesures mentionnées à l'article
+L. 1332-6-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-4
+
+
+##### Sous-section 7 : Dispositions diverses 
+
+###### Article R1332-41-19
+
+Les opérateurs d'importance vitale prennent les mesures nécessaires, notamment par voie contractuelle, pour garantir
+l'application des dispositions prévues à la présente section aux systèmes d'information des opérateurs tiers mentionnés au
+premier alinéa de l'article R. 1332-41-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-41-2
+
+
+###### Article R1332-41-20
+
+Chaque opérateur d'importance vitale désigne une personne chargée de le représenter auprès de l'Agence nationale de la
+sécurité des systèmes d'information pour toutes les questions relatives à l'application des dispositions prévues à la
+présente section. Nul ne peut être désigné s'il n'est titulaire de l'habilitation mentionnée à l'article R. 2311-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 2016 - art. 5 (V)
+	  - Arrêté du 17 juin 2016 - art. 5 (V)
+	  - Arrêté du 28 novembre 2016 - art. 5 (V)
+	  - Arrêté du 28 novembre 2016 - art. 5 (VD)
+	  - Arrêté du 10 mars 2017 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2311-7
+
+
+###### Article R1332-41-21
+
+L'Agence nationale de la sécurité des systèmes d'information peut imposer aux opérateurs d'importance vitale et aux
+prestataires de service mentionnés aux articles L. 1332-6-1 et L. 1332-6-3 l'utilisation d'un moyen particulier pour protéger
+les échanges d'information prévus à la présente section lorsqu'ils sont effectués par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+	  - Code de la défense. - art. L1332-6-3
+
+
+###### Article R1332-41-22
+
+Les services de l'Etat et les prestataires de service mentionnés aux articles L. 1332-6-1 et L. 1332-6-3 accèdent aux
+systèmes d'information des opérateurs d'importance vitale et, le cas échéant, aux informations qu'ils contiennent dans le
+respect des secrets protégés par la loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+	  - Code de la défense. - art. L1332-6-3
+
+
+###### Article R1332-41-23
+
+Si un opérateur d'importance vitale ne satisfait pas aux obligations prévues aux articles L. 1332-6-1 à L. 1332-6-4, l'Agence
+nationale de la sécurité des systèmes d'information saisit l'autorité judiciaire aux fins de poursuite de l'auteur du délit
+prévu au troisième alinéa de l'article L. 1332-7. Hormis le cas d'un manquement à l'article L. 1332-6-2, cette saisine est
+précédée d'une mise en demeure adressée à l'opérateur par l'Agence nationale de la sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-351 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-6-1
+	  - Code de la défense. - art. L1332-6-2
+	  - Code de la défense. - art. L1332-7
 
 
 ##### Section 8 : Dispositions pénales
@@ -38391,8 +38981,8 @@ titre VIII du présent livre :
 1143-11 ; 
 
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à
-1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
+1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à
+R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -38402,7 +38992,7 @@ titre VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2010-902 du 3 août 2010 - art. 8
+	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
 
 	**Cite**:
 
@@ -38410,10 +39000,11 @@ titre VIII du présent livre :
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
-	  - Code de la défense. - art. R1312-1 (V)
-	  - Code de la défense. - art. R1322-1 (V)
+	  - Code de la défense. - art. R1312-1
+	  - Code de la défense. - art. R1322-1
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
+	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1333-1
 	  - Code de la défense. - art. R1333-70
@@ -38753,7 +39344,8 @@ VIII du présent livre :
 1143-11 ; 
 
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
-R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, 
+R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à
+R. 1333-19, 
 R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
@@ -38764,28 +39356,29 @@ R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1
 
 	**Modifié par**:
 
-	  - Décret n°2012-491 du 16 avril 2012 - art. 3
+	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1651-7 (V)
-	  - Code de la défense. - art. R*1132-2 (V)
-	  - Code de la défense. - art. R1142-14 (V)
+	  - Code de la défense. - art. D1651-7
+	  - Code de la défense. - art. R1132-2
+	  - Code de la défense. - art. R1142-14
 	  - Code de la défense. - art. R1142-35
 	  - Code de la défense. - art. R1312-1
 	  - Code de la défense. - art. R1322-1
 	  - Code de la défense. - art. R1332-1
-	  - Code de la défense. - art. R1332-42 (V)
-	  - Code de la défense. - art. R1333-1 (V)
-	  - Code de la défense. - art. R1333-70 (V)
-	  - Code de la défense. - art. R1336-33 (V)
-	  - Code de la défense. - art. R1337-1 (V)
-	  - Code de la défense. - art. R1337-18 (V)
-	  - Code de la défense. - art. R1338-1 (V)
+	  - Code de la défense. - art. R1332-41-1
+	  - Code de la défense. - art. R1332-42
+	  - Code de la défense. - art. R1333-1
+	  - Code de la défense. - art. R1333-70
+	  - Code de la défense. - art. R1336-33
+	  - Code de la défense. - art. R1337-1
+	  - Code de la défense. - art. R1337-18
+	  - Code de la défense. - art. R1338-1
 	  - Code de la défense. - art. R1511-2
-	  - Code de la défense. - art. R1651-4 (V)
-	  - Code de la défense. - art. R1681-1 (V)
-	  - Code de la défense. - art. R1682-1 (V)
+	  - Code de la défense. - art. R1651-4
+	  - Code de la défense. - art. R1681-1
+	  - Code de la défense. - art. R1682-1
 
 
 ###### Article R1651-4
@@ -39119,8 +39712,8 @@ VIII du présent livre :
 1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37, R. 1332-38, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à R. 1336-38, R. 1337-1 à R.
-1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à
+R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -39130,7 +39723,7 @@ VIII du présent livre :
 
 	**Modifié par**:
 
-	  - Décret n°2010-902 du 3 août 2010 - art. 8
+	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
 
 	**Cite**:
 
@@ -39141,6 +39734,7 @@ VIII du présent livre :
 	  - Code de la défense. - art. R1322-1
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
+	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1333-1
 	  - Code de la défense. - art. R1333-70
@@ -39445,7 +40039,8 @@ VIII du présent livre :
 1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6 ; R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37 à R. 1332-38, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
+1332-37 à R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1
+à R. 1338-5 ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -39463,17 +40058,19 @@ VIII du présent livre :
 	  - Code de la défense. - art. R1322-1
 	  - Code de la défense. - art. R1332-1
 	  - Code de la défense. - art. R1332-37
+	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1337-1
 	  - Code de la défense. - art. R1337-18
 	  - Code de la défense. - art. R1338-1
 	  - Code de la défense. - art. R1511-2
 	  - Code de la défense. - art. R1671-4
+	  - Code de la défense. - art. R1681-1 (V)
 	  - Code de la défense. - art. R1682-1
 
 	**Modifié par**:
 
-	  - Décret n°2010-902 du 3 août 2010 - art. 8
+	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
 
 
 ###### Article R1671-4
@@ -45668,6 +46265,133 @@ R. 217-10 du code de l'environnement.
 
 
 #### TITRE II : SECURITE DES SYSTEMES D'INFORMATION
+
+##### Chapitre Ier : Responsabilités
+
+##### Section 1 : Autorité nationale de sécurité des systèmes d'information
+
+###### Article R2321-1
+
+L'autorité nationale de sécurité des systèmes d'information mentionnée à l'article L. 2321-1 est l'Agence nationale de la
+sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2321-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+##### Section 2 : Habilitation et assermentation
+
+###### Article R2321-2
+
+L'habilitation prévue à l'article L. 2321-3 est accordée, de manière individuelle, par décision du Premier ministre à des
+agents de l'Agence nationale de la sécurité des systèmes d'information. 
+
+Nul ne peut être habilité s'il n'a fait l'objet d'une enquête administrative conformément à l'article L. 114-1 du code de la
+sécurité intérieure. Si besoin, l'enquête administrative peut être reconduite pendant la période d'habilitation de l'agent.
+Toutefois, l'enquête administrative n'est pas requise lorsque l'agent est déjà titulaire de l'habilitation prévue à l'article
+R. 2311-7. 
+
+L'habilitation peut être retirée à tout moment par décision du Premier ministre. Elle prend fin lorsque son titulaire
+n'exerce plus les fonctions à raison desquelles il a été habilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2321-3
+	  - Code de la défense. - art. R2311-7
+	  - Code de la sécurité intérieure - art. L114-1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R114-2 (V)
+
+
+###### Article R2321-3
+
+Pour accomplir leur mission prévue à l'article L. 2321-3, les agents habilités de l'Agence nationale de la sécurité des
+systèmes d'information présentent une commission d'emploi aux opérateurs de communications électroniques. La commission
+d'emploi mentionne la décision d'habilitation de l'agent. 
+
+Tout agent qui n'est plus habilité remet sans délai sa commission d'emploi à l'Agence nationale de la sécurité des systèmes
+d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2321-3
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2321-4 (V)
+
+
+###### Article R2321-4
+
+Les agents habilités de l'Agence nationale de la sécurité des systèmes d'information prêtent devant le tribunal de grande
+instance dans le ressort duquel ils exercent leurs fonctions le serment suivant : " Je jure de bien et fidèlement remplir la
+mission pour laquelle je suis habilité et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion
+de son exercice. " 
+
+La prestation de serment est enregistrée sans frais au greffe du tribunal. L'acte de ce serment est dispensé de timbre et
+d'enregistrement. Le greffier du tribunal transcrit gratuitement l'acte de ce serment sur la commission d'emploi mentionnée à
+l'article R. 2321-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2321-3
+
+
+###### Article R2321-5
+
+Les agents habilités de l'Agence nationale de la sécurité des systèmes d'information veillent à la protection des
+informations à caractère secret qui sont recueillies dans le cadre de leur mission prévue à l'article L. 2321-3 et dont la
+révélation est réprimée par les dispositions de l'article 226-13 du code pénal. 
+
+La transmission des informations mentionnées à l'article L. 2321-3 par les opérateurs de communications électroniques aux
+agents habilités de l'Agence nationale de la sécurité des systèmes d'information est effectuée selon des modalités assurant
+la sécurité, l'intégrité et le suivi de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-349 du 27 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code de la défense. - art. L2321-3
+
 
 ##### Chapitre II : Cryptologie
 
@@ -54782,32 +55506,33 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
-2363-7.
+3° Au livre III, 
+
+les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R.
+2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-737 du 28 juin 2011 - art. 5
+	  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 	**Cite**:
 
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1 (V)
-	  - Code de la défense. - art. R2211-1 (V)
-	  - Code de la défense. - art. R2234-101 (V)
-	  - Code de la défense. - art. R2311-1 (V)
-	  - Code de la défense. - art. R2322-1 (V)
-	  - Code de la défense. - art. R2342-109 (V)
-	  - Code de la défense. - art. R2342-110 (V)
-	  - Code de la défense. - art. R2342-112 (V)
-	  - Code de la défense. - art. R2342-3 (V)
-	  - Code de la défense. - art. R2343-1 (V)
-	  - Code de la défense. - art. R2352-1 (V)
-	  - Code de la défense. - art. R2352-8 (V)
-	  - Code de la défense. - art. R2363-1 (V)
+	  - Code de la défense. - art. R2151-1
+	  - Code de la défense. - art. R2211-1
+	  - Code de la défense. - art. R2234-101
+	  - Code de la défense. - art. R2311-1
+	  - Code de la défense. - art. R2322-1
+	  - Code de la défense. - art. R2342-109
+	  - Code de la défense. - art. R2342-110
+	  - Code de la défense. - art. R2342-112
+	  - Code de la défense. - art. R2342-3
+	  - Code de la défense. - art. R2343-1
+	  - Code de la défense. - art. R2352-1
+	  - Code de la défense. - art. R2352-8
+	  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2441-5
@@ -54915,14 +55640,16 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2313-1, R. 2313-4 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R.
-2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articles R. 2311-1 à R. 2313-1,
+
+R. 2313-4, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R.
+2343-1 à R. 2344-1, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-737 du 28 juin 2011 - art. 5
+	  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 	**Cité par**:
 
@@ -54932,18 +55659,18 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1 (V)
-	  - Code de la défense. - art. R2211-1 (V)
-	  - Code de la défense. - art. R2234-101 (V)
-	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2151-1
+	  - Code de la défense. - art. R2211-1
+	  - Code de la défense. - art. R2234-101
+	  - Code de la défense. - art. R2311-1
 	  - Code de la défense. - art. R2313-4
 	  - Code de la défense. - art. R2322-1
-	  - Code de la défense. - art. R2342-109 (V)
-	  - Code de la défense. - art. R2342-112 (V)
-	  - Code de la défense. - art. R2342-3 (V)
-	  - Code de la défense. - art. R2343-1 (V)
-	  - Code de la défense. - art. R2353-2 (V)
-	  - Code de la défense. - art. R2363-1 (V)
+	  - Code de la défense. - art. R2342-109
+	  - Code de la défense. - art. R2342-112
+	  - Code de la défense. - art. R2342-3
+	  - Code de la défense. - art. R2343-1
+	  - Code de la défense. - art. R2353-2
+	  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2451-5
@@ -55046,15 +55773,16 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
-2363-7.
+3° Au livre III, 
+
+les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R.
+2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-737 du 28 juin 2011 - art. 5
+	  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 	**Cité par**:
 
@@ -55064,18 +55792,18 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1 (V)
-	  - Code de la défense. - art. R2211-1 (V)
-	  - Code de la défense. - art. R2234-101 (V)
-	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2151-1
+	  - Code de la défense. - art. R2211-1
+	  - Code de la défense. - art. R2234-101
+	  - Code de la défense. - art. R2311-1
 	  - Code de la défense. - art. R2322-1
-	  - Code de la défense. - art. R2342-109 (V)
-	  - Code de la défense. - art. R2342-112 (V)
-	  - Code de la défense. - art. R2342-3 (V)
-	  - Code de la défense. - art. R2343-1 (V)
-	  - Code de la défense. - art. R2352-1 (V)
-	  - Code de la défense. - art. R2352-8 (V)
-	  - Code de la défense. - art. R2363-1 (V)
+	  - Code de la défense. - art. R2342-109
+	  - Code de la défense. - art. R2342-112
+	  - Code de la défense. - art. R2342-3
+	  - Code de la défense. - art. R2343-1
+	  - Code de la défense. - art. R2352-1
+	  - Code de la défense. - art. R2352-8
+	  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2461-3
@@ -55203,9 +55931,10 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2313-1 et R. 2322-1, les articles R. 2342-3 à R. 2342-35, R. 2342-109, R.
-2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
-2363-7.
+3° Au livre III, 
+
+les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R.
+2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
@@ -55214,22 +55943,22 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1 (V)
-	  - Code de la défense. - art. R2211-1 (V)
-	  - Code de la défense. - art. R2234-101 (V)
-	  - Code de la défense. - art. R2311-1 (V)
+	  - Code de la défense. - art. R2151-1
+	  - Code de la défense. - art. R2211-1
+	  - Code de la défense. - art. R2234-101
+	  - Code de la défense. - art. R2311-1
 	  - Code de la défense. - art. R2322-1
-	  - Code de la défense. - art. R2342-109 (V)
-	  - Code de la défense. - art. R2342-112 (V)
-	  - Code de la défense. - art. R2342-3 (V)
-	  - Code de la défense. - art. R2343-1 (V)
-	  - Code de la défense. - art. R2352-1 (V)
-	  - Code de la défense. - art. R2352-8 (V)
-	  - Code de la défense. - art. R2363-1 (V)
+	  - Code de la défense. - art. R2342-109
+	  - Code de la défense. - art. R2342-112
+	  - Code de la défense. - art. R2342-3
+	  - Code de la défense. - art. R2343-1
+	  - Code de la défense. - art. R2352-1
+	  - Code de la défense. - art. R2352-8
+	  - Code de la défense. - art. R2363-1
 
 	**Modifié par**:
 
-	  - Décret n°2011-737 du 28 juin 2011 - art. 5
+	  - Décret n°2015-349 du 27 mars 2015 - art. 4
 
 
 ###### Article R2471-3

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-03-30
+Version Consolidée au 2015-04-02
 
 # Partie législative
 
@@ -58065,6 +58065,24 @@ dispositions des articles R. 4137-138 et R. 4137-139.
 	  - Code de la défense. - art. R4137-138 (V)
 
 
+##### Section 3 :  Médiateur militaire
+
+###### Article D3124-12
+
+Les inspecteurs généraux mentionnés aux articles D. 3124-1 et D. 3124-7 exercent, outre les attributions prévues au présent
+chapitre, la fonction de médiateur militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-368 du 30 mars 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3124-1
+
+
 ##### Chapitre V : Organismes d'enquêtes techniques
 
 ##### Section 1 : Dispositions générales
@@ -74116,17 +74134,19 @@ Tout militaire peut saisir les officiers généraux inspecteurs d'une question r
 conditions d'exécution du service ou à la vie en communauté. Les motifs de la demande d'audience n'ont pas à être fournis
 d'avance.
 
+Il peut en outre saisir le médiateur militaire, dans des conditions définies par le ministre de la défense.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 23 novembre 2009 - art. 5 (V)
 	  - Arrêté du 23 décembre 2011 - art. 3 (V)
 	  - Arrêté du 30 mars 2015 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-368 du 30 mars 2015 - art. 2
 
 
 ###### Article D4121-3

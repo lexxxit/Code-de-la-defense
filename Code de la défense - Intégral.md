@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-04-02
+Version Consolidée au 2015-05-09
 
 # Partie législative
 
@@ -41193,27 +41193,15 @@ L'ordre de mobilisation générale est diffusé par tout moyen de communication 
 
 ##### Chapitre unique
 
-##### Section 1 : Champ d'application du service de défense
+##### Section 1 : Obligations permanentes
 
 ###### Article R2151-1
 
-Le régime du service de défense s'applique : 
-
-1° Aux corps de l'Etat, aux directions et services de l'Etat et aux collectivités territoriales ainsi qu'aux organismes qui
-leur sont rattachés, appelés " les services " dans le présent titre ; 
-
-2° A des entreprises, établissements ou organismes appartenant aux catégories d'activités dont la liste est arrêtée par
-décret et appelés " les entreprises " dans le présent titre. 
-
-Les ministres ou leurs représentants déterminent par arrêté la liste des services mentionnés au 1° et la liste des
-entreprises relevant des catégories d'activités précisées par le décret prévu au 2° auxquels s'applique le régime du service
-de défense.
+Les employeurs mentionnés au deuxième alinéa de l'article L. 2151-1 mettent à jour les renseignements relatifs à l'identité
+et à la fonction de leur personnel susceptible d'être placé sous le régime du service de sécurité nationale. Ils tiennent ces
+renseignements à la disposition des hauts fonctionnaires de défense et de sécurité compétents.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
 
 	**Cité par**:
 
@@ -41227,96 +41215,113 @@ de défense.
 	  - Code de la défense. - art. R2461-2 (V)
 	  - Code de la défense. - art. R2471-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1
+
 
 ###### Article R2151-2
 
-Sont placés sous le régime du service de défense l'ensemble des personnels des services et entreprises mentionnés à l'article
-R. 2151-1, dès lors qu'ils sont soumis aux obligations du service de défense en application de l'article L. 2151-2.
+Les employeurs mentionnés au deuxième alinéa de l'article L. 2151-1 sont tenus d'informer les personnes désignées par leurs
+plans de continuité ou de rétablissement d'activité dès qu'elles ne sont plus susceptibles d'être placées sous le régime du
+service de sécurité nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2151-2 (V)
-	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. L2151-1
 
+
+##### Section 2 : Mise en œuvre du service de sécurité nationale
 
 ###### Article R2151-3
 
-Dans les services et entreprises auxquels s'applique le régime du service de défense, l'employeur est tenu de notifier aux
-membres du personnel soumis aux obligations du service de défense qu'ils sont placés sous le régime du service de défense,
-soit au moment de leur recrutement, soit au moment où le service ou l'entreprise concerné est avisé que le régime du service
-de défense lui est appliqué. 
-
-En cas de modification des listes prévues à l'article R. 2151-1, dans les services et entreprises auxquels ne s'applique plus
-le régime du service de défense, l'employeur notifie aux intéressés qu'ils ne sont plus placés sous le régime du service de
-défense.
+Le décret par lequel le recours au service de sécurité nationale est instauré peut en limiter la mise en œuvre à une partie
+du territoire ou au personnel de certains des employeurs mentionnés au deuxième alinéa de l'article L. 2151-1. Il en fixe
+également la durée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2151-1 (V)
+	  - Code de la défense. - art. L2151-1
 
 
 ###### Article R2151-4
 
-Les personnes placées sous le régime du service de défense sont tenues de faire connaître aux chefs des services ou
-entreprises dont ils dépendent leur situation vis-à-vis de la réserve opérationnelle, ainsi que tout changement intervenant
-dans cette situation.
+Les ministres coordonnateurs compétents, tels que définis à l'article R. 1332-2, notifient le recours au service de sécurité
+nationale aux employeurs concernés. Ceux-ci en informent sans délai leurs employés placés sous le régime du service de
+sécurité nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1332-2
 
 
 ###### Article R2151-5
 
-Les autorités responsables des services et entreprises auxquels s'applique le régime du service de défense tiennent à jour
-les renseignements relatifs à l'identité et à la fonction de leur personnel placé sous ce régime. 
-
-Ces renseignements sont tenus en permanence à la disposition des hauts fonctionnaires de défense compétents et des agents de
-l'Etat chargés, par délégation du ministre, de l'assister dans le contrôle des affectations. 
-
-Ces renseignements sont conservés et tenus à la disposition des agents mentionnés à l'alinéa précédent dans les conditions
-prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+Les personnes placées sous le régime du service de sécurité nationale sont tenues de rejoindre leur emploi habituel dans un
+délai maximum de trois jours à compter de leur information.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Loi n°78-17 du 6 janvier 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
 
 
-##### Section 2 : Mise en oeuvre du service de défense
+###### Article R2151-6
 
-###### Article R*2151-7
-
-Le décret en conseil des ministres prévu au troisième alinéa de l'article L. 2151-1 peut décider d'appliquer le service de
-défense à des services et à des entreprises ne figurant pas sur les listes établies par les arrêtés mentionnés à l'article R.
-2151-1, et de maintenir dans leur emploi, quel qu'il soit, les personnels de ces services et de ces entreprises qui sont
-soumis aux obligations du service de défense s'ils n'ont pas à répondre à une affectation militaire. Cette mesure entraîne
-l'affectation collective de défense de ces personnels pour toute la durée de la mise en œuvre du service de défense.
+Les ministres coordonnateurs compétents informent les employeurs concernés de la fin de la mise en œuvre du service de
+sécurité nationale. Les employeurs en informent les personnels placés sous le régime du service de sécurité nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2151-1
+
+
+##### Section 3 : Dispositions pénales
+
+###### Article R2151-7
+
+Est puni de l'amende prévue pour les contraventions de 5e classe le fait de faire obstacle à l'accomplissement des
+obligations imposées par les articles L. 2151-3 et L. 2151-4 et par le présent titre. 
+
+Est puni de la même amende le fait de faire obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
+tendant à assurer l'exécution ou le contrôle des obligations mentionnées à l'alinéa précédent. 
+
+La récidive des contraventions prévues aux alinéas précédents est réprimée conformément à l'article 132-11 du code pénal.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -41326,195 +41331,20 @@ l'affectation collective de défense de ces personnels pour toute la durée de l
 	  - Code de la défense. - art. R*2461-1 (V)
 	  - Code de la défense. - art. R*2471-1 (V)
 
-	**Cite**:
-
-	  - Code de la défense. - art. L2151-1 (V)
-	  - Code de la défense. - art. R2151-1 (V)
-
-
-###### Article R2151-6
-
-Le décret par lequel le service de défense est décidé, en application de l'article L. 2151-1, peut limiter la mise en œuvre
-du service de défense à une partie du territoire ou à certaines catégories d'activités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2151-1 (V)
-
-
-###### Article R2151-8
-
-Les ministres de tutelle ou de rattachement, ou les autorités désignées par ceux-ci, notifient la mise en œuvre du service de
-défense aux services et entreprises concernés.
-
-Dans les services et entreprises ainsi identifiés, les personnes placées sous le régime du service de défense deviennent,
-lors de la mise en œuvre de celui-ci, affectés collectifs de défense.
-
-Les personnes faisant l'objet d'une affectation collective de défense en sont avisées collectivement et individuellement par
-leur employeur.
-
-Les employeurs communiquent la liste des affectés collectifs de défense de leur service ou de leur entreprise aux autorités
-mentionnées au premier alinéa du présent article au jour de cette notification.
-
-La fin de la mise en œuvre du service de défense est notifiée aux employeurs concernés par leur ministre de tutelle ou de
-rattachement ou par les autorités désignées par celui-ci.
-
-Les employeurs en avisent collectivement et individuellement leurs personnels.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-
-###### Article R2151-9
-
-L'affectation collective de défense cesse de plein droit et sans préavis lorsque les personnes soumises aux obligations du
-service de défense font l'objet d'un rappel dans la réserve militaire pour les besoins des forces armées et pour la durée de
-ce rappel.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-
-##### Section 3 : Situation des personnes faisant l'objet, en cas de mise en oeuvre du service de défense, d'une affectation collective de défense
-
-###### Article R2151-10
-
-La législation propre à l'emploi d'affectation est applicable aux personnes faisant l'objet d'une affectation collective de
-défense, sous réserve des dispositions des articles L. 2151-1 à L. 2151-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2151-1
-
-
-###### Article R2151-11
-
-Pendant la durée de la mise en œuvre du service de défense, les services et entreprises auxquels s'applique le service de
-défense sont tenus, conformément aux articles L. 2151-1 et L. 2151-4, d'assurer la continuité de leur activité et de
-maintenir à leur poste les personnels affectés collectifs de défense. 
-
-Toutefois, le ministre dont dépend le service ou l'entreprise concerné peut autoriser une personne faisant l'objet d'une
-affectation collective de défense à occuper un emploi dans un autre service ou une autre entreprise, à condition que cela
-n'affecte pas la continuité de l'action de ce service ou de cette entreprise.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2151-1
-	  - Code de la défense. - art. L2151-4
-
-
-###### Article R2151-12
-
-Toute personne qui, étant soumise aux obligations du service de défense, est recrutée par un service ou une entreprise dont
-le personnel fait l'objet d'une affectation collective de défense est préalablement informée de cette affectation et est
-placée dans la position d'affecté collectif de défense au moment où elle rejoint son emploi.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-
-###### Article R2151-13
-
-Sous réserve des mesures qui peuvent être prises dans les circonstances prévues à l'article L. 1111-2 en ce qui concerne les
-rémunérations de toute nature, les affectés collectifs de défense perçoivent : 
-
-1° Dans les emplois publics existants, les rémunérations prévues par les textes en vigueur, afférents au grade dont ils sont
-titulaires ou à l'emploi auquel ils sont affectés ; 
-
-2° Dans les autres emplois, les rémunérations en vigueur suivant les dispositions qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-508 du 7 mai 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-2
-
-
-##### Section 4 : Dispositions pénales
-
-###### Article R2151-14
-
-Le fait de mettre obstacle à l'accomplissement des obligations imposées par les articles L. 2151-1 à L. 2151-6, par le livre
-II de la quatrième partie du présent code et par le présent titre, ou de ne pas se conformer à ces obligations est puni d'une
-amende prévue pour les contraventions de la 5e classe, sans préjudice, le cas échéant, de l'application de toute autre peine
-prévue aux articles L. 4271-1 à L. 4271-5. 
-
-Est puni de la même amende le fait de mettre obstacle à l'accomplissement, par un agent de l'autorité publique, des fonctions
-tendant à assurer l'exécution ou le contrôle des obligations mentionnées à l'alinéa précédent. 
-
-La récidive est réprimée conformément à l'article 132-11 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-254 du 4 mars 2009 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2015-508 du 7 mai 2015 - art. 1
 
 	**Cite**:
 
 	  - Code pénal - art. 132-11
-	  - Code de la défense. - art. L2151-1
-	  - Code de la défense. - art. L4271-1
+	  - Code de la défense. - art. L2151-3
+	  - Code de la défense. - art. L2151-4
 
+
+#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
+
+##### Chapitre unique
 
 #### TITRE VI : SUJETIONS RESULTANT DES MANŒUVRES  ET EXERCICES
 
@@ -41733,6 +41563,96 @@ interdits par les consignes des champs de tir, d'y laisser séjourner ou d'y fai
 	**Créé par**:
 
 	  - Décret n°2009-254 du 4 mars 2009 - art.
+
+
+#### TITRE VII : DISPOSITIF DE RÉSERVE DE SÉCURITÉ NATIONALE
+
+##### Chapitre unique
+
+###### Article R2171-1
+
+En cas de persistance des conditions ayant nécessité le recours au dispositif de réserve de sécurité nationale au-delà de la
+durée d'emploi des réservistes initialement prévue, le Premier ministre peut, par décret, proroger cette durée d'emploi de
+trente jours consécutifs renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (V)
+	  - Code de la défense. - art. R2451-2 (V)
+	  - Code de la défense. - art. R2461-2 (V)
+	  - Code de la défense. - art. R2471-2 (V)
+
+
+###### Article R2171-2
+
+Chaque période d'emploi réalisée au titre du dispositif de réserve de sécurité nationale fait l'objet d'une convocation
+adressée par tout moyen écrit au réserviste par l'autorité civile ou militaire dont il relève au titre de son engagement ou
+de son obligation de disponibilité. 
+
+La convocation mentionne : 
+
+1° La référence du décret par lequel le Premier ministre a décidé de recourir au dispositif de réserve de sécurité
+nationale ; 
+
+2° La nature et la durée envisagées de l'activité pour laquelle le réserviste est convoqué ; 
+
+3° La date à laquelle le réserviste doit rejoindre son lieu d'affectation. Un délai minimal de préavis d'un jour franc, à
+compter de la date de réception de la convocation, doit être respecté. 
+
+Une copie de la convocation est adressée à l'employeur du réserviste.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 2
+
+
+###### Article R2171-3
+
+L'employeur qui, conformément aux dispositions du deuxième alinéa de l'article L. 2171-6, souhaite qu'un employé soit dégagé
+de ses obligations au titre du dispositif de réserve de sécurité nationale en fait la demande, par tout moyen écrit, à
+l'autorité civile ou militaire dont relève le réserviste au titre de son engagement ou de son obligation de disponibilité. Il
+doit justifier du caractère indispensable à la poursuite de la production de biens ou de services ou à la continuité d'un
+service public de la présence de son employé à son poste de travail. 
+
+Une telle demande ne peut être faite que pour le personnel visé par un plan de continuité ou de rétablissement d'activité.
+Elle suspend l'exécution de la convocation du réserviste. 
+
+L'autorité civile ou militaire informe l'employeur et le réserviste de sa décision par tout moyen écrit. En cas de refus, la
+décision précise la date à laquelle le réserviste doit rejoindre son affectation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2171-6
+
+
+###### Article R2171-4
+
+Les personnes appelées au titre du dispositif de réserve de sécurité nationale sont dégagées de leurs obligations à ce titre
+dès lors qu'elles sont placées sous le régime du service de sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-508 du 7 mai 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2441-2 (M)
 
 
 ### LIVRE II : REQUISITIONS
@@ -55478,57 +55398,54 @@ D. 2344-2, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 ###### Article R*2441-1
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+Sont applicables dans les îles Wallis et Futuna, sous réserve des  adaptations prévues au titre IX : 
 
-1° Au livre Ier, l'article R. * 2151-7 ; 
+1° Supprimé 
 
 2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*2151-7 (V)
-	  - Code de la défense. - art. R*2211-2 (V)
-	  - Code de la défense. - art. R*2213-16 (V)
-	  - Code de la défense. - art. R*2234-95 (V)
+	  - Code de la défense. - art. R*2151-7
+	  - Code de la défense. - art. R*2211-2
+	  - Code de la défense. - art. R*2213-16
+	  - Code de la défense. - art. R*2234-95
 
 
 ###### Article R2441-2
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
 
-1° Au livre Ier, les articles R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+1° Au livre Ier, les articles R. 2141-1, R. 2151-1 à R. 2171-4 ; 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, 
-
-les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R.
-2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109,
+R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
+2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cite**:
 
 	  - Code de la défense. - art. R2141-1
 	  - Code de la défense. - art. R2151-1
+	  - Code de la défense. - art. R2171-4
 	  - Code de la défense. - art. R2211-1
 	  - Code de la défense. - art. R2234-101
-	  - Code de la défense. - art. R2311-1
-	  - Code de la défense. - art. R2322-1
 	  - Code de la défense. - art. R2342-109
 	  - Code de la défense. - art. R2342-110
 	  - Code de la défense. - art. R2342-112
-	  - Code de la défense. - art. R2342-3
 	  - Code de la défense. - art. R2343-1
 	  - Code de la défense. - art. R2352-1
 	  - Code de la défense. - art. R2352-8
@@ -55612,44 +55529,42 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 ###### Article R*2451-1
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+Sont applicables en Polynésie française, sous réserve des  adaptations prévues au titre IX : 
 
-1° Au livre Ier, l'article R. * 2151-7 ; 
+1° Supprimé 
 
 2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*2151-7 (V)
-	  - Code de la défense. - art. R*2211-2 (V)
-	  - Code de la défense. - art. R*2213-16 (V)
-	  - Code de la défense. - art. R*2234-95 (V)
+	  - Code de la défense. - art. R*2151-7
+	  - Code de la défense. - art. R*2211-2
+	  - Code de la défense. - art. R*2213-16
+	  - Code de la défense. - art. R*2234-95
 
 
 ###### Article R2451-2
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+Sont applicables en Polynésie française, sous réserve des  adaptations prévues au titre IX : 
 
-1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2171-4 ; 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, les articles R. 2311-1 à R. 2313-1,
-
-R. 2313-4, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R.
-2343-1 à R. 2344-1, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articles R. 2311-1 à R. 2313-1, R. 2313-4, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R.
+2342-109, R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2353-2 à R. 2362-1, R. 2363-1 à R. 2363-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cité par**:
 
@@ -55659,12 +55574,9 @@ R. 2313-4, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-1
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
 	  - Code de la défense. - art. R2211-1
 	  - Code de la défense. - art. R2234-101
 	  - Code de la défense. - art. R2311-1
-	  - Code de la défense. - art. R2313-4
-	  - Code de la défense. - art. R2322-1
 	  - Code de la défense. - art. R2342-109
 	  - Code de la défense. - art. R2342-112
 	  - Code de la défense. - art. R2342-3
@@ -55745,31 +55657,31 @@ D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
 
 ###### Article R*2461-1
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+Sont applicables en Nouvelle-Calédonie, sous réserve des  adaptations prévues au titre IX : 
 
-1° Au livre Ier, l'article R. * 2151-7 ; 
+1° Supprimé 
 
 2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*2151-7 (V)
-	  - Code de la défense. - art. R*2211-2 (V)
-	  - Code de la défense. - art. R*2213-16 (V)
-	  - Code de la défense. - art. R*2234-95 (V)
+	  - Code de la défense. - art. R*2151-7
+	  - Code de la défense. - art. R*2211-2
+	  - Code de la défense. - art. R*2213-16
+	  - Code de la défense. - art. R*2234-95
 
 
 ###### Article R2461-2
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
 
-1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2171-4 ; 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
@@ -55782,7 +55694,7 @@ les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cité par**:
 
@@ -55792,7 +55704,6 @@ les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-
 
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
 	  - Code de la défense. - art. R2211-1
 	  - Code de la défense. - art. R2234-101
 	  - Code de la défense. - art. R2311-1
@@ -55901,25 +55812,25 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 ###### Article R*2471-1
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
 
-1° Au livre Ier, l'article R. * 2151-7 ; 
+1° Supprimé 
 
 2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-253 du 4 mars 2009 - art.
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*2151-7 (V)
-	  - Code de la défense. - art. R*2211-2 (V)
-	  - Code de la défense. - art. R*2213-16 (V)
-	  - Code de la défense. - art. R*2234-95 (V)
+	  - Code de la défense. - art. R*2151-7
+	  - Code de la défense. - art. R*2211-2
+	  - Code de la défense. - art. R*2213-16
+	  - Code de la défense. - art. R*2234-95
 
 
 ###### Article R2471-2
@@ -55927,14 +55838,13 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
 
-1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2161-10 ; 
+1° Au livre Ier, les articles R. 2112-1, R. 2141-1, R. 2151-1 à R. 2171-4 ; 
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ; 
 
-3° Au livre III, 
-
-les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109, R. 2342-110, R.
-2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R. 2363-7.
+3° Au livre III, les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-3 à R. 2342-35, R. 2342-109,
+R. 2342-110, R. 2342-112 à R. 2342-120, R. 2343-1 à R. 2344-1, R. 2352-1 à R. 2352-6, R. 2352-8 à R. 2362-1, R. 2363-1 à R.
+2363-7.
 
 **Liens relatifs à cet article**
 
@@ -55943,14 +55853,11 @@ les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Code de la défense. - art. R2112-1
 	  - Code de la défense. - art. R2141-1
-	  - Code de la défense. - art. R2151-1
 	  - Code de la défense. - art. R2211-1
 	  - Code de la défense. - art. R2234-101
 	  - Code de la défense. - art. R2311-1
-	  - Code de la défense. - art. R2322-1
 	  - Code de la défense. - art. R2342-109
 	  - Code de la défense. - art. R2342-112
-	  - Code de la défense. - art. R2342-3
 	  - Code de la défense. - art. R2343-1
 	  - Code de la défense. - art. R2352-1
 	  - Code de la défense. - art. R2352-8
@@ -55958,7 +55865,7 @@ les articles R. 2311-1 à R. 2313-1, R. 2321-1 à R. 2321-5, R. 2322-1, R. 2342-
 
 	**Modifié par**:
 
-	  - Décret n°2015-349 du 27 mars 2015 - art. 4
+	  - Décret n°2015-508 du 7 mai 2015 - art. 3
 
 
 ###### Article R2471-3

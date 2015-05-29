@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-05-09
+Version Consolidée au 2015-05-30
 
 # Partie législative
 
@@ -41189,7 +41189,7 @@ L'ordre de mobilisation générale est diffusé par tout moyen de communication 
 	  - Code de la défense. - art. R2471-2 (V)
 
 
-#### TITRE V : SERVICE DE DEFENSE
+#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
 
 ##### Chapitre unique
 
@@ -41341,10 +41341,6 @@ La récidive des contraventions prévues aux alinéas précédents est réprimé
 	  - Code de la défense. - art. L2151-3
 	  - Code de la défense. - art. L2151-4
 
-
-#### TITRE V : SERVICE DE SÉCURITÉ NATIONALE
-
-##### Chapitre unique
 
 #### TITRE VI : SUJETIONS RESULTANT DES MANŒUVRES  ET EXERCICES
 
@@ -82308,12 +82304,15 @@ Les bénéfices de campagne attachés à l'embarquement ou au territoire sur leq
 pendant la durée du congé de fin de campagne. 
 
 Les congés de maladie, pour maternité, pour paternité ou pour adoption et les congés d'accompagnement d'une personne en fin
-de vie prévus à l'article L. 4138-6, accordés au cours d'un congé de fin de campagne, en interrompent le
-déroulement.L'intéressé conserve le droit à la fraction de congé de fin de campagne dont il n'a pas bénéficié. 
+de vie prévus à l'article L. 4138-6, accordés au cours d'un congé de fin de campagne, en interrompent le déroulement.
+L'intéressé conserve le droit à la fraction de congé de fin de campagne dont il n'a pas bénéficié. 
 
 Lorsque les nécessités de service l'exigent, le ministre de la défense, le ministre de l'intérieur pour les militaires de la
 gendarmerie nationale exerçant des missions de sécurité intérieure, ou l'autorité militaire peut rappeler le militaire en
-congé de fin de campagne, le droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu.
+congé de fin de campagne, le droit au bénéfice de la fraction restante du congé de fin de campagne étant maintenu. 
+
+Le don de jours de congés de fin de campagne autorisé par l'article R. 4138-33-1 est sans incidence sur les bonifications
+attachées au territoire ou à l'embarquement.
 
 **Liens relatifs à cet article**
 
@@ -82330,13 +82329,14 @@ congé de fin de campagne, le droit au bénéfice de la fraction restante du con
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 25
+	  - Décret n°2015-573 du 28 mai 2015 - art. 2
 
 	**Cite**:
 
 	  - Code de la défense. - art. L4138-5
 	  - Code de la défense. - art. L4138-6
 	  - Code de la défense. - art. R4138-19
+	  - Code de la défense. - art. R4138-33-1
 
 
 #####  Sous-section 7 : Congé de reconversion
@@ -82616,6 +82616,106 @@ l'intérieur pour les militaires de la gendarmerie nationale.
 	**Cite**:
 
 	  - Code de la défense. - art. L4138-2
+
+
+##### Sous-section 9 : Don de jours de permissions au titre d'un enfant gravement malade
+
+###### Article R4138-33-1
+
+Le militaire peut, sur sa demande, renoncer anonymement et sans contrepartie à une partie de ses permissions non prises au
+bénéfice d'un agent public relevant du même employeur, ou de tout autre militaire qui assume la charge d'un enfant âgé de
+moins de vingt ans atteint d'une maladie, d'un handicap ou victime d'un accident d'une particulière gravité rendant
+indispensables une présence soutenue et des soins contraignants. 
+
+L'employeur mentionné au précédent alinéa s'entend : 
+
+1° Pour l'Etat de chaque département ministériel regroupant l'ensemble des services relevant d'un même secrétariat général de
+ministère ; 
+
+2° De chaque collectivité territoriale ; 
+
+3° De chaque établissement public quel que soit son statut juridique ; 
+
+4° De chaque autorité administrative indépendante ; 
+
+5° De toute autre personne morale de droit public ; 
+
+6° De toute personne morale de droit privé à laquelle sont rattachés des corps de fonctionnaires. 
+
+Les jours de permissions qui peuvent faire l'objet d'un don sont les jours de permissions de longue durée et ceux liés aux
+congés de fin de campagne. 
+
+Les jours de permissions ne peuvent être donnés qu'au-delà du 36e jour pour les militaires régis par l'article R. 4138-19 et
+du 21e jour pour ceux régis par l'article R. 4138-21. 
+
+Les militaires régis par l'article R. 4138-20 ne peuvent pas donner de jours de permissions durant la première année de
+service. 
+
+Les jours de permissions dont le report est autorisé par le deuxième alinéa de l'article R. 4138-19 et les jours de congés de
+fin de campagne peuvent être donnés en partie ou en totalité. 
+
+Le militaire ne peut donner que des jours de permissions entiers et dûment acquis. 
+
+Le militaire qui donne un ou plusieurs jours de permissions signifie par écrit, auprès du commandant de la formation
+administrative, le don et le nombre de jours de permissions afférents. Le don est définitif après accord du commandant de la
+formation administrative qui vérifie que les conditions fixées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-573 du 28 mai 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4138-19
+	  - Code de la défense. - art. R4138-20
+	  - Code de la défense. - art. R4138-21
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-27 (V)
+
+
+###### Article R4138-33-2
+
+Le militaire qui souhaite bénéficier d'un don de jours formule sa demande par écrit auprès du commandant de la formation
+administrative. Cette demande est accompagnée d'un certificat médical détaillé remis sous pli confidentiel établi par le
+médecin qui suit l'enfant au titre de la pathologie en cause et attestant la particulière gravité de la maladie, du handicap
+ou de l'accident rendant indispensables une présence soutenue et des soins contraignants auprès de l'enfant. 
+
+La durée du congé dont le militaire peut bénéficier est au maximum de trente jours renouvelables. Le congé pris au titre des
+jours donnés peut être fractionné à la demande du médecin qui suit l'enfant malade. 
+
+L'autorité compétente dispose de quinze jours ouvrables pour informer le militaire bénéficiaire du don de jours. 
+
+Le commandant de la formation administrative qui accorde le congé fait procéder aux vérifications nécessaires pour s'assurer
+que le bénéficiaire du congé respecte les conditions fixées au premier alinéa de l'article R. 4138-33-1 du présent code. 
+
+Si ces vérifications révèlent que les conditions ne sont pas satisfaites pour l'octroi du congé, il peut y être mis fin après
+que l'intéressé a été invité à présenter ses observations. 
+
+Le militaire bénéficiaire d'un ou plusieurs jours ainsi donnés reste en position d'activité et conserve sa rémunération
+pendant sa période d'absence conformément à l'article L. 4138-2. La durée de ce congé est assimilée à une période de service
+effectif pour tous les droits découlant de l'ancienneté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-573 du 28 mai 2015 - art. 1
+
+
+###### Article R4138-33-3
+
+La gestion du reliquat de jours donnés non consommés par le bénéficiaire du don est à la charge du commandant de la formation
+administrative du bénéficiaire du don.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-573 du 28 mai 2015 - art. 1
 
 
 #####  Section 2 : Détachement

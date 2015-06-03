@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-05-30
+Version Consolidée au 2015-06-04
 
 # Partie législative
 
@@ -2289,8 +2289,8 @@ indépendantes de la volonté de leur auteur, la peine est de sept ans d'empriso
 
 ###### Article L1333-13-7
 
-Les personnes physiques coupables de l'une des infractions prévues     au présent paragraphe encourent les peines
-complémentaires suivantes : 
+Les personnes physiques coupables de l'une des infractions prévues aux articles L. 1333-9 et L. 1333-11 à L. 1333-13-6
+encourent les peines complémentaires suivantes : 
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
 famille ; 
@@ -2318,7 +2318,7 @@ transport de ces matières ;
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
 
 	**Cite**:
 
@@ -2327,6 +2327,8 @@ transport de ces matières ;
 	  - Code pénal - art. 131-30
 	  - Code pénal - art. 131-31
 	  - Code pénal - art. 131-35
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-9
 
 	**Cité par**:
 
@@ -2335,8 +2337,8 @@ transport de ces matières ;
 
 ###### Article L1333-13-8
 
-Les personnes morales coupables de l'une des infractions prévues     au présent paragraphe encourent, outre l'amende suivant
-les modalités prévues par l'article 131-38 du même code, les peines suivantes : 
+Les personnes morales coupables de l'une des infractions prévues aux articles L. 1333-9 et L. 1333-11 à L. 1333-13-6
+encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du même code, les peines suivantes : 
 
 1° Dans les cas prévus par les articles L. 1333-9 et L. 1333-11, le premier alinéa de l'article L. 1333-13-2, les articles L.
 1333-13-3 à L. 1333-13-5 et le premier alinéa de l'article L. 1333-13-6 du présent code, les peines mentionnées à l'article
@@ -2352,19 +2354,20 @@ laquelle l'infraction a été commise.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
 
 	**Cite**:
 
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code de la défense. - art. L1333-11 (V)
-	  - Code de la défense. - art. L1333-12 (M)
+	  - Code de la défense. - art. L1333-11
+	  - Code de la défense. - art. L1333-12
 	  - Code de la défense. - art. L1333-13
-	  - Code de la défense. - art. L1333-13-2 (V)
-	  - Code de la défense. - art. L1333-13-3 (V)
-	  - Code de la défense. - art. L1333-13-6 (V)
-	  - Code de la défense. - art. L1333-9 (M)
+	  - Code de la défense. - art. L1333-13-1
+	  - Code de la défense. - art. L1333-13-2
+	  - Code de la défense. - art. L1333-13-3
+	  - Code de la défense. - art. L1333-13-6
+	  - Code de la défense. - art. L1333-9
 
 
 ###### Article L1333-13-9
@@ -2424,15 +2427,192 @@ Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables a
 	  - Code de la défense. - art. L1333-13-6
 
 
+###### Article L1333-13-12
+
+Est puni d'un emprisonnement d'un an et d'une amende de 15 000 € le fait de s'introduire, sans autorisation de l'autorité
+compétente, à l'intérieur des locaux et des terrains clos délimités pour assurer la protection des établissements ou des
+installations abritant des matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de
+dissuasion ou des matières nucléaires dont la détention est soumise à l'autorisation mentionnée à l'article L. 1333-2. 
+
+Le premier alinéa du présent article n'est pas applicable aux terrains et constructions affectés à l'autorité militaire ou
+placés sous son contrôle, mentionnés à l'article 413-5 du code pénal. 
+
+Les limites des locaux et des terrains clos mentionnés au même premier alinéa sont fixées dans des conditions prévues par
+décret. Elles sont rendues apparentes aux frais de la personne morale exploitant les établissements ou installations
+concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-1255 du 8 octobre 2015  (V)
+	  - Décret n°2015-1255 du 8 octobre 2015  - art. (V)
+	  - Code de la défense. - art. D1333-79 (V)
+	  - Code de la défense. - art. L1333-13-13 (V)
+	  - Code de la défense. - art. L1333-13-14 (V)
+	  - Code de la défense. - art. L1333-13-15 (V)
+	  - Code de la défense. - art. L1333-13-16 (V)
+	  - Code de la défense. - art. L1333-13-17 (V)
+	  - Code de la défense. - art. L1333-13-18 (V)
+	  - Code de la défense. - art. L1333-14 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 413-5
+	  - Code de la défense. - art. L1333-2
+
+
+###### Article L1333-13-13
+
+Le fait de provoquer, d'encourager ou d'inciter quiconque, de quelque manière que ce soit, à commettre l'infraction définie à
+l'article L. 1333-13-12, lorsque ce fait a été suivi d'effet, est puni des peines prévues pour cette infraction. 
+
+Lorsque les faits mentionnés au premier alinéa du présent article ne sont pas suivis d'effet en raison de circonstances
+indépendantes de la volonté de leur auteur, les peines sont de six mois d'emprisonnement et de 7 500 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-12
+
+
+###### Article L1333-13-14
+
+L'infraction définie à l'article L. 1333-13-12 est punie de trois ans d'emprisonnement et de 45 000 € d'amende : 
+
+1° Lorsqu'elle est commise en réunion ; 
+
+2° Lorsqu'elle est commise par une personne qui prend indûment la qualité d'une personne dépositaire de l'autorité publique
+ou chargée d'une mission de service public ; 
+
+3° Lorsqu'elle est précédée, accompagnée ou suivie d'un acte de destruction, de dégradation ou de détérioration. 
+
+Les peines sont portées à cinq ans d'emprisonnement et à 75 000 € d'amende lorsque les faits sont commis dans deux des
+circonstances prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-12
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L1333-13-16 (V)
+
+
+###### Article L1333-13-15
+
+L'infraction définie à l'article L. 1333-13-12 est punie de sept ans d'emprisonnement et de 100 000 € d'amende : 
+
+1° Lorsqu'elle est commise soit avec usage ou menace d'une arme, soit par une personne porteuse d'une arme soumise à
+autorisation, à déclaration ou à enregistrement ou dont le port est prohibé ; 
+
+2° Lorsqu'elle est commise en bande organisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-12
+
+
+###### Article L1333-13-16
+
+La tentative des délits prévus aux articles L. 1333-13-12, L. 1333-13-14 et L. 1333-13-15 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-13-12
+	  - Code de la défense. - art. L1333-13-14
+
+
+###### Article L1333-13-17
+
+Les personnes physiques coupables de l'une des infractions définies aux articles L. 1333-13-12 à L. 1333-13-15 encourent les
+peines complémentaires suivantes : 
+
+1° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+2° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ; 
+
+3° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ; 
+
+4° L'affichage et la diffusion de la décision prononcée, dans les conditions prévues à l'article 131-35 du code pénal ; 
+
+5° L'interdiction de séjour, prononcée dans les conditions prévues à l'article 131-31 du même code ; 
+
+6° L'interdiction du territoire français, prononcée dans les conditions prévues aux articles 131-30 à 131-30-2 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 131-30
+	  - Code pénal - art. 131-31
+	  - Code pénal - art. 131-35
+	  - Code de la défense. - art. L1333-13-12
+
+
+###### Article L1333-13-18
+
+Les personnes morales coupables de l'une des infractions définies aux articles L. 1333-13-12 à L. 1333-13-15 du présent code
+encourent, outre une amende calculée en application de l'article 131-38 du code pénal, les peines mentionnées aux 8° et 9° de
+l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code de la défense. - art. L1333-13-12 (V)
+
+
 ##### Paragraphe 3 : Dispositions applicables aux matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion
 
 ###### Article L1333-14
 
-Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées aux moyens
-nécessaires à la mise en œuvre de la politique de dissuasion. 
+Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables lorsque sont en cause des matières nucléaires
+affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion. 
 
-Les articles L. 1333-13-2 à L. 1333-13-11 sont également applicables aux matières nucléaires mentionnées au premier alinéa du
-présent article, mais seulement en ce qu'elles renvoient aux infractions prévues à l'article L. 1333-9.
+Les articles L. 1333-13-2 à L. 1333-13-11 sont également applicables lorsque sont en cause des matières nucléaires
+mentionnées au premier alinéa du présent article, mais seulement en ce qu'ils renvoient aux infractions prévues à l'article
+L. 1333-9. 
+
+Dans les limites qu'ils fixent, les articles L. 1333-13-12 à L. 1333-13-18 sont également applicables lorsque sont en cause
+des matières nucléaires mentionnées au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -2441,13 +2621,14 @@ présent article, mais seulement en ce qu'elles renvoient aux infractions prévu
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+	  - Loi n°2015-588 du 2 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-10 (M)
+	  - Code de la défense. - art. L1333-10
+	  - Code de la défense. - art. L1333-13-12
 	  - Code de la défense. - art. L1333-13-2
 	  - Code de la défense. - art. L1333-9
 

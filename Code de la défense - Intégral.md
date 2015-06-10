@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-06-04
+Version Consolidée au 2015-06-11
 
 # Partie législative
 
@@ -83165,36 +83165,50 @@ pensions civiles et militaires de retraite.
 
 Sauf accord international contraire, le détachement d'un militaire dans une administration ou un organisme implanté sur le
 territoire d'un Etat étranger ou auprès d'un organisme international n'implique pas obligatoirement l'affiliation de
-l'intéressé, pendant la période de détachement, au code des pensions civiles et militaires de retraite.
+l'intéressé, pendant la période de détachement, au code des pensions civiles et militaires de retraite. 
 
 L'intéressé peut demander, même s'il est affilié au régime de retraite dont relève la fonction de détachement, à cotiser au
-régime du code des pensions civiles et militaires de retraite. Dans ce cas, le montant de la pension acquise au titre de ce
-dernier, ajouté au montant de la pension éventuellement acquise au titre des services accomplis en détachement, ne peut être
-supérieur à la pension qu'il aurait acquise en l'absence de détachement. La pension du code des pensions civiles et
-militaires de retraite est, le cas échéant, réduite à concurrence du montant de la pension acquise lors de ce détachement.
+régime du code des pensions civiles et militaires de retraite. 
+
+Le cas échéant, il peut cumuler le montant de la pension acquise au titre de ce régime et le montant de la pension
+éventuellement acquise au titre des services accomplis en détachement, dans les conditions prévues à l'article L. 87 du code
+des pensions civiles et militaires de retraite. 
+
+Lorsqu'il remplit les conditions pour bénéficier d'une pension au titre du régime dont relève la fonction de détachement, il
+peut demander le remboursement des cotisations versées durant la période de détachement en application du deuxième alinéa,
+selon les modalités prévues à l'article R. 74-1-1 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-640 du 8 juin 2015 - art. 3
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite
+	  - Code des pensions civiles et militaires de retraite - art. R74-1-1
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
 
 
 ###### Article R4138-43
 
-Le militaire supporte, dans les cas et conditions prévus par la réglementation en vigueur, la retenue prévue à l'article L.
-61 du code des pensions civiles et militaires de retraite sur la solde afférente à son grade et à son échelon dans
-l'administration dont il est détaché.
+Le militaire supporte, dans les cas et conditions prévus par la réglementation en vigueur,         la cotisation prévue au 2°
+de l'article L. 61 du code des pensions civiles et militaires de retraite sur la solde afférente à son grade et à son échelon
+dans l'administration dont il est détaché.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-640 du 8 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L61 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L61
 
 
 ###### Article R4138-44

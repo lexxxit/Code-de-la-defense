@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-06-11
+Version Consolidée au 2015-06-21
 
 # Partie législative
 
@@ -70890,20 +70890,31 @@ Le siège de l'établissement est fixé par arrêté du ministre de la défense.
 
 ###### Article R3417-3
 
-Cet établissement a pour mission de :
+Cet établissement a pour mission de : 
 
-1° Verser aux personnels affiliés au fonds de prévoyance militaire ou au fonds de prévoyance de l'aéronautique ou à leurs
-ayants cause les allocations instituées par voie réglementaire ;
+1° Verser aux personnels affiliés au fonds de prévoyance militaire ou  au fonds de prévoyance de l'aéronautique ou à leurs
+ayants cause les  allocations instituées par voie réglementaire ou des secours ; 
 
-2° Rassembler les moyens de financement de ces allocations et d'en diriger la gestion ;
+2° Percevoir le produit des cotisations instituées par voie  réglementaire, rassembler les moyens de financement de ces
+allocations  et en diriger la gestion en veillant à préserver l'équilibre du résultat  d'exploitation de l'établissement
+public, hors circonstances  exceptionnelles ; 
 
-3° Participer au financement du logement des personnels militaires.
+3° Participer au logement des  personnels militaires, notamment par l'acquisition de biens immobiliers  et par l'octroi de
+prêts aux organismes de logement social contre  réservation de logements ; 
+
+4° Accorder, pendant  la durée de l'hospitalisation, des aides permettant d'accompagner les  familles des militaires
+hospitalisés à la suite d'une blessure liée au  service.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-3 entrent en vigueur à
+la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 1
 
 	**Cité par**:
 
@@ -70917,28 +70928,39 @@ ayants cause les allocations instituées par voie réglementaire ;
 ###### Article R3417-4
 
 L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique est administré par un conseil d'administration,
-assisté d'un comité d'investissement et dirigé par un directeur.
+assisté d'un comité d'investissement et d'un comité d'audit, et dirigé par un directeur.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-4 entrent en vigueur à
+la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 2
 
 
 ###### Article R3417-5
 
-Le président du conseil d'administration est nommé par décret sur le rapport du ministre de la défense. La durée de son
-mandat est de trois ans renouvelable une fois.
+Le président du conseil d'administration est nommé par décret, sur le rapport du ministre de la défense, pour une durée de
+trois ans renouvelable une fois. Il est choisi parmi les membres du Conseil d'Etat, de la Cour des comptes ou du corps de
+l'inspection générale des finances. 
 
 Un suppléant du président du conseil d'administration est nommé par arrêté du ministre de la défense pour une durée de trois
 ans renouvelable une fois.
 
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-5 entrent en vigueur à
+la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 3
 
 
 ###### Article R3417-6
@@ -70954,34 +70976,50 @@ Le directeur est nommé par arrêté du ministre de la défense. La durée de so
 
 ###### Article R3417-7
 
-I. ― Le conseil d'administration de l'établissement comprend, outre son président, treize membres :
+Le conseil d'administration de l'établissement comprend, outre son président, dix-huit membres :
 
-1° Douze membres représentant l'Etat dont : 
+1° Dix membres représentant l'Etat :
 
-a) Neuf membres au titre du ministère de la défense ; 
+a) Le chef d'état-major des armées ou son représentant ;
 
-b) Un membre au titre du ministère chargé de l'économie ; 
+b) Le délégué général pour l'armement ou son représentant ;
 
-c) Un membre au titre du ministère chargé du budget ; 
+c) Le chef d'état-major de l'armée de terre ou son représentant ;
 
-d) Un membre au titre du ministère chargé de l'aviation civile. 
+d) Le chef d'état-major de la marine ou son représentant ;
 
-Ces membres sont nommés par arrêté du ministre concerné. La durée de leur mandat est de trois ans renouvelable une fois.
+e) Le chef d'état-major de l'armée de l'air ou son représentant ;
 
-2° Un membre du Conseil supérieur de la fonction militaire, représentant les allocataires de ces fonds, désigné par arrêté du
-ministre de la défense, pour la durée de son mandat au sein du Conseil supérieur de la fonction militaire.
+f) Le secrétaire général pour l'administration du ministère de la défense ou son représentant ;
 
-II. ― Des membres suppléants sont nommés ou désignés dans les mêmes conditions.
+g) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-III. ― En cas de vacance survenant pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat d'un membre
-ou d'un membre suppléant du conseil d'administration, il est procédé à son remplacement pour la durée restant à courir de ce
-mandat.
+h) Le directeur général du Trésor ou son représentant ;
+
+i) Le directeur du budget ou son représentant ;
+
+j) Le directeur général de l'aviation civile ou son représentant.
+
+Les représentants sont désignés à raison de leurs fonctions ;
+
+2° Cinq membres, représentant les cotisants désignés par arrêté du ministre de la défense, sur proposition du Conseil
+supérieur de la fonction militaire. La durée de leur mandat est de trois ans renouvelable une fois. Des membres suppléants
+sont nommés dans les mêmes conditions ;
+
+3° Trois personnalités qualifiées, choisies pour leurs compétences dans les domaines de la gestion publique et des organismes
+d'assurance et de prévoyance et nommées par arrêté conjoint du ministre de la défense, du ministre de l'intérieur et du
+ministre chargé des finances. La durée de leur mandat est de trois ans renouvelable une fois.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-7 entrent en vigueur à
+la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1002 du 24 août 2009 - art. 1
+	  - Décret n°2015-690 du 18 juin 2015 - art. 4
 
 	**Cité par**:
 
@@ -71060,12 +71098,14 @@ Le conseil d'administration adopte son règlement intérieur.
 
 ###### Article R3417-12
 
-Le conseil d'administration délibère sur les affaires relatives à l'objet de l'établissement, et notamment sur : 
+Le conseil d'administration délibère sur les affaires relatives à l'objet de l'établissement, et notamment sur :
 
-1° Le budget de l'établissement et ses éventuelles modifications en cours d'exercice. Celui-ci comprend un budget de gestion
-technique pour chaque fonds et un budget administratif ; 
+1° Le budget de l'établissement et ses éventuelles modifications au cours de l'exercice. Ce budget comprend un budget pour
+chaque fonds de prévoyance et un budget pour le siège ; 
 
-2° Les orientations générales de la politique de placement des réserves du régime dans le respect de l'article R. 3417-22 ; 
+2° Les orientations générales, d'une part, de la politique de placement des fonds de prévoyance et, d'autre part, de la
+politique immobilière dans le respect de l'article R. 3417-22. A cet effet, il fixe la part des résultats destinée à abonder
+le montant à investir afin d'assurer les missions prévues au 3° de l'article R. 3417-3 ; 
 
 3° La convention mentionnée à l'article R. 3417-21 ; 
 
@@ -71079,11 +71119,16 @@ technique pour chaque fonds et un budget administratif ;
 
 Il propose au ministre de la défense toute mesure tendant à maintenir l'équilibre financier de l'établissement.
 
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-12 entrent en vigueur
+à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 5
 
 	**Cité par**:
 
@@ -71095,6 +71140,7 @@ Il propose au ministre de la défense toute mesure tendant à maintenir l'équil
 
 	  - Code de la défense. - art. R3417-21 (V)
 	  - Code de la défense. - art. R3417-22 (V)
+	  - Code de la défense. - art. R3417-3
 
 
 ###### Article R3417-13
@@ -71159,19 +71205,36 @@ arrêté conjoint du ministre de la défense et du ministre chargé de l'économ
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Comité d'investissement
+##### Section 3 : Comité d'investissement et comité d'audit
+
+##### Sous-section 1 : Comité d'investissement
 
 ###### Article R3417-16
 
-Le comité d'investissement comprend six membres, choisis parmi les membres du conseil d'administration. Trois de ces membres,
-dont le président, sont nommés par arrêté du ministre de la défense, un par arrêté du ministre chargé de l'économie, un par
-arrêté du ministre chargé du budget et un par arrêté du ministre chargé des transports.
+Le comité d'investissement comprend six membres choisis parmi les membres du conseil d'administration mentionnés aux 1° et 3°
+de l'article R. 3417-7 ou, le cas échéant, leurs représentants au sein de ce conseil. 
+
+Trois de ces membres, dont le président, sont nommés par arrêté du ministre de la défense, un par arrêté du ministre chargé
+de l'économie, un par arrêté du ministre chargé du budget et un par arrêté du ministre chargé des transports.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-16 entrent en vigueur
+à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2015-690 du 18 juin 2015 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3417-7
 
 
 ###### Article R3417-17
@@ -71179,35 +71242,143 @@ arrêté du ministre chargé du budget et un par arrêté du ministre chargé de
 Le comité se réunit aussi souvent que nécessaire et au moins deux fois par an sur convocation de son président. La
 convocation est de droit lorsqu'elle est demandée par le ministre de la défense.
 
-Un représentant de la Caisse des dépôts et consignations assiste aux travaux du comité avec voix consultative.
+Assistent aux travaux du comité avec voix consultative :
 
-Le contrôleur financier assiste aux travaux du comité d'investissement.
+1° Un représentant du secrétariat général pour l'administration du ministère de la défense, en charge du logement ;
+
+2° Un représentant de la Caisse des dépôts et consignations ;
+
+3° Le directeur de l'établissement ;
+
+4° Le contrôleur budgétaire de l'établissement.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-17 entrent en vigueur
+à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2015-690 du 18 juin 2015 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 8
 
 
 ###### Article R3417-18
 
-Le comité d'investissement suit, par délégation du conseil d'administration, l'exécution de la convention de gestion
-mentionnée à l'article R. 3417-21 et lui en rend compte. Dans le respect des orientations mentionnées au 2° de l'article R.
-3417-12 et des règles prévues à l'article R. 3417-22, il approuve la politique de placement des fonds et donne son accord aux
-investissements dans les conditions prévues par la convention.
+I.-Le comité d'investissement suit, par délégation du conseil d'administration, l'exécution de la convention de gestion
+mentionnée à l'article R. 3417-21 et lui en rend compte. 
+
+II.-Par délégation du conseil d'administration et dans le respect des orientations mentionnées au 2° de l'article R. 3417-12
+et des règles prévues à l'article R. 3417-22, il approuve la politique de placement des fonds et donne son accord : 
+
+1° Aux investissements financiers dans les conditions prévues par la convention ; 
+
+2° Aux investissements immobiliers.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-18 entrent en vigueur
+à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-690 du 18 juin 2015 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 9
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3417-12
+	  - Code de la défense. - art. R3417-21
+	  - Code de la défense. - art. R3417-22
+
+
+##### Sous-section 2 : Comité d'audit 
+
+###### Article R3417-18-1
+
+Le comité d'audit comprend sept membres. 
+
+Sont nommés par arrêté du ministre de la défense : 
+
+1° Deux membres, dont le président, choisis parmi les membres du conseil d'administration mentionnés au 3° de l'article R.
+3417-7 ; 
+
+2° Un membre choisi parmi les membres du conseil d'administration représentant l'Etat mentionnés au 1° de l'article R.
+3417-7 ; 
+
+3° Deux membres choisis parmi les membres du conseil d'administration mentionnés au 2° de l'article R. 3417-7 ; 
+
+Un membre du comité d'audit, choisi parmi les membres du conseil d'administration, est nommé par arrêté du ministre chargé
+des finances. 
+
+Le contrôleur budgétaire est membre de droit du comité d'audit.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-18-1 entrent en
+vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3417-12 (V)
-	  - Code de la défense. - art. R3417-21 (V)
-	  - Code de la défense. - art. R3417-22 (V)
+	  - Code de la défense. - art. R3417-7
+
+
+###### Article R3417-18-2
+
+Le  comité d'audit se réunit au moins deux fois par an sur convocation de  son président. Un représentant de la Caisse des
+dépôts et consignations  et le directeur de l'établissement assistent aux travaux du comité avec  voix consultative. 
+
+L'agent comptable assiste aux travaux du comité.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-18-2 entrent en
+vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 10
+
+
+###### Article R3417-18-3
+
+Le  comité d'audit assiste le conseil d'administration et lui fait rapport  sur toutes questions relatives à la certification
+des comptes de  l'établissement, aux procédures de contrôle interne et à la cartographie  des risques. 
+
+Le commissaire aux comptes présente  au comité d'audit un rapport sur les comptes annuels et se prononce en  particulier sur
+la qualité de l'information financière et des  dispositifs de contrôle interne. 
+
+Le directeur de  l'établissement et le représentant de la Caisse des dépôts et  consignations informent le comité d'audit de
+toutes questions relatives  aux procédures de contrôle interne et de cartographie des risques.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-18-3 entrent en
+vigueur à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 10
 
 
 ##### Section 4 : Directeur de l'établissement
@@ -71230,7 +71401,7 @@ A ce titre, il exerce les compétences suivantes :
 
 5° L'ordonnancement des recettes et des dépenses ; 
 
-6° La passation de tous actes, baux, contrats ou marchés ; 
+6° La passation de tous actes, contrats, baux et marchés publics, notamment ceux afférents aux acquisitions immobilières ; 
 
 7° La représentation de l'établissement en justice et dans les actes de la vie civile ; 
 
@@ -71244,7 +71415,7 @@ Le directeur peut déléguer sa signature pour accomplir en son nom des actes re
 
 	**Modifié par**:
 
-	  - Décret n°2009-1002 du 24 août 2009 - art. 2
+	  - Décret n°2015-690 du 18 juin 2015 - art. 11
 
 	**Cite**:
 
@@ -71253,78 +71424,89 @@ Le directeur peut déléguer sa signature pour accomplir en son nom des actes re
 
 ###### Article R3417-20
 
-Les décisions d'attribution des allocations et des secours du fonds de prévoyance militaire et du fonds de prévoyance de
-l'aéronautique sont prises par le directeur de l'établissement, sur le rapport de la commission du fonds de prévoyance
-militaire ou de celle du fonds de prévoyance de l'aéronautique.
+I.-Les décisions d'attribution des allocations et des secours des fonds de prévoyance militaire et de l'aéronautique sont
+prises par le directeur de l'établissement, sur le rapport de la commission des fonds de prévoyance militaire et de
+l'aéronautique. 
 
-La composition et le fonctionnement de la commission du fonds de prévoyance militaire sont fixés par arrêté conjoint du
-ministre de la défense et du ministre chargé de l'économie.
+II.-Les décisions d'attribution des aides mentionnées au 4° de l'article R. 3417-3 sont prises par le directeur de
+l'établissement qui en rend compte lors de la prochaine séance de la commission des fonds de prévoyance militaire et de
+l'aéronautique. 
 
-La composition et le fonctionnement de la commission du fonds de prévoyance de l'aéronautique sont fixés par arrêté conjoint
-du ministre de la défense, du ministre chargé des transports et du ministre chargé de l'économie.
+III.-La composition et le fonctionnement de la commission des fonds de prévoyance militaire et de l'aéronautique sont fixés
+par arrêté conjoint du ministre de la défense, du ministre chargé des transports et du ministre chargé de l'économie.
+
+**Nota:**
+
+Conformément à l'article 21 du décret n° 2015-690 du 18 juin 2015, les dispositions de l'article R3417-20 entrent en vigueur
+à la date d'installation du conseil d'administration dans sa composition prévue à l'article 4 dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 11 août 2015 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3417-3
 
 
 ##### Section 5 : Convention de gestion
 
 ###### Article R3417-21
 
-Dans le respect de l'article R. 3417-22, la Caisse des dépôts et consignations assure la gestion administrative, financière
-et comptable des deux fonds dans les conditions fixées par une convention conclue avec l'établissement et agréée par l'Etat. 
-
-Les gestions financière et comptable des deux fonds sont distinctes l'une de l'autre.
+Dans le respect de l'article R. 3417-22, la Caisse des dépôts et consignations assure         la gestion administrative et
+financière de chaque fonds dans les conditions fixées par une convention conclue avec l'établissement et agréée par l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 21 septembre 2010 - art. 1 (Ab)
 	  - Arrêté du 21 septembre 2010 - art. 4 (Ab)
-	  - Code de la défense. - art. R3417-12 (M)
+	  - Code de la défense. - art. R3417-12 (V)
 	  - Code de la défense. - art. R3417-18 (V)
 	  - Code de la défense. - art. R3417-19 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 13
+
 	**Cite**:
 
-	  - Code de la défense. - art. R3417-22 (V)
+	  - Code de la défense. - art. R3417-22
 
 
 ###### Article R3417-22
 
-A l'exception d'un montant maximal de 300 millions d'euros pouvant être investis par l'établissement afin d'assurer les
-missions prévues au 3° de l'article R. 3417-3, les fonds de l'établissement sont placés en valeurs, libellées en euros,
-émises ou garanties par les Etats membres de la Communauté européenne ou les autres Etats parties à l'accord sur l'Espace
+A l'exception d'un montant maximal de 400 millions d'euros pouvant être investi par l'établissement afin d'assurer les
+missions prévues au 3° de l'article R. 3417-3, les deniers de l'établissement sont placés en valeurs, libellées en euros,
+émises ou garanties par les Etats membres de l'Union européenne ou les autres Etats parties à l'accord sur l'Espace
 économique européen, à l'exclusion de tout placement en parts et actions d'organismes de placement collectif en valeurs
-mobilières.
+mobilières. 
+
+Lorsqu'il est atteint, le plafond mentionné au premier alinéa peut être abondé d'une part des résultats pouvant être
+investie, afin d'assurer les missions prévues au 3° de l'article R. 3417-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 14
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R3417-12 (M)
+	  - Code de la défense. - art. R3417-12 (V)
 	  - Code de la défense. - art. R3417-18 (V)
 	  - Code de la défense. - art. R3417-21 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3417-3 (V)
+	  - Code de la défense. - art. R3417-3
 
 
 ###### Article R3417-23
@@ -71344,17 +71526,17 @@ La convention prévoit notamment :
 
 1° Les orientations générales de la politique de placement ;
 
-2° Les modalités d'exécution des dépenses et des recettes ;
+2° Les missions d'appui au directeur pour sa mission d'ordonnateur ;
 
-3° La production des comptes et de leur certification par un commissaire aux comptes désigné par l'établissement ;
+3° Le suivi des comptes en vue  de leur certification par un commissaire aux comptes désigné par l'établissement ;
 
 4° L'élaboration d'un rapport de gestion au moins deux fois par an.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 15
 
 
 ###### Article R3417-25
@@ -71382,73 +71564,37 @@ ainsi que les résultats atteints par une procédure d'évaluation contradictoir
 	  - Code de la défense. - art. R3417-31 (V)
 
 
-###### Article R3417-26
-
-La gestion administrative de l'établissement comprend notamment : 
-
-1° L'encaissement des cotisations ; 
-
-2° La liquidation des droits et le versement des prestations ; 
-
-3° La tenue des comptes courants retraçant les opérations rendues nécessaires par le fonctionnement du régime ; 
-
-4° La tenue de la comptabilité du régime ; 
-
-5° Le régime de la conservation défini au 1 de l'article L. 321-2 du code monétaire et financier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-690 du 18 juin 2015 - art. 16
-
-	**Cite**:
-
-	  - Code monétaire et financier - art. L321-2
-
-
 ##### Section 6 : Régime financier et comptable
 
 ###### Article R3417-27
 
-L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
-gestion budgétaire et comptable publique.
+L'établissement est soumis aux dispositions du titre Ier, à l'exception de son article 47, et du titre III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2012-1246 du 7 novembre 2012
-
-	**Modifié par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 21 mars 2014 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-690 du 18 juin 2015 - art. 17
+
 
 ###### Article R3417-29
 
-L'établissement est doté d'un plan comptable approuvé par arrêté conjoint du ministre de la défense, du ministre chargé de
-l'économie et du ministre chargé des transports, après avis de l'Autorité des normes comptables. 
-
-Les comptes sont tenus de façon à distinguer la gestion du régime lui-même du fonctionnement propre de l'établissement. 
-
-Les opérations financières et comptables de l'Etablissement public des fonds de prévoyance militaire et de l'aéronautique
-sont réalisées par le caissier général de la Caisse des dépôts et consignations conformément aux règles propres appliquées à
-cette dernière.
+Les comptes sont présentés de façon à distinguer la gestion de chaque fonds de la gestion du siège.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 18
 
 
 ###### Article R3417-30
@@ -71501,11 +71647,15 @@ g) Les majorations de retard de paiement et le reversement des indus ;
 
 h) Les produits des dons et legs.
 
+3° Pour le siège :
+
+Le prélèvement annuel pour le financement des dépenses de personnel et de fonctionnement du siège.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 19
 
 	**Cité par**:
 
@@ -71521,29 +71671,29 @@ Les dépenses de l'établissement comprennent :
 
 a) Les sommes payées aux bénéficiaires des allocations et secours ; 
 
-b) Les remises ou réductions des majorations de retard de paiement ; 
-
-c) Les rémunérations des personnels et les frais de fonctionnement de l'établissement, qui comprennent notamment les frais de
-gestion mentionnés à l'article R. 3417-25. 
+b) Les remises ou réductions des majorations de retard de paiement. 
 
 2° Pour le fonds de prévoyance de l'aéronautique : 
 
 a) Les sommes payées aux bénéficiaires des allocations et secours ; 
 
-b) Les remises ou réductions des majorations de retard de paiement ; 
+b) Les remises ou réductions des majorations de retard de paiement. 
 
-c) Les rémunérations des personnels et les frais de fonctionnement de l'établissement, qui comprennent notamment les frais de
-gestion mentionnés à l'article R. 3417-25.
+3° Pour le siège : 
+
+a) Les rémunérations et charges sociales du personnel ; 
+
+b) Les dépenses de fonctionnement, qui comprennent notamment les frais de gestion mentionnés à l'article R. 3417-25.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-690 du 18 juin 2015 - art. 20
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3417-25 (V)
+	  - Code de la défense. - art. R3417-25
 
 
 ###### Article R3417-32

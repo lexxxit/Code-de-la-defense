@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-06-21
+Version Consolidée au 2015-06-22
 
 # Partie législative
 
@@ -63009,16 +63009,15 @@ opérationnelle des matériels aéronautiques du ministère de la défense et le
 Les éléments français stationnés au Sénégal sont placés sous le commandement d'un officier qui porte le titre de commandant
 des éléments français au Sénégal. 
 
-Cet officier relève du commandant des forces françaises stationnées au Gabon. 
+Cet officier relève directement du chef d'état-major des armées.
 
-Cependant, pour l'exercice de ses attributions en matière de coopération opérationnelle, telles que définies par l'article D.
-3241-3 du présent code, il relève du chef d'état-major des armées. Il est assisté par un adjoint interarmées.
+Il est assisté par un adjoint interarmées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 3
+	  - Décret n°2015-700 du 19 juin 2015 - art. 1
 
 	**Cité par**:
 
@@ -63164,23 +63163,22 @@ effectifs sont fixés par le ministre de la défense.
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Commandement des forces françaises stationnées au Gabon
+##### Section 3 : Commandement des éléments français au Gabon
 
 ###### Article D3241-9
 
-Les forces françaises stationnées sur le territoire de la République du Gabon sont placées sous le commandement d'un officier
-général qui porte le titre de commandant des forces françaises stationnées au Gabon.
+Les éléments français stationnés au Gabon sont placés sous le commandement d'un officier qui porte le titre de commandant des
+éléments français au Gabon.
 
 Cet officier relève directement du chef d'état-major des armées.
 
-Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées. Il a autorité sur le commandant des
-éléments français au Sénégal.
+Il est assisté par un adjoint interarmées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 5
+	  - Décret n°2015-700 du 19 juin 2015 - art. 3
 
 	**Cité par**:
 
@@ -63189,20 +63187,20 @@ Il est assisté par un adjoint interarmées et par un chef d'état-major interar
 
 ###### Article D3241-10
 
-Le commandant des forces françaises stationnées au Gabon a autorité sur les formations des armées et des services interarmées
-stationnées dans les limites territoriales de son commandement. 
+Le commandant des éléments français au Gabon a autorité sur les formations des armées et des services interarmées stationnées
+dans les limites territoriales de son commandement. 
 
 Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
 directions et services du ministère de la défense. 
 
-Il peut consentir des délégations de signature à son adjoint et à son chef d'état-major mentionnés à l'article D. 3241-9 et
-aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
+Il peut consentir des délégations de signature à son adjoint mentionné à l'article D. 3241-9 et aux responsables locaux des
+organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 5
+	  - Décret n°2015-700 du 19 juin 2015 - art. 4
 
 	**Cite**:
 
@@ -63211,34 +63209,35 @@ aux responsables locaux des organismes sur lesquels il exerce une autorité d'em
 
 ###### Article D3241-11
 
-Sous l'autorité du chef de la mission diplomatique française auprès de la République du Gabon, le commandant des forces
-françaises veille à l'application des accords relatifs à la présence et au statut des forces françaises stationnées sur le
-territoire de la République du Gabon.
+Sous l'autorité du chef de la mission diplomatique française auprès de la République du Gabon, le commandant des éléments
+français au Gabon veille à l'application des accords relatifs à la présence et au statut des forces françaises stationnées
+sur le territoire de la République du Gabon.
 
 Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités gabonaises.
 
-En liaison avec les chefs des missions diplomatiques françaises concernées, le commandant des forces françaises stationnées
-au Gabon entretient toutes relations utiles avec les organes militaires de la communauté économique régionale de l'Afrique
-centrale, avec les organes militaires des pays qui composent cette communauté économique régionale et avec les organes
-militaires des pays de sa zone de responsabilité.
+Sous l'autorité du chef d'état-major des armées, le commandant des éléments français au Gabon est habilité à conduire des
+actions de coopération opérationnelle.
+
+A ce titre et en liaison avec les chefs des missions diplomatiques françaises concernées, il entretient toutes relations
+utiles avec les organes militaires de la communauté économique régionale de l'Afrique centrale, avec les organes militaires
+des pays qui composent cette communauté économique régionale et avec les organes militaires du Rwanda.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 5
+	  - Décret n°2015-700 du 19 juin 2015 - art. 5
 
 
 ###### Article D3241-12
 
-Le commandant des forces françaises stationnées au Gabon dispose d'un état-major interarmées dont la structure et les
-effectifs sont fixés par le ministre de la défense.
+Le commandant des éléments français au Gabon dispose d'une structure adaptée à sa mission de coopération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-700 du 19 juin 2015 - art. 6
 
 
 ##### Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne
@@ -63381,6 +63380,77 @@ et les effectifs sont fixés par le ministre de la défense.
 	**Créé par**:
 
 	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+
+
+##### Section 6 : Commandement des forces françaises stationnées en Côte d'Ivoire.
+
+###### Article D3241-22
+
+Les forces françaises stationnées sur le territoire de la République de Côte d'Ivoire sont placés sous le commandement d'un
+officier qui porte le titre de commandant des forces françaises stationnées en Côte d'Ivoire. 
+
+Cet officier relève directement du chef d'état-major des armées. 
+
+Il est assisté par un adjoint interarmées et par un chef d'état-major interarmées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+
+
+###### Article D3241-23
+
+Le commandant des forces françaises stationnées en Côte d'Ivoire a autorité sur les formations des armées et des services
+interarmées stationnées dans les limites territoriales de son commandement. 
+
+Il exerce par ailleurs, lorsqu'elle lui est accordée, une autorité d'emploi sur les organismes locaux relevant des autres
+directions et services du ministère de la défense. 
+
+Il peut consentir des délégations de signature à son adjoint et à son chef d'état-major mentionnés à l'article D. 3241-22 et
+aux responsables locaux des organismes sur lesquels il exerce une autorité d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+
+
+###### Article D3241-24
+
+Sous l'autorité du chef de la mission diplomatique française auprès de la République de Côte d'Ivoire, le commandant des
+forces françaises veille à l'application des accords relatifs à la présence et au statut des forces françaises stationnées
+sur le territoire de la République de Côte d'Ivoire. 
+
+Sous couvert de la même autorité, il entretient toutes relations utiles avec les autorités ivoiriennes. 
+
+En liaison avec le chef de la mission diplomatique française auprès de la République de Côte d'Ivoire, il entretient toutes
+relations utiles avec les organes militaires de la Côte d'Ivoire, sous réserve des attributions du commandant des éléments
+français au Sénégal en matière de coopération opérationnelle, telles que définies à l'article D. 3241-3 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3241-3 (V)
+
+
+###### Article D3241-25
+
+Le commandant des forces françaises stationnées en Côte d'Ivoire dispose d'un état-major interarmées dont la structure et les
+effectifs sont fixés par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-700 du 19 juin 2015 - art. 7
 
 
 ### LIVRE III : ORGANISMES CONSULTATIFS

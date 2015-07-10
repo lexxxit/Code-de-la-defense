@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-07-04
+Version Consolidée au 2015-07-11
 
 # Partie législative
 
@@ -46692,58 +46692,18 @@ transformation ou fabrication.
 
 ###### Article R2335-4
 
-Sans préjudice des dispositions plus favorables résultant d'accords internationaux approuvés ou ratifiés par la France, les
-matériels de guerre, armes, éléments d'arme, munitions ou éléments de munition, importés dans les conditions prévues à l'un
-des cas mentionnés au présent article, sont dispensés de l'autorisation d'importation mentionnée à l'article L. 2335-1
-pour : 
+Sans préjudice des dispositions plus favorables résultant d'accords internationaux approuvés ou ratifiés par la France,
+peuvent faire l'objet de dérogations à l'obligation d'autorisation préalable fixée à l'article L. 2335-1 les opérations
+d'importations définies dans un arrêté du ministre de la défense, du ministre chargé des douanes, du ministre de l'intérieur
+et du ministre des affaires étrangères. 
 
-1° Les matériels, armes, éléments d'arme, munitions ou éléments de munition importés sous les régimes douaniers du
-perfectionnement actif pour réparation ou de l'admission temporaire pour essai, expérience, expertise, démonstration ou
-présentation ; 
+Ces dérogations peuvent être suspendues par décision du Premier ministre.
 
-2° Les éléments destinés, dans le cadre d'un accord intergouvernemental de coopération ou dans celui d'un arrangement
-technique conclu notamment par le ministre de la défense, aux phases de développement, mise au point, production ou entretien
-des matériels de guerre ; 
+**Nota:**
 
-3° Les matériels, armes, ou éléments d'arme importés temporairement et les munitions importées définitivement à l'occasion de
-concours internationaux ou de stages de formation de moniteurs de tir effectués par des fonctionnaires de police étrangers
-auprès de centres de perfectionnement au tir relevant du ministère de l'intérieur ; 
-
-4° Les matériels, armes, éléments d'arme, munitions ou éléments de munition importés sous le régime de transit, transportés
-directement par voie ferrée de frontière à frontière, ou transbordés de bord à bord sans mise à terre dans les ports ou
-aérodromes de France ; 
-
-5° Les matériels, armes, éléments d'arme, munitions ou éléments de munition transbordés de bord à bord avec mise à terre dans
-les ports ou aérodromes de France dans les cas énumérés ci-après : 
-
-a) Lorsqu'il s'agit d'armes, munitions et leurs éléments des catégories A et B détenus ou portés par des personnes physiques
-qui changent d'aéronef ou de navire et qui ont été autorisées par leurs autorités nationales à les détenir ou les porter ; 
-
-b) Lorsqu'il s'agit d'armes, de munitions et leurs éléments des 7° et 8° de la catégorie B, des 1°, 2°, 6°, 7° et 8° de la
-catégorie C, du 1° de la catégorie D ou d'armes classées aux a, b et c du 2° de la catégorie D. 
-
-Cette dérogation peut être suspendue par le Premier ministre ; 
-
-6° Les matériels, armes, éléments d'arme, munitions ou éléments de munition réimportés par les exportateurs au bénéfice du
-régime douanier des retours ou en suite de régime de perfectionnement passif. 
-
-7° Deux armes de chasse du 1° de la catégorie C, et du 1° de la catégorie D importées sous le régime douanier de l'admission
-temporaire et cent cartouches par arme ; 
-
-8° Les armes de poing et les munitions dont le port est autorisé par arrêté du ministre de l'intérieur en application de
-l'article R. 315-6 du code de la sécurité intérieure ; 
-
-9° Les matériels de guerre classés aux 8°, 9°, 10°, 12°, 13° et 14° de la catégorie A 2 importés sous le régime douanier de
-l'admission temporaire, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques,
-conformément à l'article R. 314-1 du code de la route ; 
-
-10° Les armes à feu et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C ; 
-
-11° Les douilles non amorcées et non chargées du c du 1° de la catégorie D et les projectiles des munitions classées aux 6°
-et 7° de la catégorie C et en catégorie D. 
-
-Ce régime est prévu par le règlement n° 2913/92 du Conseil des Communautés européennes du 12 octobre 1992 établissant le code
-des douanes communautaires.
+Conformément à l'article 4 du décret n° 2015-837 du 8 juillet 2015, les présentes dispositions dans leur rédaction antérieure
+au présent décret restent en vigueur jusqu'à l'entrée en vigueur de l'arrêté mentionné dans leur rédaction issue de l'article
+1er dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -46760,12 +46720,11 @@ des douanes communautaires.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-1
-	  - Code de la route. - art. R314-1
+	  - Code de la défense. - art. L2335-1 (V)
 
 
 ###### Article R2335-5
@@ -46927,7 +46886,7 @@ de l'Union européenne.
 
 II. ― La licence d'exportation permet à l'exportateur d'effectuer l'ensemble des opérations décrites au I du présent article.
 Le cas échéant, la licence d'exportation peut être limitée à une ou plusieurs des opérations susmentionnées, conformément au
-V de l'article L. 2335-3.
+IV de l'article L. 2335-3.
 
 **Nota:**
 
@@ -46939,18 +46898,14 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-	**Modifié par**:
-
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 2 juin 2014 - art. 1 (V)
 	  - Arrêté du 8 juillet 2015 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -48246,6 +48201,30 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 	  - Code de la défense. - art. L2339-1
 
 
+###### Article R2335-38-1
+
+Les dispositions de l'article 1er du décret n° 96-1133 du 24 décembre 1996 relatif à l'interdiction de l'amiante, pris en
+application du code du travail et du code de la consommation, ne sont pas applicables aux opérations liées aux transferts
+intracommunautaires de produits liés à la défense et aux opérations liées à l'exportation, y compris l'importation en vue de
+la réexportation, des matériels de guerre, armes et munitions relevant de la section 2 du chapitre Ier du titre Ier du livre
+III du code de la sécurité intérieure fabriqués ou mis en service avant le 1er janvier 2005.
+
+Ces opérations sont effectuées dans le respect des dispositions du code du travail relatives à la prévention des risques
+d'exposition à l'amiante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°96-1133 du 24 décembre 1996 - art. 1
+	  - Code de la consommation
+	  - Code du travail
+
+	**Créé par**:
+
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
+
+
 ##### Sous-section 5 : Transferts soumis à une procédure spécifique
 
 
@@ -48258,28 +48237,20 @@ soumise aux mêmes conditions que celles définies aux articles R. 2335-21 à R.
 Cette autorisation préalable peut être suspendue, modifiée, abrogée ou retirée par le Premier ministre dans les conditions
 mentionnées à l'article R. 2335-27.
 
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
+Peuvent faire l'objet de dérogations à l'obligation d'autorisation préalable prévue au I de l'article L. 2335-18 les
+opérations de transfert des matériels mentionnés au même article. Le régime de ces dérogations est déterminé par l'article R.
+2335-26.  ;
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-	**Modifié par**:
-
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 2 juin 2014 - art. 2 (V)
 	  - Code de la défense. - art. R2335-40 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -48387,7 +48358,7 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 ###### Article R2335-41
 
 Le transit direct de frontière à frontière entre deux pays, dont au moins l'un d'entre eux n'appartient pas à l'Union
-européenne, des matériels, armes ou munitions mentionnés au I de l'article L. 2535-1, ou de matériels de guerre et de
+européenne, des matériels, armes ou munitions mentionnés au I de l'article L. 2335-1, ou de matériels de guerre et de
 matériels assimilés figurant sur la liste mentionnée au second alinéa de l'article L. 2335-2, transportés par route, est
 subordonné à la délivrance d'une autorisation. L'autorisation de transit accompagne les matériels pendant leur transport en
 France. Elle est présentée à toute réquisition des autorités habilitées. 
@@ -48399,8 +48370,7 @@ identifiés, sans limite de quantité ni de montant, en provenance d'expéditeur
 
 	**Modifié par**:
 
-	  - Décret n°2013-723 du 12 août 2013 - art. 2
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
 
 	**Cite**:
 
@@ -48414,8 +48384,11 @@ identifiés, sans limite de quantité ni de montant, en provenance d'expéditeur
 
 ###### Article R2335-42
 
-La demande d'autorisation de transit ne peut être présentée que par une personne exerçant en France la profession de
-commissionnaire en transport ou de commissionnaire en douane.
+La demande d'autorisation de transit est présentée par une personne exerçant une activité de représentant en douane et
+titulaire du statut d'opérateur économique agréé telle que définie dans le règlement (UE) n° 952/2013 du Parlement européen
+et du Conseil du 9 octobre 2013 établissant le code des douanes de l'Union ou par une personne exerçant une activité
+d'auxiliaire de transport de marchandises telle que définie au 3 de la liste II de l'annexe IV de la directive 2005/36/CE du
+7 septembre 2005.
 
 La demande est établie dans les conditions définies par arrêté du ministre chargé des douanes. Elle est déposée auprès du
 ministre de la défense.
@@ -48430,13 +48403,9 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 	**Modifié par**:
 
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
 
 
 ###### Article R2335-43

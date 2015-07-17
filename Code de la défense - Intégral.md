@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-07-11
+Version Consolidée au 2015-07-18
 
 # Partie législative
 
@@ -57996,14 +57996,14 @@ L'officier général de la marine nationale, inspecteur général des armées, e
 enquêtes techniques relatives aux événements de mer affectant des bâtiments des forces armées quel que soit l'endroit où ils
 se trouvent.
 
-Le général d'armée aérienne inspecteur général des armées est chargé de veiller au bon déroulement des enquêtes techniques
+Le général d'armée aérienne inspecteur général des armées est chargé de veiller au bon déroulement des enquêtes de sécurité
 relatives aux accidents ou incidents aériens graves.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 17
 
 
 ##### Section 2 : Inspecteur général du service de santé des armées
@@ -58143,8 +58143,8 @@ chapitre, la fonction de médiateur militaire.
 
 ###### Article R3125-1
 
-I. ― Les bureaux enquêtes accidents défense, organismes militaires spécialisés chargés de mener des enquêtes techniques, sont
-des services à compétence nationale ayant respectivement pour nom et pour sigle : 
+I. ― Les bureaux enquêtes accidents défense, organismes militaires spécialisés chargés de mener des enquêtes techniques et
+des enquêtes de sécurité, sont des services à compétence nationale ayant respectivement pour nom et pour sigle : 
 
 1° Bureau enquêtes accidents défense transport terrestre ou BEAD-TT ; 
 
@@ -58154,31 +58154,23 @@ des services à compétence nationale ayant respectivement pour nom et pour sigl
 
 II. ― Les bureaux enquêtes accidents défense sont indépendants et permanents. 
 
-Ils sont chargés, en application des dispositions de l'article L. 3125-1, de l'article 14 de la loi n° 2002-3 du 3 janvier
-2002 relative à la sécurité des infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain
-de gaz naturel, d'hydrocarbures et de produits chimiques, des I, II et III de l'article L. 711-1 et de l'article L. 711-2 du
-code de l'aviation civile, de procéder aux enquêtes techniques relatives : 
+Ils sont chargés, en application des dispositions de l'article L. 3125-1 du code de la défense, des articles L. 1621-1 et
+suivants du code des transports et de l'article L. 6222-1 du même code, de procéder respectivement aux enquêtes relatives : 
 
-1° Aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense ; 
+1° Aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense
+ainsi qu'aux accidents de tir ou de munitions ; 
 
-2° Aux événements de mer affectant des bâtiments des forces armées quel que soit l'endroit où ils se trouvent ; 
+2° Aux événements de mer affectant des bâtiments des forces armées quel que soit l'endroit où ils se trouvent ainsi qu'aux
+accidents de plongée subaquatique en scaphandre autonome ou de plongée en caisson ; 
 
 3° Aux accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation
 aérienne militaire ou à ceux qui appartenant à l'Etat français ou à tout autre Etat ne sont pas inscrits au registre
 d'immatriculation prévu à l'article 17 de la convention relative à l'aviation civile internationale signée à Chicago le 7
-décembre 1944.
+décembre 1944. 
+
+En tant que de besoin, ils peuvent intervenir conjointement sur certains accidents particuliers.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (V)
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code de l'aviation civile - art. L711-2 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 	**Cité par**:
 
@@ -58190,6 +58182,16 @@ décembre 1944.
 	  - Code de la défense. - art. R3561-3 (V)
 	  - Code de la défense. - art. R3571-3 (V)
 	  - Code de procédure pénale - art. A1 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code des transports - art. L1621-1 (V)
+	  - Code des transports - art. L6222-1 (V)
 
 
 ###### Article R3125-2
@@ -58220,11 +58222,10 @@ le remplace en cas d'absence ou d'empêchement.
 ###### Article R3125-4
 
 Le directeur de chaque bureau enquêtes accidents défense fixe le champ d'investigation et les méthodes de chaque enquête
-technique au regard des objectifs fixés à l'article 14 de la loi du 3 janvier 2002 relative à la sécurité des infrastructures
-et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits
-chimiques et à l'article L. 711-1 du code de l'aviation civile. 
+technique ou de sécurité au regard des objectifs fixés aux articles L. 1621-1 et suivants du code des transports et aux
+articles L. 6222-1 à L. 6222-3 du même code. 
 
-Il désigne l'enquêteur technique chargé d'en assurer l'organisation, la conduite et le contrôle. 
+Il désigne l'enquêteur technique ou l'enquêteur de sécurité chargé d'en assurer l'organisation, la conduite et le contrôle. 
 
 Lorsqu'il en a connaissance, le directeur de chaque bureau enquêtes accidents défense informe l'autorité judiciaire
 compétente de tout accident et événement mentionné à l'article R. 3125-1 survenu en dehors du territoire et de l'espace
@@ -58232,28 +58233,29 @@ aérien français et ayant entraîné le décès d'une ou de plusieurs personnes
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3125-1 (V)
-	  - Code de l'aviation civile - art. L711-1 (Ab)
+	  - Code de la défense. - art. R3125-1
+	  - Code des transports - art. L1621-1 (V)
+	  - Code des transports - art. L6222-1 (V)
 
 
 ###### Article R3125-5
 
-Chaque bureau enquêtes accidents défense comprend des enquêteurs techniques et des agents techniques ou administratifs qui
-sont des militaires ou des fonctionnaires désignés après avis de son directeur selon les besoins spécifiques à chaque
-enquête, ou, à défaut, des agents contractuels recrutés après avis de ce dernier conformément aux dispositions législatives
-et réglementaires en vigueur.
+Chaque bureau enquêtes accidents défense comprend  des enquêteurs techniques ou des enquêteurs de sécurité et des agents
+techniques ou administratifs qui sont des militaires ou des fonctionnaires désignés après avis de son directeur selon les
+besoins spécifiques à chaque enquête, ou, à défaut, des agents contractuels recrutés après avis de ce dernier conformément
+aux dispositions législatives et réglementaires en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 5
 
 
 ##### Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre
@@ -58311,20 +58313,19 @@ professionnel dans les mêmes conditions que ses agents.
 
 Les médecins rattachés aux bureaux enquêtes accidents défense et les médecins désignés par les directeurs pour les assister,
 ainsi que les médecins membres de commissions d'enquête, reçoivent communication à leur demande de toute information ou
-document à caractère médical relatif aux personnes mentionnées à l'article 20 de la loi n° 2002-3 du 3 janvier 2002 relative
-à la sécurité des infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel,
-d'hydrocarbures et de produits chimiques.A partir des renseignements recueillis, ils sélectionnent les éléments de nature à
-éclairer les circonstances et les causes de l'événement, de l'accident ou de l'incident faisant l'objet de l'enquête.
+document à caractère médical dans les conditions prévues à l'article L. 1621-15 du code des transports. A partir des
+renseignements recueillis, ils sélectionnent les éléments de nature à éclairer les circonstances et les causes de
+l'événement, de l'accident ou de l'incident faisant l'objet de l'enquête.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 20 (V)
+	  - Code des transports - art. L1621-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 6
 
 
 ###### Article R3125-10
@@ -58358,15 +58359,18 @@ Le directeur de chaque bureau enquêtes accidents défense établit un rapport a
 ###### Article R3125-12
 
 Sous réserve des dispositions législatives et réglementaires relatives au secret de la défense nationale, les rapports
-d'enquêtes techniques établis dans les conditions prévues à l'article 23 de la loi n° 2002-3 du 3 janvier 2002 relative à la
-sécurité des infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel,
-d'hydrocarbures et de produits chimiques sont mis à la disposition du public par tout moyen.
+d'enquêtes techniques ou d'enquêtes de sécurité établis dans les conditions prévues à l'article L. 1621-4 du code des
+transports sont mis à la disposition du public par tout moyen.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Code des transports - art. L1621-4
+
+	**Modifié par**:
+
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 7
 
 
 ##### Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense
@@ -58380,20 +58384,29 @@ les véhicules spécifiques du ministère de la défense, qui peuvent porter not
 ferroviaires, les transports routiers et les transports fluviaux, dès lors que l'accident ou l'incident est survenu sur le
 territoire national.
 
+Il a en outre pour mission de réaliser les enquêtes techniques sur les accidents de tir ou de munitions, sans préjudice des
+attributions du contrôle général des armées et de l'inspecteur de l'armement pour les poudres et explosifs en matière
+d'inspection et de contrôle des établissements mentionnés à l'article R. 517-1 du code de l'environnement. 
+
 Il a également vocation à recueillir, exploiter et diffuser les informations relatives aux pratiques et aux enseignements de
-retour d'expérience sur les accidents ou incidents pour ces modes de transport.
+retour d'expérience sur les accidents ou incidents pour ces modes de transport, ainsi que sur les accidents de tir ou de
+munitions.
 
 Il réalise des études et recherches en matière de retour d'expérience et d'accidentologie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 8
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R3125-14 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R517-1
 
 
 ###### Article R3125-14
@@ -58426,9 +58439,7 @@ général de l'armée de terre, inspecteur général des armées, ou du directeu
 
 ###### Article R3125-16
 
-La commission d'enquête prévue au III de l'article 14 de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des
-infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures
-et de produits chimiques est présidée par un officier général. 
+La commission d'enquête prévue à l'article L. 1621-6 du code des transports est présidée par un officier général. 
 
 Elle comprend, outre le président : 
 
@@ -58463,11 +58474,11 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 	**Cite**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (V)
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 9
 
 
 ###### Article R3125-17
@@ -58475,16 +58486,16 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 Sur proposition du directeur du BEAD-TT ou à la demande d'une autorité étrangère transmise par voie diplomatique, le ministre
 de la défense peut autoriser des enquêteurs techniques relevant d'organismes étrangers homologues à participer à des
 investigations relatives à un accident ou incident survenu sur le territoire national lorsqu'un véhicule spécifique des
-armées de leur pays d'origine est impliqué.
+armées de leur pays d'origine est impliqué ou à un accident impliquant une arme ou une munition du pays d'origine. 
 
 Le directeur du BEAD-TT fixe les modalités de participation ou d'association de ces enquêteurs techniques aux investigations
 ou aux enquêtes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 10
 
 
 ##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées
@@ -58496,16 +58507,20 @@ Le BEAD-mer est placé auprès de l'officier général de la marine nationale, i
 Il a pour mission de réaliser les enquêtes techniques sur les événements de mer affectant les bâtiments des forces armées
 quel que soit l'endroit où ils se trouvent.
 
+Il a en outre pour mission de réaliser les enquêtes sur les accidents de plongée subaquatique en scaphandre autonome ou de
+plongée en caisson.
+
 Il a également vocation à recueillir, exploiter et diffuser les informations relatives aux pratiques et aux enseignements de
-retour d'expérience sur les événements de mer affectant les bâtiments des forces armées.
+retour d'expérience sur les événements de mer affectant les bâtiments des forces armées, ainsi que sur les accidents de
+plongée subaquatique en scaphandre autonome ou de plongée en caisson. 
 
 Il réalise des études et recherches en matière de retour d'expérience et d'accidentologie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 11
 
 
 ###### Article R3125-19
@@ -58522,9 +58537,7 @@ général de la marine nationale, inspecteur général des armées, ou du direct
 
 ###### Article R3125-20
 
-La commission d'enquête prévue au III de l'article 14 de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des
-infrastructures et systèmes de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures
-et de produits chimiques est présidée par un officier général. 
+La commission d'enquête prévue à l'article L. 1621-6 du code des transports est présidée par un officier général. 
 
 Elle comprend, outre le président : 
 
@@ -58551,19 +58564,19 @@ recherches complémentaires. Elle est consultée sur le projet de rapport d'enqu
 
 Les réunions de la commission d'enquête ne sont pas publiques. 
 
-Le directeur du BEAD-mer ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions.
+Le directeur du BEAD-mer ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions. 
 
 L'activité de la commission d'enquête prend fin à la publication du rapport d'enquête.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 9
+
 	**Cite**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Code des transports - art. L1621-6 (V)
 
 
 ###### Article R3125-21
@@ -58586,24 +58599,36 @@ ou aux enquêtes.
 
 ##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation
 
+##### Chapitre V : Organismes d'enquêtes
+
+##### Section 1 : Dispositions générales
+
+##### Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre
+
+##### Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense
+
+##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées
+
+##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation
+
 ###### Article R3125-22
 
-Le BEAD-air est placé auprès du général d'armée aérienne, inspecteur général des armées.
+Le BEAD-air est placé auprès du général d'armée aérienne, inspecteur général des armées. 
 
-Il a pour mission de réaliser les enquêtes techniques relatives aux accidents ou incidents survenus aux aéronefs conçus
+Il a pour mission de réaliser les enquêtes de sécurité relatives aux accidents ou incidents survenus aux aéronefs conçus
 exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui appartenant à l'Etat français ou
 à tout autre Etat ne sont pas inscrits au registre d'immatriculation prévu à l'article 17 de la convention relative à
-l'aviation civile internationale signée à Chicago le 7 décembre 1944.
+l'aviation civile internationale signée à Chicago le 7 décembre 1944. 
 
-Le BEAD-air est également compétent pour effectuer les enquêtes techniques relatives aux accidents ou incidents survenus,
+Le BEAD-air est également compétent pour effectuer les enquêtes de sécurité relatives aux accidents ou incidents survenus,
 dans le cadre d'une activité de défense, au cours d'une opération de largage de personnels ou de matériels au départ d'un
 aéronef lorsque celui-ci ou le comportement de son équipage peuvent être rangés parmi les causes de cet accident.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 13
 
 
 ###### Article R3125-23
@@ -58621,9 +58646,9 @@ ministres.
 ###### Article R3125-24
 
 Le ministère de l'intérieur et le ministère chargé de l'économie participent aux activités du BEAD-air en mettant à sa
-disposition des personnels selon les besoins spécifiques à chaque enquête technique.
+disposition des personnels selon les besoins spécifiques à chaque enquête de sécurité.
 
-Les enquêteurs techniques sont désignés parmi les officiers, les fonctionnaires de catégorie A ou les agents contractuels de
+Les enquêteurs de sécurité sont désignés parmi les officiers, les fonctionnaires de catégorie A ou les agents contractuels de
 même niveau. Sur la proposition du directeur du BEAD-air, ils sont commissionnés par le ministre de la défense pour une durée
 de trois ans renouvelable.
 
@@ -58633,33 +58658,33 @@ sont soumis au secret professionnel dans les mêmes conditions que les agents du
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 14
 
 
 ###### Article R3125-25
 
-Les enquêteurs de première information prévus à l'article L. 711-3 du code de l'aviation civile sont agréés par le directeur
-du BEAD-air sur proposition du service dont ils dépendent. 
+Les enquêteurs de première information prévus               à l' article L. 1621-6 du code des transports  sont agréés par le
+directeur du BEAD-air sur proposition du service dont ils dépendent. 
 
 Le directeur du BEAD-air peut également agréer en qualité d'enquêteurs de première information des agents techniques de son
 service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 15
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-3 (V)
+	  - Code de l'aviation civile - art. L711-3
 
 
 ###### Article R3125-26
 
-La commission d'enquête prévue à l'article L. 711-2 du code de l'aviation civile est présidée par un officier général. 
+La commission d'enquête prévue à l' article L. 1621-6 du code des transports est présidée par un officier général. 
 
 Elle comprend, outre le président : 
 
@@ -58683,24 +58708,24 @@ l'enquête.
 Les membres de la commission d'enquête sont nommés par arrêté du ministre de la défense sur proposition du général d'armée
 aérienne, inspecteur général des armées. 
 
-La commission d'enquête est tenue informée du déroulement de l'enquête technique. Elle peut proposer au BEAD-air des
+La commission d'enquête est tenue informée du déroulement de l'enquête de sécurité. Elle peut proposer au BEAD-air des
 recherches complémentaires. Elle est consultée sur le projet de rapport d'enquête. 
 
 Les réunions de la commission d'enquête ne sont pas publiques. 
 
-Le directeur du BEAD-air ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions.
+Le directeur du BEAD-air ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions. 
 
 L'activité de la commission d'enquête prend fin à la publication du rapport d'enquête.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2015-869 du 15 juillet 2015 - art. 16
 
 	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-2 (V)
+	  - Code de l'aviation civile - art. L711-2
 
 
 ###### Article R3125-27

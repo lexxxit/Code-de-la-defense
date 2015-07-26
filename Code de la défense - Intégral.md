@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-07-18
+Version Consolidée au 2015-07-27
 
 # Partie législative
 
@@ -22116,19 +22116,24 @@ b) Les anciens militaires soumis à l'obligation de disponibilité ;
 IV.-Les réservistes et leurs associations, les associations d'anciens militaires ainsi que les associations dont les
 activités contribuent à la promotion de la défense nationale constituent les relais essentiels du renforcement du lien entre
 la nation et ses forces armées. Ils ont droit à sa reconnaissance pour leur engagement à son service et peuvent bénéficier de
-son soutien.
+son soutien. 
 
 A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution de la qualité de " partenaire de la
-réserve citoyenne " pour une durée déterminée.
+réserve citoyenne " pour une durée déterminée. 
 
 L'entreprise ou l'organisme qui a favorisé la mise en oeuvre des dispositions du présent livre, notamment en signant une
-convention avec le ministre de la défense, peut se voir attribuer la qualité de " partenaire de la défense nationale ".
+convention avec le ministre de la défense, peut se voir attribuer la qualité de " partenaire de la défense nationale ". 
+
+V.-Les services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure peuvent avoir
+recours aux membres de la réserve militaire. 
+
+Pour l'application du premier alinéa du présent V, les volontaires de la réserve citoyenne sont affectés, avec leur accord,
+dans la réserve opérationnelle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 1 (Ab)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 10 (Ab)
 
@@ -22173,11 +22178,16 @@ convention avec le ministre de la défense, peut se voir attribuer la qualité d
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 22
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4241-2 (V)
+	  - Code de la défense. - art. L4241-2
+	  - Code de la sécurité intérieure - art. L811-2
 
 
 ###### Article L4211-1-1
@@ -22813,24 +22823,32 @@ dans la réserve opérationnelle.
 
 ###### Article L4241-2
 
-La réserve citoyenne est composée de volontaires agréés par l'autorité militaire en raison de leurs compétences, de leur
-expérience ou de leur intérêt pour les questions relevant de la défense nationale.
+La réserve citoyenne est composée de volontaires agréés par l'autorité militaire ou par les services mentionnés à l'article
+L. 811-2 du code de la sécurité intérieure en raison de leurs compétences, de leur expérience ou de leur intérêt pour les
+questions relevant de la défense nationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 20 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 20 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 22
 
 	**Cité par**:
 
 	  - Décret n°2017-930 du 9 mai 2017 - art. 10 (V)
 	  - Code de la défense. - art. L4211-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L811-2
 
 
 #### TITRE V : DISPOSITIONS SOCIALES ET FINANCIÈRES
@@ -58137,7 +58155,7 @@ chapitre, la fonction de médiateur militaire.
 	  - Code de la défense. - art. D3124-1
 
 
-##### Chapitre V : Organismes d'enquêtes techniques
+##### Chapitre V : Organismes d'enquêtes
 
 ##### Section 1 : Dispositions générales
 
@@ -58596,18 +58614,6 @@ ou aux enquêtes.
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
-
-##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation
-
-##### Chapitre V : Organismes d'enquêtes
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre
-
-##### Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense
-
-##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées
 
 ##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation
 

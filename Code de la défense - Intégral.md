@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-07-27
+Version Consolidée au 2015-07-30
 
 # Partie législative
 
@@ -1434,8 +1434,8 @@ décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 Le Premier ministre fixe les règles de sécurité nécessaires à la protection des systèmes d'information des opérateurs
 mentionnés aux articles L. 1332-1 et L. 1332-2 et des opérateurs publics ou privés qui participent à ces systèmes pour
 lesquels l'atteinte à la sécurité ou au fonctionnement risquerait de diminuer d'une façon importante le potentiel de guerre
-ou économique, la sécurité ou la capacité de survie de la Nation. Ces opérateurs sont tenus d'appliquer ces règles à leurs
-frais. 
+ou économique, la sécurité ou la capacité de survie de la Nation ou pourrait présenter un danger grave pour la population.
+Ces opérateurs sont tenus d'appliquer ces règles à leurs frais. 
 
 Les règles mentionnées au premier alinéa peuvent notamment prescrire que les opérateurs mettent en œuvre des systèmes
 qualifiés de détection des événements susceptibles d'affecter la sécurité de leurs systèmes d'information. Ces systèmes de
@@ -1447,10 +1447,6 @@ Les qualifications des systèmes de détection et des prestataires de service ex
 Premier ministre.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 22
 
 	**Cité par**:
 
@@ -1482,6 +1478,10 @@ Premier ministre.
 	  - Code de la défense. - art. R1332-41-23 (V)
 	  - Code de la défense. - art. R1332-41-3 (V)
 	  - Code de la défense. - art. R1332-41-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 27
 
 	**Cite**:
 
@@ -2430,12 +2430,9 @@ Les deux premiers alinéas de l'article 132-23 du code pénal sont applicables a
 ###### Article L1333-13-12
 
 Est puni d'un emprisonnement d'un an et d'une amende de 15 000 € le fait de s'introduire, sans autorisation de l'autorité
-compétente, à l'intérieur des locaux et des terrains clos délimités pour assurer la protection des établissements ou des
-installations abritant des matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de
-dissuasion ou des matières nucléaires dont la détention est soumise à l'autorisation mentionnée à l'article L. 1333-2. 
-
-Le premier alinéa du présent article n'est pas applicable aux terrains et constructions affectés à l'autorité militaire ou
-placés sous son contrôle, mentionnés à l'article 413-5 du code pénal. 
+compétente, à l'intérieur des locaux et des terrains clos délimités pour assurer la protection des installations nucléaires
+intéressant la dissuasion mentionnées à l'article L. 1411-1 ou des établissements ou des installations abritant des matières
+nucléaires dont la détention est soumise à l'autorisation mentionnée à l'article L. 1333-2. 
 
 Les limites des locaux et des terrains clos mentionnés au même premier alinéa sont fixées dans des conditions prévues par
 décret. Elles sont rendues apparentes aux frais de la personne morale exploitant les établissements ou installations
@@ -2443,9 +2440,9 @@ concernés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 29
 
 	**Cité par**:
 
@@ -2458,12 +2455,12 @@ concernés.
 	  - Code de la défense. - art. L1333-13-16 (V)
 	  - Code de la défense. - art. L1333-13-17 (V)
 	  - Code de la défense. - art. L1333-13-18 (V)
-	  - Code de la défense. - art. L1333-14 (M)
+	  - Code de la défense. - art. L1333-14 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 413-5
 	  - Code de la défense. - art. L1333-2
+	  - Code de la défense. - art. L1411-1
 
 
 ###### Article L1333-13-13
@@ -2611,8 +2608,8 @@ Les articles L. 1333-13-2 à L. 1333-13-11 sont également applicables lorsque s
 mentionnées au premier alinéa du présent article, mais seulement en ce qu'ils renvoient aux infractions prévues à l'article
 L. 1333-9. 
 
-Dans les limites qu'ils fixent, les articles L. 1333-13-12 à L. 1333-13-18 sont également applicables lorsque sont en cause
-des matières nucléaires mentionnées au premier alinéa du présent article.
+Les articles L. 1333-13-12 à L. 1333-13-18 sont également applicables lorsque sont en cause des matières nucléaires
+mentionnées au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -2623,12 +2620,12 @@ des matières nucléaires mentionnées au premier alinéa du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2015-588 du 2 juin 2015 - art. 1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 29
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-10
-	  - Code de la défense. - art. L1333-13-12
+	  - Code de la défense. - art. L1333-13-12 (V)
 	  - Code de la défense. - art. L1333-13-2
 	  - Code de la défense. - art. L1333-9
 
@@ -7852,13 +7849,8 @@ application des dispositions de l'article 413-9 du code pénal, à l'exclusion d
 classification ne relèvent pas des seules autorités françaises.
 
 L'avis de la Commission consultative du secret de la défense nationale est rendu à la suite de la demande d'une juridiction
-française.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 2312-1, alinéa 3, du code de la défense. La déclaration d'inconstitutionnalité prend effet le
-1er décembre 2011 dans les conditions fixées au considérant 38.
+française ou du président d'une des commissions permanentes de l'Assemblée nationale ou du Sénat chargées des affaires de
+sécurité intérieure, de la défense ou des finances.
 
 **Liens relatifs à cet article**
 
@@ -7868,7 +7860,7 @@ la Constitution l'article L. 2312-1, alinéa 3, du code de la défense. La décl
 
 	**Modifié par**:
 
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
 
 	**Cite**:
 
@@ -7941,19 +7933,14 @@ Le président est ordonnateur des dépenses de la commission. Il nomme les agent
 
 ###### Article L2312-4
 
-Une juridiction française dans le cadre d'une procédure engagée devant elle peut demander la déclassification et la
-communication d'informations, protégées au titre du secret de la défense nationale, à l'autorité administrative en charge de
-la classification. 
+Une juridiction française dans le cadre d'une procédure engagée devant elle ou le président d'une des commissions permanentes
+de l'Assemblée nationale ou du Sénat chargées des affaires de sécurité intérieure, de la défense ou des finances  peut
+demander la déclassification et la communication d'informations, protégées au titre du secret de la défense nationale, à
+l'autorité administrative en charge de la classification. 
 
 Cette demande est motivée.
 
 L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale.
-
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 2312-4, alinéa 4, du code de la défense. La déclaration d'inconstitutionnalité prend effet le
-1er décembre 2011 dans les conditions fixées au considérant 38.
 
 **Liens relatifs à cet article**
 
@@ -7971,12 +7958,12 @@ la Constitution l'article L. 2312-4, alinéa 4, du code de la défense. La décl
 
 	**Modifié par**:
 
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
 
 
 ###### Article L2312-5
 
-Le président de la commission peut mener toutes investigations utiles. 
+Le président de la Commission consultative du secret de la défense nationale  peut mener toutes investigations utiles. 
 
 Les membres de la commission sont autorisés à connaître de toute information classifiée dans le cadre de leur mission. 
 
@@ -7990,13 +7977,6 @@ l'autorité administrative par la commission lors de la transmission de son avis
 
 La commission établit son règlement intérieur.
 
-**Nota:**
-
-Dans sa décision n° 2011-192 QPC du 10 novembre 2011 (NOR : CSCX1130815S), le Conseil constitutionnel a déclaré contraire à
-la Constitution les mots " et d'accéder à tout lieu classifié " figurant au deuxième alinéa de l'article L. 2312-5 du code de
-la défense. La déclaration d'inconstitutionnalité prend effet le 1er décembre 2011 dans les conditions fixées au considérant
-38.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8005,7 +7985,7 @@ la défense. La déclaration d'inconstitutionnalité prend effet le 1er décembr
 
 	**Modifié par**:
 
-	  - Décision n°2011-192 QPC du 10 novembre 2011 - art. 1, v. init.
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
 
 	**Cite**:
 
@@ -8032,8 +8012,9 @@ motif que ce soit et prennent toutes mesures utiles pour la faciliter.
 
 ###### Article L2312-7
 
-La commission émet un avis dans un délai de deux mois à compter de sa saisine. Cet avis prend en considération les missions
-du service public de la justice, le respect de la présomption d'innocence et les droits de la défense, le respect des
+La Commission consultative du secret de la défense nationale émet un avis dans un délai de deux mois à compter de sa saisine.
+Cet avis prend en considération, d'une part, les missions du service public de la justice, le respect de la présomption
+d'innocence et les droits de la défense, ou l'exercice du pouvoir de contrôle du Parlement, d'autre part, le respect des
 engagements internationaux de la France ainsi que la nécessité de préserver les capacités de défense et la sécurité des
 personnels.
 
@@ -8051,8 +8032,12 @@ L'avis de la commission est transmis à l'autorité administrative ayant procéd
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
 
 	**Cité par**:
 
@@ -8062,9 +8047,10 @@ L'avis de la commission est transmis à l'autorité administrative ayant procéd
 
 ###### Article L2312-8
 
-Dans le délai de quinze jours francs à compter de la réception de l'avis de la commission, ou à l'expiration du délai de deux
-mois mentionné à l'article L. 2312-7, l'autorité administrative notifie sa décision, assortie du sens de l'avis, à la
-juridiction ayant demandé la déclassification et la communication d'informations classifiées. 
+Dans le délai de quinze jours francs à compter de la réception de l'avis de la Commission consultative du secret de la
+défense nationale, ou à l'expiration du délai de deux mois mentionné à l'article L. 2312-7, l'autorité administrative notifie
+sa décision, assortie du sens de l'avis, à la juridiction ou au président de la commission parlementaire  ayant demandé la
+déclassification et la communication d'informations classifiées. 
 
 Le sens de l'avis de la commission est publié au Journal officiel de la République française.
 
@@ -8076,12 +8062,16 @@ Le sens de l'avis de la commission est publié au Journal officiel de la Républ
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2312-7 (V)
+	  - Code de la défense. - art. L2312-7 (M)
 
 
 ##### Chapitre III : Règles spéciales
@@ -9929,27 +9919,24 @@ enfin, si la résistance est telle qu'elle ne puisse être vaincue que par la fo
 4° Lorsqu'ils ne peuvent immobiliser autrement les véhicules, embarcations ou autres moyens de transport dont les conducteurs
 n'obtempèrent pas à l'ordre d'arrêt.
 
-Ils sont également autorisés à faire usage de tous engins ou moyens appropriés tels que herses, hérissons, câbles, pour
-immobiliser les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommations.
+Les militaires mentionnés au premier alinéa et les volontaires dans les armées, en service au sein de la gendarmerie  sont
+également autorisés à faire usage de tous engins ou moyens appropriés tels que herses, hérissons, câbles, pour immobiliser
+les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi an VI-germinal-28 art. 231
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 26
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. L214-3 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L214-3 (VD)
 
 
 ##### Chapitre IX : Dispositions pénales
@@ -16268,7 +16255,7 @@ voie de détachement ou de mise à disposition.
 
 Les ressources de l'établissement public d'insertion de la défense sont constituées par : 
 
-1° Les subventions, avances, fonds de concours, dotations et participations de l'Etat, de la Communauté européenne, des
+1° Les subventions, avances, fonds de concours, dotations et participations de l'Etat, de l'Union  européenne, des
 collectivités territoriales, des établissements publics ou de toute autre personne morale ; 
 
 2° Les dons et legs ; 
@@ -16292,7 +16279,7 @@ travail et les ressources provenant de l'application de la législation sur la f
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 8
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 27
 
 	**Cite**:
 
@@ -17100,6 +17087,13 @@ imposées par la loi. Il prévoit des compensations aux contraintes et exigences
 ceux qui quittent l'état militaire les moyens d'un retour à une activité professionnelle dans la vie civile et assure aux
 retraités militaires le maintien d'un lien avec l'institution.
 
+La condition militaire recouvre l'ensemble des obligations et des sujétions propres à l'état militaire, ainsi que les
+garanties et les compensations apportées par la Nation aux militaires. Elle inclut les aspects statutaires, économiques,
+sociaux et culturels susceptibles d'avoir une influence sur l'attractivité de la profession et des parcours professionnels,
+le moral et les conditions de vie des militaires et de leurs ayants droit, la situation et l'environnement professionnels des
+militaires, le soutien aux malades, aux blessés et aux familles, ainsi que les conditions de départ des armées et d'emploi
+après l'exercice du métier militaire. 
+
 Un Haut Comité d'évaluation de la condition militaire établit un rapport annuel, adressé au Président de la République et
 transmis au Parlement. La composition du Haut Comité d'évaluation de la condition militaire et ses attributions sont fixées
 par décret.
@@ -17108,11 +17102,10 @@ par décret.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 1
 	  - Loi n°2005-270 du 24 mars 2005 - art. 1 (Ab)
 
 	**Cité par**:
@@ -17131,6 +17124,10 @@ par décret.
 	  - Code des pensions militaires d'invalidité et de... - art. R242-5 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R242-8 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R400 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 9
 
 
 ###### Article L4111-2
@@ -17266,8 +17263,12 @@ Les militaires qui sont élus et qui acceptent leur mandat sont placés dans la 
 
 L'exercice du droit de grève est incompatible avec l'état militaire.
 
-L'existence de groupements professionnels militaires à caractère syndical ainsi que l'adhésion des militaires en activité de
-service à des groupements professionnels sont incompatibles avec les règles de la discipline militaire.
+L'existence de groupements professionnels militaires à caractère syndical ainsi que, sauf dans les conditions prévues au
+troisième alinéa, l'adhésion des militaires en activité à des groupements professionnels sont incompatibles avec les règles
+de la discipline militaire. 
+
+Les militaires peuvent librement créer une association professionnelle nationale de militaires régie par le chapitre VI du
+présent titre, y adhérer et y exercer des responsabilités. 
 
 Il appartient au chef, à tous les échelons, de veiller aux intérêts de ses subordonnés et de rendre compte, par la voie
 hiérarchique, de tout problème de caractère général qui parviendrait à sa connaissance.
@@ -17276,11 +17277,10 @@ hiérarchique, de tout problème de caractère général qui parviendrait à sa 
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 6
 	  - Loi n°2005-270 du 24 mars 2005 - art. 6 (Ab)
 
 	**Cité par**:
@@ -17288,6 +17288,10 @@ hiérarchique, de tout problème de caractère général qui parviendrait à sa 
 	  - Décret n°2008-967 du 16 septembre 2008 - art. 3 (V)
 	  - Code de la défense. - art. L4143-1 (V)
 	  - Code de la défense. - art. L4144-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 10
 
 
 ###### Article L4121-5
@@ -18224,25 +18228,39 @@ Le Conseil supérieur de la fonction militaire est le cadre institutionnel dans 
 de la condition de l'ensemble des militaires.
 
 Le Conseil supérieur de la fonction militaire exprime son avis sur les questions de caractère général relatives à la
-condition et au statut des militaires. Il est obligatoirement saisi des projets de textes d'application du présent livre
-ayant une portée statutaire.
+condition militaire. Il est obligatoirement saisi des projets de  loi modifiant le présent livre et des textes d'application
+de ce livre ayant une portée statutaire, indiciaire ou indemnitaire.
+
+Une représentation du Conseil supérieur de la fonction militaire est appelée à s'exprimer, chaque année, devant le Haut
+Comité d'évaluation de la condition militaire. Elle peut, en outre, demander à être entendue par ce dernier sur toute
+question générale intéressant la condition militaire.  
 
 Les conseils de la fonction militaire dans les armées et les formations rattachées étudient toute question relative à leur
-armée, direction ou service concernant les conditions de vie, d'exercice du métier militaire ou d'organisation du travail ;
-ils procèdent également à une première étude des questions inscrites à l'ordre du jour du Conseil supérieur de la fonction
-militaire.
+armée, direction ou service concernant les conditions de vie, d'exercice du métier militaire ou d'organisation du travail.
+Ils peuvent également procéder à une étude des questions inscrites à l'ordre du jour du Conseil supérieur de la fonction
+militaire qui concernent leur armée, direction ou service.
 
 Les membres du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire jouissent des garanties
 indispensables à leur liberté d'expression. Toutes informations et facilités nécessaires à l'exercice de leurs fonctions
 doivent leur être fournies.
 
-La composition, l'organisation, le fonctionnement et les conditions de désignation, notamment par tirage au sort, des membres
-de ces conseils sont fixés par décret en Conseil d'Etat.
+La composition, l'organisation, le fonctionnement et les conditions de désignation, notamment par tirage au sort ou par
+élection, des membres de ces conseils sont fixés par décret en Conseil d'Etat.
 
 Les retraités militaires sont représentés au sein du Conseil supérieur de la fonction militaire.
 
+Lorsqu'elles sont reconnues représentatives pour siéger au Conseil supérieur de la fonction militaire, les associations
+professionnelles nationales de militaires et leurs unions ou fédérations y sont représentées dans la limite du tiers du total
+des sièges.  
+
 Le ministre de la défense communique aux commissions compétentes de chaque assemblée parlementaire un rapport annuel de
 synthèse des travaux du Conseil supérieur de la fonction militaire.
+
+**Nota:**
+
+Conformément à l'article 32 I de la loi n° 2015-917 du 28 juillet 2015, l'avant-dernier alinéa de l'article L. 4124-1 du code
+de la défense, dans sa rédaction résultant du e du 2° de l'article 10 de la présente loi, entre en vigueur à une date fixée
+par décret en Conseil d'Etat, et au plus tard dix-huit mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -18265,7 +18283,266 @@ synthèse des travaux du Conseil supérieur de la fonction militaire.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 46
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 10
+
+
+##### Chapitre VI : Associations professionnelles nationales de militaires
+
+##### Section 1 : Régime juridique
+
+
+###### Article L4126-1
+
+Les associations professionnelles nationales de militaires sont régies par le présent chapitre et, en tant qu'elles n'y sont
+pas contraires, par les dispositions du titre Ier de la loi du 1er juillet 1901 relative au contrat d'association et, pour
+les associations qui ont leur siège dans les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, par les dispositions du
+code civil local.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+
+###### Article L4126-2
+
+Les associations professionnelles nationales de militaires ont pour objet de préserver et de promouvoir les intérêts des
+militaires en ce qui concerne la condition militaire. 
+
+Elles sont exclusivement constituées des militaires mentionnés à l'article L. 4111-2. Elles représentent les militaires, sans
+distinction de grade, appartenant à l'ensemble des forces armées et des formations rattachées ou à au moins l'une des forces
+armées mentionnées à l'article L. 3211-1 ou à une formation rattachée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L4111-2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-10 (V)
+
+
+###### Article L4126-3
+
+Les associations professionnelles nationales de militaires peuvent se pourvoir et intervenir devant les juridictions
+compétentes contre tout acte réglementaire relatif à la condition militaire et contre les décisions individuelles portant
+atteinte aux intérêts collectifs de la profession. Elles ne peuvent contester la légalité des mesures d'organisation des
+forces armées et des formations rattachées.
+
+Elles peuvent exercer tous les droits reconnus à la partie civile concernant des faits dont elles sont personnellement et
+directement victimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+
+###### Article L4126-4
+
+Aucune discrimination ne peut être faite entre les militaires en raison de leur appartenance ou de leur non-appartenance à
+une association professionnelle nationale de militaires. 
+
+Sans préjudice de l'article L. 4121-2, les membres des associations professionnelles nationales de militaires jouissent des
+garanties indispensables à leur liberté d'expression pour les questions relevant de la condition militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4121-2
+
+
+###### Article L4126-5
+
+Une association professionnelle nationale de militaires doit avoir son siège social en France.
+
+Sans préjudice de l'article 5 de la loi du 1er juillet 1901 précitée et des articles 55 et 59 du code civil local, pour les
+associations ayant leur siège dans les départements du Bas-Rhin, du Haut-Rhin ou de la Moselle, toute association
+professionnelle nationale de militaires doit déposer ses statuts et la liste de ses administrateurs auprès du ministre de la
+défense pour obtenir la capacité juridique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1er juillet 1901 - art. 5
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-8 (V)
+
+
+###### Article L4126-6
+
+Les statuts ou l'activité d'une association professionnelle nationale de militaires ne peuvent porter atteinte aux valeurs
+républicaines ou aux principes fondamentaux de l'état militaire mentionnés aux deux premiers alinéas de l'article L. 4111-1
+ni aux obligations énoncées aux articles L. 4121-1 à L. 4121-5 et L. 4122-1. Son activité doit s'exercer dans des conditions
+compatibles avec l'exécution des missions et du service des forces armées et ne pas interférer avec la préparation et la
+conduite des opérations. 
+
+Les associations sont soumises à une stricte obligation d'indépendance, notamment à l'égard du commandement, des partis
+politiques, des groupements à caractère confessionnel, des organisations syndicales de salariés et des organisations
+professionnelles d'employeurs, des entreprises, ainsi que des Etats. Elles ne peuvent constituer d'unions ou de fédérations
+qu'entre elles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4121-1
+	  - Code de la défense. - art. L4122-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-10 (V)
+	  - Code de la défense. - art. R4126-2 (V)
+
+
+###### Article L4126-7
+
+Lorsque les statuts d'une association professionnelle nationale de militaires sont contraires à la loi ou en cas de refus
+caractérisé d'une association professionnelle nationale de militaires de se conformer aux obligations auxquelles elle est
+soumise, l'autorité administrative compétente peut, après une injonction demeurée infructueuse, solliciter de l'autorité
+judiciaire le prononcé d'une mesure de dissolution ou des autres mesures prévues à l'article 7 de la loi du 1er juillet 1901
+précitée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1er juillet 1901 - art. 7
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4126-2 (V)
+
+
+##### Section 2 : Les associations professionnelles nationales de militaires représentatives
+
+###### Article L4126-8
+
+I.-Peuvent être reconnues représentatives les associations professionnelles nationales de militaires satisfaisant aux
+conditions suivantes : 
+
+1° Le respect des obligations mentionnées à la section 1 du présent chapitre ; 
+
+2° La transparence financière ; 
+
+3° Une ancienneté minimale d'un an à compter de l'accomplissement de la formalité prévue au second alinéa de l'article L.
+4126-5 ; 
+
+4° Une influence significative, mesurée en fonction de l'effectif des adhérents, des cotisations perçues et de la diversité
+des groupes de grades mentionnés aux 1° à 3° du I de l'article L. 4131-1 représentés. 
+
+II.-Peuvent siéger au Conseil supérieur de la fonction militaire les associations professionnelles nationales de militaires
+ou leurs unions et fédérations reconnues, en outre, représentatives d'au moins trois forces armées et de deux formations
+rattachées, dans des conditions fixées par le décret mentionné à l'article L. 4126-10. 
+
+III.-La liste des associations professionnelles nationales de militaires représentatives est fixée par l'autorité
+administrative compétente. Elle est régulièrement actualisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-10 (V)
+	  - Code de la défense. - art. R4126-6 (V)
+	  - Code général des impôts, CGI. - art. 199 quater C (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4126-5
+	  - Code de la défense. - art. L4131-1
+
+
+###### Article L4126-9
+
+Les associations professionnelles nationales de militaires représentatives ont qualité pour participer au dialogue organisé,
+au niveau national, par les ministres de la défense et de l'intérieur ainsi que par les autorités militaires, sur les
+questions générales intéressant la condition militaire.
+
+Elles sont appelées à s'exprimer, chaque année, devant le Haut Comité d'évaluation de la condition militaire. Elles peuvent,
+en outre, demander à être entendues par ce dernier sur toute question générale intéressant la condition militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4126-6 (V)
+
+
+##### Section 3 : Dispositions diverses
+
+
+###### Article L4126-10
+
+Les conditions d'application du présent chapitre sont fixées par décret en Conseil d'Etat. Ce décret détermine notamment : 
+
+1° Les modalités de la transparence financière mentionnées au 2° du I de l'article L. 4126-8 ; 
+
+2° Les seuils à partir desquels les associations satisfont à la condition de représentativité prévue au 4° du même I ; 
+
+3° La fréquence d'actualisation de la liste mentionnée au III du même article L. 4126-8, qui ne peut être supérieure à un an
+pendant les trois années suivant la promulgation de la loi n° 2015-917 du 28 juillet 2015 actualisant la programmation
+militaire pour les années 2015 à 2019 et portant diverses dispositions concernant la défense ; 
+
+4° Les facilités matérielles accordées aux associations afin de leur permettre d'exercer leurs activités dans les conditions
+prévues aux articles L. 4126-2, L. 4126-3, L. 4126-6, L. 4126-8 et L. 4126-9 ; 
+
+5° La nature des vérifications auxquelles le ministre de la défense procède pour vérifier la licéité des statuts que les
+associations professionnelles nationales de militaires déposent auprès de lui en vue d'obtenir la capacité juridique ainsi
+que les conditions et le délai dans lesquels le ministre de la défense procède à ces vérifications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2015-917 du 28 juillet 2015
+	  - Code de la défense. - art. L4126-2
+	  - Code de la défense. - art. L4126-6
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4126-8 (V)
 
 
 #### TITRE III : DISPOSITIONS STATUTAIRES RELATIVES AUX DÉROULEMENTS DES CARRIÈRES
@@ -19625,13 +19902,18 @@ service, s'il se trouve dans l'impossibilité d'exercer ses fonctions et s'il pr
 réinsertion ou de reconversion au sein du ministère de la défense ou, pour les militaires de la gendarmerie nationale, au
 sein du ministère de l'intérieur. 
 
+Ce congé est également attribué, dans les mêmes conditions, au militaire blessé ou ayant contracté une maladie au cours d'une
+opération de sécurité intérieure, désignée par arrêté interministériel, visant à la défense de la souveraineté de la France
+ou à la préservation de l'intégrité de son territoire, d'une intensité et d'une dangerosité particulières, assimilables à
+celles d'une opération extérieure.  
+
 Un décret en Conseil d'Etat fixe les modalités d'attribution de ce congé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 20 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 17
 
 	**Cité par**:
 
@@ -20170,10 +20452,11 @@ il a droit aux deux cinquièmes de sa solde augmentée de l'indemnité de résid
 
 ###### Article L4138-16
 
-Le congé pour convenances personnelles, non rémunéré, peut être accordé au militaire, sur demande agréée, pour une durée
-maximale de deux ans renouvelable dans la limite totale de dix ans.
+Sans préjudice du d du 1° de l'article L. 9 du code des pensions civiles et militaires de retraite, le congé pour convenances
+personnelles, non rémunéré, peut être accordé au militaire, sur demande agréée, pour une durée maximale de deux ans
+renouvelable dans la limite totale de dix ans. 
 
-Le nombre de congés pour convenances personnelles est fixé annuellement par voie réglementaire.
+Le nombre de congés pour convenances personnelles est fixé annuellement par voie réglementaire. 
 
 Le temps passé dans cette situation ne compte ni pour l'avancement, ni pour les droits à pension de retraite.
 
@@ -20189,12 +20472,19 @@ Le temps passé dans cette situation ne compte ni pour l'avancement, ni pour les
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 60
 	  - Loi n°2005-270 du 24 mars 2005 - art. 60 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 16
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L9 (V)
 
 
 ##### Chapitre IX : Fin de l'état militaire
@@ -20212,9 +20502,14 @@ lequel il s'est engagé à rester en position d'activité à la suite d'une form
 liée au recrutement ou à la fidélisation. 
 
 Sous réserve des dispositions de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la
-magistrature, le militaire lauréat de l'un de ces concours est titularisé et reclassé, dans le corps ou le cadre d'emploi
-d'accueil dans des conditions équivalentes, précisées par décret en Conseil d'Etat, à celles prévues pour un fonctionnaire
-par le statut particulier de ce corps ou de ce cadre d'emploi. 
+magistrature, le militaire lauréat de l'un de ces concours, ou admis à un recrutement sans concours prévu par le statut
+particulier d'un corps ou cadre d'emplois de fonctionnaires de catégorie C pour l'accès au premier grade de ce corps ou cadre
+d'emplois, est titularisé et reclassé, dans le corps ou le cadre d'emploi d'accueil dans des conditions équivalentes,
+précisées par décret en Conseil d'Etat, à celles prévues pour un fonctionnaire par le statut particulier de ce corps ou de ce
+cadre d'emploi. 
+
+Lorsque le militaire ne peut bénéficier du détachement mentionné au premier alinéa, il est reclassé dès sa nomination dans le
+corps ou cadre d'emplois d'accueil, dans les conditions prévues au deuxième alinéa. 
 
 Pour remplir les conditions de candidature à ces concours, les diplômes et qualifications militaires pourront, dans les
 conditions fixées par décret en Conseil d'Etat, être substitués aux titres et diplômes exigés par les statuts particuliers
@@ -20283,15 +20578,15 @@ des corps et cadres d'emplois d'accueil.
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 66
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 ###### Article L4139-2
 
-Le militaire, remplissant les conditions de grade et d'ancienneté fixées par décret, peut, sur demande agréée, après un stage
-probatoire, être détaché pour occuper des emplois vacants et correspondant à ses qualifications au sein des administrations
-de l'Etat, des collectivités territoriales, de la fonction publique hospitalière et des établissements publics à caractère
-administratif, nonobstant les règles de recrutement pour ces emplois. 
+I.-Le militaire, remplissant les conditions de grade et d'ancienneté peut, sur demande agréée, après un stage probatoire,
+être détaché, dans les conditions prévues par décret en Conseil d'Etat, pour occuper des emplois vacants et correspondant à
+ses qualifications au sein des administrations de l'Etat, des collectivités territoriales, de la fonction publique
+hospitalière et des établissements publics à caractère administratif, nonobstant les règles de recrutement pour ces emplois. 
 
 Les contingents annuels de ces emplois sont fixés par voie réglementaire pour chaque administration de l'Etat et pour chaque
 catégorie de collectivité territoriale ou établissement public administratif, compte tenu des possibilités d'accueil. 
@@ -20303,10 +20598,20 @@ portée à deux ans. La période initiale de détachement peut être prolongée 
 
 Le militaire du rang détaché dans un corps ou un cadre d'emplois depuis deux ans en application de l'article 13 ter de la loi
 n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires peut demander son intégration dans ce corps ou
-ce cadre d'emplois dans les conditions prévues au troisième alinéa du présent article. 
+ce cadre d'emplois dans les conditions prévues au troisième alinéa du présent I. 
 
 En cas d'intégration ou de titularisation, l'intéressé est reclassé à un échelon comportant un indice égal ou, à défaut,
-immédiatement supérieur à celui détenu dans le corps d'origine.
+immédiatement supérieur à celui détenu dans le corps d'origine. 
+
+II.-Le militaire servant en vertu d'un contrat bénéficie d'une prorogation de droit de son contrat jusqu'à la fin de son
+détachement et de son renouvellement éventuel, y compris au-delà de la limite de durée des services fixée au II de l'article
+L. 4139-16. 
+
+III.-La condition de nationalité fixée au 1° de l'article 5 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires n'est pas opposable aux militaires ayant servi à titre de non-nationaux pendant une durée
+fixée par décret en Conseil d'Etat. Toutefois, ceux-ci n'ont pas accès aux emplois dont les attributions soit ne sont pas
+séparables de l'exercice de la souveraineté, soit comportent une participation directe ou indirecte à l'exercice de
+prérogatives de puissance publique.
 
 **Liens relatifs à cet article**
 
@@ -20380,7 +20685,9 @@ immédiatement supérieur à celui détenu dans le corps d'origine.
 
 	**Cite**:
 
-	  - Loi n°83-634 du 13 juillet 1983 - art. 13 (V)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 13
+	  - Loi n°83-634 du 13 juillet 1983 - art. 5
+	  - Code de la défense. - art. L4139-16
 
 	**Codifié par**:
 
@@ -20392,7 +20699,7 @@ immédiatement supérieur à celui détenu dans le corps d'origine.
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 62
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 ###### Article L4139-3
@@ -20451,6 +20758,10 @@ qu'il aurait perçue s'il était resté en position d'activité au sein des arm�
 promotion n'est prononcée durant ce détachement et le militaire est radié des cadres ou rayé des contrôles de l'armée active
 à la date de son intégration ou de sa titularisation dans le corps ou le cadre d'emploi d'accueil. 
 
+Hormis pour l'attribution de la bonification prévue au i de l'article L. 12 du code des pensions civiles et militaires de
+retraite, le temps passé en position de détachement prévu aux articles L. 4139-1 à L. 4139-3 du présent code est pris en
+compte, pour la liquidation de la pension, comme une période de services militaires effectifs. 
+
 Le militaire non intégré ou non titularisé au titre des dispositions des articles L. 4139-1 à L. 4139-3 est réintégré, même
 en surnombre, dans son corps d'origine ou sa formation de rattachement.
 
@@ -20458,16 +20769,20 @@ en surnombre, dans son corps d'origine ou sa formation de rattachement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 64
 	  - Loi n°2005-270 du 24 mars 2005 - art. 64 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-1 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code de la défense. - art. L4139-1
 
 	**Cité par**:
 
@@ -20998,33 +21313,32 @@ de la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires ;
 7° Au terme du congé du personnel navigant, à l'exception des officiers généraux placés en deuxième section des officiers
 généraux, dans les conditions prévues aux articles L. 4139-6, L. 4139-7, L. 4139-10 et L. 4141-3 ; 
 
-8° Lors de la titularisation dans une fonction publique, ou dès la réussite à un concours de l'une des fonctions publiques
-pour les militaires ne bénéficiant pas du détachement prévu au premier alinéa de l'article L. 4139-1, dans les conditions
-prévues à la section 1 du présent chapitre.
+8° Lors de la titularisation dans la fonction publique ou, pour les militaires qui ne répondent pas aux obligations fixées au
+premier alinéa de l'article L. 4139-1 leur permettant d'être détachés, dès la nomination dans un corps ou cadre d'emplois de
+fonctionnaires, dans les conditions prévues à la section 1 du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
-	**Anciens textes**:
-
-	  - Loi n°2005-270 2005-03-24 art. 74
-	  - Loi n°2005-270 du 24 mars 2005 - art. 74 (Ab)
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Loi n°2005-270 du 24 mars 2005 - art. 89 (V)
-	  - Code de la défense. - art. L4139-1 (V)
-	  - Code de la défense. - art. L4139-10 (V)
-	  - Code de la défense. - art. L4139-16 (V)
-	  - Code de la défense. - art. L4139-5 (V)
-	  - Code de la défense. - art. L4139-6 (V)
-	  - Code de la défense. - art. L4139-7 (V)
-	  - Code de la défense. - art. L4139-9 (V)
-	  - Code de la défense. - art. L4141-3 (V)
-	  - Code de la défense. - art. L4141-5 (V)
+	  - Loi n°2005-270 du 24 mars 2005 - art. 89
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. L4139-10
+	  - Code de la défense. - art. L4139-16
+	  - Code de la défense. - art. L4139-5
+	  - Code de la défense. - art. L4139-6
+	  - Code de la défense. - art. L4139-7
+	  - Code de la défense. - art. L4139-9
+	  - Code de la défense. - art. L4141-3
+	  - Code de la défense. - art. L4141-5
+
+	**Anciens textes**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 74 (Ab)
 
 	**Cité par**:
 
@@ -21066,6 +21380,10 @@ prévues à la section 1 du présent chapitre.
 	  - Code de la défense. - art. R4139-47 (V)
 	  - Code de la défense. - art. R4139-51 (V)
 	  - Code de la défense. - art. R4139-52 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 ###### Article L4139-15
@@ -22395,7 +22713,7 @@ environnement civil ;
 5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9. 
 
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
-réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4. 
+réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4  ou au 3° de l'article L. 4221-4-1. 
 
 Cette clause est soumise à l'accord de l'employeur. 
 
@@ -22424,7 +22742,7 @@ organisation internationale.
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 10
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 18
 
 	**Cite**:
 
@@ -22528,6 +22846,42 @@ conventions conclues entre l'employeur et le ministre de la défense.
 	**Cite**:
 
 	  - Code de la défense. - art. L4221-5
+
+
+###### Article L4221-4-1
+
+En cas de crise menaçant la sécurité nationale, le ministre de la défense, ou le ministre de l'intérieur pour les réservistes
+de la gendarmerie nationale, peut, par arrêté pris dans les conditions fixées par un décret en Conseil d'Etat : 
+
+1° Réduire à quinze jours le délai prévu au premier alinéa de l'article L. 4221-4 ; 
+
+2° Porter à dix le nombre de jours d'activité accomplis pendant le temps de travail prévu au deuxième alinéa du même article
+L. 4221-4 ; 
+
+3° Réduire à cinq jours le préavis prévu au troisième alinéa dudit article L. 4221-4. 
+
+L'arrêté détermine sa durée d'application. 
+
+En cas de nécessité inhérente à la poursuite de la production de biens ou de services ou à la continuité du service public,
+les réservistes employés par des opérateurs publics et privés ou des gestionnaires d'établissements désignés par l'autorité
+administrative conformément aux articles L. 1332-1 et L. 1332-2 peuvent être dégagés des obligations prévues au présent
+article, à la demande de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 18
+
+	**Cité par**:
+
+	  - Arrêté du 4 janvier 2016 - art. 1 (VT)
+	  - Code de la défense. - art. R4221-10-2 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+	  - Code de la défense. - art. L4221-4
 
 
 ###### Article L4221-5
@@ -22741,9 +23095,9 @@ durée qui ne peut excéder un total de cinq jours sur une durée de cinq ans.
 
 ###### Article L4231-3
 
-Les personnes soumises à l'obligation de disponibilité sont tenues de répondre, dans les circonstances prévues aux articles
-L. 4231-4 et L. 4231-5, aux ordres d'appel individuels ou collectifs et de rejoindre leur affectation pour servir au lieu et
-dans les conditions qui leur sont assignés.
+Les personnes soumises à l'obligation de disponibilité sont tenues de répondre, dans les circonstances prévues à l'article L.
+4231-4, aux ordres d'appel individuels ou collectifs et de rejoindre leur affectation pour servir au lieu et dans les
+conditions qui leur sont assignés.
 
 **Liens relatifs à cet article**
 
@@ -22753,12 +23107,15 @@ dans les conditions qui leur sont assignés.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 18
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4231-4 (V)
-	  - Code de la défense. - art. L4231-5 (V)
+	  - Code de la défense. - art. L4231-4
 
 
 ###### Article L4231-4
@@ -23191,46 +23548,34 @@ l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5.
 
 ### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
-
-##### Chapitre unique
-
-###### Article L4331-1
-
-Sont applicables à Mayotte les dispositions des articles L. 4111-1 à L. 4271-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 34 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L4111-1
-
-
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
 
 ##### Chapitre unique
 
 ###### Article L4341-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5.
+Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
+2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
+dispositions concernant la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-1 (V)
+	  - Loi n°2015-917 du 28 juillet 2015
+	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. L4139-14
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -23239,17 +23584,28 @@ Sont applicables dans les îles Wallis et Futuna les dispositions des articles L
 
 ###### Article L4351-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
+Sont applicables en Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
+2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
+dispositions concernant la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-1 (V)
+	  - Loi n°2015-917 du 28 juillet 2015
+	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. L4139-14
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -23258,17 +23614,28 @@ Sont applicables en Polynésie française les dispositions des articles L. 4111-
 
 ###### Article L4361-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
+Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
+2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
+dispositions concernant la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-1 (V)
+	  - Loi n°2015-917 du 28 juillet 2015
+	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. L4139-14
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -23277,17 +23644,24 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 
 
 ###### Article L4371-1
 
-Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3.
+Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3. 
+
+Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
+2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
+dispositions concernant la défense.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2009-971 du 3 août 2009 - art. 24
-
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-1 (V)
+	  - Loi n°2015-917 du 28 juillet 2015
+	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4139-1 (V)
+	  - Code de la défense. - art. L4139-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
 
 
 ## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES

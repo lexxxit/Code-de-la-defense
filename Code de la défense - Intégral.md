@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-08-03
+Version Consolidée au 2015-10-03
 
 # Partie législative
 
@@ -14895,55 +14895,6 @@ considération des circonstances de l'infraction et de la personnalité de son a
 	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
 
-#### TITRE VII : DU RENSEIGNEMENT
-
-##### Chapitre unique
-
-###### Article L2371-1
-
-Pour l'exercice d'une mission intéressant la défense et la sécurité nationale, les agents des services spécialisés de
-renseignement peuvent, sous l'autorité de l'agent chargé de superviser ou de coordonner la mission, faire usage d'une
-identité d'emprunt ou d'une fausse qualité. 
-
-Dans ce cas, ne sont pas pénalement responsables de cet usage les agents mentionnés au premier alinéa, non plus que de leurs
-actes les personnes requises à seule fin d'établir ou de permettre l'usage de l'identité d'emprunt ou de la fausse qualité.
-Les articles 50 à 52 du code civil ne sont pas applicables à ces personnes. 
-
-Les services spécialisés de renseignement mentionnés au premier alinéa du présent article sont désignés par arrêté du Premier
-ministre parmi les services mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au
-fonctionnement des assemblées parlementaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
-	  - Code civil - art. 50
-
-	**Créé par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 27
-
-	**Cité par**:
-
-	  - Arrêté du 9 mai 2011 - art. 1 (VD)
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-	  - Code de la défense. - art. L2431-1 (V)
-	  - Code de la défense. - art. L2441-1 (V)
-	  - Code de la défense. - art. L2451-1 (V)
-	  - Code de la défense. - art. L2461-1 (V)
-	  - Code de la défense. - art. L2471-1 (V)
-	  - Code pénal - art. 413-13 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L861-2 (V)
-
-
 ### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
 #### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON
@@ -15046,7 +14997,13 @@ le même objet applicables localement.
 ###### Article L2431-1
 
 Sont applicables à Mayotte les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1 à L. 2313-3,
-L. 2322-1 à L. 2353-13 et L. 2371-1.
+L. 2322-1 à L. 2353-13.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -15057,15 +15014,18 @@ L. 2322-1 à L. 2353-13 et L. 2371-1.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 139
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2112-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
+	  - Code de la défense. - art. L2112-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2371-1
 
 
 ###### Article L2431-2
@@ -15164,7 +15124,13 @@ applicables localement.
 
 Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
 L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, 
-L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
+L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -15175,7 +15141,7 @@ L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 9
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -15186,11 +15152,10 @@ L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
 	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2371-1
 
 	**Cité par**:
 
-	  - Code de la défense. - art. L2451-1 (V)
+	  - Code de la défense. - art. L2451-1 (M)
 
 
 ###### Article L2441-2
@@ -15320,13 +15285,19 @@ Sont applicables en Polynésie française, les dispositions des articles L. 2112
 2311-1 à L. 2312-8, L. 2313-4, 
 L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, 
 L. 2344-1 à L. 2344-11, 
-L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 2371-1.
+L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 10
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -15339,8 +15310,7 @@ L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13 et L. 2371-1.
 	  - Code de la défense. - art. L2352-2
 	  - Code de la défense. - art. L2353-11
 	  - Code de la défense. - art. L2353-4
-	  - Code de la défense. - art. L2371-1
-	  - Code de la défense. - art. L2441-1
+	  - Code de la défense. - art. L2441-1 (M)
 
 
 ###### Article L2451-2
@@ -15518,8 +15488,13 @@ autorisation.
 ###### Article L2461-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L.
-2371-1.
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -15530,7 +15505,7 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 11
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 	**Cite**:
 
@@ -15540,7 +15515,6 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
 	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2371-1
 
 
 ###### Article L2461-2
@@ -15684,10 +15658,16 @@ objet applicables localement.
 
 ###### Article L2471-1
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
 2161-3, L. 2211-1 à L. 2223-19, 
-L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13 et L. 2371-1.
+L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
+
+**Nota:**
+
+Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
+sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
+officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
@@ -15701,7 +15681,6 @@ L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-
 	  - Code de la défense. - art. L2311-1
 	  - Code de la défense. - art. L2322-1
 	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2371-1
 
 	**Codifié par**:
 
@@ -15710,7 +15689,7 @@ L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 12
+	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
 
 
 ###### Article L2471-2
@@ -24578,25 +24557,25 @@ assuré par le secrétaire général de la défense et de la sécurité national
 
 ###### Article D1122-8-1
 
-Les services spécialisés de renseignement, mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958
-relative au fonctionnement des assemblées parlementaires, sont la direction générale de la sécurité extérieure, la direction
-de la protection et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la
-sécurité intérieure, le service à compétence nationale dénommé " direction nationale du renseignement et des enquêtes
-douanières " et le service à compétence nationale dénommé " traitement du renseignement et action contre les circuits
-financiers clandestins ". 
+Les services spécialisés de renseignement, désignés à l'article R. 811-1 du code de la sécurité intérieure, forment avec le
+coordonnateur national du renseignement et l'académie du renseignement la communauté française du renseignement.
 
-Ces services forment avec le coordonnateur national du renseignement et l'académie du renseignement la communauté française
-du renseignement.
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies
+	  - Code de la sécurité intérieure - art. R811-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-474 du 12 mai 2014 - art. 1
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 
 ###### Article R*1122-6
@@ -39095,9 +39074,8 @@ D. * 1132-39 à D. * 1132-42 ;
 
 Sont applicables à Mayotte, sous réserve des adaptations prévues à l'article D. 1631-7 et au titre VIII du présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, 
-D. 1142-30 à D. 1142-34,
-D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34,D. 1143-9 à D.
+1143-13 ; 
 
 2° Au livre III, les dispositions des articles D. 1313-7 à D. 1313-10, D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D.
 1334-5 à D. 1334-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
@@ -39106,25 +39084,26 @@ D. 1143-9 à D. 1143-13 ;
 
 4° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1132-34
-	  - Code de la défense. - art. D1132-4
-	  - Code de la défense. - art. D1132-43
-	  - Code de la défense. - art. D1132-53 (V)
-	  - Code de la défense. - art. D1142-30 (V)
-	  - Code de la défense. - art. D1143-9 (V)
+	  - Code de la défense. - art. D1132-53
+	  - Code de la défense. - art. D1143-9
 	  - Code de la défense. - art. D1313-7
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
 	  - Code de la défense. - art. D1334-5
-	  - Code de la défense. - art. D1336-43
 	  - Code de la défense. - art. D1337-14
 	  - Code de la défense. - art. D1338-6
 	  - Code de la défense. - art. D1443-2
@@ -39368,7 +39347,8 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 et au titre VIII
 du présent livre :
 
-1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
+1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
+1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
 1333-68 et D. 1333-69, D. 1334-5 à D. 1334-14, D. 1337-14 à D. 1337-17, D. 1338-6 ;
@@ -39379,11 +39359,17 @@ du présent livre :
 
 5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 	**Cite**:
 
@@ -39703,7 +39689,8 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 1651-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ; 
+1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
+1143-13 ; 
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
 1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
@@ -39714,26 +39701,26 @@ présent livre :
 
 5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15, et D. 1681-16.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1132-34
-	  - Code de la défense. - art. D1132-4
-	  - Code de la défense. - art. D1132-43
-	  - Code de la défense. - art. D1132-53 (V)
-	  - Code de la défense. - art. D1142-30
-	  - Code de la défense. - art. D1143-9 (V)
+	  - Code de la défense. - art. D1132-53
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
 	  - Code de la défense. - art. D1333-55
 	  - Code de la défense. - art. D1333-68
 	  - Code de la défense. - art. D1334-5
-	  - Code de la défense. - art. D1336-43
 	  - Code de la défense. - art. D1337-14
 	  - Code de la défense. - art. D1338-6
 	  - Code de la défense. - art. D1443-2
@@ -40063,7 +40050,8 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 1661-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
+1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
+1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
 1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14 et D. 1337-14 à D. 1337-17, D. 1338-6 ; 
@@ -40074,25 +40062,25 @@ présent livre :
 
 5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1132-34
-	  - Code de la défense. - art. D1132-4
-	  - Code de la défense. - art. D1132-43
-	  - Code de la défense. - art. D1142-30
-	  - Code de la défense. - art. D1143-9
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
 	  - Code de la défense. - art. D1333-55
 	  - Code de la défense. - art. D1333-68
 	  - Code de la défense. - art. D1334-5
-	  - Code de la défense. - art. D1336-43
 	  - Code de la défense. - art. D1337-14
 	  - Code de la défense. - art. D1338-6
 	  - Code de la défense. - art. D1443-2
@@ -40436,7 +40424,8 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues à l'article D. 1671-7 et au titre VIII du
 présent livre : 
 
-1° Au livre Ier, les dispositions des articles D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D. 1143-13 ;
+1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
+1143-13 ;
 
 2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
 1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
@@ -40448,22 +40437,22 @@ présent livre :
 5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, 
 D. 1681-15 et D. 1681-16.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2015-1185 du 28 septembre 2015, le présent décret entre en vigueur le lendemain de la
+publication au Journal officiel de la République française du décret mentionné au I de l'article 26 de la loi n° 2015-912 du
+24 juillet 2015 relative au renseignement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. D1132-34
-	  - Code de la défense. - art. D1132-4
-	  - Code de la défense. - art. D1132-43
-	  - Code de la défense. - art. D1142-30
-	  - Code de la défense. - art. D1143-9
 	  - Code de la défense. - art. D1321-2
 	  - Code de la défense. - art. D1332-39
 	  - Code de la défense. - art. D1333-55
 	  - Code de la défense. - art. D1333-68
 	  - Code de la défense. - art. D1334-5
-	  - Code de la défense. - art. D1336-43
 	  - Code de la défense. - art. D1337-14
 	  - Code de la défense. - art. D1338-6
 	  - Code de la défense. - art. D1443-2
@@ -40473,7 +40462,7 @@ D. 1681-15 et D. 1681-16.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1657 du 24 décembre 2009 - art. 4
+	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
 
 
 ###### Article D1671-7

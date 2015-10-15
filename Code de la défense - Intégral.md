@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-10-11
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -3685,92 +3685,31 @@ ainsi :
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-###### Article L1621-2
-
-Pour l'application de l'article L. 1322-2, la référence aux dispositions du code général des collectivités territoriales est
-remplacée par la référence aux dispositions du code des communes applicable à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1322-2
-
-
 ###### Article L1621-3
 
 Les règles relatives à la constitution et à la conservation des stocks stratégiques pétroliers sont définies, dans la
-collectivité territoriale de Saint-Pierre-et-Miquelon, par l'article 57 de la loi n° 93-1 du 4 janvier 1993 portant
-dispositions diverses relatives aux départements d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales
-de Mayotte et de Saint-Pierre-et-Miquelon.
+collectivité territoriale de Saint-Pierre-et-Miquelon, par                                                 l'article L. 671-1
+du code de l'énergie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
-
-##### Chapitre unique
-
-###### Article L1631-1
-
-Sont applicables à Mayotte les dispositions des articles L. 1111-1 à L. 1334-1 et L. 1521-1 à L. 1521-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1111-1
-	  - Code de la défense. - art. L1521-10
-
-
-###### Article L1631-2
-
-Les règles relatives à la constitution et à la conservation des stocks stratégiques pétroliers sont définies, à Mayotte, par
-l'article 57 de la loi n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux départements d'outre-mer, aux
-territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57
 
 	**Codifié par**:
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de l'énergie - art. L671-1
+
+	**Modifié par**:
 
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
+
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
+
+##### Chapitre unique
 
 ###### Article L1631-3
 
@@ -3818,20 +3757,22 @@ et L. 1521-1 à L. 1521-10.
 ###### Article L1641-2
 
 Les règles relatives à la constitution et à la conservation des stocks stratégiques pétroliers sont définies, dans les îles
-Wallis et Futuna, par l'article 57 de la loi n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux
-départements d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-
-Miquelon.
+Wallis et Futuna, par                                                 l'article L. 671-1 du code de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57 (V)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L671-1
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
 ###### Article L1641-3
@@ -3899,19 +3840,22 @@ Sont applicables en Polynésie française les dispositions des articles L. 1111-
 ###### Article L1651-2
 
 Les règles relatives à la constitution et à la conservation des stocks stratégiques pétroliers sont définies, en Polynésie
-française, par l'article 57 de la loi n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux départements
-d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+française, par                                                 l'article L. 671-1 du code de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57 (V)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L671-1
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
 ###### Article L1651-3
@@ -3932,27 +3876,6 @@ Pour l'application de la présente partie du code en Polynésie française, les 
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-
-###### Article L1651-4
-
-Pour l'application de l'article L. 1322-2, la référence aux dispositions du code général des collectivités territoriales est
-remplacée par la référence aux dispositions du code des communes applicables en Polynésie française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1322-2
 
 
 ###### Article L1651-5
@@ -3999,19 +3922,22 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 
 ###### Article L1661-2
 
 Les règles relatives à la constitution et à la conservation des stocks stratégiques pétroliers sont définies, en Nouvelle-
-Calédonie, par l'article 57 de la loi n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux départements
-d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+Calédonie, par                                                 l'article L. 671-1 du code de l'énergie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°93-1 du 4 janvier 1993 - art. 57 (V)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L671-1
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
 ###### Article L1661-3
@@ -14901,35 +14827,6 @@ considération des circonstances de l'infraction et de la personnalité de son a
 
 ##### Chapitre unique
 
-###### Article L2421-1
-
-Pour l'application à Saint-Pierre-et-Miquelon des dispositions des articles L. 2112-1 et L. 2142-1, la référence aux
-dispositions du code général des collectivités territoriales est remplacée par la référence aux dispositions des articles L.
-124-1 à L. 124-8 du code des communes applicable à Saint-Pierre-et-Miquelon. 
-
-Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 2231-1, la référence aux dispositions du code
-général des collectivités territoriales est remplacée par la référence aux dispositions de l'article 26 de la loi n° 83-8 du
-7 janvier 1983 sur la répartition de compétences entre les communes, les départements, les régions et l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 26
-	  - Code de la défense. - art. L2112-1
-	  - Code de la défense. - art. L2142-1
-	  - Code de la défense. - art. L2231-1
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-
 ###### Article L2421-1-1
 
 Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 2335-1, les mots : " provenant des Etats non
@@ -14994,16 +14891,13 @@ le même objet applicables localement.
 
 ##### Chapitre unique
 
-###### Article L2431-1
+###### Article L2431-2
 
-Sont applicables à Mayotte les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1 à L. 2313-3,
-L. 2322-1 à L. 2353-13.
+Pour l'application de la présente partie du code à Mayotte, les termes énumérés ci-après sont remplacés ainsi :
 
-**Nota:**
+1° Le mot : " préfet " par les mots : " préfet de Mayotte " ;
 
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV du présent article, la présente loi entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+2° Le mot : " département " par les mots : " Département de Mayotte ".
 
 **Liens relatifs à cet article**
 
@@ -15014,36 +14908,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
-
-	**Abrogé par**:
-
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2112-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2322-1
-
-
-###### Article L2431-2
-
-Pour l'application de la présente partie du code à Mayotte, les termes énumérés ci-après sont remplacés ainsi :
-
-1° Le mot : " préfet " par les mots : " préfet de Mayotte " ;
-
-2° Le mot : " département " par les mots : " collectivité départementale de Mayotte " ;
-
-3° Les mots : " tribunal d'instance " et : " tribunal de grande instance " par les mots : " tribunal de première instance ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
 ###### Article L2431-3
@@ -15123,14 +14988,8 @@ applicables localement.
 ###### Article L2441-1
 
 Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, 
-L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1,   L. 2321-1 à L. 2321-3,L. 2322-1 à L. 2335-7, L.
+2336-1 à L. 2353-13.
 
 **Liens relatifs à cet article**
 
@@ -15141,7 +15000,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
@@ -15282,22 +15141,16 @@ ayant le même objet applicables localement.
 ###### Article L2451-1
 
 Sont applicables en Polynésie française, les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L.
-2311-1 à L. 2312-8, L. 2313-4, 
+2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-3,  
 L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, 
 L. 2344-1 à L. 2344-11, 
 L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
@@ -15333,10 +15186,6 @@ Pour l'application de la présente partie du code en Polynésie française, les 
 
 ###### Article L2451-3
 
-Pour l'application en Polynésie française des dispositions des articles L. 2112-1 et L. 2142-1, la référence aux dispositions
-du code général des collectivités territoriales est remplacée par la référence aux dispositions des articles L. 124-1 à L.
-124-8 du code des communes applicable en Polynésie française. 
-
 Pour l'application en Polynésie française des dispositions de l'article L. 2231-1, la référence aux dispositions du code
 général des collectivités territoriales est remplacée par la référence aux dispositions de l'article 27 de la loi organique
 n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
@@ -15345,17 +15194,17 @@ n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie fra
 
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 (V)
-	  - CODE DES COMMUNES. - art. L124-1 (Ab)
-	  - CODE DES COMMUNES. - art. L124-8 (Ab)
-	  - Code de la défense. - art. L2112-1 (V)
-	  - Code de la défense. - art. L2142-1 (V)
-	  - Code de la défense. - art. L2231-1 (V)
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Code de la défense. - art. L2231-1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
 ###### Article L2451-4
@@ -15488,13 +15337,8 @@ autorisation.
 ###### Article L2461-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1
+à L. 2353-13.
 
 **Liens relatifs à cet article**
 
@@ -15505,7 +15349,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 	**Cite**:
 
@@ -15661,13 +15505,7 @@ objet applicables localement.
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
 2161-3, L. 2211-1 à L. 2223-19, 
-L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
 
 **Liens relatifs à cet article**
 
@@ -15689,7 +15527,7 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 23
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
 
 
 ###### Article L2471-2
@@ -16928,33 +16766,6 @@ le même objet applicables localement.
 
 	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
-
-##### Chapitre unique
-
-###### Article L3531-1
-
-Sont applicables à Mayotte les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1 et L. 3421-1
-à L. 3422-7 du code de la défense.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L3125-1
-	  - Code de la défense. - art. L3211-1
-	  - Code de la défense. - art. L3225-1
-	  - Code de la défense. - art. L3421-1
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
@@ -24170,34 +23981,6 @@ II. ― Un décret en Conseil d'Etat détermine les conditions d'application du 
 
 
 ### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
-
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE
-
-##### Chapitre unique
-
-###### Article L5331-1
-
-Les dispositions des articles L. 5111-1 à L. 5141-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
-	**Cite**:
-
-	  - Code de la défense. - art. L5111-1 (V)
-
 
 #### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA
 

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-02
 
 # Partie législative
 
@@ -75618,34 +75618,6 @@ Pour l'application des dispositions de la présente sous-section, les demandes d
 
 #####  Chapitre III : Rémunération, garanties et protections
 
-#####  Section 1 : Rémunération
-
-###### Article R4123-1
-
-Les volontaires dans les armées et les élèves ayant le statut de militaire en formation dans les écoles désignées par arrêté
-du ministre de la défense reçoivent une rémunération fixée par décret qui peut être inférieure à la rémunération afférente à
-l'indice brut 203.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1388 du 30 octobre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R4341-2 (VT)
-	  - Code de la défense. - art. R4351-2 (VT)
-	  - Code de la défense. - art. R4361-2 (VT)
-	  - Code de la défense. - art. R4371-2 (V)
-	  - Code de la défense. - art. R4381-2 (V)
-	  - Code de la défense. - art. R4382-2 (V)
-
-
 #####  Section 2 : Garanties et couverture des risques
 
 #####  Sous-section 1 : Fonds de prévoyance militaire
@@ -85411,19 +85383,22 @@ partage égal des voix, celle du président est prépondérante.
 
 ###### Article R4139-41
 
-L'arrêté du ministre de la défense et du ministre de l'économie et des finances prévu à l'article L. 4139-8 fixe
-annuellement, par grade, le contingent de pécules pouvant être accordés sur leur demande aux officiers de carrière lors de
-leur mise à la retraite avec le bénéfice d'une pension à jouissance différée.
+L'arrêté du ministre de la défense et du ministre chargé du budget  prévu à l'article L. 4139-8 fixe annuellement, par grade,
+le contingent de pécules pouvant être accordés sur leur demande aux officiers de carrière lors de leur mise à la retraite
+avec le bénéfice d'une pension à jouissance différée.
+
+Pour les officiers de carrière de la gendarmerie nationale, ce contingent est fixé par arrêté du ministre de l'intérieur et
+du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-1388 du 30 octobre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4139-8 (V)
+	  - Code de la défense. - art. L4139-8
 
 
 ###### Article R4139-42
@@ -85461,13 +85436,14 @@ code des pensions civiles et militaires de retraite ;
 
 ###### Article R4139-44
 
-Les officiers mis à la retraite avec le bénéfice du pécule sont désignés chaque année par décision du ministre de la défense.
+Les officiers mis à la retraite avec le bénéfice du pécule sont désignés chaque année par décision du ministre de la défense
+ou du ministre de l'intérieur pour les officiers de carrière de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-1388 du 30 octobre 2015 - art. 2
 
 
 ###### Article R4139-45

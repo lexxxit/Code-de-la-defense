@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-11-15
+Version Consolidée au 2015-11-28
 
 # Partie législative
 
@@ -8603,10 +8603,16 @@ y a lieu.
 
 ###### Article L2332-6
 
-Les entreprises de fabrication mentionnées au I de l'article L. 2332-1 sont tenues, dans le délai de huit jours, après le
-dépôt de toute demande de brevet ou d'addition à un brevet concernant des matériels des catégories A et B, faite par elles ou
-pour leur compte, de faire connaître au service désigné par décret la description de la découverte, invention ou application
-faisant l'objet du brevet ou de l'addition demandé.
+Les entreprises fabriquant des matériels de guerre et des armes et munitions de défense des catégories A et B, des matériels
+assimilés à des matériels de guerre ou des biens à double usage au sens du règlement (CE) n° 428/2009 du Conseil du 5 mai
+2009 instituant un régime communautaire de contrôle des exportations, des transferts, du courtage et du transit de biens à
+double usage sont tenues, dans le délai de huit jours après le dépôt de toute demande de brevet ou d'addition à un brevet
+concernant ces matériels et biens, faite par elles ou pour leur compte, de faire connaître à l'administration la description
+de la découverte, invention ou application faisant l'objet du brevet ou de l'addition demandé. 
+
+L'autorité administrative définit la liste des matériels et biens soumis à l'obligation prévue au présent article. 
+
+Les modalités d'application du présent article sont précisées par décret.
 
 **Liens relatifs à cet article**
 
@@ -8617,7 +8623,7 @@ faisant l'objet du brevet ou de l'addition demandé.
 
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -14988,8 +14994,14 @@ applicables localement.
 ###### Article L2441-1
 
 Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1,   L. 2321-1 à L. 2321-3,L. 2322-1 à L. 2335-7, L.
-2336-1 à L. 2353-13.
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1
+à L. 2353-13. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
+ordonnance n° 2015-1534 du 26 novembre 2015 
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015 
+et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 **Liens relatifs à cet article**
 
@@ -14998,23 +15010,27 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1,   L. 23
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
 	**Cite**:
 
-	  - Code de la défense. - art. L2113-1
-	  - Code de la défense. - art. L2151-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2232-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2336-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
+	  - Code de la défense. - art. L2113-1 (V)
+	  - Code de la défense. - art. L2151-1 (V)
+	  - Code de la défense. - art. L2211-1 (V)
+	  - Code de la défense. - art. L2232-1 (V)
+	  - Code de la défense. - art. L2311-1 (V)
+	  - Code de la défense. - art. L2321-1 (V)
+	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2332-6 (V)
+	  - Code de la défense. - art. L2336-1 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
 
 	**Cité par**:
 
-	  - Code de la défense. - art. L2451-1 (M)
+	  - Code de la défense. - art. L2451-1 (V)
 
 
 ###### Article L2441-2
@@ -15141,29 +15157,37 @@ ayant le même objet applicables localement.
 ###### Article L2451-1
 
 Sont applicables en Polynésie française, les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L.
-2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-3,  
-L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, 
-L. 2344-1 à L. 2344-11, 
-L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13.
+2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, L. 2344-1 à L. 2344-11,
+L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
+ordonnance n° 2015-1534 du 26 novembre 2015 
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015 
+et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
-
 	**Cite**:
 
-	  - Code de la défense. - art. L2112-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2313-4
-	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2352-2
-	  - Code de la défense. - art. L2353-11
-	  - Code de la défense. - art. L2353-4
-	  - Code de la défense. - art. L2441-1 (M)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
+	  - Code de la défense. - art. L2112-1 (V)
+	  - Code de la défense. - art. L2211-1 (V)
+	  - Code de la défense. - art. L2311-1 (V)
+	  - Code de la défense. - art. L2313-4 (V)
+	  - Code de la défense. - art. L2321-1 (V)
+	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2332-6 (V)
+	  - Code de la défense. - art. L2336-1 (V)
+	  - Code de la défense. - art. L2344-1 (V)
+	  - Code de la défense. - art. L2352-2 (V)
+	  - Code de la défense. - art. L2353-11 (V)
+	  - Code de la défense. - art. L2353-4 (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
 
 
 ###### Article L2451-2
@@ -15338,7 +15362,11 @@ autorisation.
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
 L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1
-à L. 2353-13.
+à L. 2353-13. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'ordonnance n° 2015-1534 du 26
+novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
+concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 **Liens relatifs à cet article**
 
@@ -15349,7 +15377,7 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
 
 	**Cite**:
 
@@ -15357,7 +15385,9 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321
 	  - Code de la défense. - art. L2211-1
 	  - Code de la défense. - art. L2232-1
 	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2321-1 (V)
 	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2332-6 (V)
 	  - Code de la défense. - art. L2336-1
 
 
@@ -15502,23 +15532,34 @@ objet applicables localement.
 
 ###### Article L2471-1
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique
+Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
-2161-3, L. 2211-1 à L. 2223-19, 
-L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2353-13.
+2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7,
+L. 2336-1 à L. 2353-13. 
+
+Les dispositions de l'article L. 2332-6
+sont applicables dans leur rédaction résultant de l'
+ordonnance n° 2015-1534 du 26 novembre 2015 
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015 
+et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. L2113-1
-	  - Code de la défense. - art. L2151-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2232-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2336-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
+	  - Code de la défense. - art. L2151-1 (V)
+	  - Code de la défense. - art. L2211-1 (V)
+	  - Code de la défense. - art. L2232-1 (V)
+	  - Code de la défense. - art. L2311-1 (V)
+	  - Code de la défense. - art. L2313-1 (V)
+	  - Code de la défense. - art. L2321-1 (V)
+	  - Code de la défense. - art. L2322-1 (V)
+	  - Code de la défense. - art. L2332-6 (V)
+	  - Code de la défense. - art. L2336-1 (V)
 
 	**Codifié par**:
 
@@ -15527,7 +15568,7 @@ L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-
 
 	**Modifié par**:
 
-	  - Loi n°2015-1268 du 14 octobre 2015 - art. 58
+	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
 
 
 ###### Article L2471-2

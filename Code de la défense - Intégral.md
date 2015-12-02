@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-11-28
+Version Consolidée au 2015-12-03
 
 # Partie législative
 
@@ -29635,14 +29635,37 @@ alinéa du présent article.
 
 ###### Article R1321-25
 
-Les missions du bataillon des marins pompiers de Marseille sont prévues au chapitre 3 du titre Ier du livre V de la deuxième
+Les missions du bataillon de marins-pompiers de Marseille sont prévues au chapitre 3 du titre Ier du livre V de la deuxième
 partie du code général des collectivités territoriales.
+
+En outre, le bataillon de marins-pompiers de Marseille peut également apporter son concours aux représentants de l'Etat en
+mer :
+
+1° Pour l'exécution des missions permanentes d'intérêt général dont ils sont respectivement chargés au titre du décret n°
+2004-112 du 6 février 2004 relatif à l'organisation de l'action de l'Etat en mer et du décret n° 2005-1514 du 6 décembre 2005
+relatif à l'organisation outre-mer de l'action de l'Etat en mer. Les modalités de cette participation sont réglées dans les
+conditions prévues à l'article R. 2513-5 du code général des collectivités territoriales ;
+
+2° Pour l'exercice de la direction des opérations de secours en mer au titre de l'article L. 742-5 du code de la sécurité
+intérieure, suivant les modalités définies au troisième alinéa de l'article L. 742-11 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2004-112 du 6 février 2004
+	  - Décret n°2005-1514 du 6 décembre 2005
+	  - Code général des collectivités territoriales - art. R2513-5 (V)
+	  - Code de la sécurité intérieure - art. L742-11
+	  - Code de la sécurité intérieure - art. L742-5
+
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2015-1564 du 30 novembre 2015 - art. 1
 
 
 ##### Chapitre II : Protection contre les menaces aériennes
@@ -52328,11 +52351,11 @@ a) Le service interarmées des munitions ;
 
 b) La direction du renseignement militaire ; 
 
-c) L'échelon central de neutralisation, enlèvement et destruction des explosifs. 
+c) Le pôle interarmées de traitement du danger des munitions et explosifs. 
 
 2° Relevant de l'état-major de l'armée de terre : 
 
-a) L'Ecole supérieure et d'application du génie ; 
+a) L'Ecole du génie ; 
 
 b) La section technique de l'armée de terre. 
 
@@ -52344,9 +52367,9 @@ b) La section technique de l'armée de terre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-737 du 28 juin 2011 - art. 4
+	  - Décret n°2015-1564 du 30 novembre 2015 - art. 4
 
 	**Cité par**:
 

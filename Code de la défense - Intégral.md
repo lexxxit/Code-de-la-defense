@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-12-03
+Version Consolidée au 2015-12-07
 
 # Partie législative
 
@@ -82328,8 +82328,7 @@ autorité prend les mesures et les décisions relevant du présent chapitre à l
 I.-Les congés prévus aux articles R. 4138-4 à R. 4138-6, R. 4138-27 et R. 4138-28 sont accordés par le ministre de la
 défense. 
 
-Le congé d'accompagnement d'une personne en fin de vie prévu à l'article L. 4138-6 du code de la défense est accordé par le
-ministre de la défense. 
+Le congé de solidarité familiale prévu à l'article L. 4138-6 est accordé par le ministre de la défense.
 
 II.-Pour les militaires de la gendarmerie nationale, les congés prévus aux articles L. 4138-6, R. 4138-4 à R. 4138-6 et R.
 4138-27 sont accordés par le ministre de l'intérieur, le congé prévu à l'article R. 4138-28 est accordé par décision
@@ -82337,19 +82336,19 @@ conjointe du ministre de la défense et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 22
-
 	**Cité par**:
 
 	  - Décret n°2015-1587 du 4 décembre 2015 (V)
 	  - Code de la défense. - art. R4138-74 (V)
 	  - Code de la défense. - art. R4139-49 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-1587 du 4 décembre 2015 - art. 1
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-6 (V)
+	  - Code de la défense. - art. L4138-6
 	  - Code de la défense. - art. R4138-27
 	  - Code de la défense. - art. R4138-4
 

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-12-07
+Version Consolidée au 2015-12-13
 
 # Partie législative
 
@@ -86914,6 +86914,82 @@ précisant, en tant que de besoin, les modalités financières de l'admission à
 	**Créé par**:
 
 	  - Décret n°2015-296 du 16 mars 2015 - art. 16
+
+
+##### Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1
+
+
+###### Article R4221-10-2
+
+Dans le cadre de la mise en œuvre de la réserve opérationnelle en cas de crise menaçant la sécurité nationale, chaque période
+d'emploi réalisée fait l'objet d'une convocation adressée par tout moyen écrit au réserviste opérationnel par l'autorité
+militaire dont il relève au titre de son engagement.
+
+La convocation mentionne :
+
+1° La référence de l'arrêté pris par le ministre de la défense ou le ministre de l'intérieur en application de l'article L.
+4221-4-1 du code de la défense ;
+
+2° La nature et la durée envisagées de l'activité pour laquelle le réserviste opérationnel est convoqué ;
+
+3° Le délai dans lequel le réserviste opérationnel doit rejoindre son lieu d'affectation.
+
+Une copie de la convocation est adressée à l'employeur du réserviste opérationnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1636 du 10 décembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 4 janvier 2016 - art. 1 (VT)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4221-4-1
+
+
+###### Article R4221-10-3
+
+L'opérateur public ou privé mentionné à l'article L. 1332-1 du code de la défense qui souhaite qu'un employé, réserviste
+opérationnel, soit dégagé de ses obligations au titre de la présente section en fait la demande, par tout moyen écrit, à
+l'autorité militaire dont relève le réserviste opérationnel au titre de son engagement. L'opérateur doit justifier du
+caractère indispensable, à la poursuite de la production ou à la continuité du service public, du maintien de son employé à
+son poste de travail.
+
+Une telle demande ne peut être faite que pour le personnel visé par un plan de continuité ou de rétablissement d'activité.
+Cette demande suspend l'exécution de la convocation du ministre.
+
+L'autorité civile ou militaire informe l'opérateur et le réserviste opérationnel de sa décision par tout moyen écrit. En cas
+de refus, la décision précise le délai dans lequel le réserviste opérationnel rejoint son affectation.
+
+A l'expiration d'un délai de huit jours à compter de la réception de la demande de l'opérateur, mentionnée au premier alinéa,
+l'autorité militaire est réputée avoir refusé d'accéder à la demande de l'opérateur. Le réserviste opérationnel rejoint son
+affectation dans le même délai que celui initialement prévu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1636 du 10 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-1
+
+
+###### Article R4221-10-4
+
+Les personnes appelées au titre de la présente section sont dégagées de leurs autres obligations à ce titre dès lors qu'elles
+sont placées sous le régime du service de sécurité nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1636 du 10 décembre 2015 - art. 1
 
 
 #####  Section 4 : Souscription et exécution de la clause de réactivité

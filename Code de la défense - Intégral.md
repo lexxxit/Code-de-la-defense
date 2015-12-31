@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-12-13
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -27235,332 +27235,238 @@ gendarmerie aux missions de défense civile.
 	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
 
 
-###### Article R*1211-4
+###### Article R1211-4
 
-La composition des zones de défense et de sécurité du territoire métropolitain est fixée conformément au tableau suivant :
+La composition des zones de défense et de sécurité du territoire métropolitain est fixée conformément au tableau suivant : 
 
 <table>
-  <thead>
-    <tr>
-      <td width="151">
+    <tbody>
+      <tr>
+        <th>
 
-ZONES DE DEFENSE
+ZONES DE DÉFENSE 
 
-</td>
-      <td width="151">
+et de sécurité 
 
-REGIONS
+</th>
+        <th>
 
-</td>
-      <td width="416">
+RÉGIONS 
 
-DEPARTEMENTS
+</th>
+        <th>
 
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="151" valign="top">
+DÉPARTEMENTS 
 
-Zone de Paris
+</th>
+      </tr>
+      <tr>
+        <td align="justify">
 
-</td>
-      <td width="151" valign="top">
+Zone de Paris 
 
-Ile-de-France
+(siège : Paris) 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
+
+Ile-de-France 
+
+</td>
+        <td align="justify">
 
 Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Yvelines. 
 
 </td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="151" valign="top">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Zone Nord (siège : Lille)
+Zone Nord 
 
-</td>
-      <td width="151" valign="top">
-
-Nord -Pas-de-Calais
+(siège : Lille) 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
 
-Nord, Pas-de-Calais.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
-
-Picardie
+Nord-Pas-de-Calais-Picardie 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
 
-Aisne, Oise, Somme.
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="5" valign="top" width="151">
-
-Zone Ouest (siège : Rennes)
+Aisne, Nord, Oise, Pas-de-Calais, Somme. 
 
 </td>
-      <td width="151" valign="top">
+      </tr>
+      <tr>
+        <td align="justify" rowspan="4">
 
-Basse-Normandie
+Zone Ouest 
 
-</td>
-      <td valign="top" width="416">
-
-Calvados, Manche, Orne.
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Bretagne
+(siège : Rennes) 
 
 </td>
-      <td valign="top" width="416">
+        <td align="justify">
 
-Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Centre
+Bretagne 
 
 </td>
-      <td valign="top" width="416">
+        <td align="justify">
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
-
-Haute-Normandie
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan. 
 
 </td>
-      <td valign="top" width="416">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Eure, Seine-Maritime.
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Pays de la Loire
+Centre-Val de Loire 
 
 </td>
-      <td valign="top" width="416">
+        <td align="justify">
 
-Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151" rowspan="4">
-
-Zone Sud-Ouest (siège : Bordeaux)
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret. 
 
 </td>
-      <td valign="top" width="151">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Aquitaine
-
-</td>
-      <td width="416" valign="top">
-
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
+Normandie 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
+        <td align="justify">
 
-Limousin
+Calvados, Eure, Manche, Orne, Seine-Maritime. 
 
 </td>
-      <td width="416" valign="top">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Corrèze, Creuse, Haute-Vienne.
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Midi-Pyrénées
+Pays de la Loire 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
 
-Ariège, Aveyron, Gers, Haute-Garonne, Hautes-Pyrénées, Lot, Tarn, Tarn-et-Garonne.
-
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Poitou-Charentes
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée. 
 
 </td>
-      <td valign="top" width="416">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Charente, Charente-Maritime, Deux-Sèvres, Vienne.
+Zone Sud-Ouest 
 
-</td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="3" width="151">
-
-Zone Sud (siège : Marseille)
+(siège : Bordeaux) 
 
 </td>
-      <td valign="top" width="151">
+        <td align="justify">
 
-Corse
-
-</td>
-      <td width="416" valign="top">
-
-Corse du Sud, Haute-Corse.
+Aquitaine-Limousin-Poitou-Charentes 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
+        <td align="justify">
 
-Languedoc-Roussillon
-
-</td>
-      <td valign="top" width="416">
-
-Aude, Gard, Hérault, Lozère, Pyrénées-Orientales.
+Charente,  Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gironde,  Haute-Vienne, Landes, Lot-et-Garonne,
+Pyrénées-Atlantiques, Vienne. 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
+      </tr>
+      <tr>
+        <td align="justify" rowspan="3">
 
-Provence-Alpes-Côte d'Azur
+Zone Sud 
 
-</td>
-      <td valign="top" width="416">
-
-Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse.
+(siège : Marseille) 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="2" width="151">
+        <td align="justify">
 
-Zone Sud-Est (siège : Lyon)
+Corse 
 
 </td>
-      <td width="151" valign="top">
+        <td align="justify">
 
-Auvergne
-
-</td>
-      <td width="416" valign="top">
-
-Allier, Cantal, Haute-Loire, Puy-de-Dôme.
+Corse-du-Sud, Haute-Corse. 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Rhône-Alpes
-
-</td>
-      <td width="416" valign="top">
-
-Ain, Ardèche, Drôme, Haute-Savoie, Isère, Loire, Rhône, Savoie.
+Languedoc-Roussillon-Midi-Pyrénées 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="5" width="151">
+        <td align="justify">
 
-Zone Est (siège Metz)
-
-</td>
-      <td width="151" valign="top">
-
-Alsace
+Aude,  Ariège, Aveyron, Gard, Gers, Haute-Garonne, Hautes-Pyrénées, Hérault,  Lot, Lozère, Pyrénées-Orientales, Tarn, Tarn-
+et-Garonne. 
 
 </td>
-      <td valign="top" width="416">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Bas-Rhin, Haut-Rhin.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
-
-Bourgogne
+Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
 
-Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
-
-Champagne-Ardenne
+Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse. 
 
 </td>
-      <td width="416" valign="top">
+      </tr>
+      <tr>
+        <td align="justify">
 
-Ardennes, Aube, Haute-Marne, Marne.
+Zone Sud-Est 
 
-</td>
-    </tr>
-    <tr>
-      <td width="151" valign="top">
-
-Franche-Comté
+(siège : Lyon) 
 
 </td>
-      <td width="416" valign="top">
+        <td align="justify">
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="151">
-
-Lorraine
+Auvergne-Rhône-Alpes 
 
 </td>
-      <td valign="top" width="416">
+        <td align="justify">
 
-Meurthe-et-Moselle, Meuse, Moselle, Vosges.
+Ain, Allier, Ardèche, Cantal, Drôme, Haute-Loire, Haute-Savoie, Isère, Loire, Puy-de-Dôme, Rhône, Savoie. 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+      <tr>
+        <td align="justify" rowspan="2">
+
+Zone Est 
+
+(siège : Strasbourg) 
+
+</td>
+        <td align="justify">
+
+Alsace-Champagne-Ardenne-Lorraine 
+
+</td>
+        <td align="justify">
+
+Aube, Ardennes, Bas-Rhin, Haut-Rhin, Haute-Marne, Marne, Meurthe-et-Moselle, Meuse, Moselle, Vosges. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+Bourgogne-Franche-Comté 
+
+</td>
+        <td align="justify">
+
+Côte-d'Or, Doubs, Haute-Saône, Jura, Nièvre, Saône-et-Loire, Territoire de Belfort, Yonne.</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -27572,7 +27478,7 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
 	  - Décret n°2003-734 du 1 août 2003 - art. 2 (V)
 	  - Décret n°2016-440 du 12 avril 2016 - art. 3
-	  - Code de la défense. - art. R*1212-2 (V)
+	  - Code de la défense. - art. R*1212-2 (M)
 	  - Code de la défense. - art. R*1611-1 (V)
 	  - Code de la défense. - art. R*1621-1 (V)
 
@@ -27582,7 +27488,7 @@ Meurthe-et-Moselle, Meuse, Moselle, Vosges.
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+	  - Décret n°2015-1625 du 10 décembre 2015 - art. 1 (VD)
 
 
 ##### Chapitre II : Organisation militaire
@@ -27869,116 +27775,183 @@ Savoie, Var, Vaucluse.
 	  - Code de la défense. - art. R3223-46 (V)
 
 
-###### Article R*1212-7
+###### Article R1212-7
 
-La composition des régions de gendarmerie et des groupements de gendarmerie départementale est fixée conformément au tableau
-suivant : 
+La  composition des régions de gendarmerie et des groupements de  gendarmerie départementale est fixée conformément au
+tableau suivant : 
 
 <table>
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <th>
 
-**RÉGIONS DE GENDARMERIE**
+RÉGIONS DE GENDARMERIE 
+
+</th>
+        <th>
+
+GROUPEMENTS DE GENDARMERIE DÉPARTEMENTALE 
+
+</th>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Ile-de-France 
 
 </td>
-      <td>
+        <td valign="middle" align="justify">
 
-**GROUPEMENTS DE GENDARMERIE DEPARTEMENTALE**
+Essonne, Seine-et-Marne, Val-d'Oise, Yvelines. 
 
 </td>
-    </tr>
-    <tr>
-      <td>Ile-de-France. </td>
-      <td>Groupement de gendarmerie interdépartemental de Paris (Paris, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne),
-Essonne, Seine-et-Marne, Val-d'Oise, Yvelines. </td>
-    </tr>
-    <tr>
-      <td>Alsace. </td>
-      <td>Bas-Rhin, Haut-Rhin. </td>
-    </tr>
-    <tr>
-      <td>Bourgogne. </td>
-      <td>Côte-d'Or, Nièvre, Saône-et-Loire, Yonne. </td>
-    </tr>
-    <tr>
-      <td>Champagne-Ardenne. </td>
-      <td>Ardennes, Aube, Haute-Marne, Marne. </td>
-    </tr>
-    <tr>
-      <td>Franche-Comté. </td>
-      <td>Doubs, Haute-Saône, Jura, Territoire de Belfort. </td>
-    </tr>
-    <tr>
-      <td>Lorraine. </td>
-      <td>Meurthe-et-Moselle, Meuse, Moselle, Vosges. </td>
-    </tr>
-    <tr>
-      <td>Nord-Pas-de-Calais.</td>
-      <td>    Nord, Pas-de-Calais. </td>
-    </tr>
-    <tr>
-      <td>Picardie. </td>
-      <td>Aisne, Oise, Somme. </td>
-    </tr>
-    <tr>
-      <td>Aquitaine. </td>
-      <td>Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques. </td>
-    </tr>
-    <tr>
-      <td>Limousin. </td>
-      <td>Corrèze, Creuse, Haute-Vienne. </td>
-    </tr>
-    <tr>
-      <td>Midi-Pyrénées. </td>
-      <td>Ariège, Aveyron, Gers, Haute-Garonne, Hautes-Pyrénées, Lot, Tarn, Tarn-et-Garonne. </td>
-    </tr>
-    <tr>
-      <td>Poitou-Charentes. </td>
-      <td>Charente, Charente-Maritime, Deux-Sèvres, Vienne. </td>
-    </tr>
-    <tr>
-      <td>Auvergne. </td>
-      <td>Allier, Cantal, Haute-Loire, Puy-de-Dôme. </td>
-    </tr>
-    <tr>
-      <td>Rhône-Alpes. </td>
-      <td>Ain, Ardèche, Drôme, Haute-Savoie, Isère, Loire, Rhône, Savoie. </td>
-    </tr>
-    <tr>
-      <td>Basse-Normandie. </td>
-      <td>Calvados, Manche, Orne. </td>
-    </tr>
-    <tr>
-      <td>Bretagne. </td>
-      <td>Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan. </td>
-    </tr>
-    <tr>
-      <td>Centre. </td>
-      <td>Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret. </td>
-    </tr>
-    <tr>
-      <td>Haute-Normandie. </td>
-      <td>Eure, Seine-Maritime. </td>
-    </tr>
-    <tr>
-      <td>Pays de la Loire. </td>
-      <td>Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée. </td>
-    </tr>
-    <tr>
-      <td>Corse. </td>
-      <td>Corse-du-Sud, Haute-Corse. </td>
-    </tr>
-    <tr>
-      <td>Languedoc-Roussillon. </td>
-      <td>Aude, Gard, Hérault, Lozère, Pyrénées-Orientales. </td>
-    </tr>
-    <tr>
-      <td>Provence-Alpes-Côte d'Azur. </td>
-      <td>Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse.</td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Alsace-Champagne-Ardenne-Lorraine 
+
+</td>
+        <td align="justify" valign="middle">
+
+Aube, Ardennes, Bas-Rhin, Haut-Rhin, Haute-Marne, Marne, Meurthe-et-Moselle, Meuse, Moselle, Vosges. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Aquitaine-Limousin-Poitou-Charentes 
+
+</td>
+        <td align="justify" valign="middle">
+
+Charente,  Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gironde,  Haute-Vienne, Landes, Lot-et-Garonne,
+Pyrénées-Atlantiques, Vienne. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Auvergne-Rhône-Alpes 
+
+</td>
+        <td align="justify" valign="middle">
+
+Ain, Allier, Ardèche, Cantal, Drôme, Haute-Loire, Haute-Savoie, Isère, Loire, Puy-de-Dôme, Rhône, Savoie. 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Bourgogne-Franche-Comté 
+
+</td>
+        <td valign="middle" align="justify">
+
+Côte-d'Or, Doubs, Haute-Saône, Jura, Nièvre, Saône-et-Loire, Territoire de Belfort, Yonne. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Bretagne 
+
+</td>
+        <td valign="middle" align="justify">
+
+Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Centre-Val de Loire 
+
+</td>
+        <td align="justify" valign="middle">
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret. 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Corse 
+
+</td>
+        <td align="justify" valign="middle">
+
+Corse-du-Sud, Haute-Corse. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Languedoc-Roussillon-Midi-Pyrénées 
+
+</td>
+        <td valign="middle" align="justify">
+
+Aude,  Ariège, Aveyron, Gard, Gers, Haute-Garonne, Hautes-Pyrénées, Hérault,  Lot, Lozère, Pyrénées-Orientales, Tarn, Tarn-
+et-Garonne. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Nord-Pas-de-Calais-Picardie 
+
+</td>
+        <td valign="middle" align="justify">
+
+Aisne, Nord, Oise, Pas-de-Calais, Somme. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Normandie 
+
+</td>
+        <td align="justify" valign="middle">
+
+Calvados, Eure, Manche, Orne, Seine-Maritime. 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify" valign="middle">
+
+Pays de la Loire 
+
+</td>
+        <td valign="middle" align="justify">
+
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée. 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="justify">
+
+Provence-Alpes-Côte d'Azur 
+
+</td>
+        <td align="justify" valign="middle">
+
+Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Hautes-Alpes, Var, Vaucluse.</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -27988,7 +27961,7 @@ Essonne, Seine-et-Marne, Val-d'Oise, Yvelines. </td>
 
 	**Modifié par**:
 
-	  - Décret n°2012-732 du 9 mai 2012 - art. 3
+	  - Décret n°2015-1625 du 10 décembre 2015 - art. 2 (VD)
 
 	**Cité par**:
 
@@ -29898,31 +29871,22 @@ désignés par arrêté du préfet du département dans le ressort duquel se tro
 mentionnée à l'article R. 1332-13. 
 
 Le ministre coordonnateur ou le préfet de département, selon le cas, notifie à l'opérateur son intention de le désigner comme
-opérateur d'importance vitale.L'opérateur dispose, pour présenter ses observations, d'un délai de deux mois à compter de la
+opérateur d'importance vitale. L'opérateur dispose, pour présenter ses observations, d'un délai de deux mois à compter de la
 notification. 
 
 Les arrêtés mentionnés au présent article ne sont pas publiés. Ils sont notifiés aux opérateurs d'importance vitale
-intéressés ainsi qu'à toutes les autorités administratives qui ont à en connaître. En application de l'article 6 de la loi n°
-78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
-diverses dispositions d'ordre administratif, social et fiscal, ils ne sont pas communicables.
+intéressés ainsi qu'à toutes les autorités administratives qui ont à en connaître. En application des articles L311-5 et
+suivants du code des relations entre le public et l'administration, ils ne sont pas communicables.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (V)
-	  - Code de la défense. - art. L1332-2 (V)
-	  - Code de la défense. - art. R1332-10 (V)
-	  - Code de la défense. - art. R1332-13 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 3
 	  - Décret n°2006-212 du 23 février 2006 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 	**Cité par**:
 
@@ -29945,6 +29909,13 @@ diverses dispositions d'ordre administratif, social et fiscal, ils ne sont pas c
 	  - Code de la défense. - art. R1332-15 (V)
 	  - Code de la défense. - art. R1332-20 (V)
 	  - Code de la défense. - art. R1332-22 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1332-2 (V)
+	  - Code de la défense. - art. R1332-10 (V)
+	  - Code de la défense. - art. R1332-13 (V)
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article R1332-4
@@ -78901,7 +78872,8 @@ gendarmerie nationale, pour le classement par niveau de valeur ou dans l'attribu
 Le militaire est noté au moins une fois par an lorsqu'il a accompli au moins cent vingt jours de présence effective en
 position d'activité durant la période de notation.
 
-Pour le réserviste servant dans la réserve opérationnelle, la durée de la présence effective minimum est de cinq jours.
+Par dérogation à l'alinéa précédent, le réserviste opérationnel est noté au moins une fois par an lorsqu'il a accompli au
+moins dix jours de présence effective durant la période de notation. 
 
 La présence effective comprend les samedis, dimanches, jours fériés et les jours de permission, mais n'inclut pas les jours
 de congés pris par le militaire lorsqu'il est en position d'activité.
@@ -78911,9 +78883,9 @@ considérée. Dans ce cas, sa dernière notation lui est conservée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2015-296 du 16 mars 2015 - art. 2
 
 
 ###### Article R4135-6
@@ -89076,18 +89048,21 @@ L'article 3 du décret du 25 avril 1991 mentionné à l'article précédent est 
 ouvrages de défense des côtes et des installations de sécurité maritime. 
 
 Ces servitudes sont inscrites, dans chaque commune où elles s'appliquent, à l'annexe au plan local d'urbanisme prescrite par
-l'article R. * 126-1 du code de l'urbanisme.
+l'article R. 151-53  du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°91-400 du 25 avril 1991 - art. 3 (V)
-	  - Code de l'urbanisme - art. R*126-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-280 du 16 mars 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R151-53
 
 
 ##### Chapitre III : Centres d'émission et de réception radioélectriques
@@ -89776,7 +89751,7 @@ Sous réserve des compétences dévolues en la matière aux états-majors, direc
 représente le ministre auprès des services déconcentrés de l'Etat et auprès des collectivités territoriales, dans les limites
 de la zone terre, pour les questions d'urbanisme intéressant le ministère de la défense. Il transmet au préfet les
 informations relatives aux installations de la défense ayant une incidence sur le territoire concerné, que l'Etat porte à la
-connaissance des communes ou de leurs groupements en application de l'article R. * 121-1 du code de l'urbanisme. 
+connaissance des communes ou de leurs groupements en application de l'article R. 132-1 du code de l'urbanisme. 
 
 Au titre de cette compétence, il a recours à l'établissement du service d'infrastructure de la défense territorialement
 compétent pour assurer l'instruction de ces dossiers et peut le solliciter pour assurer sa représentation auprès des services
@@ -89790,7 +89765,7 @@ déconcentrés de l'Etat et des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2015-213 du 25 février 2015 - art. 17
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cité par**:
 
@@ -89802,7 +89777,7 @@ déconcentrés de l'Etat et des collectivités territoriales.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*121-1
+	  - Code de l'urbanisme - art. R132-1
 
 
 ###### Article D5131-13

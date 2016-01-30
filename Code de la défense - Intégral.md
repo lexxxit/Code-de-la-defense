@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-31
 
 # Partie législative
 
@@ -36246,14 +36246,14 @@ Les quantités de produits pétroliers qui font l'objet de l'obligation de stock
 l'énergie sont déterminées ainsi qu'il suit : 
 
 1° Le volume des stocks stratégiques que chaque opérateur est tenu de constituer et de conserver en proportion des quantités
-de produits ayant fait l'objet des opérations mentionnées l'article L. 642-2 du code de l'énergie est fixé : 
+de produits ayant fait l'objet des opérations mentionnées à l'article L. 642-2 du code de l'énergie est fixé : 
 
 a) Pour la France métropolitaine à 29,5 % ; 
 
-b) Pour les départements d'outre-mer, à 20 % ; 
+b) En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, par arrêté ministériel ; 
 
-2° Les quantités de biocarburants et additifs mélangés aux produits pétroliers concernés par l'obligation de stockage
-stratégique sont intégrés pour le calcul de l'obligation de stockage mentionné au 1° ; 
+2° Les quantités de biocarburants, d'additifs, de traceurs et de colorants mélangés aux produits pétroliers concernés par
+l'obligation de stockage stratégique sont intégrés pour le calcul de l'obligation de stockage mentionné au 1° ; 
 
 3° Le pétrole brut ou ses dérivés extraits du sol du territoire de la métropole et des départements d'outre-mer viennent en
 déduction de l'obligation de chaque opérateur, dans la limite de 25 % de cette obligation.
@@ -36274,7 +36274,7 @@ déduction de l'obligation de chaque opérateur, dans la limite de 25 % de cette
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 2
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 1
 
 	**Cité par**:
 
@@ -36283,10 +36283,10 @@ déduction de l'obligation de chaque opérateur, dans la limite de 25 % de cette
 
 ###### Article D1336-48
 
-I.-Les opérateurs pétroliers non agréés, mentionnés à l'article L. 642-8 du code de l'énergie, doivent réaliser l'intégralité
-de leur obligation de stockage par l'intermédiaire du comité professionnel des stocks stratégiques pétroliers. Lors de toute
-opération mentionnée l'article L. 642-2 du code de l'énergie, ils se libèrent de l'obligation de stockage correspondante par
-un versement unique perçu par l'administration des douanes pour le compte du comité professionnel des stocks stratégiques
+Les opérateurs pétroliers non agréés, mentionnés à l'article L. 642-8 du code de l'énergie, doivent réaliser l'intégralité de
+leur obligation de stockage par l'intermédiaire du comité professionnel des stocks stratégiques pétroliers. Lors de toute
+opération mentionnée à l'article L. 642-2 du code de l'énergie, ils se libèrent de l'obligation de stockage correspondante
+par un versement unique perçu par l'administration des douanes pour le compte du comité professionnel des stocks stratégiques
 pétroliers.
 
 **Liens relatifs à cet article**
@@ -36306,14 +36306,14 @@ pétroliers.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 3
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 2
 
 
 ###### Article D1336-49
 
 I.-L'obligation totale de stockage stratégique à la charge de chaque opérateur mentionné aux II et III du présent article est
-la somme des obligations élémentaires résultant des opérations prévues l'article L. 642-2 du code de l'énergie, qu'il a
-réalisées au cours de l'année civile précédente. La nouvelle obligation entre en vigueur le 30 juin de l'année suivant
+la somme des obligations élémentaires résultant des opérations prévues à l'article L. 642-2 du code de l'énergie, qu'il a
+réalisées au cours de l'année civile précédente. La nouvelle obligation entre en vigueur le 1er juillet de l'année suivant
 l'année de référence. 
 
 II.-Les opérateurs pétroliers agréés mentionnés à l'article L. 642-7 du code de l'énergie s'acquittent de l'obligation
@@ -36329,13 +36329,16 @@ Les opérateurs pétroliers agréés se libèrent de l'autre part de leur obliga
 642-7 du code de l'énergie, et assurée par le comité professionnel des stocks stratégiques pétroliers, grâce à un versement
 unique à ce comité effectué lors de toute opération mentionnée au premier alinéa de l'article L. 642-2 du code de l'énergie. 
 
-III.-Les opérateurs pétroliers opérant dans les départements d'outre-mer, mentionnés à l'article L. 642-9 du code de
-l'énergie, s'acquittent de l'obligation de stockage définie au 1° du même article, à raison de 50 % de leur obligation totale
-de stockage. 
+III.-Les opérateurs pétroliers exerçant leur activité en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte
+s'acquittent de la totalité de leur obligation de stockage dans les conditions prévues au 1° de l'article L. 642-9 du code de
+l'énergie. 
 
-Ils se libèrent de l'autre part de leur obligation de stockage mentionnée au 2° du même article et assurée par le comité
-professionnel des stocks stratégiques pétroliers, grâce à un versement unique à ce comité effectué lors de toute opération
-mentionnée au deuxième alinéa l'article L. 642-2 du code de l'énergie.
+Un arrêté ministériel fixe la liste des installations de stockage, d'appontement, de déchargement et de transport massif
+situées sur le territoire de ces collectivités qui sont indispensables à la conservation et à la distribution des produits
+mentionnés à l'article L. 642-3 du code de l'énergie et qu'il serait impossible de reproduire par des moyens économiquement
+raisonnables. Les entreprises qui exploitent ces installations permettent aux opérateurs soumis à obligation de stockage
+stratégique d'y accéder pour la satisfaction de leur obligation. Cet accès est rendu possible dans des conditions non
+discriminatoires et par la pratique de prix orientés vers les coûts incluant une rémunération raisonnable du capital.
 
 **Liens relatifs à cet article**
 
@@ -36355,13 +36358,14 @@ mentionnée au deuxième alinéa l'article L. 642-2 du code de l'énergie.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 4
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de l'énergie - art. L642-2
+	  - Code de l'énergie - art. L642-3 (V)
 	  - Code de l'énergie - art. L642-7
-	  - Code de l'énergie - art. L642-9
+	  - Code de l'énergie - art. L642-9 (V)
 
 
 ###### Article D1336-50
@@ -36398,27 +36402,27 @@ opérateur pétrolier d'outre-mer qui cesse son activité.
 
 ###### Article D1336-51
 
-I.-Les stocks stratégiques correspondant aux obligations mises à la charge des opérateurs pétroliers doivent être constitués
-de produits appartenant aux mêmes catégories, définies à l'article L. 642-3 du code de l'énergie, que celles des produits qui
-font l'objet des opérations mentionnées l'article L. 642-2 du code de l'énergie, à concurrence d'au moins 50 % des
-obligations totales de stockage concernant l'ensemble des produits mentionnés à l'article L. 642-3 du code de l'énergie. 
+I.-Les stocks stratégiques de chaque catégorie de produit pétrolier mentionnée à l'article L. 642-3 du code de l'énergie sont
+constitués de produits issus de la catégorie concernée à concurrence d'au moins 50 % de l'obligation totale de stockage de
+cette catégorie. 
 
 II.-Au-delà du stock minimal défini au I ci-dessus, les opérateurs pétroliers peuvent être autorisés à substituer aux
 produits concernés, et après application de coefficients d'équivalence des produits appartenant aux catégories définies par
 l'article L. 642-3 du code de l'énergie, du pétrole brut ou certains produits intermédiaires de raffinage dont ils disposent,
-selon le cas sur le territoire de la métropole ou sur celui du département d'outre-mer, soit directement, soit à la suite
-d'une mise à disposition mentionnée à l'article D. 1336-52. 
+soit directement, soit à la suite d'une mise à disposition mentionnée à l'article D. 1336-52. 
 
 Le coefficient d'équivalence devant être appliqué en cas de substitution par du pétrole brut ou par des produits
 intermédiaires de raffinage est calculé d'après le rapport existant entre, d'une part, la quantité globale des produits
 assujettis à l'obligation de stockage fabriqués en France au cours de l'année civile précédente et, d'autre part, la quantité
 de pétrole brut utilisée durant la même année pour ces fabrications. 
 
-Un arrêté du ministre chargé des hydrocarbures fixe la valeur des coefficients d'équivalence, la liste des produits
-intermédiaires admis en substitution, le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une
-substitution, le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une substitution par des produits
+Un arrêté ministériel fixe la valeur des coefficients d'équivalence, la liste des produits intermédiaires admis en
+substitution, le pourcentage maximal des produits à stocker qui peuvent faire l'objet d'une substitution, par des produits
 appartenant aux catégories définies par l'article L. 642-3 du code de l'énergie, dans le respect des dispositions du I ci-
-dessus.
+dessus. 
+
+III.-Les modalités de constitution et de comptabilisation des stocks stratégiques pétroliers sont fixées par arrêté
+ministériel.
 
 **Liens relatifs à cet article**
 
@@ -36441,13 +36445,12 @@ dessus.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 6
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1336-52
-	  - Code de l'énergie - art. L642-2
-	  - Code de l'énergie - art. L642-3
+	  - Code de la défense. - art. D1336-52 (V)
+	  - Code de l'énergie - art. L642-3 (V)
 
 
 ###### Article D1336-52
@@ -36462,9 +36465,9 @@ L'opérateur pétrolier bénéficiaire doit disposer, en vertu de ce contrat, du
 période couverte par le contrat. Le mode de détermination du prix de cette acquisition est convenu entre les parties
 concernées. 
 
-Les entrepositaires agréés peuvent consentir des mises à disposition à d'autres opérateurs pétroliers agréés sur les stocks
-dont ils sont propriétaires ou dont ils disposent en vertu des contrats de façonnage à long terme, notifiés au ministre
-chargé des hydrocarbures. 
+Les entrepositaires agréés et les opérateurs pétroliers d'outre-mer peuvent consentir des mises à disposition à d'autres
+opérateurs pétroliers agréés et opérateurs pétroliers d'outre-mer sur les stocks dont ils sont propriétaires ou dont ils
+disposent en vertu de contrats de façonnage à long terme, qui sont notifiés au ministre chargé de l'énergie. 
 
 Un opérateur ne peut mettre à disposition une quantité de produit appartenant à une catégorie pour laquelle les stocks qu'il
 détient en propriété ne permettent pas de couvrir à la fois son obligation de conservation de stocks stratégiques non
@@ -36482,7 +36485,7 @@ déléguée et la mise à disposition qu'il envisage d'accorder.
 	  - Arrêté du 15 mars 1993 - art. 7 (Ab)
 	  - Arrêté du 25 mars 2016 - art. 19 (V)
 	  - Code de l'énergie - art. R642-9 (V)
-	  - Code de la défense. - art. D1336-51 (M)
+	  - Code de la défense. - art. D1336-51 (V)
 
 	**Codifié par**:
 
@@ -36490,7 +36493,7 @@ déléguée et la mise à disposition qu'il envisage d'accorder.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 7
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 5
 
 	**Cite**:
 
@@ -36500,28 +36503,28 @@ déléguée et la mise à disposition qu'il envisage d'accorder.
 
 ###### Article D1336-53
 
-Ne peuvent être considérés comme stocks stratégiques :
+A l'exception des produits appartenant à l'autorité militaire et des produits stockés dans les canalisations de transport de
+produits pétroliers, peuvent être considérés comme stocks stratégiques : 
 
-1° Les produits non stockés dans des installations fixes non affectés à la vente directe au public. Ces installations doivent
-être préalablement agréées par le ministre chargé des hydrocarbures, après avis de la commission interministérielle des
-dépôts d'hydrocarbures ;
+1° Les produits stockés dans des installations fixes non affectées à la vente directe au public, préalablement agréées par le
+ministre chargé de l'énergie et situées en métropole ou en Guadeloupe, en Guyane, en Martinique, à La Réunion ou à Mayotte ;
 
-2° Les produits en cours de transport. Toutefois, un arrêté du ministre chargé des hydrocarbures précise dans quelles
-conditions les quantités se trouvant à bord de bateaux en transit entre ports métropolitains ou en cours de déchargement
-peuvent être prises en compte de même, dans les départements d'outre-mer, un arrêté des ministres chargés des hydrocarbures
-et de l'outre-mer précise dans quelles conditions les quantités se trouvant à bord des bateaux en transit entre ports de
-départements d'outre-mer ou en cours de déchargement peuvent être prises en compte ;
+2° Les produits se trouvant à bord de bateaux en transit entre ports métropolitains ou en cours de déchargement, dans des
+conditions définies par arrêté ministériel ;
 
-3° Les produits appartenant à l'autorité militaire ;
+3° Les produits se trouvant à bord de bateaux en transit entre des ports situés en Guadeloupe, en Guyane, en Martinique, à La
+Réunion ou à Mayotte, ou en cours de déchargement dans l'un de ces ports, dans les conditions définies par arrêté
+ministériel ;
 
-4° Les produits situés hors du territoire de la métropole et des départements d'outre-mer. Toutefois, sauf dans les
-départements d'outre-mer, les opérateurs pétroliers agréés peuvent constituer sur le territoire d'autres Etats membres de
-l'Union européenne, dans la limite d'un pourcentage défini par arrêté du ministre chargé des hydrocarbures, une partie des
-stocks pétroliers dont ils sont redevables au titre de leur obligation de stockage stratégique. L'opérateur concerné doit
-recevoir l'accord préalable du ministre chargé des hydrocarbures et de l'autorité compétente de l'autre Etat concerné  ;
+4° Les produits stockés par les opérateurs agréés, directement ou par l'intermédiaire d'un opérateur tiers sur le territoire
+d'autres Etats membres de l'Union européenne pour répondre à leur obligation de stockage stratégique. Ces stocks sont
+constitués dans la limite d'un pourcentage défini par arrêté ministériel. L'opérateur concerné doit recevoir l'accord
+préalable du ministre chargé des hydrocarbures et de l'autorité compétente de l'autre Etat concerné, y compris en cas de
+prorogation ou de modification des conditions initiales de constitution des stocks ;
 
-5° Les produits détenus par des consommateurs, sauf s'ils le sont en vertu d'obligations légales ou d'autres prescriptions
-des pouvoirs publics.
+5° Les produits stockés sur le territoire d'autres Etats par les opérateurs exerçant leur activité en Guadeloupe, en Guyane,
+en Martinique, à La Réunion ou à Mayotte, afin de répondre à une situation exceptionnelle, pour une durée limitée, après
+accord du préfet de la collectivité sur le territoire de laquelle la capacité de stockage fait défaut.
 
 **Liens relatifs à cet article**
 
@@ -36545,25 +36548,26 @@ des pouvoirs publics.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 8
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 6
 
 
 ###### Article D1336-54
 
-Les stocks mentionnés au dernier alinéa de l'article D. 1336-53 peuvent être réalisés avec du pétrole brut ou des produits
-définis à l'article L. 642-2 du code de l'énergie et conformes aux spécifications ou normes applicables dans l'Etat concerné.
-Ces stocks, qui peuvent être utilisés pour remplir l'obligation de l'opérateur dans une ou plusieurs catégories de produits,
+Les stocks mentionnés au 4°  de l'article D. 1336-53 peuvent être réalisés avec du pétrole brut ou des produits définis à
+l'article L. 642-2 du code de l'énergie et conformes aux spécifications ou normes applicables dans l'Etat concerné. Ces
+stocks, qui peuvent être utilisés pour remplir l'obligation de l'opérateur dans une ou plusieurs catégories de produits,
 doivent être localisés dans des installations identifiées et appartenir à l'opérateur pétrolier agréé concerné ou à une
-société du même groupe. Ils doivent correspondre à un flux logistique réel dans le cadre d'engagements de longue durée. 
+entité centrale de stockage d'un autre Etat membre de l'Union européenne ou à un autre opérateur économique disposant de
+stocks excédentaires ou de capacités de stockage disponibles. 
 
-De même, sauf dans les départements d'outre-mer, le comité professionnel des stocks stratégiques pétroliers peut faire
-constituer une partie des stocks pétroliers mentionnés au 2 de l'article L. 642-7 du code de l'énergie sur des territoires
-d'autres Etats membres de l'Union européenne. Un arrêté du ministre chargé des hydrocarbures précise les conditions dans
-lesquelles ces stocks peuvent être détenus. Le comité doit recevoir l'accord préalable du ministre chargé des hydrocarbures
-et de l'autorité administrative compétente de l'autre Etat concerné. Ces stocks peuvent être réalisés avec du pétrole brut ou
-des produits définis l'article L. 642-2 du code de l'énergie et conformes aux spécifications ou normes applicables dans
-l'Etat concerné. Ces stocks doivent être localisés dans des installations identifiées par l'Etat membre sur le territoire
-duquel ils sont détenus et être à la disposition permanente et entière du comité.
+De même, le comité professionnel des stocks stratégiques pétroliers peut faire constituer une partie des stocks pétroliers
+mentionnés au 2 de l'article L. 642-7 du code de l'énergie sur des territoires d'autres Etats membres de l'Union européenne.
+Un arrêté ministériel précise les conditions dans lesquelles ces stocks peuvent être détenus. Le comité doit recevoir
+l'accord préalable du ministre chargé des hydrocarbures et de l'autorité administrative compétente de l'autre Etat concerné.
+Ces stocks peuvent être réalisés avec du pétrole brut ou des produits définis à l'article L. 642-2 du code de l'énergie et
+conformes aux spécifications ou normes applicables dans l'Etat concerné. Ces stocks doivent être localisés dans des
+installations identifiées par l'Etat membre sur le territoire duquel ils sont détenus et être à la disposition permanente et
+entière du comité.
 
 **Liens relatifs à cet article**
 
@@ -36583,15 +36587,14 @@ duquel ils sont détenus et être à la disposition permanente et entière du co
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 9
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 7
 
 
 ###### Article D1336-55
 
 Les entrepositaires agréés et les opérateurs pétroliers d'outre-mer sont tenus de communiquer mensuellement au ministre
-chargé des hydrocarbures toutes les informations sur la façon dont ils s'acquittent de leur obligation de stockage
-stratégique s'ils y sont soumis, sur la localisation de leurs stocks et sur les mises à disposition qu'ils peuvent recevoir
-ou céder.
+chargé de l'énergie toutes les informations sur la façon dont ils s'acquittent de leur obligation de stockage stratégique
+s'ils y sont soumis, sur la localisation de leurs stocks et sur les mises à disposition qu'ils peuvent recevoir ou céder.
 
 Toutes données, pièces, relevés et documents relatifs aux stocks stratégiques, notamment les copies des documents communiqués
 et les données sur la base desquelles ils ont été rédigés, sont conservés et maintenus disponibles durant cinq années au
@@ -36609,27 +36612,30 @@ moins.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1543 du 28 décembre 2012 - art. 10
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 8
 
 
 ###### Article D1336-56
 
-Les modalités d'application des dispositions de la présente section sont fixées en tant que de besoin par arrêté du ministre
-chargé des hydrocarbures pour leur application en France métropolitaine.
+Les modalités d'application des dispositions de la présente section sont fixées en tant que de besoin par arrêté des
+ministres chargés de l'énergie et de l'économie pour leur application en France métropolitaine.
 
-Elles sont fixées par arrêté conjoint des ministres chargés des hydrocarbures et de l'outre-mer pour leur application dans
-les départements d'outre-mer.
+Elles sont fixées par arrêté conjoint des ministres chargés de l'énergie, de l'économie et de l'outre-mer pour leur
+application dans les départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-131 1993-01-29 art. 7
 	  - Décret n°93-131 du 29 janvier 1993 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-55 du 29 janvier 2016 - art. 8
 
 
 ##### Chapitre VII : Alimentation, industrie et travaux

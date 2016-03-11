@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-02-12
+Version Consolidée au 2016-03-12
 
 # Partie législative
 
@@ -37555,6 +37555,8 @@ suivi de l'exécution des missions.
 
 ##### Section 2 : Contrôle gouvernemental de la dissuasion nucléaire
 
+##### Sous-section 1 : Dispositions générales
+
 ###### Article R*1411-7
 
 Le contrôle gouvernemental de la dissuasion nucléaire est constitué de l'ensemble des mesures, protégées par le secret de la
@@ -37583,13 +37585,13 @@ République.
 	  - Code de la défense. - art. R*1333-47-1 (M)
 	  - Code de la défense. - art. R*1333-53 (Ab)
 	  - Code de la défense. - art. R*1333-61 (M)
-	  - Code de la défense. - art. R*1411-11 (M)
+	  - Code de la défense. - art. R*1411-11 (V)
 	  - Code de la santé publique - art. R1333-7 (V)
 	  - Code du travail - art. R4452-19 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+	  - DEPLACE: Décret n°2016-284 du 10 mars 2016 - art. 1
 
 
 ###### Article R*1411-8
@@ -37614,41 +37616,38 @@ malveillants ou hostiles et contre les atteintes au secret de la défense nation
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 2 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2015-1029 du 19 août 2015 - art. 2 (V)
 	  - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
 	  - Code de la défense. - art. R*1333-53 (M)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-284 du 10 mars 2016 - art. 1
+
 
 ###### Article R*1411-9
 
 Le ministre de la défense est responsable, d'une part, du contrôle gouvernemental de l'engagement des forces nucléaires et,
 d'autre part, du contrôle gouvernemental de l'intégrité des moyens de la dissuasion nucléaire, que ces moyens dépendent du
-ministère de la défense ou du Commissariat à l'énergie atomique. 
+ministère de la défense, du Commissariat à l'énergie atomique et aux énergies alternatives ou de tout autre opérateur public
+ou privé. 
 
 Le chef d'état-major des armées est responsable du contrôle gouvernemental de la conformité de l'emploi. 
 
 Le ministre de la défense et le chef d'état-major des armées disposent, dans chacun des domaines dont ils ont la
 responsabilité, d'une chaîne de mise en œuvre et d'une chaîne de sécurité, qui agissent indépendamment l'une de l'autre. 
 
-En vue de l'intégrité des moyens nucléaires concourant à la dissuasion et relevant du Commissariat à l'énergie atomique, la
-chaîne de mise en œuvre est confiée à l'administrateur général et la chaîne de sécurité au haut-commissaire à l'énergie
-atomique.
+En vue de l'intégrité des moyens nucléaires concourant à la dissuasion et ne relevant pas du ministre de la défense, la
+chaîne de mise en œuvre est confiée à l'administrateur général du Commissariat à l'énergie atomique et aux énergies
+alternatives et la chaîne de sécurité au haut-commissaire à l'énergie atomique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -37659,6 +37658,10 @@ atomique.
 	  - Décret n°2016-311 du 17 mars 2016 - art. 4 (V)
 	  - Décret n°2017-588 du 20 avril 2017 - art. 5 (V)
 	  - Code de la défense. - art. R*1333-53 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 1
 
 
 ###### Article R*1411-10
@@ -37672,9 +37675,9 @@ République de l'application des mesures du contrôle gouvernemental.
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 2 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+	  - DEPLACE: Décret n°2016-284 du 10 mars 2016 - art. 1
 
 	**Cité par**:
 
@@ -37693,9 +37696,9 @@ ministre.
 
 	  - Décret n°2001-592 du 5 juillet 2001 - art. 3 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
+	  - DEPLACE: Décret n°2016-284 du 10 mars 2016 - art. 1
 
 	**Cité par**:
 
@@ -37704,7 +37707,390 @@ ministre.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1411-7
+	  - Code de la défense. - art. R*1411-7 (V)
+
+
+##### Sous-section 2 : Protection des installations nucléaires intéressant la dissuasion
+
+###### Article R*1411-11-1
+
+Une installation nucléaire répondant aux critères définis au premier alinéa de l'article L. 1411-1 est désignée comme
+installation nucléaire intéressant la dissuasion par décision du Premier ministre, sur proposition du ministre de la
+défense. 
+
+La décision du Premier ministre est protégée dans les conditions prévues par les articles R. 2311-1 et suivants relatifs à la
+protection du secret de la défense nationale. Une copie de cette décision est adressée, pour information, à l'inspecteur des
+armements nucléaires mentionné à l'article R. * 1411-13. 
+
+Elle est notifiée par le ministre de la défense à l'opérateur responsable de l'installation concernée. 
+
+La liste des installations nucléaires intéressant la dissuasion est annexée à l'arrêté du Premier ministre mentionné à
+l'article R. * 1411-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-1 (V)
+	  - Code de la défense. - art. R*1411-11 (V)
+	  - Code de la défense. - art. R*1411-13 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-17 (V)
+
+
+###### Article R*1411-11-2
+
+Le dispositif de protection d'une installation nucléaire intéressant la dissuasion, qui doit faire l'objet d'une homologation
+conformément à l'article L. 1411-3, inclut l'ensemble des dispositifs et des procédures déployés par l'opérateur pour assurer
+la protection de l'installation, ainsi que des points névralgiques et des cibles situés dans son périmètre, contre les actes
+malveillants ou hostiles susceptibles de porter atteinte à l'intégrité des moyens de la dissuasion nucléaire définis par
+l'arrêté du Premier ministre mentionné à l'article R. * 1411-11, et contre les atteintes au secret de la défense nationale.
+Il comprend des mesures actives et passives de prévention, de retardement, de détection, d'alerte, de suivi des intrus et
+d'intervention. 
+
+Les points névralgiques sont constitués des zones, locaux et ouvrages de l'installation dans lesquels sont détenus à titre
+permanent ou temporaire les moyens nécessaires à la mise en œuvre de la politique de dissuasion. 
+
+Les cibles comprennent toutes les matières nucléaires, outils de travail et objets, inclus ou non dans un point névralgique,
+dont la perte, le vol, la destruction ou l'endommagement sont susceptibles de diminuer la disponibilité des moyens de la
+dissuasion nucléaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-3 (V)
+	  - Code de la défense. - art. R*1411-11 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R1411-11-6 (V)
+
+
+###### Article R*1411-11-3
+
+Le référentiel de menaces mentionné à l'article L. 1411-2 est élaboré par le ministre de la défense et approuvé par le
+Premier ministre. 
+
+Il est protégé dans les conditions prévues par les articles R. 2311-1 et suivants. 
+
+Il est notifié par le ministre de la défense aux opérateurs responsables des installations concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-2 (V)
+	  - Code de la défense. - art. R2311-1 (V)
+
+
+###### Article R*1411-11-4
+
+Le référentiel de menaces est adressé à l'opérateur, accompagné des niveaux de protection à atteindre et des exigences à
+remplir impliquant les mesures mentionnées à l'article L. 1411-2 et devant être mises en œuvre par l'opérateur pour permettre
+au dispositif de protection de satisfaire à ce référentiel. 
+
+Ces niveaux de protection et d'exigence sont définis par un arrêté non publié du ministre de la défense. Ils comprennent
+notamment les obligations incombant à l'opérateur pour maintenir en condition le dispositif de protection pendant la durée de
+l'homologation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-2 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-5 (V)
+	  - Code de la défense. - art. R1411-11-6 (V)
+
+
+###### Article R*1411-11-5
+
+L'opérateur responsable d'une installation désignée comme installation nucléaire intéressant la dissuasion organise la
+réalisation des travaux et opérations nécessaires pour mettre en œuvre les mesures mentionnées à l'article R. * 1411-11-4
+afin d'atteindre les niveaux de protection et de répondre aux exigences devant permettre au dispositif de protection de
+satisfaire au référentiel de menaces. 
+
+Avant l'expiration d'un délai de six mois suivant la notification du référentiel de menaces, l'opérateur transmet au ministre
+de la défense la demande d'homologation mentionnée à l'article L. 1411-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-3 (V)
+	  - Code de la défense. - art. R*1411-11-4 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-10 (V)
+
+
+###### Article R*1411-11-7
+
+L'examen de la demande d'homologation comprend l'analyse des documents fournis par l'opérateur conformément à l'article R.
+1411-11-6 et, si nécessaire, un contrôle sur place des travaux et opérations réalisés pour répondre à chacune des menaces
+figurant sur le référentiel de menaces propre à l'installation. 
+
+Ce contrôle est exercé par les agents mentionnés à l'article R. * 1411-11-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-15 (V)
+	  - Code de la défense. - art. R1411-11-6 (V)
+
+
+###### Article R*1411-11-9
+
+L'homologation mentionnée à l'article L. 1411-3 est prononcée pour une durée de quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-3 (V)
+
+
+###### Article R*1411-11-10
+
+La demande de renouvellement de l'homologation est adressée six mois au moins avant l'expiration de l'homologation. 
+
+Elle est présentée et instruite selon les modalités définies aux articles R. * 1411-11-5 à R. * 1411-11-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-5 (V)
+
+
+###### Article R*1411-11-11
+
+Tout projet de modification affectant l'un des éléments ayant fondé la délivrance de l'homologation, notamment en cas de
+modification des conditions d'exploitation de l'installation nucléaire intéressant la dissuasion, doit faire l'objet sans
+délai d'une information du ministre de la défense qui lui répond dans un délai de deux mois. S'il estime que la modification
+envisagée conduirait à une inadéquation des mesures de protection de l'installation avec le référentiel de menaces, il
+informe l'opérateur de l'installation qu'un renouvellement de l'homologation est requis avant le terme prévu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+
+###### Article R*1411-11-12
+
+Le ministre de la défense peut à tout moment faire procéder au contrôle des mesures concourant au dispositif de protection
+mises en œuvre par l'opérateur titulaire de l'homologation. 
+
+Ce contrôle est exercé par les agents mentionnés à l'article R. * 1411-11-15. L'inspecteur des armements nucléaires est
+destinataire des comptes rendus conformément à l'article R. * 1411-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-15 (V)
+	  - Code de la défense. - art. R*1411-16 (V)
+
+
+###### Article R*1411-11-13
+
+Toute anomalie affectant le dispositif de protection ou toute détection d'un événement pouvant affecter la protection de
+l'installation nucléaire intéressant la dissuasion fait l'objet d'une déclaration immédiate par l'opérateur au ministre de la
+défense, selon des modalités et des conditions définies par un arrêté non publié du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+
+###### Article R*1411-11-14
+
+Les mises en demeure prévues à l'article L. 1411-6 sont prononcées par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+
+###### Article R*1411-11-15
+
+Le ministre de la défense habilite, parmi les agents relevant de son autorité, les personnes chargées de procéder aux
+constatations mentionnées à l'article L. 1411-8. Cette habilitation, d'une durée maximale de cinq ans, est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-8 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-12 (V)
+	  - Code de la défense. - art. R*1411-11-7 (V)
+	  - Code de la défense. - art. R1411-11-16 (V)
+
+
+###### Article R*1411-11-17
+
+Lorsqu'une installation ne présente plus les caractéristiques ayant conduit à sa désignation comme installation nucléaire
+intéressant la dissuasion, une décision mettant fin à cette désignation est prise dans les formes prévues à l'article R. *
+1411-11-1. 
+
+La décision du Premier ministre est adressée pour information à l'inspecteur des armements nucléaires. Elle est notifiée par
+le ministre de la défense à l'opérateur responsable de l'installation concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-1 (V)
+
+
+###### Article R1411-11-6
+
+La demande d'homologation mentionnée à l'article L. 1411-3 comprend : 
+
+1° Les nom, prénoms et adresse du demandeur ou, lorsqu'il s'agit d'une personne morale, sa raison sociale ou sa dénomination,
+son siège et les nom, prénoms et qualité de son principal dirigeant ; 
+
+2° La nature et l'organisation de chacune des activités intéressant la dissuasion que le demandeur exerce au sein de
+l'installation concernée, notamment des activités de transports internes des moyens nécessaires à la mise en œuvre de la
+politique de dissuasion ; la demande relative à une installation comprenant plusieurs points névralgiques précise, pour
+chacun d'eux, les quantités maximales et les flux maximaux de matières nucléaires ; 
+
+3° Une description des mesures déjà adoptées et, pour les mesures envisagées, un calendrier de réalisation ; 
+
+4° Un dossier contenant : 
+
+a) Une description du dispositif de protection, tel que défini à l'article R. * 1411-11-2, mis en place pour atteindre les
+niveaux de protection et répondre aux exigences mentionnés à l'article R. * 1411-11-4 ; 
+
+b) Une analyse détaillée des mesures prévues en cas de concrétisation de chacune des menaces mentionnées par le référentiel
+de menaces ; 
+
+c) L'organisation et les moyens mis en place pour la protection des moyens nécessaires à la mise en œuvre de la politique de
+dissuasion, dont le contrôle des matières nucléaires pour l'ensemble de l'installation, des points névralgiques et des
+cibles, ainsi que pour la protection des transports de ces moyens au sein de l'installation ; 
+
+Les autres modalités de composition de ce dossier sont précisées par un arrêté non publié du ministre de la défense ; 
+
+5° Un plan détaillé, au moins à l'échelle 1/2 000, de l'ensemble de l'installation faisant apparaître les points
+névralgiques, ainsi que toutes les mesures prévues pour atteindre chacun des niveaux de protection et répondre aux exigences
+fixées ; 
+
+6° Les nom, prénoms et qualité d'un représentant spécialement désigné par l'opérateur pour être le correspondant du ministère
+de la défense s'agissant de la demande, de l'instruction, de la délivrance et du suivi de l'homologation, ainsi que du
+contrôle du dispositif de protection mis en place par l'opérateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-3 (V)
+	  - Code de la défense. - art. R*1411-11-2 (V)
+	  - Code de la défense. - art. R*1411-11-4 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-7 (V)
+
+
+###### Article R1411-11-8
+
+Le ministre de la défense se prononce sur l'homologation dans un délai de quatre mois. Le silence gardé par l'administration
+à l'expiration de ce délai vaut décision de rejet de la demande d'homologation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+
+###### Article R1411-11-16
+
+Les agents mentionnés à l'article R. * 1411-11-15 prêtent serment devant le tribunal de grande instance de leur résidence
+administrative. 
+
+Un titre portant mention de l'habilitation, de son objet et de sa durée est délivré par le ministre de la défense. Il est
+immédiatement restitué en cas de cessation des fonctions ayant justifié l'habilitation. Le modèle est établi par le ministre
+de la défense. 
+
+L'habilitation est retirée par le ministre de la défense, soit pour raison de service soit en raison du comportement de
+l'agent dans l'exercice de ses fonctions. Dans ce dernier cas, l'intéressé doit préalablement être mis à même de présenter
+ses observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-284 du 10 mars 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-15 (V)
 
 
 ##### Section 3 : Inspection des armements nucléaires.
@@ -39378,11 +39764,15 @@ l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R.
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
+Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
+2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
+dispositions intéressant la défense nationale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2016-284 du 10 mars 2016 - art. 5
 
 	**Cite**:
 
@@ -39715,11 +40105,15 @@ l'article R. * 1311-21, de l'article R. 1311-21-1 sauf son dernier alinéa, de l
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
+Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
+2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
+dispositions intéressant la défense nationale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2016-284 du 10 mars 2016 - art. 5
 
 	**Cite**:
 
@@ -39727,13 +40121,13 @@ l'article R. * 1311-21, de l'article R. 1311-21-1 sauf son dernier alinéa, de l
 	  - Code de la défense. - art. R*1122-1
 	  - Code de la défense. - art. R*1211-1
 	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1 (V)
+	  - Code de la défense. - art. R*1311-1
 	  - Code de la défense. - art. R*1311-21
 	  - Code de la défense. - art. R*1311-22
 	  - Code de la défense. - art. R*1311-24
-	  - Code de la défense. - art. R*1311-25 (V)
+	  - Code de la défense. - art. R*1311-25
 	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-6 (Ab)
+	  - Code de la défense. - art. R*1311-6
 	  - Code de la défense. - art. R*1321-1
 	  - Code de la défense. - art. R*1411-1
 	  - Code de la défense. - art. R*1651-2
@@ -40077,11 +40471,15 @@ R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ;
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
+Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
+2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
+dispositions intéressant la défense nationale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-1112 du 4 décembre 2013 - art. 4
+	  - Décret n°2016-284 du 10 mars 2016 - art. 5
 
 	**Cite**:
 
@@ -40438,6 +40836,10 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
 
+Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
+2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
+dispositions intéressant la défense nationale.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -40463,7 +40865,7 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 	**Modifié par**:
 
-	  - Décret n°2010-224 du 4 mars 2010 - art. 35
+	  - Décret n°2016-284 du 10 mars 2016 - art. 5
 
 
 ###### Article R*1671-2

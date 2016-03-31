@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -58436,19 +58436,18 @@ guerre, notamment les articles L. 2333-1 à L. 2333-8 du présent code et le dé
 administratif des marchés, d'une part, les articles L. 2331-1 à L. 2339-13 du présent code et les textes subséquents sur le
 régime des matériels de guerre, d'autre part. 
 
-Il effectue les missions de contrôle qui peuvent découler de l'application de l'article 126 du code des marchés publics.
+Il effectue les missions de contrôle qui peuvent découler de l'application de l'article 163 du décret n° 2016-361 du 25 mars
+2016 relatif aux marchés publics de défense ou de sécurité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1104 du 14 septembre 2011 - art. 14
+	  - Décret n°2016-361 du 25 mars 2016 - art. 153
 
 	**Cite**:
 
-	  - Code des marchés publics - art. 126
-	  - Code de la défense. - art. L2331-1
-	  - Code de la défense. - art. L2333-1
+	  - Code de la défense. - art. L2333-1 (V)
 
 
 ###### Article D3123-12

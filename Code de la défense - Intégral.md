@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-22
 
 # Partie législative
 
@@ -17359,28 +17359,20 @@ soit.
 
 Sont interdites, y compris si elles sont à but non lucratif, les activités privées suivantes : 
 
-1° La participation aux organes de direction de sociétés ou d'associations ne satisfaisant pas aux conditions fixées au b du
-1° du 7 de l'article 261 du code général des impôts ; 
+1° La participation aux organes de direction de sociétés ou d'associations à but lucratif ; 
 
 2° Le fait de donner des consultations, de procéder à des expertises et de plaider en justice dans les litiges intéressant
 toute personne publique, le cas échéant devant une juridiction étrangère ou internationale, sauf si cette prestation s'exerce
-au profit d'une personne publique. 
+au profit d'une personne publique ne relevant pas du secteur concurrentiel. 
 
-Les militaires ne peuvent avoir par eux-mêmes ou par personne interposée, sous quelque forme que ce soit, lorsqu'ils sont en
-activité et pendant le délai fixé à l'article 432-13 du code pénal à compter de la cessation de leurs fonctions, dans les
-entreprises soumises à leur surveillance ou à leur contrôle ou avec lesquelles ils ont négocié des contrats de toute nature,
-des intérêts de nature à compromettre leur indépendance. 
+Sous réserve de l'article L. 4122-5 du présent code, les militaires peuvent toutefois être autorisés à exercer, dans des
+conditions fixées par décret en Conseil d'Etat, à titre accessoire, une activité, lucrative ou non, auprès d'une personne ou
+d'un organisme public ou privé, dès lors que cette activité est compatible avec les fonctions qui leur sont confiées et
+n'affecte pas leur exercice. 
 
-Ils peuvent toutefois être autorisés à exercer, dans des conditions fixées par décret en Conseil d'Etat, à titre accessoire,
-une activité, lucrative ou non, auprès d'une personne ou d'un organisme public ou privé, dès lors que cette activité est
-compatible avec les fonctions qui leur sont confiées et n'affecte pas leur exercice. 
-
-Les militaires peuvent librement détenir des parts sociales et percevoir les bénéfices qui s'y attachent. Ils gèrent
-librement leur patrimoine personnel ou familial. 
-
-La production des œuvres de l'esprit au sens des articles L.112-1, L.112-2 et L.112-3 du code de la propriété intellectuelle
-s'exerce librement, dans le respect des dispositions relatives au droit d'auteur des agents publics et sous réserve du
-respect des dispositions du troisième alinéa de l'article L.4121-2 du présent code. 
+La production des œuvres de l'esprit au sens des articles L. 112-1, L. 112-2 et L. 112-3 du code de la propriété
+intellectuelle s'exerce librement, dans le respect des dispositions relatives au droit d'auteur des agents publics et sous
+réserve du respect des dispositions du troisième alinéa de l'article L. 4121-2 du présent code. 
 
 Sans préjudice de l'application de l'article 432-12 du code pénal, la violation du présent article donne lieu au versement
 des sommes indûment perçues, par voie de retenue sur la solde.
@@ -17390,10 +17382,6 @@ des sommes indûment perçues, par voie de retenue sur la solde.
 	**Anciens textes**:
 
 	  - Loi n°2005-270 du 24 mars 2005 - art. 9 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
 
 	**Cité par**:
 
@@ -17408,15 +17396,345 @@ des sommes indûment perçues, par voie de retenue sur la solde.
 	  - Code de la défense. - art. R4122-26 (V)
 	  - Code de la défense. - art. R4122-32 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L112-1
 	  - Code de la propriété intellectuelle - art. L112-2
 	  - Code de la propriété intellectuelle - art. L112-3
-	  - Code général des impôts, CGI. - art. 261
 	  - Code pénal - art. 432-12
-	  - Code pénal - art. 432-13
 	  - Code de la défense. - art. L4121-2
+	  - Code de la défense. - art. L4122-5 (V)
+
+
+###### Article L4122-3
+
+Le militaire est soumis aux obligations qu'exige l'état militaire conformément au deuxième alinéa de l'article L. 4111-1. Il
+exerce ses fonctions avec dignité, impartialité, intégrité et probité. 
+
+Il appartient aux autorités de commandement de s'assurer du respect de ces obligations dans les formations, les directions et
+les services placés sous leur autorité. Elles peuvent saisir pour avis le référent déontologue compétent mentionné à
+l'article L. 4122-10. 
+
+Au sens du présent chapitre, constitue un conflit d'intérêts toute situation d'interférence entre un intérêt public et des
+intérêts publics ou privés qui est de nature à influencer ou paraître influencer l'exercice indépendant, impartial et
+objectif des fonctions. 
+
+Lorsqu'un militaire estime se trouver dans une situation de conflit d'intérêts, il en rend compte immédiatement à son
+supérieur hiérarchique qui apprécie : 
+
+1° S'il y a lieu de confier le traitement du dossier, l'élaboration de la décision ou l'exécution de la mission à une autre
+personne ; 
+
+2° Si le militaire doit s'abstenir d'user de la délégation de signature qu'il a reçue ; 
+
+3° Si le militaire doit s'abstenir de siéger ou, le cas échéant, de délibérer dans une instance collégiale ; 
+
+4° Si le militaire doit être suppléé dans l'exercice des fonctions juridictionnelles qui pourraient lui être confiées ; 
+
+5° Si le militaire doit être suppléé par un délégataire, auquel il doit s'abstenir d'adresser des instructions, pour
+l'exercice de compétences qui lui ont été dévolues en propre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4111-1 (V)
+	  - Code de la défense. - art. L4122-10 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4122-4 (V)
+	  - Code de la défense. - art. L4122-6 (V)
+
+
+###### Article L4122-4
+
+Aucune mesure concernant notamment le recrutement, la rémunération, la formation, la titularisation, l'évaluation, la
+notation, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un militaire pour avoir
+relaté ou témoigné, de bonne foi, aux autorités judiciaires ou administratives, de faits constitutifs d'un délit, d'un crime
+ou susceptibles d'être qualifiés de conflit d'intérêts au sens de l'article L. 4122-3 dont il aurait eu connaissance dans
+l'exercice de ses fonctions. 
+
+Toute disposition ou tout acte contraire est nul de plein droit. 
+
+Dans le cas d'un conflit d'intérêts, le militaire doit avoir préalablement alerté en vain l'une des autorités hiérarchiques
+dont il relève. Il peut également témoigner de tels faits auprès du référent déontologue compétent mentionné à l'article L.
+4122-10. 
+
+En cas de litige relatif à l'application des trois premiers alinéas du présent article, dès lors que la personne présente des
+éléments de fait qui permettent de présumer qu'elle a relaté ou témoigné de bonne foi de faits constitutifs d'un délit, d'un
+crime ou d'une situation de conflit d'intérêts, il incombe à la partie défenderesse, au vu des éléments, de prouver que sa
+décision est justifiée par des éléments objectifs étrangers à la déclaration ou au témoignage de l'intéressé. Le juge forme
+sa conviction après avoir ordonné, en cas de besoin, toutes les mesures d'instruction qu'il estime utiles. 
+
+Le militaire qui relate ou témoigne de faits relatifs à une situation de conflit d'intérêts de mauvaise foi, avec l'intention
+de nuire ou avec la connaissance au moins partielle de l'inexactitude des faits rendus publics ou diffusés est puni des
+peines prévues au premier alinéa de l'article 226-10 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-10
+	  - Code de la défense. - art. L4122-10 (V)
+	  - Code de la défense. - art. L4122-3 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L911-1-1 (V)
+
+
+###### Article L4122-5
+
+Les militaires ne peuvent prendre ou détenir par eux-mêmes ou par personne interposée, sous quelque forme que ce soit,
+lorsqu'ils sont en activité et pendant le délai fixé à l'article 432-13 du code pénal à compter de la cessation de leurs
+fonctions, des intérêts de nature à compromettre leur indépendance dans les entreprises privées à l'égard desquelles ils ont
+été chargés, dans le cadre de leurs fonctions, soit d'assurer une surveillance ou un contrôle, soit de conclure des contrats
+de toute nature avec ces entreprises ou de formuler un avis sur de tels contrats, soit de proposer directement à l'autorité
+compétente des décisions relatives à des opérations réalisées par ces entreprises ou de formuler un avis sur de telles
+décisions. 
+
+L'interdiction s'étend à toute participation par travail, conseil ou capitaux dans une entreprise privée qui possède au moins
+30 % de capital commun ou a conclu un contrat comportant une exclusivité de droit ou de fait avec l'une des entreprises
+mentionnées au premier alinéa du présent article. 
+
+Pour l'application des deux premiers alinéas du présent article, est assimilée à une entreprise privée toute entreprise
+publique exerçant son activité dans un secteur concurrentiel et conformément aux règles du droit privé. 
+
+La commission de déontologie des militaires veille au respect du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 432-13
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L4122-2 (V)
+	  - Code de la défense. - art. L4139-6-1 (V)
+
+
+###### Article L4122-6
+
+I.-La nomination dans l'un des emplois dont le niveau hiérarchique ou la nature des fonctions le justifient, mentionné sur
+une liste établie par décret en Conseil d'Etat, est conditionnée à la transmission préalable par le militaire d'une
+déclaration exhaustive, exacte et sincère de ses intérêts à l'autorité investie du pouvoir de nomination. 
+
+Dès la nomination du militaire dans l'un des emplois définis au premier alinéa du présent I, l'autorité investie du pouvoir
+de nomination transmet la déclaration d'intérêts produite par le militaire à l'autorité hiérarchique dont il relève dans
+l'exercice de ses nouvelles fonctions. 
+
+II.-Lorsque l'autorité hiérarchique constate que le militaire se trouve dans une situation de conflit d'intérêts au sens de
+l'article L. 4122-3, elle prend les mesures nécessaires pour y mettre fin ou enjoint au militaire de faire cesser cette
+situation dans un délai qu'elle détermine. 
+
+Lorsque l'autorité hiérarchique ne s'estime pas en mesure d'apprécier si le militaire se trouve en situation de conflit
+d'intérêts, elle transmet la déclaration d'intérêts de l'intéressé au référent déontologue compétent. 
+
+III.-Le référent déontologue adresse une recommandation à l'autorité hiérarchique dans un délai de deux mois à compter de la
+réception de la déclaration. Cette autorité prend les mesures nécessaires pour mettre fin à cette situation ou enjoint au
+militaire de faire cesser cette situation dans un délai qu'elle détermine. 
+
+IV.-La déclaration d'intérêts ne comporte aucune mention des opinions ou des activités politiques, syndicales, religieuses ou
+philosophiques de l'intéressé, hormis lorsque la révélation de ces opinions ou de ces activités résulte de la déclaration de
+fonctions ou de mandats exercés publiquement. La déclaration d'intérêts est annexée au dossier du militaire selon des
+modalités garantissant sa confidentialité sous réserve de sa consultation par les personnes autorisées à y accéder. 
+
+Au cours de l'exercice des fonctions, toute modification substantielle des intérêts du militaire donne lieu, dans un délai de
+deux mois, à une déclaration dans les mêmes formes. 
+
+Le modèle, le contenu et les modalités de transmission, de mise à jour, de conservation et de consultation de la déclaration
+d'intérêts ainsi que les modalités de destruction des déclarations transmises par les personnes n'ayant pas été nommées à
+l'emploi concerné sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-38 du 16 janvier 2017 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4122-3 (V)
+
+
+###### Article L4122-7
+
+Le militaire exerçant des responsabilités en matière économique ou financière et dont le niveau hiérarchique ou la nature des
+fonctions le justifient est tenu de prendre, dans un délai de deux mois suivant cette nomination, toutes dispositions pour
+que ses instruments financiers soient gérés, pendant la durée de ses fonctions, dans des conditions excluant tout droit de
+regard de sa part. 
+
+Le militaire justifie des mesures prises auprès de la Haute Autorité pour la transparence de la vie publique. 
+
+Les documents produits en application du présent article ne sont ni versés au dossier du militaire, ni communicables aux
+tiers. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, après avis de la Haute Autorité
+pour la transparence de la vie publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+
+###### Article L4122-8
+
+I.-Le militaire nommé dans l'un des emplois dont le niveau hiérarchique ou la nature des fonctions le justifient, mentionné
+sur une liste établie par décret en Conseil d'Etat, adresse au président de la Haute Autorité pour la transparence de la vie
+publique, dans un délai de deux mois suivant sa nomination, une déclaration exhaustive, exacte et sincère de sa situation
+patrimoniale concernant la totalité de ses biens propres ainsi que, le cas échéant, ceux de la communauté ou les biens
+indivis. Ces biens sont évalués à la date du fait générateur de la déclaration comme en matière de droits de mutation à titre
+gratuit. 
+
+II.-Dans les deux mois qui suivent la cessation de ses fonctions, le militaire soumis au I adresse une nouvelle déclaration
+de situation patrimoniale au président de la Haute Autorité. La déclaration de situation patrimoniale comporte une
+récapitulation de l'ensemble des revenus perçus par le militaire et, le cas échéant, par la communauté depuis le début de
+l'exercice des fonctions ainsi qu'une présentation des événements majeurs ayant affecté la composition du patrimoine depuis
+la précédente déclaration. Le militaire peut joindre des observations à chacune de ses déclarations. 
+
+Lorsque le militaire a établi depuis moins de six mois une déclaration de situation patrimoniale en application du I, aucune
+nouvelle déclaration mentionnée au même I n'est exigée et la déclaration prévue au premier alinéa du présent II est limitée à
+la récapitulation et à la présentation mentionnées à la deuxième phrase du même premier alinéa. 
+
+La Haute Autorité apprécie, dans un délai de six mois à compter de la réception de la déclaration, la variation de la
+situation patrimoniale de l'intéressé. Cette appréciation résulte de la comparaison entre, d'une part, la déclaration de
+situation patrimoniale transmise à la suite de sa nomination et, d'autre part, la déclaration de situation patrimoniale
+transmise dans les deux mois qui suivent la cessation de ses fonctions. 
+
+Lorsque les évolutions patrimoniales constatées n'appellent pas d'observations ou lorsqu'elles sont justifiées, la Haute
+Autorité en informe l'intéressé. 
+
+III.-La déclaration de situation patrimoniale n'est ni versée au dossier du militaire, ni communicable aux tiers. Au cours de
+l'exercice des fonctions, toute modification substantielle de la situation patrimoniale du militaire donne lieu, dans un
+délai de deux mois, à une déclaration dans les mêmes formes. Le modèle, le contenu et les modalités de transmission, de mise
+à jour et de conservation de la déclaration de situation patrimoniale sont fixées par décret en Conseil d'Etat, après avis de
+la Haute Autorité pour la transparence de la vie publique. 
+
+IV.-La Haute Autorité peut demander au militaire soumis au I toute explication nécessaire à l'exercice de sa mission de
+contrôle des déclarations de situation patrimoniale. En cas de déclaration incomplète ou lorsqu'il n'a pas été donné suite à
+une demande d'explication adressée par la Haute Autorité, cette dernière adresse à l'intéressé une injonction tendant à ce
+que la déclaration soit complétée ou que les explications lui soient transmises dans un délai d'un mois à compter de cette
+injonction. 
+
+V.-La Haute Autorité peut demander au militaire soumis au I communication des déclarations qu'il a souscrites en application
+des articles 170 à 175 A du code général des impôts et, le cas échéant, en application de l'article 885 W du même code. 
+
+Elle peut, si elle l'estime utile, demander les déclarations mentionnées au présent article souscrites par le conjoint séparé
+de biens, le partenaire lié par un pacte civil de solidarité ou le concubin de tout militaire soumis au premier alinéa du I
+du présent article. 
+
+A défaut de communication dans un délai de deux mois des déclarations mentionnées aux deux premiers alinéas du présent V,
+elle peut demander copie de ces mêmes déclarations à l'administration fiscale, qui les lui transmet dans les trente jours. 
+
+La Haute Autorité peut demander à l'administration fiscale d'exercer le droit de communication prévu à la section 1 du
+chapitre II du titre II de la première partie du livre des procédures fiscales, en vue de recueillir toutes informations
+utiles à l'accomplissement de sa mission de contrôle. Ces informations sont transmises à la Haute Autorité dans les soixante
+jours suivant sa demande. 
+
+Elle peut, aux mêmes fins, demander à l'administration fiscale de mettre en œuvre les procédures d'assistance administrative
+internationale. 
+
+Les agents de l'administration fiscale sont déliés du secret professionnel à l'égard des membres et des rapporteurs de la
+Haute Autorité au titre des vérifications et contrôles qu'ils mettent en œuvre pour l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-39 du 16 janvier 2017 (V)
+	  - Décret n°2017-699 du 2 mai 2017 - art. 1
+	  - Livre des procédures fiscales - art. L139 B (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 175 A
+	  - Code général des impôts, CGI. - art. 885 W
+
+
+###### Article L4122-9
+
+Le fait, pour un militaire qui est soumis à l'obligation prévue au I et au IV de l'article L. 4122-6, à l'article L. 4122-7,
+au I et au III de l'article L. 4122-8, de ne pas adresser la déclaration prévue au IV de l'article L. 4122-6, au I ou au III
+de l'article L. 4122-8, de ne pas justifier des mesures prises en application de l'article L. 4122-7, d'omettre de déclarer
+une partie substantielle de son patrimoine ou de ses intérêts ou de fournir une évaluation mensongère de son patrimoine est
+puni d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende. 
+
+Peuvent être prononcées, à titre complémentaire, l'interdiction des droits civiques, selon les modalités prévues aux articles
+131-26 et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publique selon les modalités prévues à
+l'article 131-27 du même code. 
+
+Le fait, pour un militaire soumis à l'obligation prévue au I de l'article L. 4122-8 du présent code, de ne pas déférer aux
+injonctions de la Haute Autorité pour la transparence de la vie publique prévues au IV du même article ou de ne pas lui
+communiquer les informations et pièces utiles à l'exercice de sa mission est puni d'un an d'emprisonnement et de 15 000 €
+d'amende. 
+
+Le fait de publier ou de divulguer, de quelque manière que ce soit, tout ou partie des déclarations, des informations ou des
+observations mentionnées aux articles L. 4122-6 à L. 4122-8 du présent code est puni des peines mentionnées à l'article 226-1
+du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-26-1
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 226-1
+
+
+###### Article L4122-10
+
+Tout militaire a le droit de consulter un référent déontologue, chargé de lui apporter tout conseil utile au respect des
+obligations et des principes déontologiques mentionnés au présent chapitre. Cette fonction de conseil s'exerce sans préjudice
+de la responsabilité et des prérogatives des autorités de commandement. 
+
+Le rapporteur général de la commission de déontologie des militaires anime le réseau des référents déontologues désignés par
+les forces armées et formations rattachées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-564 du 19 avril 2017 - art. 4 (VD)
+	  - Code de la défense. - art. L4122-3 (V)
+	  - Code de la défense. - art. L4122-4 (V)
 
 
 ##### Chapitre III : Rémunération, garanties et protections
@@ -17573,7 +17891,7 @@ Les modalités d'application du présent article sont fixées par décret au Con
 Les militaires participant à des opérations extérieures ainsi que leurs ayants cause bénéficient : 
 
 1° Des dispositions des articles L. 2, L. 3, L. 5, L. 12, L. 13, L. 15, du septième alinéa de l'article L. 43, des articles
-L. 136 bis, L. 253 ter,
+L. 136 bis, L. 253 ter, 
 L. 393 à L. 396, 
 L. 461 à L. 490, 
 L. 493 à L. 509, L. 515 et L. 520 du code des pensions militaires d'invalidité et des victimes de la guerre ; 
@@ -17586,7 +17904,18 @@ cet article ;
 
 4° Des dispositions de l'article L. 36 du même code, lorsque les conditions définies à cet article sont remplies. 
 
-Le champ d'application de chaque opération est défini par arrêté interministériel.
+L'ouverture des droits susmentionnés s'effectue, pour chaque opération, par arrêté interministériel. 
+
+Cet arrêté est complété, s'agissant du champ géographique de l'opération, d'un arrêté interministériel non publié. L'entrée
+en vigueur de cet arrêté est subordonnée à son enregistrement dans un recueil spécial, dispensé de toute publication ou
+diffusion et tenu par le ministre de la défense. Seuls les autorités publiques compétentes et les agents publics justifiant
+d'un intérêt peuvent consulter un acte figurant dans ce recueil. 
+
+Lorsque, dans le cadre d'une procédure engagée devant une juridiction administrative ou judiciaire, la solution du litige
+dépend d'une question relative à un acte enregistré dans ce recueil spécial, l'acte est communiqué, à sa demande, à la
+juridiction ou au magistrat délégué par celle-ci, sans être versé au contradictoire. Si cet acte est protégé au titre du
+secret de la défense nationale, la juridiction peut demander sa déclassification et sa communication en application de
+l'article L. 2312-4 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -17638,10 +17967,11 @@ Le champ d'application de chaque opération est défini par arrêté interminist
 
 	**Modifié par**:
 
-	  - Loi n°2013-1168 du 18 décembre 2013 - art. 34
+	  - Loi n°2016-483 du 20 avril 2016 - art. 24
 
 	**Cite**:
 
+	  - Code de la défense. - art. L2312-4
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L12
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L13
 	  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L136 bis
@@ -17808,8 +18138,9 @@ militaires de la gendarmerie nommés dans les conditions prévues au I.
 
 ###### Article L4123-10
 
-Les militaires sont protégés par le code pénal et les lois spéciales contre les menaces, violences, harcèlements moral ou
-sexuel, voies de fait, injures, diffamations ou outrages dont ils peuvent être l'objet. 
+Les militaires sont protégés par le code pénal et les lois spéciales contre les atteintes volontaires à l'intégrité de la
+personne, les menaces, violences, harcèlements moral ou sexuel, voies de fait, injures, diffamations ou outrages dont ils
+peuvent être l'objet. 
 
 L'Etat est tenu de les protéger contre les menaces et attaques dont ils peuvent être l'objet à l'occasion de l'exercice de
 leurs fonctions et de réparer, le cas échéant, le préjudice qui en est résulté. Il est subrogé aux droits de la victime pour
@@ -17819,9 +18150,12 @@ Il peut exercer, aux mêmes fins, une action directe, au besoin par voie de cons
 juridiction pénale. 
 
 L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à
-l'occasion de faits qui n'ont pas le caractère d'une faute personnelle. 
+l'occasion de faits qui n'ont pas le caractère d'une faute personnelle. Cette protection bénéficie également au militaire
+qui, à raison de tels faits, est entendu en qualité de témoin assisté, placé en garde à vue ou se voit proposer une mesure de
+composition pénale.
 
-Le service compétent pour accorder la protection est celui dont relève le militaire à la date des faits en cause. 
+Le service compétent pour accorder la protection est celui dont relève le militaire ou, pour l'ancien militaire, celui dont
+il relevait, à la date des faits en cause. 
 
 En cas de poursuites exercées par un tiers contre des militaires pour faute de service sans que le conflit d'attribution ait
 été élevé, l'Etat doit, dans la mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a été commise,
@@ -17886,7 +18220,7 @@ celles de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 42
+	  - Loi n°2016-483 du 20 avril 2016 - art. 21
 
 
 ###### Article L4123-10-1
@@ -19407,15 +19741,22 @@ Pour un même fait, une sanction disciplinaire et une sanction professionnelle p
 Le militaire à l'encontre duquel une procédure de sanction est engagée a droit à la communication de son dossier individuel,
 à l'information par son administration de ce droit, à la préparation et à la présentation de sa défense.
 
+Aucune procédure disciplinaire ne peut être engagée au-delà d'un délai de trois ans à compter du jour où l'administration a
+eu une connaissance effective de la réalité, de la nature et de l'ampleur des faits passibles de sanction. En cas de
+poursuites pénales exercées à l'encontre du militaire, ce délai est interrompu jusqu'à la décision définitive de classement
+sans suite, de non-lieu, d'acquittement, de relaxe ou de condamnation. 
+
+Passé ce délai et hormis le cas où une autre procédure disciplinaire a été engagée à l'encontre du militaire avant
+l'expiration de ce délai, les faits en cause ne peuvent plus être invoqués dans le cadre d'une procédure disciplinaire.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 40
 	  - Loi n°2005-270 du 24 mars 2005 - art. 40 (Ab)
 
 	**Cité par**:
@@ -19425,7 +19766,11 @@ Le militaire à l'encontre duquel une procédure de sanction est engagée a droi
 	  - Code de la défense. - art. L4137-3 (V)
 	  - Code de la défense. - art. L4137-4 (V)
 	  - Code de la défense. - art. L4143-1 (V)
-	  - Code de la défense. - art. L4144-1 (M)
+	  - Code de la défense. - art. L4144-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 37
 
 	**Cite**:
 
@@ -19467,8 +19812,7 @@ b) La radiation des cadres ou la résiliation du contrat.
 Les sanctions disciplinaires ne peuvent se cumuler entre elles à l'exception des arrêts qui peuvent être appliqués dans
 l'attente du prononcé de l'une des sanctions des deuxième et troisième groupes qu'il est envisagé d'infliger. 
 
-En cas de nécessité, les arrêts et les consignes sont prononcés avec effet immédiat. Les arrêts avec effet immédiat peuvent
-être assortis d'une période d'isolement. 
+En cas de nécessité, les arrêts et les consignes sont prononcés avec effet immédiat. 
 
 Les conditions d'application du présent article font l'objet d'un décret en Conseil d'Etat.
 
@@ -19479,7 +19823,7 @@ Les conditions d'application du présent article font l'objet d'un décret en Co
 	  - Loi n°83-634 du 13 juillet 1983 - art. 13 ter (V)
 	  - Décret n°2008-951 du 12 septembre 2008 - art. 11 (VD)
 	  - Décret n°2008-956 du 12 septembre 2008 - art. 26 (VD)
-	  - Code de la défense. - art. L4137-1 (M)
+	  - Code de la défense. - art. L4137-1 (V)
 	  - Code de la défense. - art. L4137-4 (V)
 	  - Code de la défense. - art. L4141-4 (VD)
 	  - Code de la défense. - art. L4141-7 (V)
@@ -19492,7 +19836,7 @@ Les conditions d'application du présent article font l'objet d'un décret en Co
 
 	**Modifié par**:
 
-	  - Loi n°2008-493 du 26 mai 2008 - art. 3
+	  - Loi n°2016-483 du 20 avril 2016 - art. 38
 
 	**Cite**:
 
@@ -19572,19 +19916,31 @@ L.4137-3.
 
 ###### Article L4137-5
 
-En cas de faute grave commise par un militaire, celui-ci peut être immédiatement suspendu de ses fonctions par l'autorité
-ayant pouvoir disciplinaire.
+En cas de faute grave commise par un militaire, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une
+infraction de droit commun, celui-ci peut être immédiatement suspendu de ses fonctions par l'autorité ayant pouvoir
+disciplinaire qui saisit, sans délai, le conseil de discipline ou le conseil d'enquête. 
 
 Le militaire suspendu demeure en position d'activité. Il conserve sa solde, l'indemnité de résidence et le supplément
-familial de solde.
+familial de solde. 
 
 La situation du militaire suspendu doit être définitivement réglée dans un délai de quatre mois à compter du jour où la
 décision de suspension a pris effet. Si, à l'expiration de ce délai, aucune décision n'a été prise par l'autorité ayant
-pouvoir disciplinaire, l'intéressé est rétabli dans un emploi de son grade, sauf s'il est l'objet de poursuites pénales.
+pouvoir disciplinaire, l'intéressé est rétabli dans ses fonctions, sauf s'il est l'objet de poursuites pénales. 
 
-Lorsque le militaire, en raison de poursuites pénales, n'est pas rétabli dans un emploi de son grade, le ministre de la
-défense peut déterminer la quotité de la retenue qu'il subit et qui ne peut être supérieure à la moitié de sa solde augmentée
-de l'indemnité de résidence et du supplément familial de solde.
+Lorsque le militaire fait l'objet de poursuites pénales, il est rétabli dans ses fonctions à l'expiration du même délai à
+condition que les mesures décidées par l'autorité judiciaire ou l'intérêt du service n'y fassent pas obstacle. 
+
+Le magistrat et le procureur de la République sont informés des mesures prises à l'égard du militaire. 
+
+Lorsqu'il n'est pas rétabli dans ses fonctions, il peut être affecté provisoirement, par l'autorité investie du pouvoir de
+mutation et sous réserve de l'intérêt du service, dans un emploi différent. 
+
+Cette affectation ou ce détachement provisoire prend fin lorsque la situation de l'intéressé est définitivement réglée par
+l'administration ou lorsque l'évolution des poursuites pénales rend impossible sa prolongation. 
+
+Lorsque le militaire, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions, le ministre de la défense peut
+déterminer la quotité de la retenue qu'il subit et qui ne peut être supérieure à la moitié de sa solde augmentée de
+l'indemnité de résidence et du supplément familial de solde. 
 
 Si le militaire n'a subi aucune sanction disciplinaire, il a le droit au remboursement des retenues opérées sur sa
 rémunération. Toutefois, en cas de poursuites pénales, ce droit n'est définitivement arrêté que lorsque la décision rendue
@@ -19594,22 +19950,25 @@ par la juridiction saisie est devenue définitive.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Cite**:
 
-	  - Loi n°2005-270 2005-03-24
+	  - Loi n°2005-270 du 24 mars 2005
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 44
 	  - Loi n°2005-270 du 24 mars 2005 - art. 44 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 27
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3223-14 (V)
 	  - Code de la défense. - art. D3223-23 (V)
-	  - Code de la défense. - art. L4144-1 (M)
+	  - Code de la défense. - art. L4144-1 (V)
 
 
 ##### Chapitre VIII : Positions statutaires
@@ -20889,8 +21248,9 @@ militaire engagé se trouvant à moins de deux ans de la limite de durée des se
 reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 133-6-8 du code de la sécurité
 sociale et 50-0 et 102 ter du code général des impôts. 
 
-Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues aux cinquième
-et sixième alinéas de l'article L. 4122-2 du présent code et par le décret en Conseil d'Etat pris pour leur application.
+Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues au cinquième
+alinéa de l'article L. 4122-2 et à l'article L. 4122-5 du présent code et par le décret en Conseil d'Etat pris pour leur
+application.
 
 **Nota:**
 
@@ -20901,14 +21261,15 @@ aux contributions de sécurité sociale dues au titre des périodes courant à c
 
 	**Modifié par**:
 
-	  - Loi n°2014-626 du 18 juin 2014 - art. 25 (V)
+	  - Loi n°2016-483 du 20 avril 2016 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 102 ter
 	  - Code général des impôts, CGI. - art. 50-0
-	  - Code de la défense. - art. L4122-2
-	  - Code de la sécurité sociale. - art. L133-6-8 (VT)
+	  - Code de la défense. - art. L4122-2 (V)
+	  - Code de la défense. - art. L4122-5 (V)
+	  - Code de la sécurité sociale. - art. L133-6-8
 
 	**Cité par**:
 
@@ -22233,7 +22594,7 @@ hiérarchie militaire générale. Ce grade ne confère de commandement qu'à l'i
 
 II.-Durant leur détachement, les articles L. 4111-1 à L. 4121-2, les premier et deuxième alinéas de l'article L. 4121-3, les
 articles L. 4121-4 et L. 4121-5, L. 4121-7 à L. 4123-2, L. 4123-4, L. 4123-5, 
-L. 4123-8, L. 4123-10 à L. 4123-18, L. 4124-1 à L. 4132-1, le 1° de l'article L. 4137-1, les premier à quatrième alinéas de
+L. 4123-8, L. 4123-10 à L. 4123-18, L. 4124-1 à L. 4132-1, le 1° de l'article L. 4137-1, les premier à huitième alinéas de
 l'article L. 4137-5 et les a à d du 1° de l'article L. 4138-2 sont applicables aux fonctionnaires détachés au sein des
 services de la trésorerie aux armées et de la poste interarmées.
 
@@ -22245,7 +22606,7 @@ services de la trésorerie aux armées et de la poste interarmées.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 105
+	  - Loi n°2016-483 du 20 avril 2016 - art. 27
 
 	**Cite**:
 
@@ -22259,8 +22620,8 @@ services de la trésorerie aux armées et de la poste interarmées.
 	  - Code de la défense. - art. L4123-5
 	  - Code de la défense. - art. L4123-8
 	  - Code de la défense. - art. L4124-1
-	  - Code de la défense. - art. L4137-1
-	  - Code de la défense. - art. L4137-5
+	  - Code de la défense. - art. L4137-1 (V)
+	  - Code de la défense. - art. L4137-5 (V)
 	  - Code de la défense. - art. L4138-2
 
 
@@ -23246,7 +23607,8 @@ matière d'ancienneté, d'avancement, de congés payés et de droits aux prestat
 
 Lorsqu'un fonctionnaire accomplit, sur son temps de travail, une activité dans la réserve opérationnelle, il est placé :
 
-1° En position d'accomplissement du service national et des activités dans la réserve opérationnelle, lorsque la durée de ses
+1° En congé pour accomplir soit une période de service militaire, d'instruction militaire ou d'activité dans la réserve en
+position d'accomplissement du service national et des activités dans la réserve opérationnelle, lorsque la durée de ses
 activités dans la réserve est inférieure ou égale à trente jours par année civile ;
 
 2° En position de détachement pour la période excédant cette durée.
@@ -23264,12 +23626,15 @@ La situation des agents publics non titulaires est définie par décret en Conse
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 27 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 27 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-483 du 20 avril 2016 - art. 31
 
 
 ###### Article L4251-7
@@ -83498,7 +83863,7 @@ de saisine par son secrétariat.
 
 L'absence d'avis de la commission à l'expiration du délai susmentionné vaut avis favorable. 
 
-Les dispositions du présent article s'appliquent sans préjudice des dispositions des articles L. 413-1 et suivants du code de
+Les dispositions du présent article s'appliquent sans préjudice des dispositions des articles L. 531-1 et suivants du code de
 la recherche. 
 
 L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
@@ -83519,17 +83884,18 @@ anticipation. Il est alors radié des cadres ou rayé des contrôles, conformém
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-592 du 27 avril 2012 - art. 2
-
 	**Cité par**:
 
 	  - Décret n°2016-484 du 19 avril 2016 (V)
 	  - Code de la défense. - art. R4138-29-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-484 du 19 avril 2016 - art. 2
+
 	**Cite**:
 
+	  - Code de la recherche - art. L531-1
 	  - Code de la défense. - art. L4139-5-1
 	  - Code de la défense. - art. R*4122-19
 

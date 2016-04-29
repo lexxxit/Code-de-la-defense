@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-04-22
+Version Consolidée au 2016-04-30
 
 # Partie législative
 
@@ -28134,70 +28134,64 @@ Pyrénées, Haute-Vienne, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, T
 	  - Code de la défense. - art. R3222-5 (V)
 
 
-###### Article R*1212-5
+###### Article R1212-5
 
-Les arrondissements maritimes sont établis conformément au tableau suivant : 
+La composition des arrondissements maritimes est fixée conformément au tableau suivant :
 
 <table>
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
-ARRONDISSEMENTS 
-
-maritimes 
+ARRONDISSEMENTS MARITIMES 
 
 </th>
-      <th colspan="2">
+        <th>
 
-DÉPARTEMENTS 
+RÉGIONS 
 
 </th>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
 
-Atlantique 
-
-</td>
-      <td align="left" valign="top" colspan="2">
-
-Ariège, Ardennes, Aube, Aveyron, Bas-Rhin, Charente, Charente-Maritime, Cher, Corrèze, Côtes-d'Armor, Côte-d'Or, Creuse,
-Deux-Sèvres, Dordogne, Doubs, Eure-et-Loir, Finistère, Gers, Gironde, Haute-Garonne, Haute-Vienne, Haute-Marne, Haut-Rhin,
-Haute-Saône, Hautes-Pyrénées, Ille-et-Vilaine, Indre, Indre-et-Loire, Jura, Landes, Loir-et-Cher, Loire-Atlantique, Loiret,
-Lot, Lot-et-Garonne, Maine-et-Loire, Marne, Mayenne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Pyrénées-
-Atlantiques, Saône-et-Loire, Sarthe, Tarn, Tarn-et-Garonne, Territoire de Belfort, Vendée, Vienne, Vosges, Yonne. 
+Atlantique (siège : Brest) 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="middle" align="center">
+        <td align="center" valign="middle">
 
-Manche - mer du Nord 
+Aquitaine-Limousin-Poitou-Charentes, Bretagne, Centre-Val de Loire, Pays de la Loire. 
 
 </td>
-      <td colspan="2">
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
 
-Aisne, Calvados, Eure, Manche, Nord, Oise, Orne, Pas-de-Calais, Seine-Maritime, Somme. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Méditerranée 
+Manche-mer du Nord (siège : Cherbourg) 
 
 </td>
-      <td align="left" valign="top">
+        <td valign="middle" align="center">
 
-Ain, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Aude, Bouches-du-Rhône, Cantal, Corse-du-Sud, Drôme, Gard,
-Haute-Corse, Haute-Loire, Haute-Savoie, Hautes-Alpes, Hérault, Isère, Loire, Lozère, Puy-de-Dôme, Pyrénées-Orientales, Rhône,
-Savoie, Var, Vaucluse.
+Normandie, Nord-Pas-de-Calais-Picardie. 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+Méditerranée (siège : Toulon) 
+
+</td>
+        <td valign="middle" align="center">
+
+Auvergne-Rhône-Alpes, Corse, Languedoc-Roussillon-Midi-Pyrénées, 
+
+Provence-Alpes-Côte d'Azur.
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -28211,7 +28205,7 @@ Savoie, Var, Vaucluse.
 
 	**Modifié par**:
 
-	  - Décret n°2015-81 du 29 janvier 2015 - art. 3
+	  - Décret n°2016-525 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -61844,14 +61838,15 @@ attributions dans les conditions définies par arrêté du ministre de la défen
 Il représente le commandant d'arrondissement maritime auprès des autorités civiles et des autres autorités militaires. 
 
 II.-Le commandant de la marine à Paris est subordonné directement au chef d'état-major de la marine. Il exerce certaines
-attributions d'un commandant d'arrondissement maritime. Il relève          du gouverneur militaire de Paris dans des domaines
-fixés par le ministre de la défense.
+attributions d'un commandant d'arrondissement maritime dans les régions Ile-de-France, Alsace - Champagne-Ardenne - Lorraine
+et Bourgogne - Franche-Comté. Il relève du gouverneur militaire de Paris dans des domaines fixés par le ministre de la
+défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-211 du 25 février 2015 - art. 6
+	  - Décret n°2016-525 du 28 avril 2016 - art. 3
 
 
 ##### Section 4 : Dispositions relatives aux services de la marine
@@ -75894,7 +75889,7 @@ a) Les officiers généraux ;
 
 b) Les membres du contrôle général des armées ; 
 
-c) Les commissaires des trois armées ; 
+c) Les commissaires des armées ; 
 
 d) Les ingénieurs des corps militaires de l'armement ; 
 
@@ -75914,7 +75909,7 @@ du code pénal à compter de la cessation de cette fonction.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1634 du 24 décembre 2009 - art. 2
+	  - Décret n°2016-525 du 28 avril 2016 - art. 4
 
 	**Cite**:
 

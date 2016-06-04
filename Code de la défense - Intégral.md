@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-05-30
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -3729,11 +3729,22 @@ judiciaire tel que défini par la présente section.
 Dès leur arrivée sur le sol français, les personnes faisant l'objet de mesures de coercition sont mises à la disposition de
 l'autorité judiciaire.
 
+Si ces personnes font l'objet d'une mesure de garde à vue à leur arrivée sur le sol français, elles sont présentées dans les
+plus brefs délais soit, à la requête du procureur de la République, au juge des libertés et de la détention, soit au juge
+d'instruction, qui peuvent ordonner leur remise en liberté. A défaut d'une telle décision, la garde à vue se poursuit.
+
+La personne peut demander, dans les conditions prévues à l'article 63-3-1 du code de procédure pénale, à être assistée par un
+avocat lors de cette présentation.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-13 du 5 janvier 2011 - art. 6
+	  - Loi n°2016-731 du 3 juin 2016 - art. 60
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-3-1 (VD)
 
 
 ### LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -3812,7 +3823,8 @@ Pour l'application de la présente partie du code à Mayotte, les termes énumé
 ###### Article L1641-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10
-et L. 1521-1 à L. 1521-10.
+et L. 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le
+crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -3823,13 +3835,13 @@ et L. 1521-1 à L. 1521-10.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1411-1 (V)
-	  - Code de la défense. - art. L1521-1
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1411-1
+	  - Code de la défense. - art. L1521-1 (V)
 
 
 ###### Article L1641-2
@@ -3895,7 +3907,8 @@ ayant le même objet applicables localement.
 ###### Article L1651-1
 
 Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
-1521-1 à L. 1521-10.
+1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -3906,13 +3919,13 @@ Sont applicables en Polynésie française les dispositions des articles L. 1111-
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1411-1 (V)
-	  - Code de la défense. - art. L1521-1
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1411-1
+	  - Code de la défense. - art. L1521-1 (V)
 
 
 ###### Article L1651-2
@@ -3977,7 +3990,8 @@ ayant le même objet applicables localement.
 ###### Article L1661-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
-1521-1 à L. 1521-10.
+1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -3988,13 +4002,13 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1411-1 (V)
-	  - Code de la défense. - art. L1521-1
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1411-1
+	  - Code de la défense. - art. L1521-1 (V)
 
 
 ###### Article L1661-2
@@ -4075,16 +4089,18 @@ objet applicables localement.
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L.
-1411-10 et L. 1521-1 à L. 1521-10.
+1411-10 et L. 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. L1111-1 (V)
-	  - Code de la défense. - art. L1411-1 (V)
-	  - Code de la défense. - art. L1521-1
+	  - Code de la défense. - art. L1111-1
+	  - Code de la défense. - art. L1411-1
+	  - Code de la défense. - art. L1521-1 (V)
 
 	**Codifié par**:
 
@@ -4093,7 +4109,7 @@ publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des art
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 5
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 ###### Article L1671-2
@@ -10262,7 +10278,8 @@ documents nécessaires à leur inscription sur le registre spécial mentionné a
 ###### Article L2339-5
 
 Les sanctions pénales de l'acquisition et de la détention illicites des matériels de guerre, des armes et des munitions sont
-définies par les dispositions du chapitre VII du titre Ier du livre III du code de la sécurité intérieure.
+définies par  la section 7 du chapitre II du titre II du livre II du code pénal et le chapitre VII du titre Ier du livre III
+du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -10284,7 +10301,11 @@ définies par les dispositions du chapitre VII du titre Ier du livre III du code
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
 
 	**Anciens textes**:
 
@@ -10296,7 +10317,8 @@ définies par les dispositions du chapitre VII du titre Ier du livre III du code
 ###### Article L2339-9
 
 Les sanctions pénales du port, du transport et des expéditions illicites des matériels de guerre, des armes et des munitions
-sont définies par les dispositions du chapitre VII du titre Ier du livre III du code de la sécurité intérieure.
+sont définies par  la section 7 du chapitre II du titre II du livre II du code pénal et le chapitre VII du titre Ier du livre
+III du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -10319,7 +10341,11 @@ sont définies par les dispositions du chapitre VII du titre Ier du livre III du
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Abrogé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 27
 
 	**Anciens textes**:
 
@@ -10330,11 +10356,13 @@ sont définies par les dispositions du chapitre VII du titre Ier du livre III du
 
 ###### Article L2339-10
 
-Est punie de cinq ans d'emprisonnement et d'une amende de 9 000 euros l'importation, sans autorisation, des matériels des
-catégories A, B, C et D figurant sur une liste fixée par un décret en Conseil d'Etat.
+Est punie de cinq ans d'emprisonnement et d'une amende de 75 000 euros l'importation, sans autorisation, des matériels des
+catégories A, B, C et D figurant sur une liste fixée par un décret en Conseil d'Etat. 
+
+Le fait de contrevenir au I de l'article L. 2335-17 est puni des mêmes peines. 
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
-organisée.
+organisée. 
 
 La tentative des délits prévus aux alinéas précédents est punie des mêmes peines.
 
@@ -10344,10 +10372,6 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
 
 	**Cité par**:
 
@@ -10361,6 +10385,14 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 	  - Code de procédure pénale - art. 706-73 (V)
 	  - Code pénal - art. 321-6-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-17 (V)
+
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 26 (Ab)
@@ -10369,20 +10401,22 @@ La tentative des délits prévus aux alinéas précédents est punie des mêmes 
 ###### Article L2339-11
 
 Est puni d'un emprisonnement de deux ans et d'une amende de 30 000 € l'usage, par une personne non qualifiée, du poinçon
-mentionné à l'article L. 2332-8-1. 
-
-Les contrefaçons d'un poinçon d'épreuve et l'usage frauduleux des poinçons contrefaits sont punis d'un emprisonnement de cinq
-ans et d'une amende de 75 000 €.
+mentionné à l'article L. 2332-8-1.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
 	**Modifié par**:
 
-	  - Loi n°2012-304 du 6 mars 2012 - art. 27
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2332-8-1 (V)
+	  - Code de la défense. - art. L2332-8-1
 
 	**Anciens textes**:
 
@@ -10576,21 +10610,17 @@ agissements incriminés et d'identifier, le cas échéant, les autres auteurs ou
 
 ###### Article L2339-14
 
-Les infractions définies au premier alinéa du I de l'article L. 2339-2, à l'article L. 2339-4 et au premier alinéa de
-l'article L. 2339-10 du présent code, ainsi qu'au premier alinéa des articles L. 317-4 et L. 317-7 et au 1° de l'article L.
-317-8 du code de la sécurité intérieure, sont punies de quinze ans de réclusion criminelle et un million et demi d'euros
-d'amende lorsqu'elles concernent des missiles, fusées ou autres systèmes sans pilote capables de conduire à leur cible des
-armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement conçus à cet
-usage. 
+Les infractions définies aux articles 222-52 à 222-54 du code pénal, au premier alinéa du I de l'article L. 2339-2, à
+l'article L. 2339-4 et aux deux premiers alinéas de l'article L. 2339-10 du présent code, ainsi qu'au premier alinéa de
+l'article L. 317-7 du code de la sécurité intérieure, sont punies de quinze ans de réclusion criminelle et un million et demi
+d'euros d'amende lorsqu'elles concernent des missiles, fusées ou autres systèmes sans pilote capables de conduire à leur
+cible des armes nucléaires telles que définies au III de l'article L. 1333-13-4, chimiques ou biologiques et spécialement
+conçus à cet usage. 
 
 Ces faits sont punis de vingt ans de réclusion criminelle et de trois millions d'euros d'amende lorsqu'ils sont commis en
 bande organisée.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
 
 	**Cité par**:
 
@@ -10602,15 +10632,18 @@ bande organisée.
 	  - Code de procédure pénale - art. 78-2-2 (V)
 	  - Code pénal - art. 421-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
 	**Cite**:
 
+	  - Code pénal - art. 222-52 (V)
 	  - Code de la défense. - art. L1333-13-4
-	  - Code de la défense. - art. L2339-10
+	  - Code de la défense. - art. L2339-10 (V)
 	  - Code de la défense. - art. L2339-2
 	  - Code de la défense. - art. L2339-4
-	  - Code de la sécurité intérieure - art. L317-4
-	  - Code de la sécurité intérieure - art. L317-7
-	  - Code de la sécurité intérieure - art. L317-8
+	  - Code de la sécurité intérieure - art. L317-7 (V)
 
 
 ###### Article L2339-15
@@ -14444,6 +14477,35 @@ loi, dans le cas contraire. La convention a été publiée par le décret n° 20
 
 #### TITRE V : EXPLOSIFS
 
+##### Chapitre Ier : Enregistrement des précurseurs d'explosifs
+
+###### Article L2351-1
+
+Lorsqu'une personne physique acquiert auprès d'un opérateur économique des substances parmi celles mentionnées au 3 de
+l'article 4 du règlement (UE) n° 98/2013 du Parlement européen et du Conseil du 15 janvier 2013 sur la commercialisation et
+l'utilisation de précurseurs d'explosifs, l'opérateur est tenu d'enregistrer la transaction dans les conditions prévues par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-575 du 3 juillet 1970 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 115
+
+	**Cité par**:
+
+	  - Code de la défense. - art. L2353-5 (M)
+
+
 ##### Chapitre II : Autorisations et agréments
 
 ###### Article L2352-1
@@ -14577,14 +14639,14 @@ alinéas ci-dessus adressent sans délai au procureur de la République le proc�
 
 ###### Article L2353-4
 
-Sont punies d'un emprisonnement de cinq ans et d'une amende de 3 750 euros :
+Sont punies d'un emprisonnement de cinq ans et d'une amende de 75 000 euros :
 
 1° La fabrication, sans autorisation, d'un engin explosif ou incendiaire ou d'un produit explosif, quelle que soit sa
 composition ;
 
 2° La fabrication de tout autre élément ou substance destinés à entrer dans la composition d'un produit explosif.
 
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 Euros d'amende lorsque l'infraction est commise en bande
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
 organisée.
 
 La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues au présent article est réduite de
@@ -14595,12 +14657,8 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -14620,9 +14678,12 @@ d'identifier, le cas échéant, les autres auteurs ou complices.
 	  - Code pénal - art. 321-6-1 (V)
 	  - Code pénal - art. 421-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
+
 	**Anciens textes**:
 
-	  - Loi n°1871-06-19 art. 3, art. 3-1
 	  - Loi n°1871-06-19 du 19 juin 1871 - art. 3 (Ab)
 	  - Loi n°1871-06-19 du 19 juin 1871 - art. 3-1 (Ab)
 
@@ -14862,7 +14923,8 @@ de six mois et d'une amende de 3 750 euros.
 ###### Article L2353-13
 
 L'acquisition, la détention, le transport ou le port illégal de produits explosifs ou d'engins explosifs sont punis selon les
-dispositions du chapitre IX du titre III du présent livre applicables aux armes de la catégorie A.
+dispositions du chapitre IX du titre III du présent livre applicables aux armes de la catégorie A ainsi que selon celles de
+la section 7 du chapitre II du titre II du livre II du code pénal.
 
 Les dispositions du premier alinéa ne sont pas applicables à l'acquisition, à la détention, au transport ou au port d'une
 quantité de 2 kilogrammes au plus de poudre noire ou de poudre à usage civil, en vue de la confection de munitions de chasse
@@ -14875,15 +14937,15 @@ ou de tir.
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2012-304 du 6 mars 2012 - art. 34
-
 	**Cité par**:
 
 	  - Loi n°2016-731 du 3 juin 2016 - art. 24
 	  - Code de procédure pénale - art. 28-1 (V)
 	  - Code pénal - art. 421-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 26
 
 	**Anciens textes**:
 
@@ -14903,6 +14965,42 @@ considération des circonstances de l'infraction et de la personnalité de son a
 	**Créé par**:
 
 	  - Loi n°2012-304 du 6 mars 2012 - art. 29
+
+
+#### TITRE VIII : DE LA BIOMÉTRIE
+
+##### Chapitre unique  
+
+###### Article L2381-1
+
+I.  - Dans le cadre d'une opération mobilisant des capacités militaires se  déroulant à l'extérieur du territoire français,
+les membres des forces  armées et des formations rattachées peuvent procéder à des opérations de  relevés signalétiques, aux
+fins d'établir l'identité, lorsqu'elle est  inconnue ou incertaine, ainsi que la participation antérieure aux  hostilités :
+
+1° Des personnes décédées lors d'actions de combat ;
+
+2° Des personnes capturées par les forces armées.
+
+Dans les mêmes conditions et aux mêmes  fins, des membres des forces armées et des formations rattachées peuvent  procéder à
+des prélèvements biologiques destinés à permettre l'analyse  d'identification de l'empreinte génétique de ces personnes.
+
+II. - Les données collectées en application  du I peuvent être consultées dans le cadre de la réalisation d'enquêtes
+préalables à une décision de recrutement ou d'accès à une zone protégée  prise par l'autorité militaire. Un décret en Conseil
+d'Etat fixe la  liste des enquêtes qui donnent lieu à cette consultation ainsi que les  modalités d'information des personnes
+concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 116
+
+	**Cité par**:
+
+	  - Décret n°2016-1816 du 21 décembre 2016 (V)
+	  - Code civil - art. 16-11 (V)
+	  - Code de la défense. - art. R2362-5 (Ab)
+	  - Code de la défense. - art. R2362-6 (V)
 
 
 ### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -15081,6 +15179,10 @@ prise en application de l'
 article 30 de la loi n° 2015-917 du 28 juillet 2015 
 et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
+L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15092,19 +15194,19 @@ et portant diverses dispositions concernant la défense, les anciens combattants
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
-	  - Code de la défense. - art. L2113-1 (V)
-	  - Code de la défense. - art. L2151-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2232-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2321-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
-	  - Code de la défense. - art. L2332-6 (V)
-	  - Code de la défense. - art. L2336-1 (V)
+	  - Code de la défense. - art. L2113-1
+	  - Code de la défense. - art. L2151-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2232-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2321-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2332-6
+	  - Code de la défense. - art. L2336-1
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cité par**:
 
@@ -15244,28 +15346,32 @@ prise en application de l'
 article 30 de la loi n° 2015-917 du 28 juillet 2015 
 et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
+L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
-	  - Code de la défense. - art. L2112-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2313-4 (V)
-	  - Code de la défense. - art. L2321-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
-	  - Code de la défense. - art. L2332-6 (V)
-	  - Code de la défense. - art. L2336-1 (V)
-	  - Code de la défense. - art. L2344-1 (V)
-	  - Code de la défense. - art. L2352-2 (V)
-	  - Code de la défense. - art. L2353-11 (V)
-	  - Code de la défense. - art. L2353-4 (V)
+	  - Code de la défense. - art. L2112-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2313-4
+	  - Code de la défense. - art. L2321-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2332-6
+	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2344-1
+	  - Code de la défense. - art. L2352-2
+	  - Code de la défense. - art. L2353-11
+	  - Code de la défense. - art. L2353-4
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 ###### Article L2451-2
@@ -15446,6 +15552,10 @@ Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction r�
 novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
 concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
+L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15455,7 +15565,7 @@ concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 	**Cite**:
 
@@ -15463,9 +15573,9 @@ concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 	  - Code de la défense. - art. L2211-1
 	  - Code de la défense. - art. L2232-1
 	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2321-1 (V)
+	  - Code de la défense. - art. L2321-1
 	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2332-6 (V)
+	  - Code de la défense. - art. L2332-6
 	  - Code de la défense. - art. L2336-1
 
 
@@ -15622,6 +15732,10 @@ prise en application de l'
 article 30 de la loi n° 2015-917 du 28 juillet 2015 
 et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
+L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
+contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
+pénale.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15629,15 +15743,15 @@ et portant diverses dispositions concernant la défense, les anciens combattants
 	  - Décret n°61-1300 du 30 novembre 1961
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
-	  - Code de la défense. - art. L2151-1 (V)
-	  - Code de la défense. - art. L2211-1 (V)
-	  - Code de la défense. - art. L2232-1 (V)
-	  - Code de la défense. - art. L2311-1 (V)
-	  - Code de la défense. - art. L2313-1 (V)
-	  - Code de la défense. - art. L2321-1 (V)
-	  - Code de la défense. - art. L2322-1 (V)
-	  - Code de la défense. - art. L2332-6 (V)
-	  - Code de la défense. - art. L2336-1 (V)
+	  - Code de la défense. - art. L2151-1
+	  - Code de la défense. - art. L2211-1
+	  - Code de la défense. - art. L2232-1
+	  - Code de la défense. - art. L2311-1
+	  - Code de la défense. - art. L2313-1
+	  - Code de la défense. - art. L2321-1
+	  - Code de la défense. - art. L2322-1
+	  - Code de la défense. - art. L2332-6
+	  - Code de la défense. - art. L2336-1
 
 	**Codifié par**:
 
@@ -15646,7 +15760,7 @@ et portant diverses dispositions concernant la défense, les anciens combattants
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1534 du 26 novembre 2015 - art. 2
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 ###### Article L2471-2
@@ -18132,6 +18246,84 @@ militaires de la gendarmerie nommés dans les conditions prévues au I.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L50
+
+
+###### Article L4123-9-1
+
+I. - Sont mis en œuvre après autorisation de la Commission nationale de l'informatique et des libertés et dans les conditions
+prévues à l'article 25 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, sauf
+lorsqu'ils le sont par une association à but non lucratif ou pour le compte de l'Etat, les traitements automatisés ou non
+dont la finalité est fondée sur la qualité de militaires des personnes qui y figurent.
+
+L'autorisation ne peut être délivrée si le comportement ou les agissements de la personne responsable du traitement sont de
+nature à porter atteinte à la sécurité des personnes, à la sécurité publique ou à la sûreté de l'Etat.
+
+A cet effet, la Commission nationale de l'informatique et des libertés peut préalablement à son autorisation recueillir
+l'avis du ministre compétent. Cet avis est rendu à la suite d'une enquête administrative qui peut donner lieu à la
+consultation, selon les règles propres à chacun d'eux, de certains traitements automatisés de données à caractère personnel
+relevant de l'article 26 de la loi n° 78-17 du 6 janvier 1978 précitée.
+
+La Commission nationale de l'informatique et des libertés informe le ministre compétent des autorisations délivrées sur le
+fondement du premier alinéa du présent I.
+
+Les traitements automatisés dont la finalité est fondée sur la qualité de militaires des personnes qui y figurent et qui sont
+mis en œuvre par une association à but non lucratif font l'objet d'une déclaration auprès de la Commission nationale de
+l'informatique et des libertés qui en informe le ministre compétent.
+
+II. - La personne responsable des traitements mentionnés au I ne peut autoriser l'accès aux données contenues dans ces
+traitements qu'aux personnes pour lesquelles l'autorité administrative compétente, consultée aux mêmes fins que celles
+prévues au deuxième alinéa du même I, a donné un avis favorable.
+
+III. - Les traitements mentionnés au I du présent article sont exclus du champ d'application de l'article 31 de la loi n°
+78-17 du 6 janvier 1978 précitée.
+
+IV. - Des arrêtés des ministres compétents, pris après avis de la Commission nationale de l'informatique et des libertés,
+peuvent fixer les prescriptions techniques auxquelles doivent se conformer les traitements mentionnés au I pour préserver la
+sécurité des données.
+
+Le contrôle du respect de ces prescriptions techniques est assuré par le ministre compétent, en complément de celui prévu par
+la loi n° 78-17 du 6 janvier 1978 précitée.
+
+V. - En cas de divulgation ou d'accès non autorisé à des données des traitements mentionnés au I, le responsable du
+traitement avertit sans délai la Commission nationale de l'informatique et des libertés qui en informe le ministre compétent.
+Après accord du ministère compétent, le responsable du traitement avertit les personnes concernées.
+
+VI. - Les obligations prévues au II du présent article et le contrôle prévu au second alinéa du IV ne sont pas applicables
+aux traitements mis en œuvre par les associations mentionnées au 3° du II de l'article 8 de la loi n° 78-17 du 6 janvier 1978
+précitée.
+
+VII. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine
+les modalités d'application du présent article, notamment la désignation des ministres compétents, la liste des fichiers
+mentionnés au II pouvant faire l'objet d'une consultation et les garanties d'information ouvertes aux personnes concernées
+ainsi que les modalités et conditions du contrôle prévu au IV.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues aux III et IV de l'article 117 de la loi n° 2016-731 du 3 juin 2016.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Loi n°78-17 du 6 janvier 1978 - art. 25
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+	  - Loi n°78-17 du 6 janvier 1978 - art. 31
+	  - Loi n°78-17 du 6 janvier 1978 - art. 8
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 117
+
+	**Cité par**:
+
+	  - Décret n°2016-1946 du 28 décembre 2016 (V)
+	  - Code de la défense. - art. R4123-46 (VD)
+	  - Code de la défense. - art. R4123-47 (VD)
+	  - Code de la défense. - art. R4123-49 (VD)
+	  - Code de la défense. - art. R4123-50 (VD)
+	  - Code pénal - art. 226-16 (V)
+	  - Code pénal - art. 226-17-1 (V)
 
 
 ##### Section 3 : Protection juridique et responsabilité pénale
@@ -23838,11 +24030,9 @@ l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5.
 
 ###### Article L4341-1
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5. 
-
-Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
-2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
-dispositions concernant la défense.
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  dans les
+îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5.
 
 **Liens relatifs à cet article**
 
@@ -23859,7 +24049,7 @@ dispositions concernant la défense.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -23868,11 +24058,9 @@ dispositions concernant la défense.
 
 ###### Article L4351-1
 
-Sont applicables en Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5. 
-
-Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
-2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
-dispositions concernant la défense.
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en
+Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
 
 **Liens relatifs à cet article**
 
@@ -23889,7 +24077,7 @@ dispositions concernant la défense.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -23898,11 +24086,9 @@ dispositions concernant la défense.
 
 ###### Article L4361-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5. 
-
-Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
-2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
-dispositions concernant la défense.
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en
+Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
 
 **Liens relatifs à cet article**
 
@@ -23919,7 +24105,7 @@ dispositions concernant la défense.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -23928,11 +24114,9 @@ dispositions concernant la défense.
 
 ###### Article L4371-1
 
-Sont applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3. 
-
-Les articles L. 4139-1, L. 4139-2, L. 4139-4 et L. 4139-14 sont applicables dans leur rédaction résultant de la loi n°
-2015-917 du 28 juillet 2015 actualisant la programmation militaire pour les années 2015 à 2019 et portant diverses
-dispositions concernant la défense.
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  aux Terres
+australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3.
 
 **Liens relatifs à cet article**
 
@@ -23940,12 +24124,12 @@ dispositions concernant la défense.
 
 	  - Loi n°2015-917 du 28 juillet 2015
 	  - Code de la défense. - art. L4111-1
-	  - Code de la défense. - art. L4139-1 (V)
-	  - Code de la défense. - art. L4139-14 (V)
+	  - Code de la défense. - art. L4139-1
+	  - Code de la défense. - art. L4139-14
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 19 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 119
 
 
 ## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES

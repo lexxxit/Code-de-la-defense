@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-10
 
 # Partie législative
 
@@ -90925,6 +90925,217 @@ et destruction des munitions, mines, pièges, engins et explosifs sont fixées p
 	  - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
+### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES
+
+#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
+
+##### Chapitre II : Le service de la trésorerie aux armées
+
+###### Article D5222-2
+
+Le service de la trésorerie aux armées comprend : 
+
+1° Un bureau de liaison de la trésorerie aux armées ; 
+
+2° Des bureaux payeurs, qui sont constitués en tant que de besoin. 
+
+Le service de la trésorerie aux armées emploie des fonctionnaires du ministère chargé du budget dans les conditions définies
+par le décret n° 2004-740 du 26 juillet 2004 portant dispositions statutaires relatives aux fonctionnaires du ministère
+chargé du budget détachés au sein du service de la trésorerie aux armées. Du personnel militaire, d'active ou de réserve,
+peut être mis à disposition du service. 
+
+Le service de la trésorerie aux armées relève du chef d'état-major des armées, sauf en ce qui concerne les opérations
+relatives à la comptabilité publique, pour lesquelles il relève du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-740 du 26 juillet 2004
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D5341-2-2 (V)
+	  - Code de la défense. - art. D5351-2-2 (V)
+	  - Code de la défense. - art. D5361-2-2 (V)
+
+
+###### Article D5222-7
+
+Les transports de fonds décidés par le service de la trésorerie aux armées sont effectués par l'autorité militaire dans les
+conditions prévues par le décret n° 2005-796 du 15 juillet 2005 relatif à la discipline générale militaire et le décret n°
+2015-213 du 25 février 2015 portant règlement du service de garnison. Leur protection est assurée par une escorte de la
+gendarmerie nationale ou, le cas échéant, par l'autorité militaire. 
+
+Les modalités d'application du présent article sont précisées par un arrêté du ministre de la défense et du ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-796 du 15 juillet 2005
+	  - Décret n°2015-213 du 25 février 2015
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2016 - art. 4 (V)
+	  - Code de la défense. - art. D5341-2-2 (V)
+	  - Code de la défense. - art. D5351-2-2 (V)
+	  - Code de la défense. - art. D5361-2-2 (V)
+
+
+###### Article R5222-1
+
+Le service de la trésorerie aux armées assure, pour le soutien des forces armées à l'étranger ou, le cas échéant, intervenant
+sur le territoire national, des missions relatives au recouvrement de recettes publiques, au paiement de dépenses publiques,
+à la gestion de la trésorerie ainsi qu'à la gestion financière et comptable. 
+
+Le service de la trésorerie aux armées est également chargé : 
+
+1° De percevoir des droits de chancellerie pour le compte du comptable public chargé des recettes de la grande chancellerie
+de la Légion d'honneur ; 
+
+2° D'exécuter les recettes et les dépenses confiées par d'autres comptables publics et par les correspondants du Trésor ; 
+
+3° D'exercer, pour les armées en opération, les compétences attribuées en matière domaniale au directeur départemental des
+finances publiques dans les conditions prévues par le code général de la propriété des personnes publiques ; 
+
+4° Des opérations d'appropriation des biens des forces ennemies ; 
+
+5° De la comptabilité et du paiement des traites de la marine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2016 - art. 1 (V)
+	  - Code de la défense. - art. R5341-2-1 (V)
+	  - Code de la défense. - art. R5351-2-1 (V)
+	  - Code de la défense. - art. R5361-2-1 (V)
+
+
+###### Article R5222-3
+
+Le service de la trésorerie aux armées est dirigé par le payeur général aux armées, qui : 
+
+1° Exerce les attributions définies par le décret n° 2004-740 du 26 juillet 2004 portant dispositions statutaires relatives
+aux fonctionnaires du ministère chargé du budget détachés au sein du service de la trésorerie aux armées, notamment en
+matière d'administration et de gestion du personnel ; 
+
+2° Est chargé de la constitution des bureaux payeurs ainsi que de leur fonctionnement en tant que postes comptables. 
+
+Le payeur général aux armées est comptable public spécial. 
+
+Il est assisté, en tant que chef du service de la trésorerie aux armées, par le bureau de liaison de la trésorerie aux
+armées. Il dispose d'un adjoint, payeur principal, qui le seconde et le supplée. 
+
+Lorsqu'il assume la direction d'autres postes comptables, il peut leur confier la prise en charge des ordres de payer, des
+ordres de recouvrer ainsi que des opérations de trésorerie émanant des ordonnateurs assignés sur sa caisse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-740 du 26 juillet 2004 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R5341-2-1 (V)
+	  - Code de la défense. - art. R5351-2-1 (V)
+
+
+###### Article R5222-4
+
+Le service de la trésorerie aux armées reçoit du ministre chargé du budget les instructions financières et comptables
+relatives, notamment, à l'alimentation des caisses et à la tenue de la comptabilité. 
+
+Lorsque les missions du contrôle général des armées portent sur des questions d'ordre technique relatives au service de la
+trésorerie aux armées, elles sont fixées conjointement par le ministre de la défense et le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+
+###### Article R5222-5
+
+En cas de circonstances exceptionnelles, le commandement peut faire procéder, dans les conditions prévues au présent article
+et à l'article R. 5222-6, à l'arrêté des écritures et à la vérification de la caisse d'un payeur. 
+
+Lorsque le commandement fait opérer la vérification de la caisse d'un payeur du service de la trésorerie aux armées par un
+commissaire des armées, celui-ci est désigné à cet effet par le directeur central du service du commissariat des armées. Le
+commissaire des armées ainsi désigné est tenu de présenter au payeur l'ordre écrit en vertu duquel il agit. La vérification
+est constatée par un procès-verbal signé par le commissaire des armées et le payeur. Le commissaire des armées en adresse une
+copie au supérieur immédiat du payeur et en remet une à ce dernier. 
+
+Dans tous les cas où une caisse ou des fonds sous la responsabilité des payeurs seraient exposés à un risque immédiat de
+guerre, la situation de cette caisse ou de ces fonds peut être constatée sans délai par l'autorité militaire ou son délégué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+
+###### Article R5222-6
+
+En cas de décès ou d'empêchement d'un payeur, son adjoint désigné ou le payeur le plus ancien dans le grade le plus élevé
+prend la direction du bureau payeur. Il suspend les opérations comptables si les circonstances le permettent et rend compte
+immédiatement, d'une part au bureau de liaison de la trésorerie aux armées, d'autre part à l'autorité commandant sur le
+théâtre d'opérations et au commissaire des armées de la formation à laquelle il est rattaché. 
+
+Le bureau de liaison de la trésorerie aux armées ou, s'il n'est pas sur place, un commissaire des armées procède sans délai à
+la vérification de la caisse ou des fonds et dresse de cette opération un procès-verbal dont il remet une copie au bureau de
+liaison de la trésorerie aux armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2016 - art. 4 (V)
+
+
+###### Article R5222-8
+
+Un arrêté du ministre de la défense, du ministre chargé du budget et du ministre de l'intérieur précise l'organisation et le
+fonctionnement du service de la trésorerie aux armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R5341-2-1 (V)
+	  - Code de la défense. - art. R5351-2-1 (V)
+
+
 ### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER
 
 #### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON
@@ -90975,6 +91186,22 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5131-4, D. 5131
 	  - Code de la défense. - art. D5131-6
 
 
+###### Article D5341-2-2
+
+Sont applicables dans les îles Wallis et Futuna les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. D5222-2 (V)
+	  - Code de la défense. - art. D5222-7 (V)
+
+
 ###### Article D5341-3
 
 Pour l'application de la présente partie du code aux îles Wallis et Futuna : 
@@ -91023,6 +91250,23 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 51
 	  - Code de la défense. - art. R5131-5 (V)
 
 
+###### Article R5341-2-1
+
+Sont applicables dans les îles Wallis et Futuna les articles R. 5222-1, R. 5222-3 à 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5222-1 (V)
+	  - Code de la défense. - art. R5222-3 (V)
+	  - Code de la défense. - art. R5222-8 (V)
+
+
 #### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE
 
 ##### Chapitre unique
@@ -91046,6 +91290,22 @@ Sont applicables en Polynésie française les articles R. 5131-4, D. 5131-6 à R
 	  - Code de la défense. - art. D5131-12 (V)
 	  - Code de la défense. - art. D5131-6 (V)
 	  - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article D5351-2-2
+
+Sont applicables en Polynésie française les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. D5222-2 (V)
+	  - Code de la défense. - art. D5222-7 (V)
 
 
 ###### Article D5351-3
@@ -91093,6 +91353,23 @@ Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R
 	  - Code de la défense. - art. R5131-5 (V)
 
 
+###### Article R5351-2-1
+
+Sont applicables en Polynésie française les articles R. 5222-1, R. 5222-3 à 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5222-1 (V)
+	  - Code de la défense. - art. R5222-3 (V)
+	  - Code de la défense. - art. R5222-8 (V)
+
+
 #### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE
 
 ##### Chapitre unique
@@ -91116,6 +91393,22 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5131-4, D. 5131-6 à R. 
 	  - Code de la défense. - art. D5131-12 (V)
 	  - Code de la défense. - art. D5131-6 (V)
 	  - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article D5361-2-2
+
+Sont applicables en Nouvelle-Calédonie les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. D5222-2 (V)
+	  - Code de la défense. - art. D5222-7 (V)
 
 
 ###### Article D5361-3
@@ -91161,6 +91454,21 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 
 	  - Code de la défense. - art. R5131-11 (V)
 	  - Code de la défense. - art. R5131-16
 	  - Code de la défense. - art. R5131-5 (V)
+
+
+###### Article R5361-2-1
+
+Sont applicables en Nouvelle-Calédonie les articles R. 5222-1, R. 5222-3 à R. 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R5222-1 (V)
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES

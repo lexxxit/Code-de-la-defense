@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-07-22
 
 # Partie législative
 
@@ -502,10 +502,11 @@ ou, à défaut, par une commission spéciale d'évaluation instituée conformém
 
 Le ministre de la défense est responsable de la préparation et de la mise en œuvre de la politique de défense. Il est en
 particulier chargé de l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en condition d'emploi et
-de la mobilisation des forces armées, sous réserve des dispositions de l'article L. 3225-1. 
+de la mobilisation des forces armées et des formations rattachées, sous réserve des dispositions de l'article L. 3225-1. 
 
-Il a autorité sur les armées et leurs services. Il veille à ce que les armées disposent des moyens nécessaires à leur
-entretien, leur équipement et leur entraînement. Il est responsable de leur sécurité. 
+Il a autorité sur les armées, les services de soutien, les organismes interarmées et les formations rattachées. Il veille à
+ce que ceux-ci disposent des moyens nécessaires à leur entretien, leur équipement et leur entraînement. Il est responsable de
+leur sécurité. 
 
 Il est également chargé :
 
@@ -552,12 +553,12 @@ dispose, dès la mise en garde définie à l'article L. 2141-1, d'un droit de pr
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 1
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2141-1
-	  - Code de la défense. - art. L3225-1 (V)
+	  - Code de la défense. - art. L2141-1 (V)
+	  - Code de la défense. - art. L3225-1
 
 
 ##### Section 2 : Intérieur
@@ -3824,7 +3825,10 @@ Pour l'application de la présente partie du code à Mayotte, les termes énumé
 
 Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10
 et L. 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le
-crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
+crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale. 
+
+Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
+juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -3833,15 +3837,19 @@ crime organisé, le terrorisme et leur financement, et améliorant l'efficacité
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
-	  - Code de la défense. - art. L1411-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
 
 
 ###### Article L1641-2
@@ -3908,7 +3916,10 @@ ayant le même objet applicables localement.
 
 Sont applicables en Polynésie française les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale. 
+
+Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
+juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -3917,15 +3928,19 @@ organisé, le terrorisme et leur financement, et améliorant l'efficacité et le
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
-	  - Code de la défense. - art. L1411-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
 
 
 ###### Article L1651-2
@@ -3991,7 +4006,10 @@ ayant le même objet applicables localement.
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L. 1411-10 et L.
 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale. 
+
+Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
+juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -4000,15 +4018,19 @@ organisé, le terrorisme et leur financement, et améliorant l'efficacité et le
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
-
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-1
-	  - Code de la défense. - art. L1411-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
 
 
 ###### Article L1661-2
@@ -4091,15 +4113,22 @@ Sont applicables aux Terres australes et antarctiques françaises, sous réserve
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 1111-1 à L. 1333-20, L. 1411-1 à L.
 1411-10 et L. 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale.
+pénale. 
+
+Les dispositions de l'article L. 1142-1sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
+juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. L1111-1
-	  - Code de la défense. - art. L1411-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Code de la défense. - art. L1111-1 (V)
+	  - Code de la défense. - art. L1142-1 (V)
+	  - Code de la défense. - art. L1411-1 (V)
 	  - Code de la défense. - art. L1521-1 (V)
 
 	**Codifié par**:
@@ -4109,7 +4138,7 @@ pénale.
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
 
 
 ###### Article L1671-2
@@ -4367,8 +4396,9 @@ leur commandent pour l'exécution des lois et règlements militaires ;
 3° De la provocation, par quelque moyen que ce soit, aux crimes d'assassinat, de meurtre, d'incendie, de pillage, de
 destruction d'édifices, d'ouvrages militaires ; 
 
-4° Des délits commis par les fournisseurs en ce qui concerne les fournitures destinées aux forces armées, dans les cas prévus
-par les articles L. 213-1 à L. 213-5 du code de la consommation et les lois spéciales qui s'y rattachent ; 
+4° Des délits commis par les fournisseurs en ce qui concerne les fournitures destinées aux forces armées et formations
+rattachées, dans les cas prévus par les articles L. 213-1 à L. 213-5 du code de la consommation et les lois spéciales qui s'y
+rattachent ; 
 
 5° Des faux commis au préjudice des forces armées et, d'une manière générale, tous crimes ou délits portant atteinte à la
 défense nationale. 
@@ -4379,25 +4409,29 @@ Ce régime exceptionnel cesse de plein droit à la signature de la paix.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la consommation - art. L213-1 (V)
-	  - Code pénal - art. 224-1 (V)
-	  - Code pénal - art. 322-6 (V)
-	  - Code pénal - art. 410-1 (V)
-	  - Code pénal - art. 432-1 (V)
-	  - Code pénal - art. 432-11 (V)
-	  - Code pénal - art. 433-1 (V)
-	  - Code pénal - art. 433-8 (V)
-	  - Code pénal - art. 442-1 (V)
-	  - Code pénal - art. 443-1 (V)
-	  - Code pénal - art. 444-1 (V)
-	  - Code pénal - art. 444-2 (V)
-	  - Code pénal - art. 450-1 (V)
-	  - Code de justice militaire - art. 476-7 (Ab)
+	  - Code de la consommation - art. L213-1
+	  - Code pénal - art. 224-1
+	  - Code pénal - art. 322-6
+	  - Code pénal - art. 410-1
+	  - Code pénal - art. 432-1
+	  - Code pénal - art. 432-11
+	  - Code pénal - art. 433-1
+	  - Code pénal - art. 433-8
+	  - Code pénal - art. 442-1
+	  - Code pénal - art. 443-1
+	  - Code pénal - art. 444-1
+	  - Code pénal - art. 444-2
+	  - Code pénal - art. 450-1
+	  - Code de justice militaire - art. 476-7
 
 	**Cité par**:
 
@@ -4551,11 +4585,11 @@ du présent livre.
 
 ###### Article L2141-1
 
-La mobilisation générale met en oeuvre l'ensemble des mesures de défense déjà préparées.
+La mobilisation générale met en œuvre l'ensemble des mesures de défense déjà préparées.
 
 La mise en garde consiste en certaines mesures propres à assurer la liberté d'action du Gouvernement, à diminuer la
 vulnérabilité des populations ou des équipements principaux et à garantir la sécurité des opérations de mobilisation ou de
-mise en oeuvre des forces militaires.
+mise en œuvre des forces armées et formations rattachées.
 
 **Liens relatifs à cet article**
 
@@ -4565,8 +4599,8 @@ mise en oeuvre des forces militaires.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Cité par**:
 
@@ -4574,10 +4608,14 @@ mise en oeuvre des forces militaires.
 	  - Décret n°2016-361 du 25 mars 2016 - art. 1 (VD)
 	  - Code de la défense. - art. D*1432-5 (V)
 	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. L1142-1 (M)
+	  - Code de la défense. - art. L1142-1 (V)
 	  - Code de la défense. - art. R*1142-12 (V)
 	  - Code de la défense. - art. R*1336-29 (Ab)
 	  - Code des marchés publics - art. 4 (VT)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 
 ###### Article L2141-2
@@ -5628,14 +5666,18 @@ stratégique et les conditions de sa mise en place sont déterminées par voie r
 ###### Article L2221-1
 
 Les dispositions du présent titre s'appliquent, sous réserve des dispositions du titre précédent, aux réquisitions pour les
-besoins propres des forces armées.
+besoins propres des forces armées et formations rattachées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cité par**:
 
@@ -5894,7 +5936,7 @@ nécessaires à leur fonctionnement ;
 6° Les matériaux, outils, machines et appareils nécessaires pour la construction ou la réparation des voies de communication,
 et, en général, pour l'exécution de tous les travaux militaires ; 
 
-7° Les conducteurs, ainsi que le personnel pour tous les travaux que les différents services des forces armées ont à
+7° Les conducteurs, ainsi que le personnel pour tous les travaux que les forces armées et formations rattachées ont à
 exécuter ; 
 
 8° Le traitement des malades ou blessés chez l'habitant ; 
@@ -5924,20 +5966,20 @@ heures au maximum.
 
 	**Cite**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 17 (Ab)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 17
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L2223-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1877-07-03 art. 5
 
 
 ###### Article L2222-2
@@ -6169,18 +6211,18 @@ En toutes circonstances, les troupes ont droit, chez l'habitant, au chauffage et
 
 L'autorité militaire a le droit d'acquérir, par voie de réquisition et dans les conditions générales prévues par les
 dispositions du présent titre, les véhicules automobiles, les tracteurs agricoles et les remorques pour véhicules
-automobiles, nécessaires au service des forces armées.
+automobiles, nécessaires au service des forces armées et formations rattachées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1934-06-18 art. 1er
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cité par**:
 
@@ -6189,25 +6231,26 @@ automobiles, nécessaires au service des forces armées.
 
 ###### Article L2223-8
 
-Les propriétaires dont les véhicules ont été reconnus aptes aux besoins de l'armée sont avisés, en temps utile, par un ordre
-de convocation émanant de l'autorité militaire, des conditions dans lesquelles ils les font conduire, dès ouverture du droit
-de réquisition ou à la mobilisation, au siège des commissions de réquisition. La remise des ordres de convocation fait
-l'objet, de la part des propriétaires des véhicules, d'un accusé de réception, transmis à l'autorité militaire par le maire
-de la commune et la voie préfectorale.
+Les propriétaires dont les véhicules ont été reconnus aptes aux besoins des forces armées et des formations rattachées sont
+avisés, en temps utile, par un ordre de convocation émanant de l'autorité militaire, des conditions dans lesquelles ils les
+font conduire, dès ouverture du droit de réquisition ou à la mobilisation, au siège des commissions de réquisition. La remise
+des ordres de convocation fait l'objet, de la part des propriétaires des véhicules, d'un accusé de réception, transmis à
+l'autorité militaire par le maire de la commune et la voie préfectorale.
 
-Tous les véhicules reconnus aptes aux besoins des forces armées doivent être pourvus d'accessoires, de rechanges, et d'un
-approvisionnement en carburant et ingrédients dont le détail est déterminé par l'autorité administrative.
+Tous les véhicules reconnus aptes aux besoins des forces armées et formations rattachées doivent être pourvus d'accessoires,
+de rechanges, et d'un approvisionnement en carburant et ingrédients dont le détail est déterminé par l'autorité
+administrative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1934-06-18 art. 9, alinéas 1 et 3
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cité par**:
 
@@ -6231,19 +6274,19 @@ transports en commun, de la défense nationale, de la vie économique, de l'hygi
 par les départements ministériels intéressés au ministre de la défense ou aux autorités déléguées par lui à cet effet.
 
 Dans le cas où, en raison des déficits à combler, certains de ces véhicules sont reconnus nécessaires pour les besoins des
-forces armées, leur remplacement est assuré, par accord entre les autorités déléguées du ministre de la défense et du
-ministre des travaux publics, au moyen de véhicules non soumis à la réquisition.
+forces armées et formations rattachées, leur remplacement est assuré, par accord entre les autorités déléguées du ministre de
+la défense et du ministre des travaux publics, au moyen de véhicules non soumis à la réquisition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1934-06-18 art. 10
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 
 ###### Article L2223-10
@@ -6402,9 +6445,9 @@ appartenant aux opérateurs de chemins de fer.
 
 ###### Article L2223-17
 
-En cas de mobilisation des forces armées ou dans les cas prévus au dernier alinéa de l'article L. 2221-2, l'exploitation des
-voies navigables désignées par le ministre de la défense se fait sous la direction de l'autorité militaire, par les services
-de navigation ou par des troupes spéciales. 
+En cas de mobilisation des forces armées et formations rattachées ou dans les cas prévus au dernier alinéa de l'article L.
+2221-2, l'exploitation des voies navigables désignées par le ministre de la défense se fait sous la direction de l'autorité
+militaire, par les services de navigation ou par des troupes spéciales. 
 
 Sur les voies ainsi désignées, et sans préjudice des réquisitions qui peuvent être adressées, par l'intermédiaire des maires,
 par application des articles L. 2221-6 et L. 2221-7, peuvent être requis directement, sous forme soit de prestations, soit
@@ -6420,34 +6463,34 @@ ne donne lieu à aucune indemnité.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2221-2 (V)
-	  - Code de la défense. - art. L2221-6 (V)
-	  - Code de la défense. - art. L2221-7 (V)
+	  - Code de la défense. - art. L2221-2
+	  - Code de la défense. - art. L2221-6
+	  - Code de la défense. - art. L2221-7
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L2236-5 (V)
 	  - Code de la défense. - art. R2491-13 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1877-07-03 art. 56, alinéas 1, 2 et 6
-
 
 ##### Section 5 : Réquisitions d'établissements industriels
 
 ###### Article L2223-18
 
-En cas de mobilisation des forces armées ou dans les circonstances mentionnées à l'article L. 1111-2, les exploitants
-d'établissements industriels peuvent être tenus, sur réquisition directe, de mettre à la disposition de l'autorité militaire
-toutes les ressources de leur exploitation en personnel, matériel, matières premières et produits, et d'effectuer les
-productions, fabrications et réparations exigées pour le service des forces armées, les établissements de la défense et les
-approvisionnements des places de guerre. 
+En cas de mobilisation des forces armées et formations rattachées ou dans les circonstances mentionnées à l'article L.
+1111-2, les exploitants d'établissements industriels peuvent être tenus, sur réquisition directe, de mettre à la disposition
+de l'autorité militaire toutes les ressources de leur exploitation en personnel, matériel, matières premières et produits, et
+d'effectuer les productions, fabrications et réparations exigées pour le service des forces armées et formations rattachées,
+les établissements de la défense et les approvisionnements des places de guerre. 
 
 Par dérogation aux dispositions de l'article L. 2221-7, les réquisitions des établissements industriels sont adressées, par
 l'autorité militaire, à l'exploitant ou à son représentant. 
@@ -6467,22 +6510,22 @@ entraver l'exploitation.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
-	  - Code de la défense. - art. L2221-7 (V)
+	  - Code de la défense. - art. L1111-2
+	  - Code de la défense. - art. L2221-7
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L2236-5 (V)
 	  - Code de la défense. - art. R2491-13 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1877-07-03 art. 58, alinéas 1, 2, 3, 4 et 5
 
 
 ##### Section 6 : Réquisitions des marchandises déposées dans les entrepôts de douane et dans les magasins généraux, ou en cours de transport par voie ferrée
@@ -9278,7 +9321,9 @@ VI.-Les modalités d'application du présent article sont déterminées par déc
 L'autorité administrative peut à tout moment, dans les conditions fixées par un décret en Conseil d'Etat, suspendre,
 modifier, abroger ou retirer les licences d'exportation qu'elle a délivrées, pour des raisons de respect des engagements
 internationaux de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique ou
-pour non-respect des conditions spécifiées dans la licence.
+pour non-respect des conditions spécifiées dans la licence. 
+
+Il en est de même en cas d'inexécution des mesures correctives prescrites en application de l'article L. 2339-1-2.
 
 **Liens relatifs à cet article**
 
@@ -9286,10 +9331,6 @@ pour non-respect des conditions spécifiées dans la licence.
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -9299,6 +9340,10 @@ pour non-respect des conditions spécifiées dans la licence.
 	  - Code de la défense. - art. L2339-11 (V)
 	  - Code de la défense. - art. R2335-15 (VD)
 	  - Code de la défense. - art. R2335-45 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 2
 
 	**Anciens textes**:
 
@@ -9611,13 +9656,15 @@ situation d'urgence ;
 L'autorité administrative peut à tout moment, dans les conditions fixées par décret en Conseil d'Etat, suspendre, modifier,
 abroger ou retirer les licences de transfert qu'elle a délivrées, pour des raisons de respect des engagements internationaux
 de la France, de protection des intérêts essentiels de sécurité, d'ordre public ou de sécurité publique ou pour non-respect
-des conditions spécifiées dans la licence.
+des conditions spécifiées dans la licence. 
+
+Il en est de même en cas d'inexécution des mesures correctives prescrites en application de l'article L. 2339-1-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 1
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 2
 
 	**Cité par**:
 
@@ -9997,110 +10044,6 @@ les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommat
 ##### Chapitre IX : Dispositions pénales
 
 ##### Section 1 : Procédure
-
-###### Article L2339-1
-
-Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
-douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
-
-Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
-constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
-application. 
-
-Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
-parties de leurs locaux, les agents habilités de l'Etat. 
-
-Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
-
-Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
-habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
-recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
-
-Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
-en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
-pénal. 
-
-Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
-présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
-de leurs missions respectives. 
-
-Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
-le département ou, à Paris, au préfet de police. 
-
-En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
-procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
-ministre de la défense. 
-
-Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
-dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I
-et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une
-personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement
-compétent. 
-
-Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
-de l'autorité habilitée par lui. 
-
-A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
-lui. 
-
-Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
-par tout moyen. 
-
-L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 16-2 (V)
-	  - Décret n°95-589 du 6 mai 1995 - art. 34 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 18 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 38 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 18 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 38 (VT)
-	  - Décret n°2010-771 du 8 juillet 2010 - art. 8
-	  - Décret n°2011-1467 du 9 novembre 2011 - art. 42 (VT)
-	  - Décret n°2011-1467 du 9 novembre 2011 - art. 43 (VT)
-	  - Arrêté du 30 novembre 2011 - art. 11 (V)
-	  - Arrêté du 30 novembre 2011 - art. 3 (V)
-	  - Arrêté du 6 janvier 2012 (V)
-	  - Arrêté du 3 juin 2013 (V)
-	  - Arrêté du 6 juin 2013 (V)
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
-	  - Arrêté du 24 mars 2014 (V)
-	  - Arrêté du 14 novembre 2014 (V)
-	  - Arrêté du 5 janvier 2016 (V)
-	  - Décret n°2017-151 du 8 février 2017 (V)
-	  - Arrêté du 6 avril 2017 (V)
-	  - Code de la défense. - art. L2339-1-1 (V)
-	  - Code de la défense. - art. L2339-11-1 (VD)
-	  - Code de la défense. - art. L2339-11-2 (V)
-	  - Code de la défense. - art. L2339-3 (VD)
-	  - Code de la défense. - art. R2332-19 (V)
-	  - Code de la défense. - art. R2335-35 (V)
-	  - Code de la défense. - art. R2335-36 (V)
-	  - Code de la défense. - art. R2335-37 (V)
-	  - Code de la défense. - art. R2335-38 (VD)
-	  - Code de la défense. - art. R2339-1 (VD)
-	  - Code de la défense. - art. R2339-3 (V)
-	  - Code de procédure pénale - art. 28-1 (V)
-	  - Code de procédure pénale - art. 706-55 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-	  - Code de la défense. - art. L2331-1
-	  - Code de la défense. - art. L2332-1
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 36 (Ab)
-
 
 ##### Section 2 : Sanctions pénales de la fabrication et du commerce
 
@@ -10817,6 +10760,191 @@ considération des circonstances de l'infraction et de la personnalité de son a
 
 	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
+
+##### Chapitre IX : Contrôle administratif et dispositions pénales
+
+##### Section 1 : Pouvoirs d'enquête et de contrôle
+
+###### Article L2339-1
+
+Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
+douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
+
+Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
+constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
+application. 
+
+Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
+parties de leurs locaux, les agents habilités de l'Etat. 
+
+Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
+
+Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
+habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
+recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
+
+Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
+en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
+pénal. 
+
+Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
+présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
+de leurs missions respectives. 
+
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
+le département ou, à Paris, au préfet de police. 
+
+En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
+procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
+ministre de la défense. 
+
+Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
+dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I
+et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une
+personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement
+compétent. 
+
+Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
+de l'autorité habilitée par lui. 
+
+A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
+lui. 
+
+Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
+par tout moyen. 
+
+L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 16-2 (V)
+	  - Décret n°95-589 du 6 mai 1995 - art. 34 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 18 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 38 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 18 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 38 (VT)
+	  - Décret n°2010-771 du 8 juillet 2010 - art. 8
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 42 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 43 (VT)
+	  - Arrêté du 30 novembre 2011 - art. 11 (V)
+	  - Arrêté du 30 novembre 2011 - art. 3 (V)
+	  - Arrêté du 6 janvier 2012 (V)
+	  - Arrêté du 3 juin 2013 (V)
+	  - Arrêté du 6 juin 2013 (V)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
+	  - Arrêté du 24 mars 2014 (V)
+	  - Arrêté du 14 novembre 2014 (V)
+	  - Arrêté du 5 janvier 2016 (V)
+	  - Décret n°2017-151 du 8 février 2017 (V)
+	  - Arrêté du 6 avril 2017 (V)
+	  - Code de la défense. - art. L2339-1-1 (V)
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. L2339-11-2 (V)
+	  - Code de la défense. - art. L2339-3 (VD)
+	  - Code de la défense. - art. R2332-19 (V)
+	  - Code de la défense. - art. R2335-35 (V)
+	  - Code de la défense. - art. R2335-36 (V)
+	  - Code de la défense. - art. R2335-37 (V)
+	  - Code de la défense. - art. R2335-38 (VD)
+	  - Code de la défense. - art. R2339-1 (VD)
+	  - Code de la défense. - art. R2339-3 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 706-55 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code de la défense. - art. L2331-1
+	  - Code de la défense. - art. L2332-1
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 36 (Ab)
+
+
+###### Article L2339-1-1
+
+Les investigations mentionnées au cinquième alinéa de l'article L. 2339-1 peuvent également porter sur les procédures de
+contrôle interne mises en œuvre par les exportateurs et les fournisseurs afin de garantir le respect des obligations définies
+par le présent titre dans des conditions déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2339-1
+
+
+##### Section 1 bis : Sanctions administratives
+
+###### Article L2339-1-2
+
+En cas de carence ou de défaillance des procédures de contrôle interne ayant causé ou étant susceptible de causer un
+manquement aux obligations définies par le présent titre, l'autorité administrative peut mettre en demeure l'exportateur ou
+le fournisseur de prendre des mesures correctives. Cette mise en demeure est notifiée à l'exportateur ou au fournisseur. 
+
+En cas d'inexécution de ces mesures au terme du délai de mise en conformité fixé dans la mise en demeure, l'autorité
+administrative peut prononcer à l'encontre de l'exportateur ou du fournisseur les sanctions suivantes : 
+
+1° Si cette inexécution n'est pas constitutive d'une infraction pénale, une sanction pécuniaire proportionnée à la situation
+de l'exportateur ou du fournisseur et à l'éventuelle réitération de carences ou de défaillances constatées antérieurement.
+Cette sanction est motivée et déterminée individuellement pour chaque exportateur ou fournisseur sanctionné. Elle ne peut
+être d'un montant supérieur à 150 000 euros ; 
+
+2° La suspension, la modification ou l'abrogation d'une licence d'exportation de matériels de guerre ou de matériels
+assimilés ou d'une licence de transfert intracommunautaire de produits liés à la défense, dans les conditions prévues aux
+articles L. 2335-4 et L. 2335-12. 
+
+Ces sanctions peuvent être prononcées cumulativement. 
+
+L'action de l'administration pour la sanction de l'inexécution de ces mesures correctives se prescrit par deux années
+révolues à compter du terme du délai de mise en conformité fixé dans la mise en demeure. 
+
+Les décisions mentionnées dans le présent article sont prises conformément aux dispositions du chapitre II du titre II du
+livre Ier du code des relations entre le public et l'administration. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 6 avril 2017 - art. 5 (V)
+	  - Code de la défense. - art. L2335-12 (V)
+	  - Code de la défense. - art. L2335-4 (V)
+	  - Code de la défense. - art. R2339-3 (V)
+
+
+##### Section 2 : Sanctions pénales de la fabrication et du commerce
+
+##### Section 3 : Sanctions pénales de l'acquisition et de la détention
+
+##### Section 4 : Sanctions pénales du port, du transport et des expéditions
+
+##### Section 5 : Sanctions pénales des importations, exportations et transferts
+
+##### Section 6 : Sanctions pénales de la récidive
+
+##### Section 7 : Protection des personnes bénéficiant de réduction de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions
+
+##### Section 8 : De la prolifération des vecteurs d'armes de destruction massive.
+
+##### Section 9 : Peines complémentaires applicables aux personnes physiques
 
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
 
@@ -15193,14 +15321,21 @@ L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321
 à L. 2353-13. 
 
 Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2015-1534 du 26 novembre 2015 
+ordonnance n° 2015-1534 du 26 novembre 2015
 prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015 
+article 30 de la loi n° 2015-917 du 28 juillet 2015
 et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
 pénale.
+
+Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'
+ordonnance n° 2016-982 du 20 juillet 2016
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015
+.
 
 **Liens relatifs à cet article**
 
@@ -15213,19 +15348,12 @@ pénale.
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
-	  - Code de la défense. - art. L2113-1
-	  - Code de la défense. - art. L2151-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2232-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2321-1
-	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2336-1
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
 
 	**Cité par**:
 
@@ -15360,14 +15488,21 @@ Sont applicables en Polynésie française, les dispositions des articles L. 2112
 L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13. 
 
 Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2015-1534 du 26 novembre 2015 
+ordonnance n° 2015-1534 du 26 novembre 2015
 prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015 
+article 30 de la loi n° 2015-917 du 28 juillet 2015
 et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
 pénale.
+
+Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'
+ordonnance n° 2016-982 du 20 juillet 2016
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015
+.
 
 **Liens relatifs à cet article**
 
@@ -15375,22 +15510,12 @@ pénale.
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - ORDONNANCE n°2015-1534 du 26 novembre 2015
-	  - Code de la défense. - art. L2112-1
-	  - Code de la défense. - art. L2211-1
-	  - Code de la défense. - art. L2311-1
-	  - Code de la défense. - art. L2313-4
-	  - Code de la défense. - art. L2321-1
-	  - Code de la défense. - art. L2322-1
-	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2336-1
-	  - Code de la défense. - art. L2344-1
-	  - Code de la défense. - art. L2352-2
-	  - Code de la défense. - art. L2353-11
-	  - Code de la défense. - art. L2353-4
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
 
 
 ###### Article L2451-2
@@ -15575,6 +15700,10 @@ L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
 pénale.
 
+Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15584,7 +15713,7 @@ pénale.
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
 
 	**Cite**:
 
@@ -15755,6 +15884,10 @@ L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
 pénale.
 
+Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15779,7 +15912,7 @@ pénale.
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
 
 
 ###### Article L2471-2
@@ -15968,18 +16101,14 @@ première instance ".
 
 Les dispositions du titre II du livre VI de la première partie législative du code des transports applicables aux enquêtes
 techniques en cas d'évènement de mer ou d'accident ou incident de transport terrestre sont applicables aux enquêtes
-techniques relatives aux événements de mer affectant les bâtiments des forces armées quel que soit l'endroit où ils se
-trouvent et aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques du ministère de la
-défense. 
+techniques relatives aux événements de mer affectant les bâtiments et moyens nautiques du ministère de la défense et de la
+gendarmerie nationale quel que soit l'endroit où ils se trouvent et aux accidents ou incidents de transport terrestre mettant
+en cause les véhicules spécifiques du ministère de la défense. 
 
 Les attributions du ministre chargé des transports et des organismes permanents spécialisés sont exercées respectivement par
 le ministre de la défense et par des organismes militaires spécialisés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2002-3 du 3 janvier 2002
 
 	**Codifié par**:
 
@@ -16001,7 +16130,7 @@ le ministre de la défense et par des organismes militaires spécialisés.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 26
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 8
 
 
 ###### Article L3125-2
@@ -16097,20 +16226,29 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 
 ###### Article L3211-1
 
-Les forces armées comprennent :
+Les forces armées comprennent : 
 
-1° L'armée de terre, la marine nationale et l'armée de l'air, qui constituent les armées au sens du présent code ;
+1° L'armée de terre, la marine nationale et l'armée de l'air, qui constituent les armées au sens du présent code ; 
 
-2° La gendarmerie nationale ;
+2° La gendarmerie nationale ; 
 
-3° Des services de soutien interarmées.
+3° Les services de soutien et les organismes interarmées. 
+
+Au sens et pour l'application de la quatrième partie du présent code et des dispositions législatives et réglementaires
+relatives au statut des militaires, les forces armées désignent les armées, la gendarmerie nationale et, parmi les services
+mentionnés au 3°, ceux exerçant, par délégation du ministre de la défense, une autorité statutaire sur des corps militaires
+dans des conditions définies par décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 8
 
 	**Cité par**:
 
@@ -16129,10 +16267,28 @@ Les forces armées comprennent :
 	  - Code pénal - art. R431-3 (VT)
 
 
+###### Article L3211-1-1
+
+Constituent des formations rattachées les services exerçant des attributions spécifiques nécessaires à l'accomplissement des
+missions des forces armées et dont l'autorité responsable est, de ce fait, chargée d'exercer, au nom du ministre de la
+défense, une autorité statutaire sur des corps militaires. La liste des formations rattachées est fixée par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 8
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R3211-2 (V)
+
+
 ###### Article L3211-2
 
-Les forces armées de la République sont au service de la nation. La mission des armées est de préparer et d'assurer par la
-force des armes la défense de la patrie et des intérêts supérieurs de la nation.
+L'armée de la République est au service de la Nation. Sa mission est de préparer et d'assurer par la force des armes la
+défense de la patrie et des intérêts supérieurs de la nation.
 
 **Liens relatifs à cet article**
 
@@ -16142,7 +16298,7 @@ force des armes la défense de la patrie et des intérêts supérieurs de la nat
 
 	**Modifié par**:
 
-	  - Loi n°2009-971 du 3 août 2009 - art. 1
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 8
 
 	**Cité par**:
 
@@ -16710,20 +16866,23 @@ Le ministre de la défense oriente l'action de l'économat des armées et exerce
 ###### Article L3421-2
 
 L'économat des armées peut recevoir de l'Etat une aide en personnel, locaux et matériels lorsque, dans le cadre de sa
-mission, il intervient au profit des forces armées implantées, stationnées ou de passage en pays étranger. Cette aide fait
-l'objet d'un compte rendu annuel au conseil d'administration.
+mission, il intervient au profit des forces armées et formations rattachées implantées, stationnées ou de passage en pays
+étranger. Cette aide fait l'objet d'un compte rendu annuel au conseil d'administration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2004-216 2004-03-11 art. 14, alinéa 1
 	  - Décret n°2004-216 du 11 mars 2004 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 8
 
 
 ##### Section 2 : Organisation administrative et financière
@@ -17027,7 +17186,10 @@ le même objet applicables localement.
 ###### Article L3541-1
 
 Sont applicables dans les îles Wallis et Futuna les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1, L. 3211-2 et
-L. 3421-1 à L. 3422-7 du code de la défense.
+L. 3421-1 à L. 3422-7 du code de la défense. 
+
+Les dispositions des articles L. 3125-1, L. 3211-1 à L. 3211-2 et L. 3421-2 sont applicables dans leur rédaction résultant de
+l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -17036,15 +17198,17 @@ L. 3421-1 à L. 3422-7 du code de la défense.
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
-
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1
-	  - Code de la défense. - art. L3211-1
-	  - Code de la défense. - art. L3421-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Code de la défense. - art. L3125-1 (V)
+	  - Code de la défense. - art. L3211-1 (V)
+	  - Code de la défense. - art. L3421-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 15
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -17056,18 +17220,19 @@ L. 3421-1 à L. 3422-7 du code de la défense.
 Sont applicables en Polynésie française les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1
 et L. 3421-1 à L. 3422-7 du code de la défense.
 
+Les dispositions des articles L. 3125-1, L. 3211-1 à L. 3211-2 et L. 3421-2 sont applicables dans leur rédaction résultant de
+l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1
-	  - Code de la défense. - art. L3211-1
-	  - Code de la défense. - art. L3225-1
-	  - Code de la défense. - art. L3421-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 15
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -17079,18 +17244,23 @@ et L. 3421-1 à L. 3422-7 du code de la défense.
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à L. 3211-3, L. 3225-1
 et L. 3421-1 à L. 3422-7 du code de la défense.
 
+Les dispositions des articles L. 3125-1, L. 3211-1 à L. 3211-2 et L. 3421-2 sont applicables dans leur rédaction résultant de
+l'
+ordonnance n° 2016-982 du 20 juillet 2016
+prise en application de l'
+article 30 de la loi n° 2015-917 du 28 juillet 2015
+.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1
-	  - Code de la défense. - art. L3211-1
-	  - Code de la défense. - art. L3225-1
-	  - Code de la défense. - art. L3421-1
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 15
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -17103,18 +17273,20 @@ Sous réserve des dispositions du traité de l'Antarctique publié par le décre
 applicables aux Terres australes et antarctiques françaises les dispositions des articles L. 3125-1 à L. 3125-4, L. 3211-1 à
 L. 3211-3, L. 3225-1 et L. 3421-1 à L. 3422-7 du code de la défense.
 
+Les dispositions des articles L. 3125-1, L. 3211-1 à L. 3211-2 et L. 3421-2 sont applicables dans leur rédaction résultant de
+l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 28
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1
-	  - Code de la défense. - art. L3211-1
-	  - Code de la défense. - art. L3225-1
-	  - Code de la défense. - art. L3421-1
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Ordonnance n°2016-982 du 20 juillet 2016
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 15
 
 
 ## PARTIE 4 : LE PERSONNEL MILITAIRE
@@ -17135,9 +17307,9 @@ disponibilité, loyalisme et neutralité. Les devoirs qu'il comporte et les suj�
 citoyens et la considération de la Nation.
 
 Le statut énoncé au présent livre assure à ceux qui ont choisi cet état les garanties répondant aux obligations particulières
-imposées par la loi. Il prévoit des compensations aux contraintes et exigences de la vie dans les forces armées. Il offre à
-ceux qui quittent l'état militaire les moyens d'un retour à une activité professionnelle dans la vie civile et assure aux
-retraités militaires le maintien d'un lien avec l'institution.
+imposées par la loi. Il prévoit des compensations aux contraintes et exigences de la vie dans les forces armées et formations
+rattachées. Il offre à ceux qui quittent l'état militaire les moyens d'un retour à une activité professionnelle dans la vie
+civile et assure aux retraités militaires le maintien d'un lien avec l'institution.
 
 La condition militaire recouvre l'ensemble des obligations et des sujétions propres à l'état militaire, ainsi que les
 garanties et les compensations apportées par la Nation aux militaires. Elle inclut les aspects statutaires, économiques,
@@ -17164,7 +17336,7 @@ par décret.
 
 	  - Arrêté du 20 décembre 2012 - art. 1 (V)
 	  - Code de la défense. - art. L4122-3 (V)
-	  - Code de la défense. - art. L4126-6 (M)
+	  - Code de la défense. - art. L4126-6 (V)
 	  - Code de la défense. - art. L4144-1 (V)
 	  - Code de la défense. - art. L4331-1 (Ab)
 	  - Code de la défense. - art. L4341-1 (M)
@@ -17179,7 +17351,7 @@ par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 9
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4111-2
@@ -18684,6 +18856,20 @@ Des décrets pris en Conseil d'Etat fixent les modalités d'application des arti
 	  - Code de la défense. - art. L4123-13 (V)
 
 
+##### Section 5 : Santé et sécurité au travail
+
+###### Article L4123-19
+
+Des conditions d'hygiène et de sécurité de nature à préserver leur santé et leur intégrité physique sont assurées aux
+militaires durant leur service selon des modalités fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 3
+
+
 ##### Chapitre IV : Organismes consultatifs et de concertation
 
 ###### Article L4124-1
@@ -18692,17 +18878,17 @@ Le Conseil supérieur de la fonction militaire est le cadre institutionnel dans 
 de la condition de l'ensemble des militaires.
 
 Le Conseil supérieur de la fonction militaire exprime son avis sur les questions de caractère général relatives à la
-condition militaire. Il est obligatoirement saisi des projets de  loi modifiant le présent livre et des textes d'application
+condition militaire. Il est obligatoirement saisi des projets de loi modifiant le présent livre et des textes d'application
 de ce livre ayant une portée statutaire, indiciaire ou indemnitaire.
 
 Une représentation du Conseil supérieur de la fonction militaire est appelée à s'exprimer, chaque année, devant le Haut
 Comité d'évaluation de la condition militaire. Elle peut, en outre, demander à être entendue par ce dernier sur toute
-question générale intéressant la condition militaire.  
+question générale intéressant la condition militaire. 
 
-Les conseils de la fonction militaire dans les armées et les formations rattachées étudient toute question relative à leur
-armée, direction ou service concernant les conditions de vie, d'exercice du métier militaire ou d'organisation du travail.
-Ils peuvent également procéder à une étude des questions inscrites à l'ordre du jour du Conseil supérieur de la fonction
-militaire qui concernent leur armée, direction ou service.
+Les conseils de la fonction militaire dans les forces armées et les formations rattachées étudient toute question relative à
+leur force armée ou formation rattachée concernant les conditions de vie, d'exercice du métier militaire ou d'organisation du
+travail. Ils peuvent également procéder à une étude des questions inscrites à l'ordre du jour du Conseil supérieur de la
+fonction militaire qui concernent leur force armée ou formation rattachée.
 
 Les membres du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire jouissent des garanties
 indispensables à leur liberté d'expression. Toutes informations et facilités nécessaires à l'exercice de leurs fonctions
@@ -18715,16 +18901,10 @@ Les retraités militaires sont représentés au sein du Conseil supérieur de la
 
 Lorsqu'elles sont reconnues représentatives pour siéger au Conseil supérieur de la fonction militaire, les associations
 professionnelles nationales de militaires et leurs unions ou fédérations y sont représentées dans la limite du tiers du total
-des sièges.  
+des sièges. 
 
 Le ministre de la défense communique aux commissions compétentes de chaque assemblée parlementaire un rapport annuel de
 synthèse des travaux du Conseil supérieur de la fonction militaire.
-
-**Nota:**
-
-Conformément à l'article 32 I de la loi n° 2015-917 du 28 juillet 2015, l'avant-dernier alinéa de l'article L. 4124-1 du code
-de la défense, dans sa rédaction résultant du e du 2° de l'article 10 de la présente loi, entre en vigueur à une date fixée
-par décret en Conseil d'Etat, et au plus tard dix-huit mois après la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -18747,7 +18927,7 @@ par décret en Conseil d'Etat, et au plus tard dix-huit mois après la promulgat
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 10
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ##### Chapitre VI : Associations professionnelles nationales de militaires
@@ -18859,8 +19039,8 @@ défense pour obtenir la capacité juridique.
 Les statuts ou l'activité d'une association professionnelle nationale de militaires ne peuvent porter atteinte aux valeurs
 républicaines ou aux principes fondamentaux de l'état militaire mentionnés aux deux premiers alinéas de l'article L. 4111-1
 ni aux obligations énoncées aux articles L. 4121-1 à L. 4121-5 et L. 4122-1. Son activité doit s'exercer dans des conditions
-compatibles avec l'exécution des missions et du service des forces armées et ne pas interférer avec la préparation et la
-conduite des opérations. 
+compatibles avec l'exécution des missions et du service des forces armées et formations rattachées et ne pas interférer avec
+la préparation et la conduite des opérations. 
 
 Les associations sont soumises à une stricte obligation d'indépendance, notamment à l'égard du commandement, des partis
 politiques, des groupements à caractère confessionnel, des organisations syndicales de salariés et des organisations
@@ -18869,13 +19049,13 @@ qu'entre elles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-1
+	  - Code de la défense. - art. L4111-1 (V)
 	  - Code de la défense. - art. L4121-1
 	  - Code de la défense. - art. L4122-1
 
@@ -18926,28 +19106,31 @@ conditions suivantes :
 des groupes de grades mentionnés aux 1° à 3° du I de l'article L. 4131-1 représentés. 
 
 II.-Peuvent siéger au Conseil supérieur de la fonction militaire les associations professionnelles nationales de militaires
-ou leurs unions et fédérations reconnues, en outre, représentatives d'au moins trois forces armées et de deux formations
-rattachées, dans des conditions fixées par le décret mentionné à l'article L. 4126-10. 
+ou leurs unions et fédérations reconnues, en outre, représentatives d'au moins trois forces armées autres que les services de
+soutien mentionnés au dernier alinéa de l'article L. 3211-1 et de deux formations rattachées ou services de soutien
+mentionnés au dernier alinéa de l'article L. 3211-1, dans des conditions fixées par le décret mentionné à l'article L.
+4126-10. 
 
 III.-La liste des associations professionnelles nationales de militaires représentatives est fixée par l'autorité
 administrative compétente. Elle est régulièrement actualisée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 11
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1 (V)
+	  - Code de la défense. - art. L4126-5
+	  - Code de la défense. - art. L4131-1
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L4126-10 (V)
 	  - Code de la défense. - art. R4126-6 (V)
 	  - Code général des impôts, CGI. - art. 199 quater C (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L4126-5
-	  - Code de la défense. - art. L4131-1
 
 
 ###### Article L4126-9
@@ -19300,25 +19483,38 @@ Les militaires d'active autres que de carrière peuvent servir en tant que :
 ###### Article L4132-6
 
 Le militaire servant en vertu d'un contrat est recruté pour une durée déterminée. Le contrat est renouvelable. Il est
-souscrit au titre d'une armée ou d'une formation rattachée.
+souscrit au titre d'une force armée ou d'une formation rattachée.
 
 Le service compte à partir de la date d'effet du contrat ou, s'il n'y a pas d'interruption du service, de la date
 d'expiration du contrat précédent.
 
 Sous réserve des dispositions relatives aux militaires commissionnés, l'intéressé est admis à servir avec le grade qu'il a
-acquis. Toutefois, il peut être admis à servir avec un grade inférieur en cas d'interruption de service ou de changement
-d'armée ou de formation rattachée.
+acquis. Toutefois, il peut être admis à servir avec un grade inférieur en cas d'interruption de service ou de changement de
+force armée ou de formation rattachée.
+
+Le candidat à l'engagement peut bénéficier, en qualité d'élève ou d'étudiant, d'une allocation financière spécifique accordée
+par le ministre de la défense ou par le ministre de l'intérieur pour la gendarmerie nationale, au titre d'une formation
+visant à l'acquisition des qualifications professionnelles requises pour l'exercice de contrats opérationnels. 
+
+Le versement de cette allocation financière est conditionné à un engagement du candidat à servir en qualité de militaire pour
+une durée minimale déterminée. 
+
+Un décret en Conseil d'Etat définit les conditions d'application des deux alinéas précédents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 25
 	  - Loi n°2005-270 du 24 mars 2005 - art. 25 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 4
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cité par**:
 
@@ -19378,24 +19574,27 @@ L'officier sous contrat est recruté, au titre de son contrat initial, parmi les
 ###### Article L4132-9
 
 L'engagé est celui qui est admis à servir en vertu d'un contrat dans les grades de militaire du rang et de sous-officier ou
-d'officier marinier dans une armée ou une formation rattachée.
+d'officier marinier dans une force armée ou une formation rattachée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 28
 	  - Loi n°2005-270 du 24 mars 2005 - art. 28 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4132-10
 
-Le militaire commissionné est admis par contrat à servir dans une armée ou une formation rattachée dans un grade d'officier
-ou de sous-officier en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique
+Le militaire commissionné est admis par contrat à servir dans une force armée ou une formation rattachée dans un grade
+d'officier ou de sous-officier en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique
 correspondant aux diplômes qu'il détient ou à son expérience professionnelle.
 
 Le grade du militaire commissionné ne donne droit au commandement que dans le cadre de la fonction exercée.
@@ -19410,11 +19609,10 @@ l'attribution des grades.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 29
 	  - Loi n°2005-270 du 24 mars 2005 - art. 29 (Ab)
 
 	**Cité par**:
@@ -19431,6 +19629,10 @@ l'attribution des grades.
 	  - Arrêté du 13 décembre 2016 (V)
 	  - Arrêté du 23 mai 2017 (V)
 	  - Code de la défense. - art. L4132-7 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4132-11
@@ -19565,17 +19767,17 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L4133-1
 
 Les militaires de carrière peuvent, pour les besoins du service, être admis sur leur demande ou affectés d'office dans
-d'autres corps de l'armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps
-d'une autre armée ou d'une autre formation rattachée que sur leur demande.
+d'autres corps de la force armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un
+corps d'une autre force armée ou d'une autre formation rattachée que sur leur demande.
 
 Ces dispositions ne peuvent entraîner ni l'admission dans les corps recrutés exclusivement sur présentation de titres
 déterminés, ni la modification du grade et de l'ancienneté de grade acquise dans le corps d'origine, ni la prise de rang dans
 le nouveau corps avant les militaires de même grade et de même ancienneté, ni la perte du bénéfice d'une inscription au
 tableau d'avancement.
 
-Les militaires servant en vertu d'un contrat peuvent changer d'armée ou de formation rattachée et, le cas échéant, changer de
-corps de rattachement dans les mêmes conditions que les militaires de carrière. Dans ce cas, il est souscrit un nouvel
-engagement sans interruption de service.
+Les militaires servant en vertu d'un contrat peuvent changer de force armée ou de formation rattachée et, le cas échéant,
+changer de corps de rattachement dans les mêmes conditions que les militaires de carrière. Dans ce cas, il est souscrit un
+nouvel engagement sans interruption de service.
 
 Des permutations pour convenances personnelles peuvent être autorisées entre militaires de carrière de même grade appartenant
 à des corps différents. Les permutants prennent rang dans le nouveau corps à la date de nomination dans le grade du moins
@@ -19606,7 +19808,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 64
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ##### Chapitre IV : Nomination
@@ -20065,9 +20267,9 @@ de l'article L. 4137-1 ;
 
 3° Un conseil d'enquête avant toute sanction disciplinaire du troisième groupe. 
 
-Ces conseils sont composés d'au moins un militaire du même grade et de la même armée ou formation rattachée que le militaire
-déféré devant eux et de militaires d'un grade supérieur ; ils sont présidés par l'officier le plus ancien dans le grade le
-plus élevé. 
+Ces conseils sont composés d'au moins un militaire du même grade et de la même force armée ou formation rattachée que le
+militaire déféré devant eux et de militaires d'un grade supérieur ; ils sont présidés par l'officier le plus ancien dans le
+grade le plus élevé. 
 
 Un décret en Conseil d'Etat précise la composition et le fonctionnement des conseils mentionnés ci-dessus, ainsi que les
 règles de la procédure qui leur sont applicables.
@@ -20076,11 +20278,10 @@ règles de la procédure qui leur sont applicables.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 42
 	  - Loi n°2005-270 du 24 mars 2005 - art. 42 (Ab)
 
 	**Cité par**:
@@ -20088,14 +20289,18 @@ règles de la procédure qui leur sont applicables.
 	  - Décret n°2008-947 du 12 septembre 2008 - art. 10 (VD)
 	  - Décret n°2008-947 du 12 septembre 2008 - art. 11 (VD)
 	  - Code de la défense. - art. L4137-4 (V)
-	  - Code de la défense. - art. L4141-7 (M)
+	  - Code de la défense. - art. L4141-7 (V)
 	  - Code de la défense. - art. R4137-124 (V)
 	  - Code de la défense. - art. R4137-50 (V)
 	  - Code de la défense. - art. R4137-69 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-1 (V)
+	  - Code de la défense. - art. L4137-1
 
 
 ###### Article L4137-4
@@ -20783,7 +20988,7 @@ durée maximale d'un an.
 
 Le militaire placé en congé de longue durée pour maladie continue à figurer sur la liste d'ancienneté, concourt pour
 l'avancement à l'ancienneté et, dans les cas visés au deuxième alinéa du présent article, pour l'avancement au choix. Le
-temps passé en congé est pris en compte pour les droits à pension de retraite.
+temps passé en congé est pris en compte pour l'avancement et pour les droits à pension de retraite.
 
 **Liens relatifs à cet article**
 
@@ -20797,7 +21002,7 @@ temps passé en congé est pris en compte pour les droits à pension de retraite
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 21
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 5
 
 	**Cité par**:
 
@@ -20835,7 +21040,7 @@ repris l'exercice de ses fonctions pendant un an.
 
 Le militaire placé en congé de longue maladie continue à figurer sur la liste d'ancienneté, concourt pour l'avancement à
 l'ancienneté et, dans les cas visés au deuxième alinéa du présent article, pour l'avancement au choix. Le temps passé en
-congé est pris en compte pour les droits à pension de retraite.
+congé est pris en compte pour l'avancement et pour les droits à pension de retraite.
 
 **Liens relatifs à cet article**
 
@@ -20845,7 +21050,7 @@ congé est pris en compte pour les droits à pension de retraite.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 21
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 5
 
 	**Cite**:
 
@@ -21910,7 +22115,7 @@ général, soixante-six ans.
 
 L'âge maximal de maintien en première section est de soixante-sept ans ; 
 
-2° Pour les officiers des armées et formations rattachées, telles que définies par le tableau ci-après : 
+2° Pour les officiers des forces armées et formations rattachées, telles que définies par le tableau ci-après : 
 
 <table>
   <tbody>
@@ -21957,13 +22162,13 @@ de maintien en première section des officiers généraux
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Officiers des armes de l'armée de terre, officiers de marine, officiers spécialisés de la marine, officiers des bases et
 officiers mécaniciens de l'air 
 
 </td>
-      <td valign="bottom" width="398" colspan="4">
+      <td width="398" valign="bottom" colspan="4">
 
 59 
 
@@ -21975,12 +22180,12 @@ officiers mécaniciens de l'air
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Officiers de gendarmerie 
 
 </td>
-      <td width="318" colspan="3" valign="bottom">
+      <td colspan="3" width="318" valign="bottom">
 
 59 
 
@@ -21990,14 +22195,14 @@ Officiers de gendarmerie
 60 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 63 
 
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Officiers de l'air 
 
@@ -22007,30 +22212,30 @@ Officiers de l'air
 52 
 
 </td>
-      <td colspan="2" width="192" valign="bottom">
+      <td colspan="2" valign="bottom" width="192">
 
 56 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 63
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Commissaires des armées (1), officiers des corps techniques et administratifs, ingénieurs militaires des essences,
 administrateurs des affaires maritimes, officiers spécialistes de l'armée de terre, officiers logisticiens des essences. 
 
 </td>
-      <td width="398" valign="bottom" colspan="4">
+      <td valign="bottom" colspan="4" width="398">
 
 62 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 64 
 
@@ -22059,30 +22264,30 @@ Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 Militaires infirmiers et techniciens des hôpitaux des armées (officiers) 
 
 </td>
-      <td width="398" colspan="4" valign="bottom">
+      <td valign="bottom" colspan="4" width="398">
 
 62
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 -
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
 maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense 
 
 </td>
-      <td colspan="4" width="398" valign="bottom">
+      <td valign="bottom" width="398" colspan="4">
 
 66 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 67 
 
@@ -22100,7 +22305,7 @@ sein de la trésorerie aux armées, aumôniers militaires
 66
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 -
 
@@ -22123,10 +22328,10 @@ officiers spécialisés de la marine conservent à titre personnel la limite d'�
 intégration dans ce corps. Lorsqu'ils sont promus au premier grade d'officier général, ces officiers conservent l'âge de
 maintien en première section de leur ancien corps d'appartenance.
 
-3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après : 
+3° Pour les sous-officiers des forces armées et des formations rattachées, telles que définies par le tableau ci-après : 
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <td>
       </td><td>
@@ -22165,15 +22370,15 @@ correspondante
 </td>
       <td>MAJORSous</td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (personnel non navigant) 
 
 </td>
-      <td valign="bottom" colspan="2" align="center">
+      <td align="center" colspan="2" valign="bottom">
 
 47 
 
@@ -22183,7 +22388,7 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 52 
 
 </td>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 58 
 
@@ -22200,12 +22405,12 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale 
 
 </td>
-      <td align="center" colspan="4" valign="bottom">
+      <td colspan="4" align="center" valign="bottom">
 
 58 (y compris le grade de gendarme) 
 
 </td>
-      <td align="center" valign="bottom">
+      <td valign="bottom" align="center">
 
 59 
 
@@ -22217,7 +22422,7 @@ Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et a
 Sous-officiers du personnel navigant de l'armée de l'air 
 
 </td>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 47 
 
@@ -22229,7 +22434,9 @@ Sous-officiers du personnel navigant de l'armée de l'air
 </td>
     </tr>
     <tr>
-      <td>Infirmiers en soins généraux et spécialisés 
+      <td>
+
+Infirmiers en soins généraux et spécialisés 
 
 </td>
       <td align="center" colspan="5">62Militaires</td>
@@ -22253,12 +22460,12 @@ spécialisés, majors des ports (marine) et officiers mariniers de carrière des
 Sous-officiers du service des essences des armées
 
 </td>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 -
 
 </td>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 62 
 
@@ -22273,7 +22480,7 @@ ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière
 appariteurs 
 
 </td>
-      <td valign="bottom" colspan="5" align="center">
+      <td align="center" valign="bottom" colspan="5">
 
 66 
 
@@ -22289,7 +22496,7 @@ II.-Sans préjudice des dispositions de l'article L. 4132-12, les limites de dur
 les suivantes : 
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <td>
       </td><td>
@@ -22300,7 +22507,7 @@ LIMITE DE DURÉE DES SERVICES
 
 </td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
       <td>
@@ -22391,8 +22598,7 @@ Conformément au II de l'article 40 de la loi n° 2013-1168 du 18 décembre 2013
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 19
-	  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 2 (V)
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cite**:
 
@@ -22609,7 +22815,7 @@ l'encadrement.
 ###### Article L4141-7
 
 Pour l'application à un officier général des sanctions prévues au 3° de l'article L. 4137-2, l'avis du conseil d'enquête
-mentionné à l'article L. 4137-3 est remplacé par celui du conseil supérieur de l'armée ou de la formation rattachée à
+mentionné à l'article L. 4137-3 est remplacé par celui du conseil supérieur de la force armée ou de la formation rattachée à
 laquelle il appartient. La décision entraîne, en cas de radiation des cadres, la radiation de la première ou de la deuxième
 section des officiers généraux.
 
@@ -22617,16 +22823,19 @@ section des officiers généraux.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
 	**Anciens textes**:
 
-	  - Loi n°2005-270 2005-03-24 art. 82
 	  - Loi n°2005-270 du 24 mars 2005 - art. 82 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-2 (V)
+	  - Code de la défense. - art. L4137-2
 	  - Code de la défense. - art. L4137-3 (V)
 
 
@@ -22910,9 +23119,9 @@ la participation au recensement, l'appel de préparation à la défense, la pér
 perfectionnement à la défense nationale et le volontariat. Ce parcours continu permet à tout Français et à toute Française
 d'exercer son droit à contribuer à la défense de la nation. 
 
-III.-La réserve militaire a pour objet de renforcer les capacités des forces armées dont elle est une des composantes pour la
-protection du territoire national, comme dans le cadre des opérations extérieures, d'entretenir l'esprit de défense et de
-contribuer au maintien du lien entre la nation et ses forces armées. Elle est constituée : 
+III.-La réserve militaire a pour objet de renforcer les capacités des forces armées et formations rattachées dont elle est
+une des composantes pour la protection du territoire national, comme dans le cadre des opérations extérieures, d'entretenir
+l'esprit de défense et de contribuer au maintien du lien entre la Nation et son armée. Elle est constituée : 
 
 1° D'une réserve opérationnelle comprenant : 
 
@@ -22924,14 +23133,14 @@ b) Les anciens militaires soumis à l'obligation de disponibilité ;
 
 IV.-Les réservistes et leurs associations, les associations d'anciens militaires ainsi que les associations dont les
 activités contribuent à la promotion de la défense nationale constituent les relais essentiels du renforcement du lien entre
-la nation et ses forces armées. Ils ont droit à sa reconnaissance pour leur engagement à son service et peuvent bénéficier de
-son soutien. 
+la Nation et son armée. Ils ont droit à sa reconnaissance pour leur engagement à son service et peuvent bénéficier de son
+soutien. 
 
-A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution de la qualité de " partenaire de la
-réserve citoyenne " pour une durée déterminée. 
+A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution de la qualité de "partenaire de la réserve
+citoyenne" pour une durée déterminée. 
 
-L'entreprise ou l'organisme qui a favorisé la mise en oeuvre des dispositions du présent livre, notamment en signant une
-convention avec le ministre de la défense, peut se voir attribuer la qualité de " partenaire de la défense nationale ". 
+L'entreprise ou l'organisme qui a favorisé la mise en œuvre des dispositions du présent livre, notamment en signant une
+convention avec le ministre de la défense, peut se voir attribuer la qualité de "partenaire de la défense nationale". 
 
 V.-Les services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure peuvent avoir
 recours aux membres de la réserve militaire. 
@@ -22991,7 +23200,7 @@ dans la réserve opérationnelle.
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 22
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cite**:
 
@@ -23193,8 +23402,8 @@ vue :
 
 1° De recevoir une formation ou de suivre un entraînement ; 
 
-2° D'apporter un renfort temporaire aux forces armées, en particulier pour la protection du territoire national et dans le
-cadre des opérations conduites en dehors du territoire national ; 
+2° D'apporter un renfort temporaire aux forces armées et formations rattachées, en particulier pour la protection du
+territoire national et dans le cadre des opérations conduites en dehors du territoire national ; 
 
 3° De dispenser un enseignement de défense ; 
 
@@ -23204,7 +23413,7 @@ environnement civil ;
 5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9. 
 
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
-réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4  ou au 3° de l'article L. 4221-4-1. 
+réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4 ou au 3° de l'article L. 4221-4-1. 
 
 Cette clause est soumise à l'accord de l'employeur. 
 
@@ -23233,7 +23442,7 @@ organisation internationale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 18
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 	**Cite**:
 
@@ -23268,8 +23477,8 @@ Le réserviste doit posséder l'ensemble des aptitudes requises pour servir dans
 
 ###### Article L4221-3
 
-Les forces armées peuvent avoir recours à des spécialistes volontaires pour exercer des fonctions déterminées correspondant à
-leur qualification professionnelle civile, sans formation militaire spécifique.
+Les forces armées et formations rattachées peuvent avoir recours à des spécialistes volontaires pour exercer des fonctions
+déterminées correspondant à leur qualification professionnelle civile, sans formation militaire spécifique.
 
 Le grade attaché à l'exercice de cette fonction de spécialiste dans la réserve opérationnelle est conféré par arrêté du
 ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie nationale. Il ne donne pas droit
@@ -23291,7 +23500,7 @@ ministre de la défense, ou du ministre de l'intérieur pour les réservistes de
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 69
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4221-4
@@ -23435,8 +23644,8 @@ emplois présentant un intérêt de portée nationale ou internationale.
 ###### Article L4221-7
 
 Des volontaires peuvent servir, au titre d'un engagement à servir dans la réserve opérationnelle, dans l'intérêt de la
-défense, auprès d'une entreprise qui participe au soutien des forces armées ou accompagne des opérations d'exportation
-relevant du domaine de la défense.
+défense, auprès d'une entreprise qui participe au soutien des forces armées et formations rattachées ou accompagne des
+opérations d'exportation relevant du domaine de la défense.
 
 Ces volontaires sont soumis à l'exercice du pouvoir hiérarchique.
 
@@ -23455,7 +23664,11 @@ Ces volontaires sont soumis à l'exercice du pouvoir hiérarchique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4221-8
@@ -23650,23 +23863,25 @@ l'obligation de disponibilité peut être décidé par décret en conseil des mi
 
 ###### Article L4241-1
 
-La réserve citoyenne a pour objet d'entretenir l'esprit de défense et de renforcer le lien entre la nation et ses forces
-armées.
+La réserve citoyenne a pour objet d'entretenir l'esprit de défense et de renforcer le lien entre la Nation et son armée.
 
-En fonction des besoins des forces armées, l'autorité militaire peut faire appel aux volontaires de la réserve citoyenne
-pour, avec leur accord, les affecter dans la réserve opérationnelle. Les intéressés souscrivent alors un engagement à servir
-dans la réserve opérationnelle.
+En fonction des besoins des forces armées et formations rattachées, l'autorité militaire peut faire appel aux volontaires de
+la réserve citoyenne pour, avec leur accord, les affecter dans la réserve opérationnelle. Les intéressés souscrivent alors un
+engagement à servir dans la réserve opérationnelle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°99-894 du 22 octobre 1999 - art. 19 (M)
 	  - Loi n°99-894 du 22 octobre 1999 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
 
 
 ###### Article L4241-2
@@ -24050,8 +24265,13 @@ l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5.
 ###### Article L4341-1
 
 Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  dans les
-îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, dans les
+îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
+sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
+l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -24061,14 +24281,13 @@ organisé, le terrorisme et leur financement, et améliorant l'efficacité et le
 
 	**Cite**:
 
-	  - Loi n°2015-917 du 28 juillet 2015
-	  - Code de la défense. - art. L4111-1
-	  - Code de la défense. - art. L4139-1
-	  - Code de la défense. - art. L4139-14
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -24078,8 +24297,13 @@ organisé, le terrorisme et leur financement, et améliorant l'efficacité et le
 ###### Article L4351-1
 
 Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en
-Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, en Polynésie
+française les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
+sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
+l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -24089,14 +24313,13 @@ Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
 
 	**Cite**:
 
-	  - Loi n°2015-917 du 28 juillet 2015
-	  - Code de la défense. - art. L4111-1
-	  - Code de la défense. - art. L4139-1
-	  - Code de la défense. - art. L4139-14
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -24106,8 +24329,13 @@ Polynésie française les dispositions des articles L. 4111-1 à L. 4271-5.
 ###### Article L4361-1
 
 Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  en
-Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, en Nouvelle-
+Calédonie les dispositions des articles L. 4111-1 à L. 4271-5. 
+
+Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
+sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
+l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -24117,14 +24345,13 @@ Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
 
 	**Cite**:
 
-	  - Loi n°2015-917 du 28 juillet 2015
-	  - Code de la défense. - art. L4111-1
-	  - Code de la défense. - art. L4139-1
-	  - Code de la défense. - art. L4139-14
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -24134,21 +24361,24 @@ Nouvelle-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5.
 ###### Article L4371-1
 
 Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale,  aux Terres
-australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3.
+organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, aux Terres
+australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3. 
+
+Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16 et L. 4141-7 sont applicables dans leur rédaction résultant de
+l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2015-917 du 28 juillet 2015
-	  - Code de la défense. - art. L4111-1
-	  - Code de la défense. - art. L4139-1
-	  - Code de la défense. - art. L4139-14
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
+	  - Loi n°2016-731 du 3 juin 2016
+	  - Ordonnance n°2016-982 du 20 juillet 2016
 
 	**Modifié par**:
 
-	  - Loi n°2016-731 du 3 juin 2016 - art. 119
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
 
 
 ## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES

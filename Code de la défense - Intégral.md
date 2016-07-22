@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-07-22
+Version Consolidée au 2016-07-23
 
 # Partie législative
 
@@ -10041,9 +10041,174 @@ les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommat
 	  - Code de la sécurité intérieure - art. L214-3 (Ab)
 
 
-##### Chapitre IX : Dispositions pénales
+##### Chapitre IX : Contrôle administratif et dispositions pénales
 
-##### Section 1 : Procédure
+##### Section 1 : Pouvoirs d'enquête et de contrôle
+
+###### Article L2339-1
+
+Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
+douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
+
+Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
+constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
+application. 
+
+Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
+parties de leurs locaux, les agents habilités de l'Etat. 
+
+Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
+
+Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
+habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
+recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
+
+Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
+en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
+pénal. 
+
+Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
+présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
+de leurs missions respectives. 
+
+Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
+le département ou, à Paris, au préfet de police. 
+
+En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
+procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
+ministre de la défense. 
+
+Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
+dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I
+et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une
+personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement
+compétent. 
+
+Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
+de l'autorité habilitée par lui. 
+
+A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
+lui. 
+
+Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
+par tout moyen. 
+
+L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 16-2 (V)
+	  - Décret n°95-589 du 6 mai 1995 - art. 34 (VT)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 18 (VT)
+	  - Décret n°2009-450 du 21 avril 2009 - art. 38 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 18 (VT)
+	  - Décret n°2009-451 du 21 avril 2009 - art. 38 (VT)
+	  - Décret n°2010-771 du 8 juillet 2010 - art. 8
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 42 (VT)
+	  - Décret n°2011-1467 du 9 novembre 2011 - art. 43 (VT)
+	  - Arrêté du 30 novembre 2011 - art. 11 (V)
+	  - Arrêté du 30 novembre 2011 - art. 3 (V)
+	  - Arrêté du 6 janvier 2012 (V)
+	  - Arrêté du 3 juin 2013 (V)
+	  - Arrêté du 6 juin 2013 (V)
+	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
+	  - Arrêté du 24 mars 2014 (V)
+	  - Arrêté du 14 novembre 2014 (V)
+	  - Arrêté du 5 janvier 2016 (V)
+	  - Décret n°2017-151 du 8 février 2017 (V)
+	  - Arrêté du 6 avril 2017 (V)
+	  - Code de la défense. - art. L2339-1-1 (V)
+	  - Code de la défense. - art. L2339-11-1 (VD)
+	  - Code de la défense. - art. L2339-11-2 (V)
+	  - Code de la défense. - art. L2339-3 (VD)
+	  - Code de la défense. - art. R2332-19 (V)
+	  - Code de la défense. - art. R2335-35 (V)
+	  - Code de la défense. - art. R2335-36 (V)
+	  - Code de la défense. - art. R2335-37 (V)
+	  - Code de la défense. - art. R2335-38 (VD)
+	  - Code de la défense. - art. R2339-1 (VD)
+	  - Code de la défense. - art. R2339-3 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 706-55 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code de la défense. - art. L2331-1
+	  - Code de la défense. - art. L2332-1
+
+	**Anciens textes**:
+
+	  - Décret n°1939-04-18 du 18 avril 1939 - art. 36 (Ab)
+
+
+###### Article L2339-1-1
+
+Les investigations mentionnées au cinquième alinéa de l'article L. 2339-1 peuvent également porter sur les procédures de
+contrôle interne mises en œuvre par les exportateurs et les fournisseurs afin de garantir le respect des obligations définies
+par le présent titre dans des conditions déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2339-1
+
+
+##### Section 1 bis : Sanctions administratives
+
+###### Article L2339-1-2
+
+En cas de carence ou de défaillance des procédures de contrôle interne ayant causé ou étant susceptible de causer un
+manquement aux obligations définies par le présent titre, l'autorité administrative peut mettre en demeure l'exportateur ou
+le fournisseur de prendre des mesures correctives. Cette mise en demeure est notifiée à l'exportateur ou au fournisseur. 
+
+En cas d'inexécution de ces mesures au terme du délai de mise en conformité fixé dans la mise en demeure, l'autorité
+administrative peut prononcer à l'encontre de l'exportateur ou du fournisseur les sanctions suivantes : 
+
+1° Si cette inexécution n'est pas constitutive d'une infraction pénale, une sanction pécuniaire proportionnée à la situation
+de l'exportateur ou du fournisseur et à l'éventuelle réitération de carences ou de défaillances constatées antérieurement.
+Cette sanction est motivée et déterminée individuellement pour chaque exportateur ou fournisseur sanctionné. Elle ne peut
+être d'un montant supérieur à 150 000 euros ; 
+
+2° La suspension, la modification ou l'abrogation d'une licence d'exportation de matériels de guerre ou de matériels
+assimilés ou d'une licence de transfert intracommunautaire de produits liés à la défense, dans les conditions prévues aux
+articles L. 2335-4 et L. 2335-12. 
+
+Ces sanctions peuvent être prononcées cumulativement. 
+
+L'action de l'administration pour la sanction de l'inexécution de ces mesures correctives se prescrit par deux années
+révolues à compter du terme du délai de mise en conformité fixé dans la mise en demeure. 
+
+Les décisions mentionnées dans le présent article sont prises conformément aux dispositions du chapitre II du titre II du
+livre Ier du code des relations entre le public et l'administration. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 6 avril 2017 - art. 5 (V)
+	  - Code de la défense. - art. L2335-12 (V)
+	  - Code de la défense. - art. L2335-4 (V)
+	  - Code de la défense. - art. R2339-3 (V)
+
 
 ##### Section 2 : Sanctions pénales de la fabrication et du commerce
 
@@ -10760,191 +10925,6 @@ considération des circonstances de l'infraction et de la personnalité de son a
 
 	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
-
-##### Chapitre IX : Contrôle administratif et dispositions pénales
-
-##### Section 1 : Pouvoirs d'enquête et de contrôle
-
-###### Article L2339-1
-
-Toute infraction aux prescriptions du présent titre peut être constatée par les agents des contributions indirectes et des
-douanes et par les autorités de police judiciaire qui en dressent procès-verbal. 
-
-Les agents du ministère de la défense habilités dans des conditions fixées par décret en Conseil d'Etat peuvent également
-constater les infractions aux dispositions du présent titre ainsi qu'aux dispositions réglementaires prises pour leur
-application. 
-
-Les titulaires des autorisations et des licences définies au présent titre sont tenus de laisser pénétrer, dans toutes les
-parties de leurs locaux, les agents habilités de l'Etat. 
-
-Ils sont tenus de fournir les renseignements verbaux ou écrits et les comptes rendus demandés par ces mêmes agents. 
-
-Ils sont également tenus de n'apporter aucune entrave aux investigations nécessaires à l'exécution des missions des agents
-habilités. Ces investigations peuvent comporter, outre l'examen des lieux, des matériels et du système d'information, les
-recensements et les vérifications des comptabilités ou registres de toute espèce paraissant utiles. 
-
-Les agents habilités de l'Etat qui ont connaissance à titre quelconque des renseignements recueillis au sujet des entreprises
-en application du présent titre sont tenus au secret professionnel sous les peines définies à l'article 226-13 du code
-pénal. 
-
-Par dérogation à l'alinéa précédent, les agents des douanes et les agents habilités du ministère de la défense mentionnés au
-présent article peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre
-de leurs missions respectives. 
-
-Les procès-verbaux des infractions constatées aux prescriptions du présent titre sont transmis au représentant de l'Etat dans
-le département ou, à Paris, au préfet de police. 
-
-En cas d'infraction aux dispositions du présent titre, les services compétents du ministère de la défense adressent au
-procureur de la République les procès-verbaux des constatations effectuées. Une expédition est également transmise au
-ministre de la défense. 
-
-Sans préjudice de l'application de l'article 36 du code de procédure pénale, l'action publique en matière d'infraction aux
-dispositions des chapitres II à V du présent titre relatives aux matériels de guerre et aux matériels assimilés visés aux I
-et III de l'article L. 2331-1 du présent code et commise par une personne morale visée au I de l'article L. 2332-1 ou par une
-personne morale fabricant de matériels assimilés est mise en mouvement par le procureur de la République territorialement
-compétent. 
-
-Il apprécie la suite à donner aux faits portés à sa connaissance, notamment par la dénonciation du ministre de la défense ou
-de l'autorité habilitée par lui. 
-
-A défaut de cette dénonciation, le procureur de la République informe le ministre de la défense ou l'autorité habilitée par
-lui. 
-
-Hormis le cas d'urgence, le ministre de la défense ou l'autorité habilitée par lui donne son avis dans le délai d'un mois,
-par tout moyen. 
-
-L'autorité visée au neuvième alinéa du présent article est habilitée par arrêté du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 16-2 (V)
-	  - Décret n°95-589 du 6 mai 1995 - art. 34 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 18 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 38 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 18 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 38 (VT)
-	  - Décret n°2010-771 du 8 juillet 2010 - art. 8
-	  - Décret n°2011-1467 du 9 novembre 2011 - art. 42 (VT)
-	  - Décret n°2011-1467 du 9 novembre 2011 - art. 43 (VT)
-	  - Arrêté du 30 novembre 2011 - art. 11 (V)
-	  - Arrêté du 30 novembre 2011 - art. 3 (V)
-	  - Arrêté du 6 janvier 2012 (V)
-	  - Arrêté du 3 juin 2013 (V)
-	  - Arrêté du 6 juin 2013 (V)
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
-	  - Arrêté du 24 mars 2014 (V)
-	  - Arrêté du 14 novembre 2014 (V)
-	  - Arrêté du 5 janvier 2016 (V)
-	  - Décret n°2017-151 du 8 février 2017 (V)
-	  - Arrêté du 6 avril 2017 (V)
-	  - Code de la défense. - art. L2339-1-1 (V)
-	  - Code de la défense. - art. L2339-11-1 (VD)
-	  - Code de la défense. - art. L2339-11-2 (V)
-	  - Code de la défense. - art. L2339-3 (VD)
-	  - Code de la défense. - art. R2332-19 (V)
-	  - Code de la défense. - art. R2335-35 (V)
-	  - Code de la défense. - art. R2335-36 (V)
-	  - Code de la défense. - art. R2335-37 (V)
-	  - Code de la défense. - art. R2335-38 (VD)
-	  - Code de la défense. - art. R2339-1 (VD)
-	  - Code de la défense. - art. R2339-3 (V)
-	  - Code de procédure pénale - art. 28-1 (V)
-	  - Code de procédure pénale - art. 706-55 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13
-	  - Code de la défense. - art. L2331-1
-	  - Code de la défense. - art. L2332-1
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 36 (Ab)
-
-
-###### Article L2339-1-1
-
-Les investigations mentionnées au cinquième alinéa de l'article L. 2339-1 peuvent également porter sur les procédures de
-contrôle interne mises en œuvre par les exportateurs et les fournisseurs afin de garantir le respect des obligations définies
-par le présent titre dans des conditions déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2339-1
-
-
-##### Section 1 bis : Sanctions administratives
-
-###### Article L2339-1-2
-
-En cas de carence ou de défaillance des procédures de contrôle interne ayant causé ou étant susceptible de causer un
-manquement aux obligations définies par le présent titre, l'autorité administrative peut mettre en demeure l'exportateur ou
-le fournisseur de prendre des mesures correctives. Cette mise en demeure est notifiée à l'exportateur ou au fournisseur. 
-
-En cas d'inexécution de ces mesures au terme du délai de mise en conformité fixé dans la mise en demeure, l'autorité
-administrative peut prononcer à l'encontre de l'exportateur ou du fournisseur les sanctions suivantes : 
-
-1° Si cette inexécution n'est pas constitutive d'une infraction pénale, une sanction pécuniaire proportionnée à la situation
-de l'exportateur ou du fournisseur et à l'éventuelle réitération de carences ou de défaillances constatées antérieurement.
-Cette sanction est motivée et déterminée individuellement pour chaque exportateur ou fournisseur sanctionné. Elle ne peut
-être d'un montant supérieur à 150 000 euros ; 
-
-2° La suspension, la modification ou l'abrogation d'une licence d'exportation de matériels de guerre ou de matériels
-assimilés ou d'une licence de transfert intracommunautaire de produits liés à la défense, dans les conditions prévues aux
-articles L. 2335-4 et L. 2335-12. 
-
-Ces sanctions peuvent être prononcées cumulativement. 
-
-L'action de l'administration pour la sanction de l'inexécution de ces mesures correctives se prescrit par deux années
-révolues à compter du terme du délai de mise en conformité fixé dans la mise en demeure. 
-
-Les décisions mentionnées dans le présent article sont prises conformément aux dispositions du chapitre II du titre II du
-livre Ier du code des relations entre le public et l'administration. 
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 6 avril 2017 - art. 5 (V)
-	  - Code de la défense. - art. L2335-12 (V)
-	  - Code de la défense. - art. L2335-4 (V)
-	  - Code de la défense. - art. R2339-3 (V)
-
-
-##### Section 2 : Sanctions pénales de la fabrication et du commerce
-
-##### Section 3 : Sanctions pénales de l'acquisition et de la détention
-
-##### Section 4 : Sanctions pénales du port, du transport et des expéditions
-
-##### Section 5 : Sanctions pénales des importations, exportations et transferts
-
-##### Section 6 : Sanctions pénales de la récidive
-
-##### Section 7 : Protection des personnes bénéficiant de réduction de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions
-
-##### Section 8 : De la prolifération des vecteurs d'armes de destruction massive.
-
-##### Section 9 : Peines complémentaires applicables aux personnes physiques
 
 #### TITRE IV : ARMES SOUMISES À INTERDICTION
 
@@ -78221,28 +78201,40 @@ fondation, l'association, le groupement ou le particulier qui en a la garde.
 ###### Article R4124-1
 
 Le Conseil supérieur de la fonction militaire est l'instance nationale de consultation et de concertation de l'ensemble des
-militaires des armées et formations rattachées. 
+militaires des forces armées et formations rattachées. 
 
 Il exprime son avis : 
 
 1° Sur les questions à caractère général relatives à la condition militaire dont il est saisi par le ministre de la défense
-ou qui sont inscrites à l'ordre du jour d'une session sur proposition de ses membres, et qui concernent l'attractivité et les
-conditions d'exercice du métier militaire, les conditions de vie des militaires et de leurs familles, les conditions
-d'organisation du travail des militaires, la fidélisation et les conditions de leur reconversion ;
+ou qui sont inscrites à l'ordre du jour d'une session sur proposition de ses membres, et qui concernent les aspects
+statutaires, économiques, sociaux et culturels susceptibles d'avoir une influence sur l'attractivité de la profession et des
+parcours professionnels, le moral et les conditions de vie des militaires et de leurs ayants droit, la situation et
+l'environnement professionnels des militaires, le soutien aux malades, aux blessés et aux familles, ainsi que les conditions
+de départ des forces armées et formations rattachées et d'emploi après l'exercice du métier militaire ; 
 
-2° Sur les projets de décrets portant statut particulier des militaires mentionnés à l'article L. 4111-2, ainsi que les
-projets de décrets comportant des dispositions statutaires communes à plusieurs corps ou catégories de militaires.
+2° Sur les projets de loi relatifs au statut des militaires ; 
+
+3° Sur les projets de décret portant statut particulier des militaires mentionnés à l'article L. 4111-2 ainsi que les projets
+de décret comportant des dispositions statutaires communes à plusieurs corps ou catégories de militaires ; 
+
+4° Sur les projets de texte réglementaire portant sur les dispositions indiciaires ou indemnitaires relatives aux
+militaires. 
+
+Il est organisé en trois commissions qui traitent des domaines des statuts, des régimes indiciaires ou indemnitaires et des
+pensions, des conditions de vie, des aspects sociaux et de l'environnement professionnel. Tout membre du Conseil supérieur de
+la fonction militaire doit appartenir à une seule commission. 
+
+Le Conseil supérieur de la fonction militaire se réunit au moins deux fois par an en séance plénière.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 2
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4111-2
-	  - Code de la défense. - art. L4124-1
+	  - Code de la défense. - art. L4111-2 (V)
 
 	**Cité par**:
 
@@ -78257,36 +78249,35 @@ projets de décrets comportant des dispositions statutaires communes à plusieur
 
 ###### Article R4124-2
 
-Le Conseil supérieur de la fonction militaire comprend, sous la présidence du ministre de la défense, quatre-vingt-cinq
-membres siégeant avec voix délibérative, dont soixante-dix-neuf militaires en position d'activité et six retraités
-militaires.
+Le Conseil supérieur de la fonction militaire comprend, sous la présidence du ministre de la défense, un maximum de soixante
+et un membres siégeant avec voix délibérative : 
 
-Il comprend en outre, à titre consultatif, le représentant du ministre de l'intérieur, celui du ministre chargé du budget et
-celui du ministre chargé de la fonction publique, nommés par arrêté de leur ministre respectif. 
+1° Quarante-deux militaires en position d'activité représentant les forces armées et formations rattachées ; 
 
-La répartition des membres militaires du Conseil supérieur de la fonction militaire par armée ou formations rattachées et par
-catégories, en tenant compte de leurs effectifs, est fixée par arrêté du ministre de la défense, après avis du Conseil
-supérieur de la fonction militaire. 
+2° Au plus seize militaires représentant les associations professionnelles nationales de militaires, leurs unions ou leurs
+fédérations, représentatives ; 
 
-Les catégories de membres militaires sont : 
+3° Trois membres du conseil permanent des retraités militaires représentant les associations de retraités militaires. 
 
-1° Les officiers supérieurs ; 
+Il comprend en outre, à titre consultatif, lors des séances plénières, un représentant du ministre de l'intérieur, un
+représentant du ministre chargé du budget et un représentant du ministre chargé de la fonction publique, désignés par leur
+ministre respectif. 
 
-2° Les officiers subalternes ; 
+La répartition des membres militaires du Conseil supérieur de la fonction militaire par force armée ou formation rattachée et
+par groupes de grades, en tenant compte de leurs effectifs, est fixée par l'arrêté prévu à l'article R. 4124-27. 
 
-3° Les majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie ; 
-
-4° Les militaires infirmiers et techniciens des hôpitaux des armées ; 
-
-5° Les sous-officiers ou officiers mariniers subalternes et gendarmes ; 
-
-6° Les militaires du rang.
+La répartition des sièges des membres représentant les associations professionnelles nationales de militaires, leurs unions
+ou leurs fédérations, s'effectue en fonction de leur représentativité, appréciée au 1er janvier de l'année de renouvellement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 1
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4124-27 (V)
 
 	**Cité par**:
 
@@ -78294,42 +78285,136 @@ Les catégories de membres militaires sont :
 	  - Code de la défense. - art. R4126-9 (V)
 
 
-###### Article R4124-3
+###### Article R4124-2-1
 
-Les membres militaires, titulaires et suppléants, du Conseil supérieur de la fonction militaire sont nommés pour quatre ans
-par arrêté du ministre de la défense après avoir été élus parmi et par les membres des conseils de la fonction militaire
-mentionnés à l'article R. 4124-6, dans des conditions et suivant des modalités fixées par arrêté du ministre de la défense. 
+L'ensemble des représentants élus du personnel militaire en application du présent chapitre sont, pour la désignation des
+membres aux différents conseils, réputés détenir un mandat d'une instance de représentation du personnel militaire. 
 
-Les retraités militaires, membres du Conseil supérieur de la fonction militaire, sont nommés par arrêté du ministre de la
-défense, sur proposition des organisations nationales de retraités les plus représentatives qui fournissent chacune une liste
-de trois candidats parmi lesquels sont choisis un titulaire et un suppléant. 
-
-Les membres militaires du Conseil supérieur de la fonction militaire en activité ne peuvent siéger que s'ils ont
-préalablement participé à la session du conseil de la fonction militaire au cours de laquelle l'ordre du jour du Conseil
-supérieur de la fonction militaire a été étudié.
+Les membres des instances de représentation des militaires sont les militaires élus présidents de l'un des groupes de grades
+définis à l'article R. 4131-14 ou d'un ensemble de groupes de grades.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4131-14 (V)
+
+
+###### Article R4124-3
+
+Les membres du Conseil supérieur de la fonction militaire sont nommés par arrêté du ministre de la défense pour une durée de
+deux ans dans les conditions suivantes : 
+
+1° Les représentants des forces armées et formations rattachées sont, sur la base du volontariat, désignés à la suite de leur
+élection parmi les membres des conseils de la fonction militaire ou parmi une population déterminée dans chaque force armée
+ou formation rattachée, selon les modalités fixées par l'arrêté prévu à l'article R. 4124-27. 
+
+Dans ce dernier cas, les désignations se font prioritairement parmi les détenteurs ou anciens détenteurs, pendant les huit
+dernières années, d'un mandat d'une instance de représentation du personnel militaire. Les membres des conseils de la
+fonction militaire installés préalablement aux opérations de désignation sont réputés détenir un mandat d'une instance de
+représentation du personnel militaire. 
+
+La durée du mandat des membres des représentants des forces armées et formations rattachées est portée, de droit, de deux à
+quatre ans pour ceux qui en expriment la demande expresse au moins six mois avant l'expiration des deux premières années de
+mandat. Les représentants des forces armées ou formations rattachées ne peuvent exercer deux mandats consécutifs ; 
+
+2° Les représentants des associations professionnelles nationales de militaires, de leurs unions ou de leurs fédérations sont
+nommés sur proposition de l'association professionnelle nationale de militaires, de l'union ou de la fédération à laquelle
+ils appartiennent ; 
+
+3° Les représentants des associations de retraités militaires sont nommés sur proposition du conseil permanent des retraités
+militaires. 
+
+Ne peuvent se porter volontaires au titre du 1° les membres du corps militaire du contrôle général des armées, les officiers
+généraux, les secrétaires généraux des conseils mentionnés au présent chapitre et leurs adjoints. 
+
+Les fonctions de membre du Conseil supérieur de la fonction militaire au titre des forces armées et formations rattachées et
+au titre d'une association professionnelle nationale de militaires, ou d'une union ou fédération, représentative ne peuvent
+être cumulées. 
+
+Tous les membres reçoivent une formation spécifique en vue de l'accomplissement de leur fonction.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2016-997 du 20 juillet 2016 - art. 27 (V)
 	  - Arrêté du 18 août 2016 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 5
+
 	**Cite**:
 
-	  - Code de la défense. - art. R4124-6 (V)
+	  - Code de la défense. - art. R4124-27 (V)
+
+
+###### Article R4124-3-1
+
+Les militaires représentant les forces armées et formations rattachées faisant acte de volontariat doivent remplir, au
+premier jour du mois au cours duquel débutent les opérations électorales, les conditions suivantes : 
+
+1° Etre en position d'activité à titre français ; 
+
+2° Se trouver à plus de deux ans de la limite d'âge du grade pour les militaires de carrière, ou de la limite statutaire de
+la durée maximale des services pour les militaires servant en vertu d'un contrat ; 
+
+3° Ne pas avoir fait, dans les deux années précédant l'élection, l'objet d'une sanction disciplinaire du deuxième ou du
+troisième groupe non amnistiée ; 
+
+4° Etre détenteur ou avoir été détenteur, au cours des huit dernières années d'un mandat d'une instance de représentation du
+personnel militaire. 
+
+Lorsque, au sein d'une force armée ou formation rattachée, le nombre de volontaires détenteurs ou ayant été détenteurs d'un
+mandat de représentation du personnel militaire est inférieur au nombre de sièges à pourvoir, les sièges vacants peuvent être
+pourvus par des volontaires dépourvus d'une telle expérience qui sont désignés selon les mêmes modalités. 
+
+Le militaire volontaire adresse par lettre sa candidature au secrétariat du conseil de la fonction militaire dont il relève
+trente jours au moins avant la date prévue pour l'élection qui est fixée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 6
+
+	**Cité par**:
+
+	  - Arrêté du 12 août 2016 - art. 1 (V)
+	  - Code de la défense. - art. R4124-23 (V)
+
+
+###### Article R4124-3-2
+
+Les militaires représentant les associations professionnelles nationales de militaires, leurs unions ou leurs fédérations,
+doivent remplir, lors de leur désignation, les conditions suivantes : 
+
+1° Etre en position d'activité à titre français ; 
+
+2° Se trouver à plus de deux ans de la limite d'âge du grade pour les militaires de carrière, ou de la limite statutaire de
+la durée maximale des services pour les militaires servant en vertu d'un contrat ; 
+
+3° Ne pas avoir fait, dans les deux années précédant la désignation, l'objet d'une sanction disciplinaire du deuxième ou du
+troisième groupe non amnistiée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 6
 
 
 ###### Article R4124-4
 
 Le Conseil supérieur de la fonction militaire dispose d'un secrétariat général permanent dirigé par un secrétaire général,
 membre du corps militaire du contrôle général des armées, nommé par le ministre de la défense. Le secrétaire général assiste
-aux séances, mais ne participe pas aux votes. Par ailleurs, il assure la coordination des travaux des conseils de la fonction
-militaire.
+aux séances, peut également assister aux travaux des commissions, mais ne participe pas aux votes. Par ailleurs, il assure la
+coordination des travaux des conseils de la fonction militaire.
 
 Le ministre peut déléguer sa signature au secrétaire général pour les besoins du fonctionnement du Conseil supérieur de la
 fonction militaire.
@@ -78338,13 +78423,16 @@ Le secrétaire général du Conseil supérieur de la fonction militaire est assi
 défense, qui le supplée en cas d'absence ou d'empêchement. 
 
 L'adjoint du secrétaire général peut recevoir délégation de signature du ministre en cas d'absence ou d'empêchement du
-secrétaire général.
+secrétaire général. 
+
+Le secrétaire général du Conseil supérieur de la fonction militaire informe périodiquement les secrétaires généraux des
+conseils de la fonction militaire de l'avancement des travaux du Conseil supérieur de la fonction militaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 3
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 7
 
 
 ###### Article R4124-5
@@ -78365,7 +78453,10 @@ par les membres du conseil.
 
 ###### Article R4124-6
 
-Les conseils de la fonction militaire, instances nationales de consultation et de concertation, sont : 
+Les conseils de la fonction militaire, instances nationales de concertation, représentent les militaires gérés par chacune
+des forces armées et formations rattachées indépendamment de leur emploi. 
+
+Les neuf conseils de la fonction militaire sont : 
 
 1° Le conseil de la fonction militaire de l'armée de terre ; 
 
@@ -78375,17 +78466,21 @@ Les conseils de la fonction militaire, instances nationales de consultation et d
 
 4° Le conseil de la fonction militaire de la gendarmerie nationale ; 
 
-5° Le conseil de la fonction militaire de la     direction générale de l'armement ; 
+5° Le conseil de la fonction militaire de la direction générale de l'armement ;
 
 6° Le conseil de la fonction militaire du service de santé des armées ; 
 
-7° Le conseil de la fonction militaire du service des essences des armées.
+7° Le conseil de la fonction militaire du service des essences des armées ;
+
+8° Le conseil de la fonction militaire du service du commissariat des armées ; 
+
+9° Le conseil de la fonction militaire du service d'infrastructure de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 8
 
 	**Cité par**:
 
@@ -78394,17 +78489,16 @@ Les conseils de la fonction militaire, instances nationales de consultation et d
 
 ###### Article R4124-7
 
-Les conseils de la fonction militaire procèdent à une première étude des textes et des questions d'ordre général inscrits à
-l'ordre du jour du Conseil supérieur de la fonction militaire. Leurs observations sont adressées au secrétaire général du
-Conseil supérieur de la fonction militaire.
+Les conseils de la fonction militaire étudient toute question relative à leur force armée ou formation rattachée concernant
+les conditions de vie, d'organisation du travail ou d'exercice du métier militaire. 
 
-En outre, ils ont vocation à étudier toute question relative à leur armée ou formation rattachée concernant les conditions de
-vie, d'exercice du métier militaire ou d'organisation du travail.
+Ils peuvent également procéder à l'étude des questions les concernant inscrites à l'ordre du jour du Conseil supérieur de la
+fonction militaire. Leurs observations sont adressées au secrétaire général du Conseil supérieur de la fonction militaire. 
 
-Les conseils de la fonction militaire peuvent, le cas échéant, étudier ces mêmes questions lorsque celles-ci concernent des
-militaires qui, étant représentés au sein de ces conseils : 
+Les conseils de la fonction militaire peuvent, le cas échéant, étudier les questions mentionnées au premier alinéa lorsque
+celles-ci concernent des militaires qui, étant représentés au sein de ces conseils : 
 
-1° Sont affectés hors de leur armée ou formation rattachée d'appartenance ; 
+1° Sont affectés hors de leur forces armées ou formation rattachée d'appartenance ; 
 
 2° Sont gérés par une formation rattachée ne disposant pas d'un conseil.
 
@@ -78412,7 +78506,7 @@ militaires qui, étant représentés au sein de ces conseils :
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 4
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 9
 
 
 ###### Article R4124-8
@@ -78422,14 +78516,15 @@ gendarmerie nationale peut, en fonction de l'ordre du jour, être présidé soit
 ministre de l'intérieur, soit par ces deux ministres.
 
 Le chef d'état-major de chaque armée, le directeur général de la gendarmerie nationale, le délégué général pour l'armement,
-le directeur central du service de santé des armées et le directeur central du service des essences des armées en sont
+le directeur central du service de santé des armées, le directeur central du service des essences des armées, le directeur
+central du service du commissariat des armées et le directeur central du service d'infrastructure de la défense en sont
 respectivement les vice-présidents. Ils en assurent la présidence effective à la demande du ou des ministres intéressés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 2
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 10
 
 	**Cité par**:
 
@@ -78438,47 +78533,58 @@ respectivement les vice-présidents. Ils en assurent la présidence effective à
 
 ###### Article R4124-9
 
-Un arrêté du ministre de la défense fixe la composition des conseils de la fonction militaire en tenant compte des effectifs
-répartis par catégories telles que définies à l'article R. 4124-2 et, pour chaque catégorie, selon la nature du lien au
-service, et, si nécessaire, selon le grade, le ressort géographique des militaires ou leur affectation hors de leur armée ou
-formation rattachée d'appartenance. 
+L'arrêté prévu à l'article R. 4124-27 fixe la composition des conseils de la fonction militaire en tenant compte des
+effectifs répartis par groupes de grades tels que définis à l'article R. 4131-14 et, pour chaque groupe de grades, selon la
+nature du lien au service et, si nécessaire, selon le grade, le ressort géographique ou fonctionnel des militaires ou leur
+affectation hors de leur force armée ou formation rattachée d'appartenance. 
 
 La composition retenue peut être différente au sein de chacun des conseils de la fonction militaire afin de tenir compte de
-la spécificité de chaque armée ou formation rattachée.
+la spécificité de chaque force armée ou formation rattachée. 
 
-Les membres sont nommés pour quatre ans par arrêté du ministre de la défense. Pour les militaires inscrits au tableau
-d'avancement, le grade pris en considération est leur futur grade.
+Pour les militaires inscrits au tableau d'avancement, le grade pris en considération est leur futur grade.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 5
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4124-2
+	  - Code de la défense. - art. R4124-27 (V)
+	  - Code de la défense. - art. R4131-14 (V)
 
 
 ###### Article R4124-10
 
-Les membres titulaires des conseils de la fonction militaire et les suppléants sont désignés par voie de tirage au sort parmi
-les militaires ayant fait acte de volontariat au sein d'une population déterminée pour chaque armée ou formation rattachée,
-selon des modalités fixées par arrêté du ministre de la défense.
+Les membres titulaires et suppléants des conseils de la fonction militaire sont nommés par arrêté du ministre de la défense
+pour une durée de quatre ans. 
+
+Ils sont désignés par voie de tirage au sort ou, lorsque les caractéristiques de la force armée ou de la formation rattachée
+le justifient, par la voie de l'élection, en priorité parmi les militaires détenteurs ou ayant été détenteurs, dans les huit
+dernières années, d'un mandat d'une instance de représentation du personnel militaire, ayant fait acte de volontariat. 
+
+Les membres des conseils de la fonction militaire installés préalablement aux opérations de désignation sont réputés détenir,
+pour la mise en œuvre des dispositions de l'alinéa précédent, un mandat d'une instance de représentation du personnel
+militaire. 
+
+Le renouvellement des membres intervient par moitié tous les deux ans, conformément à une répartition en deux groupes, A et
+B. 
+
+Les membres reçoivent une formation spécifique en vue de l'accomplissement de leur fonction. 
+
+Les représentants des forces armées et formations rattachées nommés au Conseil supérieur de la fonction militaire siègent
+avec voix délibérative au sein du conseil de la fonction militaire de leur force armée ou formation rattachée d'appartenance,
+le cas échéant en surnombre des membres composant ledit conseil. Ils ne disposent pas de suppléants. 
 
 Ne peuvent se porter volontaires les membres du corps militaire du contrôle général des armées, les officiers généraux, les
-secrétaires généraux des conseils mentionnés au présent chapitre, leurs adjoints et les volontaires dans les armées.
-
-Le renouvellement des membres intervient par moitié tous les deux ans, conformément à une répartition en deux groupes fixée
-par arrêté du ministre de la défense.
-
-Les membres reçoivent une formation spécifique en vue de l'accomplissement de leur fonction.
+secrétaires généraux des conseils mentionnés au présent chapitre et leurs adjoints.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 6
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 12
 
 	**Cité par**:
 
@@ -78490,30 +78596,44 @@ Les membres reçoivent une formation spécifique en vue de l'accomplissement de 
 ###### Article R4124-11
 
 Les militaires faisant acte de volontariat doivent remplir, au premier jour du mois au cours duquel débutent les opérations
-de tirage au sort, les conditions suivantes :
+de tirage au sort ou d'élection, les conditions suivantes :
 
 1° Etre en position d'activité à titre français ;
 
 2° Se trouver à plus de quatre ans de la limite d'âge du grade pour les militaires de carrière, ou de la limite statutaire de
-la durée maximale des services pour les militaires servant en vertu d'un contrat ;
+la durée maximale des services pour les militaires servant en vertu d'un contrat cette durée est de deux ans pour les
+volontaires dans les armées ;
 
-3° Ne pas avoir fait, dans les trois années précédant celle du tirage au sort, l'objet d'une sanction disciplinaire du
-deuxième ou du troisième groupe non amnistiée.
+3° Ne pas avoir fait, dans les deux années précédant celle du tirage au sort, l'objet d'une sanction disciplinaire du
+deuxième ou du troisième groupe non amnistiée ;
 
-Le volontariat est exprimé par lettre adressée par le candidat au secrétariat du conseil de la fonction militaire vingt jours
-au moins avant la date prévue pour le tirage au sort. Cette date est fixée par arrêté du ministre de la défense.
+4° Etre détenteur ou avoir été détenteur, dans les huit dernières années, selon les forces armées et formations rattachées,
+d'un mandat d'une instance de représentation du personnel militaire dont les modalités de désignation, l'appellation et les
+attributions sont fixées par arrêté du ministre de la défense et, pour les militaires de la gendarmerie nationale, du
+ministre de l'intérieur. 
+
+Lorsque, au sein d'une force armée ou formation rattachée, le nombre de volontaires détenteurs ou ayant été détenteurs de
+mandat de représentation du personnel militaire est inférieur au nombre de sièges à pourvoir, les sièges vacants peuvent être
+pourvus par des volontaires, dépourvus d'une telle expérience, qui sont désignés selon les mêmes modalités. 
+
+Les membres des conseils de la fonction militaire installés préalablement aux opérations de désignation sont réputés détenir
+l'un des mandats d'une instance de représentation du personnel militaire.
+
+Le volontariat est exprimé par lettre adressée par le candidat au secrétariat du conseil de la fonction militaire trente
+jours au moins avant la date prévue pour le tirage au sort ou l'élection. Cette date est fixée par arrêté du ministre de la
+défense.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 14 août 2009 - art. 5 (Ab)
 	  - Arrêté du 12 août 2016 - art. 2 (V)
 	  - Code de la défense. - art. R4124-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 13
 
 
 ###### Article R4124-12
@@ -78551,15 +78671,16 @@ secrétaire général.
 ###### Article R4124-13
 
 Le chef d'état-major de chaque armée, le directeur général de la gendarmerie nationale, le délégué général pour l'armement,
-le directeur central du service de santé des armées et le directeur central du service des essences des armées peuvent, après
-accord du ministre ou des ministres intéressés, réunir le conseil dont ils sont le vice-président pour traiter d'un sujet
-particulier à leur armée ou formation rattachée et entrant dans la compétence du conseil.
+le directeur central du service de santé des armées, le directeur central du service des essences des armées, le directeur
+central du service du commissariat des armées et le directeur central du service d'infrastructure de la défense  peuvent,
+après accord du ministre ou des ministres intéressés, réunir le conseil dont ils sont le vice-président pour traiter d'un
+sujet particulier à leur force armée ou formation rattachée et entrant dans la compétence du conseil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 4
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 14
 
 
 ###### Article R4124-14
@@ -78580,41 +78701,47 @@ session par les membres du conseil.
 
 ###### Article R4124-15
 
-Les militaires membres du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire, affectés en
-France métropolitaine, dans l'un de ses Etats limitrophes ou au Royaume-Uni, sont convoqués pour siéger en session des
-conseils.
+Les militaires membres du Conseil supérieur de la fonction militaire restent affectés en position d'activité au sein de
+l'organisme dans lequel ils étaient affectés antérieurement à leur nomination au Conseil supérieur de la fonction militaire.
+Ils peuvent solliciter une affectation pour raison de service dans un autre organisme. Leur activité est exclusivement dédiée
+à l'exercice de la concertation. Ils peuvent continuer à exercer jusqu'à son terme l'un des mandats d'une instance de
+représentation du personnel militaire. 
 
-Lorsqu'un membre titulaire est dans l'impossibilité d'assister à une session, un suppléant représentant la même catégorie est
-appelé à siéger dans l'ordre des résultats du tirage au sort ou de l'élection.
+Lorsqu'un membre titulaire d'un conseil de la fonction militaire est dans l'impossibilité d'assister à une session, un
+suppléant représentant le même groupe de grades est appelé à siéger dans l'ordre des résultats du tirage au sort ou de
+l'élection.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 15
 
 
 ###### Article R4124-16
 
-Les fonctions des membres, titulaires et suppléants, du Conseil supérieur de la fonction militaire et des conseils de la
-fonction militaire prennent fin dans les conditions suivantes : 
+Les fonctions de membres du Conseil supérieur de la fonction militaire et celles des membres titulaires et suppléants des
+conseils de la fonction militaire prennent fin dans les conditions suivantes : 
 
-1° Démission sur simple demande adressée directement au secrétaire général du conseil de la fonction militaire
-d'appartenance ; 
+1° Démission sur simple demande adressée directement au secrétaire général du Conseil supérieur de la fonction militaire ou
+du conseil de la fonction militaire d'appartenance ; 
 
 2° Placement dans une position statutaire autre que celle d'activité ; 
 
 3° Sanction disciplinaire du deuxième ou du troisième groupe ; 
 
-4° Accès à l'état d'officier général, d'officier et de sous-officier ; 
+4° Accès à l'état d'officier général, de membre du corps militaire du contrôle général des armées, ou changement de groupe de
+grades ; 
 
-5° Intégration dans un corps d'officiers ou de sous-officiers de carrière ou en cas de changement de corps, d'armée ou de
-formation rattachée ; 
+5° Intégration dans un corps d'officiers ou de sous-officiers ou officiers mariniers de carrière ou en cas de changement de
+corps, de force armée ou de formation rattachée ; 
 
-6° Mutation hors du ressort géographique au titre duquel le membre a été tiré au sort, autre que celle résultant d'une
-restructuration, dans les conseils pour lesquels ce critère a été retenu ; 
+6° Mutation hors du ressort géographique ou fonctionnel au titre duquel le membre a été tiré au sort ou élu, autre que celle
+résultant d'une restructuration, dans les conseils de la fonction militaire pour lesquels ce critère a été retenu ; 
 
-7° Tirage au sort au titre de l'autre groupe dans les conditions prévues au troisième alinéa de l'article R. 4124-10.
+7° Tirage au sort au titre de l'autre groupe dans les conditions prévues au quatrième alinéa de l'article R. 4124-10 ; 
+
+8° Nomination aux fonctions de secrétaire général ou secrétaire général adjoint d'un conseil.
 
 **Liens relatifs à cet article**
 
@@ -78630,28 +78757,59 @@ restructuration, dans les conseils pour lesquels ce critère a été retenu ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-2051 du 30 décembre 2011 - art. 8
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 16
 
 	**Cite**:
 
 	  - Code de la défense. - art. R4124-10 (V)
 
 
+###### Article R4124-16-1
+
+Lorsqu'un membre siégeant au Conseil supérieur de la fonction militaire au titre des forces armées et formations rattachées
+cesse ses fonctions pour l'une des conditions énoncées à l'article R. 4124-16, il est remplacé par le candidat volontaire
+figurant immédiatement après le dernier candidat nommé sur la liste du scrutin du même groupe de grades. 
+
+Lorsqu'un membre siégeant au Conseil supérieur de la fonction militaire au titre des associations professionnelles nationales
+de militaires, de leurs unions ou fédérations cesse ses fonctions pour l'un des motifs énoncés aux 1°, 2° et 3° de l'article
+R. 4124-16, son remplacement est réalisé sur proposition de l'association professionnelle nationale de militaires, de l'union
+ou de la fédération concernée. 
+
+Lorsqu'un membre siégeant au Conseil supérieur de la fonction militaire au titre des associations de retraités militaires
+cesse ses fonctions pour le motif énoncé au 1° du même article, son remplacement est réalisé sur proposition du conseil
+permanent des retraités militaires. 
+
+Lorsqu'un membre du Conseil supérieur de la fonction militaire représentant une formation rattachée ou un service de soutien
+se trouve pour une période indéterminée dans l'incapacité d'exercer son mandat, il peut, sur appréciation du ministre de la
+défense, être remplacé par le militaire de la formation rattachée ou du service de soutien considéré figurant immédiatement
+après le dernier candidat nommé au conseil sur la liste du scrutin du même groupe de grades. 
+
+Le mandat des membres nommés en cours de mandat s'achève au terme du mandat des membres qu'ils remplacent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 16
+
+	**Cité par**:
+
+	  - Arrêté du 3 octobre 2016 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4124-16
+
+
 ###### Article R4124-17
 
 Chaque conseil se réunit au moins deux fois par an sur convocation du ou des ministres intéressés.
-
-Les sessions des conseils de la fonction militaire se terminent, au plus tard, neuf jours avant la session du Conseil
-supérieur de la fonction militaire.
-
-En cas d'urgence, le ministre de la défense peut décider de consulter directement le Conseil supérieur de la fonction
-militaire sans que soient saisis au préalable les conseils de la fonction militaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 5
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 17
 
 
 ###### Article R4124-18
@@ -78671,31 +78829,29 @@ arrêté conjointement par les ministres de la défense et de l'intérieur ou pa
 ne relève que de ses seules attributions.
 
 Sont inscrites d'office à l'ordre du jour les questions, entrant dans la compétence du conseil, dont l'examen a été demandé
-par la majorité des membres dudit conseil. Le ministre de la défense ou, pour le conseil de la fonction militaire de la
-gendarmerie nationale, le ministre de la défense et le ministre de l'intérieur peuvent inscrire à l'ordre du jour toute
-question de la compétence d'un conseil.
-
-Sauf cas d'urgence, l'ordre du jour et le dossier de travail sont adressés au moins trente jours avant l'ouverture de la
-session aux membres convoqués et aux personnes appelées à assister à la session.
+par la majorité des membres dudit conseil et, pour le Conseil supérieur de la fonction militaire, les questions traitées par
+les commissions. Le ministre de la défense ou, pour le conseil de la fonction militaire de la gendarmerie nationale, le
+ministre de la défense et le ministre de l'intérieur peuvent inscrire à l'ordre du jour toute question de la compétence d'un
+conseil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1722 du 30 décembre 2009 - art. 6
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 18
 
 
 ###### Article R4124-19
 
-Le Conseil supérieur de la fonction militaire et les conseils de la fonction militaire ne peuvent délibérer que si deux tiers
-au moins de leurs membres sont présents à l'ouverture de la session. Leurs avis sont recueillis à la majorité des membres
+Le Conseil supérieur de la fonction militaire et les conseils de la fonction militaire ne peuvent délibérer que si soixante
+pour cent de leurs membres sont présents à l'ouverture de la session. Leurs avis sont recueillis à la majorité des membres
 présents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 19
 
 
 ###### Article R4124-20
@@ -78712,27 +78868,23 @@ Les conseils sont informés des suites réservées aux propositions et avis qu'i
 ###### Article R4124-21
 
 Le règlement intérieur du Conseil supérieur de la fonction militaire et des conseils de la fonction militaire est fixé par
-arrêté du ministre de la défense après avis desdits conseils.
+arrêté conjoint du ministre de la défense et du ministre de l'intérieur après avis desdits conseils.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 20
 
 
 ###### Article R4124-22
 
-L'élection des membres du Conseil supérieur de la fonction militaire et le tirage au sort des membres des conseils de la
+L'élection ou le tirage au sort des membres du Conseil supérieur de la fonction militaire et des membres des conseils de la
 fonction militaire sont effectués sous le contrôle d'une commission présidée par un conseiller d'Etat et comprenant le
-secrétaire général du Conseil supérieur de la fonction militaire, un membre du contrôle général des armées, un officier et un
-sous-officier désignés par le ministre de la défense.
+secrétaire général du Conseil supérieur de la fonction militaire, un membre du corps militaire du contrôle général des
+armées, un officier, un sous-officier ou officier marinier et un militaire du rang désignés par le ministre de la défense.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
@@ -78743,32 +78895,38 @@ sous-officier désignés par le ministre de la défense.
 	  - Code de la défense. - art. R4124-23 (V)
 	  - Code de la défense. - art. R4126-8 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 21
+
 
 ###### Article R4124-23
 
-Les contestations relatives à l'élection des membres du Conseil supérieur de la fonction militaire ou au tirage au sort des
-membres des conseils de la fonction militaire sont adressées par les militaires à la commission de contrôle prévue à
-l'article R. 4124-22 au plus tard huit jours francs à compter de la date de publication des arrêtés portant nomination des
-membres. 
+Les dépôts de candidatures aux élections et au tirage au sort sont enregistrés par le secrétaire général du conseil
+considéré. Lorsque celui-ci constate qu'un candidat ne satisfait pas aux conditions fixées aux articles R. 4124-3-1 et R.
+4124-11, il informe ce militaire de l'irrecevabilité de sa candidature par décision motivée. Les réclamations sur la
+recevabilité des candidatures déposées sont portées devant la commission de contrôle prévue à l'article R. 4124-22 qui
+dispose de cinq jours francs pour se prononcer. 
 
-En cas d'invalidation des élections, la commission fait procéder à de nouvelles élections. 
+Les réclamations relatives à l'élection ou au tirage au sort des membres du Conseil supérieur de la fonction militaire et des
+membres des conseils de la fonction militaire sont adressées par les militaires à la commission de contrôle au plus tard huit
+jours francs à compter de la date de publication des arrêtés portant nomination des membres. 
 
-En cas d'invalidation d'un membre élu, il est remplacé par le militaire le suivant dans l'ordre de la liste donnant les
-résultats du scrutin. 
-
-En cas d'invalidation des opérations de tirage au sort, la commission fait procéder à un nouveau tirage au sort. En cas
-d'invalidation d'un membre tiré au sort, la commission fait procéder à un nouveau tirage au sort dans la catégorie à laquelle
-appartient le militaire invalidé.
+La commission de contrôle dispose d'un délai d'un mois pour statuer sur les réclamations qui lui sont soumises. Elle annule,
+selon les cas, l'élection ou le tirage au sort d'un membre dont la nomination est contestée, les opérations concernant un
+groupe de grades ou l'ensemble des opérations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 22
 
 	**Cite**:
 
+	  - Code de la défense. - art. R4124-11 (V)
 	  - Code de la défense. - art. R4124-22 (V)
+	  - Code de la défense. - art. R4124-3-1 (V)
 
 
 ###### Article R4124-24
@@ -78793,24 +78951,85 @@ informations et facilités nécessaires à l'exercice de leurs fonctions.
 
 ###### Article R4124-25
 
-Aucune appréciation sur le comportement d'un militaire en sa qualité de membre du Conseil supérieur de la fonction militaire
-ou d'un conseil de la fonction militaire ne doit figurer dans sa notation ni dans son dossier.
+Sous réserve des dispositions de l'article R. 4135-3, aucune appréciation sur le comportement d'un militaire en sa qualité de
+membre du Conseil supérieur de la fonction militaire ou d'un conseil de la fonction militaire ne doit figurer dans sa
+notation ni dans son dossier. 
+
+Il appartient au président du Conseil supérieur de la fonction militaire de veiller au respect de l'équité et de la
+neutralité de la notation et du déroulement de carrière des membres de ces conseils. 
 
 Si un militaire considère qu'une décision défavorable le concernant, de quelque nature que ce soit, a été prise eu égard à
-cette qualité, il lui appartient d'utiliser, le cas échéant, les voies de recours en vigueur.
+cette qualité, il lui appartient d'utiliser, le cas échéant, les voies de recours en vigueur. 
 
 Il peut, en outre, saisir directement le ministre de la défense pour lui faire part des difficultés qu'il rencontre dans
 l'exercice de ses fonctions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 23
 
 	**Cité par**:
 
 	  - Arrêté du 3 octobre 2016 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4135-3 (V)
+
+
+##### Section 4 : Conseil permanent des retraités militaires 
+
+###### Article R4124-26
+
+Le conseil permanent des retraités militaires étudie toute question propre aux retraités et à leurs familles, y compris les
+veuves, les veufs, les partenaires liés par un pacte civil de solidarité et les orphelins de militaires. Il peut étudier
+également les questions susceptibles d'améliorer la condition des intéressés inscrites à l'ordre du jour du Conseil supérieur
+de la fonction militaire. 
+
+Il soumet au ministre de la défense toute proposition qu'il considère nécessaire pour améliorer la condition des retraités et
+de leurs familles, y compris les veuves, les veufs, les partenaires liés par un pacte civil de solidarité et les orphelins de
+militaires. 
+
+La composition, les modalités de fonctionnement et de désignation des membres du conseil permanent des retraités militaires
+sont fixées par arrêté du ministre de la défense. 
+
+Le conseil permanent des retraités militaires désigne, selon des modalités définies par arrêté du ministre de la défense,
+trois représentants des retraités militaires membres des associations représentées en son sein ainsi que leurs suppléants,
+pour siéger au Conseil supérieur de la fonction militaire. 
+
+Le conseil permanent des retraités militaires se réunit au moins deux fois par an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 25
+
+	**Cité par**:
+
+	  - Arrêté du 29 août 2016 - art. 1 (V)
+
+
+##### Section 5 :  Dispositions diverses
+
+###### Article R4124-27
+
+Les modalités d'application du présent chapitre sont précisées par arrêté conjoint du ministre de la défense et du ministre
+de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 25
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4124-2 (V)
+	  - Code de la défense. - art. R4124-3 (V)
+	  - Code de la défense. - art. R4124-9 (V)
 
 
 #####  Chapitre V : Recours administratif préalable
@@ -79816,6 +80035,29 @@ détenaient précédemment, ils conservent leur ancien indice à titre personnel
 	  - Décret n°2009-21 du 7 janvier 2009 - art. 1 (V)
 
 
+###### Article R4131-14
+
+Les groupes de grades de militaires sont : 
+
+1° Les officiers ; 
+
+2° Les sous-officiers et les officiers mariniers ; 
+
+3° Les militaires du rang.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 24
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4124-2-1 (V)
+	  - Code de la défense. - art. R4124-9 (V)
+	  - Code de la défense. - art. R4126-6 (V)
+
+
 #####  Chapitre III : Changements d'armée ou de corps
 
 #####  Section 1 : Dispositions générales
@@ -80088,21 +80330,32 @@ La notation est distincte des propositions pour l'avancement.
 
 ###### Article R4135-3
 
-Le militaire est noté à un ou plusieurs degrés par les autorités militaires ou civiles dont il relève. 
+Le militaire est noté à un ou plusieurs degrés par les autorités militaires ou civiles dont il relève. Le nombre de degrés de
+notation et la désignation des autorités correspondantes sont déterminés par arrêté du ministre de la défense et, pour les
+militaires de la gendarmerie nationale, du ministre de l'intérieur, en considération du corps, du grade, de la fonction du
+militaire et de l'organisation propre à chaque force armée ou formation rattachée. 
 
 Pour établir la notation du militaire, ces autorités doivent prendre en considération l'ensemble des activités liées au
 service exécutées par l'intéressé au cours de la période de notation, à l'exception de celles exercées en tant que
-représentant de militaires auprès de la hiérarchie ou au sein d'un organisme consultatif. 
+représentant de militaires auprès de la hiérarchie ou au sein d'un organisme consultatif ou de concertation. 
 
-Le nombre de degrés de notation et la désignation des autorités correspondantes sont déterminés par le   ministre de la
-défense, ou par le ministre de l'intérieur pour les militaires de la gendarmerie nationale, en considération du corps, du
-grade, de la fonction du militaire et de l'organisation propre à chaque armée ou formation rattachée.
+Les membres du Conseil supérieur de la fonction militaire au titre des forces armées et formations rattachées ou désignés
+pour représenter une association professionnelle nationale militaire font l'objet d'une notation propre à chaque force armée
+et formation rattachée dont le premier degré est assuré par le secrétaire général du Conseil supérieur de la fonction
+militaire. 
+
+Les militaires bénéficiant d'un temps dédié complet de service pour l'exercice d'une fonction au sein d'une association
+professionnelle nationale de militaire, son union ou sa fédération représentative font l'objet d'une notation particulière
+propre à chaque force armée et formation rattachée. 
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre de la défense et, pour la gendarmerie
+nationale, du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 18
+	  - Décret n°2016-997 du 20 juillet 2016 - art. 26
 
 	**Cité par**:
 

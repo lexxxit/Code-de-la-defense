@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-09-01
+Version Consolidée au 2016-09-25
 
 # Partie législative
 
@@ -34722,19 +34722,15 @@ notamment pour prendre en compte les enseignements de l'expérience d'arrêt des
 	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
 
 
-##### Sous-section 4 : Sites et installations d'expérimentations nucléaires intéressant la défense.
-
 ###### Article R*1333-67-1
 
-Les sites et installations d'expérimentations nucléaires intéressant la défense, mentionnés au 3° de l'article L. 1333-15 et
-dont la liste est fixée par un arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie, sont définis
-par leur périmètre figurant sur un plan dont un exemplaire est transmis au préfet. 
+Les demandes d'autorisation de rejets liquides et gazeux et de prélèvements d'eau des systèmes nucléaires militaires sur
+leurs lieux habituels de stationnement sont instruites selon les modalités définies à l'article R. * 1333-51-1. 
 
-Toute modification de ce périmètre est soumise, selon le cas, à décision du ministre de la défense ou du ministre chargé de
-l'industrie, prise sur avis du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités
-intéressant la défense mentionné à l'article R. * 1333-67-5. 
-
-Le délégué y assure la surveillance en matière de protection de l'environnement, de sûreté nucléaire et de radioprotection.
+Si le lieu habituel de stationnement d'un système nucléaire militaire se situe dans un port militaire comprenant, dans ses
+limites fixées en application de l'article R. 3223-61, une installation nucléaire de base secrète, l'autorisation délivrée au
+titre du présent article peut être commune avec l'autorisation délivrée pour cette installation au titre de l'article R. *
+1333-51-1.
 
 **Liens relatifs à cet article**
 
@@ -34749,19 +34745,42 @@ Le délégué y assure la surveillance en matière de protection de l'environnem
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-1243 du 23 septembre 2016 - art. 3
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-51-1 (V)
+	  - Code de la défense. - art. R3223-61 (V)
 
-	**Nouveaux textes**:
 
-	  - Code de la défense. - art. R*1333-67-1-1 (M)
+##### Sous-section 4 : Sites et installations d'expérimentations nucléaires intéressant la défense.
+
+###### Article R*1333-67-1-1
+
+Les sites et installations d'expérimentations nucléaires intéressant la défense, mentionnés au 3° de l'article L. 1333-15 et
+dont la liste est fixée par un arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie, sont définis
+par leur périmètre figurant sur un plan dont un exemplaire est transmis au préfet. 
+
+Toute modification de ce périmètre est soumise, selon le cas, à décision du ministre de la défense ou du ministre chargé de
+l'industrie, prise sur avis du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités
+intéressant la défense mentionné à l'article R. * 1333-67-5. 
+
+Le délégué y assure la surveillance en matière de protection de l'environnement, de sûreté nucléaire et de radioprotection.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1333-15 (V)
+	  - Code de la défense. - art. R*1333-67-5 (V)
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. R*1333-67-1 (T)
 
 
 ###### Article R*1333-67-2
@@ -38241,7 +38260,15 @@ Le Premier ministre prend les mesures générales d'application de ces décision
 Le ministre de la défense est responsable de l'organisation, de la gestion, de la mise en condition d'emploi des forces
 nucléaires et de l'infrastructure qui leur est nécessaire. Il détermine la composition, l'organisation et le fonctionnement
 des moyens constituant les forces nucléaires et répartit ces moyens au sein de commandements de forces. Il fixe les
-attributions opérationnelles des commandants de ces forces.
+attributions opérationnelles des commandants de ces forces. 
+
+Les transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion s'effectuent sous la responsabilité du
+ministre de la défense. 
+
+Un arrêté conjoint non publié du ministre de la défense, du ministre de l'intérieur et du ministre chargé des transports
+définit les modalités d'organisation de ces transports, s'agissant de la planification, de la préparation, de la réalisation
+et du suivi de ces transports, ainsi que la répartition des responsabilités confiées par le ministre de la défense pour
+l'organisation de ces transports et la conduite à tenir en cas d'incident ou d'accident.
 
 **Liens relatifs à cet article**
 
@@ -38249,16 +38276,16 @@ attributions opérationnelles des commandants de ces forces.
 
 	  - Décret n°96-520 du 12 juin 1996 - art. 3 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-1118 du 17 septembre 2009 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2010-790 du 12 juillet 2010 - art. 1 (V)
 	  - Décret n°2017-637 du 25 avril 2017 (V)
 	  - Décret n°2017-637 du 25 avril 2017 - art. 1
 	  - Code de la défense. - art. R*1411-11-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 1
 
 
 ###### Article R*1411-4
@@ -38862,6 +38889,526 @@ ses observations.
 	**Cite**:
 
 	  - Code de la défense. - art. R*1411-11-15 (V)
+
+
+##### Sous-section 3 : Dispositions spécifiques au contrôle gouvernemental de l'intégrité des moyens de la dissuasion nucléaire pour les transports effectués par des moyens non militaires de matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion 
+
+##### Paragraphe 1 : Champ d'application 
+
+###### Article R*1411-11-18
+
+Sont soumis aux dispositions de la présente sous-section les transports effectués par voie routière sur la voie publique, par
+des moyens non militaires, de matières nucléaires affectées aux moyens nécessaires à la mise en œuvre de la politique de
+dissuasion, y compris les éléments combustibles de la propulsion navale, dont la liste est précisée à l'article R. *
+1411-11-19, réalisés entre deux installations nucléaires intéressant la dissuasion mentionnées à l'article L. 1411-1. 
+
+La présente sous-section ne s'applique pas aux transports des matières nucléaires liées aux éléments d'armes nucléaires, tels
+que définis par l'arrêté mentionné au troisième alinéa de l'article R. * 1411-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1411-1 (V)
+	  - Code de la défense. - art. R*1411-11-19 (V)
+	  - Code de la défense. - art. R*1411-3 (V)
+
+
+###### Article R*1411-11-19
+
+Sous réserve des dispositions du deuxième alinéa de l'article R. * 1411-11-33, la liste des matières nucléaires mentionnée à
+l'article R. * 1411-11-18 comprend le plutonium, l'uranium, le thorium, le tritium, le deutérium et le lithium 6. 
+
+A l'exception du deutérium, ces matières nucléaires sont, suivant leur nature et leur quantité, classées en trois catégories
+I, II et III, conformément au tableau figurant à l'article R. 1333-70. Le ministre de la défense détermine, par instruction
+non publiée, les dispositifs de sécurité applicables à chacune de ces catégories de matières transportées. 
+
+Pour garantir la protection du secret de la défense nationale, le ministre de la défense peut prévoir, par un arrêté non
+publié, des dispositions spéciales plus contraignantes que celles résultant de l'application du tableau mentionné à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-18 (V)
+	  - Code de la défense. - art. R*1411-11-21 (V)
+	  - Code de la défense. - art. R*1411-11-26 (V)
+	  - Code de la défense. - art. R*1411-11-32 (V)
+	  - Code de la défense. - art. R*1411-11-34 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-33 (V)
+	  - Code de la défense. - art. R1333-70 (V)
+
+
+###### Article R*1411-11-20
+
+Les dispositions de la présente sous-section s'appliquent sans préjudice des autres réglementations applicables aux matières
+nucléaires, notamment celles relatives à la sûreté, à la radioprotection et au transport de matières dangereuses.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+##### Paragraphe 2 : Autorisation et déclaration d'activités de transport
+
+###### Article R*1411-11-21
+
+Les activités de transport des matières nucléaires définies à l'article R. * 1411-11-19 sont soumises soit à une
+autorisation, soit à une déclaration selon les seuils mentionnés aux articles R. * 1411-11-22 et R. * 1411-11-29 et à un
+contrôle, dans les conditions définies par la présente sous-section. Un accord d'exécution est nécessaire pour chaque
+transport soumis à autorisation, sous réserve des dispositions du deuxième alinéa de l'article R. * 1411-11-33.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R592-14 (V)
+	  - Code de la défense. - art. R*1411-11-22 (V)
+	  - Code de la défense. - art. R*1411-11-35 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-19 (V)
+	  - Code de la défense. - art. R*1411-11-29 (V)
+	  - Code de la défense. - art. R*1411-11-33 (V)
+
+
+###### Article R*1411-11-22
+
+L'autorisation prévue à l'article R. * 1411-11-21 est requise si, pour un même transport dans le même véhicule, la quantité
+de l'un des éléments transportés atteint ou dépasse le seuil qui lui est fixé à l'article R. 1333-8. 
+
+L'opérateur de transport titulaire de cette autorisation est dénommé transporteur autorisé.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-21 (V)
+	  - Code de la défense. - art. R*1411-11-23 (V)
+	  - Code de la défense. - art. R*1411-11-29 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-8 (V)
+
+
+###### Article R*1411-11-23
+
+L'autorisation d'exercer l'activité de transport prévue à l'article R. * 1411-11-22 est délivrée par le ministre de la
+défense ou par une autorité habilitée par lui, après instruction de la demande d'autorisation par le directeur général
+adjoint de l'Institut de radioprotection et de sûreté nucléaire mentionné à l'article R. 592-14 du code de l'environnement.
+Une copie de l'autorisation est adressée au haut-commissaire à l'énergie atomique.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-22 (V)
+	  - Code de l'environnement - art. R592-14 (V)
+
+
+###### Article R*1411-11-26
+
+L'autorisation précise les conditions auxquelles est assujetti l'exercice de l'activité de transport. Elle fixe, en
+particulier, la durée de sa validité et les quantités maximales et les flux maximaux de matières nucléaires qu'elle couvre. 
+
+L'autorisation est donnée pour une ou plusieurs des matières définies à l'article R. * 1411-11-19.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-19 (V)
+
+
+###### Article R*1411-11-27
+
+Il doit être justifié de l'autorisation sur toute réquisition des agents chargés du contrôle de l'application des
+prescriptions de la présente sous-section.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+###### Article R*1411-11-28
+
+Tout projet de modification affectant l'un des éléments pris en compte lors de la délivrance de l'autorisation doit faire
+l'objet d'une notification préalable au ministre de la défense et au haut-commissaire à l'énergie atomique, chargé de
+l'exercice du contrôle défini à l'article R. * 1411-11-35. Le directeur général adjoint de l'Institut de radioprotection et
+de sûreté nucléaire, instructeur de la demande d'autorisation, est également informé. Si le ministre ou une autorité
+habilitée par lui estime que la modification envisagée n'est pas compatible avec les conditions et les limites prévues dans
+l'autorisation, il informe dans un délai de deux mois le titulaire qu'une nouvelle demande d'autorisation est requise et fixe
+les conditions dans lesquelles l'autorisation en vigueur peut être utilisée pendant l'instruction de la nouvelle demande.
+Dans le cas contraire, l'autorisation est modifiée pour prendre en compte le ou les nouveaux éléments.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-35 (V)
+
+
+###### Article R*1411-11-29
+
+Au-dessous des seuils mentionnés à l'article R. * 1411-11-22, l'activité de transport fait l'objet d'une déclaration auprès
+du ministre de la défense ou d'une autorité habilitée par lui, spécifiant les quantités de matières nucléaires concernées si
+la quantité de l'un des éléments transportés atteint ou dépasse les seuils fixés à l'article R. 1333-9. 
+
+L'opérateur de transport procédant à cette déclaration est dénommé le déclarant. 
+
+Sauf opposition ou réserve motivée notifiée par le ministre de la défense ou une autorité habilitée par lui dans le délai de
+deux mois à compter de la réception de la déclaration, le déclarant peut procéder au transport de matières nucléaires. 
+
+Les déclarants ne peuvent pas faire appel à un sous-traitant pour l'exécution des transports décrits à la présente sous-
+section. 
+
+Un arrêté non publié du ministre de la défense précise les modalités et la forme des déclarations d'activité de transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-21 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-22 (V)
+	  - Code de la défense. - art. R1333-9 (V)
+
+
+###### Article R*1411-11-30
+
+Lorsque le transporteur autorisé ou le déclarant décide l'arrêt de l'activité de transport, il en informe sans délai le
+ministre de la défense et le directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire compétent,
+ainsi que le haut-commissaire à l'énergie atomique.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+###### Article R*1411-11-31
+
+Tout incident ou accident affectant un transport de matières nucléaires est porté sans délai à la connaissance du ministre de
+la défense, du haut-commissaire à l'énergie atomique et du préfet de département, dans les conditions fixées par arrêté non
+publié du ministre de la défense, par tout ou partie des personnes suivantes : le transporteur autorisé, le déclarant,
+l'expéditeur ou l'escorte de gendarmerie.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+###### Article R1411-11-24
+
+La demande d'autorisation comprend : 
+
+1° Les nom, prénoms et adresse du pétitionnaire ou, lorsqu'il s'agit d'une personne morale, sa raison sociale ou sa
+dénomination, son siège et les nom, prénoms et qualité de son mandataire social ou de son principal dirigeant ; 
+
+2° La nature, la forme physico-chimique, les quantités maximales et les flux maximaux de matières nucléaires liées à
+l'activité du pétitionnaire ; 
+
+3° Un descriptif des moyens de transport utilisés ; 
+
+4° Toute information de nature à justifier l'aptitude du pétitionnaire à effectuer les transports prévus dans les conditions
+fixées par la présente sous-section ; 
+
+5° L'organisation et les moyens mis en place pour la protection et le contrôle des matières nucléaires, selon les modalités
+précisées par arrêté non publié du ministre de la défense. 
+
+La demande est accompagnée de la communication des nom, prénoms et qualité d'un représentant spécialement désigné par
+l'exploitant pour mettre en œuvre l'autorisation. 
+
+Les modalités détaillées de la demande et la forme de l'autorisation sont déterminées par arrêté non publié du ministre de la
+défense. 
+
+Toute personne qui prévoit de transporter des matières nucléaires peut solliciter du ministre de la défense, préalablement à
+l'engagement de la procédure d'autorisation, un avis sur tout ou partie des options qu'elle entend retenir pour assurer la
+protection des matières. 
+
+Les transporteurs autorisés ne peuvent pas faire appel à un sous-traitant pour l'exécution des transports décrits à la
+présente sous-section.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+###### Article R1411-11-25
+
+L'autorisation est délivrée dans un délai de trois mois. A l'expiration de ce délai, le silence de l'administration vaut
+rejet.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+
+##### Paragraphe 3 : Procédures spécifiques aux autorisations de transport
+
+###### Article R*1411-11-32
+
+Pour chaque transport effectué par un transporteur autorisé de matières nucléaires des catégories I et II définies dans le
+tableau mentionné à l'article R. * 1411-11-19, les véhicules utilisés doivent être agréés, après instruction de la demande
+d'agrément par le directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire compétent, par le
+ministre de la défense ou par une autorité habilitée par lui, dans des conditions fixées par arrêté non publié du ministre de
+la défense. 
+
+Les moyens de transport sont équipés d'un matériel permettant le suivi des transports en temps réel par les services de
+l'Etat et par l'Institut de radioprotection et de sûreté nucléaire, dans des conditions précisées par le même arrêté.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-1243 du 23 septembre 2016, les demandes d'autorisation de transport ou les
+déclarations de transport déposées avant l'entrée en vigueur dudit décret et en cours d'instruction à cette date sont
+instruites selon les procédures en vigueur à la date de leur dépôt.
+
+Les autorisations de transport délivrées avant la date d'entrée en vigueur dudit décret valent autorisation de transport au
+sens des articles R.* 1411-11-21 et suivants du code de la défense, dans leur rédaction résultant dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-19 (V)
+
+
+###### Article R*1411-11-33
+
+Les transports d'une quantité de matières nucléaires égale ou supérieure au seuil mentionné à l'article R. 1333-8, par un
+transporteur autorisé, sont subordonnés à un accord d'exécution. 
+
+Cette disposition n'est toutefois pas applicable aux transports d'uranium naturel, d'uranium appauvri, de deutérium et de
+thorium. 
+
+La demande d'accord d'exécution est déposée, avec un préavis minimum de vingt et un jours, auprès du directeur général
+adjoint de l'Institut de radioprotection et de sûreté nucléaire compétent qui la transmet avec son avis au ministre de la
+défense. 
+
+L'accord d'exécution est délivré, par le ministre de la défense ou par une autorité habilitée par lui, au transporteur
+autorisé, avec copie au directeur général adjoint de l'Institut de radioprotection et de sûreté nucléaire compétent. Le
+silence du ministre de la défense ou de l'autorité habilitée par lui, un jour franc avant la date prévue pour le transport,
+vaut rejet.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-19 (V)
+	  - Code de la défense. - art. R*1411-11-21 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. R1333-8 (V)
+
+
+###### Article R*1411-11-34
+
+Un arrêté non publié du ministre de la défense détermine les modalités de demande, d'instruction et de délivrance de l'accord
+d'exécution, pour chacune des catégories de matières nucléaires définies à l'article R. * 1411-11-19.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-19 (V)
+
+
+##### Paragraphe 4 : Exercice du contrôle
+
+###### Article R*1411-11-35
+
+Le contrôle prévu à l'article R. * 1411-11-21 a pour objet de vérifier le respect des spécifications de l'autorisation
+d'exercer l'activité de transport et des prescriptions notifiées au déclarant. Il porte sur l'application des obligations de
+la présente sous-section. 
+
+L'exercice de ce contrôle, dont les modalités sont définies par le ministre de la défense, est assuré par le haut-commissaire
+à l'énergie atomique. 
+
+Le haut-commissaire à l'énergie atomique rend compte sans délai au ministre de la défense de tout manquement aux obligations
+résultant des dispositions de la présente sous-section. 
+
+En cas de manquement aux spécifications de l'autorisation ou de méconnaissance des obligations résultant de la présente sous-
+section, le ministre de la défense ou une autorité habilitée par lui met le titulaire de l'autorisation en demeure de prendre
+les mesures prescrites dans un délai qu'il fixe. A l'expiration de ce délai, l'autorisation peut être suspendue ou retirée,
+ou la déclaration privée d'effet, lorsque les prescriptions de la mise en demeure ne sont pas respectées. 
+
+En cas d'urgence, la suspension de l'autorisation ou de l'activité déclarée est prononcée sans délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R*1411-11-21 (V)
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R*1411-11-28 (V)
 
 
 ##### Section 3 : Inspection des armements nucléaires.
@@ -40537,13 +41084,17 @@ l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R.
 
 Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
 2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
-dispositions intéressant la défense nationale.
+dispositions intéressant la défense nationale. 
+
+Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
+sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
+nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-284 du 10 mars 2016 - art. 5
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -40640,6 +41191,10 @@ titre VIII du présent livre :
 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à
 R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
 
+2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
+2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
+et modifiant le code de la défense ; 
+
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
 4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
@@ -40648,7 +41203,7 @@ R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 13
 
 	**Modifié par**:
 
-	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -40880,11 +41435,15 @@ Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dan
 2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
 dispositions intéressant la défense nationale.
 
+Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
+sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
+nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-284 du 10 mars 2016 - art. 5
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -41007,7 +41566,11 @@ VIII du présent livre :
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
 R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à
 R. 1333-19, 
-R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22,  R. 1338-1 à R. 1338-5 ; 
+
+2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
+2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
+et modifiant le code de la défense ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -41017,7 +41580,7 @@ R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1
 
 	**Modifié par**:
 
-	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -41246,11 +41809,15 @@ Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dan
 2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
 dispositions intéressant la défense nationale.
 
+Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
+sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
+nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-284 du 10 mars 2016 - art. 5
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -41381,6 +41948,10 @@ VIII du présent livre :
 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à
 R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
 
+2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
+2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
+et modifiant le code de la défense ;
+
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
 4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
@@ -41389,7 +41960,7 @@ R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1
 
 	**Modifié par**:
 
-	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 	**Cite**:
 
@@ -41611,6 +42182,10 @@ Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dan
 2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
 dispositions intéressant la défense nationale.
 
+Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
+sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
+nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -41636,7 +42211,7 @@ dispositions intéressant la défense nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2016-284 du 10 mars 2016 - art. 5
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 
 ###### Article R*1671-2
@@ -41713,6 +42288,10 @@ VIII du présent livre :
 1332-37 à R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1
 à R. 1338-5 ; 
 
+2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
+2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
+et modifiant le code de la défense ; 
+
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
 4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
@@ -41736,12 +42315,12 @@ VIII du présent livre :
 	  - Code de la défense. - art. R1338-1
 	  - Code de la défense. - art. R1511-2
 	  - Code de la défense. - art. R1671-4
-	  - Code de la défense. - art. R1681-1 (V)
+	  - Code de la défense. - art. R1681-1
 	  - Code de la défense. - art. R1682-1
 
 	**Modifié par**:
 
-	  - Décret n°2015-351 du 27 mars 2015 - art. 5 (V)
+	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
 
 
 ###### Article R1671-4

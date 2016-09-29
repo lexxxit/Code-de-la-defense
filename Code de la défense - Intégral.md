@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-09-25
+Version Consolidée au 2016-09-30
 
 # Partie législative
 
@@ -92417,6 +92417,96 @@ et destruction des munitions, mines, pièges, engins et explosifs sont fixées p
 	  - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
+#### TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES
+
+##### Chapitre unique
+
+###### Article R5141-1
+
+Lorsque les conventions et accords internationaux, notamment les stipulations de l'article 53 du règlement concernant les
+lois et coutumes de la guerre sur terre annexé à la convention de La Haye du 18 octobre 1907, ainsi que les lois et coutumes
+de la guerre l'autorisent, la procédure de saisie et d'incorporation au domaine de l'Etat des biens à caractère mobilier
+destinés à servir à la conduite d'hostilités qui, au cours de celles-ci, tombent au pouvoir des forces armées françaises est
+conduite dans les conditions fixées au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R5341-1 (V)
+	  - Code de la défense. - art. R5351-1 (V)
+	  - Code de la défense. - art. R5361-1 (V)
+	  - Code de la défense. - art. R5371-1 (V)
+
+
+###### Article R5141-2
+
+Le commandant opérationnel ordonne les opérations de saisie. Il prend, le cas échéant, toute mesure de conservation des biens
+saisis dans l'attente de leur incorporation au domaine de l'Etat. 
+
+Les opérations de saisie sont dirigées par un commissaire des armées. Il en dresse procès-verbal et signe tout inventaire ou
+autre acte destiné à assurer les droits du Trésor. En l'absence d'un commissaire des armées, le commandant de l'élément naval
+ou l'officier désigné par le commandant opérationnel est chargé des missions attribuées au commissaire des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-3
+
+Après les opérations de saisie, le commandant opérationnel peut, si d'impérieuses nécessités militaires l'exigent : 
+
+1° Ordonner la destruction des biens saisis ; 
+
+2° Autoriser le réemploi immédiat par les forces armées françaises et par les forces armées alliées des biens saisis et non
+encore incorporés au domaine de l'Etat ; 
+
+Le commandant opérationnel peut décider la distribution de biens saisis périssables aux populations civiles à fin de
+consommation immédiate. 
+
+Il peut, s'il y a lieu, transférer les biens saisis à une autorité nationale ou internationale compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-4
+
+Les documents relatifs aux opérations mentionnées aux articles précédents sont transmis au service de la trésorerie aux
+armées qui peut se faire présenter, sur place, les biens saisis. 
+
+Ce service prononce la prise de possession des biens non détruits, non réemployés, non distribués ou non transférés et leur
+incorporation au domaine de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-5
+
+Les biens à caractère mobilier incorporés au domaine de l'Etat dans les conditions fixées au présent chapitre sont, à la
+demande du ministre de la défense, affectés au ministère de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
 ### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES
 
 #### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES
@@ -92722,7 +92812,8 @@ service d'infrastructure de la défense est remplacée par la référence à la 
 
 ###### Article R5341-1
 
-Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R.
+5141-1 à R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -92732,14 +92823,15 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 51
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de la défense. - art. R5111-1
-	  - Code de la défense. - art. R5131-11 (V)
-	  - Code de la défense. - art. R5131-16
-	  - Code de la défense. - art. R5131-5 (V)
+	  - Code de la défense. - art. R5131-11
+	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5131-5
+	  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5341-2-1
@@ -92825,7 +92917,8 @@ française.
 
 ###### Article R5351-1
 
-Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R. 5141-1 à
+R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -92835,14 +92928,15 @@ Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de la défense. - art. R5111-1
-	  - Code de la défense. - art. R5131-11 (V)
-	  - Code de la défense. - art. R5131-16
-	  - Code de la défense. - art. R5131-5 (V)
+	  - Code de la défense. - art. R5131-11
+	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5131-5
+	  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5351-2-1
@@ -92928,7 +93022,8 @@ Calédonie.
 
 ###### Article R5361-1
 
-Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R. 5141-1 à
+R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -92938,14 +93033,15 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 	**Cite**:
 
 	  - Code de la défense. - art. R5111-1
-	  - Code de la défense. - art. R5131-11 (V)
-	  - Code de la défense. - art. R5131-16
-	  - Code de la défense. - art. R5131-5 (V)
+	  - Code de la défense. - art. R5131-11
+	  - Code de la défense. - art. R5131-16 (V)
+	  - Code de la défense. - art. R5131-5
+	  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5361-2-1
@@ -93018,7 +93114,8 @@ antarctiques françaises.
 ###### Article R5371-1
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3, R. 5131-5 et R. 5131-11.
+applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R.
+5141-1 à R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -93028,6 +93125,7 @@ applicables aux Terres australes et antarctiques françaises les articles R. 511
 	  - Code de la défense. - art. R5111-1
 	  - Code de la défense. - art. R5131-11 (V)
 	  - Code de la défense. - art. R5131-5 (V)
+	  - Code de la défense. - art. R5141-1 (V)
 
 	**Codifié par**:
 
@@ -93035,7 +93133,7 @@ applicables aux Terres australes et antarctiques françaises les articles R. 511
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+	  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 
 #### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN

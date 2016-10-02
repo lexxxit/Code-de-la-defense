@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-09-30
+Version Consolidée au 2016-10-03
 
 # Partie législative
 
@@ -32781,9 +32781,18 @@ nucléaires, notamment celles relatives à la radioprotection et au transport de
 
 ###### Article R1333-3
 
-L'autorisation d'importation, d'exportation, d'élaboration, de détention, de transfert, d'utilisation et de transport, prévue
-à l'article L. 1333-2 du présent code, est délivrée par le ministre de la défense pour les matières nucléaires destinées aux
-besoins de la défense et par le ministre chargé de l'énergie pour les matières destinées à tout autre usage. 
+L'autorisation prévue à l'article L. 1333-2 est délivrée par le ministre de la défense quand elle concerne : 
+
+1° L'élaboration, la détention, le transfert et l'utilisation de matières nucléaires dans des établissements ou des
+installations placés directement sous son autorité ; 
+
+2° Les transports nationaux de matières nucléaires entre des établissements ou des installations placés directement sous son
+autorité ; 
+
+3° Les transports internationaux, l'importation et l'exportation de matières nucléaires à destination ou en provenance des
+établissements ou des installations placés directement sous son autorité. 
+
+L'autorisation est délivrée par le ministre chargé de l'énergie dans tous les autres cas. 
 
 Le ministre de la défense et le ministre chargé de l'énergie consultent le ministre de l'intérieur sur les demandes
 d'autorisation ainsi que le ministre des affaires étrangères sur celles qui impliquent des mouvements d'importation ou
@@ -32821,7 +32830,7 @@ favorable.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 1
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 1
 
 	**Cite**:
 
@@ -32935,12 +32944,12 @@ globalement ou pour chaque installation.
 
 Il doit être justifié de l'autorisation sur toute réquisition des agents chargés du contrôle de l'application des
 prescriptions de la présente section. Le justificatif doit en particulier être présenté au service des douanes lors de
-l'importation, de l'exportation et du transport sous douane de matières nucléaires.
+l'importation, de l'exportation et du transport sous douane de matières nucléaires. 
 
 L'autorisation peut être suspendue ou révoquée en cas de méconnaissance des obligations résultant du présent chapitre, après
 que le titulaire de l'autorisation a été mis en mesure de présenter par écrit ses observations. Sans préjudice, le cas
-échéant, de la confiscation en application de l'article L. 1333-9 du présent code, la décision de suspension ou de révocation
-indique la destination que le titulaire doit donner aux matières en cause.
+échéant, de la confiscation en application de l'article L. 1333-13-7 du présent code, la décision de suspension ou de
+révocation indique la destination que le titulaire doit donner aux matières en cause.
 
 **Liens relatifs à cet article**
 
@@ -32950,11 +32959,11 @@ indique la destination que le titulaire doit donner aux matières en cause.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 1
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-9
+	  - Code de la défense. - art. L1333-13-7
 
 	**Cité par**:
 
@@ -33271,7 +33280,8 @@ I.-Les transports, par tous modes, autres que ceux empruntant exclusivement une 
 d'une quantité de matières nucléaires égale ou supérieure au seuil mentionné à l'article R. 1333-8, par un opérateur
 titulaire d'une autorisation mentionnée à l'article R. 1333-3, sont subordonnés à un accord d'exécution. 
 
-Cette disposition n'est toutefois pas applicable aux transports d'uranium naturel, d'uranium appauvri et de thorium. 
+Cette disposition n'est toutefois pas applicable aux transports nationaux d'uranium naturel, d'uranium appauvri et de
+thorium. 
 
 II.-La demande d'accord d'exécution est déposée, avec un préavis minimum de quinze jours, auprès du directeur général adjoint
 de l'Institut de radioprotection et de sûreté nucléaire dont la fonction est instituée par l'article 14 du décret n° 2002-254
@@ -33354,7 +33364,7 @@ un jour franc avant la date prévue pour le transport, vaut accord d'exécution.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 1
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 3
 
 	**Cite**:
 
@@ -35564,9 +35574,9 @@ associé à la matière i tel que défini dans le tableau ci-dessus.
 
 ###### Article R1333-71
 
-Les agents chargés du contrôle de l'application des dispositions de la sous-section 1 du présent chapitre sont spécialement
-et individuellement habilités à cet effet par le ministre chargé de l'énergie, en application de l'article L. 1333-5 du
-présent code. 
+Les agents chargés du contrôle de l'application des dispositions de la section 1 du présent chapitre sont spécialement et
+individuellement habilités à cet effet par le ministre chargé de l'énergie, en application de l'article L. 1333-5 du présent
+code. 
 
 Préalablement à chaque inspection, le ministre chargé de l'énergie en notifie la date et l'objet au titulaire de
 l'autorisation ou au déclarant intéressé. Dans le cas d'une inspection inopinée, la notification peut avoir lieu le jour
@@ -35582,10 +35592,6 @@ R. 1332-29 et R. 1332-30 du présent code.
 
 	  - Décret n°81-558 du 15 mai 1981 - art. 12 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 18 août 2010 - art. 35 (V)
@@ -35595,9 +35601,14 @@ R. 1332-29 et R. 1332-30 du présent code.
 	  - Code de la défense. - art. R1651-3 (M)
 	  - Code de la défense. - art. R1661-3 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 4
+
 	**Cite**:
 
 	  - Code de la défense. - art. L1332-7
+	  - Code de la défense. - art. L1333-5
 	  - Code de la défense. - art. R1332-29
 
 
@@ -35688,17 +35699,23 @@ sous-section 1 du présent chapitre sont celles définies à l'article R. 1333-7
 
 ###### Article R1333-75
 
-Le ministre de la défense désigne, par arrêté, les agents chargés d'exercer le contrôle auquel est soumis le titulaire de
-l'autorisation ou le déclarant. 
+Sans préjudice de l'application des dispositions de l'article 11 du décret n° 2016-311 du 17 mars 2016 relatif à
+l'organisation et au fonctionnement du Commissariat à l'énergie atomique et aux énergies alternatives, un arrêté du ministre
+de la défense désigne les agents auxquels il confie l'exercice du contrôle auquel sont soumis le titulaire de l'autorisation
+ou le déclarant mentionnés à la section 1 du présent chapitre. 
 
-Ils lui rendent compte sans délai de tout manquement par rapport aux obligations résultant des dispositions du présent
-chapitre.
+Il est rendu compte sans délai au ministre de la défense de tout manquement aux obligations résultant des dispositions du
+présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2009-1120 du 17 septembre 2009 - art. 2
+	  - Décret n°2016-311 du 17 mars 2016
+
+	**Modifié par**:
+
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 5
 
 	**Cité par**:
 
@@ -41189,7 +41206,10 @@ titre VIII du présent livre :
 
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à
-R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5 ; 
+R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5, les dispositions des articles R. 1333-3,
+R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction résultant du décret n° 2016-1296 du 30
+septembre 2016 modifiant diverses dispositions du code de la défense relatives à la protection et au contrôle des matières
+nucléaires ; 
 
 2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
 2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
@@ -41201,12 +41221,9 @@ et modifiant le code de la défense ;
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
-
 	**Cite**:
 
+	  - Décret n°2016-1296 du 30 septembre 2016
 	  - Code de la défense. - art. D1641-6
 	  - Code de la défense. - art. R1132-12
 	  - Code de la défense. - art. R1142-14
@@ -41218,7 +41235,12 @@ et modifiant le code de la défense ;
 	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1333-1
+	  - Code de la défense. - art. R1333-17
+	  - Code de la défense. - art. R1333-3
+	  - Code de la défense. - art. R1333-6
 	  - Code de la défense. - art. R1333-70
+	  - Code de la défense. - art. R1333-71
+	  - Code de la défense. - art. R1333-75
 	  - Code de la défense. - art. R1336-33
 	  - Code de la défense. - art. R1337-1
 	  - Code de la défense. - art. R1337-18
@@ -41227,6 +41249,10 @@ et modifiant le code de la défense ;
 	  - Code de la défense. - art. R1641-3
 	  - Code de la défense. - art. R1681-1
 	  - Code de la défense. - art. R1682-1
+
+	**Modifié par**:
+
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
 
 
 ###### Article R1641-3
@@ -41566,7 +41592,10 @@ VIII du présent livre :
 2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
 R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à
 R. 1333-19, 
-R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22,  R. 1338-1 à R. 1338-5 ; 
+R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5, les
+dispositions des articles R. 1333-3, R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction
+résultant du décret n° 2016-1296 du 30 septembre 2016 modifiant diverses dispositions du code de la défense relatives à la
+protection et au contrôle des matières nucléaires ; 
 
 2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
 2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
@@ -41580,7 +41609,7 @@ et modifiant le code de la défense ;
 
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
 
 	**Cite**:
 
@@ -41594,7 +41623,12 @@ et modifiant le code de la défense ;
 	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1333-1
+	  - Code de la défense. - art. R1333-17
+	  - Code de la défense. - art. R1333-3
+	  - Code de la défense. - art. R1333-6
 	  - Code de la défense. - art. R1333-70
+	  - Code de la défense. - art. R1333-71
+	  - Code de la défense. - art. R1333-75
 	  - Code de la défense. - art. R1336-33
 	  - Code de la défense. - art. R1337-1
 	  - Code de la défense. - art. R1337-18
@@ -41946,11 +41980,14 @@ VIII du présent livre :
 
 2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à
-R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5 ; 
+R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5, les dispositions des articles R. 1333-3,
+R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction résultant du décret n° 2016-1296 du 30
+septembre 2016 modifiant diverses dispositions du code de la défense relatives à la protection et au contrôle des matières
+nucléaires ; 
 
 2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
 2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
-et modifiant le code de la défense ;
+et modifiant le code de la défense ; 
 
 3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
 
@@ -41960,7 +41997,7 @@ et modifiant le code de la défense ;
 
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
+	  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
 
 	**Cite**:
 
@@ -41974,7 +42011,12 @@ et modifiant le code de la défense ;
 	  - Code de la défense. - art. R1332-41-1
 	  - Code de la défense. - art. R1332-42
 	  - Code de la défense. - art. R1333-1
+	  - Code de la défense. - art. R1333-17
+	  - Code de la défense. - art. R1333-3
+	  - Code de la défense. - art. R1333-6
 	  - Code de la défense. - art. R1333-70
+	  - Code de la défense. - art. R1333-71
+	  - Code de la défense. - art. R1333-75
 	  - Code de la défense. - art. R1336-33
 	  - Code de la défense. - art. R1337-1
 	  - Code de la défense. - art. R1337-18

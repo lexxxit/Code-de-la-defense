@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-10-03
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -8364,6 +8364,31 @@ attaqués, afin de les alerter sur la vulnérabilité ou la compromission de leu
 	  - Code de la défense. - art. L1332-1
 
 
+###### Article L2321-4
+
+Pour les besoins de la sécurité des systèmes d'information, l'obligation prévue à l'article 40 du code de procédure pénale
+n'est pas applicable à l'égard d'une personne de bonne foi qui transmet à la seule autorité nationale de sécurité des
+systèmes d'information une information sur l'existence d'une vulnérabilité concernant la sécurité d'un système de traitement
+automatisé de données. 
+
+L'autorité préserve la confidentialité de l'identité de la personne à l'origine de la transmission ainsi que des conditions
+dans lesquelles celle-ci a été effectuée. 
+
+L'autorité peut procéder aux opérations techniques strictement nécessaires à la caractérisation du risque ou de la menace
+mentionnés au premier alinéa du présent article aux fins d'avertir l'hébergeur, l'opérateur ou le responsable du système
+d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 47
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+
+
 ##### Chapitre II : Cryptologie
 
 ###### Article L2322-1
@@ -15297,25 +15322,23 @@ applicables localement.
 ###### Article L2441-1
 
 Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2336-1
 à L. 2353-13. 
 
-Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2015-1534 du 26 novembre 2015
-prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015
-et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
+L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'ordonnance n° 2015-1534 du 26
+novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
+concernant la défense, les anciens combattants et l'action de l'Etat en mer. 
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale.
+pénale. 
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
-2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2016-982 du 20 juillet 2016
-prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015
-.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -15333,7 +15356,7 @@ article 30 de la loi n° 2015-917 du 28 juillet 2015
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 	**Cité par**:
 
@@ -15464,25 +15487,23 @@ ayant le même objet applicables localement.
 ###### Article L2451-1
 
 Sont applicables en Polynésie française, les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L.
-2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, L. 2344-1 à L. 2344-11,
+2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, L. 2344-1 à L. 2344-11,
 L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13. 
 
-Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2015-1534 du 26 novembre 2015
-prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015
-et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
+L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'ordonnance n° 2015-1534 du 26
+novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
+concernant la défense, les anciens combattants et l'action de l'Etat en mer. 
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale.
+pénale. 
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
-2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2016-982 du 20 juillet 2016
-prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015
-.
+2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 **Liens relatifs à cet article**
 
@@ -15495,7 +15516,7 @@ article 30 de la loi n° 2015-917 du 28 juillet 2015
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article L2451-2
@@ -15669,16 +15690,19 @@ autorisation.
 ###### Article L2461-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7, L. 2336-1
-à L. 2353-13. 
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à    L. 2321-4, L. 2322-1 à L. 2335-7, L.
+2336-1 à L. 2353-13. 
+
+L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique. 
 
 Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'ordonnance n° 2015-1534 du 26
 novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
-concernant la défense, les anciens combattants et l'action de l'Etat en mer.
+concernant la défense, les anciens combattants et l'action de l'Etat en mer. 
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale.
+pénale. 
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
@@ -15693,7 +15717,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 	**Cite**:
 
@@ -15850,19 +15874,19 @@ objet applicables localement.
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
-2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-3, L. 2322-1 à L. 2335-7,
+2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7,
 L. 2336-1 à L. 2353-13. 
 
-Les dispositions de l'article L. 2332-6
-sont applicables dans leur rédaction résultant de l'
-ordonnance n° 2015-1534 du 26 novembre 2015 
-prise en application de l'
-article 30 de la loi n° 2015-917 du 28 juillet 2015 
-et portant diverses dispositions concernant la défense, les anciens combattants et l'action de l'Etat en mer.
+L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
+numérique. 
+
+Les dispositions de l'article L. 2332-6 sont applicables dans leur rédaction résultant de l'ordonnance n° 2015-1534 du 26
+novembre 2015 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015 et portant diverses dispositions
+concernant la défense, les anciens combattants et l'action de l'Etat en mer. 
 
 L'article L. 2339-10 est applicable dans sa rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte
 contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure
-pénale.
+pénale. 
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
@@ -15892,7 +15916,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 14
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
 
 
 ###### Article L2471-2

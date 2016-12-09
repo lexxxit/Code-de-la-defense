@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-10-27
+Version Consolidée au 2016-12-10
 
 # Partie législative
 
@@ -3524,8 +3524,8 @@ notifiées à l'Etat du pavillon par la voie diplomatique.
 
 ###### Article L1521-9
 
-Est puni de 150 000 euros d'amende, le refus d'obtempérer aux injonctions faites en vertu des articles L. 1521-3, L. 1521-4
-et L. 1521-5. 
+Est puni d'un an d'emprisonnement et de 150 000 euros d'amende, le refus d'obtempérer aux injonctions faites en vertu des
+articles L. 1521-3, L. 1521-4 et L. 1521-5. 
 
 Outre les officiers et les agents de police judiciaire agissant conformément au code de procédure pénale, les commandants,
 les commandants en second et les officiers en second des bâtiments de l'Etat ainsi que les commandants de bord des aéronefs
@@ -3534,33 +3534,37 @@ de l'Etat sont habilités à constater l'infraction mentionnée au présent arti
 La juridiction compétente pour connaître de ce délit est celle du port ou de la position où le navire a été dérouté ou, à
 défaut, celle de la résidence administrative de l'agent qui a constaté l'infraction mentionnée au présent article. 
 
-Le procès-verbal est transmis dans les quinze jours au procureur de la République de la juridiction compétente.
+Le procès-verbal est transmis dans les quinze jours au procureur de la République de la juridiction compétente. 
+
+Les personnes coupables de la présente infraction encourent également, à titre de peine complémentaire, la confiscation du
+navire, embarcation, engin nautique, chose ou installation ayant servi à l'infraction, dans les conditions prévues à
+l'article 131-21 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°94-589 du 15 juillet 1994 - art. 8 (M)
 	  - Loi n°94-589 du 15 juillet 1994 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+	  - Ordonnance n°2004-1374 du 20 décembre 2004
+	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
 	**Modifié par**:
 
-	  - Loi n°2005-371 du 22 avril 2005 - art. 1 () JORF 23 avril 2005
+	  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 60
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21
+	  - Code de la défense. - art. L1521-3
+	  - Code de la défense. - art. L1521-4
+	  - Code de la défense. - art. L1521-5
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L1521-10 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. L1521-3 (V)
-	  - Code de la défense. - art. L1521-4 (V)
-	  - Code de la défense. - art. L1521-5 (V)
 
 
 ###### Article L1521-10

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-12-10
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -17776,6 +17776,10 @@ relaté ou témoigné, de bonne foi, aux autorités judiciaires ou administrativ
 ou susceptibles d'être qualifiés de conflit d'intérêts au sens de l'article L. 4122-3 dont il aurait eu connaissance dans
 l'exercice de ses fonctions. 
 
+Aucun militaire ne peut être sanctionné ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, pour avoir
+signalé une alerte dans le respect des articles 6 et 7 et du I de l'article 8 de la loi n° 2016-1691 du 9 décembre 2016
+relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique. 
+
 Toute disposition ou tout acte contraire est nul de plein droit. 
 
 Dans le cas d'un conflit d'intérêts, le militaire doit avoir préalablement alerté en vain l'une des autorités hiérarchiques
@@ -17794,15 +17798,16 @@ peines prévues au premier alinéa de l'article 226-10 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2016-483 du 20 avril 2016 - art. 3 (V)
-
 	**Cite**:
 
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 6 (V)
 	  - Code pénal - art. 226-10
-	  - Code de la défense. - art. L4122-10 (V)
-	  - Code de la défense. - art. L4122-3 (V)
+	  - Code de la défense. - art. L4122-10
+	  - Code de la défense. - art. L4122-3
+
+	**Modifié par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 15 (V)
 
 	**Cité par**:
 
@@ -24272,9 +24277,9 @@ l'activité en application des articles L. 2151-3, L. 4231-4 et L. 4231-5.
 
 ###### Article L4341-1
 
-Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, dans les
-îles Wallis et Futuna les dispositions des articles L. 4111-1 à L. 4271-5. 
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la
+lutte contre la corruption et à la modernisation de la vie économique, dans les îles Wallis et Futuna les dispositions des
+articles L. 4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
 4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
@@ -24295,7 +24300,7 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -24304,9 +24309,9 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 ###### Article L4351-1
 
-Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, en Polynésie
-française les dispositions des articles L. 4111-1 à L. 4271-5. 
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la
+lutte contre la corruption et à la modernisation de la vie économique, en Polynésie française les dispositions des articles
+L. 4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
 4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
@@ -24327,7 +24332,7 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -24336,9 +24341,9 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 ###### Article L4361-1
 
-Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, en Nouvelle-
-Calédonie les dispositions des articles L. 4111-1 à L. 4271-5. 
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la
+lutte contre la corruption et à la modernisation de la vie économique, en Nouvelle-Calédonie les dispositions des articles L.
+4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
 4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
@@ -24359,7 +24364,7 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
@@ -24368,9 +24373,9 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
 ###### Article L4371-1
 
-Sont applicables, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
-organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale, aux Terres
-australes et antarctiques françaises les dispositions des articles L. 4111-1 à L. 4145-3. 
+Sont applicables, dans leur rédaction résultant de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la
+lutte contre la corruption et à la modernisation de la vie économique, aux Terres australes et antarctiques françaises les
+dispositions des articles L. 4111-1 à L. 4145-3. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
 4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16 et L. 4141-7 sont applicables dans leur rédaction résultant de
@@ -24386,7 +24391,7 @@ l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 3
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 16
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
 
 
 ## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES

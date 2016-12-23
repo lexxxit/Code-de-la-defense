@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-24
 
 # Partie législative
 
@@ -57288,6 +57288,8 @@ pénal.
 
 ##### Chapitre II : Zones protégées
 
+##### Section 1 : Dispositions générales
+
 ###### Article D2362-2
 
 Les autorités compétentes pour définir, au nom du ministre de la défense, le besoin de protection des installations sont : 
@@ -57313,9 +57315,9 @@ les installations relevant de leur responsabilité.
 	  - Code de la défense. - art. D2471-5 (M)
 	  - Code de la défense. - art. D3121-24 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 
 ###### Article D2362-3
@@ -57340,9 +57342,9 @@ Ces autorités sont habilitées à déléguer leur signature.
 	  - Arrêté du 22 décembre 2015 - art. 5 (V)
 	  - Code de la défense. - art. D2362-4 (M)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-213 du 25 février 2015 - art. 20
+	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 	**Cite**:
 
@@ -57363,13 +57365,13 @@ la défense, par délégation de signature, procéder aux actes prévus à l'art
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2362-3
+	  - Code de la défense. - art. D2362-3 (M)
 
 	**Cité par**:
 
@@ -57383,14 +57385,86 @@ R. 413-5 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 413-7 (V)
-	  - Code pénal - art. R413-1 (V)
+	  - Code pénal - art. 413-7
+	  - Code pénal - art. R413-1
+
+
+##### Section 2 : Dispositions relatives à certaines enquêtes préalables
+
+###### Article R2362-5
+
+Peuvent donner lieu aux enquêtes mentionnées au II de l'article L. 2381-1 : 
+
+1° Les décisions relatives au recrutement de personnels civils par l'autorité militaire à l'étranger ; 
+
+2° Les décisions permettant, à l'étranger, d'accéder à des zones à accès réservé ou placées sous le contrôle de l'autorité
+militaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-646 du 26 avril 2017 (V)
+	  - Code de la défense. - art. R2362-6 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-646 du 26 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2381-1
+
+
+###### Article R2362-6
+
+En application du II de l'article L. 2381-1, les personnes sont informées par tout moyen, lors du dépôt de leur demande,
+qu'elles feront l'objet d'une enquête préalable et que celle-ci donnera lieu à la consultation des données personnelles
+figurant dans les traitements mis en œuvre par les services spécialisés de renseignement relevant du ministère de la
+défense. 
+
+Les intéressés en sont informés : 
+
+1° Pour les décisions prises en application du 1° de l'article R. 2362-5, par l'autorité chargée du recrutement ; 
+
+2° Pour les décisions prises en application du 2° du même article, par l'autorité qui délivre les autorisations d'accès.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-646 du 26 avril 2017 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2381-1 (V)
+	  - Code de la défense. - art. R2362-5 (V)
+
+
+###### Article R2362-7
+
+Ces  enquêtes sont menées par des agents des services spécialisés de  renseignement du ministère de la défense
+individuellement désignés et  spécialement habilités par l'autorité dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 
 ##### Chapitre III : Zones de défense hautement sensibles

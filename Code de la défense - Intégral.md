@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -7927,16 +7927,18 @@ l'article 413-9 du code pénal.
 
 ##### Chapitre II : Commission consultative du secret de la défense nationale
 
+##### Chapitre II : Commission du secret de la défense nationale
+
 ###### Article L2312-1
 
-La Commission consultative du secret de la défense nationale est une autorité administrative indépendante. Elle est chargée
-de donner un avis sur la déclassification et la communication d'informations ayant fait l'objet d'une classification en
-application des dispositions de l'article 413-9 du code pénal, à l'exclusion des informations dont les règles de
-classification ne relèvent pas des seules autorités françaises.
+La Commission du secret de la défense nationale est une autorité administrative indépendante. Elle est chargée de donner un
+avis sur la déclassification et la communication d'informations ayant fait l'objet d'une classification en application des
+dispositions de l'article 413-9 du code pénal, à l'exclusion des informations dont les règles de classification ne relèvent
+pas des seules autorités françaises.
 
-L'avis de la Commission consultative du secret de la défense nationale est rendu à la suite de la demande d'une juridiction
-française ou du président d'une des commissions permanentes de l'Assemblée nationale ou du Sénat chargées des affaires de
-sécurité intérieure, de la défense ou des finances.
+L'avis de la Commission du secret de la défense nationale est rendu à la suite de la demande d'une juridiction française ou
+du président d'une des commissions permanentes de l'Assemblée nationale ou du Sénat chargées des affaires de sécurité
+intérieure, de la défense ou des finances.
 
 **Liens relatifs à cet article**
 
@@ -7946,7 +7948,7 @@ sécurité intérieure, de la défense ou des finances.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 	**Cite**:
 
@@ -7955,7 +7957,7 @@ sécurité intérieure, de la défense ou des finances.
 
 ###### Article L2312-2
 
-La Commission consultative du secret de la défense nationale comprend cinq membres :
+La Commission du secret de la défense nationale comprend cinq membres :
 
 1° Un président, un vice-président qui le supplée en cas d'absence ou d'empêchement et un membre choisis par le Président de
 la République sur une liste de six membres du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes, établie
@@ -7969,18 +7971,12 @@ de la Cour des comptes et comportant un nombre égal de femmes et d'hommes ;
 Les trois membres mentionnés au 1° comprennent au moins une femme et un homme.
 
 Pour les membres mentionnés aux 2° et 3°, le membre succédant à une femme est un homme et celui succédant à un homme est une
-femme. Toutefois, en cas d'application de la deuxième phrase du dernier alinéa du présent article, le nouveau membre désigné
-est de même sexe que celui qu'il remplace.
+femme. Toutefois, en cas de désignation en vue du remplacement d'un membre dont le mandat a pris fin avant son terme normal,
+le nouveau membre désigné est de même sexe que celui qu'il remplace.
 
 Le mandat des membres de la commission n'est pas renouvelable.
 
 Le mandat des membres non parlementaires de la commission est de six ans.
-
-Sauf démission, il ne peut être mis fin aux fonctions de membre de la commission qu'en cas d'empêchement constaté par celle-
-ci. Les membres de la commission désignés en remplacement de ceux dont le mandat a pris fin avant son terme normal sont
-nommés pour la durée restant à courir dudit mandat. Par dérogation au septième alinéa, lorsque leur nomination est intervenue
-moins de deux ans avant l'expiration du mandat de leur prédécesseur, ils peuvent être renouvelés en qualité de membre de la
-commission, sous réserve des cinquième et sixième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -8002,41 +7998,19 @@ commission, sous réserve des cinquième et sixième alinéas.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 11
-
-
-###### Article L2312-3
-
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au       programme de la mission
-"Direction de l'action du Gouvernement" relatif à la protection des droits et des libertés fondamentales . 
-
-Le président est ordonnateur des dépenses de la commission. Il nomme les agents de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°98-567 du 8 juillet 1998 - art. 3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 152
-
-	**Abrogé par**:
-
 	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 
 ###### Article L2312-4
 
 Une juridiction française dans le cadre d'une procédure engagée devant elle ou le président d'une des commissions permanentes
-de l'Assemblée nationale ou du Sénat chargées des affaires de sécurité intérieure, de la défense ou des finances  peut
+de l'Assemblée nationale ou du Sénat chargées des affaires de sécurité intérieure, de la défense ou des finances peut
 demander la déclassification et la communication d'informations, protégées au titre du secret de la défense nationale, à
 l'autorité administrative en charge de la classification. 
 
 Cette demande est motivée.
 
-L'autorité administrative saisit sans délai la Commission consultative du secret de la défense nationale.
+L'autorité administrative saisit sans délai la Commission du secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -8050,16 +8024,16 @@ L'autorité administrative saisit sans délai la Commission consultative du secr
 	  - Code de la défense. - art. L4123-4 (V)
 	  - Code de la sécurité intérieure - art. L861-1 (V)
 	  - Code de procédure pénale - art. 230-2 (V)
-	  - Code de procédure pénale - art. 56-4 (VD)
+	  - Code de procédure pénale - art. 56-4 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 
 ###### Article L2312-5
 
-Le président de la Commission consultative du secret de la défense nationale  peut mener toutes investigations utiles. 
+Le président de la Commission du secret de la défense nationale peut mener toutes investigations utiles. 
 
 Les membres de la commission sont autorisés à connaître de toute information classifiée dans le cadre de leur mission. 
 
@@ -8069,9 +8043,7 @@ pénal pour les faits, actes ou renseignements dont ils ont pu avoir connaissanc
 Pour l'accomplissement de sa mission, la commission, ou sur délégation de celle-ci son président, est habilitée, nonobstant
 les dispositions des articles 56 et 97 du code de procédure pénale, à procéder à l'ouverture des scellés des éléments
 classifiés qui lui sont remis. La commission en fait mention dans son procès-verbal de séance. Les documents sont restitués à
-l'autorité administrative par la commission lors de la transmission de son avis. 
-
-La commission établit son règlement intérieur.
+l'autorité administrative par la commission lors de la transmission de son avis.
 
 **Liens relatifs à cet article**
 
@@ -8081,7 +8053,7 @@ La commission établit son règlement intérieur.
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 	**Cite**:
 
@@ -8108,11 +8080,10 @@ motif que ce soit et prennent toutes mesures utiles pour la faciliter.
 
 ###### Article L2312-7
 
-La Commission consultative du secret de la défense nationale émet un avis dans un délai de deux mois à compter de sa saisine.
-Cet avis prend en considération, d'une part, les missions du service public de la justice, le respect de la présomption
-d'innocence et les droits de la défense, ou l'exercice du pouvoir de contrôle du Parlement, d'autre part, le respect des
-engagements internationaux de la France ainsi que la nécessité de préserver les capacités de défense et la sécurité des
-personnels.
+La Commission du secret de la défense nationale émet un avis dans un délai de deux mois à compter de sa saisine. Cet avis
+prend en considération, d'une part, les missions du service public de la justice, le respect de la présomption d'innocence et
+les droits de la défense, ou l'exercice du pouvoir de contrôle du Parlement, d'autre part, le respect des engagements
+internationaux de la France ainsi que la nécessité de préserver les capacités de défense et la sécurité des personnels.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -8133,20 +8104,20 @@ L'avis de la commission est transmis à l'autorité administrative ayant procéd
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 	**Cité par**:
 
 	  - Code de la défense. - art. L2312-7-1 (VT)
-	  - Code de la défense. - art. L2312-8 (M)
+	  - Code de la défense. - art. L2312-8 (V)
 
 
 ###### Article L2312-8
 
-Dans le délai de quinze jours francs à compter de la réception de l'avis de la Commission consultative du secret de la
-défense nationale, ou à l'expiration du délai de deux mois mentionné à l'article L. 2312-7, l'autorité administrative notifie
-sa décision, assortie du sens de l'avis, à la juridiction ou au président de la commission parlementaire  ayant demandé la
-déclassification et la communication d'informations classifiées. 
+Dans le délai de quinze jours francs à compter de la réception de l'avis de la Commission du secret de la défense nationale,
+ou à l'expiration du délai de deux mois mentionné à l'article L. 2312-7, l'autorité administrative notifie sa décision,
+assortie du sens de l'avis, à la juridiction ou au président de la commission parlementaire ayant demandé la déclassification
+et la communication d'informations classifiées. 
 
 Le sens de l'avis de la commission est publié au Journal officiel de la République française.
 
@@ -8163,11 +8134,11 @@ Le sens de l'avis de la commission est publié au Journal officiel de la Républ
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 8
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2312-7 (M)
+	  - Code de la défense. - art. L2312-7 (V)
 
 
 ##### Chapitre III : Règles spéciales

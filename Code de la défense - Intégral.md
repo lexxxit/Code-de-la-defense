@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -7924,8 +7924,6 @@ l'article 413-9 du code pénal.
 	  - Code de la défense. - art. L2461-1 (V)
 	  - Code de la défense. - art. L2471-1 (V)
 
-
-##### Chapitre II : Commission consultative du secret de la défense nationale
 
 ##### Chapitre II : Commission du secret de la défense nationale
 
@@ -23113,7 +23111,7 @@ a) Les volontaires qui ont souscrit un engagement à servir dans la réserve op�
 
 b) Les anciens militaires soumis à l'obligation de disponibilité ; 
 
-2° D'une réserve citoyenne comprenant les volontaires agréés mentionnés à l'article L. 4241-2. 
+2° D'une réserve citoyenne de défense et de sécurité comprenant les volontaires agréés mentionnés à l'article L. 4241-2. 
 
 IV.-Les réservistes et leurs associations, les associations d'anciens militaires ainsi que les associations dont les
 activités contribuent à la promotion de la défense nationale constituent les relais essentiels du renforcement du lien entre
@@ -23121,7 +23119,7 @@ la Nation et son armée. Ils ont droit à sa reconnaissance pour leur engagement
 soutien. 
 
 A l'égard des associations, cette reconnaissance peut s'exprimer par l'attribution de la qualité de "partenaire de la réserve
-citoyenne" pour une durée déterminée. 
+citoyenne de défense et de sécurité" pour une durée déterminée. 
 
 L'entreprise ou l'organisme qui a favorisé la mise en œuvre des dispositions du présent livre, notamment en signant une
 convention avec le ministre de la défense, peut se voir attribuer la qualité de "partenaire de la défense nationale". 
@@ -23129,8 +23127,8 @@ convention avec le ministre de la défense, peut se voir attribuer la qualité d
 V.-Les services spécialisés de renseignement mentionnés à l'article L. 811-2 du code de la sécurité intérieure peuvent avoir
 recours aux membres de la réserve militaire. 
 
-Pour l'application du premier alinéa du présent V, les volontaires de la réserve citoyenne sont affectés, avec leur accord,
-dans la réserve opérationnelle.
+Pour l'application du premier alinéa du présent V, les volontaires de la réserve citoyenne de défense et de sécurité sont
+affectés, avec leur accord, dans la réserve opérationnelle.
 
 **Liens relatifs à cet article**
 
@@ -23184,7 +23182,7 @@ dans la réserve opérationnelle.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 6
 
 	**Cite**:
 
@@ -23847,11 +23845,14 @@ l'obligation de disponibilité peut être décidé par décret en conseil des mi
 
 ###### Article L4241-1
 
-La réserve citoyenne a pour objet d'entretenir l'esprit de défense et de renforcer le lien entre la Nation et son armée.
+La réserve citoyenne de défense et de sécurité a pour objet d'entretenir l'esprit de défense et de renforcer le lien entre la
+Nation et son armée. Elle fait partie de la réserve civique prévue par la loi n° 2017-86 du 27 janvier 2017 relative à
+l'égalité et à la citoyenneté. Elle est régie par les dispositions du présent code et, pour autant qu'ils n'y sont pas
+contraires, par les articles 1er à 5 de la même loi.
 
 En fonction des besoins des forces armées et formations rattachées, l'autorité militaire peut faire appel aux volontaires de
-la réserve citoyenne pour, avec leur accord, les affecter dans la réserve opérationnelle. Les intéressés souscrivent alors un
-engagement à servir dans la réserve opérationnelle.
+la réserve citoyenne de défense et de sécurité pour, avec leur accord, les affecter dans la réserve opérationnelle. Les
+intéressés souscrivent alors un engagement à servir dans la réserve opérationnelle.
 
 **Liens relatifs à cet article**
 
@@ -23863,16 +23864,20 @@ engagement à servir dans la réserve opérationnelle.
 
 	  - Ordonnance n°2004-1374 du 20 décembre 2004
 
+	**Cite**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 (V)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 6
 
 
 ###### Article L4241-2
 
-La réserve citoyenne est composée de volontaires agréés par l'autorité militaire ou par les services mentionnés à l'article
-L. 811-2 du code de la sécurité intérieure en raison de leurs compétences, de leur expérience ou de leur intérêt pour les
-questions relevant de la défense nationale.
+La réserve citoyenne de défense et de sécurité est composée de volontaires agréés par l'autorité militaire ou par les
+services mentionnés à l'article L. 811-2 du code de la sécurité intérieure en raison de leurs compétences, de leur expérience
+ou de leur intérêt pour les questions relevant de la défense nationale.
 
 **Liens relatifs à cet article**
 
@@ -23886,7 +23891,7 @@ questions relevant de la défense nationale.
 
 	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 22
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 6
 
 	**Cité par**:
 
@@ -23897,6 +23902,10 @@ questions relevant de la défense nationale.
 
 	  - Code de la sécurité intérieure - art. L811-2
 
+
+#### TITRE IV : RÉSERVE CITOYENNE DE DEFENSE ET DE SECURITE
+
+##### Chapitre unique
 
 #### TITRE V : DISPOSITIONS SOCIALES ET FINANCIÈRES
 
@@ -24253,9 +24262,12 @@ lutte contre la corruption et à la modernisation de la vie économique, dans le
 articles L. 4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
-4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
-sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
-l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-1, L. 4221-3 et L. 4221-7 sont applicables dans
+leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n°
+2015-917 du 28 juillet 2015. 
+
+Les articles L. 4211-1, L. 4241-1 et L. 4241-2 sont applicables dans leur rédaction résultant de la loi n° 2017-86 du 27
+janvier 2017 relative à l'égalité et à la citoyenneté.
 
 **Liens relatifs à cet article**
 
@@ -24266,12 +24278,13 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 	**Cite**:
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
-	  - Loi n°2016-731 du 3 juin 2016
 	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Loi n°2016-1691 du 9 décembre 2016
+	  - Loi n°2017-86 du 27 janvier 2017
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE
@@ -24285,9 +24298,12 @@ lutte contre la corruption et à la modernisation de la vie économique, en Poly
 L. 4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
-4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
-sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
-l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-1, L. 4221-3 et L. 4221-7 sont applicables dans
+leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n°
+2015-917 du 28 juillet 2015. 
+
+Les articles L. 4211-1, L. 4241-1 et L. 4241-2 sont applicables dans leur rédaction résultant de la loi n° 2017-86 du 27
+janvier 2017 relative à l'égalité et à la citoyenneté.
 
 **Liens relatifs à cet article**
 
@@ -24300,10 +24316,11 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
 	  - Loi n°2016-731 du 3 juin 2016
 	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Loi n°2017-86 du 27 janvier 2017
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE
@@ -24317,9 +24334,12 @@ lutte contre la corruption et à la modernisation de la vie économique, en Nouv
 4111-1 à L. 4271-5. 
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
-4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4211-1, L. 4221-1, L. 4221-3, L. 4221-7 et L. 4241-1
-sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de
-l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-1, L. 4221-3 et L. 4221-7 sont applicables dans
+leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n°
+2015-917 du 28 juillet 2015. 
+
+Les articles L. 4211-1, L. 4241-1 et L. 4241-2 sont applicables dans leur rédaction résultant de la loi n° 2017-86 du 27
+janvier 2017 relative à l'égalité et à la citoyenneté.
 
 **Liens relatifs à cet article**
 
@@ -24330,12 +24350,13 @@ l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 	**Cite**:
 
 	  - Loi n°2015-917 du 28 juillet 2015 - art. 30
-	  - Loi n°2016-731 du 3 juin 2016
 	  - Ordonnance n°2016-982 du 20 juillet 2016
+	  - Loi n°2016-1691 du 9 décembre 2016
+	  - Loi n°2017-86 du 27 janvier 2017
 
 	**Modifié par**:
 
-	  - Loi n°2016-1691 du 9 décembre 2016 - art. 168
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 224 (V)
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES

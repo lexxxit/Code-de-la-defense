@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-02-06
 
 # Partie législative
 
@@ -23839,7 +23839,7 @@ l'obligation de disponibilité peut être décidé par décret en conseil des mi
 	  - Code de la défense. - art. L1111-2 (V)
 
 
-#### TITRE IV : RÉSERVE CITOYENNE
+#### TITRE IV : RÉSERVE CITOYENNE DE DEFENSE ET DE SECURITE
 
 ##### Chapitre unique
 
@@ -23902,10 +23902,6 @@ ou de leur intérêt pour les questions relevant de la défense nationale.
 
 	  - Code de la sécurité intérieure - art. L811-2
 
-
-#### TITRE IV : RÉSERVE CITOYENNE DE DEFENSE ET DE SECURITE
-
-##### Chapitre unique
 
 #### TITRE V : DISPOSITIONS SOCIALES ET FINANCIÈRES
 
@@ -85872,7 +85868,7 @@ d'emploi du militaire concerné, sur le fondement d'un certificat établi par le
 femme qui en a prescrit la nécessité. 
 
 La date de prise d'effet du congé de maladie est celle de la cessation du service. Le congé de maladie intervenant au cours
-d'une permission en interrompt le déroulement.L'intéressé conserve le droit à la fraction de la permission dont il n'a pas
+d'une permission en interrompt le déroulement. L'intéressé conserve le droit à la fraction de la permission dont il n'a pas
 bénéficié, selon les modalités propres au régime de ladite permission. 
 
 Le commandant de la formation administrative d'affectation ou d'emploi peut, à tout moment, faire procéder à un contrôle
@@ -85884,23 +85880,82 @@ congé.
 
 Lorsque la durée des congés de maladie est, pendant une période de douze mois consécutifs, supérieure à six mois, le
 militaire qui ne peut pas reprendre ses fonctions est placé, selon l'affection présentée, en congé de longue durée pour
-maladie ou en congé de longue maladie dans les conditions prévues aux articles R. 4138-47 à R. 4138-58.
+maladie ou en congé de longue maladie dans les conditions prévues aux articles R. 4138-47 à R. 4138-58. Toutefois, si son
+état de santé le nécessite, il peut bénéficier d'un congé du blessé dans les conditions prévues aux articles R. 4138-3-1 et
+R. 4138-3-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-3 (V)
+	  - Code de la défense. - art. L4138-3
+	  - Code de la défense. - art. R4138-3-1 (V)
 	  - Code de la défense. - art. R4138-47 (V)
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R4138-1 (M)
 	  - Code de la défense. - art. R4138-75 (V)
+
+
+###### Article R4138-3-1
+
+Le congé du blessé est attribué, sur demande ou d'office, dans les conditions fixées à l'article L. 4138-3-1, par le
+commandant de formation administrative d'affectation ou d'emploi du militaire concerné, sur le fondement d'un certificat
+établi par un médecin des armées, par périodes de six mois renouvelables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4138-3-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4138-3 (V)
+	  - Code de la défense. - art. R4138-3-3 (V)
+	  - Code de la défense. - art. R4138-75 (V)
+	  - Code de la défense. - art. R4138-76 (V)
+
+
+###### Article R4138-3-2
+
+La date de départ de la première période est fixée au jour qui suit la date d'expiration des droits à congé de maladie. 
+
+Le point de départ des autres périodes est fixé au jour qui suit la date d'expiration de la période précédente. 
+
+Le militaire placé en congé du blessé ne peut reprendre le service, à  l'expiration ou au cours de cette période de congé,
+que s'il est reconnu  apte à la suite d'un examen médical pratiqué par un médecin des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 2
+
+
+###### Article R4138-3-3
+
+Le refus dûment constaté de se soumettre aux examens nécessaires à l'établissement du certificat médical prévu à l'article R.
+4138-3-1 entraîne, pour le militaire placé en congé du blessé, la suspension du versement de sa rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R4138-3-1 (V)
 
 
 #####  Sous-section 2 : Congé de maternité
@@ -87251,43 +87306,39 @@ les conditions prévues à l'article L. 4138-8.
 
 ###### Article R4138-47
 
-Le congé de longue durée pour maladie est la situation du militaire, qui est placé, au terme de ses droits à congé de
-maladie, dans l'impossibilité d'exercer ses fonctions pour l'une des affections suivantes :
+Le congé de longue durée pour maladie est la situation du militaire, qui est placé, au terme de ses droits à congé de maladie
+ou de ses droits à congé du blessé, dans l'impossibilité d'exercer ses fonctions pour l'une des affections suivantes :
 
 1° Affections cancéreuses ;
 
 2° Déficit immunitaire grave et acquis ;
 
-3° Troubles mentaux et du comportement présentant une évolution prolongée et dont le retentissement professionnel ainsi que
-le traitement sont incompatibles avec le service.
+3° Troubles mentaux et du comportement présentant une évolution prolongée et dont le retentissement professionnel ou le
+traitement sont incompatibles avec le service.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 24 février 2015 - art. 5 (V)
 	  - Décret n°2017-130 du 3 février 2017 - art. 12 (V)
-	  - Code de la défense. - art. R4138-3 (M)
+	  - Code de la défense. - art. R4138-3 (V)
 	  - Code de la défense. - art. R4138-58 (V)
 	  - Code de la défense. - art. R4139-49 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 3
 
 
 ###### Article R4138-48
 
 Le congé de longue durée pour maladie est attribué, sur demande ou d'office, dans les conditions fixées à l'article L.
 4138-12, par décision du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie
-nationale, sur le fondement d'un certificat médical établi par un médecin ou un chirurgien des hôpitaux des armées, par
-périodes de trois à six mois renouvelables.
+nationale, sur le fondement d'un certificat médical établi  par un médecin des armées, par périodes de six mois
+renouvelables.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 38
 
 	**Cité par**:
 
@@ -87299,6 +87350,10 @@ périodes de trois à six mois renouvelables.
 	  - Code de la défense. - art. R4138-53 (V)
 	  - Code de la défense. - art. R4138-74 (V)
 	  - Code de la défense. - art. R4138-76 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 4
 
 	**Cite**:
 
@@ -87345,23 +87400,22 @@ défense, peut être consulté dans des cas litigieux ou de diagnostic difficile
 ###### Article R4138-51
 
 La date de départ de la première période de congé de longue durée pour maladie est fixée au jour qui suit la date
-d'expiration des droits à congé de maladie.
+d'expiration des droits à congé de maladie ou à congé du blessé.
 
 Le point de départ des autres périodes est fixé au jour qui suit la date d'expiration de la période précédente.
 
 Le militaire en congé de longue durée pour maladie ne peut reprendre le service à l'expiration ou au cours d'une période de
-congé que s'il est reconnu apte à la suite d'un examen médical pratiqué par un médecin ou un chirurgien des hôpitaux des
-armées.
+congé que s'il est reconnu apte à la suite d'un examen médical pratiqué  par un médecin des armées.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°2017-130 du 3 février 2017 - art. 12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 5
 
 
 ###### Article R4138-52
@@ -87464,14 +87518,14 @@ A l'issue ou au cours de l'une des périodes du congé de longue durée pour mal
 ce congé et à être présenté devant la commission de réforme prévue au 4° de l'article L. 4139-14. 
 
 La décision de présentation devant la commission de réforme est prise par le ministre de la défense, ou le ministre de
-l'intérieur pour les militaires de la gendarmerie nationale, après avis favorable du médecin prescripteur du congé ou, le cas
+l'intérieur pour les militaires de la gendarmerie nationale, après avis favorable d'un médecin des armées  ou, le cas
 échéant, du comité supérieur médical mentionné à l'article R. 4138-50.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 39
+	  - Décret n°2017-130 du 3 février 2017 - art. 6
 
 	**Cite**:
 
@@ -87487,17 +87541,13 @@ Le congé de longue maladie prévu à l'article L. 4138-13 est attribué en rais
 celles énumérées à l'article R. 4138-47. 
 
 Ce congé est accordé, sur demande ou d'office, par décision du ministre de la défense, ou du ministre de l'intérieur pour les
-militaires de la gendarmerie nationale, sur le fondement d'un certificat d'un médecin ou d'un chirurgien des hôpitaux des
-armées, par périodes de trois à six mois renouvelables. 
+militaires de la gendarmerie nationale, sur le fondement d'un certificat  d'un médecin des armées, par périodes de six mois
+renouvelables. 
 
 Les dispositions relatives au congé de longue durée pour maladie prévues aux articles R. 4138-47 à R. 4138-57 s'appliquent
 également au congé de longue maladie, à l'exception du deuxième alinéa de l'article R. 4138-55.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 40
 
 	**Cité par**:
 
@@ -87509,6 +87559,10 @@ Les dispositions relatives au congé de longue durée pour maladie prévues aux 
 	  - Code de la défense. - art. R4138-74 (V)
 	  - Code de la défense. - art. R4138-76 (V)
 	  - Code de la défense. - art. R4139-49 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-130 du 3 février 2017 - art. 7
 
 	**Cite**:
 
@@ -87892,46 +87946,48 @@ mesures individuelles qu'il tient des articles R. 4138-2, R. 4138-48, R. 4138-58
 ###### Article R4138-75
 
 Le commandant de la formation administrative est autorisé à déléguer sa signature en matière de mesures individuelles prévues
-aux articles R. 4138-3, R. 4138-5, R. 4138-7 à R. 4138-15, R. 4138-18 et R. 4138-19.
+aux articles R. 4138-3, R. 4138-3-1, R. 4138-5, R. 4138-7 à R. 4138-15, R. 4138-18 et R. 4138-19.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-18 (V)
-	  - Code de la défense. - art. R4138-3 (V)
-	  - Code de la défense. - art. R4138-5 (V)
-	  - Code de la défense. - art. R4138-7 (V)
+	  - Code de la défense. - art. R4138-18
+	  - Code de la défense. - art. R4138-3
+	  - Code de la défense. - art. R4138-3-1 (V)
+	  - Code de la défense. - art. R4138-5
+	  - Code de la défense. - art. R4138-7
 
 
 ###### Article R4138-76
 
-L'autorité militaire notifie à chaque militaire placé dans l'une des positions ou situations prévues aux articles R. 4138-28,
-R. 4138-34, R. 4138-35, R. 4138-45, R. 4138-48, R. 4138-58, R. 4138-59, R. 4138-65 à R. 4138-67 la date à laquelle il y est
-mis fin. 
+L'autorité militaire notifie à chaque militaire placé dans l'une des positions ou situations prévues aux articles R.
+4138-3-1 
+R. 4138-28, R. 4138-34, R. 4138-35, R. 4138-45, R. 4138-48, R. 4138-58, R. 4138-59, R. 4138-65 à R. 4138-67 la date à
+laquelle il y est mis fin.
 
 La notification est adressée au militaire un mois au moins avant le terme fixé par la décision individuelle ayant placé le
 militaire dans l'une des positions ou situations mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4138-28 (V)
+	  - Code de la défense. - art. R4138-28
+	  - Code de la défense. - art. R4138-3-1 (V)
 	  - Code de la défense. - art. R4138-34 (V)
-	  - Code de la défense. - art. R4138-35 (V)
-	  - Code de la défense. - art. R4138-45 (V)
-	  - Code de la défense. - art. R4138-48 (V)
-	  - Code de la défense. - art. R4138-58 (V)
-	  - Code de la défense. - art. R4138-65 (V)
+	  - Code de la défense. - art. R4138-45
+	  - Code de la défense. - art. R4138-48
+	  - Code de la défense. - art. R4138-58
+	  - Code de la défense. - art. R4138-65
 
 
 ##### Chapitre IX : Fin de l'état militaire
@@ -89250,15 +89306,18 @@ La commission de réforme des militaires est compétente pour émettre un avis m
 réformé, souhaite que son aptitude soit de nouveau déterminée, en vue de servir dans les armées ou les formations
 rattachées ; 
 
-3° Sur l'aptitude d'un ancien militaire, précédemment radié des cadres ou rayé des contrôles pour infirmité ou mis en réforme
-définitive, qui souhaite que son aptitude au service soit de nouveau déterminée, en vue de servir à nouveau dans les armées
-ou les formations rattachées.
+3° Sur l'aptitude d'un ancien militaire, précédemment mis en réforme définitive, qui souhaite que son aptitude au service
+soit de nouveau déterminée, en vue de servir à nouveau dans les armées ou les formations rattachées.
+
+En  cas de candidature au recrutement dans une autre force armée ou  formation rattachée que celle au titre de laquelle
+l'intéressé a été  réformé, l'avis préalable de la commission de réforme des militaires  n'est pas requis si le candidat
+remplit les conditions médicales  d'aptitude au nouveau recrutement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 10
 
 	**Cité par**:
 
@@ -89267,7 +89326,7 @@ ou les formations rattachées.
 
 	**Cite**:
 
-	  - Code du service national (V)
+	  - Code du service national
 
 
 ###### Article R4139-56
@@ -89300,7 +89359,7 @@ pour les militaires de la gendarmerie nationale, qui agit sur demande de l'inté
 
 Une demande d'avis doit être accompagnée d'un certificat établi : 
 
-1° Par un médecin ou un chirurgien des hôpitaux des armées, s'il s'agit d'un militaire ; 
+1° Par un médecin des armées, s'il s'agit d'un militaire ; 
 
 2° Par un médecin civil ou militaire, dans les autres cas. 
 
@@ -89312,13 +89371,13 @@ délai minimum de deux ans suivant la date de la décision de réforme ou d'exem
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-130 du 3 février 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4139-55 (V)
+	  - Code de la défense. - art. R4139-55
 
 
 ###### Article R4139-58

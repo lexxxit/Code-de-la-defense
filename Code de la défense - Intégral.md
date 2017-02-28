@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-02-11
+Version Consolidée au 2017-03-01
 
 # Partie législative
 
@@ -34245,8 +34245,13 @@ intéressant la défense mentionné à l'article R. * 1333-67-5.
 
 Les demandes d'autorisation et les déclarations concernant les équipements et installations mentionnés à l'article L. 1333-18
 sont adressées au délégué. Ce dernier transmet les demandes d'autorisation au préfet pour qu'il procède ou fasse procéder aux
-consultations et enquêtes prévues, suivant le cas, au chapitre 4 du titre Ier du livre II ou à l'article L. 512-2 du code de
-l'environnement. Le préfet transmet au délégué, avec son avis, les résultats des consultations et des enquêtes effectuées.
+consultations et enquêtes prévues à la section 3 du chapitre unique du titre VIII du livre Ier du code de l'environnement. Le
+préfet transmet au délégué, avec son avis, les résultats des consultations et des enquêtes effectuées.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -34256,13 +34261,13 @@ l'environnement. Le préfet transmet au délégué, avec son avis, les résultat
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-17
 	  - Code de la défense. - art. L1333-18
-	  - Code de l'environnement - art. L512-2
+	  - Code de la défense. - art. R*1333-67-5 (V)
 
 
 ###### Article R*1333-48
@@ -34386,15 +34391,20 @@ restent applicables aussi longtemps que de nouvelles dispositions prises au titr
 pas. Les étapes ultérieures du fonctionnement de chacune de ces installations sont régies par ce même décret. 
 
 La décision d'exclure du périmètre défini à l'article R. * 1333-40 un équipement ou une installation mentionnée à l'article
-R. * 1333-47, relevant du chapitre IV du titre Ier du livre II du code de l'environnement ou du titre Ier du livre V de ce
-même code, est notifiée par le délégué au préfet, qui prend acte, par arrêté pris sans enquête publique, de la nouvelle
-situation administrative des installations et équipements en cause. Les dispositions réglementant l'installation ou
-l'équipement, lorsqu'ils étaient classés secret, restent applicables aussi longtemps que de nouvelles dispositions ne sont
-pas prises par le préfet. 
+R. * 1333-47, relevant du chapitre unique du titre VIII du livre Ier du code de l'environnement, du chapitre IV du titre Ier
+du livre II ou du titre Ier du livre V de ce même code, est notifiée par le délégué au préfet, qui prend acte, par arrêté
+pris sans enquête publique, de la nouvelle situation administrative des installations et équipements en cause. Les
+dispositions réglementant l'installation ou l'équipement, lorsqu'ils étaient classés secret, restent applicables aussi
+longtemps que de nouvelles dispositions ne sont pas prises par le préfet. 
 
 Les installations nucléaires de base secrètes existant antérieurement à la date du 7 juillet 2001 sont soumises aux
 dispositions de la présente section, à l'exception de celles relatives à l'autorisation de création. Les prescriptions
 générales de ces installations sont établies par décision du ministre compétent.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -34408,7 +34418,7 @@ générales de ces installations sont établies par décision du ministre compé
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
@@ -34431,7 +34441,8 @@ secrètes sont instruites selon les modalités suivantes :
 1° Les installations, ouvrages, travaux et activités réalisés dans une installation nucléaire de base secrète relevant de
 l'article L. 214-1 du code de l'environnement sont soumis à autorisation ou à déclaration conformément aux dispositions de
 l'article L. 214-2 du même code. Les règles de procédure applicables sont celles définies dans le présent article en lieu et
-place de celles prévues au chapitre IV du titre Ier du livre II du même code ; 
+place de celles prévues au chapitre unique du titre VIII du livre Ier et au chapitre IV du titre Ier du livre II du même
+code ; 
 
 2° Les rejets d'effluents dans le milieu ambiant, qu'ils proviennent d'une installation individuelle ou d'un autre type
 d'installation, sont soumis à autorisation ; 
@@ -34465,6 +34476,11 @@ et après avis du délégué.
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de prélèvements d'eau ainsi que la procédure d'instruction
 de ces dossiers sont fixés par arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie.
 
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -34478,7 +34494,7 @@ de ces dossiers sont fixés par arrêté conjoint du ministre de la défense et 
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
@@ -34818,29 +34834,30 @@ Le délégué y assure la surveillance en matière de protection de l'environnem
 
 Les installations, ouvrages, travaux et activités, implantés ou effectués dans le périmètre des sites et installations
 d'expérimentations nucléaires intéressant la défense, mais non nécessaires à leur exploitation, font l'objet d'une
-autorisation ou d'une déclaration au titre du régime institué par le chapitre IV du titre Ier du livre II du code de
-l'environnement ou du régime des installations classées pour la protection de l'environnement institué par le titre Ier du
-livre V du même code, sous réserve des dispositions de l'article R. 123-44 du même code et des dispositions suivantes : 
+autorisation ou d'une déclaration au titre des régimes institués par le chapitre unique du titre VIII du livre Ier, le
+chapitre IV du titre Ier du livre II ou le titre Ier du livre V du code de l'environnement, sous réserve des dispositions de
+l'article R. 123-44 du même code et des dispositions suivantes : 
 
 1° Les demandes d'autorisation et les déclarations sont adressées au délégué afin qu'il fasse procéder aux consultations et
-enquêtes prévues, selon le cas, aux articles L. 214-4 ou L. 512-2 du code de l'environnement.A la demande du délégué, le
-préfet retire du dossier soumis à l'enquête et aux consultations les éléments de nature à entraîner la divulgation de secrets
-de la défense nationale. 
+enquêtes prévues, à la section 3 du chapitre unique du titre VIII du livre Ier du code de l'environnement. A la demande du
+délégué, le préfet retire du dossier soumis à l'enquête et aux consultations les éléments de nature à entraîner la
+divulgation de secrets de la défense nationale. 
 
 2° Les résultats de l'enquête publique ainsi que les avis recueillis sont transmis par le préfet au délégué. 
 
 3° L'autorisation délivrée par le délégué est communiquée au préfet.L'information des tiers est assurée par ce dernier dans
 le respect des exigences liées à la défense nationale.
 
+**Nota:**
+
+Se reporter aux dispositions de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves d'entrée en
+vigueur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-	**Créé par**:
-
-	  - Décret n°2007-758 du 10 mai 2007 - art. 1 () JORF 11 mai 2007 en vigueur le 1er septembre 2007
+	  - Décret n°2007-583 du 23 avril 2007
 
 	**Cité par**:
 
@@ -34848,11 +34865,15 @@ le respect des exigences liées à la défense nationale.
 	  - Arrêté du 24 novembre 2009 - art. 7 (V)
 	  - Code de la défense. - art. R*1333-67-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
+
 	**Cite**:
 
-	  - Code de l'environnement - art. L214-4 (V)
-	  - Code de l'environnement - art. L512-2 (V)
-	  - Code de l'environnement - art. R123-44 (V)
+	  - Code de l'environnement - art. L214-4
+	  - Code de l'environnement - art. L512-2
+	  - Code de l'environnement - art. R123-44
 
 
 ###### Article R*1333-67-3
@@ -48420,18 +48441,24 @@ nationale sont définies à l'article R. 421-8 du code de l'urbanisme.
 
 ###### Article R2313-3
 
-Les dispositions relatives aux installations classées relevant du ministère de la défense sont définies aux articles R. 517-1
-à R. 517-8 du code de l'environnement.
+Les dispositions relatives aux installations classées relevant du ministère de la défense sont définies aux articles R.
+181-55, R. 517-1 à R. 517-8 du code de l'environnement.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R517-1 (V)
+	  - Code de l'environnement - art. R181-55
+	  - Code de l'environnement - art. R517-1
 
 
 ##### Sous-section 3 : Expropriation pour cause d'utilité publique
@@ -48650,7 +48677,7 @@ décret n° 2007-663 du 2 mai 2007 pris pour l'application des articles 30, 31 e
 	  - Code de la défense. - art. R2471-2 (V)
 
 
-#### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS SOUMIS A AUTORISATION
+#### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS
 
 ##### Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne
 
@@ -50625,15 +50652,6 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 	  - Code de la défense. - art. R2335-22
 
 
-##### Chapitre IX : Sanctions pénales
-
-#### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS
-
-##### Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne
-
-
-
-
 ##### Chapitre IX : Contrôle administratif et dispositions pénales
 
 ###### Article R2339-1
@@ -51143,28 +51161,30 @@ qu'il désigne.
 
 ###### Article R2342-15
 
-Lorsque les installations sont soumises aux dispositions des articles R. 517-1 à R. 517-8 du code de l'environnement, le
-ministre de la défense est seul compétent pour leur délivrer les autorisations prévues aux articles L. 2342-8 et L. 2342-10
-du présent code.
+Lorsque les installations sont soumises aux dispositions de l'article R. 181-55 ou des articles R. 517-1 à R. 517-8 du code
+de l'environnement, le ministre de la défense est seul compétent pour leur délivrer les autorisations prévues aux articles L.
+2342-8 et L. 2342-10 du présent code.
+
+**Nota:**
+
+Se reporter aux dispositions du 1° de l'article 17 du décret n° 2017-81 du 26 janvier 2017 qui précisent les réserves
+d'entrée en vigueur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-143 du 15 février 2001 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 	**Cité par**:
 
 	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
+
 	**Cite**:
 
-	  - Code de la défense. - art. L2342-8 (V)
-	  - Code de l'environnement - art. R517-1 (V)
+	  - Code de la défense. - art. L2342-8
+	  - Code de l'environnement - art. R181-55 (VD)
+	  - Code de l'environnement - art. R517-1
 
 
 ###### Article R2342-16
@@ -64807,24 +64827,33 @@ L. 612-2 du code du travail, est exercée en son sein par des médecins des arm�
 Le contrôle général des armées assure également l'inspection et le contrôle des installations classées pour la protection de
 l'environnement dans les établissements mentionnés à l'article R. 517-1 du code de l'environnement relatif aux installations
 classées pour la protection de l'environnement relevant du ministère de la défense ou soumises à des règles de protection du
-secret de la défense nationale.
+secret de la défense nationale. 
+
+Le contrôle général des armées assure également l'inspection et le contrôle des installations, ouvrages, travaux ou activités
+mentionnées à l'article R. 217-1 du code de l'environnement relatif aux installations, ouvrages, travaux ou activités
+relevant du ministère de la défense ou soumises à des règles de protection du secret de la défense nationale
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 10 avril 2015 - art. 1 (V)
 	  - Arrêté du 16 juin 2015 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-82 du 26 janvier 2017 - art. 5
+
 	**Cite**:
 
-	  - Code du travail - art. L611-2 (Ab)
-	  - Code du travail - art. L612-1 (Ab)
-	  - Code de l'environnement - art. R517-1 (V)
+	  - Code du travail - art. L611-2
+	  - Code du travail - art. L612-1
+	  - Code de l'environnement - art. R217-1 (VD)
+	  - Code de l'environnement - art. R517-1
 
 
 ###### Article D3123-15
@@ -98119,9 +98148,10 @@ l'intégrité, à la surveillance et à la sauvegarde des éléments d'infrastru
 Le ministre de la défense définit la politique immobilière de la défense en matière d'environnement. Celle-ci met en œuvre
 les prescriptions résultant des dispositions suivantes : 
 
-1° Les articles R. 217-1 et suivants et R. 517-1 et suivants du code de l'environnement, en ce qui concerne les polices
-administratives des installations, ouvrages, travaux ou activités et des installations classées pour la protection de
-l'environnement, au sein des organismes relevant du ministère de la défense ; 
+1° Les articles R. 181-43, R. 181-45, R. 181-46, R. 181-53 et R. 181-54 ainsi que R. 217-1 et suivants et R. 517-1 et
+suivants du code de l'environnement, en ce qui concerne les polices administratives des installations, ouvrages, travaux ou
+activités et des installations classées pour la protection de l'environnement, au sein des organismes relevant du ministère
+de la défense ; 
 
 2° Les articles R. 222-1 et suivants du code de l'environnement pour les schémas régionaux du climat, de l'air et de
 l'énergie ; 
@@ -98140,6 +98170,11 @@ territorialement compétentes ont recours à l'établissement du service d'infra
 compétent pour l'instruction de ces dossiers et peuvent le solliciter pour assurer sa représentation auprès des services
 déconcentrés de l'Etat et des collectivités territoriales.
 
+**Nota:**
+
+Se reporter aux dispositions de l'article 6 du décret n° 2017-82 du 26 janvier 2017 qui précisent les réserves d'entrée en
+vigueur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -98148,11 +98183,19 @@ déconcentrés de l'Etat et des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1499 du 27 décembre 2012 - art. 2
+	  - Décret n°2017-82 du 26 janvier 2017 - art. 5
 
 	**Cite**:
 
+	  - Code de la santé publique - art. R1321-63 (V)
+	  - Code de l'environnement - art. R181-43
+	  - Code de l'environnement - art. R181-45 (VD)
+	  - Code de l'environnement - art. R181-46 (VD)
+	  - Code de l'environnement - art. R181-53 (VD)
 	  - Code de l'environnement - art. R217-1 (VD)
+	  - Code de l'environnement - art. R222-1 (V)
+	  - Code de l'environnement - art. R414-3 (V)
+	  - Code de l'environnement - art. R517-1 (V)
 
 
 ##### Sous-section 2 : Compétences en matière de logement

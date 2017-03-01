@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -8497,31 +8497,6 @@ chapitre II du titre Ier du livre III du code de la sécurité intérieure.
 	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
 
 
-###### Article L2331-2
-
-La fabrication et le commerce, l'importation et l'exportation des matériels de guerre, armes et munitions, ainsi que les
-marchés relatifs aux matériels de guerre, sont régis par les dispositions du présent titre. Ces dispositions sont complétées,
-en ce qui concerne le commerce de détail, par celles du chapitre III du titre Ier du livre III du code de la sécurité
-intérieure.
-
-L'acquisition, la détention, la conservation, le port et le transport des matériels de guerre, armes et munitions sont régis
-par les dispositions du titre Ier du livre III du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 7 septembre 1995 - art. 1 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-
 ##### Chapitre II : Fabrication et commerce
 
 ##### Section 1 : Principes
@@ -8625,34 +8600,6 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
-
-
-###### Article L2332-2
-
-L'ouverture des locaux destinés au commerce de détail des armes, éléments d'armes et munitions des catégories C et D est
-régie par les dispositions de l'article L. 313-3 du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-518 du 20 juin 2013 - art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-	**Cité par**:
-
-	  - Code de la défense. - art. L2339-3 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. L313-3
 
 
 ###### Article L2332-3
@@ -9895,88 +9842,6 @@ III. ― Un décret en Conseil d'Etat détermine les conditions et la procédure
 	  - Code de la défense. - art. L2335-12
 
 
-##### Chapitre VI : Acquisition et détention
-
-###### Article L2336-1
-
-L'acquisition et la détention des matériels de guerre, des armes et des munitions par les personnes autres que celles
-mentionnées à l'article L. 2332-1 sont régies par les dispositions du chapitre II du titre Ier du livre III du code de la
-sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 20 (VT)
-	  - Décret n°95-589 du 6 mai 1995 - art. 71-4 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 23 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 89 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 23 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 89 (VT)
-	  - Code de la défense. - art. L2331-1 (VD)
-	  - Code de la défense. - art. L2336-2 (MMN)
-	  - Code de la défense. - art. L2337-1-1 (MMN)
-	  - Code de la défense. - art. L2337-2 (VT)
-	  - Code de la défense. - art. L2337-3 (MMN)
-	  - Code de la défense. - art. L2339-16 (V)
-	  - Code de la défense. - art. L2339-4 (VD)
-	  - Code de la défense. - art. L2339-4-1 (MMN)
-	  - Code de la défense. - art. L2339-5 (MMN)
-	  - Code de la défense. - art. L2339-5-1 (MMN)
-	  - Code de la défense. - art. L2441-1 (M)
-	  - Code de la défense. - art. L2451-1 (M)
-	  - Code de la défense. - art. L2461-1 (M)
-	  - Code de la défense. - art. L2471-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2332-1
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15 (Ab)
-
-
-##### Chapitre VII : Conservation, perte et transfert de propriété
-
-###### Article L2337-1
-
-La conservation, la perte et le transfert de propriété des matériels de guerre, des armes et des munitions sont régis par les
-dispositions du chapitre IV du titre Ier du livre III du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 15-1 (Ab)
-
-
 ##### Chapitre VIII : Port, transport et usage
 
 ###### Article L2338-2
@@ -10005,23 +9870,17 @@ Les militaires peuvent porter leurs armes dans les conditions définies par les 
 
 ###### Article L2338-3
 
-Les officiers et sous-officiers de gendarmerie ne peuvent, en l'absence de l'autorité judiciaire ou administrative, déployer
-la force armée que dans les cas suivants :
+Les militaires de la gendarmerie nationale peuvent faire usage de leurs armes dans les conditions prévues à l'article L.
+435-1 du code de la sécurité intérieure. Ils peuvent également faire usage de matériels appropriés pour immobiliser les
+moyens de transport dans les conditions prévues à l'article L. 214-2 du même code. 
 
-1° Lorsque des violences ou des voies de fait sont exercées contre eux ou lorsqu'ils sont menacés par des individus armés ;
+Les militaires déployés sur le territoire national dans le cadre des réquisitions prévues à l'article L. 1321-1 du présent
+code peuvent faire usage de leurs armes et immobiliser les moyens de transport dans les mêmes conditions. 
 
-2° Lorsqu'ils ne peuvent défendre autrement le terrain qu'ils occupent, les postes ou les personnes qui leur sont confiés ou,
-enfin, si la résistance est telle qu'elle ne puisse être vaincue que par la force des armes ;
-
-3° Lorsque les personnes invitées à s'arrêter par des appels répétés de " Halte gendarmerie " faits à haute voix cherchent à
-échapper à leur garde ou à leurs investigations et ne peuvent être contraintes de s'arrêter que par l'usage des armes ;
-
-4° Lorsqu'ils ne peuvent immobiliser autrement les véhicules, embarcations ou autres moyens de transport dont les conducteurs
-n'obtempèrent pas à l'ordre d'arrêt.
-
-Les militaires mentionnés au premier alinéa et les volontaires dans les armées, en service au sein de la gendarmerie  sont
-également autorisés à faire usage de tous engins ou moyens appropriés tels que herses, hérissons, câbles, pour immobiliser
-les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommations.
+Les militaires chargés de la protection des installations militaires situées sur le territoire national peuvent faire usage
+de leurs armes dans les conditions prévues aux 1° à 4° de l'article L. 435-1 du code de la sécurité intérieure en cas
+d'absolue nécessité et de manière strictement proportionnée. Ils peuvent également immobiliser les moyens de transport dans
+les conditions prévues à l'article L. 214-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -10032,7 +9891,13 @@ les moyens de transport quand les conducteurs ne s'arrêtent pas à leurs sommat
 
 	**Modifié par**:
 
-	  - Loi n°2015-917 du 28 juillet 2015 - art. 26
+	  - Loi n°2017-258 du 28 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L1321-1 (V)
+	  - Code de la sécurité intérieure - art. L214-2 (V)
+	  - Code de la sécurité intérieure - art. L435-1 (V)
 
 	**Cité par**:
 
@@ -10306,23 +10171,6 @@ code pénal, les peines prévues par les 2°, 4°, 5°, 8° et 9° de l'article 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 25 (Ab)
 
 
-###### Article L2339-3-1
-
-Les sanctions pénales de l'exercice illicite du commerce de détail et de la vente et de la cession illicites des matériels de
-guerre, des armes et des munitions sont définies par les dispositions du chapitre VII du titre Ier du livre III du code de la
-sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-
 ###### Article L2339-4
 
 Est punie d'un emprisonnement de trois ans et d'une amende de 45 000 € la cession, à quelque titre que ce soit, par un
@@ -10396,85 +10244,6 @@ documents nécessaires à leur inscription sur le registre spécial mentionné a
 
 	  - Code de la défense. - art. L2332-1
 	  - Code de la sécurité intérieure - art. L312-4-2
-
-
-##### Section 3 : Sanctions pénales de l'acquisition et de la détention
-
-###### Article L2339-5
-
-Les sanctions pénales de l'acquisition et de la détention illicites des matériels de guerre, des armes et des munitions sont
-définies par  la section 7 du chapitre II du titre II du livre II du code pénal et le chapitre VII du titre Ier du livre III
-du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 106 (VT)
-	  - Décret n°2009-450 du 21 avril 2009 - art. 101 (VT)
-	  - Décret n°2009-451 du 21 avril 2009 - art. 101 (VT)
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la défense. - art. L2339-14 (V)
-	  - Code de la défense. - art. L2339-4 (V)
-	  - Code pénal - art. 321-6-1 (V)
-	  - Code pénal - art. 421-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 28 (Ab)
-
-
-##### Section 4 : Sanctions pénales du port, du transport et des expéditions
-
-###### Article L2339-9
-
-Les sanctions pénales du port, du transport et des expéditions illicites des matériels de guerre, des armes et des munitions
-sont définies par  la section 7 du chapitre II du titre II du livre II du code pénal et le chapitre VII du titre Ier du livre
-III du code de la sécurité intérieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
-	  - Décret n°2007-1322 du 7 septembre 2007 - art. 9 (V)
-	  - Code de la défense. - art. L2336-1 (MMN)
-	  - Code de la défense. - art. L2339-14 (V)
-	  - Code de procédure pénale - art. 398-1 (M)
-	  - Code de procédure pénale - art. 495 (V)
-	  - Code de procédure pénale - art. 78-2-2 (V)
-	  - Code de procédure pénale - art. 837 (VD)
-	  - Code pénal - art. 421-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 26
-
-	**Abrogé par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 27
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 32 (Ab)
 
 
 ##### Section 5 : Sanctions pénales des importations, exportations et transferts
@@ -15092,33 +14861,53 @@ considération des circonstances de l'infraction et de la personnalité de son a
 	  - Loi n°2012-304 du 6 mars 2012 - art. 29
 
 
+#### TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES
+
+##### Chapitre II : Zones protégées
+
+###### Article L2362-1
+
+Les décisions de recrutement ou d'accès à une zone protégée prises par l'autorité militaire française à l'étranger peuvent
+être précédées d'enquêtes administratives destinées à vérifier l'identité des personnes concernées ainsi que la compatibilité
+de leur comportement avec l'exercice des missions ou des droits envisagés. 
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 7
+
+	**Cité par**:
+
+	  - Décret n°2017-646 du 26 avril 2017 (V)
+	  - Code de la défense. - art. R2362-6 (V)
+
+
 #### TITRE VIII : DE LA BIOMÉTRIE
 
 ##### Chapitre unique  
 
 ###### Article L2381-1
 
-I.  - Dans le cadre d'une opération mobilisant des capacités militaires se  déroulant à l'extérieur du territoire français,
-les membres des forces  armées et des formations rattachées peuvent procéder à des opérations de  relevés signalétiques, aux
-fins d'établir l'identité, lorsqu'elle est  inconnue ou incertaine, ainsi que la participation antérieure aux  hostilités :
+I. - Dans le cadre d'une opération mobilisant des capacités militaires se déroulant à l'extérieur du territoire français, les
+membres des forces armées et des formations rattachées peuvent procéder à des opérations de relevés signalétiques, aux fins
+d'établir l'identité, lorsqu'elle est inconnue ou incertaine, ainsi que la participation antérieure aux hostilités :
 
 1° Des personnes décédées lors d'actions de combat ;
 
 2° Des personnes capturées par les forces armées.
 
-Dans les mêmes conditions et aux mêmes  fins, des membres des forces armées et des formations rattachées peuvent  procéder à
-des prélèvements biologiques destinés à permettre l'analyse  d'identification de l'empreinte génétique de ces personnes.
+Dans les mêmes conditions et aux mêmes fins, des membres des forces armées et des formations rattachées peuvent procéder à
+des prélèvements biologiques destinés à permettre l'analyse d'identification de l'empreinte génétique de ces personnes.
 
-II. - Les données collectées en application  du I peuvent être consultées dans le cadre de la réalisation d'enquêtes
-préalables à une décision de recrutement ou d'accès à une zone protégée  prise par l'autorité militaire. Un décret en Conseil
-d'Etat fixe la  liste des enquêtes qui donnent lieu à cette consultation ainsi que les  modalités d'information des personnes
-concernées.
+II. - Dans le même cadre, des membres des forces armées et des formations rattachées peuvent procéder à des opérations de
+relevés signalétiques et à des prélèvements biologiques sur les personnels civils recrutés localement et sur les personnes
+accédant à une zone protégée ou placée sous le contrôle de l'autorité militaire française, aux fins de vérification de leur
+identité et de leurs antécédents.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 116
 
 	**Cité par**:
 
@@ -15126,6 +14915,10 @@ concernées.
 	  - Code civil - art. 16-11 (V)
 	  - Code de la défense. - art. R2362-5 (Ab)
 	  - Code de la défense. - art. R2362-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 7
 
 
 ### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -15295,7 +15088,7 @@ applicables localement.
 ###### Article L2441-1
 
 Sont applicables dans les îles Wallis et Futuna, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L. 2161-3,
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2336-1
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2338-2
 à L. 2353-13. 
 
 L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
@@ -15313,6 +15106,9 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
+L'article L. 2338-3 est applicable dans sa rédaction résultant de la loi n° 2017-258 du 28 février 2017 relative à la
+sécurité publique.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -15329,7 +15125,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cité par**:
 
@@ -15460,7 +15256,7 @@ ayant le même objet applicables localement.
 ###### Article L2451-1
 
 Sont applicables en Polynésie française, les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L.
-2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2336-1 à L. 2343-12, L. 2344-1 à L. 2344-11,
+2311-1 à L. 2312-8, L. 2313-4, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2338-2 à L. 2343-12, L. 2344-1 à L. 2344-11,
 L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13. 
 
 L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
@@ -15478,6 +15274,9 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
 
+L'article L. 2338-3 est applicable dans sa rédaction résultant de la loi n° 2017-258 du 28 février 2017 relative à la
+sécurité publique.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15489,7 +15288,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
 ###### Article L2451-2
@@ -15663,8 +15462,8 @@ autorisation.
 ###### Article L2461-1
 
 Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 2112-1 à L. 2161-3, 
-L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à    L. 2321-4, L. 2322-1 à L. 2335-7, L.
-2336-1 à L. 2353-13. 
+L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2312-8, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7, L. 2338-2
+à L. 2353-13. 
 
 L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
 numérique. 
@@ -15679,7 +15478,10 @@ pénale.
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
-2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015. 
+
+L'article L. 2338-3 est applicable dans sa rédaction résultant de la loi n° 2017-258 du 28 février 2017 relative à la
+sécurité publique.
 
 **Liens relatifs à cet article**
 
@@ -15690,7 +15492,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cite**:
 
@@ -15701,7 +15503,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 	  - Code de la défense. - art. L2321-1
 	  - Code de la défense. - art. L2322-1
 	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2338-2 (V)
 
 
 ###### Article L2461-2
@@ -15848,7 +15650,7 @@ objet applicables localement.
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles L. 2113-1 à L. 2141-4, L. 2151-1 à L.
 2161-3, L. 2211-1 à L. 2223-19, L. 2232-1 à L. 2236-7, L. 2311-1 à L. 2313-1, L. 2321-1 à L. 2321-4, L. 2322-1 à L. 2335-7,
-L. 2336-1 à L. 2353-13. 
+L. 2338-2 à L. 2353-13. 
 
 L'article L. 2321-4 est applicable dans sa rédaction résultant de la loi n° 2016-1321 du 7 octobre 2016 pour une République
 numérique. 
@@ -15863,7 +15665,10 @@ pénale.
 
 Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 2223-7, L. 2223-8, L. 2223-9, L. 2223-17, L.
 2223-18, L. 2335-4, L. 2339-1, L. 2339-1-1 et L. 2339-1-2 sont applicables dans leur rédaction résultant de l'ordonnance n°
-2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015. 
+
+L'article L. 2338-3 est applicable dans sa rédaction résultant de la loi n° 2017-258 du 28 février 2017 relative à la
+sécurité publique.
 
 **Liens relatifs à cet article**
 
@@ -15880,7 +15685,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 	  - Code de la défense. - art. L2321-1
 	  - Code de la défense. - art. L2322-1
 	  - Code de la défense. - art. L2332-6
-	  - Code de la défense. - art. L2336-1
+	  - Code de la défense. - art. L2338-2 (V)
 
 	**Codifié par**:
 
@@ -15889,7 +15694,7 @@ Les dispositions des articles L. 2121-3, L. 2141-1, L. 2221-1, L. 2222-1, L. 222
 
 	**Modifié par**:
 
-	  - Loi n°2016-1321 du 7 octobre 2016 - art. 112
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 
 ###### Article L2471-2
@@ -22150,7 +21955,7 @@ Officiers des armes de l'armée de terre, officiers de marine, officiers spécia
 officiers mécaniciens de l'air 
 
 </td>
-      <td width="398" valign="bottom" colspan="4">
+      <td valign="bottom" colspan="4" width="398">
 
 59 
 
@@ -22162,12 +21967,12 @@ officiers mécaniciens de l'air
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers de gendarmerie 
 
 </td>
-      <td colspan="3" width="318" valign="bottom">
+      <td colspan="3" valign="bottom" width="318">
 
 59 
 
@@ -22177,29 +21982,29 @@ Officiers de gendarmerie
 60 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 63 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Officiers de l'air 
 
 </td>
-      <td colspan="2" width="205" valign="bottom">
+      <td width="205" colspan="2" valign="bottom">
 
 52 
 
 </td>
-      <td colspan="2" valign="bottom" width="192">
+      <td colspan="2" width="192" valign="bottom">
 
 56 
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 63
 
@@ -22212,24 +22017,24 @@ Commissaires des armées (1), officiers des corps techniques et administratifs, 
 administrateurs des affaires maritimes, officiers spécialistes de l'armée de terre, officiers logisticiens des essences. 
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td valign="bottom" width="398" colspan="4">
 
 62 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 64 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="190">
+      <td width="190" valign="top">
 
 Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 
 </td>
-      <td colspan="4" valign="bottom" width="398">
+      <td valign="bottom" width="398" colspan="4">
 
 62 
 
@@ -22241,35 +22046,35 @@ Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Militaires infirmiers et techniciens des hôpitaux des armées (officiers) 
 
 </td>
-      <td valign="bottom" colspan="4" width="398">
+      <td valign="bottom" width="398" colspan="4">
 
 62
 
 </td>
-      <td width="111" valign="bottom">
+      <td valign="bottom" width="111">
 
 -
 
 </td>
     </tr>
     <tr>
-      <td width="190" valign="top">
+      <td valign="top" width="190">
 
 Ingénieurs de l'armement, ingénieurs des études et techniques de l'armement, ingénieurs des études et techniques des travaux
 maritimes, professeurs de l'enseignement maritime, ingénieurs militaires d'infrastructure de la défense 
 
 </td>
-      <td valign="bottom" width="398" colspan="4">
+      <td width="398" colspan="4" valign="bottom">
 
 66 
 
 </td>
-      <td valign="bottom" width="111">
+      <td width="111" valign="bottom">
 
 67 
 
@@ -22370,12 +22175,12 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 52 
 
 </td>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 58 
 
 </td>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 59 
 
@@ -22387,12 +22192,12 @@ Sous-officiers de carrière de l'armée de terre, de la marine ou de l'air (pers
 Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale 
 
 </td>
-      <td colspan="4" align="center" valign="bottom">
+      <td valign="bottom" colspan="4" align="center">
 
 58 (y compris le grade de gendarme) 
 
 </td>
-      <td valign="bottom" align="center">
+      <td align="center" valign="bottom">
 
 59 
 
@@ -22404,12 +22209,12 @@ Sous-officiers de gendarmerie, sous-officiers du corps de soutien technique et a
 Sous-officiers du personnel navigant de l'armée de l'air 
 
 </td>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 47 
 
 </td>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 52 
 
@@ -22430,7 +22235,7 @@ infirmiers et techniciens des hôpitaux des armées (sous-officiers) excepté ce
 spécialisés, majors des ports (marine) et officiers mariniers de carrière des ports (marine) 
 
 </td>
-      <td colspan="5" align="center" valign="bottom">
+      <td align="center" colspan="5" valign="bottom">
 
 59 
 
@@ -22442,7 +22247,7 @@ spécialisés, majors des ports (marine) et officiers mariniers de carrière des
 Sous-officiers du service des essences des armées
 
 </td>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 -
 
@@ -22462,7 +22267,7 @@ ouvriers, tailleurs et cordonniers (marine), musicien sous-officier de carrière
 appariteurs 
 
 </td>
-      <td align="center" valign="bottom" colspan="5">
+      <td valign="bottom" colspan="5" align="center">
 
 66 
 
@@ -22550,12 +22355,10 @@ maintenus en service pour une durée maximum de dix trimestres et dans la limite
 obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 du code des pensions civiles et militaires de
 retraite. 
 
+Les volontaires dans les armées, en service au sein de la gendarmerie nationale, peuvent, sur demande agréée, être maintenus
+en service au-delà de la limite de durée de service pour une période d'une année.
+
 Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
-
-**Nota:**
-
-Conformément au II de l'article 40 de la loi n° 2013-1168 du 18 décembre 2013, le 1° du I entre en vigueur le 1er janvier
-2016.
 
 **Liens relatifs à cet article**
 
@@ -22580,7 +22383,7 @@ Conformément au II de l'article 40 de la loi n° 2013-1168 du 18 décembre 2013
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+	  - Loi n°2017-258 du 28 février 2017 - art. 28
 
 	**Cite**:
 

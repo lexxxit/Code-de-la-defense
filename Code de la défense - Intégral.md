@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-03-06
+Version Consolidée au 2017-03-13
 
 # Partie législative
 
@@ -61554,16 +61554,27 @@ pénal.
 
 ###### Article D2362-2
 
-Les autorités compétentes pour définir, au nom du ministre de la défense, le besoin de protection des installations sont : 
+Les autorités suivantes ont délégation du ministre de la défense pour déterminer, conformément à l'article R. 413-2 du code
+pénal, le besoin de protection : 
 
-1° Le chef d'état-major des armées pour les départements d'outre-mer, la Polynésie française, les îles Wallis-et-Futuna, les
-Terres australes et antarctiques françaises, la Nouvelle-Calédonie, Mayotte, Saint-Barthélemy, Saint-Martin, et les
-organismes interarmées ; 
+1° Le chef d'état-major des armées, pour les organismes interarmées implantés en métropole autres que ceux relevant des
+autorités mentionnées au 3° et pour les formations, services et établissements placés sous l'autorité ou l'autorité d'emploi
+des commandants supérieurs des forces armées selon les dispositions de l'article D. 1681-11 du présent code ; 
 
-2° Le délégué général pour l'armement, le secrétaire général pour l'administration, les chefs d'état-major, le directeur
-général de la sécurité extérieure, le directeur général de la gendarmerie nationale, le          directeur du renseignement
-et de la sécurité de la défense et les directeurs centraux de service qui ne relèvent pas d'un chef d'état-major d'armée pour
-les installations relevant de leur responsabilité.
+2° Le délégué général pour l'armement, le secrétaire général pour l'administration, les chefs d'état-major d'armée, le
+directeur général des relations internationales et de la stratégie, le directeur général des systèmes d'information et de
+communication, le directeur général de la sécurité extérieure, le délégué à l'information et à la communication de la
+défense, le directeur du renseignement et de la sécurité de la défense, le chef du contrôle général des armées et le sous-
+directeur des bureaux des cabinets, pour les formations, services, établissements et entreprises relevant de leur
+responsabilité respective ; 
+
+3° Le directeur du renseignement militaire, le directeur central du service de santé des armées, le directeur central du
+service des essences des armées, le directeur central de la direction interarmées des réseaux d'infrastructure et des
+systèmes d'information de la défense, le directeur central du service du commissariat des armées et le directeur du service
+interarmées des munitions, pour les formations, services et établissements relevant de leur responsabilité respective ; 
+
+4° Le directeur de la protection des installations, moyens et activités de la défense pour les formations, services,
+établissements et entreprises ne relevant de la responsabilité d'aucune des autorités mentionnées aux 1°, 2° et 3°.
 
 **Liens relatifs à cet article**
 
@@ -61577,22 +61588,34 @@ les installations relevant de leur responsabilité.
 	  - Code de la défense. - art. D2471-5 (M)
 	  - Code de la défense. - art. D3121-24 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
+	  - Décret n°2017-320 du 10 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. R413-2 (V)
+	  - Code de la défense. - art. D1681-11 (V)
 
 
 ###### Article D2362-3
 
-Les officiers généraux commandants supérieurs des forces armées dans les départements d'outre-mer, en Polynésie française,
-dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à
-Saint-Barthélemy, à Saint-Martin, les officiers généraux de zone de défense et de sécurité,  l'officier général commandant de
-la défense aérienne et des opérations aériennes et les commandants organiques à compétence territoriale, dont la liste est
-fixée par le ministre de la défense, reçoivent délégation de pouvoirs pour déterminer par arrêté, à l'intérieur des
-établissements et services relevant de leur commandement ou de leur zone de responsabilité, l'implantation et les limites des
-zones protégées prévues au premier alinéa de l'article R. 413-3 du code pénal. Ils établissent en application de l'article R.
-413-5, premier alinéa du même code, les directives fixant les conditions dans lesquelles sont délivrées les autorisations de
-pénétrer dans ces zones. 
+Ont délégation du ministre de la défense pour fixer, par arrêté, l'implantation et les limites des zones protégées,
+conformément à l'
+article R. 413-3 du code pénal 
+:
+
+1° Les commandants supérieurs des forces armées, pour les formations, services et établissements placés sous leur autorité ou
+autorité d'emploi selon les dispositions de l'article D. 1681-11 du présent code ;
+
+2° Le commandant de la défense aérienne et des opérations aériennes, pour l'ensemble des formations, services et
+établissements implantés en métropole relevant du chef d'état-major de l'armée de l'air ;
+
+3° Les commandants de zone terre, les commandants d'arrondissement maritime et le commandant de la marine à Paris, pour les
+formations, services et établissements de leur armée implantés dans le ressort de leur commandement organique territorial
+respectif ;
+
+4° Les officiers généraux de zone de défense et de sécurité, pour les organismes placés sous leur autorité.
 
 Ces autorités sont habilitées à déléguer leur signature.
 
@@ -61604,36 +61627,57 @@ Ces autorités sont habilitées à déléguer leur signature.
 	  - Arrêté du 22 décembre 2015 - art. 5 (V)
 	  - Code de la défense. - art. D2362-4 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
+	  - Décret n°2017-320 du 10 mars 2017 - art. 3
 
 	**Cite**:
 
 	  - Code pénal - art. R413-3
-	  - Code pénal - art. R413-5
+	  - Code de la défense. - art. D1681-11 (V)
 
 
 ###### Article D2362-4
 
-Le chef d'état-major des armées, le délégué général pour l'armement, le secrétaire général pour l'administration, le
-directeur général de la sécurité extérieure, le          directeur du renseignement et de la sécurité de la défense, le
-directeur central du service de santé des armées, le directeur central de la direction interarmées des réseaux
-d'infrastructure et des systèmes d'information de la défense, le directeur central du service du commissariat des armées, le
-directeur du service interarmées des munitions, le directeur du renseignement militaire, le directeur général des systèmes
-d'information et de communication et le directeur central du service des essences des armées peuvent, au nom du ministre de
-la défense, par délégation de signature, procéder aux actes prévus à l'article D. 2362-3 pour les organismes et
-établissements relevant de leur autorité.
+Pour les formations, services, établissements et entreprises autres que ceux mentionnés à l'article D. 2362-3, l'autorité
+mentionnée à l'article D. 2362-2 ayant déterminé le besoin de protection a délégation du ministre de la défense pour fixer,
+par arrêté, l'implantation et les limites de la zone protégée.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2016-1816 du 21 décembre 2016 - art. 1
+	  - Décret n°2017-320 du 10 mars 2017 - art. 4
+
+	**Cité par**:
+
+	  - Code de la défense. - art. D3121-24 (V)
+
+
+###### Article D2362-4-1
+
+Les autorités mentionnées à l'article D. 2362-2 sont chargées, au nom du ministre de la défense et par délégation, chacune en
+ce qui concerne les formations, services, établissements et entreprises dont elle a déterminé le besoin de protection : 
+
+1° D'émettre les directives et d'exercer le contrôle prévus au premier alinéa de l'article R. 413-5 du code pénal ; 
+
+2° De délivrer les autorisations de pénétrer dans les zones protégées instituées pour protéger des recherches, études ou
+fabrications qui doivent être tenues secrètes dans l'intérêt de la défense nationale, prévues au deuxième alinéa de l'article
+R. 413-5 du code pénal ; 
+
+3° De rendre les avis prévus au II de l'article R. 413-5-1 du code pénal en matière d'accès aux zones à régime restrictif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. D2362-3 (M)
+	  - Code pénal - art. R413-5 (V)
+	  - Code pénal - art. R413-5-1 (V)
+	  - Code de la défense. - art. D2362-2 (V)
 
 	**Cité par**:
 
@@ -61992,29 +62036,332 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 ###### Article D2441-3
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du 
+décret n° 2009-254 du 4 mars 2009
+ et du 
+décret n° 2009-1440 du 23 novembre 2009
+ :
 
-1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, 
-D. 2344-2, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+DISPOSITIONS APPLICABLES
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION
+
+</th>
+      </tr>
+      <tr>
+        <td align="center" colspan="2" valign="middle">
+
+Au livre II
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2234-97
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2009-1494 du 3 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2234-98 à D. 2234-100
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="center" colspan="2">
+
+Au livre III
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-1 et D. 2342-2
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-37
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-38
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-39
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-40
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-41 à D. 2342-58
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-59 et D. 2342-61
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-62 à D. 2342-65
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-66 à D. 2342-68
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-69-1 et D. 2342-69-2
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-70 à D. 2342-72
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-73
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-74 à D. 2342-81
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-82
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-83 à D. 2342-95
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-96
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2009-1657 du 24 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-97 et D. 2342-98
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-99 et D. 2342-100
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2013-377 du 2 mai 2013
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-101 à D. 2342-106
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-111
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-121
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2344-2
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2015-1564 du 30 novembre 2015
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2352-7
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2362-2 à D. 2362-4-1
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2017-320 du 10 mars 2017
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2011-737 du 28 juin 2011 - art. 6
-
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97 (V)
-	  - Code de la défense. - art. D2342-1 (V)
-	  - Code de la défense. - art. D2342-111 (V)
-	  - Code de la défense. - art. D2342-121 (V)
-	  - Code de la défense. - art. D2342-2 (V)
-	  - Code de la défense. - art. D2344-2 (V)
-	  - Code de la défense. - art. D2352-7 (V)
-	  - Code de la défense. - art. D2362-2 (V)
+	  - Décret n°2009-254 du 4 mars 2009
+	  - Décret n°2009-1440 du 23 novembre 2009
+	  - Décret n°2009-1494 du 3 décembre 2009
+	  - Décret n°2009-1657 du 24 décembre 2009
+	  - Décret n°2011-1995 du 27 décembre 2011
+	  - Décret n°2012-626 du 2 mai 2012
+	  - Décret n°2013-377 du 2 mai 2013
+	  - Décret n°2015-1564 du 30 novembre 2015
+	  - Décret n°2017-320 du 10 mars 2017
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 7
 
 
 ###### Article R*2441-1
@@ -63424,28 +63771,329 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 ###### Article D2451-3
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues au titre IX : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, sous
+réserve des adaptations prévues au titre IX, dans leur rédaction résultant du 
+décret n° 2009-254 du 4 mars 2009
+ et du 
+décret n° 2009-1440 du 23 novembre 2009
+ :
 
-1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2, D. 2351-1
-à D. 2351-8, D. 2362-2 à D. 2362-4.
+DISPOSITIONS APPLICABLES
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION
+
+</th>
+      </tr>
+      <tr>
+        <td colspan="2" align="center" valign="middle">
+
+Au livre II
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2234-97
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2009-1494 du 3 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2234-98 à D. 2234-100
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td colspan="2" valign="middle" align="center">
+
+Au livre III
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-1 et D. 2342-2
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-37
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-38
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-39
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-40
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-41 à D. 2342-58
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-59 et D. 2342-61
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-62 à D. 2342-65
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-66 à D. 2342-68
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69-1 et D. 2342-69-2
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-70 à D. 2342-72
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-73
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-74 à D. 2342-81
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-82
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-83 à D. 2342-95
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-96
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2009-1657 du 24 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-97 et D. 2342-98
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-99 et D. 2342-100
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2013-377 du 2 mai 2013
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-101 à D. 2342-106
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-111
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-121
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2344-2
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2015-1564 du 30 novembre 2015
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2362-2 à D. 2362-4-1
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2017-320 du 10 mars 2017
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2011-737 du 28 juin 2011 - art. 6
-
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97 (V)
-	  - Code de la défense. - art. D2342-1 (V)
-	  - Code de la défense. - art. D2342-111 (V)
-	  - Code de la défense. - art. D2342-121 (V)
-	  - Code de la défense. - art. D2344-2 (V)
-	  - Code de la défense. - art. D2362-2 (V)
-	  - Code du travail - art. D2351-1 (V)
+	  - Décret n°2009-254 du 4 mars 2009
+	  - Décret n°2009-1440 du 23 novembre 2009
+	  - Décret n°2009-1494 du 3 décembre 2009
+	  - Décret n°2009-1657 du 24 décembre 2009
+	  - Décret n°2011-1995 du 27 décembre 2011
+	  - Décret n°2012-626 du 2 mai 2012
+	  - Décret n°2013-377 du 2 mai 2013
+	  - Décret n°2015-1564 du 30 novembre 2015
+	  - Décret n°2017-320 du 10 mars 2017
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 8
 
 
 ###### Article R*2451-1
@@ -64383,29 +65031,333 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 ###### Article D2461-4
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, sous
+réserve des adaptations prévues au titre IX, dans leur rédaction résultant du 
+décret n° 2009-254 du 4 mars 2009
+ et du 
+décret n° 2009-1440 du 23 novembre 2009
+ :
 
-1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2, D. 2351-1 à
-D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+DISPOSITIONS APPLICABLES
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION
+
+</th>
+      </tr>
+      <tr>
+        <td valign="middle" colspan="2" align="center">
+
+Au livre II
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2234-97
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2009-1494 du 3 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2234-98 à D. 2234-100
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="center" colspan="2">
+
+Au livre III
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-1 et D. 2342-2
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-37
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-38
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+        </td><td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-40
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-41 à D. 2342-58
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-59 et D. 2342-61
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-62 à D. 2342-65
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-66 à D. 2342-68
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69-1 et D. 2342-69-2
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-70 à D. 2342-72
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-73
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-74 à D. 2342-81
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-82
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-83 à D. 2342-95
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-96
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2009-1657 du 24 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-97 et D. 2342-98
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-99 et D. 2342-100
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2013-377 du 2 mai 2013
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-101 à D. 2342-106
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-111
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-121
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2344-2
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2015-1564 du 30 novembre 2015
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2352-7
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2362-2 à D. 2362-4-1
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2017-320 du 10 mars 2017
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2011-737 du 28 juin 2011 - art. 6
-
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97 (V)
-	  - Code de la défense. - art. D2342-1 (V)
-	  - Code de la défense. - art. D2342-111 (V)
-	  - Code de la défense. - art. D2342-121 (V)
-	  - Code de la défense. - art. D2344-2 (V)
-	  - Code de la défense. - art. D2352-7 (V)
-	  - Code de la défense. - art. D2362-2 (V)
-	  - Code du travail - art. D2351-1 (V)
+	  - Décret n°2009-254 du 4 mars 2009
+	  - Décret n°2009-1440 du 23 novembre 2009
+	  - Décret n°2009-1494 du 3 décembre 2009
+	  - Décret n°2009-1657 du 24 décembre 2009
+	  - Décret n°2011-1995 du 27 décembre 2011
+	  - Décret n°2012-626 du 2 mai 2012
+	  - Décret n°2013-377 du 2 mai 2013
+	  - Décret n°2015-1564 du 30 novembre 2015
+	  - Décret n°2017-320 du 10 mars 2017
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 9
 
 
 ###### Article R*2461-1
@@ -65823,30 +66775,340 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 
 ###### Article D2471-5
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adaptations prévues au titre IX : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
+antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique publié par le 
+décret n° 61-1300 du 30 novembre 1961
+ et sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du 
+décret n° 2009-254 du 4 mars 2009
+ et du 
+décret n° 2009-1440 du 23 novembre 2009
+ :
 
-1° Au livre II, les articles D. 2234-97 à D. 2234-100 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les articles D. 2342-1, D. 2342-2, D. 2342-36 à D. 2342-108, D. 2342-111, D. 2342-121, D. 2344-2
-, D. 2351-1 à D. 2351-8, D. 2352-7, D. 2362-2 à D. 2362-4.
+DISPOSITIONS APPLICABLES
+
+</th>
+        <th>
+
+DANS LEUR RÉDACTION
+
+</th>
+      </tr>
+      <tr>
+        <td valign="middle" colspan="2" align="center">
+
+Au livre II
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2234-97
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2009-1494 du 3 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2234-98 à D. 2234-100
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td colspan="2" valign="middle" align="center">
+
+Au livre III
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-1 et D. 2342-2
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-37
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-38
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-39
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-40
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2011-1995 du 27 décembre 2011
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-41 à D. 2342-58
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-59 et D. 2342-61
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-62 à D. 2342-65
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-66 à D. 2342-68
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-69
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-69-1 et D. 2342-69-2
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-70 à D. 2342-72
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-73
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-74 à D. 2342-81
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-82
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2012-626 du 2 mai 2012
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-83 à D. 2342-95
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-96
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2009-1657 du 24 décembre 2009
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-97 et D. 2342-98
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-99 et D. 2342-100
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2013-377 du 2 mai 2013
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-101 à D. 2342-106
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2342-111
+
+</td>
+        <td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2342-121
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td valign="middle" align="left">
+
+D. 2344-2
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du 
+décret n° 2015-1564 du 30 novembre 2015
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2352-7
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+D. 2362-2 à D. 2362-4-1
+
+</td>
+        <td valign="middle" align="left">
+
+Résultant du 
+décret n° 2017-320 du 10 mars 2017
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2011-737 du 28 juin 2011 - art. 6
-
 	**Cite**:
 
-	  - Code de la défense. - art. D2234-97 (V)
-	  - Code de la défense. - art. D2342-1 (V)
-	  - Code de la défense. - art. D2342-111 (V)
-	  - Code de la défense. - art. D2342-121 (V)
-	  - Code de la défense. - art. D2344-2 (V)
-	  - Code de la défense. - art. D2352-7 (V)
-	  - Code de la défense. - art. D2362-2 (V)
-	  - Code du travail - art. D2351-1 (V)
+	  - Décret n°61-1300 du 30 novembre 1961
+	  - Décret n°2009-254 du 4 mars 2009
+	  - Décret n°2009-1440 du 23 novembre 2009
+	  - Décret n°2009-1494 du 3 décembre 2009
+	  - Décret n°2009-1657 du 24 décembre 2009
+	  - Décret n°2011-1995 du 27 décembre 2011
+	  - Décret n°2012-626 du 2 mai 2012
+	  - Décret n°2013-377 du 2 mai 2013
+	  - Décret n°2015-1564 du 30 novembre 2015
+	  - Décret n°2017-320 du 10 mars 2017
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 10
 
 
 ###### Article R*2471-1
@@ -68283,14 +69545,14 @@ Chaque sous-chef d'état-major dispose d'un officiel général adjoint qui peut 
 
 Leurs attributions sont : 
 
-I.-Pour le sous-chef d'état-major opérations : les attributions relevant du 4° de l'article R. * 3121-2 et des articles D.
-3121-6 et D. 3121-8. 
+I. – Pour le sous-chef d'état-major opérations : les attributions relevant du 1° de l'article D. 2362-2, de l'article D.
+2362-4, de l'article D. 2362-4-1, du 4° de l'article R. * 3121-2 et des articles D. 3121-6 et D. 3121-8. 
 
-II.-Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2, de l'article D. 3121-9 à
-l'exclusion du sixième alinéa du II, ainsi que des 8° et 9° de l'article D. 3121-14. 
+II. – Pour le sous-chef d'état-major plans : les attributions relevant du 3° de l'article R. * 3121-2, de l'article D. 3121-9
+à l'exclusion du sixième alinéa du II, ainsi que des 8° et 9° de l'article D. 3121-14. 
 
-III.-Pour le sous-chef d'état-major " performance " : les attributions relevant des 1°, 2° et 5° de l'article R. * 3121-2, de
-l'article D. 3121-10, de l'article D. 3121-11 à l'exclusion du 1° du I, ainsi que des articles D. 3121-13, D. 3121-15, D.
+III. – Pour le sous-chef d'état-major " performance " : les attributions relevant des 1°, 2° et 5° de l'article R. * 3121-2,
+de l'article D. 3121-10, de l'article D. 3121-11 à l'exclusion du 1° du I, ainsi que des articles D. 3121-13, D. 3121-15, D.
 3121-16, D. 3121-17 et D. 3121-18.
 
 **Liens relatifs à cet article**
@@ -68302,10 +69564,13 @@ l'article D. 3121-10, de l'article D. 3121-11 à l'exclusion du 1° du I, ainsi 
 
 	**Modifié par**:
 
-	  - Décret n°2015-213 du 25 février 2015 - art. 16
+	  - Décret n°2017-320 du 10 mars 2017 - art. 6
 
 	**Cite**:
 
+	  - Code de la défense. - art. D2362-2 (V)
+	  - Code de la défense. - art. D2362-4 (V)
+	  - Code de la défense. - art. D2362-4-1 (V)
 	  - Code de la défense. - art. R*3121-2
 	  - Code de la défense. - art. R3121-10
 	  - Code de la défense. - art. R3121-11
@@ -85928,16 +87193,16 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 ###### Article D3541-4
 
 Sont applicables dans les îles Wallis et Futuna les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14,
-D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8.
+D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+
+Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
+2017.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2013-366 du 29 avril 2013 - art. 11
-
 	**Cite**:
 
+	  - Décret n°2017-320 du 10 mars 2017
 	  - Code de la défense. - art. D3126-1
 	  - Code de la défense. - art. D3222-11
 	  - Code de la défense. - art. D3222-12
@@ -85945,7 +87210,11 @@ D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 
 	  - Code de la défense. - art. D3223-51
 	  - Code de la défense. - art. D3223-7
 	  - Code de la défense. - art. R3121-6
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Code de la défense. - art. R3232-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 11
 
 
 ###### Article R*3541-1
@@ -86033,23 +87302,27 @@ R. 3223-56 à R. 3224-12, R. 3225-1 à R. 3233-28 ;
 
 Sont applicables en Polynésie française les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D.
 3222-11 et D. 3222-12, 
-D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8.
+D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+
+Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
+2017.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2013-366 du 29 avril 2013 - art. 11
-
 	**Cite**:
 
+	  - Décret n°2017-320 du 10 mars 2017
 	  - Code de la défense. - art. D3126-1
 	  - Code de la défense. - art. D3222-11
 	  - Code de la défense. - art. D3222-19
 	  - Code de la défense. - art. D3223-51
 	  - Code de la défense. - art. D3223-7
 	  - Code de la défense. - art. R3121-6
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Code de la défense. - art. R3232-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 11
 
 
 ###### Article R*3551-1
@@ -86135,23 +87408,27 @@ Sont applicables en Polynésie française :
 
 Sont applicables en Nouvelle-Calédonie les dispositions des D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D. 3222-11 et D.
 3222-12, 
-D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8.
+D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+
+Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
+2017.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2013-366 du 29 avril 2013 - art. 11
-
 	**Cite**:
 
+	  - Décret n°2007-320 du 8 mars 2007
 	  - Code de la défense. - art. D3126-1
 	  - Code de la défense. - art. D3222-11
 	  - Code de la défense. - art. D3222-19
 	  - Code de la défense. - art. D3223-51
 	  - Code de la défense. - art. D3223-7
 	  - Code de la défense. - art. R3121-6
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Code de la défense. - art. R3232-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-320 du 10 mars 2017 - art. 11
 
 
 ###### Article R*3561-1
@@ -86237,24 +87514,28 @@ Sont applicables en Nouvelle-Calédonie :
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D.
 3126-14, D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D.
-3232-8.
+3232-8. 
+
+Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
+2017.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
+	  - Décret n°2007-320 du 8 mars 2007
 	  - Code de la défense. - art. D3126-1
 	  - Code de la défense. - art. D3222-11
 	  - Code de la défense. - art. D3222-19
 	  - Code de la défense. - art. D3223-51
 	  - Code de la défense. - art. D3223-7
 	  - Code de la défense. - art. R3121-6
-	  - Code de la défense. - art. R3232-1 (V)
+	  - Code de la défense. - art. R3232-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-366 du 29 avril 2013 - art. 11
+	  - Décret n°2017-320 du 10 mars 2017 - art. 11
 
 
 ###### Article R*3571-1

@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-03-26
+Version Consolidée au 2017-03-30
 
 # Partie législative
 
@@ -71758,31 +71758,31 @@ sous-section 1 de la section 3 du chapitre 1er du titre II du livre Ier de la pa
 
 Les forces ont vocation à intervenir en tout temps et en tout lieu.
 
-Elles sont organisées en commandements de force, états-majors de force et brigades, dont la liste est fixée par arrêté du
-ministre de la défense, et qui ont vocation à se voir confier un commandement opérationnel.
+Elles comprennent les commandements suivants, dont la liste est précisée par arrêté du ministre de la défense :
 
-Les commandements de force sont des commandements organiques responsables de l'entraînement des forces. Ils vérifient
-l'aptitude à remplir leurs missions des états-majors de force, des brigades ainsi que des formations ou des éléments des
-services rattachés aux brigades ou placés de façon occasionnelle auprès d'elles. Ils participent à l'élaboration de la
-doctrine d'emploi les concernant.
+1° Des commandements organiques :
 
-Les états-majors de force sont subordonnés à un commandement de force et sont responsables de la conduite de l'entraînement
-interarmes.
+a) Le commandement de force ;
 
-Les brigades, qui comprennent un état-major et des formations, constituent des commandements organiques. Elles sont
-responsables de l'entraînement des formations qui leur sont rattachées.
+b) Les divisions et les commandements spécialisés ;
+
+c) Les brigades ;
+
+2° Un commandement opérationnel : l'état-major de force.
+
+Ces commandements participent à l'élaboration de la doctrine d'emploi les concernant.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 février 2015 - art. 2 (V)
 	  - Arrêté du 27 mars 2017 - art. 9
 	  - Code de la défense. - art. R3222-10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-417 du 27 mars 2017 - art. 1
 
 
 ##### Section 3 : Dispositions relatives aux commandements organiques territoriaux de l'armée de terre
@@ -71928,8 +71928,11 @@ l'armée de terre et organismes du ministère de la défense, et en recevoir.
 
 ###### Article R3222-10
 
-Les organismes chargés de la formation du personnel de l'armée de terre et de l'enseignement militaire supérieur relèvent de
-la direction des ressources humaines de l'armée de terre.
+Les organismes chargés de la formation initiale du personnel de l'armée de terre relèvent de la direction des ressources
+humaines de l'armée de terre. 
+
+Les organismes chargés de la formation spécialisée au combat relèvent des commandements spécialisés mentionnés au b du 1° de
+l'article R. 3222-4.
 
 **Liens relatifs à cet article**
 
@@ -71939,7 +71942,11 @@ la direction des ressources humaines de l'armée de terre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1213 du 9 octobre 2009 - art. 1
+	  - Décret n°2017-417 du 27 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. R3222-4 (V)
 
 
 ##### Sous-section 2 : La légion étrangère
@@ -72193,29 +72200,6 @@ service militaire adapté, ainsi que l'imputation budgétaire des dépenses autr
 	**Cite**:
 
 	  - Code de la défense. - art. D3222-21 (V)
-
-
-##### Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre
-
-###### Article D3222-23
-
-Le commandement de l'aviation légère de l'armée de terre est exercé, sous l'autorité du chef d'état-major de l'armée de
-terre, par un officier général de l'armée de terre.
-
-Cet officier général est chargé de la mise en condition et de la définition des conditions techniques d'emploi des moyens
-aériens de l'armée de terre.
-
-Ses attributions sont précisées par instruction du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-417 du 27 mars 2017 - art. 3
 
 
 ##### Chapitre III : Organisation de la marine nationale
@@ -87470,8 +87454,9 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+</td>
+    </tr>
     <tr>
       <td align="left">
 
@@ -87500,7 +87485,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3222-10</td>
       <td align="left">
 
-Résultant du décret n° 2009-1213 du 9 octobre 2009 </td>
+Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88803,16 +88788,9 @@ R. 3423-31 à R. 3423-35</td>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2017-391 du 23 mars 2017 - art. 8
-
-	**Cité par**:
-
-	  - Décret n°2017-909 du 9 mai 2017 - art. 32
-
 	**Cite**:
 
+	  - Décret n°2017-417 du 27 mars 2017
 	  - Code de la défense. - art. R3125-1
 	  - Code de la défense. - art. R3127-1
 	  - Code de la défense. - art. R3222-1
@@ -88823,6 +88801,14 @@ R. 3423-31 à R. 3423-35</td>
 	  - Code de la défense. - art. R3225-1
 	  - Code de la défense. - art. R3321-1
 	  - Code de la défense. - art. R3411-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE
@@ -89057,8 +89043,9 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+</td>
+    </tr>
     <tr>
       <td align="left">
 
@@ -89085,9 +89072,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-10</td>
-      <td align="left">
-
-Résultant du décret n° 2009-1213 du 9 octobre 2009 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90390,16 +90375,9 @@ R. 3423-31 à R. 3423-35</td>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2017-391 du 23 mars 2017 - art. 9
-
-	**Cité par**:
-
-	  - Décret n°2017-909 du 9 mai 2017 - art. 32
-
 	**Cite**:
 
+	  - Décret n°2017-417 du 27 mars 2017
 	  - Code de la défense. - art. R3125-1
 	  - Code de la défense. - art. R3127-1
 	  - Code de la défense. - art. R3222-1
@@ -90410,6 +90388,14 @@ R. 3423-31 à R. 3423-35</td>
 	  - Code de la défense. - art. R3225-1
 	  - Code de la défense. - art. R3321-1
 	  - Code de la défense. - art. R3411-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE
@@ -90643,8 +90629,9 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+</td>
+    </tr>
     <tr>
       <td align="left">
 
@@ -90671,9 +90658,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-10</td>
-      <td align="left">
-
-Résultant du décret n° 2009-1213 du 9 octobre 2009 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -91976,16 +91961,9 @@ R. 3423-31 à R. 3423-35</td>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2017-391 du 23 mars 2017 - art. 10
-
-	**Cité par**:
-
-	  - Décret n°2017-909 du 9 mai 2017 - art. 32
-
 	**Cite**:
 
+	  - Décret n°2017-417 du 27 mars 2017
 	  - Code de la défense. - art. R3125-1
 	  - Code de la défense. - art. R3127-1
 	  - Code de la défense. - art. R3222-1
@@ -91996,6 +91974,14 @@ R. 3423-31 à R. 3423-35</td>
 	  - Code de la défense. - art. R3225-1
 	  - Code de la défense. - art. R3321-1
 	  - Code de la défense. - art. R3411-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES
@@ -92235,8 +92221,9 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+</td>
+    </tr>
     <tr>
       <td align="left">
 
@@ -92265,7 +92252,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3222-10</td>
       <td align="left">
 
-Résultant du décret n° 2009-1213 du 9 octobre 2009 </td>
+Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -93571,6 +93558,7 @@ R. 3423-31 à R. 3423-35</td>
 	**Cite**:
 
 	  - Décret n°61-1300 du 30 novembre 1961
+	  - Décret n°2017-417 du 27 mars 2017
 	  - Code de la défense. - art. R3125-1
 	  - Code de la défense. - art. R3127-1
 	  - Code de la défense. - art. R3222-1
@@ -93584,7 +93572,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 11
+	  - Décret n°2017-417 du 27 mars 2017 - art. 4
 
 	**Cité par**:
 

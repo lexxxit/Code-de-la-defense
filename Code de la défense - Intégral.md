@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-03-30
+Version Consolidée au 2017-04-13
 
 # Partie législative
 
@@ -70210,20 +70210,20 @@ Le contrôle général des armées exerce, vis-à-vis des industries d'armement,
 vigueur donnent aux corps de contrôle en matière de contrôle administratif des marchés et de contrôle des matériels de
 guerre, notamment les articles L. 2333-1 à L. 2333-8 du présent code et le décret du 29 mai 1936 sur le contrôle
 administratif des marchés, d'une part, les articles L. 2331-1 à L. 2339-13 du présent code et les textes subséquents sur le
-régime des matériels de guerre, d'autre part. 
+régime des matériels de guerre, d'autre part.
 
-Il effectue les missions de contrôle qui peuvent découler de l'application de l'article 163 du décret n° 2016-361 du 25 mars
-2016 relatif aux marchés publics de défense ou de sécurité.
+En dehors des contrôles institués par les textes généraux en matière de dépenses de l'Etat, il peut effectuer des missions de
+contrôle relatives à la passation et à l'exécution des marchés publics.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-361 du 25 mars 2016 - art. 153
+	  - Décret n°2017-516 du 10 avril 2017 - art. 29
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2333-1 (V)
+	  - Code de la défense. - art. L2333-1
 
 
 ###### Article D3123-12

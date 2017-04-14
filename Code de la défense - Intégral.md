@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-13
+Version Consolidée au 2017-04-15
 
 # Partie législative
 
@@ -33535,24 +33535,23 @@ Il rend compte de ses vérifications au Président de la République et en tient
 
 ###### Article R*1333-37
 
-I.-Le ministre de la défense et le ministre chargé de l'industrie définissent la politique de sûreté nucléaire et de la
-radioprotection relative aux installations et activités nucléaires intéressant la défense mentionnées à l'article L.
-1333-15. 
+I.-Le ministre de la défense définit la politique de sûreté nucléaire et de la radioprotection relative aux installations et
+activités nucléaires intéressant la défense mentionnées à l'article L. 1333-15.
 
-Ils fixent les objectifs et les exigences correspondantes en matière de sûreté nucléaire et de radioprotection auxquelles ces
+Il fixe les objectifs et les exigences correspondantes en matière de sûreté nucléaire et de radioprotection auxquelles ces
 installations et activités doivent satisfaire en tenant compte de leurs différentes situations et des configurations de leur
-mise en œuvre. 
+mise en œuvre.
 
-Ils fixent la réglementation de sûreté nucléaire et de radioprotection et notamment la réglementation technique générale,
-applicable à ces installations et activités. 
+Il fixe la réglementation de sûreté nucléaire et de radioprotection et notamment la réglementation technique générale,
+applicable à ces installations et activités.
 
-II.-Ils veillent à ce que soient prises les dispositions propres à assurer la protection des personnes, des biens et de
+II.-Il veille à ce que soient prises les dispositions propres à assurer la protection des personnes, des biens et de
 l'environnement contre les dangers ou inconvénients résultant de la création, du fonctionnement, de l'arrêt et du
-démantèlement des installations, ainsi que des activités couvertes par la présente sous-section. 
+démantèlement des installations, ainsi que des activités couvertes par la présente sous-section.
 
-Ils s'assurent en particulier : 
+Il s'assure en particulier :
 
-1° Du respect de la réglementation prévue pour assurer la protection radiologique du public et du personnel ; 
+1° Du respect de la réglementation prévue pour assurer la protection radiologique du public et du personnel ;
 
 2° De la prévention et du contrôle des pollutions et des risques de toute nature.
 
@@ -33586,7 +33585,7 @@ Ils s'assurent en particulier :
 	  - Code de l'environnement - art. R541-48 (M)
 	  - Code de l'environnement - art. R542-67 (M)
 	  - Code de la défense. - art. R*1333-37-1 (M)
-	  - Code de la défense. - art. R*1333-44 (V)
+	  - Code de la défense. - art. R*1333-44 (M)
 	  - Code de la défense. - art. R*1333-53 (Ab)
 	  - Code de la défense. - art. R*1333-67-1 (M)
 	  - Code de la défense. - art. R*1411-13 (Ab)
@@ -33599,7 +33598,7 @@ Ils s'assurent en particulier :
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -33612,10 +33611,10 @@ Les responsables d'installations ou d'activités nucléaires mentionnées à l'a
 délai au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense
 mentionné à l'article R. * 1333-67-5 tout incident ou accident nucléaire ou non, ayant ou risquant d'avoir des conséquences
 notables sur la sûreté des installations ou des activités ou de porter atteinte notamment, par exposition aux rayonnements
-ionisants, aux personnes ou à l'environnement. 
+ionisants, aux personnes ou à l'environnement.
 
 Dès qu'il est informé de la survenue d'un tel incident ou accident, le délégué ou, en cas d'empêchement, son représentant,
-propose aux ministres concernés, en application des articles R. * 1333-67-5 à R. * 1333-67-8, les mesures rendues
+propose au ministre de la défense, en application des articles R. * 1333-67-5 à R. * 1333-67-8, les mesures rendues
 nécessaires, ou les fait adopter en cas d'urgence. Il participe à l'action des pouvoirs publics en cas d'événement entraînant
 une situation d'urgence radiologique.
 
@@ -33627,7 +33626,7 @@ une situation d'urgence radiologique.
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 2
 
 	**Cite**:
 
@@ -33637,25 +33636,24 @@ une situation d'urgence radiologique.
 
 ###### Article R*1333-38
 
-I.-Les commissions d'information mentionnées à l'article L. 1333-20 sont créées respectivement par arrêté du ministre de la
-défense ou du ministre chargé de l'industrie. 
+I.-Les commissions d'information mentionnées à l'article L. 1333-20 sont créées par arrêté du ministre de la défense.
 
-Elles sont présidées : 
+Elles sont présidées :
 
 1° S'agissant des installations nucléaires de base secrètes, des navires militaires à propulsion nucléaire sur leurs lieux
 habituels de stationnement et, le cas échéant, des sites et installations d'expérimentations nucléaires intéressant la
-défense : par les préfets de département ou par des personnalités qualifiées nommées par eux ; 
+défense : par les préfets de département ou par des personnalités qualifiées nommées par eux ;
 
 2° S'agissant des anciens sites d'expérimentations nucléaires du Pacifique : par le haut-commissaire de la République en
-Polynésie française ou par une personnalité qualifiée nommée par lui. 
+Polynésie française ou par une personnalité qualifiée nommée par lui.
 
-II.-Outre les représentants des services de l'Etat intéressés, les commissions d'information comprennent des représentants : 
+II.-Outre les représentants des services de l'Etat intéressés, les commissions d'information comprennent des représentants :
 
 1° Des intérêts économiques et sociaux, des associations agréées de protection de l'environnement et, sur leur demande, des
-collectivités territoriales ; 
+collectivités territoriales ;
 
-2° Du ministre de la défense pour les installations et activités relevant de son autorité ou des exploitants dans les autres
-cas. 
+2° Du ministre de la défense pour les installations et activités placées sous son autorité hiérarchique ou des exploitants
+dans les autres cas.
 
 Dans le respect des exigences liées à la défense nationale, les représentants du ministre de la défense ou de l'exploitant,
 selon les cas, transmettent à ces commissions, ainsi qu'au délégué à la sûreté nucléaire et à la radioprotection pour les
@@ -33680,11 +33678,11 @@ radiologique et des rejets produits par l'installation, ainsi que des mesures pr
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-20 (V)
+	  - Code de la défense. - art. L1333-20
 
 
 ###### Article R*1333-39
@@ -33717,13 +33715,12 @@ L. 1333-15, ces deux commissions s'échangent toutes informations utiles et peuv
 ###### Article R*1333-40
 
 I.-Le classement en installation nucléaire de base secrète, mentionnée au 1° de l'article L. 1333-15, est décidé par le
-Premier ministre sur proposition du ministre compétent. Celui-ci étant, selon le cas, le ministre de la défense ou le
-ministre chargé de l'industrie pour leurs installations respectives. 
+Premier ministre sur proposition du ministre de la défense.
 
 Ce classement est prononcé lorsqu'une au moins des installations comprises dans le périmètre, dénommée installation
-individuelle, présente les caractéristiques techniques fixées par arrêté conjoint du ministre de la défense et du ministre
-chargé de l'industrie, intéresse la défense nationale et justifie d'une protection particulière contre la prolifération
-nucléaire, la malveillance ou la divulgation d'informations classifiées. 
+individuelle, présente les caractéristiques techniques fixées par arrêté du ministre de la défense, intéresse la défense
+nationale et justifie d'une protection particulière contre la prolifération nucléaire, la malveillance ou la divulgation
+d'informations classifiées.
 
 II.-Les installations nucléaires de base secrètes sont définies par leur périmètre fixé par le plan annexé à la décision de
 classement. En font partie l'ensemble des installations et équipements, nucléaires ou non, compris dans le périmètre
@@ -33761,7 +33758,7 @@ susmentionné.
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 4
 
 	**Cite**:
 
@@ -33771,21 +33768,16 @@ susmentionné.
 ###### Article R*1333-41
 
 La création d'une installation nucléaire de base secrète est soumise à autorisation. L'autorisation est délivrée par décret
-pris sur le rapport du ministre compétent. 
+pris sur le rapport du ministre de la défense.
 
 Ce décret n'est pas publié, lorsque sa publication serait de nature à compromettre la protection des intérêts de la défense
-nationale. 
+nationale.
 
 Les demandes d'autorisation sont instruites par des personnes habilitées au secret de la défense nationale.
 
 **Nota:**
 
-Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
-définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
-à compter de cette date (Commission spéciale des installations nucléaires de base secrète).
 
-art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
-décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
 
 **Liens relatifs à cet article**
 
@@ -33799,7 +33791,7 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 
 	**Modifié par**:
 
-	  - Décret n°2011-1537 du 16 novembre 2011 - art. 3
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
 
 	**Cité par**:
 
@@ -33813,7 +33805,7 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 ###### Article R*1333-42
 
 La demande d'autorisation de création d'une installation nucléaire de base secrète est adressée par le futur exploitant ou
-service utilisateur au ministre compétent. 
+service utilisateur au ministre de la défense.
 
 La demande porte sur l'ensemble des installations individuelles comprises dans le périmètre mentionné à l'article R. *
 1333-40.
@@ -33830,16 +33822,16 @@ La demande porte sur l'ensemble des installations individuelles comprises dans l
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-40 (M)
+	  - Code de la défense. - art. R*1333-40
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R*1333-43 (V)
-	  - Code de la défense. - art. R*1333-46 (M)
+	  - Code de la défense. - art. R*1333-46 (V)
 	  - Code de la défense. - art. R*1333-67-6 (V)
 	  - Code de la défense. - art. R*1411-8 (V)
 
@@ -33981,18 +33973,18 @@ sûreté de l'exploitation ;
 ###### Article R*1333-46
 
 Le décret d'autorisation de création fixe les délais dans lesquels les installations individuelles sont mises en exploitation
-ou en service. 
+ou en service.
 
 Lorsqu'une installation individuelle est créée postérieurement au décret d'autorisation de création de l'installation
-nucléaire de base secrète en respectant les prescriptions générales, sont transmis au délégué : 
+nucléaire de base secrète en respectant les prescriptions générales, sont transmis au délégué :
 
 1° Six mois au moins avant le début de la construction, les rapports préliminaires de sûreté prévus au 3° de l'article R. *
-1333-43 ; 
+1333-43 ;
 
 2° Une mise à jour du dossier mentionné à l'article R. * 1333-43.
 
-L'autorisation de création de l'installation individuelle nouvelle est accordée par arrêté du ministre compétent. Cet arrêté
-fixe les délais dans lesquels les installations individuelles doivent être mises en exploitation ou en service.
+L'autorisation de création de l'installation individuelle nouvelle est accordée par arrêté du ministre de la défense. Cet
+arrêté fixe les délais dans lesquels les installations individuelles doivent être mises en exploitation ou en service.
 
 **Liens relatifs à cet article**
 
@@ -34006,11 +33998,11 @@ fixe les délais dans lesquels les installations individuelles doivent être mis
 
 	**Modifié par**:
 
-	  - Décret n°2011-1537 du 16 novembre 2011 - art. 3
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*1333-42
+	  - Code de la défense. - art. R*1333-42 (V)
 	  - Code de la défense. - art. R*1333-43
 
 	**Cité par**:
@@ -34132,20 +34124,20 @@ de base secrète, des modifications notables de la nature des risques ou un accr
 
 ###### Article R*1333-49
 
-Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les installations et
+Le ministre de la défense est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les installations et
 activités intéressant la défense informé de toute modification envisagée des installations individuelles, de nature à
 entraîner une mise à jour des rapports de sûreté, des règles d'exploitation ou du plan d'urgence interne de l'installation
 nucléaire de base secrète.
 
-Le ministre compétent peut à tout moment faire procéder au réexamen de la sûreté de tout ou partie de l'installation
+Le ministre de la défense peut à tout moment faire procéder au réexamen de la sûreté de tout ou partie de l'installation
 nucléaire de base secrète et, en fonction des résultats de ce réexamen, soumettre la poursuite de l'exploitation à son
 autorisation ou à l'intervention d'un nouveau décret.
 
 Sans préjudice de l'application des mesures prévues par les règlements en vigueur, tout accident ou incident, nucléaire ou
 non, ayant ou pouvant avoir des conséquences sur la radioprotection ou la sûreté de l'installation nucléaire de base secrète,
-est déclaré au délégué et au ministre compétent selon les instructions particulières de ce dernier.
+est déclaré au délégué et au ministre de la défense selon les instructions particulières de ce dernier.
 
-Le ministre compétent prend, en cas d'urgence, toute mesure de nature à faire cesser le trouble et à assurer la sécurité,
+Le ministre de la défense prend, en cas d'urgence, toute mesure de nature à faire cesser le trouble et à assurer la sécurité,
 notamment par suspension du fonctionnement de l'installation.
 
 **Liens relatifs à cet article**
@@ -34160,7 +34152,7 @@ notamment par suspension du fonctionnement de l'installation.
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
 
 
 ###### Article R*1333-50
@@ -34180,7 +34172,7 @@ radioprotection et le maintien d'un niveau satisfaisant de sûreté ;
 
 4° Une mise à jour du plan d'urgence interne au périmètre dans lequel l'installation nucléaire de base secrète est située.
 
-La mise en œuvre de ces dispositions est subordonnée à leur approbation par le ministre compétent ou par le délégué à la
+La mise en œuvre de ces dispositions est subordonnée à leur approbation par le ministre de la défense ou par le délégué à la
 sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense agissant par délégation.
 
 **Liens relatifs à cet article**
@@ -34195,7 +34187,7 @@ sûreté nucléaire et à la radioprotection pour les installations et activité
 
 	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
 
 
 ###### Article R*1333-51
@@ -34203,25 +34195,26 @@ sûreté nucléaire et à la radioprotection pour les installations et activité
 Lorsqu'une installation nucléaire de base secrète ne présente plus les caractéristiques ayant conduit à son classement, une
 décision mettant fin au classement est prise dans les formes prévues à l'article R. * 1333-40. Lorsque ce déclassement ne
 s'applique qu'à une ou plusieurs installations individuelles, le périmètre de l'installation nucléaire de base secrète est
-modifié dans les conditions fixées au premier alinéa de l'article R. * 1333-48. 
+modifié dans les conditions fixées au premier alinéa de l'article R. * 1333-48.
 
-Chaque installation individuelle relevant de la compétence du ministre chargé de l'industrie qui, après déclassement, répond
-à la définition d'une installation nucléaire de base telle que fixée par l'article L. 593-2 du code de l'environnement, fait
-l'objet d'un enregistrement dans les formes prévues par le décret en Conseil d'Etat mentionné à l'article L. 593-38 du code
-de l'environnement, sans enquête publique. Les dispositions réglementant l'installation lorsqu'elle était classée secrète
-restent applicables aussi longtemps que de nouvelles dispositions prises au titre du décret susmentionné ne s'y substituent
-pas. Les étapes ultérieures du fonctionnement de chacune de ces installations sont régies par ce même décret. 
+Une installation individuelle qui n'est pas placée sous l'autorité hiérarchique du ministre de la défense et qui, après
+déclassement, répond à la définition d'une installation nucléaire de base telle que fixée par l'article L. 593-2 du code de
+l'environnement, fait l'objet d'un enregistrement dans les formes prévues par le décret en Conseil d'Etat mentionné à
+l'article L. 593-38 du code de l'environnement, sans enquête publique. Les dispositions réglementant l'installation
+lorsqu'elle était classée secrète restent applicables aussi longtemps que de nouvelles dispositions prises au titre du décret
+susmentionné ne s'y substituent pas. Les étapes ultérieures du fonctionnement de chacune de ces installations sont régies par
+ce même décret.
 
 La décision d'exclure du périmètre défini à l'article R. * 1333-40 un équipement ou une installation mentionnée à l'article
 R. * 1333-47, relevant du chapitre unique du titre VIII du livre Ier du code de l'environnement, du chapitre IV du titre Ier
 du livre II ou du titre Ier du livre V de ce même code, est notifiée par le délégué au préfet, qui prend acte, par arrêté
 pris sans enquête publique, de la nouvelle situation administrative des installations et équipements en cause. Les
 dispositions réglementant l'installation ou l'équipement, lorsqu'ils étaient classés secret, restent applicables aussi
-longtemps que de nouvelles dispositions ne sont pas prises par le préfet. 
+longtemps que de nouvelles dispositions ne sont pas prises par le préfet.
 
 Les installations nucléaires de base secrètes existant antérieurement à la date du 7 juillet 2001 sont soumises aux
 dispositions de la présente section, à l'exception de celles relatives à l'autorisation de création. Les prescriptions
-générales de ces installations sont établies par décision du ministre compétent.
+générales de ces installations sont établies par décision du ministre de la défense.
 
 **Nota:**
 
@@ -34240,7 +34233,8 @@ d'entrée en vigueur.
 
 	**Modifié par**:
 
-	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
+	  - Décret n°2017-539 du 13 avril 2017 - art. 5
+	  - Décret n°2017-539 du 13 avril 2017 - art. 6
 
 	**Cite**:
 
@@ -34258,45 +34252,45 @@ d'entrée en vigueur.
 ###### Article R*1333-51-1
 
 I.-Les demandes d'autorisation de rejets liquides et gazeux et de prélèvements d'eau des installations nucléaires de base
-secrètes sont instruites selon les modalités suivantes : 
+secrètes sont instruites selon les modalités suivantes :
 
 1° Les installations, ouvrages, travaux et activités réalisés dans une installation nucléaire de base secrète relevant de
 l'article L. 214-1 du code de l'environnement sont soumis à autorisation ou à déclaration conformément aux dispositions de
 l'article L. 214-2 du même code. Les règles de procédure applicables sont celles définies dans le présent article en lieu et
 place de celles prévues au chapitre unique du titre VIII du livre Ier et au chapitre IV du titre Ier du livre II du même
-code ; 
+code ;
 
 2° Les rejets d'effluents dans le milieu ambiant, qu'ils proviennent d'une installation individuelle ou d'un autre type
-d'installation, sont soumis à autorisation ; 
+d'installation, sont soumis à autorisation ;
 
-3° Les demandes d'autorisation ou les déclarations sont transmises au délégué ; 
+3° Les demandes d'autorisation ou les déclarations sont transmises au délégué ;
 
 4° Lors de la création de l'installation nucléaire de base secrète ou de modifications susceptibles d'accroître de manière
 significative les effets des rejets sur la sécurité, la santé et la salubrité publiques ou la protection de la nature et de
 l'environnement, les demandes d'autorisation sont soumises à l'enquête publique. Les éléments de nature à entraîner la
-divulgation de secrets de la défense nationale sont retirés du dossier soumis à l'enquête ; 
+divulgation de secrets de la défense nationale sont retirés du dossier soumis à l'enquête ;
 
 5° La commission mentionnée à l'article L. 1416-1 du code de la santé publique, compétente en matière d'environnement, de
-risques sanitaires et technologiques, est consultée sur le projet d'arrêté du ministre intéressé relatif aux prélèvements
-d'eau, aux rejets d'effluents dans le milieu ambiant ; 
+risques sanitaires et technologiques, est consultée sur le projet d'arrêté du ministre de la défense relatif aux prélèvements
+d'eau, aux rejets d'effluents dans le milieu ambiant ;
 
-6° Le projet d'arrêté du ministre intéressé est transmis pour avis au ministre chargé de la sécurité civile et à l'Autorité
-de sûreté nucléaire. En l'absence de réponse dans un délai d'un mois à partir de la date de réception de la demande, l'avis
-est réputé favorable ; 
+6° Le projet d'arrêté du ministre de la défense est transmis pour avis au ministre chargé de la sécurité civile et à
+l'Autorité de sûreté nucléaire. En l'absence de réponse dans un délai d'un mois à partir de la date de réception de la
+demande, l'avis est réputé favorable ;
 
 7° Le contrôle des opérations soumises à autorisation ou à déclaration relève du délégué. Sans préjudice des contrôles
 effectués par le délégué, la surveillance de l'environnement relève de l'Autorité de sûreté nucléaire. Les personnes chargées
 du contrôle, de la surveillance et de la constatation des infractions, ainsi que les personnels de laboratoires ou organismes
 appelés à procéder aux analyses et contrôles des prélèvements effectués doivent être habilités au secret de la défense
-nationale. 
+nationale.
 
-8° S'agissant des ouvrages, travaux ou activités intéressant des installations ou enceintes relevant du ministre de la
-défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale, les dispositions des 4°, 5° et
-6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le rapport du ministre de la défense
-et après avis du délégué. 
+8° S'agissant des ouvrages, travaux ou activités intéressant des installations ou enceintes placées sous l'autorité
+hiérarchique du ministre de la défense et entrant dans le cadre d'opérations couvertes par le secret de la défense nationale,
+les dispositions des 4°, 5° et 6° ne sont pas applicables. Dans ce cas, l'autorisation est donnée par décret pris sur le
+rapport du ministre de la défense et après avis du délégué.
 
 II.-Le contenu des dossiers de demande d'autorisation de rejets et de prélèvements d'eau ainsi que la procédure d'instruction
-de ces dossiers sont fixés par arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie.
+de ces dossiers sont fixés par arrêté du ministre de la défense.
 
 **Nota:**
 
@@ -34316,7 +34310,7 @@ d'entrée en vigueur.
 
 	**Modifié par**:
 
-	  - Décret n°2017-81 du 26 janvier 2017 - art. 8
+	  - Décret n°2017-539 du 13 avril 2017 - art. 7
 
 	**Cite**:
 
@@ -34391,11 +34385,10 @@ respectant ces prescriptions est décidée par le ministre de la défense. Ces d
 Lorsque la réalisation d'un nouveau type de système nucléaire militaire est prévue, le ministre de la défense fixe les délais
 dans lesquels chaque système de ce type doit être mis en service.
 
-Dans la conduite des programmes, le ministre de la défense et le ministre chargé de l'industrie définissent les conditions
-permettant d'assurer la protection radiologique des personnes et la sûreté nucléaire des systèmes d'armes d'un même type. Le
-ministre de la défense détermine les justifications correspondantes que les services doivent présenter au délégué avant
-chaque étape de la conception, de la réalisation et de la mise en service, puis au cours de l'exploitation des systèmes de ce
-type.
+Dans la conduite des programmes, le ministre de la défense définit les conditions permettant d'assurer la protection
+radiologique des personnes et la sûreté nucléaire des systèmes d'armes d'un même type. Le ministre de la défense détermine
+les justifications correspondantes que les services doivent présenter au délégué avant chaque étape de la conception, de la
+réalisation et de la mise en service, puis au cours de l'exploitation des systèmes de ce type.
 
 Après avis du délégué, le ministre de la défense fixe par arrêté la répartition des responsabilités de sûreté nucléaire entre
 ses services, au cours de chacune de ces étapes, en précisant les dispositions à prendre pour garantir la sûreté nucléaire
@@ -34412,7 +34405,11 @@ relatif aux lieux où le stationnement habituel de ces systèmes est autorisé.
 
 	**Codifié par**:
 
-	  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-583 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-539 du 13 avril 2017 - art. 8
 
 
 ###### Article R*1333-63
@@ -34627,29 +34624,25 @@ titre du présent article peut être commune avec l'autorisation délivrée pour
 ###### Article R*1333-67-1-1
 
 Les sites et installations d'expérimentations nucléaires intéressant la défense, mentionnés au 3° de l'article L. 1333-15 et
-dont la liste est fixée par un arrêté conjoint du ministre de la défense et du ministre chargé de l'industrie, sont définis
-par leur périmètre figurant sur un plan dont un exemplaire est transmis au préfet. 
+dont la liste est fixée par un arrêté du ministre de la défense, sont définis par leur périmètre figurant sur un plan dont un
+exemplaire est transmis au préfet.
 
-Toute modification de ce périmètre est soumise, selon le cas, à décision du ministre de la défense ou du ministre chargé de
-l'industrie, prise sur avis du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités
-intéressant la défense mentionné à l'article R. * 1333-67-5. 
+Toute modification de ce périmètre est soumise à la décision du ministre de la défense prise sur avis du délégué à la sûreté
+nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné à l'article R. *
+1333-67-5.
 
 Le délégué y assure la surveillance en matière de protection de l'environnement, de sûreté nucléaire et de radioprotection.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 3
+	  - Décret n°2017-539 du 13 avril 2017 - art. 9
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1333-15 (V)
-	  - Code de la défense. - art. R*1333-67-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de la défense. - art. R*1333-67-1 (T)
+	  - Code de la défense. - art. L1333-15
+	  - Code de la défense. - art. R*1333-67-5
 
 
 ###### Article R*1333-67-2
@@ -34779,40 +34772,35 @@ l'article L. 551-2 du code de l'environnement est transmise au délégué.
 
 Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense participe
 au contrôle de la sûreté nucléaire et de la radioprotection des installations et activités nucléaires intéressant la défense
-mentionnées à l'article L. 1333-15. 
+mentionnées à l'article L. 1333-15.
 
-Le délégué est placé auprès du ministre de la défense et du ministre chargé de l'industrie. Il est nommé par décret, sur
-proposition conjointe des deux ministres, pour une durée de cinq ans renouvelable. 
+Le délégué est placé auprès du ministre de la défense. Il est nommé par décret, sur proposition de celui-ci, pour une durée
+de cinq ans renouvelable.
 
-Le délégué est chargé d'étudier et de proposer au ministre de la défense et au ministre chargé de l'industrie la politique de
-sûreté nucléaire et de radioprotection applicable aux installations et activités nucléaires mentionnées à l'article L.
-1333-15. Il en contrôle l'application. 
+Le délégué est chargé d'étudier et de proposer au ministre de la défense la politique de sûreté nucléaire et de
+radioprotection applicable aux installations et activités nucléaires mentionnées à l'article L. 1333-15. Il en contrôle
+l'application.
 
-Il leur propose également, en tenant compte des spécificités propres aux installations et activités nucléaires intéressant la
+Il lui propose également, en tenant compte des spécificités propres aux installations et activités nucléaires intéressant la
 défense, toute adaptation de la réglementation qu'il juge nécessaire, notamment en matière de prévention et de contrôle des
-risques que ces installations et activités peuvent présenter pour les personnes, les biens et l'environnement. 
+risques que ces installations et activités peuvent présenter pour les personnes, les biens et l'environnement.
 
 Pour l'exercice de ses missions, il établit des échanges réguliers d'informations avec l'Autorité de sûreté nucléaire
-mentionnée au chapitre II du titre IX du livre V de la partie législative du code de l'environnement. 
+mentionnée au chapitre II du titre IX du livre V de la partie législative du code de l'environnement.
 
-Il rend compte au ministre de la défense et au ministre chargé de l'industrie de la sûreté nucléaire des installations et
-activités relevant de leurs compétences respectives, de leur création jusqu'au terme de leur démantèlement ou de leur
-déclassement. Il rend compte également de l'ensemble de ses actions et de ses constatations, dans l'exercice de ses
-attributions en matière de radioprotection. A ce titre, il remet au ministre de la défense et au ministre chargé de
-l'industrie un rapport annuel sur l'état de la sûreté nucléaire et de la radioprotection de ces installations et activités.
-Il leur fait des propositions relatives à l'information du public en ces domaines.
+Il rend compte au ministre de la défense de la sûreté nucléaire des installations et activités intéressant la défense, de
+leur création jusqu'au terme de leur démantèlement ou de leur déclassement. Il rend compte également de l'ensemble de ses
+actions et de ses constatations, dans l'exercice de ses attributions en matière de radioprotection. A ce titre, il remet au
+ministre de la défense un rapport annuel sur l'état de la sûreté nucléaire et de la radioprotection de ces installations et
+activités. Il lui fait des propositions relatives à l'information du public en ces domaines.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2015-1029 du 19 août 2015 - art. 3 (V)
 	  - Décret n°2017-539 du 13 avril 2017 - art. 16
-	  - Code de la défense. - art. R*1333-37-1 (M)
+	  - Code de la défense. - art. R*1333-37-1 (V)
 	  - Code de la défense. - art. R*1333-47-1 (VD)
 	  - Code de la défense. - art. R*1333-61 (V)
 	  - Code de la défense. - art. R*1333-67-1-1 (V)
@@ -34821,6 +34809,10 @@ Il leur fait des propositions relatives à l'information du public en ces domain
 	  - Code de la défense. - art. R*1333-67-9 (V)
 	  - Code de la défense. - art. R*1411-17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-539 du 13 avril 2017 - art. 10
+
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-15
@@ -34828,70 +34820,67 @@ Il leur fait des propositions relatives à l'information du public en ces domain
 
 ###### Article R*1333-67-6
 
-Le délégué est notamment chargé : 
+Le délégué est notamment chargé :
 
 1° De contrôler l'application de la réglementation de sûreté nucléaire en faisant procéder à l'inspection des installations
-et activités nucléaires intéressant la défense mentionnées à l'article L. 1333-15 ; 
+et activités nucléaires intéressant la défense mentionnées à l'article L. 1333-15 ;
 
 2° De contrôler l'application de la réglementation prévue pour assurer la protection radiologique du public et du personnel,
-notamment la pertinence des dispositions techniques prises dans le cadre de la protection contre les rayonnements
-ionisants ; 
+notamment la pertinence des dispositions techniques prises dans le cadre de la protection contre les rayonnements ionisants ;
 
 3° De contrôler l'application de la réglementation relative aux sources radioactives détenues et utilisées dans les
-installations mentionnées à l'article L. 1333-15 ; 
+installations mentionnées à l'article L. 1333-15 ;
 
 4° D'instruire les demandes d'autorisation mentionnées aux articles R. * 1333-42 et R. * 1333-63, d'établir les prescriptions
-de sûreté nucléaire et de radioprotection correspondantes et de donner son avis au ministre de la défense et au ministre
-chargé de l'industrie ; 
+de sûreté nucléaire et de radioprotection correspondantes et de donner son avis au ministre de la défense ;
 
-5° De proposer au ministre de la défense et au ministre chargé de l'industrie ou de prendre, dans la limite des délégations
-qui lui sont consenties, toute mesure de sûreté nucléaire et de radioprotection nécessaire, notamment pour prévenir les
-accidents ou incidents impliquant ces installations ou activités et d'en limiter les conséquences ; 
+5° De proposer au ministre de la défense ou de prendre, dans la limite des délégations qui lui sont consenties, toute mesure
+de sûreté nucléaire et de radioprotection nécessaire, notamment pour prévenir les accidents ou incidents impliquant ces
+installations ou activités et d'en limiter les conséquences ;
 
-6° De conduire des études prospectives et de proposer au ministre de la défense et au ministre chargé de l'industrie la
-réalisation d'enquêtes en matière de sûreté nucléaire et de radioprotection ; 
+6° De conduire des études prospectives et de proposer au ministre de la défense la réalisation d'enquêtes en matière de
+sûreté nucléaire et de radioprotection ;
 
 7° De participer à l'information du public dans les domaines de sa compétence, dans le respect des exigences liées à la
-défense nationale ; 
+défense nationale ;
 
 8° De donner un avis sur l'impact des actes de malveillance sur la sûreté nucléaire et la radioprotection selon des scénarios
 d'agression définis par les services compétents de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
+	  - Décret n°2017-539 du 13 avril 2017 - art. 11
 
 	**Cite**:
 
 	  - Code de la défense. - art. L1333-15
-	  - Code de la défense. - art. R*1333-42 (V)
+	  - Code de la défense. - art. R*1333-42
 
 
 ###### Article R*1333-67-7
 
 Le délégué délivre les autorisations ou reçoit les déclarations mentionnées à l'article L. 1333-4 du code de la santé
 publique lorsque les sources de rayonnements ionisants sont détenues ou utilisées dans les équipements et installations
-soumis à son contrôle. 
+soumis à son contrôle.
 
-Le délégué peut recevoir délégation du ministre de la défense et du ministre chargé de l'industrie pour signer en leur nom
-tout acte ou décision concernant l'application des dispositions de la section 2 du chapitre III du titre III du livre III et
-de la présente section, à l'exception des décrets, des décisions de mise en service des systèmes nucléaires militaires ainsi
-que de celles ayant une incidence directe sur la disponibilité opérationnelle des forces nucléaires. 
+Le délégué peut recevoir délégation du ministre de la défense pour signer en son nom tout acte ou décision concernant
+l'application des dispositions de la section 2 du chapitre III du titre III du livre III et de la présente section, à
+l'exception des décrets, des décisions de mise en service des systèmes nucléaires militaires ainsi que de celles ayant une
+incidence directe sur la disponibilité opérationnelle des forces nucléaires.
 
 Il s'appuie sur l'avis de commissions techniques de sûreté nucléaire dont la composition, le fonctionnement et les
-attributions sont précisés, sur son rapport, par arrêté conjoint du ministre de la défense et du ministre chargé de
-l'industrie. 
+attributions sont précisés, sur son rapport, par arrêté du ministre de la défense.
 
 Le délégué est informé de tout projet de textes réglementaires pris en application des articles L. 4451-1 et L. 4451-2 du
 code du travail ou du chapitre III du titre III du livre III de la première partie du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
+	  - Décret n°2017-539 du 13 avril 2017 - art. 12
 
 	**Cité par**:
 
@@ -34900,21 +34889,19 @@ code du travail ou du chapitre III du titre III du livre III de la première par
 
 	**Cite**:
 
-	  - Code du travail - art. L4451-1 (VT)
-	  - Code de la santé publique - art. L1333-4 (VT)
+	  - Code du travail - art. L4451-1
+	  - Code de la santé publique - art. L1333-4
 
 
 ###### Article R*1333-67-8
 
-Le délégué est assisté de deux adjoints, un adjoint militaire nommé par le ministre de la défense et un adjoint nommé par le
-ministre chargé de l'industrie. 
+Le délégué est assisté de deux adjoints, dont l'un est militaire, nommés par le ministre de la défense.
 
-Il bénéficie du concours de personnel mis à sa disposition, notamment par le ministre de la défense et le ministre chargé de
-l'industrie, regroupé au sein d'un service dénommé Autorité de sûreté nucléaire de défense et placé sous sa responsabilité.
-Des arrêtés du ministre de la défense et du ministre chargé de l'industrie fixent les moyens nécessaires au fonctionnement de
-ce service. 
+Il bénéficie du concours de personnel mis à sa disposition, notamment par le ministre de la défense, regroupé au sein d'un
+service dénommé Autorité de sûreté nucléaire de défense et placé sous sa responsabilité. Un arrêté du ministre de la défense
+fixe les moyens nécessaires au fonctionnement de ce service.
 
-Il peut également avoir recours à des experts de son choix. 
+Il peut également avoir recours à des experts de son choix.
 
 Le personnel de l'Autorité de sûreté nucléaire de défense et les experts sont habilités au secret de la défense nationale et
 astreints au secret professionnel dans les conditions et sous les sanctions prévues aux articles 226-13 et suivants du code
@@ -34923,9 +34910,9 @@ atteintes au secret de la défense nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-159 du 11 février 2015 - art. 6
+	  - Décret n°2017-539 du 13 avril 2017 - art. 13
 
 	**Cite**:
 
@@ -40949,58 +40936,586 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 ###### Article R*1641-1
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+dans leur rédaction issue du décret n° 2007-583 du 23 avril 2007, sous réserve des adaptations prévues à l'article D.
+1641-6 :
 
-1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-3° Au livre III, les dispositions des articles R. * 1311-1, R. * 1311-3, R. * 1311-4, R. * 1311-5, des 1° à 6° de l'article
-R. * 1311-6, des articles R. * 1311-7, R. * 1311-8, R. * 1311-12 à R. * 1311-14, de l'article R. * 1311-21, de l'article R.
-1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article R. 1311-22-1, de l'article R. 1311-24, de
-l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. * 1311-33 à R. * 1311-38, des articles R. *
-1311-39, R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
-2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
-dispositions intéressant la défense nationale. 
+R. * 1122-1 à R. * 1122-8</td>
+      <td align="justify">
 
-Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
-sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
-nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1122-9, R. * 1122-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1132-1 à R. * 1132-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-1, R. * 1141-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-2 à R. * 1142-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-5 à R. * 1142-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-21 à R. * 1142-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1211-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1212-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-1, R. * 1311-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1112 du 4 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1151 du 15 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-34</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-36</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-938 du 18 octobre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-37</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-38, R. * 1311-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1321-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-37 à R. * 1333-38</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-39</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-40 à R. * 1333-42</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-43</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-44, R. * 1333-45</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-48</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-49 à R. * 1333-51-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-52, R. * 1333-61</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-62</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-63</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-64 à R. * 1333-67</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-2, R. * 1333-67-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-3-1, R. * 1333-67-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-5 à R. * 1333-67-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-9, R. * 1333-67-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1335-1 à R. * 1335-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-2, R. * 1336-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-4 à R. * 1336-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-8 à R. * 1336-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2012-351 du 12 mars 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-5 à R. * 1411-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-10, R. * 1411-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-1 à R. * 1411-11-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-9 à R. * 1411-11-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-18 à R. * 1411-11-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-26 à R. * 1411-11-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-12 à R. * 1411-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1421-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1422-1 à R. * 1422-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. * 1422-4
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. D1641-6
-	  - Code de la défense. - art. R*1122-1
-	  - Code de la défense. - art. R*1211-1
-	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-12
-	  - Code de la défense. - art. R*1311-21
-	  - Code de la défense. - art. R*1311-22
-	  - Code de la défense. - art. R*1311-24
-	  - Code de la défense. - art. R*1311-25
-	  - Code de la défense. - art. R*1311-3
-	  - Code de la défense. - art. R*1311-33
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-4
-	  - Code de la défense. - art. R*1311-6
-	  - Code de la défense. - art. R*1311-7
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
-	  - Code de la défense. - art. R*1411-1
-	  - Code de la défense. - art. R1311-21-1
-	  - Code de la défense. - art. R1311-22-1
-	  - Code de la défense. - art. R1311-24-1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 21
 
 
 ###### Article R*1641-1-1
@@ -41071,1151 +41586,908 @@ après, dans leur rédaction indiquée dans la colonne de droite du même tablea
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-Au livre Ier 
-
-</td>
-      <td valign="middle" align="left">
+Au livre Ier </td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-12 à R. 1132-19 
+R. 1132-12 à R. 1132-19 </td>
+      <td align="left">
 
+Résultant du décret n° 2009-752 du 23 juin 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-20 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-247 du 25 mars 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-21 </td>
+      <td align="left">
+
+Résultant du décret n° 2011-1899 du 19 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-22 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-247 du 25 mars 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-23 et R. 1132-24 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-752 du 23 juin 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-25 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
 </td>
-      <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-26 et R. 1132-27 </td>
+      <td align="left">
 
 Résultant du décret n° 2009-752 du 23 juin 2009 
-
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-20 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-28 </td>
+      <td align="left">
 
 Résultant du décret n° 2013-247 du 25 mars 2013 
-
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-21 
+R. 1132-29 et R. 1132-30 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du décret n° 2011-1899 du 19 décembre 2011 
-
+Résultant du décret n° 2009-752 du 23 juin 2009 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-22 
+R. 1132-31 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du décret n° 2013-247 du 25 mars 2013   
-
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-23 et R. 1132-24 
+R. 1132-32 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du décret n° 2009-752 du 23 juin 2009   
-
+Résultant du décret n° 2015-1213 du 1er octobre 2015 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-25 
+R. 1132-33 et R. 1132-33-1 </td>
+      <td align="left">
 
+Résultant du décret n° 2009-752 du 23 juin 2009 
 </td>
-      <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-33-2 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-33-3 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-1213 du 1er octobre 2015 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1132-33-5 à R. 1132-33-9 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-752 du 23 juin 2009 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1142-14 à R. 1142-20 </td>
+      <td align="left">
+
+Résultant du décret n° 2007-585 du 23 avril 2007 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1142-35 à R. 1143-1 </td>
+      <td align="left">
+
+Résultant du décret n° 2007-585 du 23 avril 2007 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1143-2 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1143-3 et R. 1143-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-26 et R. 1132-27 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-28 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-247 du 25 mars 2013
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-29 et R. 1132-30 
+R. 1143-7 </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-752 du 23 juin 2009
-
+Résultant du décret n° 2007-585 du 23 avril 2007 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-31 
+R. 1143-8 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
-
+Résultant du décret n° 2009-1657 du 24 décembre 2009 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-32 
+R. 1143-11 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2015-1213 du 1er octobre 2015
-
+Résultant du décret n° 2010-902 du 3 août 2010 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-33 et R. 1132-33-1 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2009-752 du 23 juin 2009
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1132-33-2 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1132-33-3 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2015-1213 du 1er octobre 2015
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1132-33-5 à R. 1132-33-9 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-752 du 23 juin 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1142-14 à R. 1142-20 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1142-35 à R. 1143-1 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1143-2 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1143-3 et R. 1143-4 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1143-5 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1143-6 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2009-254 du 4 mars 2009
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1143-7 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1143-8 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1143-11 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2010-902 du 3 août 2010
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-Au livre III 
-
-</td>
-      <td align="left" valign="middle">
+Au livre III </td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1312-1 
+R. 1312-1 </td>
+      <td align="left">
 
+Résultant du décret n° 2013-1113 du 4 décembre 2013 
 </td>
-      <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1322-1 à R. 1324-1 </td>
+      <td align="left">
+
+Résultant du décret n° 2007-585 du 23 avril 2007 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-1 et R. 1332-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-1113 du 4 décembre 2013
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1322-1 à R. 1324-1 
+R. 1332-3 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
+Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-1 et R. 1332-2 
+R. 1332-4 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
+Résultant du décret n° 2007-585 du 23 avril 2007 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-3 
+R. 1332-5 </td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant de l'
-ordonnance n° 2015-1341 du 23 octobre 2015
-
+Résultant du décret n° 2009-254 du 4 mars 2009 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-4 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-5 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-254 du 4 mars 2009
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-6 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-10 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-11 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-12 à R. 1332-15 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2015-211 du 25 février 2015
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-16 et R. 1332-17 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-18 et R. 1332-19 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-254 du 4 mars 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-20 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-21 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-254 du 4 mars 2009
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-22 et R. 1332-22-1 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-22-2 et R. 1332-22-3 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-491 du 16 avril 2012
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-23 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-24 
-
-</td>
-      <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2009-254 du 4 mars 2009
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-25 à R. 1332-27 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2017-282 du 2 mars 2017
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
-
-R. 1332-28 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
-
-R. 1332-29 et R. 1332-30 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-6 </td>
+      <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
-
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-31 
+R. 1332-10 </td>
+      <td align="left">
 
+Résultant du décret n° 2017-282 du 2 mars 2017 
 </td>
-      <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-11 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-12 à R. 1332-15 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-16 et R. 1332-17 </td>
+      <td align="left">
+
+Résultant du décret n° 2007-585 du 23 avril 2007 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-18 et R. 1332-19 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-254 du 4 mars 2009 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-20 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-282 du 2 mars 2017 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-21 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-254 du 4 mars 2009 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-22 et R. 1332-22-1 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-282 du 2 mars 2017 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-22-2 et R. 1332-22-3 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-491 du 16 avril 2012 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-23 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-282 du 2 mars 2017 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-24 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-32 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-25 à R. 1332-27 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-33 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-28 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-351 du 27 mars 2015
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-34 et R. 1332-35 
+R. 1332-29 et R. 1332-30 </td>
+      <td align="left">
 
+Résultant du décret n° 2017-282 du 2 mars 2017 
 </td>
-      <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1332-31 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-37 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-32 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-38 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-33 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2015-351 du 27 mars 2015 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-34 et R. 1332-35 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-351 du 27 mars 2015
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-42 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-37 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-1 et R. 1333-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-38 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-3 
-
-</td>
-      <td valign="middle" align="left">
+R 1332-41-1 à R. 1332-41-23 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2016-1296 du 30 septembre 2016
+décret n° 2015-351 du 27 mars 2015 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-4 et R. 1333-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-42 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-1 et R. 1333-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2016-1296 du 30 septembre 2016
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-7 à R. 1333-16 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2016-1296 du 30 septembre 2016 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-17 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-4 et R. 1333-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2016-1296 du 30 septembre 2016
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-18 et R. 1333-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2016-1296 du 30 septembre 2016 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-70 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-7 à R. 1333-16 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-71 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-17 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2016-1296 du 30 septembre 2016
+décret n° 2016-1296 du 30 septembre 2016 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-72 à R. 1333-74 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-18 et R. 1333-19 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-75 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-70 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2016-1296 du 30 septembre 2016
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-76 à R. 1333-78 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-71 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1120 du 17 septembre 2009
+décret n° 2016-1296 du 30 septembre 2016 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1334-1 et R. 1334-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-72 à R. 1333-74 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1334-3 et R. 1334-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-75 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
+décret n° 2016-1296 du 30 septembre 2016 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1336-33 à R. 1336-38 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-76 à R. 1333-78 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2009-1120 du 17 septembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-1 et R. 1337-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1334-1 et R. 1334-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1334-3 et R. 1334-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1494 du 3 décembre 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-4 
-
-</td>
-      <td align="left" valign="middle">
+R. 1336-33 à R. 1336-38 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-5 à R. 1337-13 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-1 et R. 1337-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-18 à R. 1338-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1337-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2009-1494 du 3 décembre 2009 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au livre IV 
+R. 1337-4 </td>
+      <td align="left">
+
+Résultant du 
+décret n° 2015-211 du 25 février 2015 
 
 </td>
-      <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1337-5 à R. 1337-13 </td>
+      <td align="left">
+
+Résultant du 
+décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1337-18 à R. 1338-5 </td>
+      <td align="left">
+
+Résultant du 
+décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au livre IV </td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
-
-R. 1411-11-24 et R. 1411-11-25 
-
-</td>
-      <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2016-1243 du 23 septembre 2016
+      <td align="left">R. 1411-11-6 </td>
+      <td align="left">Résultant du 
+décret n° 2016-284 du 10 mars 2016
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">R. 1411-11-8 </td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-16 </td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Dans le livre V 
+R. 1411-11-24 et R. 1411-11-25 </td>
+      <td align="left">
+
+Résultant du 
+décret n° 2016-1243 du 23 septembre 2016 
 
 </td>
-      <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans le livre V </td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1511-2 à R. 1522-1 
-
-</td>
-      <td valign="middle" align="left">
+R. 1511-2 à R. 1522-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au titre VIII du présent livre 
-
-</td>
-      <td align="left" valign="middle">
+Au titre VIII du présent livre </td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1681-1 et R. 1681-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-1 et R. 1681-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-225 du 4 mars 2010
+décret n° 2010-225 du 4 mars 2010 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1681-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-1113 du 4 décembre 2013
+décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1681-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-226 du 4 mars 2010
+décret n° 2010-226 du 4 mars 2010 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-3 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-258 du 4 mars 2015
+décret n° 2015-258 du 4 mars 2015 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-4 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-226 du 4 mars 2010
+décret n° 2010-226 du 4 mars 2010 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-7 à R. 1682-18 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-7 à R. 1682-18 </td>
+      <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007
-
 </td>
     </tr>
   </tbody>
@@ -42223,9 +42495,13 @@ Résultant du décret n° 2007-585 du 23 avril 2007
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2016-284 du 10 mars 2016
+
 	**Modifié par**:
 
-	  - Décret n°2017-282 du 2 mars 2017 - art. 11
+	  - Décret n°2017-539 du 13 avril 2017 - art. 23
 
 
 ###### Article R1641-3
@@ -42417,52 +42693,545 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 ###### Article R*1651-1
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. * 1651-2 et D. 1651-7 : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction issue du décret n° 2007-583 du 23 avril 2007, sous réserve des adaptations prévues aux articles R. * 1651-2 et
+D. 1651-7.
 
-1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-3, de l'article R. * 1311-6 à R. * 1311-8, de
-l'article R. * 1311-21, de l'article R. 1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article R.
-1311-22-1, de l'article R. 1311-24, de l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. *
-1311-39, R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
-2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
-dispositions intéressant la défense nationale.
+R. * 1122-1 à R. * 1122-8</td>
+      <td align="justify">
 
-Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
-sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
-nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1122-9, R. * 1122-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1132-1 à R. * 1132-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-1, R. * 1141-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-2 à R. * 1142-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-5 à R. * 1142-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-21 à R. * 1142-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1211-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1212-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-1, R. * 1311-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1112 du 4 décembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1151 du 15 octobre 2012</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1321-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-37 à R. * 1333-38</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-39</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-40 à R. * 1333-42</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-43</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-44, R. * 1333-45</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-48</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-49 à R. * 1333-51-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-52, R. * 1333-61</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-62</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-63</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-64 à R. * 1333-67</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-2, R. * 1333-67-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-3-1, R. * 1333-67-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-5 à R. * 1333-67-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-9, R. * 1333-67-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1335-1 à R. * 1335-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-2, R. * 1336-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-4 à R. * 1336-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-8 à R. * 1336-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2012-351 du 12 mars 2012</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-5 à R. * 1411-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-10, R. * 1411-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-1 à R. * 1411-11-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-9 à R. * 1411-11-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-18 à R. * 1411-11-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-26 à R. * 1411-11-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-12 à R. * 1411-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1421-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1422-1 à R. * 1422-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1422-4</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. D1651-7
-	  - Code de la défense. - art. R*1122-1
-	  - Code de la défense. - art. R*1211-1
-	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-21
-	  - Code de la défense. - art. R*1311-22
-	  - Code de la défense. - art. R*1311-24
-	  - Code de la défense. - art. R*1311-25
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-6
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1411-1
-	  - Code de la défense. - art. R*1651-2
-	  - Code de la défense. - art. R1311-21-1
-	  - Code de la défense. - art. R1311-22-1
-	  - Code de la défense. - art. R1311-24-1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 22
 
 
 ###### Article R*1651-2
@@ -42565,30 +43334,22 @@ leur rédaction indiquée dans la colonne de droite du même tableau :
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au livre Ier 
-
-</td>
-      <td valign="middle" align="left">
+Au livre Ier</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-12 à R. 1132-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-12 à R. 1132-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42596,12 +43357,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-20 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -42609,12 +43368,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-21 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-21</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1899 du 19 décembre 2011
@@ -42622,12 +43379,10 @@ décret n° 2011-1899 du 19 décembre 2011
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-22 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-22</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -42635,12 +43390,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-23 et R. 1132-24 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-23 et R. 1132-24</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42648,12 +43401,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-25 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-25</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -42661,12 +43412,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-26 et R. 1132-27 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-26 et R. 1132-27</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42674,12 +43423,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-28 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-28</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -42687,12 +43434,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-29 et R. 1132-30 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-29 et R. 1132-30</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42700,12 +43445,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-31 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-31</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -42713,12 +43456,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-32 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-32</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1213 du 1er octobre 2015
@@ -42726,12 +43467,10 @@ décret n° 2015-1213 du 1er octobre 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-33 et R. 1132-33-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-33 et R. 1132-33-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42739,12 +43478,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-33-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-33-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -42752,12 +43489,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-33-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-33-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1213 du 1er octobre 2015
@@ -42765,12 +43500,10 @@ décret n° 2015-1213 du 1er octobre 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-33-5 à R. 1132-33-9 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-33-5 à R. 1132-33-9</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -42778,12 +43511,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1142-14 à R. 1142-20 
-
-</td>
-      <td align="left" valign="middle">
+R. 1142-14 à R. 1142-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42791,12 +43522,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1142-35 à R. 1143-1 
-
-</td>
-      <td valign="middle" align="left">
+R. 1142-35 à R. 1143-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42804,12 +43533,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -42817,12 +43544,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-3 et R. 1143-4 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-3 et R. 1143-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42830,12 +43555,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -42843,12 +43566,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1143-6 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -42856,12 +43577,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-7 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-7</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42869,12 +43588,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1143-8 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-8</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -42882,12 +43599,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-11 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-11</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-902 du 3 août 2010
@@ -42895,20 +43610,16 @@ décret n° 2010-902 du 3 août 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au livre III 
-
-</td>
-      <td align="left" valign="middle">
+Au livre III</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1312-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1312-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-1113 du 4 décembre 2013
@@ -42916,12 +43627,10 @@ décret n° 2013-1113 du 4 décembre 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1322-1 à R. 1324-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1322-1 à R. 1324-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42929,12 +43638,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-1 et R. 1332-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-1 et R. 1332-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42942,12 +43649,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-3</td>
+      <td align="left">
 
 Résultant de l'
 ordonnance n° 2015-1341 du 23 octobre 2015
@@ -42955,12 +43660,10 @@ ordonnance n° 2015-1341 du 23 octobre 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -42968,12 +43671,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -42981,12 +43682,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -42994,12 +43693,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-10 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-10</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43007,12 +43704,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-11 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-11</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -43020,12 +43715,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-12 à R. 1332-15 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-12 à R. 1332-15</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -43033,12 +43726,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-16 et R. 1332-17 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-16 et R. 1332-17</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43046,12 +43737,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-18 et R. 1332-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-18 et R. 1332-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -43059,12 +43748,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-20 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43072,12 +43759,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-21 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-21</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -43085,12 +43770,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-22 et R. 1332-22-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-22 et R. 1332-22-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43098,12 +43781,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-22-2 et R. 1332-22-3 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-22-2 et R. 1332-22-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-491 du 16 avril 2012
@@ -43111,12 +43792,10 @@ décret n° 2012-491 du 16 avril 2012
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-23 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-23</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43124,12 +43803,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-24 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-24</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -43137,12 +43814,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-25 à R. 1332-27 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-25 à R. 1332-27</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43150,12 +43825,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-28 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-28</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43163,24 +43836,19 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-29 et R. 1332-30 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-29 et R. 1332-30</td>
+      <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
-
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-31 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-31</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43188,12 +43856,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-32 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-32</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -43201,12 +43867,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-33 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-33</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-351 du 27 mars 2015
@@ -43214,12 +43878,10 @@ décret n° 2015-351 du 27 mars 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-34 et R. 1332-35 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-34 et R. 1332-35</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -43227,12 +43889,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-37 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-37</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -43240,12 +43900,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-38 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43253,12 +43911,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 
-
-</td>
-      <td align="left" valign="middle">
+R 1332-41-1 à R. 1332-41-23</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-351 du 27 mars 2015
@@ -43266,12 +43922,10 @@ décret n° 2015-351 du 27 mars 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-42 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-42</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43279,12 +43933,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-1 et R. 1333-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-1 et R. 1333-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43292,12 +43944,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -43305,12 +43955,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-4 et R. 1333-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-4 et R. 1333-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43318,12 +43966,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-6 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -43331,12 +43977,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-7 à R. 1333-16 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-7 à R. 1333-16</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43344,12 +43988,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-17 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-17</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -43357,12 +43999,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-18 et R. 1333-19 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-18 et R. 1333-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43370,12 +44010,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-70 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-70</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43383,12 +44021,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-71 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-71</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -43396,12 +44032,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-72 à R. 1333-74 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-72 à R. 1333-74</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43409,12 +44043,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-75 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-75</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -43422,12 +44054,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-76 à R. 1333-78 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-76 à R. 1333-78</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -43435,12 +44065,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1334-1 et R. 1334-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1334-1 et R. 1334-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43448,12 +44076,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1334-3 et R. 1334-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1334-3 et R. 1334-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -43461,12 +44087,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1336-33 à R. 1336-38 
-
-</td>
-      <td valign="middle" align="left">
+R. 1336-33 à R. 1336-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43474,12 +44098,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-1 et R. 1337-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-1 et R. 1337-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43487,12 +44109,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1494 du 3 décembre 2009
@@ -43500,12 +44120,10 @@ décret n° 2009-1494 du 3 décembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -43513,12 +44131,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-5 à R. 1337-13 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-5 à R. 1337-13</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43526,12 +44142,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-18 à R. 1338-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1337-18 à R. 1338-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43539,20 +44153,31 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-Au livre IV 
-
-</td>
-      <td valign="middle" align="left">
+Au livre IV</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
-
-R. 1411-11-24 et R. 1411-11-25 
-
+      <td align="left">R. 1411-11-6</td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
-      <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-8</td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-16</td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1411-11-24 et R. 1411-11-25</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1243 du 23 septembre 2016
@@ -43560,20 +44185,16 @@ décret n° 2016-1243 du 23 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-Dans le livre V 
-
-</td>
-      <td valign="middle" align="left">
+Dans le livre V</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1511-2 à R. 1522-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1511-2 à R. 1522-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43581,20 +44202,16 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au titre VIII du présent livre 
-
-</td>
-      <td align="left" valign="middle">
+Au titre VIII du présent livre</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1681-1 et R. 1681-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1681-1 et R. 1681-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-225 du 4 mars 2010
@@ -43602,12 +44219,10 @@ décret n° 2010-225 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1681-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-1113 du 4 décembre 2013
@@ -43615,12 +44230,10 @@ décret n° 2013-1113 du 4 décembre 2013
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1681-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -43628,12 +44241,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43641,12 +44252,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-226 du 4 mars 2010
@@ -43654,12 +44263,10 @@ décret n° 2010-226 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-258 du 4 mars 2015
@@ -43667,12 +44274,10 @@ décret n° 2015-258 du 4 mars 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -43680,12 +44285,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-5 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -43693,12 +44296,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-226 du 4 mars 2010
@@ -43706,15 +44307,12 @@ décret n° 2010-226 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-7 à R. 1682-18 
+R. 1682-7 à R. 1682-18</td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
-
-Résultant du  décret n° 2007-585 du 23 avril 2007
-
+Résultant du décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
   </tbody>
@@ -43749,7 +44347,7 @@ Résultant du  décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-282 du 2 mars 2017 - art. 12
+	  - Décret n°2017-539 du 13 avril 2017 - art. 23
 
 
 ###### Article R1651-4
@@ -43937,58 +44535,584 @@ publiques sont remplacées par la référence au directeur local des finances pu
 
 ###### Article R*1661-1
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. * 1661-2 et D. 1661-7 : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur
+rédaction issue du décret n° 2007-583 du 23 avril 2007, sous réserve des adaptations prévues aux articles R. * 1661-2 et D.
+1661-7 :
 
-1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-3° Au livre III, les dispositions des articles R. * 1311-1, R. * 1311-3, R. * 1311-4, R. * 1311-5, des 1° à 6° de l'article
-R. * 1311-6, des articles R. * 1311-7, R. * 1311-8, R. * 1311-12 à R. * 1311-14, de l'article R. * 1311-21, de l'article R.
-1311-21-1 sauf son dernier alinéa, de l'article R. * 1311-22, de l'article R. 1311-22-1, de l'article R. 1311-24, de
-l'article R. 1311-24-1, des articles R. * 1311-25 à R. 1311-28, des articles R. * 1311-33 à R. * 1311-38, des articles R. *
-1311-39, 
-R. * 1321-1 et R. * 1333-36 à R. * 1336-15 ; 
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
-2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
-dispositions intéressant la défense nationale.
+R. * 1122-1 à R. * 1122-8</td>
+      <td align="justify">
 
-Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
-sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
-nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1122-9, R. * 1122-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1132-1 à R. * 1132-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-1, R. * 1141-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-2 à R. * 1142-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-5 à R. * 1142-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-21 à R. * 1142-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1211-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1212-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-1, R. * 1311-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1112 du 4 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1151 du 15 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-34</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-36</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-938 du 18 octobre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-37</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-38, R. * 1311-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1321-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-37 à R. * 1333-38</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-39</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-40 à R. * 1333-42</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-43</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-44, R. * 1333-45</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-48</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-49 à R. * 1333-51-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-52, R. * 1333-61</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-62</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-63</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-64 à R. * 1333-67</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-2, R. * 1333-67-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-3-1, R. * 1333-67-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-5 à R. * 1333-67-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-9, R. * 1333-67-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1335-1 à R. * 1335-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-2, R. * 1336-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-4 à R. * 1336-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-8 à R. * 1336-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2012-351 du 12 mars 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-5 à R. * 1411-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-10, R. * 1411-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-1 à R. * 1411-11-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-9 à R. * 1411-11-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-18 à R. * 1411-11-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-26 à R. * 1411-11-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-12 à R. * 1411-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1421-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1422-1 à R. * 1422-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. * 1422-4</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
-
-	**Cite**:
-
-	  - Code de la défense. - art. D1661-7
-	  - Code de la défense. - art. R*1122-1
-	  - Code de la défense. - art. R*1211-1
-	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-12
-	  - Code de la défense. - art. R*1311-21
-	  - Code de la défense. - art. R*1311-22
-	  - Code de la défense. - art. R*1311-24
-	  - Code de la défense. - art. R*1311-25
-	  - Code de la défense. - art. R*1311-3
-	  - Code de la défense. - art. R*1311-33
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1311-4
-	  - Code de la défense. - art. R*1311-6
-	  - Code de la défense. - art. R*1311-7
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
-	  - Code de la défense. - art. R*1411-1
-	  - Code de la défense. - art. R*1661-2
-	  - Code de la défense. - art. R1311-21-1
+	  - Décret n°2017-539 du 13 avril 2017 - art. 21
 
 
 ###### Article R*1661-2
@@ -44095,30 +45219,22 @@ leur rédaction indiquée dans la colonne de droite du même tableau :
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au livre Ier 
-
-</td>
-      <td align="left" valign="middle">
+Au livre Ier</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-12 à R. 1132-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-12 à R. 1132-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44126,12 +45242,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-20 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -44139,12 +45253,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-21 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-21</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1899 du 19 décembre 2011
@@ -44152,12 +45264,10 @@ décret n° 2011-1899 du 19 décembre 2011
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-22 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-22</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -44165,12 +45275,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-23 et R. 1132-24 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-23 et R. 1132-24</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44178,12 +45286,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-25 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-25</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -44191,12 +45297,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-26 et R. 1132-27 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-26 et R. 1132-27</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44204,12 +45308,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-28 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-28</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-247 du 25 mars 2013
@@ -44217,12 +45319,10 @@ décret n° 2013-247 du 25 mars 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-29 et R. 1132-30 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-29 et R. 1132-30</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44230,12 +45330,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-31 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-31</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -44243,12 +45341,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-32 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-32</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1213 du 1er octobre 2015
@@ -44256,12 +45352,10 @@ décret n° 2015-1213 du 1er octobre 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-33 et R. 1132-33-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-33 et R. 1132-33-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44269,12 +45363,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-33-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-33-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-1247 du 7 novembre 2012
@@ -44282,12 +45374,10 @@ décret n° 2012-1247 du 7 novembre 2012
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1132-33-3 
-
-</td>
-      <td align="left" valign="middle">
+R. 1132-33-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1213 du 1er octobre 2015
@@ -44295,12 +45385,10 @@ décret n° 2015-1213 du 1er octobre 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1132-33-5 à R. 1132-33-9 
-
-</td>
-      <td valign="middle" align="left">
+R. 1132-33-5 à R. 1132-33-9</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-752 du 23 juin 2009
@@ -44308,12 +45396,10 @@ décret n° 2009-752 du 23 juin 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1142-14 à R. 1142-20 
-
-</td>
-      <td align="left" valign="middle">
+R. 1142-14 à R. 1142-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44321,12 +45407,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1142-35 à R. 1143-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1142-35 à R. 1143-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44334,12 +45418,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -44347,12 +45429,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-3 et R. 1143-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-3 et R. 1143-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44360,12 +45440,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1143-5 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -44373,12 +45451,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1143-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44386,12 +45462,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-7 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-7</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44399,12 +45473,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1143-8 
-
-</td>
-      <td valign="middle" align="left">
+R. 1143-8</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -44412,12 +45484,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1143-11 
-
-</td>
-      <td align="left" valign="middle">
+R. 1143-11</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-902 du 3 août 2010
@@ -44425,20 +45495,16 @@ décret n° 2010-902 du 3 août 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au livre III 
-
-</td>
-      <td valign="middle" align="left">
+Au livre III</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1312-1 
-
-</td>
-      <td valign="middle" align="left">
+R. 1312-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-1113 du 4 décembre 2013
@@ -44446,12 +45512,10 @@ décret n° 2013-1113 du 4 décembre 2013
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1322-1 à R. 1324-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1322-1 à R. 1324-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44459,12 +45523,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-1 et R. 1332-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-1 et R. 1332-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44472,12 +45534,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-3</td>
+      <td align="left">
 
 Résultant de l'
 ordonnance n° 2015-1341 du 23 octobre 2015
@@ -44485,12 +45545,10 @@ ordonnance n° 2015-1341 du 23 octobre 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-4 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44498,12 +45556,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-5 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44511,12 +45567,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44524,12 +45578,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-10 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-10</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44537,12 +45589,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-11 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-11</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -44550,12 +45600,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-12 à R. 1332-15 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-12 à R. 1332-15</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -44563,12 +45611,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-16 et R. 1332-17 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-16 et R. 1332-17</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44576,12 +45622,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-18 et R. 1332-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-18 et R. 1332-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44589,12 +45633,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-20 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-20</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44602,12 +45644,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-21 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-21</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44615,12 +45655,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-22 et R. 1332-22-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-22 et R. 1332-22-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44628,12 +45666,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-22-2 et R. 1332-22-3 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-22-2 et R. 1332-22-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-491 du 16 avril 2012
@@ -44641,12 +45677,10 @@ décret n° 2012-491 du 16 avril 2012
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-23 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-23</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44654,12 +45688,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-24 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-24</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44667,12 +45699,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-25 à R. 1332-27 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-25 à R. 1332-27</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44680,12 +45710,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-28 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-28</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44693,25 +45721,20 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-29 et R. 1332-30 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-29 et R. 1332-30</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017 
-
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-31 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-31</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44719,12 +45742,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-32 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-32</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44732,12 +45753,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-33 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-33</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-351 du 27 mars 2015
@@ -44745,12 +45764,10 @@ décret n° 2015-351 du 27 mars 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-34 et R. 1332-35 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-34 et R. 1332-35</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-282 du 2 mars 2017
@@ -44758,12 +45775,10 @@ décret n° 2017-282 du 2 mars 2017
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-37 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-37</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-254 du 4 mars 2009
@@ -44771,12 +45786,10 @@ décret n° 2009-254 du 4 mars 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1332-38 
-
-</td>
-      <td valign="middle" align="left">
+R. 1332-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44784,12 +45797,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 
-
-</td>
-      <td valign="middle" align="left">
+R 1332-41-1 à R. 1332-41-23</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-351 du 27 mars 2015
@@ -44797,12 +45808,10 @@ décret n° 2015-351 du 27 mars 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1332-42 
-
-</td>
-      <td align="left" valign="middle">
+R. 1332-42</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44810,12 +45819,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-1 et R. 1333-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-1 et R. 1333-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44823,12 +45830,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -44836,12 +45841,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-4 et R. 1333-5 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-4 et R. 1333-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44849,12 +45852,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -44862,12 +45863,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-7 à R. 1333-16 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-7 à R. 1333-16</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44875,12 +45874,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-17 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-17</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -44888,12 +45885,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-18 et R. 1333-19 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-18 et R. 1333-19</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44901,12 +45896,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-70 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-70</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44914,12 +45907,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-71 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-71</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -44927,12 +45918,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-72 à R. 1333-74 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-72 à R. 1333-74</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44940,12 +45929,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1333-75 
-
-</td>
-      <td valign="middle" align="left">
+R. 1333-75</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1296 du 30 septembre 2016
@@ -44953,12 +45940,10 @@ décret n° 2016-1296 du 30 septembre 2016
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1333-76 à R. 1333-78 
-
-</td>
-      <td align="left" valign="middle">
+R. 1333-76 à R. 1333-78</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1120 du 17 septembre 2009
@@ -44966,12 +45951,10 @@ décret n° 2009-1120 du 17 septembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1334-1 et R. 1334-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1334-1 et R. 1334-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -44979,12 +45962,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1334-3 et R. 1334-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1334-3 et R. 1334-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
@@ -44992,12 +45973,10 @@ décret n° 2009-1657 du 24 décembre 2009
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1336-33 à R. 1336-38 
-
-</td>
-      <td valign="middle" align="left">
+R. 1336-33 à R. 1336-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45005,12 +45984,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-1 et R. 1337-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-1 et R. 1337-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45018,12 +45995,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1494 du 3 décembre 2009
@@ -45031,12 +46006,10 @@ décret n° 2009-1494 du 3 décembre 2009
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1337-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -45044,12 +46017,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-5 à R. 1337-13 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-5 à R. 1337-13</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45057,12 +46028,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1337-18 à R. 1338-5 
-
-</td>
-      <td valign="middle" align="left">
+R. 1337-18 à R. 1338-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45070,20 +46039,37 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-Au livre IV 
-
-</td>
-      <td valign="middle" align="left">
+Au livre IV</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">R. 1411-11-6</td>
+      <td align="left">
 
-R. 1411-11-24 et R. 1411-11-25 
-
+Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
-      <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-8</td>
+      <td align="left">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-16</td>
+      <td align="left">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 1411-11-24 et R. 1411-11-25</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2016-1243 du 23 septembre 2016
@@ -45091,20 +46077,16 @@ décret n° 2016-1243 du 23 septembre 2016
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Dans le livre V 
-
-</td>
-      <td align="left" valign="middle">
+Dans le livre V</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1511-2 à R. 1522-1 
-
-</td>
-      <td valign="middle" align="left">
+R. 1511-2 à R. 1522-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45112,20 +46094,16 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-Au titre VIII du présent livre 
-
-</td>
-      <td align="left" valign="middle">
+Au titre VIII du présent livre</td>
+      <td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1681-1 et R. 1681-2 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-1 et R. 1681-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-225 du 4 mars 2010
@@ -45133,12 +46111,10 @@ décret n° 2010-225 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1681-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-1113 du 4 décembre 2013
@@ -45146,12 +46122,10 @@ décret n° 2013-1113 du 4 décembre 2013
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1681-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1681-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -45159,12 +46133,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45172,12 +46144,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-2 
-
-</td>
-      <td align="left" valign="middle">
+R. 1682-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-226 du 4 mars 2010
@@ -45185,12 +46155,10 @@ décret n° 2010-226 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-3 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-3</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-258 du 4 mars 2015
@@ -45198,12 +46166,10 @@ décret n° 2015-258 du 4 mars 2015
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-4 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-4</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-211 du 25 février 2015
@@ -45211,12 +46177,10 @@ décret n° 2015-211 du 25 février 2015
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-5 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-5</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2007-585 du 23 avril 2007
@@ -45224,12 +46188,10 @@ décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-R. 1682-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 1682-6</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2010-226 du 4 mars 2010
@@ -45237,15 +46199,12 @@ décret n° 2010-226 du 4 mars 2010
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-R. 1682-7 à R. 1682-18 
+R. 1682-7 à R. 1682-18</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
-
-Résultant du  décret n° 2007-585 du 23 avril 2007
-
+Résultant du décret n° 2007-585 du 23 avril 2007
 </td>
     </tr>
   </tbody>
@@ -45280,7 +46239,7 @@ Résultant du  décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-282 du 2 mars 2017 - art. 13
+	  - Décret n°2017-539 du 13 avril 2017 - art. 23
 
 
 ###### Article R1661-4
@@ -45464,52 +46423,585 @@ remplacée par la référence à l'officier commandant la gendarmerie située au
 
 ###### Article R*1671-1
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. * 1671-2 et D. 1671-7 : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
+antarctiques françaises, dans leur rédaction issue du décret n° 2007-583 du 23 avril 2007, sous réserve des stipulations du
+traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. *
+1671-2 et D. 1671-7 :
 
-1° Au livre Ier, les dispositions des articles R. * 1122-1 à R. * 1142-29 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. * 1211-1 et R. * 1212-1 ; 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-3° Au livre III, les dispositions des articles R. * 1311-1 à R. * 1311-14, R. * 1311-21, R. 1311-21-1 à R. 1311-28, R. *
-1311-33 à R. * 1311-39, R. * 1321-1, R. * 1333-36 à R. * 1336-15 ; 
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-4° Au livre IV, les dispositions des articles R. * 1411-1 à R. * 1422-4.
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-Les articles R. * 1411-9, R. * 1411-11-1 à R. * 1411-11-17 sont applicables dans leur rédaction résultant du décret n°
-2016-284 du 10 mars 2016 relatif à la protection des installations nucléaires intéressant la dissuasion et portant diverses
-dispositions intéressant la défense nationale.
+R. * 1122-1 à R. * 1122-8</td>
+      <td align="justify">
 
-Les articles R.* 1333-67-1, R.* 1333-67-1-1, R.* 1411-3, R.* 1411-11-18 à R.* 1411-11-23 et R.* 1411-11-26 à R.* 1411-11-35
-sont applicables dans leur rédaction résultant du décret n° 2016-1243 du 23 septembre 2016 relatif aux transports des moyens
-nécessaires à la mise en œuvre de la politique de dissuasion et modifiant le code de la défense.
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1122-9, R. * 1122-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1132-1 à R. * 1132-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-1, R. * 1141-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1141-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-2 à R. * 1142-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-5 à R. * 1142-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1142-21 à R. * 1142-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1211-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1212-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-1, R. * 1311-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1112 du 4 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-25-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1151 du 15 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-34</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-36</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-938 du 18 octobre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-37</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-224 du 4 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1311-38, R. * 1311-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1321-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-37 à R. * 1333-38</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-39</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-40 à R. * 1333-42</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-43</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-44, R. * 1333-45</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-47-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-48</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-49 à R. * 1333-51-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-52, R. * 1333-61</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-62</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-63</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-64 à R. * 1333-67</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-1-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-2, R. * 1333-67-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2007-758 du 10 mai 2007 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-3-1, R. * 1333-67-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-5 à R. * 1333-67-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-539 du 13 avril 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1333-67-9, R. * 1333-67-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1335-1 à R. * 1335-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-2, R. * 1336-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-4 à R. * 1336-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-8 à R. * 1336-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-14</td>
+      <td align="justify">
+
+Résultant de l'ordonnance n° 2012-351 du 12 mars 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1336-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-253 du 4 mars 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre IV</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-5 à R. * 1411-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-10, R. * 1411-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-1 à R. * 1411-11-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-9 à R. * 1411-11-15</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-284 du 10 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-18 à R. * 1411-11-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-11-26 à R. * 1411-11-35</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-12 à R. * 1411-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-159 du 11 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1411-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1118 du 17 septembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1421-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 1422-1 à R. * 1422-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-81 du 29 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. * 1422-4</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°61-1300 du 30 novembre 1961
-	  - Code de la défense. - art. R*1122-1
-	  - Code de la défense. - art. R*1211-1
-	  - Code de la défense. - art. R*1212-1
-	  - Code de la défense. - art. R*1311-1
-	  - Code de la défense. - art. R*1311-12
-	  - Code de la défense. - art. R*1311-14
-	  - Code de la défense. - art. R*1311-22
-	  - Code de la défense. - art. R*1311-26
-	  - Code de la défense. - art. R*1311-28
-	  - Code de la défense. - art. R*1311-33
-	  - Code de la défense. - art. R*1311-34
-	  - Code de la défense. - art. R*1311-35
-	  - Code de la défense. - art. R*1311-39
-	  - Code de la défense. - art. R*1321-1
-	  - Code de la défense. - art. R*1333-36
-	  - Code de la défense. - art. R*1411-1
-	  - Code de la défense. - art. R*1671-2
-
 	**Modifié par**:
 
-	  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
+	  - Décret n°2017-539 du 13 avril 2017 - art. 21
 
 
 ###### Article R*1671-2
@@ -45578,975 +47070,836 @@ références aux dispositions ayant le même objet applicables localement.
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
 publié par le 
-décret n° 61-1300 du 30 novembre 1961
+décret n° 61-1300 du 30 novembre 1961 
 et des adaptations prévues aux articles R. 1671-4 et D. 1671-7 et au titre VIII du présent livre, les dispositions de la
 présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
-droite du même tableau :
+droite du même tableau : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES </th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION </th>
+    </tr>
+    <tr>
+      <td align="left">
 
-DANS LEUR RÉDACTION 
+Au livre Ier </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</th>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Au livre Ier 
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-R. 1132-12 à R. 1132-19 
-
-</td>
-        <td align="left" valign="middle">
+R. 1132-12 à R. 1132-19 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-20 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-20 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-247 du 25 mars 2013
+décret n° 2013-247 du 25 mars 2013 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-21 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-21 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2011-1899 du 19 décembre 2011
+décret n° 2011-1899 du 19 décembre 2011 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-22 
-
-</td>
-        <td align="left" valign="middle">
+R. 1132-22 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-247 du 25 mars 2013
+décret n° 2013-247 du 25 mars 2013 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-23 et R. 1132-24 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-23 et R. 1132-24 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-25 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-25 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
+décret n° 2012-1247 du 7 novembre 2012 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-26 et R. 1132-27 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-26 et R. 1132-27 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-28 
-
-</td>
-        <td align="left" valign="middle">
+R. 1132-28 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-247 du 25 mars 2013
+décret n° 2013-247 du 25 mars 2013 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-29 et R. 1132-30 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-29 et R. 1132-30 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-31 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-31 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
+décret n° 2012-1247 du 7 novembre 2012 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-32 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-32 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-1213 du 1er octobre 2015
+décret n° 2015-1213 du 1er octobre 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-33 et R. 1132-33-1 
-
-</td>
-        <td align="left" valign="middle">
+R. 1132-33 et R. 1132-33-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-33-2 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-33-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2012-1247 du 7 novembre 2012
+décret n° 2012-1247 du 7 novembre 2012 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-33-3 
-
-</td>
-        <td valign="middle" align="left">
+R. 1132-33-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-1213 du 1er octobre 2015
+décret n° 2015-1213 du 1er octobre 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1132-33-5 à R. 1132-33-9 
-
-</td>
-        <td align="left" valign="middle">
+R. 1132-33-5 à R. 1132-33-9 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-752 du 23 juin 2009
+décret n° 2009-752 du 23 juin 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1142-14 à R. 1142-20 
-
-</td>
-        <td valign="middle" align="left">
+R. 1142-14 à R. 1142-20 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1142-35 à R. 1143-1 
-
-</td>
-        <td valign="middle" align="left">
+R. 1142-35 à R. 1143-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-2 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-3 et R. 1143-4 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-3 et R. 1143-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-5 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-6 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-7 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-7 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-8 
-
-</td>
-        <td align="left" valign="middle">
+R. 1143-8 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1143-11 
-
-</td>
-        <td valign="middle" align="left">
+R. 1143-11 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-902 du 3 août 2010
+décret n° 2010-902 du 3 août 2010 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-Au livre III 
+Au livre III </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-R. 1312-1 
-
-</td>
-        <td valign="middle" align="left">
+R. 1312-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-1113 du 4 décembre 2013
+décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1322-1 à R. 1324-1 
-
-</td>
-        <td align="left" valign="middle">
+R. 1322-1 à R. 1324-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-1 et R. 1332-2 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-1 et R. 1332-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-3 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-3 </td>
+      <td align="left">
 
 Résultant de l'
-ordonnance n° 2015-1341 du 23 octobre 2015
+ordonnance n° 2015-1341 du 23 octobre 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-4 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-5 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-6 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-10 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-10 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-11 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-11 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
+décret n° 2009-1657 du 24 décembre 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-12 à R. 1332-15 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-12 à R. 1332-15 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-16 et R. 1332-17 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-16 et R. 1332-17 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-18 et R. 1332-19 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-18 et R. 1332-19 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-20 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-20 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-21 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-21 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-22 et R. 1332-22-1 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-22 et R. 1332-22-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-22-2 et R. 1332-22-3 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-22-2 et R. 1332-22-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2012-491 du 16 avril 2012
+décret n° 2012-491 du 16 avril 2012 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-23 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-23 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-24 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-24 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-25 à R. 1332-27 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-25 à R. 1332-27 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-28 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-28 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-29 et R. 1332-30 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-29 et R. 1332-30 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-31 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-31 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-32 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-32 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-33 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-33 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-351 du 27 mars 2015
+décret n° 2015-351 du 27 mars 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-34 et R. 1332-35 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-34 et R. 1332-35 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2017-282 du 2 mars 2017
+décret n° 2017-282 du 2 mars 2017 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-37 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-37 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-254 du 4 mars 2009
+décret n° 2009-254 du 4 mars 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-38 
-
-</td>
-        <td align="left" valign="middle">
+R. 1332-38 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 
-
-</td>
-        <td align="left" valign="middle">
+R 1332-41-1 à R. 1332-41-23 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-351 du 27 mars 2015
+décret n° 2015-351 du 27 mars 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1332-42 
-
-</td>
-        <td valign="middle" align="left">
+R. 1332-42 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1337-1 et R. 1337-2 
-
-</td>
-        <td valign="middle" align="left">
+R. 1337-1 et R. 1337-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1337-3 
-
-</td>
-        <td align="left" valign="middle">
+R. 1337-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2009-1494 du 3 décembre 2009
+décret n° 2009-1494 du 3 décembre 2009 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1337-4 
-
-</td>
-        <td align="left" valign="middle">
+R. 1337-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1337-5 à R. 1337-13 
-
-</td>
-        <td align="left" valign="middle">
+R. 1337-5 à R. 1337-13 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1337-18 à R. 1338-5 
-
-</td>
-        <td align="left" valign="middle">
+R. 1337-18 à R. 1338-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-Au livre IV 
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-R. 1411-11-24 et R. 1411-11-25 
+Au livre IV </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 1411-11-6 </td>
+      <td align="left">Résultant du 
+décret n° 2016-284 du 10 mars 2016
 
 </td>
-        <td valign="middle" align="left">
-
-Résultant du décret n° 2016-1243 du 23 septembre 2016
-
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-8 </td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Dans le livre V 
-
+    </tr>
+    <tr>
+      <td align="left">R. 1411-11-16 </td>
+      <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1511-2 à R. 1522-1 
+R. 1411-11-24 et R. 1411-11-25 </td>
+      <td align="left">
 
+Résultant du décret n° 2016-1243 du 23 septembre 2016 
 </td>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
+
+Dans le livre V </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 1511-2 à R. 1522-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-Au titre VIII du présent livre 
+Au titre VIII du présent livre </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-R. 1681-1 et R. 1681-2 
-
-</td>
-        <td align="left" valign="middle">
+R. 1681-1 et R. 1681-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-225 du 4 mars 2010
+décret n° 2010-225 du 4 mars 2010 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1681-3 
-
-</td>
-        <td valign="middle" align="left">
+R. 1681-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2013-1113 du 4 décembre 2013
+décret n° 2013-1113 du 4 décembre 2013 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1681-4 
-
-</td>
-        <td valign="middle" align="left">
+R. 1681-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-1 
-
-</td>
-        <td valign="middle" align="left">
+R. 1682-1 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-2 
-
-</td>
-        <td valign="middle" align="left">
+R. 1682-2 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-226 du 4 mars 2010
+décret n° 2010-226 du 4 mars 2010 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-3 
-
-</td>
-        <td align="left" valign="middle">
+R. 1682-3 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-258 du 4 mars 2015
+décret n° 2015-258 du 4 mars 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-4 
-
-</td>
-        <td valign="middle" align="left">
+R. 1682-4 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2015-211 du 25 février 2015
+décret n° 2015-211 du 25 février 2015 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-5 
-
-</td>
-        <td align="left" valign="middle">
+R. 1682-5 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2007-585 du 23 avril 2007
+décret n° 2007-585 du 23 avril 2007 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-6 
-
-</td>
-        <td valign="middle" align="left">
+R. 1682-6 </td>
+      <td align="left">
 
 Résultant du 
-décret n° 2010-226 du 4 mars 2010
+décret n° 2010-226 du 4 mars 2010 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-R. 1682-7 à R. 1682-18 
+R. 1682-7 à R. 1682-18 </td>
+      <td align="left">
 
+Résultant du décret n° 2007-585 du 23 avril 2007
 </td>
-        <td align="left" valign="middle">
-
-Résultant du  décret n° 2007-585 du 23 avril 2007
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -46571,12 +47924,13 @@ Résultant du  décret n° 2007-585 du 23 avril 2007
 	  - Décret n°2015-351 du 27 mars 2015
 	  - Décret n°2015-1213 du 1er octobre 2015
 	  - ORDONNANCE n°2015-1341 du 23 octobre 2015
+	  - Décret n°2016-284 du 10 mars 2016
 	  - Décret n°2016-1243 du 23 septembre 2016
 	  - Décret n°2017-282 du 2 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-282 du 2 mars 2017 - art. 14
+	  - Décret n°2017-539 du 13 avril 2017 - art. 23
 
 
 ###### Article R1671-4

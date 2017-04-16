@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-15
+Version Consolidée au 2017-04-17
 
 # Partie législative
 
@@ -54205,6 +54205,59 @@ décret n° 2007-663 du 2 mai 2007 pris pour l'application des articles 30, 31 e
 
 #### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS
 
+##### Chapitre II : Fabrication et commerce 
+
+##### Section 1 : Déclaration du dépôt des demandes de brevet d'invention concernant certains biens et matériels 
+
+###### Article D2332-2
+
+La liste des matériels et biens mentionnée au deuxième alinéa de l'article L. 2332-6 est fixée par arrêté du ministre de la
+défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-553 du 14 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-6
+
+
+###### Article D2332-3
+
+La déclaration mentionnée à l'article L. 2332-6 est adressée au ministre de la défense et comprend : 
+
+1° L'indication de la date de dépôt de la demande de brevet, mentionnée à l'article L. 612-2 du code de la propriété
+intellectuelle s'agissant des demandes de brevet national, à l'article R. 614-21 du même code s'agissant des demandes de
+brevet international ou de la date de réception des pièces de la demande mentionnée au 2 de la règle 35 du règlement
+d'exécution de la convention sur la délivrance des brevets européens s'agissant des demandes de brevet européen ; 
+
+2° L'indication du numéro d'enregistrement, mentionné à l'article R. 612-7 du code de la propriété intellectuelle s'agissant
+des demandes de brevet national, à l'article R. 614-24 du même code s'agissant des demandes de brevet international ou au 2
+de la règle 35 du règlement d'exécution de la convention sur la délivrance des brevets européens s'agissant des demandes de
+brevet européen. Lorsqu'il n'est pas attribué à la date de la déclaration, ce numéro d'enregistrement est transmis dès
+réception ; 
+
+3° Le cas échéant, le numéro et la date de notification du marché de l'Etat dans le cadre duquel l'invention a été réalisée
+ainsi que le nom du service acheteur
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-553 du 14 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L612-2
+	  - Code de la propriété intellectuelle - art. R612-7
+	  - Code de la propriété intellectuelle - art. R614-21
+	  - Code de la propriété intellectuelle - art. R614-24 (V)
+	  - Code de la défense. - art. L2332-6 (V)
+
+
 ##### Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne
 
 
@@ -63398,306 +63451,248 @@ décret n° 2009-1440 du 23 novembre 2009
  :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
-DANS LEUR RÉDACTION
+Au livre II</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</th>
-      </tr>
-      <tr>
-        <td align="center" colspan="2" valign="middle">
-
-Au livre II
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2234-97
-
-</td>
-        <td valign="middle" align="left">
+D. 2234-97</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1494 du 3 décembre 2009
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2234-98 à D. 2234-100
+D. 2234-98 à D. 2234-100</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center" colspan="2">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="center" colspan="2">
+Au livre III</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au livre III
+D. 2342-1 et D. 2342-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+D. 2342-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-D. 2342-1 et D. 2342-2
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-37
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-38
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1995 du 27 décembre 2011
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-39
+D. 2342-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-40
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-40</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1995 du 27 décembre 2011
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-41 à D. 2342-58
+D. 2342-41 à D. 2342-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
+D. 2342-59 et D. 2342-61</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-D. 2342-59 et D. 2342-61
+D. 2342-62 à D. 2342-65</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-62 à D. 2342-65
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-66 à D. 2342-68
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-66 à D. 2342-68</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-69
+D. 2342-69</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-69-1 et D. 2342-69-2
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-69-1 et D. 2342-69-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-70 à D. 2342-72
+D. 2342-70 à D. 2342-72</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-73
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-73</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-74 à D. 2342-81
+D. 2342-74 à D. 2342-81</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-82
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-82</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-83 à D. 2342-95
+D. 2342-83 à D. 2342-95</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-96
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-96</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-97 et D. 2342-98
+D. 2342-97 et D. 2342-98</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-99 et D. 2342-100
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-99 et D. 2342-100</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-377 du 2 mai 2013
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-101 à D. 2342-106
+D. 2342-101 à D. 2342-106</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
+D. 2342-111</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-D. 2342-111
+D. 2342-121</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-121
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2344-2
-
-</td>
-        <td align="left" valign="middle">
+D. 2344-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1564 du 30 novembre 2015
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2352-7
+D. 2352-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2362-2 à D. 2362-4-1
-
-</td>
-        <td valign="middle" align="left">
+D. 2362-2 à D. 2362-4-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-320 du 10 mars 2017
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -63715,7 +63710,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 7
+	  - Décret n°2017-553 du 14 avril 2017 - art. 2
 
 
 ###### Article R*2441-1
@@ -65133,303 +65128,247 @@ décret n° 2009-1440 du 23 novembre 2009
  :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
-DANS LEUR RÉDACTION
+Au livre II</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</th>
-      </tr>
-      <tr>
-        <td colspan="2" align="center" valign="middle">
-
-Au livre II
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2234-97
-
-</td>
-        <td align="left" valign="middle">
+D. 2234-97</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1494 du 3 décembre 2009
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2234-98 à D. 2234-100
+D. 2234-98 à D. 2234-100</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center" colspan="2">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td colspan="2" valign="middle" align="center">
+Au livre III</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Au livre III
+D. 2342-1 et D. 2342-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+D. 2342-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-D. 2342-1 et D. 2342-2
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-37
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-38
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-38</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1995 du 27 décembre 2011
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-39
+D. 2342-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-40
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-40</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2011-1995 du 27 décembre 2011
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-41 à D. 2342-58
+D. 2342-41 à D. 2342-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-59 et D. 2342-61
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-59 et D. 2342-61</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-62 à D. 2342-65
+D. 2342-62 à D. 2342-65</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-66 à D. 2342-68
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-66 à D. 2342-68</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-69
+D. 2342-69</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-69-1 et D. 2342-69-2
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-69-1 et D. 2342-69-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-70 à D. 2342-72
+D. 2342-70 à D. 2342-72</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-73
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-73</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-74 à D. 2342-81
+D. 2342-74 à D. 2342-81</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-82
-
-</td>
-        <td valign="middle" align="left">
+D. 2342-82</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2012-626 du 2 mai 2012
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-83 à D. 2342-95
+D. 2342-83 à D. 2342-95</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-96
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-96</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2009-1657 du 24 décembre 2009
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-97 et D. 2342-98
+D. 2342-97 et D. 2342-98</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-99 et D. 2342-100
-
-</td>
-        <td align="left" valign="middle">
+D. 2342-99 et D. 2342-100</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2013-377 du 2 mai 2013
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2342-101 à D. 2342-106
+D. 2342-101 à D. 2342-106</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
+D. 2342-111</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-D. 2342-111
+D. 2342-121</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-121
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2344-2
-
-</td>
-        <td valign="middle" align="left">
+D. 2344-2</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2015-1564 du 30 novembre 2015
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2362-2 à D. 2362-4-1
-
-</td>
-        <td valign="middle" align="left">
+D. 2362-2 à D. 2362-4-1</td>
+      <td align="left">
 
 Résultant du 
 décret n° 2017-320 du 10 mars 2017
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -65447,7 +65386,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 8
+	  - Décret n°2017-553 du 14 avril 2017 - art. 2
 
 
 ###### Article R*2451-1
@@ -66393,307 +66332,218 @@ décret n° 2009-1440 du 23 novembre 2009
  :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
-DANS LEUR RÉDACTION
+Au livre II</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</th>
-      </tr>
-      <tr>
-        <td valign="middle" colspan="2" align="center">
+D. 2234-97</td>
+      <td align="left">
 
-Au livre II
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
+D. 2234-98 à D. 2234-100</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td colspan="2" align="center">
+
+Au livre III</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-1 et D. 2342-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-38</td>
+      <td align="left">
+
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-40</td>
+      <td align="left">
+
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-41 à D. 2342-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-59 et D. 2342-61</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-62 à D. 2342-65</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-66 à D. 2342-68</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-69</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-69-1 et D. 2342-69-2</td>
+      <td align="left">
+
+Résultant du décret n° 2012-626 du 2 mai 2012
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2234-97
+D. 2342-70 à D. 2342-72</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
+D. 2342-73</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-74 à D. 2342-81</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-82</td>
+      <td align="left">
+
+Résultant du décret n° 2012-626 du 2 mai 2012
 </td>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td align="left">
 
-Résultant du 
-décret n° 2009-1494 du 3 décembre 2009
+D. 2342-83 à D. 2342-95</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
+D. 2342-96</td>
+      <td align="left">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-97 et D. 2342-98</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-99 et D. 2342-100</td>
+      <td align="left">
+
+Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-101 à D. 2342-106</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-111</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-121</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2344-2</td>
+      <td align="left">
+
+Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2352-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2362-2 à D. 2362-4-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-320 du 10 mars 2017
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2234-98 à D. 2234-100
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="center" colspan="2">
-
-Au livre III
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-1 et D. 2342-2
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-37
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-38
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2011-1995 du 27 décembre 2011
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-        </td><td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-40
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2011-1995 du 27 décembre 2011
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-41 à D. 2342-58
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-59 et D. 2342-61
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-62 à D. 2342-65
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-66 à D. 2342-68
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-69
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-69-1 et D. 2342-69-2
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-70 à D. 2342-72
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-73
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-74 à D. 2342-81
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-82
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-83 à D. 2342-95
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-96
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-97 et D. 2342-98
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-99 et D. 2342-100
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2013-377 du 2 mai 2013
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-101 à D. 2342-106
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-111
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-121
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2344-2
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2015-1564 du 30 novembre 2015
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2352-7
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2362-2 à D. 2362-4-1
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2017-320 du 10 mars 2017
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -66711,7 +66561,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 9
+	  - Décret n°2017-553 du 14 avril 2017 - art. 2
 
 
 ###### Article R*2461-1
@@ -68130,320 +67980,224 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 ###### Article D2471-5
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
-antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique publié par le 
-décret n° 61-1300 du 30 novembre 1961
- et sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du 
-décret n° 2009-254 du 4 mars 2009
- et du 
-décret n° 2009-1440 du 23 novembre 2009
- :
+antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique publié par le  décret n° 61-1300 du 30
+novembre 1961  et sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4
+mars 2009  et du  décret n° 2009-1440 du 23 novembre 2009  :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
 
-DANS LEUR RÉDACTION
+Au livre II</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</th>
-      </tr>
-      <tr>
-        <td valign="middle" colspan="2" align="center">
+D. 2234-97</td>
+      <td align="left">
 
-Au livre II
-
+Résultant du décret n° 2009-1494 du 3 décembre 2009
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left">
 
-D. 2234-97
+D. 2234-98 à D. 2234-100</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td colspan="2" align="center">
 
+Au livre III</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-1 et D. 2342-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-38</td>
+      <td align="left">
+
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-40</td>
+      <td align="left">
+
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-41 à D. 2342-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-59 et D. 2342-61</td>
+      <td align="left">
+
+Résultant du décret n° 2012-626 du 2 mai 2012
 </td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2009-1494 du 3 décembre 2009
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2234-98 à D. 2234-100
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td colspan="2" valign="middle" align="center">
-
-Au livre III
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-1 et D. 2342-2
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-37
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-38
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2011-1995 du 27 décembre 2011
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-39
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-40
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2011-1995 du 27 décembre 2011
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-41 à D. 2342-58
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-59 et D. 2342-61
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-62 à D. 2342-65
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-66 à D. 2342-68
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-69
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-69-1 et D. 2342-69-2
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-70 à D. 2342-72
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-73
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-74 à D. 2342-81
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-82
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2012-626 du 2 mai 2012
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-83 à D. 2342-95
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-96
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2009-1657 du 24 décembre 2009
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-97 et D. 2342-98
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-99 et D. 2342-100
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2013-377 du 2 mai 2013
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-101 à D. 2342-106
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2342-111
-
-</td>
-        <td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2342-121
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td valign="middle" align="left">
-
-D. 2344-2
-
-</td>
-        <td align="left" valign="middle">
-
-Résultant du 
-décret n° 2015-1564 du 30 novembre 2015
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2352-7
-
-</td>
-        <td align="left" valign="middle">
-      </td></tr>
-      <tr>
-        <td align="left" valign="middle">
-
-D. 2362-2 à D. 2362-4-1
-
-</td>
-        <td valign="middle" align="left">
-
-Résultant du 
-décret n° 2017-320 du 10 mars 2017
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-62 à D. 2342-65</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-66 à D. 2342-68</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-69</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-69-1 et D. 2342-69-2</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-70 à D. 2342-72</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-73</td>
+      <td align="left">
+
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-74 à D. 2342-81</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-82</td>
+      <td align="left">
+
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-83 à D. 2342-95</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-96</td>
+      <td align="left">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-97 et D. 2342-98</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-99 et D. 2342-100</td>
+      <td align="left">
+
+Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-101 à D. 2342-106</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-111</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-121</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2344-2</td>
+      <td align="left">
+
+Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2352-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2362-2 à D. 2362-4-1</td>
+      <td align="left">
+
+Résultant du  décret n° 2017-320 du 10 mars 2017 </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -68462,7 +68216,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 10
+	  - Décret n°2017-553 du 14 avril 2017 - art. 2
 
 
 ###### Article R*2471-1

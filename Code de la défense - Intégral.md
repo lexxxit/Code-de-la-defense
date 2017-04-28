@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2017-04-29
 
 # Partie législative
 
@@ -63059,74 +63059,46 @@ R. 413-5 du code pénal.
 
 ##### Section 2 : Dispositions relatives à certaines enquêtes préalables
 
-###### Article R2362-5
-
-Peuvent donner lieu aux enquêtes mentionnées au II de l'article L. 2381-1 : 
-
-1° Les décisions relatives au recrutement de personnels civils par l'autorité militaire à l'étranger ; 
-
-2° Les décisions permettant, à l'étranger, d'accéder à des zones à accès réservé ou placées sous le contrôle de l'autorité
-militaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
-
-	**Cité par**:
-
-	  - Décret n°2017-646 du 26 avril 2017 (V)
-	  - Code de la défense. - art. R2362-6 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-646 du 26 avril 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de la défense. - art. L2381-1
-
-
 ###### Article R2362-6
 
-En application du II de l'article L. 2381-1, les personnes sont informées par tout moyen, lors du dépôt de leur demande,
-qu'elles feront l'objet d'une enquête préalable et que celle-ci donnera lieu à la consultation des données personnelles
-figurant dans les traitements mis en œuvre par les services spécialisés de renseignement relevant du ministère de la
-défense. 
+Les personnes concernées par les décisions mentionnées à l'article L. 2362-1 sont informées par tout moyen, lors du dépôt de
+leur demande, qu'elles feront l'objet d'une enquête préalable et que celle-ci pourra donner lieu aux opérations et aux
+prélèvements prévus au II de l'article L. 2381-1 et à la consultation des données personnelles figurant dans les traitements
+mis en œuvre par les services spécialisés de renseignement relevant du ministère de la défense.
 
-Les intéressés en sont informés : 
+Les intéressés en sont informés :
 
-1° Pour les décisions prises en application du 1° de l'article R. 2362-5, par l'autorité chargée du recrutement ; 
+1° Pour les décisions de recrutement, par l'autorité chargée du recrutement ;
 
-2° Pour les décisions prises en application du 2° du même article, par l'autorité qui délivre les autorisations d'accès.
+2° Pour les décisions d'accès aux zones mentionnées au II de l'article L. 2381-1, par l'autorité qui délivre les
+autorisations d'accès.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2017-646 du 26 avril 2017 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-646 du 26 avril 2017 - art. 2
+
 	**Cite**:
 
-	  - Code de la défense. - art. L2381-1 (V)
-	  - Code de la défense. - art. R2362-5 (V)
+	  - Code de la défense. - art. L2362-1
+	  - Code de la défense. - art. L2381-1
 
 
 ###### Article R2362-7
 
-Ces  enquêtes sont menées par des agents des services spécialisés de  renseignement du ministère de la défense
-individuellement désignés et  spécialement habilités par l'autorité dont ils relèvent.
+Les enquêtes prévues à la présente section sont menées par des agents des services spécialisés de renseignement du ministère
+de la défense individuellement désignés et spécialement habilités par l'autorité dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
+	  - Décret n°2017-646 du 26 avril 2017 - art. 3
 
 
 ##### Chapitre III : Zones de défense hautement sensibles

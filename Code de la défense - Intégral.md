@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-29
+Version Consolidée au 2017-05-06
 
 # Partie législative
 
@@ -27780,12 +27780,12 @@ confiées.
 Dans chacune des zones de défense et de sécurité, le comité interarmées de zone de défense et de sécurité, présidé par
 l'officier général de zone de défense et de sécurité, est chargé d'étudier :
 
-1° Les menaces et les risques susceptibles d'affecter la  zone de défense et de sécurité   ; 
+1° Les menaces et les risques susceptibles d'affecter la zone de défense et de sécurité ;
 
-2° Les mesures de coordination des actions des forces armées en matière de défense militaire ; 
+2° Les mesures de coordination des actions des forces armées en matière de défense militaire ;
 
-3° Les mesures de coordination de l'action des armées pour les concours qu'elles fournissent en matière de défense civile et
-la cohérence de ces concours avec l'action de la gendarmerie.
+3° Les mesures de coordination de l'action des armées, des services de soutien et des organismes interarmées pour les
+concours qu'ils fournissent en matière de défense civile et la cohérence de ces concours avec l'action de la gendarmerie.
 
 **Liens relatifs à cet article**
 
@@ -27799,8 +27799,7 @@ la cohérence de ces concours avec l'action de la gendarmerie.
 
 	**Modifié par**:
 
-	  - Décret n°2015-213 du 25 février 2015 - art. 21
-	  - Décret n°2015-213 du 25 février 2015 - art. 22
+	  - Décret n°2017-745 du 4 mai 2017 - art. 1
 
 
 ###### Article D1211-6
@@ -29815,14 +29814,19 @@ Pour leur emploi au maintien de l'ordre, les forces armées sont classées en tr
 
 2° Les formations de la gendarmerie mobile constituent les forces de deuxième catégorie ;
 
-3° Les formations des forces terrestres, maritimes, aériennes et les services communs ainsi que les formations de la
-gendarmerie mises sur pied à la mobilisation ou sur décision ministérielle constituent les forces de troisième catégorie.
+3° Les formations des forces terrestres, maritimes, aériennes, les services de soutien et les organismes interarmées ainsi
+que les formations de la gendarmerie mises sur pied à la mobilisation ou sur décision ministérielle constituent les forces de
+troisième catégorie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-745 du 4 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -30467,42 +30471,45 @@ b) Ou de mettre gravement en cause la santé ou la vie de la population.
 ###### Article R1332-2
 
 Un secteur d'activités d'importance vitale, mentionné au 1° du II de l'article R. 1332-1, est constitué d'activités
-concourant à un même objectif, qui : 
+concourant à un même objectif, qui :
 
-1° Ont trait à la production et la distribution de biens ou de services indispensables : 
+1° Ont trait à la production et la distribution de biens ou de services indispensables :
 
-a) A la satisfaction des besoins essentiels pour la vie des populations ; 
+a) A la satisfaction des besoins essentiels pour la vie des populations ;
 
-b) Ou à l'exercice de l'autorité de l'Etat ; 
+b) Ou à l'exercice de l'autorité de l'Etat ;
 
-c) Ou au fonctionnement de l'économie ; 
+c) Ou au fonctionnement de l'économie ;
 
-d) Ou au maintien du potentiel de défense ; 
+d) Ou au maintien du potentiel de défense ;
 
-e) Ou à la sécurité de la Nation, 
+e) Ou à la sécurité de la Nation,
 
-dès lors que ces activités sont difficilement substituables ou remplaçables ; 
+dès lors que ces activités sont difficilement substituables ou remplaçables ;
 
-2° Ou peuvent présenter un danger grave pour la population. 
+2° Ou peuvent présenter un danger grave pour la population.
 
 Le Premier ministre fixe, par arrêté pris après avis de la commission mentionnée à l'article R. 1332-10, les secteurs
 d'activités d'importance vitale. Cet arrêté désigne pour chaque secteur d'activités d'importance vitale un ministre
 coordonnateur, qui veille à l'application des directives du gouvernement dans ce secteur, le cas échéant en liaison avec le
-ou les ministres dont le domaine de compétence recouvre les activités qui y sont exercées. 
+ou les ministres dont le domaine de compétence recouvre les activités qui y sont exercées.
 
 Le ministre de la défense est le ministre coordonnateur des secteurs d'activités d'importance vitale constitués d'activités
-qui participent de façon directe à la satisfaction des besoins des armées et des formations rattachées.
+qui participent de façon directe à la satisfaction des besoins des forces armées et des formations rattachées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2006-212 2006-02-23 art. 2
 	  - Décret n°2006-212 du 23 février 2006 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -30511,7 +30518,7 @@ qui participent de façon directe à la satisfaction des besoins des armées et 
 
 	**Cite**:
 
-	  - Code de la défense. - art. R1332-10 (V)
+	  - Code de la défense. - art. R1332-10
 
 
 ##### Section 2 : Désignation des opérateurs d'importance vitale, des délégués pour la défense et la sécurité et des points d'importance vitale
@@ -36068,8 +36075,8 @@ diffuse leur inventaire détaillé.
 ###### Article D1334-12
 
 Certaines stations du troisième groupe peuvent faire l'objet de mesures d'arrêt des émissions afin d'assurer la sécurité
-d'éléments déterminés des forces armées. La liste de ces stations et les modalités d'application de ces mesures sont
-déterminées par décrets.
+d'éléments déterminés des forces armées et formations rattachées. La liste de ces stations et les modalités d'application de
+ces mesures sont déterminées par décrets.
 
 **Liens relatifs à cet article**
 
@@ -36079,7 +36086,11 @@ déterminées par décrets.
 
 	**Codifié par**:
 
-	  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-586 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-745 du 4 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -36838,7 +36849,7 @@ défense, du ministre chargé des transports et en tant que de besoin, de tout a
 
 Le ministre de l'intérieur et les préfets pour l'exécution des missions de circulation routière pour la défense utilisent,
 outre les forces de police et de gendarmerie, les unités militaires de circulation routière mises éventuellement à leur
-disposition pour faciliter les déplacements des forces armées.
+disposition pour faciliter les déplacements des forces armées et formations rattachées.
 
 **Liens relatifs à cet article**
 
@@ -36848,7 +36859,11 @@ disposition pour faciliter les déplacements des forces armées.
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 1
 
 
 ###### Article R1336-38
@@ -37390,10 +37405,10 @@ application dans les départements d'outre-mer.
 ###### Article R1337-1
 
 Dans les cas prévus à l'article L. 1111-2, la satisfaction des besoins en denrées et produits destinés à l'alimentation
-humaine et à la nourriture des animaux incombe au ministre chargé de l'agriculture. 
+humaine et à la nourriture des animaux incombe au ministre chargé de l'agriculture.
 
 Le ministre chargé de l'agriculture a la charge du ravitaillement de la population civile et de l'approvisionnement des
-forces armées en denrées et produits alimentaires.
+forces armées et formations rattachées en denrées et produits alimentaires.
 
 A cet effet, il est responsable de la préparation et de l'exécution de toutes les mesures relatives au recensement des
 besoins, à la production, à la transformation, à la protection, à la réunion et à la répartition des denrées et produits
@@ -37403,16 +37418,19 @@ alimentaires.
 
 	**Anciens textes**:
 
-	  - Décret n°63-789 1963-07-31 art. 1 al. 1 à 3
 	  - Décret n°63-789 du 31 juillet 1963 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+	  - Décret n°2007-585 du 23 avril 2007
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code de la défense. - art. L1111-2
 
 	**Cité par**:
 
@@ -40851,20 +40869,268 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 
 ###### Article D1641-5
 
-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article D. 1641-6 et au titre VIII
-du présent livre :
+Sauf mention contraire dans le tableau ci-après et sous réserve des adaptations prévues à l'article D. 1641-6 et au titre
+VIII du présent livre, les dispositions suivantes sont applicables dans les îles Wallis et Futuna, dans leur rédaction
+résultant du décret n° 2007-586 du 23 avril 2007 :
 
-1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
-1143-13 ;
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1334-14, D. 1337-14 à D. 1337-17, D. 1338-6 ;
+DISPOSITIONS APPLICABLES</th>
+        <th>
 
-3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ;
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-4° Au livre V, les dispositions des articles D. 1521-1 à D. 1522-1 ;
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.
+D. 1122-8-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1132-53 et D. 1132-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1142-30 à D. 1142-34</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1143-9 et D. 1143-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1143-12 et D. 1143-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre III</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-4</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-7 et D. 1321-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-9</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-988 du 23 août 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-15 à D. 1321-18</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1332-39 à D. 1332-41</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1333-68 et D. 1333-69</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-5 à D. 1334-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-15</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1337-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1338-6</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre IV</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1443-2 à D. 1443-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-805 du 16 juillet 2014 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre VI</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-7 et D. 1681-8</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-226 du 4 mars 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-11 et D. 1681-12</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-15 et D. 1681-16
+
+</td>
+        <td align="justify">
+      </td></tr>
+    </tbody>
+  </table>
 
 **Nota:**
 
@@ -40876,26 +41142,26 @@ publication au Journal officiel de la République française du décret mentionn
 
 	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
+	  - Décret n°2017-745 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D1132-34 (V)
-	  - Code de la défense. - art. D1132-4 (V)
-	  - Code de la défense. - art. D1132-43 (V)
-	  - Code de la défense. - art. D1142-30 (V)
-	  - Code de la défense. - art. D1143-9 (V)
-	  - Code de la défense. - art. D1321-2 (V)
-	  - Code de la défense. - art. D1332-39 (V)
-	  - Code de la défense. - art. D1333-55 (V)
-	  - Code de la défense. - art. D1333-68 (V)
-	  - Code de la défense. - art. D1334-5 (V)
-	  - Code de la défense. - art. D1336-43 (V)
-	  - Code de la défense. - art. D1337-14 (V)
-	  - Code de la défense. - art. D1411-14 (V)
-	  - Code de la défense. - art. D1641-6 (V)
-	  - Code de la défense. - art. D1681-15 (V)
-	  - Code de la défense. - art. D1681-7 (V)
+	  - Code de la défense. - art. D1132-34
+	  - Code de la défense. - art. D1132-4
+	  - Code de la défense. - art. D1132-43
+	  - Code de la défense. - art. D1142-30
+	  - Code de la défense. - art. D1143-9
+	  - Code de la défense. - art. D1321-2
+	  - Code de la défense. - art. D1332-39
+	  - Code de la défense. - art. D1333-55
+	  - Code de la défense. - art. D1333-68
+	  - Code de la défense. - art. D1334-5
+	  - Code de la défense. - art. D1336-43
+	  - Code de la défense. - art. D1337-14
+	  - Code de la défense. - art. D1411-14
+	  - Code de la défense. - art. D1641-6
+	  - Code de la défense. - art. D1681-15
+	  - Code de la défense. - art. D1681-7
 
 
 ###### Article D1641-6
@@ -41588,68 +41854,68 @@ matière de travail " et les mots : " en application des dispositions applicable
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles R. 1641-3 et D. 1641-6 et
 au titre VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-
-après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre Ier </td>
+Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1132-12 à R. 1132-19 </td>
+R. 1132-12 à R. 1132-19</td>
       <td align="left">
 
-Résultant du décret n° 2009-752 du 23 juin 2009 </td>
+Résultant du décret n° 2009-752 du 23 juin 2009</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1132-20 </td>
+R. 1132-20</td>
       <td align="left">
 
-Résultant du décret n° 2013-247 du 25 mars 2013 </td>
+Résultant du décret n° 2013-247 du 25 mars 2013</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1132-21 </td>
+R. 1132-21</td>
       <td align="left">
 
-Résultant du décret n° 2011-1899 du 19 décembre 2011 </td>
+Résultant du décret n° 2011-1899 du 19 décembre 2011</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1132-22 </td>
+R. 1132-22</td>
       <td align="left">
 
-Résultant du décret n° 2013-247 du 25 mars 2013 </td>
+Résultant du décret n° 2013-247 du 25 mars 2013</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1132-23 et R. 1132-24 </td>
+R. 1132-23 et R. 1132-24</td>
       <td align="left">
 
-Résultant du décret n° 2009-752 du 23 juin 2009 </td>
+Résultant du décret n° 2009-752 du 23 juin 2009</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1132-25 </td>
+R. 1132-25</td>
       <td align="left">
 
 Résultant du décret n° 2012-1247 du 7 novembre 2012 
@@ -41658,7 +41924,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-26 et R. 1132-27 </td>
+R. 1132-26 et R. 1132-27</td>
       <td align="left">
 
 Résultant du décret n° 2009-752 du 23 juin 2009 
@@ -41667,7 +41933,7 @@ Résultant du décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-28 </td>
+R. 1132-28</td>
       <td align="left">
 
 Résultant du décret n° 2013-247 du 25 mars 2013 
@@ -41676,7 +41942,7 @@ Résultant du décret n° 2013-247 du 25 mars 2013
     <tr>
       <td align="left">
 
-R. 1132-29 et R. 1132-30 </td>
+R. 1132-29 et R. 1132-30</td>
       <td align="left">
 
 Résultant du décret n° 2009-752 du 23 juin 2009 
@@ -41685,7 +41951,7 @@ Résultant du décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-31 </td>
+R. 1132-31</td>
       <td align="left">
 
 Résultant du décret n° 2012-1247 du 7 novembre 2012 
@@ -41694,7 +41960,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-32 </td>
+R. 1132-32</td>
       <td align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 
@@ -41703,7 +41969,7 @@ Résultant du décret n° 2015-1213 du 1er octobre 2015
     <tr>
       <td align="left">
 
-R. 1132-33 et R. 1132-33-1 </td>
+R. 1132-33 et R. 1132-33-1</td>
       <td align="left">
 
 Résultant du décret n° 2009-752 du 23 juin 2009 
@@ -41712,7 +41978,7 @@ Résultant du décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-33-2 </td>
+R. 1132-33-2</td>
       <td align="left">
 
 Résultant du décret n° 2012-1247 du 7 novembre 2012 
@@ -41721,7 +41987,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-33-3 </td>
+R. 1132-33-3</td>
       <td align="left">
 
 Résultant du décret n° 2015-1213 du 1er octobre 2015 
@@ -41730,7 +41996,7 @@ Résultant du décret n° 2015-1213 du 1er octobre 2015
     <tr>
       <td align="left">
 
-R. 1132-33-5 à R. 1132-33-9 </td>
+R. 1132-33-5 à R. 1132-33-9</td>
       <td align="left">
 
 Résultant du décret n° 2009-752 du 23 juin 2009 
@@ -41739,7 +42005,7 @@ Résultant du décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1142-14 à R. 1142-20 </td>
+R. 1142-14 à R. 1142-20</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41748,7 +42014,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1142-35 à R. 1143-1 </td>
+R. 1142-35 à R. 1143-1</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41757,7 +42023,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-2 </td>
+R. 1143-2</td>
       <td align="left">
 
 Résultant du décret n° 2009-1657 du 24 décembre 2009 
@@ -41766,7 +42032,7 @@ Résultant du décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-3 et R. 1143-4 </td>
+R. 1143-3 et R. 1143-4</td>
       <td align="left">
 
 Résultant du 
@@ -41777,7 +42043,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-5 </td>
+R. 1143-5</td>
       <td align="left">
 
 Résultant du 
@@ -41788,7 +42054,7 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-6 </td>
+R. 1143-6</td>
       <td align="left">
 
 Résultant du 
@@ -41799,7 +42065,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1143-7 </td>
+R. 1143-7</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41808,7 +42074,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-8 </td>
+R. 1143-8</td>
       <td align="left">
 
 Résultant du décret n° 2009-1657 du 24 décembre 2009 
@@ -41817,7 +42083,7 @@ Résultant du décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-11 </td>
+R. 1143-11</td>
       <td align="left">
 
 Résultant du décret n° 2010-902 du 3 août 2010 
@@ -41826,13 +42092,13 @@ Résultant du décret n° 2010-902 du 3 août 2010
     <tr>
       <td align="left">
 
-Au livre III </td>
+Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1312-1 </td>
+R. 1312-1</td>
       <td align="left">
 
 Résultant du décret n° 2013-1113 du 4 décembre 2013 
@@ -41841,7 +42107,7 @@ Résultant du décret n° 2013-1113 du 4 décembre 2013
     <tr>
       <td align="left">
 
-R. 1322-1 à R. 1324-1 </td>
+R. 1322-1 à R. 1324-1</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41850,18 +42116,17 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-1 et R. 1332-2 </td>
+R. 1332-1</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007 
-
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 1332-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1332-3 </td>
+R. 1332-3</td>
       <td align="left">
 
 Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015 
@@ -41870,7 +42135,7 @@ Résultant de l'ordonnance n° 2015-1341 du 23 octobre 2015
     <tr>
       <td align="left">
 
-R. 1332-4 </td>
+R. 1332-4</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41879,7 +42144,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-5 </td>
+R. 1332-5</td>
       <td align="left">
 
 Résultant du décret n° 2009-254 du 4 mars 2009 
@@ -41888,7 +42153,7 @@ Résultant du décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-6 </td>
+R. 1332-6</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -41897,7 +42162,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-10 </td>
+R. 1332-10</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -41906,7 +42171,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-11 </td>
+R. 1332-11</td>
       <td align="left">
 
 Résultant du décret n° 2009-1657 du 24 décembre 2009 
@@ -41915,7 +42180,7 @@ Résultant du décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1332-12 à R. 1332-15 </td>
+R. 1332-12 à R. 1332-15</td>
       <td align="left">
 
 Résultant du décret n° 2015-211 du 25 février 2015 
@@ -41924,7 +42189,7 @@ Résultant du décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17 </td>
+R. 1332-16 et R. 1332-17</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007 
@@ -41933,7 +42198,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19 </td>
+R. 1332-18 et R. 1332-19</td>
       <td align="left">
 
 Résultant du décret n° 2009-254 du 4 mars 2009 
@@ -41942,7 +42207,7 @@ Résultant du décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-20 </td>
+R. 1332-20</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -41951,7 +42216,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-21 </td>
+R. 1332-21</td>
       <td align="left">
 
 Résultant du décret n° 2009-254 du 4 mars 2009 
@@ -41960,7 +42225,7 @@ Résultant du décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-22 et R. 1332-22-1 </td>
+R. 1332-22 et R. 1332-22-1</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -41969,7 +42234,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-22-2 et R. 1332-22-3 </td>
+R. 1332-22-2 et R. 1332-22-3</td>
       <td align="left">
 
 Résultant du décret n° 2012-491 du 16 avril 2012 
@@ -41978,7 +42243,7 @@ Résultant du décret n° 2012-491 du 16 avril 2012
     <tr>
       <td align="left">
 
-R. 1332-23 </td>
+R. 1332-23</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -41987,7 +42252,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-24 </td>
+R. 1332-24</td>
       <td align="left">
 
 Résultant du 
@@ -41998,7 +42263,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-25 à R. 1332-27 </td>
+R. 1332-25 à R. 1332-27</td>
       <td align="left">
 
 Résultant du 
@@ -42009,7 +42274,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-28 </td>
+R. 1332-28</td>
       <td align="left">
 
 Résultant du 
@@ -42020,7 +42285,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-29 et R. 1332-30 </td>
+R. 1332-29 et R. 1332-30</td>
       <td align="left">
 
 Résultant du décret n° 2017-282 du 2 mars 2017 
@@ -42029,7 +42294,7 @@ Résultant du décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-31 </td>
+R. 1332-31</td>
       <td align="left">
 
 Résultant du 
@@ -42040,7 +42305,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-32 </td>
+R. 1332-32</td>
       <td align="left">
 
 Résultant du 
@@ -42051,7 +42316,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-33 </td>
+R. 1332-33</td>
       <td align="left">
 
 Résultant du 
@@ -42062,7 +42327,7 @@ décret n° 2015-351 du 27 mars 2015
     <tr>
       <td align="left">
 
-R. 1332-34 et R. 1332-35 </td>
+R. 1332-34 et R. 1332-35</td>
       <td align="left">
 
 Résultant du 
@@ -42073,7 +42338,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-37 </td>
+R. 1332-37</td>
       <td align="left">
 
 Résultant du 
@@ -42084,7 +42349,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-38 </td>
+R. 1332-38</td>
       <td align="left">
 
 Résultant du 
@@ -42095,7 +42360,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 </td>
+R 1332-41-1 à R. 1332-41-23</td>
       <td align="left">
 
 Résultant du 
@@ -42106,7 +42371,7 @@ décret n° 2015-351 du 27 mars 2015
     <tr>
       <td align="left">
 
-R. 1332-42 </td>
+R. 1332-42</td>
       <td align="left">
 
 Résultant du 
@@ -42117,7 +42382,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1333-1 et R. 1333-2 </td>
+R. 1333-1 et R. 1333-2</td>
       <td align="left">
 
 Résultant du 
@@ -42128,7 +42393,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-3 </td>
+R. 1333-3</td>
       <td align="left">
 
 Résultant du 
@@ -42139,7 +42404,7 @@ décret n° 2016-1296 du 30 septembre 2016
     <tr>
       <td align="left">
 
-R. 1333-4 et R. 1333-5 </td>
+R. 1333-4 et R. 1333-5</td>
       <td align="left">
 
 Résultant du 
@@ -42150,7 +42415,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-6 </td>
+R. 1333-6</td>
       <td align="left">
 
 Résultant du 
@@ -42161,7 +42426,7 @@ décret n° 2016-1296 du 30 septembre 2016
     <tr>
       <td align="left">
 
-R. 1333-7 à R. 1333-16 </td>
+R. 1333-7 à R. 1333-16</td>
       <td align="left">
 
 Résultant du 
@@ -42172,7 +42437,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-17 </td>
+R. 1333-17</td>
       <td align="left">
 
 Résultant du 
@@ -42183,7 +42448,7 @@ décret n° 2016-1296 du 30 septembre 2016
     <tr>
       <td align="left">
 
-R. 1333-18 et R. 1333-19 </td>
+R. 1333-18 et R. 1333-19</td>
       <td align="left">
 
 Résultant du 
@@ -42194,7 +42459,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-70 </td>
+R. 1333-70</td>
       <td align="left">
 
 Résultant du 
@@ -42205,7 +42470,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-71 </td>
+R. 1333-71</td>
       <td align="left">
 
 Résultant du 
@@ -42216,7 +42481,7 @@ décret n° 2016-1296 du 30 septembre 2016
     <tr>
       <td align="left">
 
-R. 1333-72 à R. 1333-74 </td>
+R. 1333-72 à R. 1333-74</td>
       <td align="left">
 
 Résultant du 
@@ -42227,7 +42492,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1333-75 </td>
+R. 1333-75</td>
       <td align="left">
 
 Résultant du 
@@ -42238,7 +42503,7 @@ décret n° 2016-1296 du 30 septembre 2016
     <tr>
       <td align="left">
 
-R. 1333-76 à R. 1333-78 </td>
+R. 1333-76 à R. 1333-78</td>
       <td align="left">
 
 Résultant du 
@@ -42249,7 +42514,7 @@ décret n° 2009-1120 du 17 septembre 2009
     <tr>
       <td align="left">
 
-R. 1334-1 et R. 1334-2 </td>
+R. 1334-1 et R. 1334-2</td>
       <td align="left">
 
 Résultant du 
@@ -42260,7 +42525,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1334-3 et R. 1334-4 </td>
+R. 1334-3 et R. 1334-4</td>
       <td align="left">
 
 Résultant du 
@@ -42271,29 +42536,35 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1336-33 à R. 1336-38 </td>
+R. 1336-33 à R. 1336-36</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 1337-1 et R. 1337-2 </td>
-      <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007 
-
-</td>
+      <td align="left">R. 1336-37</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
+    <tr>
+      <td align="left">R. 1336-38</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
-R. 1337-3 </td>
+R. 1337-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1337-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 1337-3</td>
       <td align="left">
 
 Résultant du 
@@ -42304,7 +42575,7 @@ décret n° 2009-1494 du 3 décembre 2009
     <tr>
       <td align="left">
 
-R. 1337-4 </td>
+R. 1337-4</td>
       <td align="left">
 
 Résultant du 
@@ -42315,7 +42586,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1337-5 à R. 1337-13 </td>
+R. 1337-5 à R. 1337-13</td>
       <td align="left">
 
 Résultant du 
@@ -42326,7 +42597,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1337-18 à R. 1338-5 </td>
+R. 1337-18 à R. 1338-5</td>
       <td align="left">
 
 Résultant du 
@@ -42337,30 +42608,30 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-Au livre IV </td>
+Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 1411-11-6 </td>
+      <td align="left">R. 1411-11-6</td>
       <td align="left">Résultant du 
 décret n° 2016-284 du 10 mars 2016
 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 1411-11-8 </td>
+      <td align="left">R. 1411-11-8</td>
       <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 1411-11-16 </td>
+      <td align="left">R. 1411-11-16</td>
       <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1411-11-24 et R. 1411-11-25 </td>
+R. 1411-11-24 et R. 1411-11-25</td>
       <td align="left">
 
 Résultant du 
@@ -42371,13 +42642,13 @@ décret n° 2016-1243 du 23 septembre 2016
     <tr>
       <td align="left">
 
-Dans le livre V </td>
+Dans le livre V</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1511-2 à R. 1522-1 </td>
+R. 1511-2 à R. 1522-1</td>
       <td align="left">
 
 Résultant du 
@@ -42388,13 +42659,13 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-Au titre VIII du présent livre </td>
+Au titre VIII du présent livre</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1681-1 et R. 1681-2 </td>
+R. 1681-1 et R. 1681-2</td>
       <td align="left">
 
 Résultant du 
@@ -42405,7 +42676,7 @@ décret n° 2010-225 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1681-3 </td>
+R. 1681-3</td>
       <td align="left">
 
 Résultant du 
@@ -42416,7 +42687,7 @@ décret n° 2013-1113 du 4 décembre 2013
     <tr>
       <td align="left">
 
-R. 1681-4 </td>
+R. 1681-4</td>
       <td align="left">
 
 Résultant du 
@@ -42427,7 +42698,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1682-1 </td>
+R. 1682-1</td>
       <td align="left">
 
 Résultant du 
@@ -42438,7 +42709,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1682-2 </td>
+R. 1682-2</td>
       <td align="left">
 
 Résultant du 
@@ -42449,7 +42720,7 @@ décret n° 2010-226 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1682-3 </td>
+R. 1682-3</td>
       <td align="left">
 
 Résultant du 
@@ -42460,7 +42731,7 @@ décret n° 2015-258 du 4 mars 2015
     <tr>
       <td align="left">
 
-R. 1682-4 </td>
+R. 1682-4</td>
       <td align="left">
 
 Résultant du 
@@ -42471,7 +42742,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1682-5 </td>
+R. 1682-5</td>
       <td align="left">
 
 Résultant du 
@@ -42482,7 +42753,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1682-6 </td>
+R. 1682-6</td>
       <td align="left">
 
 Résultant du 
@@ -42493,7 +42764,7 @@ décret n° 2010-226 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1682-7 à R. 1682-18 </td>
+R. 1682-7 à R. 1682-18</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007
@@ -42510,7 +42781,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-539 du 13 avril 2017 - art. 23
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 
 ###### Article R1641-3
@@ -42612,20 +42883,268 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 
 ###### Article D1651-6
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues à l'article D. 1651-7 et au titre VIII du
-présent livre : 
+Sauf mention contraire dans le tableau ci-après et sous réserve des adaptations prévues à l'article D. 1651-7 et au titre
+VIII du présent livre, les dispositions suivantes sont applicables en Polynésie française, dans leur rédaction résultant du
+décret n° 2007-586 du 23 avril 2007 :
 
-1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
-1143-13 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+DISPOSITIONS APPLICABLES</th>
+        <th>
 
-3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-4° Au livre V, les dispositions des articles D. 1511-1 à D. 1522-1 ; 
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15, et D. 1681-16.
+D. 1122-8-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1132-53 et D. 1132-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1142-30 à D. 1142-34</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1143-9 et D. 1143-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1143-12 et D. 1143-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre III</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-4</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-7 et D. 1321-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-9</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-988 du 23 août 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-15 à D. 1321-18</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1332-39 à D. 1332-41</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1333-68 et D. 1333-69</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-5 à D. 1334-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-15</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1337-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1338-6</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre IV</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1443-2 à D. 1443-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-805 du 16 juillet 2014 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre VI</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-7 et D. 1681-8</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-226 du 4 mars 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-11 et D. 1681-12</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-15 et D. 1681-16
+
+</td>
+        <td align="justify">
+      </td></tr>
+    </tbody>
+  </table>
 
 **Nota:**
 
@@ -42637,7 +43156,7 @@ publication au Journal officiel de la République française du décret mentionn
 
 	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
+	  - Décret n°2017-745 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -43649,13 +44168,12 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-1 et R. 1332-2</td>
+R. 1332-1</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 1332-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -44098,25 +44616,39 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1336-33 à R. 1336-38</td>
+R. 1336-33 à R. 1336-36</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1337-1 et R. 1337-2</td>
-      <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
+R. 1336-37
 
 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
+    <tr>
+      <td align="left">
+
+R. 1336-38
+
+</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 1337-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1337-2</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -44356,7 +44888,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-539 du 13 avril 2017 - art. 23
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 
 ###### Article R1651-4
@@ -44455,20 +44987,268 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 
 ###### Article D1661-6
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à l'article D. 1661-7 et au titre VIII du
-présent livre : 
+Sauf mention contraire dans le tableau ci-après et sous réserve des adaptations prévues à l'article D. 1661-7 et au titre
+VIII du présent livre, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant du
+décret n° 2007-586 du 23 avril 2007 :
 
-1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
-1143-13 ;
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14 et D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+DISPOSITIONS APPLICABLES</th>
+        <th>
 
-3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-4° Au livre V, les dispositions des articles D. 1521-1 à D. 1522-1 ; 
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, D. 1681-15 et D. 1681-16.
+D. 1122-8-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1132-53 et D. 1132-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1142-30 à D. 1142-34</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1143-9 et D. 1143-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1143-12 et D. 1143-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre III</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-4</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-7 et D. 1321-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-9</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-988 du 23 août 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-15 à D. 1321-18</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1332-39 à D. 1332-41</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1333-68 et D. 1333-69</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-5 à D. 1334-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-15</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1337-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1338-6</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre IV</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1443-2 à D. 1443-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-805 du 16 juillet 2014 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre VI</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-7 et D. 1681-8</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-226 du 4 mars 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-11 et D. 1681-12</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-15 et D. 1681-16
+
+</td>
+        <td align="justify">
+      </td></tr>
+    </tbody>
+  </table>
 
 **Nota:**
 
@@ -44480,7 +45260,7 @@ publication au Journal officiel de la République française du décret mentionn
 
 	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
+	  - Décret n°2017-745 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -45534,13 +46314,12 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-1 et R. 1332-2</td>
+R. 1332-1</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 1332-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -45984,25 +46763,31 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1336-33 à R. 1336-38</td>
+R. 1336-33 à R. 1336-36</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
 
 </td>
     </tr>
     <tr>
-      <td align="left">
-
-R. 1337-1 et R. 1337-2</td>
-      <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007
-
-</td>
+      <td align="left">R. 1336-37</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
+    <tr>
+      <td align="left">R. 1336-38</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 1337-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1337-2</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
@@ -46248,7 +47033,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-539 du 13 avril 2017 - art. 23
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 
 ###### Article R1661-4
@@ -46352,22 +47137,269 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévu
 
 ###### Article D1671-6
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues à l'article D. 1671-7 et au titre VIII du
-présent livre : 
+Sauf mention contraire dans le tableau ci-après et sous réserve des stipulations du traité sur l'Antarctique publié par le
+décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues à l'article D. 1671-7 et au titre VIII du présent livre, les
+dispositions suivantes sont applicables aux Terres australes et antarctiques françaises, dans leur rédaction résultant du
+décret n° 2007-586 du 23 avril 2007 :
 
-1° Au livre Ier, les dispositions des articles D. 1122-8-1, D. 1132-53, D. 1132-54, D. 1142-30 à D. 1142-34, D. 1143-9 à D.
-1143-13 ;
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les dispositions des articles D. 1321-2 à D. 1321-18, D. 1332-39 à D. 1332-41, D. 1333-55 à D. 1333-60, D.
-1333-68 et D. 1333-69, D. 1334-5 à D. 1333-14, D. 1337-14 à D. 1337-17, D. 1338-6 ; 
+DISPOSITIONS APPLICABLES</th>
+        <th>
 
-3° Au livre IV, les dispositions des articles D. 1443-2 à D. 1443-4 ; 
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-4° Au livre V, les dispositions des articles D. 1521-1 à D. 1522-1 ; 
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
 
-5° Au titre VIII du présent livre, les dispositions des articles D. 1681-7 à D. 1681-12, 
-D. 1681-15 et D. 1681-16.
+D. 1122-8-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-1185 du 28 septembre 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1132-53 et D. 1132-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1142-30 à D. 1142-34</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1143-9 et D. 1143-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1143-12 et D. 1143-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-902 du 3 août 2010 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre III</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-4</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-7 et D. 1321-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-9</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-777 du 8 juillet 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-988 du 23 août 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1321-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1321-15 à D. 1321-18</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1332-39 à D. 1332-41</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1333-68 et D. 1333-69</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-5 à D. 1334-11</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1334-13</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1334-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1337-15</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1337-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-132 du 17 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1338-6</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre IV</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1443-2 à D. 1443-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-805 du 16 juillet 2014 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre VI</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-7 et D. 1681-8</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2010-226 du 4 mars 2010 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-10</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-213 du 25 février 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 1681-11 et D. 1681-12</td>
+        <td align="justify">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 1681-15 et D. 1681-16
+
+</td>
+        <td align="justify">
+      </td></tr>
+    </tbody>
+  </table>
 
 **Nota:**
 
@@ -46394,7 +47426,7 @@ publication au Journal officiel de la République française du décret mentionn
 
 	**Modifié par**:
 
-	  - Décret n°2015-1185 du 28 septembre 2015 - art. 2
+	  - Décret n°2017-745 du 4 mai 2017 - art. 4
 
 
 ###### Article D1671-7
@@ -47078,32 +48110,30 @@ références aux dispositions ayant le même objet applicables localement.
 ###### Article R1671-3
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le 
-décret n° 61-1300 du 30 novembre 1961 
-et des adaptations prévues aux articles R. 1671-4 et D. 1671-7 et au titre VIII du présent livre, les dispositions de la
-présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de
-droite du même tableau : 
+publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4 et D. 1671-7 et au
+titre VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 <table>
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre Ier </td>
+Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1132-12 à R. 1132-19 </td>
+R. 1132-12 à R. 1132-19</td>
       <td align="left">
 
 Résultant du 
@@ -47114,7 +48144,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-20 </td>
+R. 1132-20</td>
       <td align="left">
 
 Résultant du 
@@ -47125,7 +48155,7 @@ décret n° 2013-247 du 25 mars 2013
     <tr>
       <td align="left">
 
-R. 1132-21 </td>
+R. 1132-21</td>
       <td align="left">
 
 Résultant du 
@@ -47136,7 +48166,7 @@ décret n° 2011-1899 du 19 décembre 2011
     <tr>
       <td align="left">
 
-R. 1132-22 </td>
+R. 1132-22</td>
       <td align="left">
 
 Résultant du 
@@ -47147,7 +48177,7 @@ décret n° 2013-247 du 25 mars 2013
     <tr>
       <td align="left">
 
-R. 1132-23 et R. 1132-24 </td>
+R. 1132-23 et R. 1132-24</td>
       <td align="left">
 
 Résultant du 
@@ -47158,7 +48188,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-25 </td>
+R. 1132-25</td>
       <td align="left">
 
 Résultant du 
@@ -47169,7 +48199,7 @@ décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-26 et R. 1132-27 </td>
+R. 1132-26 et R. 1132-27</td>
       <td align="left">
 
 Résultant du 
@@ -47180,7 +48210,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-28 </td>
+R. 1132-28</td>
       <td align="left">
 
 Résultant du 
@@ -47191,7 +48221,7 @@ décret n° 2013-247 du 25 mars 2013
     <tr>
       <td align="left">
 
-R. 1132-29 et R. 1132-30 </td>
+R. 1132-29 et R. 1132-30</td>
       <td align="left">
 
 Résultant du 
@@ -47202,7 +48232,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-31 </td>
+R. 1132-31</td>
       <td align="left">
 
 Résultant du 
@@ -47213,7 +48243,7 @@ décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-32 </td>
+R. 1132-32</td>
       <td align="left">
 
 Résultant du 
@@ -47224,7 +48254,7 @@ décret n° 2015-1213 du 1er octobre 2015
     <tr>
       <td align="left">
 
-R. 1132-33 et R. 1132-33-1 </td>
+R. 1132-33 et R. 1132-33-1</td>
       <td align="left">
 
 Résultant du 
@@ -47235,7 +48265,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1132-33-2 </td>
+R. 1132-33-2</td>
       <td align="left">
 
 Résultant du 
@@ -47246,7 +48276,7 @@ décret n° 2012-1247 du 7 novembre 2012
     <tr>
       <td align="left">
 
-R. 1132-33-3 </td>
+R. 1132-33-3</td>
       <td align="left">
 
 Résultant du 
@@ -47257,7 +48287,7 @@ décret n° 2015-1213 du 1er octobre 2015
     <tr>
       <td align="left">
 
-R. 1132-33-5 à R. 1132-33-9 </td>
+R. 1132-33-5 à R. 1132-33-9</td>
       <td align="left">
 
 Résultant du 
@@ -47268,7 +48298,7 @@ décret n° 2009-752 du 23 juin 2009
     <tr>
       <td align="left">
 
-R. 1142-14 à R. 1142-20 </td>
+R. 1142-14 à R. 1142-20</td>
       <td align="left">
 
 Résultant du 
@@ -47279,7 +48309,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1142-35 à R. 1143-1 </td>
+R. 1142-35 à R. 1143-1</td>
       <td align="left">
 
 Résultant du 
@@ -47290,7 +48320,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-2 </td>
+R. 1143-2</td>
       <td align="left">
 
 Résultant du 
@@ -47301,7 +48331,7 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-3 et R. 1143-4 </td>
+R. 1143-3 et R. 1143-4</td>
       <td align="left">
 
 Résultant du 
@@ -47312,7 +48342,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-5 </td>
+R. 1143-5</td>
       <td align="left">
 
 Résultant du 
@@ -47323,7 +48353,7 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-6 </td>
+R. 1143-6</td>
       <td align="left">
 
 Résultant du 
@@ -47334,7 +48364,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1143-7 </td>
+R. 1143-7</td>
       <td align="left">
 
 Résultant du 
@@ -47345,7 +48375,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1143-8 </td>
+R. 1143-8</td>
       <td align="left">
 
 Résultant du 
@@ -47356,7 +48386,7 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1143-11 </td>
+R. 1143-11</td>
       <td align="left">
 
 Résultant du 
@@ -47367,13 +48397,13 @@ décret n° 2010-902 du 3 août 2010
     <tr>
       <td align="left">
 
-Au livre III </td>
+Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1312-1 </td>
+R. 1312-1</td>
       <td align="left">
 
 Résultant du 
@@ -47384,7 +48414,7 @@ décret n° 2013-1113 du 4 décembre 2013
     <tr>
       <td align="left">
 
-R. 1322-1 à R. 1324-1 </td>
+R. 1322-1 à R. 1324-1</td>
       <td align="left">
 
 Résultant du 
@@ -47395,18 +48425,19 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-1 et R. 1332-2 </td>
+R. 1332-1</td>
       <td align="left">
-
-Résultant du 
-décret n° 2007-585 du 23 avril 2007 
 
 </td>
     </tr>
     <tr>
+      <td align="left">R. 1332-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
       <td align="left">
 
-R. 1332-3 </td>
+R. 1332-3</td>
       <td align="left">
 
 Résultant de l'
@@ -47417,7 +48448,7 @@ ordonnance n° 2015-1341 du 23 octobre 2015
     <tr>
       <td align="left">
 
-R. 1332-4 </td>
+R. 1332-4</td>
       <td align="left">
 
 Résultant du 
@@ -47428,7 +48459,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-5 </td>
+R. 1332-5</td>
       <td align="left">
 
 Résultant du 
@@ -47439,7 +48470,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-6 </td>
+R. 1332-6</td>
       <td align="left">
 
 Résultant du 
@@ -47450,7 +48481,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-10 </td>
+R. 1332-10</td>
       <td align="left">
 
 Résultant du 
@@ -47461,7 +48492,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-11 </td>
+R. 1332-11</td>
       <td align="left">
 
 Résultant du 
@@ -47472,7 +48503,7 @@ décret n° 2009-1657 du 24 décembre 2009
     <tr>
       <td align="left">
 
-R. 1332-12 à R. 1332-15 </td>
+R. 1332-12 à R. 1332-15</td>
       <td align="left">
 
 Résultant du 
@@ -47483,7 +48514,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17 </td>
+R. 1332-16 et R. 1332-17</td>
       <td align="left">
 
 Résultant du 
@@ -47494,7 +48525,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19 </td>
+R. 1332-18 et R. 1332-19</td>
       <td align="left">
 
 Résultant du 
@@ -47505,7 +48536,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-20 </td>
+R. 1332-20</td>
       <td align="left">
 
 Résultant du 
@@ -47516,7 +48547,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-21 </td>
+R. 1332-21</td>
       <td align="left">
 
 Résultant du 
@@ -47527,7 +48558,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-22 et R. 1332-22-1 </td>
+R. 1332-22 et R. 1332-22-1</td>
       <td align="left">
 
 Résultant du 
@@ -47538,7 +48569,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-22-2 et R. 1332-22-3 </td>
+R. 1332-22-2 et R. 1332-22-3</td>
       <td align="left">
 
 Résultant du 
@@ -47549,7 +48580,7 @@ décret n° 2012-491 du 16 avril 2012
     <tr>
       <td align="left">
 
-R. 1332-23 </td>
+R. 1332-23</td>
       <td align="left">
 
 Résultant du 
@@ -47560,7 +48591,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-24 </td>
+R. 1332-24</td>
       <td align="left">
 
 Résultant du 
@@ -47571,7 +48602,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-25 à R. 1332-27 </td>
+R. 1332-25 à R. 1332-27</td>
       <td align="left">
 
 Résultant du 
@@ -47582,7 +48613,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-28 </td>
+R. 1332-28</td>
       <td align="left">
 
 Résultant du 
@@ -47593,7 +48624,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-29 et R. 1332-30 </td>
+R. 1332-29 et R. 1332-30</td>
       <td align="left">
 
 Résultant du 
@@ -47604,7 +48635,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-31 </td>
+R. 1332-31</td>
       <td align="left">
 
 Résultant du 
@@ -47615,7 +48646,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1332-32 </td>
+R. 1332-32</td>
       <td align="left">
 
 Résultant du 
@@ -47626,7 +48657,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-33 </td>
+R. 1332-33</td>
       <td align="left">
 
 Résultant du 
@@ -47637,7 +48668,7 @@ décret n° 2015-351 du 27 mars 2015
     <tr>
       <td align="left">
 
-R. 1332-34 et R. 1332-35 </td>
+R. 1332-34 et R. 1332-35</td>
       <td align="left">
 
 Résultant du 
@@ -47648,7 +48679,7 @@ décret n° 2017-282 du 2 mars 2017
     <tr>
       <td align="left">
 
-R. 1332-37 </td>
+R. 1332-37</td>
       <td align="left">
 
 Résultant du 
@@ -47659,7 +48690,7 @@ décret n° 2009-254 du 4 mars 2009
     <tr>
       <td align="left">
 
-R. 1332-38 </td>
+R. 1332-38</td>
       <td align="left">
 
 Résultant du 
@@ -47670,7 +48701,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R 1332-41-1 à R. 1332-41-23 </td>
+R 1332-41-1 à R. 1332-41-23</td>
       <td align="left">
 
 Résultant du 
@@ -47681,7 +48712,7 @@ décret n° 2015-351 du 27 mars 2015
     <tr>
       <td align="left">
 
-R. 1332-42 </td>
+R. 1332-42</td>
       <td align="left">
 
 Résultant du 
@@ -47692,18 +48723,19 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1337-1 et R. 1337-2 </td>
+R. 1337-1</td>
       <td align="left">
 
-Résultant du 
-décret n° 2007-585 du 23 avril 2007 
-
-</td>
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
+    <tr>
+      <td align="left">R. 1337-2</td>
+      <td align="left">
+    </td></tr>
     <tr>
       <td align="left">
 
-R. 1337-3 </td>
+R. 1337-3</td>
       <td align="left">
 
 Résultant du 
@@ -47714,7 +48746,7 @@ décret n° 2009-1494 du 3 décembre 2009
     <tr>
       <td align="left">
 
-R. 1337-4 </td>
+R. 1337-4</td>
       <td align="left">
 
 Résultant du 
@@ -47725,7 +48757,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1337-5 à R. 1337-13 </td>
+R. 1337-5 à R. 1337-13</td>
       <td align="left">
 
 Résultant du 
@@ -47736,7 +48768,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1337-18 à R. 1338-5 </td>
+R. 1337-18 à R. 1338-5</td>
       <td align="left">
 
 Résultant du 
@@ -47747,30 +48779,30 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-Au livre IV </td>
+Au livre IV</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 1411-11-6 </td>
+      <td align="left">R. 1411-11-6</td>
       <td align="left">Résultant du 
 décret n° 2016-284 du 10 mars 2016
 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 1411-11-8 </td>
+      <td align="left">R. 1411-11-8</td>
       <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
     </tr>
     <tr>
-      <td align="left">R. 1411-11-16 </td>
+      <td align="left">R. 1411-11-16</td>
       <td align="left">Résultant du décret n° 2016-284 du 10 mars 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1411-11-24 et R. 1411-11-25 </td>
+R. 1411-11-24 et R. 1411-11-25</td>
       <td align="left">
 
 Résultant du décret n° 2016-1243 du 23 septembre 2016 
@@ -47779,13 +48811,13 @@ Résultant du décret n° 2016-1243 du 23 septembre 2016
     <tr>
       <td align="left">
 
-Dans le livre V </td>
+Dans le livre V</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1511-2 à R. 1522-1 </td>
+R. 1511-2 à R. 1522-1</td>
       <td align="left">
 
 Résultant du 
@@ -47796,13 +48828,13 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-Au titre VIII du présent livre </td>
+Au titre VIII du présent livre</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 1681-1 et R. 1681-2 </td>
+R. 1681-1 et R. 1681-2</td>
       <td align="left">
 
 Résultant du 
@@ -47813,7 +48845,7 @@ décret n° 2010-225 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1681-3 </td>
+R. 1681-3</td>
       <td align="left">
 
 Résultant du 
@@ -47824,7 +48856,7 @@ décret n° 2013-1113 du 4 décembre 2013
     <tr>
       <td align="left">
 
-R. 1681-4 </td>
+R. 1681-4</td>
       <td align="left">
 
 Résultant du 
@@ -47835,7 +48867,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1682-1 </td>
+R. 1682-1</td>
       <td align="left">
 
 Résultant du 
@@ -47846,7 +48878,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1682-2 </td>
+R. 1682-2</td>
       <td align="left">
 
 Résultant du 
@@ -47857,7 +48889,7 @@ décret n° 2010-226 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1682-3 </td>
+R. 1682-3</td>
       <td align="left">
 
 Résultant du 
@@ -47868,7 +48900,7 @@ décret n° 2015-258 du 4 mars 2015
     <tr>
       <td align="left">
 
-R. 1682-4 </td>
+R. 1682-4</td>
       <td align="left">
 
 Résultant du 
@@ -47879,7 +48911,7 @@ décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1682-5 </td>
+R. 1682-5</td>
       <td align="left">
 
 Résultant du 
@@ -47890,7 +48922,7 @@ décret n° 2007-585 du 23 avril 2007
     <tr>
       <td align="left">
 
-R. 1682-6 </td>
+R. 1682-6</td>
       <td align="left">
 
 Résultant du 
@@ -47901,7 +48933,7 @@ décret n° 2010-226 du 4 mars 2010
     <tr>
       <td align="left">
 
-R. 1682-7 à R. 1682-18 </td>
+R. 1682-7 à R. 1682-18</td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007
@@ -47939,7 +48971,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007
 
 	**Modifié par**:
 
-	  - Décret n°2017-539 du 13 avril 2017 - art. 23
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 
 ###### Article R1671-4
@@ -49038,17 +50070,17 @@ municipal sont définies aux articles R. 2124-2 à R. 2124-5 du code général d
 
 Le plan de mobilisation est établi par le ministre de la défense. Il détermine, dans le cadre de la législation en vigueur :
 
-1° La composition et l'organisation des forces armées en temps de guerre ;
+1° La composition et l'organisation des forces armées et formations rattachées en temps de guerre ;
 
-2° Les règles selon lesquelles s'effectue, en conséquence, la mobilisation des forces armées.
+2° Les règles selon lesquelles s'effectue, en conséquence, la mobilisation des forces armées et formations rattachées.
 
 L'ordre de mobilisation générale est diffusé par tout moyen de communication approprié.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2017-744 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -53355,23 +54387,23 @@ le service pour lequel elle est personnellement requise.
 
 ###### Article R2236-3
 
-En cas de mobilisation des forces armées et dans les circonstances mentionnées à l'article L. 1111-2, est puni de l'amende
-prévue pour les contraventions de la 5e classe le fait, pour les exploitants des établissements industriels, d'inexécuter
-sciemment les ordres de réquisition qui leur ont été adressés. 
+En cas de mobilisation des forces armées et formations rattachées et dans les circonstances mentionnées à l'article L.
+1111-2, est puni de l'amende prévue pour les contraventions de la 5e classe le fait, pour les exploitants des établissements
+industriels, d'inexécuter sciemment les ordres de réquisition qui leur ont été adressés.
 
 Le tribunal peut, en outre, prononcer, dans les conditions prévues aux alinéas 2 à 5 de l'article 131-21 du code pénal, la
 confiscation des matières, produits ou objets indûment livrés à des tiers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2017-744 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code pénal - art. 131-21 (V)
-	  - Code de la défense. - art. L1111-2 (V)
+	  - Code pénal - art. 131-21
+	  - Code de la défense. - art. L1111-2
 
 
 ### LIVRE III : REGIMES JURIDIQUES DE DEFENSE  D'APPLICATION PERMANENTE
@@ -61201,40 +62233,39 @@ compétentes, sur leur demande, toutes les informations pertinentes relatives à
 
 ###### Article R2352-47
 
-I.-Les entreprises qui fabriquent ou importent des produits explosifs apposent une identification unique sur les produits
-explosifs et sur chaque unité élémentaire d'emballage. 
+I. – Les entreprises qui fabriquent ou importent des produits explosifs apposent une identification unique sur les produits
+explosifs et sur chaque unité élémentaire d'emballage.
 
 Lorsqu'un produit explosif fait l'objet de processus ultérieurs de fabrication, les fabricants ne sont pas tenus d'apposer
 une nouvelle identification unique sur le produit explosif, à moins que l'identification unique originale n'apparaisse plus
-de manière lisible sur l'un au moins des sous-ensembles unitaires du produit. 
+de manière lisible sur l'un au moins des sous-ensembles unitaires du produit.
 
 Les dispositions des deux alinéas précédents ne s'appliquent pas lorsque le produit explosif est fabriqué à des fins
 d'exportation et qu'il comporte une marque d'identification conforme aux exigences du pays d'importation, assurant la
-traçabilité du produit explosif (1). 
+traçabilité du produit explosif.
 
-II.-Les entreprises qui fabriquent, importent, stockent, utilisent, transfèrent ou commercialisent des produits explosifs
+II. – Les entreprises qui fabriquent, importent, stockent, utilisent, transfèrent ou commercialisent des produits explosifs
 mettent en place un système de traçabilité constitué de la collecte de données sur ces produits, y compris leur
-identification unique tout au long de la chaîne logistique et de leur durée de vie. 
+identification unique tout au long de la chaîne logistique et de leur durée de vie.
 
 Les données collectées, y compris le numéro d'identification unique, sont enregistrées et conservées pendant une période de
 dix ans à compter de la livraison ou de la date d'utilisation ou de destruction du produit explosif, même si l'entreprise
-concernée a mis fin à son activité (1). 
+concernée a mis fin à son activité.
 
-III.-Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'industrie, du ministre de la défense et du
+III. – Un arrêté conjoint du ministre de l'intérieur, du ministre chargé de l'industrie, du ministre de la défense et du
 ministre chargé des douanes fixe les modalités techniques de l'identification du produit, de la collecte et de la gestion des
-données prévues au présent article. 
+données prévues au présent article.
 
-IV.-Sans préjudice de l'article R. 2352-22, les dispositions du présent article ne s'appliquent pas : 
+IV. – Sans préjudice de l'article R. 2352-22, les dispositions du présent article ne s'appliquent pas :
 
 a) Aux produits explosifs transportés et livrés hors conditionnement ou en camion pompe pour déchargement direct dans le trou
-de mine ; 
+de mine ;
 
-b) Aux produits explosifs qui sont fabriqués sur le site d'emploi et chargés directement après avoir été fabriqués ; 
+b) Aux produits explosifs qui sont fabriqués sur le site d'emploi et chargés directement après avoir été fabriqués ;
 
-c) Aux articles pyrotechniques ; 
+c) Aux articles pyrotechniques ;
 
-d) Aux produits destinés à être utilisés exclusivement par les forces armées, y compris la gendarmerie nationale, et la
-police nationale ; 
+d) Aux produits destinés à être utilisés exclusivement par les forces armées et la police nationale ;
 
 e) Aux mèches qui sont des dispositifs inflammables, non détonants, de type cordeau ;
 
@@ -61245,27 +62276,6 @@ prédéterminée sans aucun effet explosif extérieur ;
 g) Aux amorces à percussion qui sont constituées d'une capsule de métal ou en plastique contenant une petite quantité d'un
 mélange explosif primaire aisément mis à feu sous l'effet d'un choc et qui servent d'éléments d'allumage pour les cartouches
 pour armes de petit calibre et dans les allumeurs à percussion pour les charges propulsives.
-
-**Nota:**
-
-(1) Dans leur rédaction issue du présent décret, les dispositions du I de l'article R. 2352-47 du code de la défense entrent
-en vigueur le 5 avril 2013 et celles du II le 5 avril 2015.
-
-Jusqu'au 5 avril 2013, à titre transitoire, les dispositions du I de l'article R. 2352-47 du même code sont remplacées par
-les dispositions suivantes :
-
-I. - Est apposé sur les produits explosifs fabriqués en France, autres que ceux mentionnés aux 1° à 4° de l'article R.
-2352-22 et à l'article R. 2352-73, un marquage spécial permettant leur identification. Ce marquage est effectué sur le lieu
-de la fabrication, sous la responsabilité du fabricant.
-
-Un marquage spécial permettant l'identification du produit est également apposé sur les produits importés, transférés ou en
-transit au moment de leur introduction sur le territoire douanier.
-
-Le marquage est reproduit sur l'emballage contenant le produit et doit être suffisant pour permettre l'identification de cet
-emballage jusqu'à son destinataire final.
-
-L'obligation de marquage est limitée à l'emballage lorsque le produit, par sa consistance ou du fait de ses dimensions
-réduites, ne se prête pas lui-même à cette opération.
 
 **Liens relatifs à cet article**
 
@@ -61282,7 +62292,7 @@ réduites, ne se prête pas lui-même à cette opération.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1238 du 7 novembre 2012 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 2
 
 
 ###### Article R2352-64
@@ -63681,8 +64691,8 @@ Au livre Ier</td>
 
 R. 2141-1 
 </td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -63873,10 +64883,14 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     <tr>
       <td>
 
-R. 2236-1 à R. 2236-3 
+R. 2236-1 à R. 2236-2 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>R. 2236-3</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -64370,7 +65384,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
 R. 2352-47</td>
       <td>
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -64565,7 +65579,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cite**:
 
@@ -64975,10 +65989,14 @@ Au livre Ier</td>
     <tr>
       <td>
 
-R. 2112-1, R. 2141-1 
+R. 2112-1 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>R. 2141-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -65170,10 +66188,14 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     <tr>
       <td>
 
-R. 2236-1 à R. 2236-3 
+R. 2236-1 à R. 2236-2 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>R. 2236-3</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -65544,11 +66566,11 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
-
 	**Cité par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+
+	**Modifié par**:
 
 	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
@@ -65923,10 +66945,14 @@ Au livre Ier</td>
     <tr>
       <td>
 
-R. 2112-1, R. 2141-1 
+R. 2112-1
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>R. 2141-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -66118,10 +67144,14 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     <tr>
       <td>
 
-R. 2236-1 à R. 2236-3 
+R. 2236-1 à R. 2236-2 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td>R. 2236-3</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td>
 
@@ -66606,7 +67636,7 @@ Résultant du décret n° 2009-502 du 5 mai 2009</td>
 R. 2352-47</td>
       <td>
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -66799,11 +67829,11 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
-
 	**Cité par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+
+	**Modifié par**:
 
 	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
@@ -67206,8 +68236,8 @@ Au livre Ier</td>
 
 R. 2141-1 
 </td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -67399,10 +68429,14 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
     <tr>
       <td align="justify">
 
-R. 2236-1 à R. 2236-3 
+R. 2236-1 à R. 2236-2 
 </td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="justify">R. 2236-3</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -67896,7 +68930,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
 R. 2352-47</td>
       <td align="justify">
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012 </td>
+Résultant du décret n° 2017-744 du 4 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68118,7 +69152,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 
 ###### Article R2471-3
@@ -68677,41 +69711,40 @@ Il est le conseiller militaire du Gouvernement.
 
 ###### Article R*3121-2
 
-Sous l'autorité du ministre de la défense, le chef d'état-major des armées est responsable : 
+Sous l'autorité du ministre de la défense, le chef d'état-major des armées est responsable :
 
-1° De l'organisation interarmées et de l'organisation générale des armées ; 
+1° De l'organisation interarmées et de l'organisation générale des armées ;
 
 2° De l'expression du besoin en matière de ressources humaines civiles et militaires des armées et des organismes
-interarmées. 
+interarmées.
 
-Il participe à la définition de la politique des ressources humaines du ministère. 
+Il participe à la définition de la politique des ressources humaines du ministère.
 
 Au sein des armées et des organismes interarmées, il est responsable de la mise en œuvre de cette politique, de la condition
-militaire et du moral ; 
+militaire et du moral ;
 
-3° De la définition du format d'ensemble des armées et de leur cohérence capacitaire. 
+3° De la définition du format d'ensemble des armées et de leur cohérence capacitaire.
 
 A ce titre, il définit les besoins des armées et en contrôle la satisfaction. Il conduit les travaux de planification et de
-programmation ; 
+programmation ;
 
 4° De la préparation et de la mise en condition d'emploi des armées. Il définit les objectifs de leur préparation et contrôle
-leur aptitude à remplir leurs missions. Il élabore les doctrines et concepts d'emploi des équipements et des forces ; 
+leur aptitude à remplir leurs missions. Il élabore les doctrines et concepts d'emploi des équipements et des forces ;
 
 5° Du soutien des armées. Il en fixe l'organisation générale et les objectifs. Il assure le maintien en condition
-opérationnelle des équipements. 
+opérationnelle des équipements.
 
-Il exprime le besoin en matière d'infrastructure interarmées et des armées et en vérifie la satisfaction ; 
+Il exprime le besoin en matière d'infrastructure interarmées et des armées et en vérifie la satisfaction ;
 
 6° Du renseignement d'intérêt militaire. Il assure la direction générale de la recherche et de l'exploitation du
-renseignement militaire et a autorité sur la direction du renseignement militaire ; 
+renseignement militaire et a autorité sur la direction du renseignement militaire ;
 
 7° Des relations internationales militaires.
 
+8° De la conduite de la défense des systèmes d'information du ministère de la défense, à l'exception des services de
+renseignement désignés par arrêté du ministre de la défense.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 3
 
 	**Cité par**:
 
@@ -68719,6 +69752,10 @@ renseignement militaire et a autorité sur la direction du renseignement militai
 	  - Code de la défense. - art. D3121-14-1 (V)
 	  - Code de la défense. - art. D3121-24 (V)
 	  - Code de la défense. - art. R*3111-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-743 du 4 mai 2017 - art. 1
 
 
 ###### Article R*3121-3
@@ -69044,6 +70081,35 @@ la mise en œuvre ;
 	  - Code de la défense. - art. D3121-24-1 (V)
 
 
+##### Paragraphe 5 bis : Défense des systèmes d'information 
+
+###### Article D3121-14-1
+
+Dans le domaine de la conduite de la défense des systèmes d'information du ministère de la défense mentionné au 8° de
+l'article R. * 3121-2, le chef d'état-major des armées est responsable de la surveillance de ces systèmes d'information et de
+la mise en œuvre des mesures de défense les concernant. Il coordonne son action avec l'autorité nationale de défense des
+systèmes d'information. 
+
+Il met en œuvre les opérations techniques prévues au premier alinéa de l'article L. 2321-2 dans les conditions et le
+périmètre précisés par le Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 20 mars 2015 - art. 19-1 (V)
+	  - Code de la défense. - art. D3121-24-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-743 du 4 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2321-2
+	  - Code de la défense. - art. R*3121-2
+
+
 ##### Paragraphe 6 : Soutien des armées
 
 ###### Article D3121-15
@@ -69265,6 +70331,23 @@ relevant des II, III et IV de l'article D. 3121-12 et des 1° à 7° et 10° à 
 	  - Code de la défense. - art. R3121-14
 
 
+###### Article D3121-24-2
+
+Un officier général “ commandant de la cyberdéfense ” exerce les attributions relevant de l'article D. 3121-14-1. 
+
+Il assiste et conseille le ministre de la défense dans son domaine de compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-743 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. D3121-14-1
+
+
 ##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air 
 
 
@@ -69333,12 +70416,12 @@ personnel militaire de leur armée :
 
 - de la gestion des effectifs, des emplois et des compétences ;
 
-- de l'administration du personnel, à l'exception des officiers généraux, sous réserve des attributions des services de
-soutien interarmées. 
+- de l'administration du personnel, à l'exception des officiers généraux, sous réserve des attributions des services
+exerçant, par délégation du ministre de la défense, une autorité statutaire sur des corps militaires.
 
 Pour le personnel civil relevant de leur autorité, ils expriment les besoins en emplois, effectifs et compétences. Ils
 s'assurent du suivi de ces effectifs et prennent part à la mise en œuvre de la politique ministérielle correspondante. Ils
-participent aux différentes instances dans lesquelles s'exerce le dialogue social. 
+participent aux différentes instances dans lesquelles s'exerce le dialogue social.
 
 Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air ont autorité sur, respectivement, la
 direction des ressources humaines de l'armée de terre, la direction du personnel militaire de la marine et la direction des
@@ -69348,11 +70431,11 @@ ressources humaines de l'armée de l'air.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 7
+	  - Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. R*3121-25 (V)
+	  - Code de la défense. - art. R3121-25
 
 
 ###### Article D3121-31
@@ -69483,15 +70566,15 @@ responsable :
 l'application des lois et règlements, la sécurité publique, le maintien de l'ordre et la protection des populations, la
 police judiciaire et le concours apporté aux différents départements ministériels ;
 
-2° De la participation de la gendarmerie à la préparation et à l'exécution de la mobilisation des armées, de la mise en
-condition des unités de gendarmerie en vue de leur participation aux opérations militaires au sein des forces armées selon
-les plans élaborés par les chefs d'état-major.
+2° De la participation de la gendarmerie à la préparation et à l'exécution de la mobilisation des armées, services de
+soutien, organismes interarmées et formations rattachées de la mise en condition des unités de gendarmerie en vue de leur
+participation aux opérations militaires au sein des forces armées selon les plans élaborés par les chefs d'état-major.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3122-3
@@ -70140,8 +71223,8 @@ techniques relatives aux accidents ou incidents de transport terrestre mettant e
 ministère de la défense.
 
 L'officier général de la marine nationale, inspecteur général des armées, est chargé de veiller au bon déroulement des
-enquêtes techniques relatives aux événements de mer affectant des bâtiments des forces armées quel que soit l'endroit où ils
-se trouvent.
+enquêtes techniques relatives aux événements de mer affectant des bâtiments et moyens nautiques du ministère de la défense et
+de la gendarmerie nationale quel que soit l'endroit où ils se trouvent.
 
 Le général d'armée aérienne inspecteur général des armées est chargé de veiller au bon déroulement des enquêtes de sécurité
 relatives aux accidents ou incidents aériens graves.
@@ -70150,7 +71233,7 @@ relatives aux accidents ou incidents aériens graves.
 
 	**Modifié par**:
 
-	  - Décret n°2015-869 du 15 juillet 2015 - art. 17
+	  - Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ##### Section 2 : Inspecteur général du service de santé des armées
@@ -70291,29 +71374,30 @@ chapitre, la fonction de médiateur militaire.
 ###### Article R3125-1
 
 I. ― Les bureaux enquêtes accidents défense, organismes militaires spécialisés chargés de mener des enquêtes techniques et
-des enquêtes de sécurité, sont des services à compétence nationale ayant respectivement pour nom et pour sigle : 
+des enquêtes de sécurité, sont des services à compétence nationale ayant respectivement pour nom et pour sigle :
 
-1° Bureau enquêtes accidents défense transport terrestre ou BEAD-TT ; 
+1° Bureau enquêtes accidents défense transport terrestre ou BEAD-TT ;
 
-2° Bureau enquêtes accidents défense mer ou BEAD-mer ; 
+2° Bureau enquêtes accidents défense mer ou BEAD-mer ;
 
-3° Bureau enquêtes accidents défense air ou BEAD-air. 
+3° Bureau enquêtes accidents défense air ou BEAD-air.
 
-II. ― Les bureaux enquêtes accidents défense sont indépendants et permanents. 
+II. ― Les bureaux enquêtes accidents défense sont indépendants et permanents.
 
 Ils sont chargés, en application des dispositions de l'article L. 3125-1 du code de la défense, des articles L. 1621-1 et
-suivants du code des transports et de l'article L. 6222-1 du même code, de procéder respectivement aux enquêtes relatives : 
+suivants du code des transports et de l'article L. 6222-1 du même code, de procéder respectivement aux enquêtes relatives :
 
 1° Aux accidents ou incidents de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense
-ainsi qu'aux accidents de tir ou de munitions ; 
+ainsi qu'aux accidents de tir ou de munitions ;
 
-2° Aux événements de mer affectant des bâtiments des forces armées quel que soit l'endroit où ils se trouvent ainsi qu'aux
-accidents de plongée subaquatique en scaphandre autonome ou de plongée en caisson ; 
+2° Aux événements de mer affectant des bâtiments et moyens nautiques du ministère de la défense et de la gendarmerie
+nationale quel que soit l'endroit où ils se trouvent ainsi qu'aux accidents de plongée subaquatique en scaphandre autonome ou
+de plongée en caisson ;
 
 3° Aux accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation
 aérienne militaire ou à ceux qui appartenant à l'Etat français ou à tout autre Etat ne sont pas inscrits au registre
 d'immatriculation prévu à l'article 17 de la convention relative à l'aviation civile internationale signée à Chicago le 7
-décembre 1944. 
+décembre 1944.
 
 En tant que de besoin, ils peuvent intervenir conjointement sur certains accidents particuliers.
 
@@ -70332,13 +71416,13 @@ En tant que de besoin, ils peuvent intervenir conjointement sur certains acciden
 
 	**Modifié par**:
 
-	  - Décret n°2015-869 du 15 juillet 2015 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L3125-1 (V)
-	  - Code des transports - art. L1621-1 (V)
-	  - Code des transports - art. L6222-1 (V)
+	  - Code de la défense. - art. L3125-1
+	  - Code des transports - art. L1621-1
+	  - Code des transports - art. L6222-1
 
 
 ###### Article R3125-2
@@ -70647,19 +71731,21 @@ ou aux enquêtes.
 
 ##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées
 
+##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les bâtiments et moyens nautiques du ministère de la défense et de la gendarmerie nationale
+
 ###### Article R3125-18
 
 Le BEAD-mer est placé auprès de l'officier général de la marine nationale, inspecteur général des armées.
 
-Il a pour mission de réaliser les enquêtes techniques sur les événements de mer affectant les bâtiments des forces armées
-quel que soit l'endroit où ils se trouvent.
+Il a pour mission de réaliser les enquêtes techniques sur les événements de mer affectant les bâtiments et moyens nautiques
+du ministère de la défense et de la gendarmerie nationale quel que soit l'endroit où ils se trouvent.
 
 Il a en outre pour mission de réaliser les enquêtes sur les accidents de plongée subaquatique en scaphandre autonome ou de
 plongée en caisson.
 
 Il a également vocation à recueillir, exploiter et diffuser les informations relatives aux pratiques et aux enseignements de
 retour d'expérience sur les événements de mer affectant les bâtiments des forces armées, ainsi que sur les accidents de
-plongée subaquatique en scaphandre autonome ou de plongée en caisson. 
+plongée subaquatique en scaphandre autonome ou de plongée en caisson.
 
 Il réalise des études et recherches en matière de retour d'expérience et d'accidentologie.
 
@@ -70667,7 +71753,7 @@ Il réalise des études et recherches en matière de retour d'expérience et d'a
 
 	**Modifié par**:
 
-	  - Décret n°2015-869 du 15 juillet 2015 - art. 11
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3125-19
@@ -70730,18 +71816,18 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 Sur proposition du directeur du BEAD-mer ou à la demande d'une autorité étrangère transmise par voie diplomatique, le
 ministre de la défense peut autoriser des enquêteurs techniques relevant d'organismes étrangers homologues à participer à des
-investigations sur le territoire national ou à bord de bâtiments des forces armées françaises. Ils peuvent, dans les mêmes
-conditions, être associés à l'enquête dans le cas où l'événement de mer intéresse un bâtiment des forces armées ou un
-ressortissant étranger.
+investigations sur le territoire national ou à bord de bâtiments et moyens nautiques du ministère de la défense et de la
+gendarmerie nationale. Ils peuvent, dans les mêmes conditions, être associés à l'enquête dans le cas où l'événement de mer
+intéresse un bâtiment des forces armées ou un ressortissant étranger.
 
 Le directeur du BEAD-mer fixe les modalités de participation ou d'association de ces enquêteurs techniques aux investigations
 ou aux enquêtes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation
@@ -71028,19 +72114,18 @@ l'information, notamment en matière de traitement automatisé, et de contrôler
 
 ###### Article D3126-7
 
-La          direction du renseignement et de la sécurité de la défense participe à l'élaboration des mesures nécessaires à la
+La direction du renseignement et de la sécurité de la défense participe à l'élaboration des mesures nécessaires à la
 protection du personnel, des informations, des matériels et des installations sensibles intéressant la défense et en contrôle
-l'application au sein : 
+l'application au sein :
 
-1° Des forces armées, des états-majors, directions et services placés sous l'autorité du ministre de la défense ainsi que des
-organismes qui en relèvent ; 
+1° Des états-majors, directions et services placés sous l'autorité du ministre de la défense ainsi que des organismes qui en
+relèvent ;
 
 2° Des entreprises titulaires de marchés intéressant la défense ou sous-traités à son profit, nécessitant la prise de
-précautions particulières, notamment lorsque le titulaire du marché est susceptible de détenir des informations
-classifiées ; 
+précautions particulières, notamment lorsque le titulaire du marché est susceptible de détenir des informations classifiées ;
 
 3° Des établissements relevant du ministère de la défense, dont l'activité justifie la prise de précautions particulières,
-notamment l'existence d'un régime d'accès réglementé ; 
+notamment l'existence d'un régime d'accès réglementé ;
 
 4° Des points d'importance vitale placés, pour leur sécurité, sous l'autorité du ministère de la défense et, d'une manière
 générale, de tous les établissements détenant du patrimoine scientifique et technologique et relevant du ministère de la
@@ -71050,7 +72135,7 @@ défense.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3126-8
@@ -71327,6 +72412,72 @@ Il est présidé par le chef d'état-major des armées.
 
 
 ### LIVRE II : LES FORCES ARMEES
+
+#### TITRE Ier : COMPOSITION
+
+##### Chapitre unique : Organismes interarmées et formations rattachées
+
+###### Article R3211-1
+
+I.-Est un organisme interarmées un organisme qui remplit les conditions suivantes : 
+
+1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
+nationale ; 
+
+2° Il relève organiquement du chef d'état-major des armées. 
+
+Il peut être mis à la disposition d'une autre autorité ; 
+
+3° Le personnel est issu d'au moins deux armées, directions ou services de soutien ou de la gendarmerie nationale. 
+
+II.-Est un organisme à vocation interarmées un organisme qui remplit les conditions suivantes : 
+
+1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
+nationale ; 
+
+2° Il relève organiquement d'une armée pour son organisation et son fonctionnement interne ; 
+
+3° Le personnel est issu d'une ou de plusieurs armées, directions ou services de soutien ou de la gendarmerie nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de la défense. - art. R3233-19 (T)
+
+
+###### Article R3211-2
+
+Les formations rattachées mentionnées à l'article L. 3211-1-1 sont : 
+
+1° Le contrôle général des armées ; 
+
+2° La direction générale de l'armement ; 
+
+3° Le service d'infrastructure de la défense ; 
+
+4° Le service de la justice militaire ; 
+
+5° Les affaires maritimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1-1
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R4126-7 (V)
+
 
 #### TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE
 
@@ -73235,7 +74386,7 @@ définies par arrêté du ministre de la défense.
 L'armée de l'air comprend différents services : 
 
 1° La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense dont
-les attributions sont fixées par les articles R. 3233-20 à R. 3233-28 du présent code ; 
+les attributions sont fixées par les articles R. 3232-30 à R. 3232-38 du présent code ; 
 
 2° Le service industriel de l'aéronautique dont les attributions sont fixées par décret ; 
 
@@ -73255,11 +74406,11 @@ conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du
 
 	**Modifié par**:
 
-	  - Décret n°2014-480 du 13 mai 2014 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. R3233-20 (VD)
+	  - Code de la défense. - art. R3232-30 (V)
 
 
 ##### Section 4 : Relations entre commandements et services
@@ -73465,9 +74616,9 @@ desquelles elles sont placées.
 La garde républicaine remplit des missions de sécurité et d'honneur au profit des instances gouvernementales et des hautes
 autorités de l'Etat.
 
-Les formations prévôtales remplissent auprès des forces armées les missions de police militaire dévolues à la gendarmerie
-nationale. Les conditions d'exécution des missions des formations prévôtales sont précisées par une instruction du ministre
-de la défense.
+Les formations prévôtales remplissent auprès des forces armées et formations rattachées les missions de police militaire
+dévolues à la gendarmerie nationale. Les conditions d'exécution des missions des formations prévôtales sont précisées par une
+instruction du ministre de la défense.
 
 Le groupe d'intervention de la gendarmerie nationale est chargé d'intervenir principalement dans la lutte contre le
 terrorisme, contre le grand banditisme et dans des actions de préservation d'intérêts vitaux de l'Etat, en France et à
@@ -73477,9 +74628,9 @@ Toutes les formations de la gendarmerie nationale ont vocation à participer à 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3225-7
@@ -73687,18 +74838,22 @@ Ils contribuent à la définition de la formation des autres catégories de leur
 
 ###### Article R3231-7
 
-Les directeurs centraux des services de soutien interarmées sont responsables de la discipline du personnel militaire
-relevant statutairement de leur service.
+Les directeurs centraux des services de soutien sont responsables de la désignation des autorités militaires de premier et de
+deuxième niveau appartenant à leur service habilitées à exercer le pouvoir disciplinaire à l'égard du personnel militaire
+affecté dans les formations relevant de leur autorité. 
 
-Ils sont, en outre, responsables de la désignation des autorités militaires de premier et de deuxième niveau appartenant à
-leur service habilitées à exercer le pouvoir disciplinaire à l'égard du personnel militaire affecté dans les formations
-relevant de leur autorité.
+Les directeurs centraux des services de soutien mentionnés au dernier alinéa de l'article L. 3211-1 sont, en outre,
+responsables de la discipline du personnel militaire relevant statutairement de leur service.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2015-211 du 25 février 2015 - art. 8
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1
 
 
 ###### Article R3231-8
@@ -73862,14 +75017,20 @@ particulière, sont responsables devant le ministre de la défense.
 	  - Décret n°2015-258 du 4 mars 2015 - art. 5
 
 
-##### Chapitre II : Le service du commissariat des armées
+#### TITRE III : LES SERVICES DE SOUTIEN
+
+##### Chapitre Ier : Organisation générale
+
+##### Chapitre II : Composition
+
+##### Section 1 : Le service du commissariat des armées
 
 ###### Article R3232-1
 
-Le service du commissariat des armées relève du chef d'état-major des armées. Sans préjudice des attributions du secrétariat
-général pour l'administration, il est le service d'administration générale des armées et des organismes interarmées et
-participe à leur soutien comme à celui de la gendarmerie nationale pour l'exercice de ses missions militaires. Dans ce cadre,
-il conseille le commandement.
+Le service du commissariat des armées est un service de soutien interarmées relevant du chef d'état-major des armées. Sans
+préjudice des attributions du secrétariat général pour l'administration, il est le service d'administration générale des
+armées et des organismes interarmées et participe à leur soutien comme à celui de la gendarmerie nationale pour l'exercice de
+ses missions militaires. Dans ce cadre, il conseille le commandement.
 
 Il apporte, en outre, son concours à l'ensemble des organismes du ministère de la défense et peut être chargé, dans des
 conditions fixées par le ministre de la défense, d'assurer ses missions au profit d'organismes extérieurs au ministère.
@@ -73891,7 +75052,7 @@ conditions fixées par le ministre de la défense, d'assurer ses missions au pro
 
 	**Modifié par**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-2
@@ -73925,11 +75086,11 @@ de la défense.
 	  - Arrêté du 14 décembre 2009 - art. 6 (Ab)
 	  - Arrêté du 29 juillet 2014 - art. 8 (V)
 	  - Code de la défense. - art. R3232-2-3 (V)
-	  - Code de la défense. - art. R3232-4 (VD)
+	  - Code de la défense. - art. R3232-4 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 6
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-2-1
@@ -73938,9 +75099,9 @@ Le service du commissariat des armées assure l'exécution du service de la sold
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 7
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-2-2
@@ -73949,9 +75110,9 @@ Le service du commissariat des armées est chargé du service administratif et f
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 7
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-2-3
@@ -73966,9 +75127,9 @@ prestations lorsqu'elles sont délivrées en métropole.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2017-391 du 23 mars 2017 - art. 7
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
@@ -73985,9 +75146,9 @@ approvisionne.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-4
@@ -73999,18 +75160,18 @@ compétence d'un autre service.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2009 - art. 8 (Ab)
 	  - Arrêté du 29 juillet 2014 - art. 8 (V)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
 	**Cite**:
 
-	  - Code de la défense. - art. R3232-2
+	  - Code de la défense. - art. R3232-2 (V)
 
 
 ###### Article R3232-5
@@ -74030,9 +75191,9 @@ Il a vocation à assumer des fonctions administratives diverses qui ne sont pas 
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-6
@@ -74056,9 +75217,9 @@ compétence d'autres services.
 	  - Loi n°83-634 du 13 juillet 1983 - art. 11
 	  - Code de la défense. - art. L4123-10
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-7
@@ -74080,9 +75241,9 @@ liquidation des dépenses correspondantes et autorise l'émission des traites de
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2009-1494 du 3 décembre 2009 - art. 1
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-8
@@ -74103,9 +75264,9 @@ législatives et réglementaires des actes d'administration et de gestion pris d
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-258 du 4 mars 2015 - art. 5
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-9
@@ -74130,9 +75291,9 @@ réserve.
 	  - Arrêté du 7 juin 2011 (Ab)
 	  - Décret n°2011-1983 du 28 décembre 2011 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 8
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3232-10
@@ -74151,20 +75312,18 @@ orientations générales du service et lui assigne ses objectifs pluriannuels et
 	  - Arrêté du 14 décembre 2009 - art. 2 (Ab)
 	  - Arrêté du 29 juillet 2014 - art. 2 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-258 du 4 mars 2015 - art. 6
+	  - DEPLACE: Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
 	  - Code de la défense. - art. R3231-2
 
 
-##### Chapitre III : Les services et organismes interarmées
+##### Section 2 : Le service de santé des armées
 
-##### Section 1 : Le service de santé des armées
-
-###### Article R3233-1
+###### Article R3232-11
 
 Le service de santé des armées est un service interarmées.
 
@@ -74176,27 +75335,16 @@ L'exercice des compétences en matière vétérinaire lui est rattaché.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Arrêté du 9 juillet 2003 - art. 1 (VT)
-	  - Arrêté du 9 septembre 2011 (VD)
-	  - Arrêté du 9 novembre 2012 - art. 1 (V)
-	  - Arrêté du 14 décembre 2016 - art. 3 (V)
-
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-11 (V)
+	  - Code de la défense. - art. R3233-1 (T)
 
 
-###### Article R3233-2
+###### Article R3232-12
 
 Pour remplir ses missions, le service de santé des armées dispose de moyens relevant directement de son autorité. Il assure
 le recrutement, la formation, la gestion et l'administration des militaires d'active et de réserve des corps et spécialités
@@ -74211,25 +75359,21 @@ moyens. Il assure la programmation et le suivi des effectifs qui lui sont propre
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 9
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-12 (V)
+	  - Code de la défense. - art. R3233-2 (T)
 
 
-###### Article R3233-3
+###### Article R3232-13
 
-Dans des conditions fixées aux articles R* 6112-1 à R* 6112-8 du code de la santé publique, le service de santé des armées a
-compétence pour dispenser des soins à des personnes ne relevant pas directement des armées, notamment aux membres des
-familles de militaires, aux anciens combattants et victimes de guerre et aux retraités militaires ; il concourt au service
-public hospitalier. 
+Dans des conditions fixées aux articles R. 6147-112 à R. 6147-120 du code de la santé publique, le service de santé des
+armées a compétence pour dispenser des soins à des personnes ne relevant pas directement des armées, notamment aux membres
+des familles de militaires, aux anciens combattants et victimes de guerre et aux retraités militaires ; il concourt au
+service public hospitalier. 
 
 Il peut être chargé de certaines missions au profit d'autres départements ministériels, en particulier dans le domaine de
 l'aide technique et de la coopération, ainsi que de missions humanitaires décidées par le Gouvernement.
@@ -74238,22 +75382,18 @@ l'aide technique et de la coopération, ainsi que de missions humanitaires déci
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-13 (V)
+	  - Code de la défense. - art. R3233-3 (T)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. R*6112-1
+	  - Code de la santé publique - art. R*6147-112
 
 
-###### Article R3233-4
+###### Article R3232-14
 
 Le service de santé des armées a, dans le domaine technique, autorité sur son personnel, quelle que soit l'autorité d'emploi
 dont celui-ci relève, ainsi que sur le personnel mis à sa disposition pour l'exécution de prestations sanitaires.
@@ -74264,22 +75404,18 @@ la défense et, le cas échéant, d'autres départements ministériels.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 10
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-14 (V)
+	  - Code de la défense. - art. R3233-4 (T)
 
 
-##### Section 2 : Le service des essences des armées
+##### Section 3 : Le service des essences des armées
 
-###### Article R3233-5
+###### Article R3232-15
 
 Le service des essences des armées est un service interarmées. 
 
@@ -74293,26 +75429,16 @@ profit de personnes privées.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
+	**Créé par**:
 
-	  - Décret n°2009-1179 du 5 octobre 2009 - art. 27 (V)
-	  - Arrêté du 22 septembre 2011 (Ab)
-	  - Arrêté du 11 février 2015 - art. 1 (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2016-1120 du 11 août 2016 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-15 (V)
+	  - Code de la défense. - art. R3233-5 (T)
 
 
-###### Article R3233-6
+###### Article R3232-16
 
 Le service des essences des armées est chargé : 
 
@@ -74324,60 +75450,48 @@ Le service des essences des armées est chargé :
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-16 (V)
+	  - Code de la défense. - art. R3233-6 (T)
 
 
-###### Article R3233-7
+###### Article R3232-17
 
 Le service des essences des armées participe à la définition et à la mise en œuvre de la logistique pétrolière des armées,
 ainsi qu'à l'élaboration de la politique énergétique du ministère de la défense.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-17 (V)
+	  - Code de la défense. - art. R3233-7 (T)
 
 
-###### Article R3233-8
+###### Article R3232-18
 
 Le service des essences des armées assure, dans son domaine de compétence, le contrôle technique et toute expertise, en tant
 que de besoin.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-18 (V)
+	  - Code de la défense. - art. R3233-8 (T)
 
 
-###### Article R3233-9
+###### Article R3232-19
 
 Le service des essences des armées représente le ministre de la défense auprès des responsables du secteur pétrolier civil. 
 
@@ -74386,24 +75500,16 @@ attributions de défense.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Arrêté du 11 février 2015 - art. 2 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-19 (V)
+	  - Code de la défense. - art. R3233-9 (T)
 
 
-###### Article R3233-9-1
+###### Article R3232-20
 
 Le  service des essences des armées assure le recrutement, la formation, la  gestion et l'administration des militaires
 d'active et de réserve des  corps et spécialités qui lui sont propres. Il exerce les mêmes  attributions pour les militaires
@@ -74422,20 +75528,16 @@ d'emploi dont celui-ci relève.
 
 	**Créé par**:
 
-	  - Décret n°2014-1537 du 19 décembre 2014 - art. 11
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-20 (V)
+	  - Code de la défense. - art. R3233-9-1 (T)
 
 
-##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+##### Section 4 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
-###### Article R3233-10
+###### Article R3232-21
 
 La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI) est un service de
 soutien interarmées qui relève du chef d'état-major des armées.
@@ -74444,24 +75546,14 @@ soutien interarmées qui relève du chef d'état-major des armées.
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Arrêté du 9 septembre 2011 (VD)
-	  - Arrêté du 4 mai 2012 - art. 1 (V)
-	  - Arrêté du 14 décembre 2016 - art. 4 (VD)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-21 (V)
+	  - Code de la défense. - art. R3233-10 (T)
 
 
-###### Article R3233-11
+###### Article R3232-22
 
 L'organisation et le fonctionnement du comité directeur sont précisés par un arrêté du ministre de la défense.
 
@@ -74469,18 +75561,14 @@ L'organisation et le fonctionnement du comité directeur sont précisés par un 
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-22 (V)
+	  - Code de la défense. - art. R3233-11 (T)
 
 
-###### Article R3233-12
+###### Article R3232-23
 
 La DIRISI assure la direction, l'exploitation et le soutien des réseaux d'infrastructure et des systèmes d'information et de
 communication d'intérêt commun qui lui sont confiés. Elle fournit des services de télécommunications à l'ensemble des
@@ -74490,47 +75578,46 @@ organismes de la défense.
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-23 (V)
+	  - Code de la défense. - art. R3233-12 (T)
 
 
-###### Article R3233-13
+###### Article R3232-24
 
 La DIRISI participe à la conception et à la conduite des programmes d'équipement qui relèvent de sa compétence pour ce qui
 concerne l'exploitation et le soutien, en liaison avec les directeurs de programmes désignés en application du décret n°
-2005-72 du 31 janvier 2005, fixant les attributions et l'organisation de la     direction générale de l'armement, et l'équipe
-intégrée que chacun d'eux anime. 
+2009-1180 du 5 octobre 2009 fixant les attributions et l'organisation du secrétariat général pour l'administration du
+ministère de la défense, et l'équipe intégrée que chacun d'eux anime. 
 
 Elle participe à la coordination et à l'expertise globale des systèmes d'information et de communication au sein du ministère
 de la défense.
+
+**Nota:**
+
+<font size="1" color="#000000">Au lieu de " décret n° 2009-1180</font>
+  <font color="#000000" size="1"> du 5 octobre 2009 fixant les attributions et l'organisation du secrétariat général pour
+l'administration du ministère de la défense ", il convient de lire " décret n° 2009-1180 du 5 octobre 2009 fixant les
+attributions et l'organisation de la direction générale de l'armement ".</font>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2005-72 du 31 janvier 2005
+	  - Décret n°2009-1180 du 5 octobre 2009
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-24 (V)
+	  - Code de la défense. - art. R3233-13 (T)
 
 
-###### Article R3233-14
+###### Article R3232-25
 
 Pour ce qui concerne des besoins ne pouvant relever de programmes ou opérations d'armement, la DIRISI acquiert, à la demande
 des organismes de la défense pour l'accomplissement de leurs missions :
@@ -74546,18 +75633,14 @@ communication au sein du ministère de la défense.
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-25 (V)
+	  - Code de la défense. - art. R3233-14 (T)
 
 
-###### Article R3233-15
+###### Article R3232-26
 
 La liste des systèmes, fonctions, moyens et infrastructures associées relevant de la compétence de la DIRISI est fixée par
 arrêté du ministre de la défense sur proposition du comité directeur.
@@ -74566,26 +75649,14 @@ arrêté du ministre de la défense sur proposition du comité directeur.
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Arrêté du 23 avril 2010 (Ab)
-	  - Arrêté du 4 mai 2012 (V)
-	  - Arrêté du 16 décembre 2014 (V)
-	  - Arrêté du 14 décembre 2016 (VD)
-	  - Arrêté du 4 mai 2017 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-26 (V)
+	  - Code de la défense. - art. R3233-15 (T)
 
 
-###### Article R3233-16
+###### Article R3232-27
 
 La composition et le fonctionnement du conseil de gestion de la DIRISI sont fixés par un arrêté du ministre de la défense.
 
@@ -74593,18 +75664,14 @@ La composition et le fonctionnement du conseil de gestion de la DIRISI sont fix�
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-27 (V)
+	  - Code de la défense. - art. R3233-16 (T)
 
 
-###### Article R3233-17
+###### Article R3232-28
 
 La DIRISI gère les crédits qui lui sont attribués et rend compte des résultats obtenus en conseil de gestion.
 
@@ -74612,18 +75679,14 @@ La DIRISI gère les crédits qui lui sont attribués et rend compte des résulta
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-28 (V)
+	  - Code de la défense. - art. R3233-17 (T)
 
 
-###### Article R3233-18
+###### Article R3232-29
 
 Du personnel de la DIRISI peut être placé, de façon permanente ou occasionnelle, sous l'autorité directe des armées et des
 organismes relevant du ministre de la défense. Il peut être renforcé par des moyens propres à ces armées et organismes.
@@ -74632,59 +75695,16 @@ organismes relevant du ministre de la défense. Il peut être renforcé par des 
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-29 (V)
-
-
-##### Section 4 : Dispositions communes aux organismes interarmées et à vocation interarmées
-
-###### Article R3233-19
-
-I.-Est un organisme interarmées un organisme qui remplit les conditions suivantes : 
-
-1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
-nationale ; 
-
-2° Il relève organiquement du chef d'état-major des armées. 
-
-Il peut être mis à la disposition d'une autre autorité ; 
-
-3° Le personnel est issu d'au moins deux armées, directions ou services de soutien ou de la gendarmerie nationale. 
-
-II.-Est un organisme à vocation interarmées un organisme qui remplit les conditions suivantes : 
-
-1° La mission principale s'exerce au profit de plusieurs armées, directions ou services de soutien ou de la gendarmerie
-nationale ; 
-
-2° Il relève organiquement d'une armée pour son organisation et son fonctionnement interne ; 
-
-3° Le personnel est issu d'une ou de plusieurs armées, directions ou services de soutien ou de la gendarmerie nationale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-211 du 25 février 2015 - art. 12
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3211-1 (V)
+	  - Code de la défense. - art. R3233-18 (T)
 
 
 ##### Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
-###### Article R3233-20
+###### Article R3232-30
 
 La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (SIMMAD)
 relève du chef d'état-major de l'armée de l'air. 
@@ -74704,29 +75724,20 @@ conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2014-480 du 13 mai 2014 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cité par**:
 
-	  - Arrêté du 9 février 2016 - art. 1 (V)
-	  - Code de la défense. - art. R3224-8 (VD)
+	  - Code de la défense. - art. R3224-8 (V)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3231-1
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-30 (V)
+	  - Code de la défense. - art. R3233-20 (T)
 
 
-###### Article R3233-21
+###### Article R3232-31
 
 Un comité directeur est composé du chef d'état-major des armées, du délégué général pour l'armement, du chef d'état-major de
 l'armée de terre, de la marine, de l'armée de l'air et du directeur général de la gendarmerie nationale.
@@ -74740,18 +75751,14 @@ L'organisation et le fonctionnement de ce comité sont précisés par un arrêt�
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-31 (V)
+	  - Code de la défense. - art. R3233-21 (T)
 
 
-###### Article R3233-22
+###### Article R3232-32
 
 La SIMMAD élabore les règles générales de maintien en condition opérationnelle des matériels aéronautiques des armées, de la
 gendarmerie nationale et de la direction générale de l'armement en fonction du besoin opérationnel exprimé par celles-ci et
@@ -74767,25 +75774,16 @@ profit d'organismes extérieurs au ministère ou de participer à des programmes
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Arrêté du 9 février 2016 (V)
-	  - Code de la défense. - art. R3233-23 (T)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-32 (V)
+	  - Code de la défense. - art. R3233-22 (T)
 
 
-###### Article R3233-23
+###### Article R3232-33
 
 Pour l'ensemble des matériels mentionnés à l'article R. 3233-22, la SIMMAD est chargée : 
 
@@ -74796,28 +75794,16 @@ l'armement, aux armées et à la direction générale de la gendarmerie national
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-33 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3233-22 (T)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R3233-24 (T)
+	  - Code de la défense. - art. R3233-23 (T)
 
 
-###### Article R3233-24
+###### Article R3232-34
 
 Pour l'exercice des missions mentionnées à l'article R. 3233-23, la SIMMAD : 
 
@@ -74863,24 +75849,16 @@ conseil de surveillance prévu à l'article 3 et au plus tard le premier jour du
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2014-480 du 13 mai 2014 - art. 6
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-34 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3233-23
+	  - Code de la défense. - art. R3233-24 (T)
 
 
-###### Article R3233-25
+###### Article R3232-35
 
 Pour les matériels de son périmètre de gestion, la SIMMAD est chargée : 
 
@@ -74901,20 +75879,16 @@ direction générale de l'armement ;
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-35 (V)
+	  - Code de la défense. - art. R3233-25 (T)
 
 
-###### Article R3233-26
+###### Article R3232-36
 
 La SIMMAD participe à l'exercice des responsabilités suivantes :
 
@@ -74931,18 +75905,14 @@ responsabilités définies aux 1° et 2°.
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-36 (V)
+	  - Code de la défense. - art. R3233-26 (T)
 
 
-###### Article R3233-27
+###### Article R3232-37
 
 Pour les matériels nouveaux, la SIMMAD participe, au sein des équipes de programme, à la définition et à la mise en œuvre du
 maintien en condition opérationnelle. Elle exécute le processus d'approvisionnement nécessaire à leur mise en service.
@@ -74951,18 +75921,14 @@ maintien en condition opérationnelle. Elle exécute le processus d'approvisionn
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-37 (V)
+	  - Code de la défense. - art. R3233-27 (T)
 
 
-###### Article R3233-28
+###### Article R3232-38
 
 La composition du conseil de gestion de la structure intégrée du maintien en condition opérationnelle des matériels
 aéronautiques du ministère de la défense est fixée par un arrêté du ministre de la défense.
@@ -74971,20 +75937,16 @@ aéronautiques du ministère de la défense est fixée par un arrêté du minist
 
 	**Créé par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-38 (V)
+	  - Code de la défense. - art. R3233-28 (T)
 
 
-##### Section 6 : La structure intégrée du maintien en condition opérationnelle des matériels terrestres 
+##### Section 6 : La structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
-###### Article R3233-29
+###### Article R3232-39
 
 La structure intégrée du maintien en condition opérationnelle des matériels terrestres relève du chef d'état-major de l'armée
 de terre. 
@@ -74998,18 +75960,14 @@ terrestres.
 
 	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-39 (V)
+	  - Code de la défense. - art. R3233-29 (T)
 
 
-###### Article R3233-30
+###### Article R3232-40
 
 Le comité directeur de la structure intégrée du maintien en condition opérationnelle des matériels terrestres est présidé par
 le chef d'état-major des armées. 
@@ -75022,23 +75980,14 @@ L'organisation et le fonctionnement de ce comité sont précisés par un arrêt�
 
 	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-40 (V)
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R3233-31 (T)
-	  - Code de la défense. - art. R3233-32 (T)
+	  - Code de la défense. - art. R3233-30 (T)
 
 
-###### Article R3233-31
+###### Article R3232-41
 
 Pour les matériels terrestres dont la liste est fixée par arrêté, la structure intégrée du maintien en condition
 opérationnelle des matériels terrestres : 
@@ -75070,26 +76019,14 @@ publics extérieurs au ministère de la défense ou de participer à des program
 
 	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-41 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3233-30
-
-	**Cité par**:
-
-	  - Code de la défense. - art. R3233-32 (T)
+	  - Code de la défense. - art. R3233-31 (T)
 
 
-###### Article R3233-32
+###### Article R3232-42
 
 Pour l'exercice des missions mentionnées à l'article R. 3233-31, la structure intégrée du maintien en condition
 opérationnelle des matériels terrestres est chargée de : 
@@ -75149,23 +76086,14 @@ cohérence avec les politiques de qualité des armées, des services et des orga
 
 	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-42 (V)
-
-	**Cite**:
-
-	  - Code de la défense. - art. R3233-30 (T)
-	  - Code de la défense. - art. R3233-31 (T)
+	  - Code de la défense. - art. R3233-32 (T)
 
 
-###### Article R3233-33
+###### Article R3232-43
 
 La structure intégrée du maintien en condition opérationnelle des matériels terrestres participe à l'exercice des
 responsabilités suivantes : 
@@ -75183,22 +76111,20 @@ opérationnelle des matériels aéronautiques du ministère de la défense et le
 
 	**Créé par**:
 
-	  - Décret n°2010-1238 du 20 octobre 2010 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de la défense. - art. R3232-43 (V)
+	  - Code de la défense. - art. R3233-33 (T)
 
 
-#### TITRE IV : COMMANDEMENTS INTERARMEES
+#### TITRE IV : ORGANISMES INTERARMÉES
 
-##### Chapitre unique : Commandements de forces  françaises à l'étranger
+##### Chapitre unique :
 
-##### Section 1 : Commandement des éléments français au Sénégal
+##### Section unique : Commandements de forces françaises à l'étranger
+
+##### Sous-section 1 : Commandement des éléments français au Sénégal
 
 ###### Article D3241-1
 
@@ -75211,13 +76137,13 @@ Il est assisté par un adjoint interarmées.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 1
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de la défense. - art. D3241-2 (M)
+	  - Code de la défense. - art. D3241-2 (V)
 
 	**Cite**:
 
@@ -75237,13 +76163,13 @@ organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 3
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-1
+	  - Code de la défense. - art. D3241-1 (V)
 
 
 ###### Article D3241-3
@@ -75262,14 +76188,14 @@ des pays qui composent cette communauté économique régionale et avec les orga
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 3
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
 	  - Code de la défense. - art. D3241-1 (V)
-	  - Code de la défense. - art. D3241-24 (M)
+	  - Code de la défense. - art. D3241-24 (V)
 
 
 ###### Article D3241-4
@@ -75278,12 +76204,12 @@ Le commandant des éléments français au Sénégal dispose d'une structure adap
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 3
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
-##### Section 2 : Commandement des forces françaises stationnées à Djibouti
+##### Sous-section 2 : Commandement des forces françaises stationnées à Djibouti
 
 ###### Article D3241-5
 
@@ -75296,13 +76222,13 @@ Il est assisté par un adjoint interarmées et par un chef d'état-major interar
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 4
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de la défense. - art. D3241-6 (M)
+	  - Code de la défense. - art. D3241-6 (V)
 
 
 ###### Article D3241-6
@@ -75318,13 +76244,13 @@ aux responsables locaux des organismes sur lesquels il exerce une autorité d'em
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 4
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-5
+	  - Code de la défense. - art. D3241-5 (V)
 
 
 ###### Article D3241-7
@@ -75342,9 +76268,9 @@ militaires des pays de sa zone de responsabilité.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 4
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-8
@@ -75354,12 +76280,12 @@ effectifs sont fixés par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
-##### Section 3 : Commandement des éléments français au Gabon
+##### Sous-section 3 : Commandement des éléments français au Gabon
 
 ###### Article D3241-9
 
@@ -75372,13 +76298,13 @@ Il est assisté par un adjoint interarmées.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 3
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de la défense. - art. D3241-10 (M)
+	  - Code de la défense. - art. D3241-10 (V)
 
 
 ###### Article D3241-10
@@ -75394,13 +76320,13 @@ organismes sur lesquels il exerce une autorité d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 4
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-9
+	  - Code de la défense. - art. D3241-9 (V)
 
 
 ###### Article D3241-11
@@ -75420,9 +76346,9 @@ des pays qui composent cette communauté économique régionale et avec les orga
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 5
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-12
@@ -75431,12 +76357,12 @@ Le commandant des éléments français au Gabon dispose d'une structure adaptée
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 6
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
-##### Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne
+##### Sous-section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne
 
 ###### Article D3241-13
 
@@ -75449,9 +76375,9 @@ attributions interarmées et opérationnelles, du chef d'état-major de l'armée
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-14
@@ -75463,9 +76389,9 @@ internationaux en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-15
@@ -75475,9 +76401,9 @@ ainsi qu'en matière de réparation des dommages causés par ces forces, en vert
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-16
@@ -75487,9 +76413,9 @@ ces membres les attributions prévues par les accords internationaux en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-17
@@ -75499,12 +76425,12 @@ dans les conditions fixées par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
-##### Section 5 : Commandement des forces françaises stationnées aux Emirats arabes unis
+##### Sous-section 5 : Commandement des forces françaises stationnées aux Emirats arabes unis
 
 ###### Article D3241-18
 
@@ -75517,13 +76443,13 @@ Il est assisté par un adjoint interarmées et par un chef d'état-major interar
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de la défense. - art. D3241-19 (M)
+	  - Code de la défense. - art. D3241-19 (V)
 
 
 ###### Article D3241-19
@@ -75539,13 +76465,13 @@ aux responsables locaux des organismes sur lesquels il exerce une autorité d'em
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3241-18
+	  - Code de la défense. - art. D3241-18 (V)
 
 
 ###### Article D3241-20
@@ -75561,9 +76487,9 @@ aux Emirats arabes unis entretient toutes relations utiles avec les organes mili
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-21
@@ -75573,12 +76499,12 @@ et les effectifs sont fixés par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2013-478 du 5 juin 2013 - art. 6
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
-##### Section 6 : Commandement des forces françaises stationnées en Côte d'Ivoire.
+##### Sous-section 6 : Commandement des forces françaises stationnées en Côte d'Ivoire
 
 ###### Article D3241-22
 
@@ -75591,9 +76517,9 @@ Il est assisté par un adjoint interarmées et par un chef d'état-major interar
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-23
@@ -75609,9 +76535,9 @@ aux responsables locaux des organismes sur lesquels il exerce une autorité d'em
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ###### Article D3241-24
@@ -75628,9 +76554,9 @@ français au Sénégal en matière de coopération opérationnelle, telles que d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -75644,9 +76570,9 @@ effectifs sont fixés par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2015-700 du 19 juin 2015 - art. 7
+	  - DEPLACE: Décret n°2017-745 du 4 mai 2017 - art. 2
 
 
 ### LIVRE III : ORGANISMES CONSULTATIFS
@@ -75837,42 +76763,33 @@ c) Sept pour le Conseil supérieur de l'armée de l'air.
 
 ###### Article R3322-1
 
-Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense pour l'avancement aux grades
-d'officier général de l'armement et du service d'infrastructure de la défense. Les conseils supérieurs du service de santé
-des armées, du service des essences des armées et du service du commissariat des armées, préparent, pour leur formation
-rattachée, les travaux du Conseil supérieur interarmées pour l'avancement aux grades d'officier général. Le Conseil supérieur
-de la gendarmerie nationale est consulté par le ministre de l'intérieur pour l'avancement aux grades d'officier général de la
-gendarmerie nationale 
+Les conseils supérieurs de formations rattachées sont : 
 
-Les conseils supérieurs de formation rattachée sont consultés par le ministre de la défense, par le chef d'état-major des
-armées pour les conseils supérieurs du service de santé des armées, du service des essences des armées et du service du
-commissariat des armées, ou le ministre de l'intérieur pour le conseil supérieur de la gendarmerie nationale, dans les cas
-prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures d'ordre
-individuel. 
+1° Le conseil supérieur de l'armement ; 
 
-Les conseils supérieurs de formation rattachée peuvent être consultés par le président, ou les présidents pour le Conseil
-supérieur de la gendarmerie nationale, et les vice-présidents désignés à la section 2 du présent chapitre sur les sujets
-d'ordre général relatifs à leur direction, délégation ou formation rattachée. Dans ce cas, le ministre de la défense, ou le
-chef d'état-major des armées pour les conseils supérieurs du service de santé des armées, du service des essences des armées
-et du service du commissariat des armées ou pour le Conseil supérieur de la gendarmerie nationale le ministre de la défense
-ou le ministre de l'intérieur, peut inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de
-sa compétence sur les questions soumises à l'examen des conseils supérieurs. 
+2° Le conseil supérieur du service d'infrastructure de la défense. 
 
-Les conseils supérieurs de formation rattachée, lorsqu'ils siègent disciplinairement, donnent leur avis pour l'application à
-un officier général de leur formation des sanctions définies au 3° de l'article L. 4137-2 du présent code. Dans ce cas, leur
-composition et leur fonctionnement sont régis par les dispositions des articles R. 4137-93 à R. 4137-113 du présent code.
+Ils sont consultés par le ministre de la défense : 
+
+a) Pour l'avancement aux grades d'officier général de l'armement et du service d'infrastructure de la défense ; 
+
+b) Dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures
+d'ordre individuel. 
+
+Les conseils supérieurs de formations rattachées peuvent être consultés par le président et les vice-présidents désignés à la
+section 2 sur les sujets d'ordre général relatifs à leur formation rattachée. Dans ce cas, le ministre de la défense peut
+inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de sa compétence sur les questions
+soumises à l'examen des conseils supérieurs.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-481 du 13 avril 2012 - art. 3
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-2 (V)
-	  - Code de la défense. - art. L4141-2 (V)
-	  - Code de la défense. - art. R4137-93 (V)
+	  - Code de la défense. - art. L4141-2
 
 
 ##### Section 2 : Composition
@@ -75882,40 +76799,9 @@ composition et leur fonctionnement sont régis par les dispositions des articles
 Le conseil supérieur de l'armement et le conseil supérieur du service d'infrastructure de la défense sont présidés par le
 ministre de la défense.
 
-Le Conseil supérieur de la gendarmerie nationale est coprésidé par le ministre de la défense et le ministre de l'intérieur.
-
-Les conseils supérieurs du service de santé des armées, du service des essences des armées, et du service du commissariat des
-armées sont présidés par le chef d'état-major des armées.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2012-481 du 13 avril 2012 - art. 4
-
-
-###### Article R3322-3
-
-Le Conseil supérieur de la gendarmerie nationale comprend :
-
-1° Le directeur général de la gendarmerie nationale, vice-président ;
-
-2° (supprimé) ;
-
-3° L'inspecteur général des armées-gendarmerie, membre de droit ;
-
-4° Le major général de la gendarmerie nationale, membre de droit ;
-
-5° Six officiers généraux de la gendarmerie nationale de la 1re section, désignés pour un an, à compter du 1er juillet de
-chaque année, par arrêté du ministre de l'intérieur sur proposition du directeur général de la gendarmerie nationale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 4
-
-	**Abrogé par**:
 
 	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
@@ -75938,52 +76824,6 @@ par arrêté du ministre de la défense sur proposition du délégué général 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-###### Article R3322-5
-
-Le Conseil supérieur du service de santé des armées comprend :
-
-1° Le directeur central du service de santé des armées, vice-président ;
-
-2° Le major général des armées, membre de droit ;
-
-3° L'inspecteur général du service de santé des armées, membre de droit ;
-
-4° Trois officiers généraux du service de santé des armées de la 1re section, désignés pour un an, à compter du 1er juillet
-de chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service de santé des armées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-481 du 13 avril 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 3
-
-
-###### Article R3322-6
-
-Le Conseil supérieur du service des essences des armées comprend :
-
-1° Le directeur central du service des essences des armées, vice-président ;
-
-2° Le major général des armées, membre de droit ;
-
-3° Un officier général du service des essences des armées de la 1re section, désigné pour un an, à compter du 1er juillet de
-chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service des essences des armées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-481 du 13 avril 2012 - art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 3
-
-
 ###### Article R3322-7
 
 Le Conseil supérieur du service d'infrastructure de la défense comprend :
@@ -76003,7 +76843,151 @@ d'infrastructure de la défense.
 	  - Décret n°2012-481 du 13 avril 2012 - art. 7
 
 
-###### Article R3322-8
+##### Chapitre III : Règles de fonctionnement
+
+###### Article R3323-1
+
+Les règles de fonctionnement des conseils supérieurs de force armée ou de formation rattachée sont fixées par arrêté du
+ministre de la défense, ou pour le Conseil supérieur de la gendarmerie nationale, par arrêté conjoint du ministre de la
+défense et du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 2013 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+#### TITRE II : LES CONSEILS SUPÉRIEURS DE FORCES ARMÉES ET DE FORMATIONS RATTACHÉES
+
+##### Chapitre Ier : Les conseils supérieurs des forces armées
+
+##### Section 1 : Le conseil supérieur interarmées
+
+##### Section 2 : Les conseils supérieurs d'armée
+
+##### Section 3 : Le Conseil supérieur de la gendarmerie nationale
+
+###### Article R3321-5
+
+Le Conseil supérieur de la gendarmerie nationale est consulté par le ministre de la défense ou le ministre de l'intérieur : 
+
+1° Pour l'avancement aux grades d'officier général de la gendarmerie nationale ; 
+
+2° Dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures
+d'ordre individuel. 
+
+Le Conseil supérieur de la gendarmerie nationale peut être consulté par les présidents et le vice-président désignés à
+l'article R. 3321-6 sur les sujets d'ordre général relatifs à cette force armée. Dans ce cas, le ministre de la défense ou le
+ministre de l'intérieur peut inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de sa
+compétence sur les questions soumises à l'examen du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4141-2
+
+
+###### Article R3321-6
+
+Le Conseil supérieur de la gendarmerie nationale est coprésidé par le ministre de la défense et le ministre de l'intérieur.
+
+Le Conseil supérieur de la gendarmerie nationale comprend :
+
+1° Le directeur général de la gendarmerie nationale, vice-président ;
+
+2° L'inspecteur général des armées-gendarmerie, membre de droit ;
+
+3° Le major général de la gendarmerie nationale, membre de droit ;
+
+4° Six officiers généraux de la gendarmerie nationale de la 1re section, désignés pour un an, à compter du 1er juillet de
+chaque année, par arrêté du ministre de l'intérieur sur proposition du directeur général de la gendarmerie nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+##### Section 4 : Les conseils supérieurs de services de soutien 
+
+###### Article R3321-7
+
+Les services de soutien mentionnés au dernier alinéa de l'article L. 3211-1 disposent d'un conseil supérieur. Ils sont
+présidés par le chef d'état-major des armées. 
+
+Les conseils supérieurs de service de soutien, préparent, pour leur service, les travaux du Conseil supérieur interarmées
+pour l'avancement aux grades d'officier général. 
+
+Ils sont consultés par le chef d'état-major des armées dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour
+l'application aux officiers généraux de certaines mesures d'ordre individuel. 
+
+Les conseils supérieurs de service de soutien peuvent être consultés par le président et les vice-présidents désignés aux
+articles R. 3321-8 à R. 3321-10 sur les sujets d'ordre général relatifs à leur service. Dans ce cas, le ministre de la
+défense ou le chef d'état-major des armées peut inviter à siéger à titre consultatif toute personnalité militaire ou civile
+en raison de sa compétence sur les questions soumises à l'examen des conseils supérieurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. L4141-2
+
+
+###### Article R3321-8
+
+Le Conseil supérieur du service de santé des armées comprend :
+
+1° Le directeur central du service de santé des armées, vice-président ;
+
+2° Le major général des armées, membre de droit ;
+
+3° L'inspecteur général du service de santé des armées, membre de droit ;
+
+4° Trois officiers généraux du service de santé des armées de la 1re section, désignés pour un an, à compter du 1er juillet
+de chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service de santé des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+###### Article R3321-9
+
+Le Conseil supérieur du service des essences des armées comprend :
+
+1° Le directeur central du service des essences des armées, vice-président ;
+
+2° Le major général des armées, membre de droit ;
+
+3° Un officier général du service des essences des armées de la 1re section, désigné pour un an, à compter du 1er juillet de
+chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service des essences des armées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+###### Article R3321-10
 
 Le Conseil supérieur du service du commissariat des armées comprend :
 
@@ -76019,31 +77003,16 @@ commissariat des armées.
 
 	**Créé par**:
 
-	  - Décret n°2012-481 du 13 avril 2012 - art. 7
-
-	**Abrogé par**:
-
 	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
+##### Chapitre II : Les conseils supérieurs de formations rattachées
+
+##### Section 1 : Attributions
+
+##### Section 2 : Composition
+
 ##### Chapitre III : Règles de fonctionnement
-
-###### Article R3323-1
-
-Les règles de fonctionnement du Conseil supérieur interarmées et des conseils supérieurs d'armée ou de formation rattachée
-sont fixées par arrêté du ministre de la défense, ou pour le Conseil supérieur de la gendarmerie nationale, par arrêté
-conjoint du ministre de la défense et du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 5
-
-	**Cité par**:
-
-	  - Arrêté du 8 février 2013 - art. 13 (V)
-
 
 #### TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT
 
@@ -76085,11 +77054,13 @@ vice-président.
 Le vice-président du Conseil général de l'armement est soit un ingénieur en chef de l'armement, soit un ingénieur général de
 l'armement nommé par arrêté du ministre de la défense pour une durée de trois ans renouvelable.
 
+Le vice-président définit l'orientation générale des travaux du conseil et en contrôle la réalisation.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+	  - Décret n°2017-746 du 4 mai 2017 - art. 1
 
 
 ###### Article D3331-3
@@ -76148,20 +77119,20 @@ jour de chaque session.
 
 ###### Article D3331-5
 
-Le Conseil général de l'armement dispose d'une structure permanente placée sous l'autorité du vice-président. 
+Le Conseil général de l'armement dispose d'une structure permanente.
 
 Cette structure permanente comprend un secrétariat général, une section études générales, une section études techniques et
-une section carrières. 
+une section carrières.
 
 Le secrétaire général et les présidents de section sont des ingénieurs généraux ou des ingénieurs en chef de l'armement, en
 activité, nommés par le ministre de la défense sur proposition du délégué général pour l'armement, après avis du vice-
-président du Conseil général de l'armement. 
+président du Conseil général de l'armement.
 
-Le secrétaire général assure la gestion des moyens de la structure permanente du Conseil général de l'armement. 
+Le secrétaire général dirige la structure permanente du Conseil général de l'armement.
 
-La structure permanente peut associer à ses travaux des personnalités qualifiées extérieures. 
+La structure permanente peut associer à ses travaux des personnalités qualifiées extérieures.
 
-La structure permanente bénéficie en tant que de besoin du concours de la     direction générale de l'armement. Elle peut
+La structure permanente bénéficie en tant que de besoin du concours de la direction générale de l'armement. Elle peut
 demander le concours des inspecteurs de l'armement dans les conditions fixées par une instruction particulière du ministre de
 la défense.
 
@@ -76169,7 +77140,7 @@ la défense.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+	  - Décret n°2017-746 du 4 mai 2017 - art. 2
 
 
 ###### Article D3331-6
@@ -79855,9 +80826,9 @@ l'accord de l'autorité exerçant le pouvoir de tutelle et dans les limites qu'e
 
 ###### Article R3412-15
 
-I. ― Au sein des forces armées  et de la gendarmerie, il est constitué des fonds d'entraide des cercles et foyers.
+I. – Au sein des forces armées, il est constitué des fonds d'entraide des cercles et foyers.
 
-II. ― Ces fonds d'entraide sont alimentés par :
+II. – Ces fonds d'entraide sont alimentés par :
 
 1° Les contributions d'entraide ;
 
@@ -79865,7 +80836,7 @@ II. ― Ces fonds d'entraide sont alimentés par :
 
 3° Les libéralités, dons et legs.
 
-III. ― Les fonds d'entraide sont destinés à :
+III. – Les fonds d'entraide sont destinés à :
 
 1° Couvrir les besoins occasionnels des cercles et des foyers sous la forme de prêt, d'avance de trésorerie ou d'allocation
 exceptionnelle ;
@@ -79875,17 +80846,17 @@ exceptionnelle ;
 3° Financer les dépenses d'intérêt général de cohésion, à caractère socioculturel et de loisirs ainsi que les programmes
 communs d'investissement des organismes.
 
-IV. ― Les règles relatives à la constitution et au fonctionnement des fonds d'entraide sont fixées par instructions
+IV. – Les règles relatives à la constitution et au fonctionnement des fonds d'entraide sont fixées par instructions
 ministérielles.
 
-V. ― Un cercle peut être désigné par l'autorité de tutelle pour recevoir et gérer les fonds d'entraide pour l'ensemble des
+V. – Un cercle peut être désigné par l'autorité de tutelle pour recevoir et gérer les fonds d'entraide pour l'ensemble des
 cercles et des foyers d'une armée, des cercles et foyers interarmées ou des cercles et foyers de la gendarmerie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-211 du 25 février 2015 - art. 19
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
 ###### Article R3412-16
@@ -86888,11 +87859,455 @@ Les adaptations nécessaires à l'application des articles R. 3222-1 à R. 3222-
 
 ###### Article D3541-4
 
-Sont applicables dans les îles Wallis et Futuna les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14,
-D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+dans leur rédaction résultant du décret n° 2008-1219 du 25 novembre 2008 :
 
-Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
-2017.
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-6 à D. 3121-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-10 et D. 3121-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-14-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-15 et D. 3121-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-18 à D. 3121-21</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-22</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-320 du 10 mars 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-27 à D. 3121-29</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-30</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-31 et D. 3121-32</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-4 à D. 3122-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-8 et D. 3122-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-10 et D. 3122-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-12, D. 3122-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1727 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-1 à D. 3123-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-9 et D. 3123-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-361 du 25 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-12, D. 3123-13</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-82 du 26 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-15 et D. 3123-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-19 et D. 3123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-1, D. 3124-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-4 et D. 3124-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-7 à D. 3124-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-1 à D. 3126-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1391 du 11 décembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-5 et D. 3126-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-8 à D. 3126-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-10 et D. 3126-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-13 et D. 3126-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3222-11 et D. 3222-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3222-19 à D. 3222-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-7 à D. 3223-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-51 à D. 3223-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-54</td>
+      <td align="justify">
+
+Résultant du décret n° 2011-505 du 9 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-55</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3232-1 à D. 3232-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3232-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-258 du 4 mars 2015 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -86910,28 +88325,122 @@ Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction r
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 11
+	  - Décret n°2017-745 du 4 mai 2017 - art. 5
 
 
 ###### Article R*3541-1
 
-Sont applicables dans les îles Wallis et Futuna les articles R. * 3111-1 à R. * 3111-3, 
-R. * 3121-1 à R. * 3121-5,
-R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+dans leur rédaction issue du décret n° 2008-1218 du 25 novembre 2008 :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3111-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-3 à R. * 3121-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-26</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-88 du 30 janvier 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-3
+
+</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
+	  - Décret n°2017-743 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3121-26 (V)
-	  - Code de la défense. - art. R*3111-1 (V)
-	  - Code de la défense. - art. R*3121-1 (V)
-	  - Code de la défense. - art. R*3311-1 (V)
-	  - Code de la défense. - art. R3121-25 (V)
+	  - Code de la défense. - art. D3121-26
+	  - Code de la défense. - art. R*3111-1
+	  - Code de la défense. - art. R*3121-1
+	  - Code de la défense. - art. R*3311-1
+	  - Code de la défense. - art. R3121-25
 
 
 ###### Article R3541-2
@@ -86979,7 +88488,7 @@ Au livre 1er</td>
 R. 3125-1</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -86993,7 +88502,7 @@ R. 3125-2 et R. 3125-3</td>
 R. 3125-4 et R. 3125-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87007,7 +88516,7 @@ R. 3125-6 à R. 3125-8</td>
 R. 3125-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87021,7 +88530,7 @@ R. 3125-10 et R. 3125-11</td>
 R. 3125-12 et R. 3125-13</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87035,7 +88544,7 @@ R. 3125-14 et R. 3125-15</td>
 R. 3125-16 à R. 3125-18</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87049,7 +88558,7 @@ R. 3125-19</td>
 R. 3125-20</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87063,7 +88572,7 @@ R. 3125-21</td>
 R. 3125-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87077,7 +88586,7 @@ R. 3125-23</td>
 R. 3125-24 à R. 3125-26</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87098,6 +88607,14 @@ Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 3211-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
       <td align="left">
 
 R. 3222-1 et R. 3222-2</td>
@@ -87109,14 +88626,13 @@ R. 3222-1 et R. 3222-2</td>
 R. 3222-3</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
-</td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87124,7 +88640,7 @@ R. 3222-4</td>
 R. 3222-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87138,7 +88654,7 @@ R. 3222-6</td>
 R. 3222-8 et R. 3222-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87154,7 +88670,7 @@ Résultant du décret n° 2017-417 du 27 mars 2017</td>
 R. 3222-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87168,7 +88684,7 @@ R. 3222-14</td>
 R. 3222-15 et R. 3222-16</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87188,7 +88704,7 @@ R. 3223-1 à R. 3223-6</td>
 R. 3223-46</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -87196,7 +88712,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-47</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87204,7 +88720,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3223-48 à R. 3223-50</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -87212,7 +88728,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-56</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87232,7 +88748,7 @@ R. 3223-60</td>
 R. 3223-61</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -87246,7 +88762,7 @@ R. 3224-1 à R. 3224-7</td>
 R. 3224-8</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87266,7 +88782,7 @@ R. 3225-1 à R. 3225-3</td>
 R. 3225-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1718 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87286,7 +88802,7 @@ R. 3225-6 et R. 3225-7</td>
 R. 3225-8 et R. 3225-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87294,7 +88810,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3225-10</td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
+Résultant du décret n° 2010-773 du 8 juillet 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -87302,7 +88818,7 @@ Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
 R. 3231-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87316,7 +88832,7 @@ R. 3231-2</td>
 R. 3231-3 et R. 3231-4</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87330,7 +88846,7 @@ R. 3231-5</td>
 R. 3231-6</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87344,7 +88860,7 @@ R. 3231-7 à R 3231-9</td>
 R. 3231-9-1 à R. 3231-11</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87352,7 +88868,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3231-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87360,7 +88876,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-1 à R. 3232-2-3</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -87368,7 +88884,7 @@ Résultant du décret n° 2017-391 du 23 mars 2017 </td>
 R. 3232-3 à R. 3232-7</td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87376,7 +88892,7 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
 R. 3232-8</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87384,7 +88900,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-9</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87392,7 +88908,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3232-10</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87406,7 +88922,7 @@ R. 3233-1</td>
 R. 3233-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87420,7 +88936,7 @@ R. 3233-3</td>
 R. 3233-4</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87428,7 +88944,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3233-5</td>
       <td align="left">
 
-Résultant du décret n° 2016-1120 du 11 août 2016 </td>
+Résultant du décret n° 2016-1120 du 11 août 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -87436,7 +88952,7 @@ Résultant du décret n° 2016-1120 du 11 août 2016 </td>
 R. 3233-6 à R. 3233-9</td>
       <td align="left">
 
-Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
+Résultant du décret n° 2010-1238 du 20 octobre 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -87444,7 +88960,7 @@ Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
 R. 3233-9-1</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87458,7 +88974,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87472,7 +88988,7 @@ R. 3233-14 à R. 3233-18</td>
 R. 3233-19</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87480,7 +88996,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3233-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87494,7 +89010,7 @@ R. 3233-21</td>
 R. 3233-22 et R. 3233-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87502,7 +89018,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3233-24</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87510,7 +89026,7 @@ Résultant du décret n° 2014-480 du 13 mai 2014 </td>
 R. 3233-25</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87530,7 +89046,7 @@ Au livre III</td>
 R. 3321-1 et R. 3321-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87544,7 +89060,7 @@ R. 3321-3 et R. 3321-4</td>
 R. 3322-1 et R. 3322-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87552,7 +89068,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3322-3</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87566,7 +89082,7 @@ R. 3322-4</td>
 R. 3322-5 à R. 3322-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87574,7 +89090,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3323-1</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87594,7 +89110,7 @@ R. 3411-1 à R. 3411-6</td>
 R. 3411-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87614,7 +89130,7 @@ R. 3411-21 à R. 3411-24</td>
 R. 3411-25</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87628,7 +89144,7 @@ R. 3411-26 à R. 3411-32</td>
 R. 3411-33</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87648,7 +89164,7 @@ R. 3411-45 et R. 3411-46</td>
 R. 3411-47</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87662,7 +89178,7 @@ R. 3411-49 à R. 3411-52</td>
 R. 3411-53</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87676,7 +89192,7 @@ R. 3411-55 et R. 3411-56</td>
 R. 3411-57 à R. 3411-62</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87690,7 +89206,7 @@ R. 3411-63</td>
 R. 3411-64 à R. 3411-67</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87698,7 +89214,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-74</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87712,7 +89228,7 @@ R. 3411-75</td>
 R. 3411-76</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87720,7 +89236,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-77</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87728,7 +89244,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-79 et R. 3411-80</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87742,7 +89258,7 @@ R. 3411-81</td>
 R. 3411-82</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87750,7 +89266,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-83</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87758,7 +89274,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-85</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87772,7 +89288,7 @@ R. 3411-86 et R. 3411-87</td>
 R. 3411-88 à R. 3411-118</td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+Résultant du décret n° 2016-1427 du 21 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -87786,7 +89302,7 @@ R. 3412-1 à R. 3412-5</td>
 R. 3412-6</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87800,7 +89316,7 @@ R. 3412-7 à R. 3412-13</td>
 R. 3412-14</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -87808,7 +89324,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3412-15</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -87822,7 +89338,7 @@ R. 3412-16</td>
 R. 3412-17</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87830,7 +89346,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3412-18</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87838,7 +89354,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3412-19</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87852,7 +89368,7 @@ R. 3412-20 à R. 3413-7</td>
 R. 3413-8</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87866,7 +89382,7 @@ R. 3413-9</td>
 R. 3413-10</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87880,7 +89396,7 @@ R. 3413-11 à R. 3413-15</td>
 R. 3413-16</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87894,7 +89410,7 @@ R. 3413-17 à R. 3413-42</td>
 R. 3413-43</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87908,7 +89424,7 @@ R. 3413-44</td>
 R. 3413-45</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87922,7 +89438,7 @@ R. 3413-46 à R. 3413-49</td>
 R. 3413-50</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87936,7 +89452,7 @@ R. 3413-51 à R. 3413-69</td>
 R. 3413-70</td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -87950,7 +89466,7 @@ R. 3413-71 et R. 3413-72</td>
 R. 3413-73</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87964,7 +89480,7 @@ R. 3413-74 à R. 3413-77</td>
 R. 3413-78</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87978,7 +89494,7 @@ R. 3413-79 à R. 3413-102</td>
 R. 3413-103</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -87992,7 +89508,7 @@ R. 3413-104 à R. 3413-115</td>
 R. 3414-1</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88000,7 +89516,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88014,7 +89530,7 @@ R. 3414-3</td>
 R. 3414-4</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88022,7 +89538,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-5</td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014 </td>
+Résultant du décret n° 2014-394 du 31 mars 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88030,7 +89546,7 @@ Résultant du décret n° 2014-394 du 31 mars 2014 </td>
 R. 3414-6</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88044,7 +89560,7 @@ R. 3414-7 et R. 3414-8</td>
 R. 3414-9 et R. 3414-10</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88058,7 +89574,7 @@ R. 3414-12 et R. 3414-13</td>
 R. 3414-14 à R. 3414-19</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88072,7 +89588,7 @@ R. 3414-20</td>
 R. 3414-21</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88086,7 +89602,7 @@ R. 3414-24 et R. 3414-25</td>
 R. 3414-26</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -88100,7 +89616,7 @@ R. 3414-27 à R. 3415-11</td>
 R. 3415-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88114,7 +89630,7 @@ R. 3415-14 et R. 3415-15</td>
 R. 3415-16 et R. 3415-17</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88128,7 +89644,7 @@ R. 3416-1 à R. 3416-11</td>
 R. 3416-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88142,7 +89658,7 @@ R. 3416-13 à R. 3416-18</td>
 R. 3416-19</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88156,7 +89672,7 @@ R. 3416-20 à R. 3416-22</td>
 R. 3416-23</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88170,7 +89686,7 @@ R. 3416-26 à R. 3417-2</td>
 R. 3417-3 à R. 3417-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88184,7 +89700,7 @@ R. 3417-6</td>
 R. 3417-7</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88192,7 +89708,7 @@ Résultant du décret n° 2015-690 du 18 juin 2015 </td>
 R. 3417-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88206,7 +89722,7 @@ R. 3417-9 à R. 3417-11</td>
 R. 3417-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88220,7 +89736,7 @@ R. 3417-13</td>
 R. 3417-14</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88234,7 +89750,7 @@ R. 3417-15</td>
 R. 3417-16 à R. 3417-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88248,7 +89764,7 @@ R. 3417-23</td>
 R. 3417-24</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88262,7 +89778,7 @@ R. 3417-25</td>
 R. 3417-27 à R. 3417-31</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88276,7 +89792,7 @@ R. 3417-32</td>
 R. 3418-1 à R. 3418-11</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88284,7 +89800,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3421-1 à R. 3421-6</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88292,7 +89808,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88300,7 +89816,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-8</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88308,7 +89824,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-9</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88316,7 +89832,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-10</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88330,7 +89846,7 @@ R. 3421-11 à R. 3421-13</td>
 R. 3421-14</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88338,7 +89854,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3422-1 à R. 3422-23</td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010 </td>
+Résultant du décret n° 2010-7 du 5 janvier 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -88352,7 +89868,7 @@ R. 3423-1 à R. 3423-3</td>
 R. 3423-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -88366,7 +89882,7 @@ R. 3423-5 à R. 3423-8</td>
 R. 3423-9</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88380,7 +89896,7 @@ R. 3423-10 à R. 3423-12</td>
 R. 3423-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88394,7 +89910,7 @@ R. 3423-14 à R. 3423-17</td>
 R. 3423-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -88408,7 +89924,7 @@ R. 3423-19 à R. 3423-22</td>
 R. 3423-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -88422,7 +89938,7 @@ R. 3423-24 et R. 3423-25</td>
 R. 3423-26</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88436,7 +89952,7 @@ R. 3423-28</td>
 R. 3423-29</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -88465,7 +89981,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cité par**:
 
@@ -88478,12 +89994,455 @@ R. 3423-31 à R. 3423-35</td>
 
 ###### Article D3551-4
 
-Sont applicables en Polynésie française les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D.
-3222-11 et D. 3222-12, 
-D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction résultant du décret n° 2008-1219 du 25 novembre 2008 :
 
-Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
-2017.
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-6 à D. 3121-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-10 et D. 3121-11</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-14-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-15 et D. 3121-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-17</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-18 à D. 3121-21</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-22</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-23</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-320 du 10 mars 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-27 à D. 3121-29</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-30</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-31 et D. 3121-32</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-4 à D. 3122-7</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-8 et D. 3122-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-10 et D. 3122-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-12, D. 3122-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1727 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-1 à D. 3123-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-7</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-9 et D. 3123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-11</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-361 du 25 mars 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-12, D. 3123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-82 du 26 janvier 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-15 et D. 3123-16</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-18</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-19 et D. 3123-20</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-1, D. 3124-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-4 et D. 3124-5</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-7 à D. 3124-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-1 à D. 3126-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2012-1391 du 11 décembre 2012 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-5 et D. 3126-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-7</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-8 à D. 3126-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-10 et D. 3126-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-13 et D. 3126-14</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre II</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3222-11 et D. 3222-12</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3222-19 à D. 3222-22</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-7 à D. 3223-45</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-51 à D. 3223-53</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-505 du 9 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-55</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3232-1 à D. 3232-7</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3232-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-258 du 4 mars 2015 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -88500,27 +90459,120 @@ Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction r
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 11
+	  - Décret n°2017-745 du 4 mai 2017 - art. 5
 
 
 ###### Article R*3551-1
 
-Sont applicables en Polynésie française les articles R. * 3111-1 à R. * 3111-3, 
-R. * 3121-1 à R. * 3121-5, R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction issue du décret n° 2008-1218 du 25 novembre 2008 :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3111-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-3 à R. * 3121-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-26</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-88 du 30 janvier 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-3</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
+	  - Décret n°2017-743 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. D3121-26 (V)
-	  - Code de la défense. - art. R*3111-1 (V)
-	  - Code de la défense. - art. R*3121-1 (V)
-	  - Code de la défense. - art. R*3311-1 (V)
-	  - Code de la défense. - art. R3121-25 (V)
+	  - Code de la défense. - art. D3121-26
+	  - Code de la défense. - art. R*3111-1
+	  - Code de la défense. - art. R*3121-1
+	  - Code de la défense. - art. R*3311-1
+	  - Code de la défense. - art. R3121-25
 
 
 ###### Article R3551-2
@@ -88568,7 +90620,7 @@ Au livre 1er</td>
 R. 3125-1</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88582,7 +90634,7 @@ R. 3125-2 et R. 3125-3</td>
 R. 3125-4 et R. 3125-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88596,7 +90648,7 @@ R. 3125-6 à R. 3125-8</td>
 R. 3125-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88610,7 +90662,7 @@ R. 3125-10 et R. 3125-11</td>
 R. 3125-12 et R. 3125-13</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88624,7 +90676,7 @@ R. 3125-14 et R. 3125-15</td>
 R. 3125-16 à R. 3125-18</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88638,7 +90690,7 @@ R. 3125-19</td>
 R. 3125-20</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88652,7 +90704,7 @@ R. 3125-21</td>
 R. 3125-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88666,7 +90718,7 @@ R. 3125-23</td>
 R. 3125-24 à R. 3125-26</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88687,6 +90739,14 @@ Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 3211-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
       <td align="left">
 
 R. 3222-1 et R. 3222-2</td>
@@ -88698,14 +90758,13 @@ R. 3222-1 et R. 3222-2</td>
 R. 3222-3</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
-</td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88713,7 +90772,7 @@ R. 3222-4</td>
 R. 3222-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88727,7 +90786,7 @@ R. 3222-6</td>
 R. 3222-8 et R. 3222-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88741,7 +90800,7 @@ R. 3222-10</td>
 R. 3222-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88755,7 +90814,7 @@ R. 3222-14</td>
 R. 3222-15 et R. 3222-16</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88775,7 +90834,7 @@ R. 3223-1 à R. 3223-6</td>
 R. 3223-46</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -88783,7 +90842,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-47</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88791,7 +90850,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3223-48 à R. 3223-50</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -88799,7 +90858,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-56</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88819,7 +90878,7 @@ R. 3223-60</td>
 R. 3223-61</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -88833,7 +90892,7 @@ R. 3224-1 à R. 3224-7</td>
 R. 3224-8</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88853,7 +90912,7 @@ R. 3225-1 à R. 3225-3</td>
 R. 3225-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1718 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -88873,7 +90932,7 @@ R. 3225-6 et R. 3225-7</td>
 R. 3225-8 et R. 3225-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88881,7 +90940,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3225-10</td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
+Résultant du décret n° 2010-773 du 8 juillet 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -88889,7 +90948,7 @@ Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
 R. 3231-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88903,7 +90962,7 @@ R. 3231-2</td>
 R. 3231-3 et R. 3231-4</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88917,7 +90976,7 @@ R. 3231-5</td>
 R. 3231-6</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88931,7 +90990,7 @@ R. 3231-7 à R 3231-9</td>
 R. 3231-9-1 à R. 3231-11</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88939,7 +90998,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3231-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88947,7 +91006,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-1 à R. 3232-2-3</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -88955,7 +91014,7 @@ Résultant du décret n° 2017-391 du 23 mars 2017 </td>
 R. 3232-3 à R. 3232-7</td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -88963,7 +91022,7 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
 R. 3232-8</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88971,7 +91030,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-9</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -88979,7 +91038,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3232-10</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -88993,7 +91052,7 @@ R. 3233-1</td>
 R. 3233-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89007,7 +91066,7 @@ R. 3233-3</td>
 R. 3233-4</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89015,7 +91074,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3233-5</td>
       <td align="left">
 
-Résultant du décret n° 2016-1120 du 11 août 2016 </td>
+Résultant du décret n° 2016-1120 du 11 août 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -89023,7 +91082,7 @@ Résultant du décret n° 2016-1120 du 11 août 2016 </td>
 R. 3233-6 à R. 3233-9</td>
       <td align="left">
 
-Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
+Résultant du décret n° 2010-1238 du 20 octobre 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -89031,7 +91090,7 @@ Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
 R. 3233-9-1</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89045,7 +91104,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89059,7 +91118,7 @@ R. 3233-14 à R. 3233-18</td>
 R. 3233-19</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89067,7 +91126,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3233-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89081,7 +91140,7 @@ R. 3233-21</td>
 R. 3233-22 et R. 3233-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89089,7 +91148,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3233-24</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89097,7 +91156,7 @@ Résultant du décret n° 2014-480 du 13 mai 2014 </td>
 R. 3233-25</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89117,7 +91176,7 @@ Au livre III</td>
 R. 3321-1 et R. 3321-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89131,7 +91190,7 @@ R. 3321-3 et R. 3321-4</td>
 R. 3322-1 et R. 3322-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89139,7 +91198,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3322-3</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89153,7 +91212,7 @@ R. 3322-4</td>
 R. 3322-5 à R. 3322-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89161,7 +91220,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3323-1</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89181,7 +91240,7 @@ R. 3411-1 à R. 3411-6</td>
 R. 3411-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89201,7 +91260,7 @@ R. 3411-21 à R. 3411-24</td>
 R. 3411-25</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89215,7 +91274,7 @@ R. 3411-26 à R. 3411-32</td>
 R. 3411-33</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89235,7 +91294,7 @@ R. 3411-45 et R. 3411-46</td>
 R. 3411-47</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89249,7 +91308,7 @@ R. 3411-49 à R. 3411-52</td>
 R. 3411-53</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89263,7 +91322,7 @@ R. 3411-55 et R. 3411-56</td>
 R. 3411-57 à R. 3411-62</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89277,7 +91336,7 @@ R. 3411-63</td>
 R. 3411-64 à R. 3411-67</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89285,7 +91344,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-74</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89299,7 +91358,7 @@ R. 3411-75</td>
 R. 3411-76</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89307,7 +91366,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-77</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89315,7 +91374,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-79 et R. 3411-80</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89329,7 +91388,7 @@ R. 3411-81</td>
 R. 3411-82</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89337,7 +91396,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-83</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89345,7 +91404,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-85</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89359,7 +91418,7 @@ R. 3411-86 et R. 3411-87</td>
 R. 3411-88 à R. 3411-118</td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+Résultant du décret n° 2016-1427 du 21 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -89373,7 +91432,7 @@ R. 3412-1 à R. 3412-5</td>
 R. 3412-6</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89387,7 +91446,7 @@ R. 3412-7 à R. 3412-13</td>
 R. 3412-14</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89395,7 +91454,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3412-15</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89409,7 +91468,7 @@ R. 3412-16</td>
 R. 3412-17</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89417,7 +91476,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3412-18</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89425,7 +91484,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3412-19</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89439,7 +91498,7 @@ R. 3412-20 à R. 3413-7</td>
 R. 3413-8</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89453,7 +91512,7 @@ R. 3413-9</td>
 R. 3413-10</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89467,7 +91526,7 @@ R. 3413-11 à R. 3413-15</td>
 R. 3413-16</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89481,7 +91540,7 @@ R. 3413-17 à R. 3413-42</td>
 R. 3413-43</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89495,7 +91554,7 @@ R. 3413-44</td>
 R. 3413-45</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89509,7 +91568,7 @@ R. 3413-46 à R. 3413-49</td>
 R. 3413-50</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89523,7 +91582,7 @@ R. 3413-51 à R. 3413-69</td>
 R. 3413-70</td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89537,7 +91596,7 @@ R. 3413-71 et R. 3413-72</td>
 R. 3413-73</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89551,7 +91610,7 @@ R. 3413-74 à R. 3413-77</td>
 R. 3413-78</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89565,7 +91624,7 @@ R. 3413-79 à R. 3413-102</td>
 R. 3413-103</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89579,7 +91638,7 @@ R. 3413-104 à R. 3413-115</td>
 R. 3414-1</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89587,7 +91646,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89601,7 +91660,7 @@ R. 3414-3</td>
 R. 3414-4</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89609,7 +91668,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-5</td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014 </td>
+Résultant du décret n° 2014-394 du 31 mars 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89617,7 +91676,7 @@ Résultant du décret n° 2014-394 du 31 mars 2014 </td>
 R. 3414-6</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89631,7 +91690,7 @@ R. 3414-7 et R. 3414-8</td>
 R. 3414-9 et R. 3414-10</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89645,7 +91704,7 @@ R. 3414-12 et R. 3414-13</td>
 R. 3414-14 à R. 3414-19</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89659,7 +91718,7 @@ R. 3414-20</td>
 R. 3414-21</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89673,7 +91732,7 @@ R. 3414-24 et R. 3414-25</td>
 R. 3414-26</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -89687,7 +91746,7 @@ R. 3414-27 à R. 3415-11</td>
 R. 3415-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89701,7 +91760,7 @@ R. 3415-14 et R. 3415-15</td>
 R. 3415-16 et R. 3415-17</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89715,7 +91774,7 @@ R. 3416-1 à R. 3416-11</td>
 R. 3416-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89729,7 +91788,7 @@ R. 3416-13 à R. 3416-18</td>
 R. 3416-19</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89743,7 +91802,7 @@ R. 3416-20 à R. 3416-22</td>
 R. 3416-23</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89757,7 +91816,7 @@ R. 3416-26 à R. 3417-2</td>
 R. 3417-3 à R. 3417-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89771,7 +91830,7 @@ R. 3417-6</td>
 R. 3417-7</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89779,7 +91838,7 @@ Résultant du décret n° 2015-690 du 18 juin 2015 </td>
 R. 3417-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89793,7 +91852,7 @@ R. 3417-9 à R. 3417-11</td>
 R. 3417-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89807,7 +91866,7 @@ R. 3417-13</td>
 R. 3417-14</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89821,7 +91880,7 @@ R. 3417-15</td>
 R. 3417-16 à R. 3417-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89835,7 +91894,7 @@ R. 3417-23</td>
 R. 3417-24</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89849,7 +91908,7 @@ R. 3417-25</td>
 R. 3417-27 à R. 3417-31</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -89863,7 +91922,7 @@ R. 3417-32</td>
 R. 3418-1 à R. 3418-11</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89871,7 +91930,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3421-1 à R. 3421-6</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -89879,7 +91938,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89887,7 +91946,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-8</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -89895,7 +91954,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-9</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -89903,7 +91962,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-10</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -89917,7 +91976,7 @@ R. 3421-11 à R. 3421-13</td>
 R. 3421-14</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -89925,7 +91984,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3422-1 à R. 3422-23</td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010 </td>
+Résultant du décret n° 2010-7 du 5 janvier 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -89939,7 +91998,7 @@ R. 3423-1 à R. 3423-3</td>
 R. 3423-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89953,7 +92012,7 @@ R. 3423-5 à R. 3423-8</td>
 R. 3423-9</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -89967,7 +92026,7 @@ R. 3423-10 à R. 3423-12</td>
 R. 3423-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -89981,7 +92040,7 @@ R. 3423-14 à R. 3423-17</td>
 R. 3423-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -89995,7 +92054,7 @@ R. 3423-19 à R. 3423-22</td>
 R. 3423-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90009,7 +92068,7 @@ R. 3423-24 et R. 3423-25</td>
 R. 3423-26</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90023,7 +92082,7 @@ R. 3423-28</td>
 R. 3423-29</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90052,7 +92111,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cité par**:
 
@@ -90065,12 +92124,455 @@ R. 3423-31 à R. 3423-35</td>
 
 ###### Article D3561-4
 
-Sont applicables en Nouvelle-Calédonie les dispositions des D. 3121-6 à D. 3124-11, D. 3126-1 à D. 3126-14, D. 3222-11 et D.
-3222-12, 
-D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D. 3232-8. 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur
+rédaction résultant du décret n° 2008-1219 du 25 novembre 2008 :
 
-Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
-2017.
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-6 à D. 3121-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-10 et D. 3121-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-14-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-15 et D. 3121-16</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-17</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-18 à D. 3121-21</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-22</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-23</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-320 du 10 mars 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-24-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-27 à D. 3121-29</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-30</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3121-31 et D. 3121-32</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-4 à D. 3122-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-8 et D. 3122-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-10 et D. 3122-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3122-12, D. 3122-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1727 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-1 à D. 3123-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-9 et D. 3123-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-11</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-361 du 25 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-12, D. 3123-13</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-14</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-82 du 26 janvier 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-15 et D. 3123-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-18</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3123-19 et D. 3123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-1, D. 3124-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-4 et D. 3124-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3124-7 à D. 3124-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-1 à D. 3126-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1391 du 11 décembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-5 et D. 3126-6</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-8 à D. 3126-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-10 et D. 3126-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-12</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3126-13 et D. 3126-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3222-11 et D. 3222-12</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3222-19 à D. 3222-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-7 à D. 3223-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-51 à D. 3223-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-54</td>
+      <td align="justify">
+
+Résultant du décret n° 2011-505 du 9 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3223-55</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+D. 3232-1 à D. 3232-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+D. 3232-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-258 du 4 mars 2015 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -90087,19 +92589,112 @@ Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction r
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 11
+	  - Décret n°2017-745 du 4 mai 2017 - art. 5
 
 
 ###### Article R*3561-1
 
-Sont applicables en Nouvelle-Calédonie les articles R. * 3111-1 à R. * 3111-3, R. * 3121-1 à R. * 3121-5, R. * 3121-25, R. *
-3121-26, R. * 3311-1 à R. * 3311-3.
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur
+rédaction issue du décret n° 2008-1218 du 25 novembre 2008 :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3111-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-3 à R. * 3121-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-26</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-88 du 30 janvier 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-3</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
+	  - Décret n°2017-743 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -90154,7 +92749,7 @@ Au livre 1er</td>
 R. 3125-1</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90168,7 +92763,7 @@ R. 3125-2 et R. 3125-3</td>
 R. 3125-4 et R. 3125-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90182,7 +92777,7 @@ R. 3125-6 à R. 3125-8</td>
 R. 3125-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90196,7 +92791,7 @@ R. 3125-10 et R. 3125-11</td>
 R. 3125-12 et R. 3125-13</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90210,7 +92805,7 @@ R. 3125-14 et R. 3125-15</td>
 R. 3125-16 à R. 3125-18</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90224,7 +92819,7 @@ R. 3125-19</td>
 R. 3125-20</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90238,21 +92833,21 @@ R. 3125-21</td>
 R. 3125-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 3125-23</td>
-      <td align="left">
-    </td></tr>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
     <tr>
       <td align="left">
 
 R. 3125-24 à R. 3125-26</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90273,6 +92868,14 @@ Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 3211-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
       <td align="left">
 
 R. 3222-1 et R. 3222-2</td>
@@ -90284,14 +92887,13 @@ R. 3222-1 et R. 3222-2</td>
 R. 3222-3</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
-</td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90299,7 +92901,7 @@ R. 3222-4</td>
 R. 3222-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90313,7 +92915,7 @@ R. 3222-6</td>
 R. 3222-8 et R. 3222-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90327,7 +92929,7 @@ R. 3222-10</td>
 R. 3222-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90341,7 +92943,7 @@ R. 3222-14</td>
 R. 3222-15 et R. 3222-16</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90361,7 +92963,7 @@ R. 3223-1 à R. 3223-6</td>
 R. 3223-46</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -90369,7 +92971,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-47</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90377,7 +92979,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3223-48 à R. 3223-50</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -90385,7 +92987,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-56</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90405,7 +93007,7 @@ R. 3223-60</td>
 R. 3223-61</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -90419,7 +93021,7 @@ R. 3224-1 à R. 3224-7</td>
 R. 3224-8</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90439,7 +93041,7 @@ R. 3225-1 à R. 3225-3</td>
 R. 3225-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1718 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90459,7 +93061,7 @@ R. 3225-6 et R. 3225-7</td>
 R. 3225-8 et R. 3225-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90467,7 +93069,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3225-10</td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
+Résultant du décret n° 2010-773 du 8 juillet 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -90475,7 +93077,7 @@ Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
 R. 3231-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90489,7 +93091,7 @@ R. 3231-2</td>
 R. 3231-3 et R. 3231-4</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90503,7 +93105,7 @@ R. 3231-5</td>
 R. 3231-6</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90517,7 +93119,7 @@ R. 3231-7 à R 3231-9</td>
 R. 3231-9-1 à R. 3231-11</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90525,7 +93127,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3231-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90533,7 +93135,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-1 à R. 3232-2-3</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -90541,7 +93143,7 @@ Résultant du décret n° 2017-391 du 23 mars 2017 </td>
 R. 3232-3 à R. 3232-7</td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90549,7 +93151,7 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
 R. 3232-8</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90557,7 +93159,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-9</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90565,7 +93167,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3232-10</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90579,7 +93181,7 @@ R. 3233-1</td>
 R. 3233-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90593,7 +93195,7 @@ R. 3233-3</td>
 R. 3233-4</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90601,7 +93203,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3233-5</td>
       <td align="left">
 
-Résultant du décret n° 2016-1120 du 11 août 2016 </td>
+Résultant du décret n° 2016-1120 du 11 août 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -90609,7 +93211,7 @@ Résultant du décret n° 2016-1120 du 11 août 2016 </td>
 R. 3233-6 à R. 3233-9</td>
       <td align="left">
 
-Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
+Résultant du décret n° 2010-1238 du 20 octobre 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -90617,7 +93219,7 @@ Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
 R. 3233-9-1</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90631,7 +93233,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90645,7 +93247,7 @@ R. 3233-14 à R. 3233-18</td>
 R. 3233-19</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90653,7 +93255,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3233-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90667,7 +93269,7 @@ R. 3233-21</td>
 R. 3233-22 et R. 3233-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90675,7 +93277,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3233-24</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90683,7 +93285,7 @@ Résultant du décret n° 2014-480 du 13 mai 2014 </td>
 R. 3233-25</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90703,7 +93305,7 @@ Au livre III</td>
 R. 3321-1 et R. 3321-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90717,7 +93319,7 @@ R. 3321-3 et R. 3321-4</td>
 R. 3322-1 et R. 3322-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90725,7 +93327,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3322-3</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90739,7 +93341,7 @@ R. 3322-4</td>
 R. 3322-5 à R. 3322-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90747,7 +93349,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3323-1</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -90767,7 +93369,7 @@ R. 3411-1 à R. 3411-6</td>
 R. 3411-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90787,7 +93389,7 @@ R. 3411-21 à R. 3411-24</td>
 R. 3411-25</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90801,7 +93403,7 @@ R. 3411-26 à R. 3411-32</td>
 R. 3411-33</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90821,7 +93423,7 @@ R. 3411-45 et R. 3411-46</td>
 R. 3411-47</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90835,7 +93437,7 @@ R. 3411-49 à R. 3411-52</td>
 R. 3411-53</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90849,7 +93451,7 @@ R. 3411-55 et R. 3411-56</td>
 R. 3411-57 à R. 3411-62</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90863,7 +93465,7 @@ R. 3411-63</td>
 R. 3411-64 à R. 3411-67</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90871,7 +93473,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-74</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90885,7 +93487,7 @@ R. 3411-75</td>
 R. 3411-76</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90893,7 +93495,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-77</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90901,7 +93503,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-79 et R. 3411-80</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90915,7 +93517,7 @@ R. 3411-81</td>
 R. 3411-82</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90931,7 +93533,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
 R. 3411-85</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -90945,7 +93547,7 @@ R. 3411-86 et R. 3411-87</td>
 R. 3411-88 à R. 3411-118</td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+Résultant du décret n° 2016-1427 du 21 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -90959,7 +93561,7 @@ R. 3412-1 à R. 3412-5</td>
 R. 3412-6</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90973,7 +93575,7 @@ R. 3412-7 à R. 3412-13</td>
 R. 3412-14</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -90981,7 +93583,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3412-15</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -90995,7 +93597,7 @@ R. 3412-16</td>
 R. 3412-17</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91003,7 +93605,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3412-18</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91011,7 +93613,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3412-19</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91025,7 +93627,7 @@ R. 3412-20 à R. 3413-7</td>
 R. 3413-8</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91039,7 +93641,7 @@ R. 3413-9</td>
 R. 3413-10</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91053,7 +93655,7 @@ R. 3413-11 à R. 3413-15</td>
 R. 3413-16</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91067,7 +93669,7 @@ R. 3413-17 à R. 3413-42</td>
 R. 3413-43</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91081,7 +93683,7 @@ R. 3413-44</td>
 R. 3413-45</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91095,7 +93697,7 @@ R. 3413-46 à R. 3413-49</td>
 R. 3413-50</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91109,7 +93711,7 @@ R. 3413-51 à R. 3413-69</td>
 R. 3413-70</td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91123,7 +93725,7 @@ R. 3413-71 et R. 3413-72</td>
 R. 3413-73</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91137,7 +93739,7 @@ R. 3413-74 à R. 3413-77</td>
 R. 3413-78</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91151,7 +93753,7 @@ R. 3413-79 à R. 3413-102</td>
 R. 3413-103</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91165,7 +93767,7 @@ R. 3413-104 à R. 3413-115</td>
 R. 3414-1</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91173,7 +93775,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91187,7 +93789,7 @@ R. 3414-3</td>
 R. 3414-4</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91195,7 +93797,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-5</td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014 </td>
+Résultant du décret n° 2014-394 du 31 mars 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91203,7 +93805,7 @@ Résultant du décret n° 2014-394 du 31 mars 2014 </td>
 R. 3414-6</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91217,7 +93819,7 @@ R. 3414-7 et R. 3414-8</td>
 R. 3414-9 et R. 3414-10</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91231,7 +93833,7 @@ R. 3414-12 et R. 3414-13</td>
 R. 3414-14 à R. 3414-19</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91245,7 +93847,7 @@ R. 3414-20</td>
 R. 3414-21</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91259,7 +93861,7 @@ R. 3414-24 et R. 3414-25</td>
 R. 3414-26</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -91273,7 +93875,7 @@ R. 3414-27 à R. 3415-11</td>
 R. 3415-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91287,7 +93889,7 @@ R. 3415-14 et R. 3415-15</td>
 R. 3415-16 et R. 3415-17</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91301,7 +93903,7 @@ R. 3416-1 à R. 3416-11</td>
 R. 3416-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91315,7 +93917,7 @@ R. 3416-13 à R. 3416-18</td>
 R. 3416-19</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91329,7 +93931,7 @@ R. 3416-20 à R. 3416-22</td>
 R. 3416-23</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91343,7 +93945,7 @@ R. 3416-26 à R. 3417-2</td>
 R. 3417-3 à R. 3417-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91357,7 +93959,7 @@ R. 3417-6</td>
 R. 3417-7</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91365,7 +93967,7 @@ Résultant du décret n° 2015-690 du 18 juin 2015 </td>
 R. 3417-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91379,7 +93981,7 @@ R. 3417-9 à R. 3417-11</td>
 R. 3417-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91393,7 +93995,7 @@ R. 3417-13</td>
 R. 3417-14</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91407,7 +94009,7 @@ R. 3417-15</td>
 R. 3417-16 à R. 3417-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91421,7 +94023,7 @@ R. 3417-23</td>
 R. 3417-24</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91435,7 +94037,7 @@ R. 3417-25</td>
 R. 3417-27 à R. 3417-31</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91449,7 +94051,7 @@ R. 3417-32</td>
 R. 3418-1 à R. 3418-11</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91457,7 +94059,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3421-1 à R. 3421-6</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -91465,7 +94067,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91473,7 +94075,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-8</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -91481,7 +94083,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-9</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91489,7 +94091,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-10</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -91503,7 +94105,7 @@ R. 3421-11 à R. 3421-13</td>
 R. 3421-14</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -91511,7 +94113,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3422-1 à R. 3422-23</td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010 </td>
+Résultant du décret n° 2010-7 du 5 janvier 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -91525,7 +94127,7 @@ R. 3423-1 à R. 3423-3</td>
 R. 3423-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91539,7 +94141,7 @@ R. 3423-5 à R. 3423-8</td>
 R. 3423-9</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -91553,7 +94155,7 @@ R. 3423-10 à R. 3423-12</td>
 R. 3423-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91567,7 +94169,7 @@ R. 3423-14 à R. 3423-17</td>
 R. 3423-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91581,7 +94183,7 @@ R. 3423-19 à R. 3423-22</td>
 R. 3423-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -91595,7 +94197,7 @@ R. 3423-24 et R. 3423-25</td>
 R. 3423-26</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91609,7 +94211,7 @@ R. 3423-28</td>
 R. 3423-29</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -91638,7 +94240,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cité par**:
 
@@ -91651,13 +94253,456 @@ R. 3423-31 à R. 3423-35</td>
 
 ###### Article D3571-4
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les dispositions des articles D. 3121-6 à D. 3124-11, D. 3126-1 à D.
-3126-14, D. 3222-11 et D. 3222-12, D. 3222-19 à D. 3222-22, D. 3223-7 à D. 3223-45, D. 3223-51 à D. 3223-55, D. 3232-1 à D.
-3232-8. 
+Sauf mention contraire dans le tableau ci-après et sous réserve des stipulations du traité sur l'Antarctique publié par le
+décret n° 61-1300 du 30 novembre 1961, les dispositions suivantes sont applicables aux Terres australes et antarctiques
+françaises, dans leur rédaction résultant du décret n° 2008-1219 du 25 novembre 2008 :
 
-Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction résultant du décret n° 2017-320 du 10 mars
-2017.
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-6 à D. 3121-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-10 et D. 3121-11</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-13</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-14-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-15 et D. 3121-16</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-17</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-18 à D. 3121-21</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-22</td>
+        <td align="justify">
+
+Résultant du décret n° 2014-1040 du 11 septembre 2014 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-23</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-320 du 10 mars 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-4 du 2 janvier 2015 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-24-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-27 à D. 3121-29</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-30</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3121-31 et D. 3121-32</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1177 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-1</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-3</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-4 à D. 3122-7</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-8 et D. 3122-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1729 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-10 et D. 3122-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3122-12, D. 3122-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1727 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-1 à D. 3123-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-7</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-9 et D. 3123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-11</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-361 du 25 mars 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-12, D. 3123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-14</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-82 du 26 janvier 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-15 et D. 3123-16</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-18</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3123-19 et D. 3123-20</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-1, D. 3124-2</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-4 et D. 3124-5</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3124-7 à D. 3124-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-1 à D. 3126-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-4</td>
+        <td align="justify">
+
+Résultant du décret n° 2012-1391 du 11 décembre 2012 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-5 et D. 3126-6</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-7</td>
+        <td align="justify">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-8 à D. 3126-9</td>
+        <td align="justify">
+
+Résultant du décret n° 2016-1337 du 7 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-10 et D. 3126-11</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-12</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3126-13 et D. 3126-14</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="center">
+
+Au livre II</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3222-11 et D. 3222-12</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3222-19 à D. 3222-22</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-7 à D. 3223-45</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-51 à D. 3223-53</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-54</td>
+        <td align="justify">
+
+Résultant du décret n° 2011-505 du 9 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3223-55</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="justify">
+
+D. 3232-1 à D. 3232-7</td>
+        <td align="justify">
+
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+D. 3232-8</td>
+        <td align="justify">
+
+Résultant du décret n° 2015-258 du 4 mars 2015 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -91675,15 +94720,107 @@ Les dispositions de l'article D. 3121-24 sont applicables dans leur rédaction r
 
 	**Modifié par**:
 
-	  - Décret n°2017-320 du 10 mars 2017 - art. 11
+	  - Décret n°2017-745 du 4 mai 2017 - art. 5
 
 
 ###### Article R*3571-1
 
-Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961, les articles R. * 3111-1 à R. * 3111-3, 
-R. * 3121-1 à R. * 3121-5, 
-R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
+Sauf mention contraire dans le tableau ci-après et sous réserve des stipulations du traité sur l'Antarctique publié par le
+décret n° 61-1300 du 30 novembre 1961, les dispositions suivantes sont applicables aux Terres australes et antarctiques
+françaises, dans leur rédaction résultant du décret n° 2008-1218 du 25 novembre 2008 :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3111-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-816 du 12 septembre 2013</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2017-743 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-3 à R. * 3121-5</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-25</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3121-26</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-869 du 15 juillet 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-2</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-88 du 30 janvier 2014</td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. * 3311-3</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -91697,7 +94834,7 @@ R. * 3121-25, R. * 3121-26, R. * 3311-1 à R. * 3311-3.
 
 	**Modifié par**:
 
-	  - Décret n°2009-869 du 15 juillet 2009 - art. 4
+	  - Décret n°2017-743 du 4 mai 2017 - art. 4
 
 
 ###### Article R3571-2
@@ -91746,7 +94883,7 @@ Au livre 1er</td>
 R. 3125-1</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91760,7 +94897,7 @@ R. 3125-2 et R. 3125-3</td>
 R. 3125-4 et R. 3125-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91774,7 +94911,7 @@ R. 3125-6 à R. 3125-8</td>
 R. 3125-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91788,7 +94925,7 @@ R. 3125-10 et R. 3125-11</td>
 R. 3125-12 et R. 3125-13</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91802,7 +94939,7 @@ R. 3125-14 et R. 3125-15</td>
 R. 3125-16 à R. 3125-18</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91816,7 +94953,7 @@ R. 3125-19</td>
 R. 3125-20</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91830,7 +94967,7 @@ R. 3125-21</td>
 R. 3125-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91844,7 +94981,7 @@ R. 3125-23</td>
 R. 3125-24 à R. 3125-26</td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+Résultant du décret n° 2015-869 du 15 juillet 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91865,6 +95002,14 @@ Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
+      <td align="left">R. 3211-1</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2</td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </tr>
+    <tr>
       <td align="left">
 
 R. 3222-1 et R. 3222-2</td>
@@ -91876,14 +95021,13 @@ R. 3222-1 et R. 3222-2</td>
 R. 3222-3</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
 
 R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
-</td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -91891,7 +95035,7 @@ R. 3222-4</td>
 R. 3222-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91905,7 +95049,7 @@ R. 3222-6</td>
 R. 3222-8 et R. 3222-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91921,7 +95065,7 @@ Résultant du décret n° 2017-417 du 27 mars 2017</td>
 R. 3222-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91935,7 +95079,7 @@ R. 3222-14</td>
 R. 3222-15 et R. 3222-16</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -91955,7 +95099,7 @@ R. 3223-1 à R. 3223-6</td>
 R. 3223-46</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -91963,7 +95107,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-47</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91971,7 +95115,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3223-48 à R. 3223-50</td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -91979,7 +95123,7 @@ Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
 R. 3223-56</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -91999,7 +95143,7 @@ R. 3223-60</td>
 R. 3223-61</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -92013,7 +95157,7 @@ R. 3224-1 à R. 3224-7</td>
 R. 3224-8</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92033,7 +95177,7 @@ R. 3225-1 à R. 3225-3</td>
 R. 3225-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1718 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92053,7 +95197,7 @@ R. 3225-6 et R. 3225-7</td>
 R. 3225-8 et R. 3225-9</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92061,7 +95205,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3225-10</td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
+Résultant du décret n° 2010-773 du 8 juillet 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -92069,7 +95213,7 @@ Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
 R. 3231-1</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -92083,7 +95227,7 @@ R. 3231-2</td>
 R. 3231-3 et R. 3231-4</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -92097,7 +95241,7 @@ R. 3231-5</td>
 R. 3231-6</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -92111,7 +95255,7 @@ R. 3231-7 à R 3231-9</td>
 R. 3231-9-1 à R. 3231-11</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92119,7 +95263,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3231-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92127,7 +95271,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-1 à R. 3232-2-3</td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017 </td>
+Résultant du décret n° 2017-391 du 23 mars 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -92135,7 +95279,7 @@ Résultant du décret n° 2017-391 du 23 mars 2017 </td>
 R. 3232-3 à R. 3232-7</td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92143,7 +95287,7 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
 R. 3232-8</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92151,7 +95295,7 @@ Résultant du décret n° 2015-258 du 4 mars 2015 </td>
 R. 3232-9</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92159,7 +95303,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3232-10</td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92173,7 +95317,7 @@ R. 3233-1</td>
 R. 3233-2</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92187,7 +95331,7 @@ R. 3233-3</td>
 R. 3233-4</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92195,7 +95339,7 @@ Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
 R. 3233-5</td>
       <td align="left">
 
-Résultant du décret n° 2016-1120 du 11 août 2016 </td>
+Résultant du décret n° 2016-1120 du 11 août 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -92203,7 +95347,7 @@ Résultant du décret n° 2016-1120 du 11 août 2016 </td>
 R. 3233-6 à R. 3233-9</td>
       <td align="left">
 
-Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
+Résultant du décret n° 2010-1238 du 20 octobre 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -92211,7 +95355,7 @@ Résultant du décret n° 2010-1238 du 20 octobre 2010 </td>
 R. 3233-9-1</td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92225,7 +95369,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92239,7 +95383,7 @@ R. 3233-14 à R. 3233-18</td>
 R. 3233-19</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92247,7 +95391,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 3233-20</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92261,7 +95405,7 @@ R. 3233-21</td>
 R. 3233-22 et R. 3233-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92269,7 +95413,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3233-24</td>
       <td align="left">
 
-Résultant du décret n° 2014-480 du 13 mai 2014 </td>
+Résultant du décret n° 2014-480 du 13 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92277,7 +95421,7 @@ Résultant du décret n° 2014-480 du 13 mai 2014 </td>
 R. 3233-25</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92297,7 +95441,7 @@ Au livre III</td>
 R. 3321-1 et R. 3321-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92311,7 +95455,7 @@ R. 3321-3 et R. 3321-4</td>
 R. 3322-1 et R. 3322-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92319,7 +95463,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3322-3</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92333,7 +95477,7 @@ R. 3322-4</td>
 R. 3322-5 à R. 3322-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+Résultant du décret n° 2012-481 du 13 avril 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92341,7 +95485,7 @@ Résultant du décret n° 2012-481 du 13 avril 2012 </td>
 R. 3323-1</td>
       <td align="left">
 
-Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+Résultant du décret n° 2009-1720 du 30 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92361,7 +95505,7 @@ R. 3411-1 à R. 3411-6</td>
 R. 3411-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92381,7 +95525,7 @@ R. 3411-21 à R. 3411-24</td>
 R. 3411-25</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92395,7 +95539,7 @@ R. 3411-26 à R. 3411-32</td>
 R. 3411-33</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92415,7 +95559,7 @@ R. 3411-45 et R. 3411-46</td>
 R. 3411-47</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92429,7 +95573,7 @@ R. 3411-49 à R. 3411-52</td>
 R. 3411-53</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92443,7 +95587,7 @@ R. 3411-55 et R. 3411-56</td>
 R. 3411-57 à R. 3411-62</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92457,7 +95601,7 @@ R. 3411-63</td>
 R. 3411-64 à R. 3411-67</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92465,7 +95609,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-74</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92479,7 +95623,7 @@ R. 3411-75</td>
 R. 3411-76</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92487,7 +95631,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-77</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92495,7 +95639,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-79 et R. 3411-80</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92509,7 +95653,7 @@ R. 3411-81</td>
 R. 3411-82</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92517,7 +95661,7 @@ Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
 R. 3411-83</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92525,7 +95669,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3411-85</td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92539,7 +95683,7 @@ R. 3411-86 et R. 3411-87</td>
 R. 3411-88 à R. 3411-118</td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+Résultant du décret n° 2016-1427 du 21 octobre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -92553,7 +95697,7 @@ R. 3412-1 à R. 3412-5</td>
 R. 3412-6</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92567,7 +95711,7 @@ R. 3412-7 à R. 3412-13</td>
 R. 3412-14</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92575,7 +95719,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3412-15</td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015 </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92589,7 +95733,7 @@ R. 3412-16</td>
 R. 3412-17</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92597,7 +95741,7 @@ Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
 R. 3412-18</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92605,7 +95749,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3412-19</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92619,7 +95763,7 @@ R. 3412-20 à R. 3413-7</td>
 R. 3413-8</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92633,7 +95777,7 @@ R. 3413-9</td>
 R. 3413-10</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92647,7 +95791,7 @@ R. 3413-11 à R. 3413-15</td>
 R. 3413-16</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92661,7 +95805,7 @@ R. 3413-17 à R. 3413-42</td>
 R. 3413-43</td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92675,7 +95819,7 @@ R. 3413-44</td>
 R. 3413-45</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92689,7 +95833,7 @@ R. 3413-46 à R. 3413-49</td>
 R. 3413-50</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92703,7 +95847,7 @@ R. 3413-51 à R. 3413-69</td>
 R. 3413-70</td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -92717,7 +95861,7 @@ R. 3413-71 et R. 3413-72</td>
 R. 3413-73</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92731,7 +95875,7 @@ R. 3413-74 à R. 3413-77</td>
 R. 3413-78</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92745,7 +95889,7 @@ R. 3413-79 à R. 3413-102</td>
 R. 3413-103</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92759,7 +95903,7 @@ R. 3413-104 à R. 3413-115</td>
 R. 3414-1</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92767,7 +95911,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-2</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92781,7 +95925,7 @@ R. 3414-3</td>
 R. 3414-4</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92789,7 +95933,7 @@ Résultant du décret n° 2011-555 du 20 mai 2011 </td>
 R. 3414-5</td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014 </td>
+Résultant du décret n° 2014-394 du 31 mars 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92797,7 +95941,7 @@ Résultant du décret n° 2014-394 du 31 mars 2014 </td>
 R. 3414-6</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92811,7 +95955,7 @@ R. 3414-7 et R. 3414-8</td>
 R. 3414-9 et R. 3414-10</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92825,7 +95969,7 @@ R. 3414-12 et R. 3414-13</td>
 R. 3414-14 à R. 3414-19</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92839,7 +95983,7 @@ R. 3414-20</td>
 R. 3414-21</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92853,7 +95997,7 @@ R. 3414-24 et R. 3414-25</td>
 R. 3414-26</td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+Résultant du décret n° 2011-555 du 20 mai 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -92867,7 +96011,7 @@ R. 3414-27 à R. 3415-11</td>
 R. 3415-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92881,7 +96025,7 @@ R. 3415-14 et R. 3415-15</td>
 R. 3415-16 et R. 3415-17</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92895,7 +96039,7 @@ R. 3416-1 à R. 3416-11</td>
 R. 3416-12</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92909,7 +96053,7 @@ R. 3416-13 à R. 3416-18</td>
 R. 3416-19</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -92923,7 +96067,7 @@ R. 3416-20 à R. 3416-22</td>
 R. 3416-23</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92937,7 +96081,7 @@ R. 3416-26 à R. 3417-2</td>
 R. 3417-3 à R. 3417-5</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92951,7 +96095,7 @@ R. 3417-6</td>
 R. 3417-7</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92959,7 +96103,7 @@ Résultant du décret n° 2015-690 du 18 juin 2015 </td>
 R. 3417-8</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -92973,7 +96117,7 @@ R. 3417-9 à R. 3417-11</td>
 R. 3417-12</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -92987,7 +96131,7 @@ R. 3417-13</td>
 R. 3417-14</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -93001,7 +96145,7 @@ R. 3417-15</td>
 R. 3417-16 à R. 3417-22</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -93015,7 +96159,7 @@ R. 3417-23</td>
 R. 3417-24</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -93029,7 +96173,7 @@ R. 3417-25</td>
 R. 3417-27 à R. 3417-31</td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+Résultant du décret n° 2015-690 du 18 juin 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -93043,7 +96187,7 @@ R. 3417-32</td>
 R. 3418-1 à R. 3418-11</td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+Résultant du décret n° 2014-562 du 30 mai 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -93051,7 +96195,7 @@ Résultant du décret n° 2014-562 du 30 mai 2014 </td>
 R. 3421-1 à R. 3421-6</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -93059,7 +96203,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-7</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -93067,7 +96211,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-8</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -93075,7 +96219,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3421-9</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -93083,7 +96227,7 @@ Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
 R. 3421-10</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -93097,7 +96241,7 @@ R. 3421-11 à R. 3421-13</td>
 R. 3421-14</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -93105,7 +96249,7 @@ Résultant du décret n° 2013-779 du 27 août 2013 </td>
 R. 3422-1 à R. 3422-23</td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010 </td>
+Résultant du décret n° 2010-7 du 5 janvier 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -93119,7 +96263,7 @@ R. 3423-1 à R. 3423-3</td>
 R. 3423-4</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -93133,7 +96277,7 @@ R. 3423-5 à R. 3423-8</td>
 R. 3423-9</td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013 </td>
+Résultant du décret n° 2013-779 du 27 août 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -93147,7 +96291,7 @@ R. 3423-10 à R. 3423-12</td>
 R. 3423-13</td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
     </tr>
     <tr>
       <td align="left">
@@ -93161,7 +96305,7 @@ R. 3423-14 à R. 3423-17</td>
 R. 3423-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -93175,7 +96319,7 @@ R. 3423-19 à R. 3423-22</td>
 R. 3423-23</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -93189,7 +96333,7 @@ R. 3423-24 et R. 3423-25</td>
 R. 3423-26</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -93203,7 +96347,7 @@ R. 3423-28</td>
 R. 3423-29</td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -93233,7 +96377,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-417 du 27 mars 2017 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cité par**:
 
@@ -93531,7 +96675,7 @@ soit dans des limites géographiques déterminées, soit à l'intérieur du doma
 Tout militaire peut être appelé soit à donner des ordres en tant que chef, soit à en recevoir en tant que subordonné. L'une
 ou l'autre de ces situations comporte les obligations générales suivantes :
 
-1° Membre des armées et des formations rattachées, le militaire doit :
+1° Membre des forces armées et des formations rattachées, le militaire doit :
 
 a) Obéir aux ordres reçus conformément à la loi ;
 
@@ -93542,7 +96686,7 @@ c) Observer les règlements militaires et en accepter les contraintes ;
 d) Respecter les règles de protection du secret et faire preuve de réserve lorsqu'il s'exprime, notamment sur les questions
 de défense ;
 
-e) Prendre soin du matériel et des installations appartenant aux armées et formations rattachées ou placés sous leur
+e) Prendre soin du matériel et des installations appartenant aux forces armées et formations rattachées ou placés sous leur
 responsabilité ;
 
 f) Prêter main-forte aux agents de la force publique si ceux-ci requièrent régulièrement son aide.
@@ -93559,9 +96703,9 @@ d) Se préparer physiquement et moralement au combat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4122-2
@@ -95492,42 +98636,42 @@ gendarmerie nationale, à l'issue d'un congé de reconversion ou d'un congé com
 
 ###### Article R4123-34
 
-Sont assimilés aux militaires involontairement privés d'emploi : 
+Sont assimilés aux militaires involontairement privés d'emploi :
 
 1° Les militaires de carrière radiés des cadres après acceptation par l'autorité compétente du ministère de la défense, ou du
-ministère de l'intérieur pour les militaires de la gendarmerie nationale, de leur démission, pour l'un des motifs suivants : 
+ministère de l'intérieur pour les militaires de la gendarmerie nationale, de leur démission, pour l'un des motifs suivants :
 
 a) Suivre son conjoint ou concubin ou partenaire d'un pacte civil de solidarité qui change de lieu de résidence pour exercer
-un nouvel emploi ; 
+un nouvel emploi ;
 
 b) Se marier ou conclure un pacte civil de solidarité entraînant un changement du lieu de résidence, à condition qu'un délai
 inférieur à deux mois s'écoule entre la date à laquelle la radiation prend effet et la date du mariage ou celle de
-l'enregistrement du pacte civil de solidarité ; 
+l'enregistrement du pacte civil de solidarité ;
 
 c) Changer de lieu de résidence du fait d'une situation où l'intéressé est victime de violences conjugales et pour laquelle
-il justifie avoir déposé plainte auprès du procureur de la République ; 
+il justifie avoir déposé plainte auprès du procureur de la République ;
 
 d) Conclure un ou plusieurs contrats de volontariat de solidarité internationale ou un contrat de volontariat associatif
-d'une durée continue minimale d'un an ; 
+d'une durée continue minimale d'un an ;
 
 e) Créer ou reprendre une entreprise dont l'activité, après avoir donné lieu aux formalités de publicité requises par la loi,
 cesse pour des raisons indépendantes de la volonté du créateur ou du repreneur, dans les conditions prévues par l'accord
 mentionné à l'article R. 4123-30 du code de la défense et sous réserve que l'intéressé n'ait pas été admis au bénéfice de
-l'allocation de chômage après son départ ; 
+l'allocation de chômage après son départ ;
 
 2° Les militaires d'active autres que de carrière dont le contrat a été résilié sur leur demande après agrément du ministre
 de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, ou dénoncé de leur fait pendant
-la période probatoire, pour l'un des motifs mentionnés au 1° du présent article ou pour l'un des motifs suivants : 
+la période probatoire, pour l'un des motifs mentionnés au 1° du présent article ou pour l'un des motifs suivants :
 
-a) Raisons de santé motivant une décision de mise en réforme définitive ; 
+a) Raisons de santé motivant une décision de mise en réforme définitive ;
 
-b) Résiliation de marchés d'entreprise s'il s'agit de maîtres ouvriers ; 
+b) Résiliation de marchés d'entreprise s'il s'agit de maîtres ouvriers ;
 
-c) Réduction de grade prononcée entre la date de signature et la date d'effet du contrat renouvelé ; 
+c) Réduction de grade prononcée entre la date de signature et la date d'effet du contrat renouvelé ;
 
-d) Absence de promotion au grade ou d'acquisition du degré de qualification fixés pour chaque armée ou formation rattachée
-par le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, pour les
-militaires engagés, à l'expiration d'un délai de trois ans de services accomplis après la signature du contrat ; 
+d) Absence de promotion au grade ou d'acquisition du degré de qualification fixés pour chaque force armée ou formation
+rattachée par le ministre de la défense, ou le ministre de l'intérieur pour les militaires de la gendarmerie nationale, pour
+les militaires engagés, à l'expiration d'un délai de trois ans de services accomplis après la signature du contrat ;
 
 e) Impossibilité, non due à l'inaptitude, d'être affecté à un emploi quand l'engagement a été souscrit pour une durée imposée
 par l'éventualité de cet emploi.
@@ -95536,11 +98680,11 @@ par l'éventualité de cet emploi.
 
 	**Modifié par**:
 
-	  - Décret n°2011-72 du 19 janvier 2011 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-30 (V)
+	  - Code de la défense. - art. R4123-30
 
 	**Cité par**:
 
@@ -96713,13 +99857,13 @@ commission et en avise l'auteur du recours.
 
 I. - L'exercice d'un recours devant la commission ne suspend pas l'exécution de l'acte contesté. Toutefois, son auteur peut
 le retirer tant que le ministre compétent ou, le cas échéant, les ministres conjointement compétents n'ont pas statué sur le
-recours. 
+recours.
 
 L'auteur du recours peut y renoncer à tout moment par simple lettre adressée au secrétariat permanent de la commission. Le
-président de la commission en donne acte à l'intéressé. 
+président de la commission en donne acte à l'intéressé.
 
-II. - Pour les militaires des armées et formations rattachées relevant du ministre de la défense, le ministre compétent au
-sens du I est le ministre de la défense. 
+II. - Pour les militaires des forces armées et formations rattachées relevant du ministre de la défense, le ministre
+compétent au sens du I est le ministre de la défense.
 
 Pour les militaires rattachés organiquement à un ministre autre que le ministre de la défense, le ministre compétent ou, le
 cas échéant, les ministres conjointement compétents sont déterminés conformément aux dispositions de la section 2 du présent
@@ -96729,7 +99873,7 @@ chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1716 du 30 décembre 2009 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -96739,20 +99883,21 @@ chapitre.
 ###### Article R4125-5
 
 La commission est présidée par un officier général de la 1re section en activité ou un contrôleur général des armées de la
-1re section en activité. Elle comprend en outre : 
+1re section en activité. Elle comprend en outre :
 
 1° Quatre officiers généraux appartenant respectivement à l'armée de terre, à la marine nationale, à l'armée de l'air et à la
-gendarmerie nationale ; 
+gendarmerie nationale ;
 
-2° Le directeur des ressources humaines du ministère de la défense ou son représentant ; 
+2° Le directeur des ressources humaines du ministère de la défense ou son représentant ;
 
-3° Un officier général ou de rang correspondant représentant l'armée ou la formation rattachée dont relève l'intéressé.
+3° Un officier général ou de rang correspondant représentant la force armée ou la formation rattachée dont relève
+l'intéressé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1716 du 30 décembre 2009 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -97256,8 +100401,9 @@ par l'association professionnelle nationale de militaires au 1er janvier de l'an
 Une association professionnelle nationale de militaires représentative doit, pour pouvoir siéger au Conseil supérieur de la
 fonction militaire, satisfaire à l'ensemble des conditions suivantes : 
 
-1° Les adhérents doivent être issus d'au moins trois forces armées et d'au moins deux formations rattachées disposant d'un
-Conseil de la fonction militaire ; 
+1° Les adhérents doivent être issus d'au moins trois des forces armées mentionnées aux 1° et 2° de l'article L. 3211-1 et
+d'au moins deux des services de soutien mentionnés au dernier alinéa du même article et des formations rattachées mentionnées
+à l'article R. 3211-2, disposant d'un Conseil de la fonction militaire ; 
 
 2° L'effectif total des adhérents doit être égal à un pourcentage minimal de l'effectif total des forces armées et des
 formations rattachées représentées ; 
@@ -97275,15 +100421,20 @@ ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-1043 du 29 juillet 2016 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 21 octobre 2016 - art. 2 (V)
 	  - Arrêté du 21 octobre 2016 - art. 5 (V)
 	  - Code de la défense. - art. R4126-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de la défense. - art. L3211-1
+	  - Code de la défense. - art. R3211-2
 
 
 ##### Sous-section 3 : Détermination des associations représentatives et des associations pouvant siéger au Conseil supérieur de la fonction militaire
@@ -97473,24 +100624,24 @@ Un arrêté du ministre de la défense précise les modalités d'application du 
 
 ###### Article D4131-1
 
-L'organisation des armées et formations rattachées est fondée sur la hiérarchie qui définit la place de chacun et son niveau
-de responsabilité par l'ordre des grades et, dans chaque grade, par l'ordre d'ancienneté. 
+L'organisation des forces armées et formations rattachées est fondée sur la hiérarchie qui définit la place de chacun et son
+niveau de responsabilité par l'ordre des grades et, dans chaque grade, par l'ordre d'ancienneté.
 
 Sous réserve des dispositions des articles D. 4131-3 et D. 4131-4, les militaires dans l'exercice de leur fonction sont
-subordonnés les uns aux autres selon l'ordre hiérarchique. 
+subordonnés les uns aux autres selon l'ordre hiérarchique.
 
 La hiérarchie particulière de chaque corps ainsi que, le cas échéant, sa correspondance avec la hiérarchie générale définie
 par le statut général des militaires sont précisées par le statut particulier de chaque corps.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4131-3 (V)
+	  - Code de la défense. - art. D4131-3
 
 	**Cité par**:
 
@@ -98091,19 +101242,20 @@ militaires infirmiers et techniciens des hôpitaux des armées.
 
 ###### Article R4133-2
 
-Les militaires changeant d'armée, de formation rattachée ou de corps conservent le bénéfice des temps de commandement, de
-responsabilité, de troupe ou de service à la mer effectués. Ils prennent rang, avec leur grade et leur ancienneté de grade,
-après les militaires de même grade et de même ancienneté de grade du corps de l'armée ou de la formation rattachée d'accueil.
+Les militaires changeant de force armée, de formation rattachée ou de corps conservent le bénéfice des temps de commandement,
+de responsabilité, de troupe ou de service à la mer effectués. Ils prennent rang, avec leur grade et leur ancienneté de
+grade, après les militaires de même grade et de même ancienneté de grade du corps de la force armée ou de la formation
+rattachée d'accueil.
 
 Lorsqu'ils sont inscrits au tableau d'avancement de leur corps d'origine, ils sont promus après les militaires de même
-ancienneté de grade du corps de l'armée ou de la formation rattachée d'accueil inscrits au tableau d'avancement pour le même
-grade.
+ancienneté de grade du corps de la force armée ou de la formation rattachée d'accueil inscrits au tableau d'avancement pour
+le même grade.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4133-3
@@ -98128,44 +101280,44 @@ supérieur.
 ###### Article R4133-4
 
 Le militaire de carrière ou le militaire servant en vertu d'un contrat classé dans le personnel navigant peut être admis,
-dans les conditions fixées aux articles R. 4133-5 à R. 4133-9 : 
+dans les conditions fixées aux articles R. 4133-5 à R. 4133-9 :
 
-1° Sur sa demande ou d'office, dans un autre corps de l'armée ou de la formation rattachée à laquelle il appartient. Il peut
-être admis dans ce nouveau corps soit en tant que personnel non navigant, soit en tant que personnel navigant ; 
+1° Sur sa demande ou d'office, dans un autre corps de la force armée ou de la formation rattachée à laquelle il appartient.
+Il peut être admis dans ce nouveau corps soit en tant que personnel non navigant, soit en tant que personnel navigant ;
 
-2° Sur sa demande, dans une armée ou formation rattachée autre que celle à laquelle il appartient. Au sein de cette autre
-armée ou formation rattachée, l'intéressé peut demander à être admis soit en tant que personnel non navigant, soit en tant
-que personnel navigant s'il remplit les conditions de classement dans le personnel navigant de l'armée ou de la formation
-rattachée considérée.
+2° Sur sa demande, dans une force armée ou formation rattachée autre que celle à laquelle il appartient. Au sein de cette
+autre force armée ou formation rattachée, l'intéressé peut demander à être admis soit en tant que personnel non navigant,
+soit en tant que personnel navigant s'il remplit les conditions de classement dans le personnel navigant de la force armée ou
+de la formation rattachée considérée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4133-5 (V)
+	  - Code de la défense. - art. R4133-5
 
 
 #####  Section 2 : Dispositions particulières aux changements sur demande
 
 ###### Article R4133-5
 
-I.-Les changements, sur demande, d'armée, de formation rattachée ou de corps au sein de la même armée ou formation rattachée
-sont prononcés, pour les militaires des armées ou formations rattachées autres que la gendarmerie nationale, par arrêté du
-ministre de la défense après avis de la commission d'avancement du corps, de l'armée ou de la formation rattachée d'accueil,
-prévue à l'article L. 4136-3 ou par les statuts particuliers. 
+I. – Les changements, sur demande, de force armée, de formation rattachée ou de corps au sein de la même force armée ou
+formation rattachée sont prononcés, pour les militaires des forces armées ou formations rattachées autres que la gendarmerie
+nationale, par arrêté du ministre de la défense après avis de la commission d'avancement du corps, de la force armée ou de la
+formation rattachée d'accueil, prévue à l'article L. 4136-3 ou par les statuts particuliers.
 
-II.-Les changements, sur demande, d'armée ou de formation rattachée vers la gendarmerie nationale sont prononcés par arrêté
-conjoint du ministre de la défense et du ministre de l'intérieur, après avis de la commission d'avancement du corps
-d'accueil, prévue à l'article L. 4136-3 ou par les statuts particuliers. 
+II. – Les changements, sur demande, de force armée ou de formation rattachée vers la gendarmerie nationale sont prononcés par
+arrêté conjoint du ministre de la défense et du ministre de l'intérieur, après avis de la commission d'avancement du corps
+d'accueil, prévue à l'article L. 4136-3 ou par les statuts particuliers.
 
-Les changements, sur demande, d'armée ou de formation rattachée des militaires de la gendarmerie nationale vers les armées ou
-d'autres formations rattachées sont prononcés par arrêté conjoint du ministre de la défense et du ministre de l'intérieur,
-après avis de la commission d'avancement du corps d'accueil de l'armée ou de la formation rattachée prévue à l'article L.
-4136-3 ou par les statuts particuliers. 
+Les changements, sur demande, de force armée ou de formation rattachée des militaires de la gendarmerie nationale vers les
+forces armées ou d'autres formations rattachées sont prononcés par arrêté conjoint du ministre de la défense et du ministre
+de l'intérieur, après avis de la commission d'avancement du corps d'accueil de la force armée ou de la formation rattachée
+prévue à l'article L. 4136-3 ou par les statuts particuliers.
 
 Les changements, sur demande, de corps des militaires de la gendarmerie nationale, au sein de la gendarmerie nationale, sont
 prononcés par arrêté du ministre de l'intérieur après avis de la commission d'avancement du corps d'accueil, prévue à
@@ -98175,16 +101327,16 @@ l'article L. 4136-3 ou par les statuts particuliers.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 15
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4136-3 (V)
+	  - Code de la défense. - art. L4136-3
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R4133-4 (V)
-	  - Code de la défense. - art. R4133-6 (M)
+	  - Code de la défense. - art. R4133-6 (V)
 
 
 #####  Section 3 : Dispositions particulières aux changements d'office
@@ -98192,10 +101344,10 @@ l'article L. 4136-3 ou par les statuts particuliers.
 ###### Article R4133-6
 
 Lorsque les changements de corps sur demande intervenus en application de l'article R. 4133-5 ne permettent pas de satisfaire
-les besoins des armées ou formations rattachées, le ministre de la défense procède à des changements d'office de corps au
-sein d'une même armée ou formation rattachée autre que la gendarmerie nationale. 
+les besoins des forces armées ou formations rattachées, le ministre de la défense procède à des changements d'office de corps
+au sein d'une même force armée autre que la gendarmerie nationale ou d'une même formation rattachée.
 
-Pour la gendarmerie nationale, le ministre de l'intérieur procède aux changements d'office de corps. 
+Pour la gendarmerie nationale, le ministre de l'intérieur procède aux changements d'office de corps.
 
 Le militaire ne peut faire l'objet que d'un seul changement d'office de corps au cours de sa carrière.
 
@@ -98203,7 +101355,7 @@ Le militaire ne peut faire l'objet que d'un seul changement d'office de corps au
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 16
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -98212,9 +101364,9 @@ Le militaire ne peut faire l'objet que d'un seul changement d'office de corps au
 
 ###### Article R4133-7
 
-Les militaires ne peuvent faire l'objet d'un changement d'office de corps au sein d'une même armée ou d'une même formation
-rattachée avant d'avoir accompli, dans le corps au titre duquel ils ont été recrutés ou dans le corps auquel ils sont
-rattachés, une durée minimale de six ans pour les officiers et de trois ans pour les sous-officiers et les officiers
+Les militaires ne peuvent faire l'objet d'un changement d'office de corps au sein d'une même force armée ou d'une même
+formation rattachée avant d'avoir accompli, dans le corps au titre duquel ils ont été recrutés ou dans le corps auquel ils
+sont rattachés, une durée minimale de six ans pour les officiers et de trois ans pour les sous-officiers et les officiers
 mariniers.
 
 Ces durées ne sont pas applicables :
@@ -98229,25 +101381,25 @@ constaté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2008-940 du 12 septembre 2008 - art. 15 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
+
 
 ###### Article R4133-8
 
-Les changements d'office de corps au sein d'une même armée ou d'une même formation rattachée sont prononcés après avis d'une
-commission mixte composée des membres de la commission d'avancement du corps d'origine et de la commission d'avancement du
-corps d'accueil prévues à l'article L. 4136-3 ou par les statuts particuliers : 
+Les changements d'office de corps au sein d'une même force armée ou d'une même formation rattachée sont prononcés après avis
+d'une commission mixte composée des membres de la commission d'avancement du corps d'origine et de la commission d'avancement
+du corps d'accueil prévues à l'article L. 4136-3 ou par les statuts particuliers :
 
-1° Par décret du Président de la République, pour les officiers ; 
+1° Par décret du Président de la République, pour les officiers ;
 
-2° Par arrêté du ministre de la défense, pour les sous-officiers des armées et formations rattachées autres que la
-gendarmerie nationale et les officiers mariniers ; 
+2° Par arrêté du ministre de la défense, pour les sous-officiers des forces armées autres que la gendarmerie nationale, les
+sous-officiers des formations rattachées et les officiers mariniers ;
 
 3° Par arrêté du ministre de l'intérieur, pour les sous-officiers de la gendarmerie nationale.
 
@@ -98255,7 +101407,7 @@ gendarmerie nationale et les officiers mariniers ;
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 17
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -98317,15 +101469,15 @@ La notation est traduite :
 des autorités chargées de la notation ;
 
 2° Par des niveaux de valeur ou par des notes chiffrées respectivement déterminés selon une échelle ou selon une cotation
-définie, dans chaque armée ou formation rattachée, en fonction des corps qui la composent.
+définie, dans chaque force armée ou formation rattachée, en fonction des corps qui la composent.
 
 La notation est distincte des propositions pour l'avancement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4135-3
@@ -98365,14 +101517,14 @@ nationale, du ministre de l'intérieur.
 ###### Article R4135-4
 
 Des règles d'harmonisation, assorties de barèmes, quotas ou normes d'appréciations, peuvent être fixées par arrêté du
-ministre de la défense, par armée ou  formation rattachée, ou par arrêté du ministre de l'intérieur pour les militaires de la
-gendarmerie nationale, pour le classement par niveau de valeur ou dans l'attribution des notes chiffrées.
+ministre de la défense, par force armée ou formation rattachée, ou par arrêté du ministre de l'intérieur pour les militaires
+de la gendarmerie nationale, pour le classement par niveau de valeur ou dans l'attribution des notes chiffrées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 19
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4135-5
@@ -98406,7 +101558,7 @@ compter de cet entretien.
 Le militaire prend connaissance de l'ensemble de la notation lorsqu'elle a été arrêtée par l'autorité notant en dernier
 ressort, au plus tard :
 
-1° Avant le début des travaux de notation de l'année suivante, dont la date est fixée par chaque armée ou formation
+1° Avant le début des travaux de notation de l'année suivante, dont la date est fixée par chaque force armée ou formation
 rattachée, si le militaire ne concourt pas pour un avancement de grade au choix ;
 
 2° Avant le début des travaux de la commission d'avancement de son grade pour l'année à venir, si le militaire concourt pour
@@ -98417,9 +101569,9 @@ copie lui est systématiquement remise ; ce formulaire est classé au dossier de
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4135-7
@@ -98476,40 +101628,41 @@ Le militaire ne peut être promu à un grade, une classe ou une catégorie que l
 
 I. - Le militaire ayant accompli au moins quatre années de service bénéficie, pendant la cinquième année de service, d'un
 bilan professionnel de carrière réalisé par le gestionnaire. Les années de scolarité ne sont pas prises en compte dans le
-calcul des années de service pour l'application de la présente disposition. 
+calcul des années de service pour l'application de la présente disposition.
 
 Ce bilan porte notamment sur les compétences et qualifications acquises par le militaire pendant la période considérée, sur
 son expérience professionnelle et sa manière de servir. Le bilan prend également en compte les aspirations professionnelles
-et personnelles du militaire. 
+et personnelles du militaire.
 
-Le militaire peut faire état de ses aspirations soit par écrit, soit à l'occasion d'un entretien avec son gestionnaire. 
+Le militaire peut faire état de ses aspirations soit par écrit, soit à l'occasion d'un entretien avec son gestionnaire.
 
 II. - Le bilan professionnel de carrière du militaire est notifié au militaire dans les deux mois suivant son élaboration. Il
-peut proposer de maintenir le militaire dans son armée et, le cas échéant, dans son arme et sa spécialité. Il peut également
-proposer d'orienter le militaire vers une autre armée ou, le cas échéant, vers une autre spécialité de l'arme ou une autre
-arme. Le bilan peut enfin proposer d'orienter le militaire vers les dispositifs de reconversion professionnelle. 
+peut proposer de maintenir le militaire dans sa force armée ou formation rattachée et, le cas échéant, dans son arme et sa
+spécialité. Il peut également proposer d'orienter le militaire vers une autre force armée ou formation rattachée ou, le cas
+échéant, vers une autre spécialité de l'arme ou une autre arme. Le bilan peut enfin proposer d'orienter le militaire vers les
+dispositifs de reconversion professionnelle.
 
-Dans les cas où le bilan propose une réorientation professionnelle, au sein ou à l'extérieur des armées et formations
-rattachées, le rapport est obligatoirement notifié à l'occasion d'un entretien organisé à cet effet avec le militaire. 
+Dans les cas où le bilan propose une réorientation professionnelle, au sein ou à l'extérieur des forces armées et formations
+rattachées, le rapport est obligatoirement notifié à l'occasion d'un entretien organisé à cet effet avec le militaire.
 
 III. - Le militaire fait ensuite l'objet d'un bilan professionnel de carrière tous les quatre ans, dans les mêmes conditions
 et selon les mêmes modalités.
 
 A titre exceptionnel, sur décision motivée de l'autorité gestionnaire ou sur demande agréée du militaire, le bilan peut être
-effectué au plus tôt un an avant et au plus tard un an après son échéance normale. 
+effectué au plus tôt un an avant et au plus tard un an après son échéance normale.
 
 IV. - Les modalités d'organisation de l'évaluation et de notification du bilan sont fixées par arrêté du ministre de la
 défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-325 du 23 mars 2010 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 1er août 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ##### Chapitre VII : Discipline
@@ -98629,21 +101782,21 @@ compétitions ou examens divers ;
 2° Reconnaître des actes méritoires ;
 
 3° Encourager des recherches ou travaux personnels contribuant soit à l'efficacité ou à l'amélioration du service, soit au
-rayonnement des armées et formations rattachées et au perfectionnement du matériel des armées et formations rattachées.
+rayonnement des états-majors, directions et services et au perfectionnement du matériel utilisé par ceux-ci.
 
 Elles comprennent également le certificat de bonne conduite, destiné à témoigner de la participation à la défense et de la
 valeur des services rendus par les militaires. Ce certificat peut leur être attribué lors de leur retour à la vie civile. Il
-peut être refusé si la conduite du militaire n'a pas, au cours de ses années de services, satisfait aux exigences des armées
-et formations rattachées.
+peut être refusé si la conduite du militaire n'a pas, au cours de ses années de services, satisfait aux exigences des forces
+armées et formations rattachées.
 
 Les soldats ou matelots qui se sont distingués par leur manière de servir et leur instruction militaire peuvent être nommés à
 la distinction de première classe par le commandant de la formation administrative dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4137-7
@@ -98748,24 +101901,6 @@ militaire de premier ou de deuxième niveau.
 	  - Code de justice militaire. - art. L311-13 (V)
 
 
-###### Article R4137-10-1
-
-Dans le présent chapitre, outre le contrôle général des armées, les formations rattachées sont les délégations générales,
-directions générales et directions ainsi que les services interarmées dont l'autorité responsable est chargée, au nom du
-ministre de la défense, de la discipline des militaires relevant statutairement de son autorité. Cette autorité prend les
-mesures et les décisions relevant du présent chapitre à l'encontre des militaires précités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-600 du 3 juin 2010 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 4
-
-
 ###### Article R4137-11
 
 Lorsqu'un élément français est stationné sur un théâtre d'opération extérieur, le ministre de la défense peut, par arrêté,
@@ -98790,8 +101925,8 @@ avec celui d'un autre niveau à l'encontre d'un même militaire.
 
 Lorsque les autorités militaires de premier, deuxième ou troisième niveau ne peuvent exercer leur pouvoir disciplinaire pour
 une durée déterminée, elles sont remplacées par une autorité militaire exerçant ce pouvoir par suppléance. Cette autorité est
-celle qui est prévue par les textes d'organisation de l'armée ou de la formation rattachée. A défaut, c'est le premier des
-subordonnés de cette autorité dans l'ordre hiérarchique qui exerce ce pouvoir.
+celle qui est prévue par les textes d'organisation de la force armée ou de la formation rattachée. A défaut, c'est le premier
+des subordonnés de cette autorité dans l'ordre hiérarchique qui exerce ce pouvoir.
 
 Lorsque l'autorité militaire de premier niveau ne peut définitivement exercer son pouvoir disciplinaire, l'autorité militaire
 de deuxième niveau désigne nominativement l'autorité militaire qui l'exerce par intérim.
@@ -98804,9 +101939,9 @@ précisées par un arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-13
@@ -98926,51 +102061,52 @@ document, une copie de celui-ci lui est remise.
 ###### Article R4137-19
 
 L'exercice du pouvoir disciplinaire à l'encontre des officiers généraux et des autorités militaires de premier, deuxième ou
-troisième niveau relève du ministre de la défense, sous réserve des dispositions de l'article R. 4137-41. 
+troisième niveau relève du ministre de la défense, sous réserve des dispositions de l'article R. 4137-41.
 
 Les fautes ou manquements commis par ces militaires font l'objet d'une demande de sanction motivée qui est transmise au chef
-d'état-major de l'armée dont relève l'intéressé ou à l'autorité correspondante pour les formations rattachées. 
+d'état-major de l'armée dont relève l'intéressé ou à l'autorité correspondante pour les autres forces armées et les
+formations rattachées.
 
-Le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées reçoit le militaire en cause afin
-qu'il puisse s'expliquer sur les faits qui lui sont reprochés. Toutefois, lorsque le militaire est une autorité militaire de
-premier niveau, c'est l'autorité militaire de deuxième niveau dont il relève qui reçoit l'intéressé et lui communique
-l'ensemble des pièces et documents au vu desquels il est envisagé de le sanctionner.
+Le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées reçoit
+le militaire en cause afin qu'il puisse s'expliquer sur les faits qui lui sont reprochés. Toutefois, lorsque le militaire est
+une autorité militaire de premier niveau, c'est l'autorité militaire de deuxième niveau dont il relève qui reçoit l'intéressé
+et lui communique l'ensemble des pièces et documents au vu desquels il est envisagé de le sanctionner.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R4137-20 (M)
+	  - Code de la défense. - art. R4137-20 (V)
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4137-41 (V)
+	  - Code de la défense. - art. R4137-41
 
 
 ###### Article R4137-20
 
-Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées estime qu'une sanction
-disciplinaire du premier groupe à l'encontre des militaires mentionnés à l'article R. 4137-19 est justifiée, il transmet la
-demande de sanction qui lui a été adressée au ministre de la défense. 
+Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées
+estime qu'une sanction disciplinaire du premier groupe à l'encontre des militaires mentionnés à l'article R. 4137-19 est
+justifiée, il transmet la demande de sanction qui lui a été adressée au ministre de la défense.
 
-Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées estime qu'une sanction
-disciplinaire du deuxième groupe est justifiée, il engage, au nom du ministre de la défense, la procédure relative au conseil
-de discipline. 
+Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées
+estime qu'une sanction disciplinaire du deuxième groupe est justifiée, il engage, au nom du ministre de la défense, la
+procédure relative au conseil de discipline.
 
-Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées estime qu'une sanction
-disciplinaire du troisième groupe est justifiée, il transmet la demande de sanction au ministre de la défense ou à l'autorité
-militaire habilitée par lui à cet effet, qui ordonne, s'il y a lieu, la réunion soit d'un conseil d'enquête, soit d'un
-conseil supérieur d'armée ou de formation rattachée siégeant disciplinairement.
+Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées
+estime qu'une sanction disciplinaire du troisième groupe est justifiée, il transmet la demande de sanction au ministre de la
+défense ou à l'autorité militaire habilitée par lui à cet effet, qui ordonne, s'il y a lieu, la réunion soit d'un conseil
+d'enquête, soit d'un conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -99038,36 +102174,36 @@ Tout militaire ou ancien militaire peut demander l'effacement des sanctions disc
 faits constituant des manquements à la probité, aux bonnes mœurs ou à l'honneur ayant donné lieu à un blâme du ministre, à
 des arrêts d'une durée supérieure à trente jours ou à une condamnation pénale inscrite au casier judiciaire numéro deux, du
 deuxième groupe et du retrait d'emploi. Cette demande s'effectue à partir du 1er janvier de la onzième année suivant celle au
-cours de laquelle elles ont été prononcées. 
+cours de laquelle elles ont été prononcées.
 
 Les décisions d'effacement sont prononcées par le ministre de la défense ou les autorités militaires habilitées par lui à cet
-effet par arrêté. 
+effet par arrêté.
 
 L'avis d'une commission, dont la composition et l'organisation sont fixées par arrêté du ministre de la défense, est
-préalablement recueilli. 
+préalablement recueilli.
 
-Cette commission comprend un militaire du même grade et de la même armée ou formation rattachée que le demandeur. Son grade
-est déterminé en fonction du grade détenu par le demandeur à la date de la demande. 
+Cette commission comprend un militaire du même grade et de la même force armée ou formation rattachée que le demandeur. Son
+grade est déterminé en fonction du grade détenu par le demandeur à la date de la demande.
 
 La commission est réunie sur ordre du ministre de la défense ou des autorités militaires habilitées par lui à cet effet par
-arrêté. 
+arrêté.
 
 Le militaire ou l'ancien militaire qui demande l'effacement de sa sanction ne comparaît pas, sauf s'il en fait la demande,
-devant la commission dont l'avis est recueilli. 
+devant la commission dont l'avis est recueilli.
 
 Si, par son comportement général, l'intéressé a donné toute satisfaction depuis la sanction dont il a fait l'objet, les
 autorités compétentes, saisies de la demande d'effacement, accèdent à sa demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-600 du 3 juin 2010 - art. 4
-
 	**Cité par**:
 
 	  - Arrêté du 9 avril 2014 - art. 1 (V)
 	  - Arrêté du 9 avril 2014 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-23-2
@@ -99294,14 +102430,14 @@ avec effet immédiat sont prononcés, la permission en cours est suspendue.
 
 Pour l'application de cette procédure aux officiers généraux et aux autorités militaires de premier, deuxième ou troisième
 niveau, la décision de prononcer une mesure d'isolement avec l'indication du local afférent est prise au nom du ministre de
-la défense par le chef d'état-major d'armée, ou l'autorité correspondante pour les formations rattachées, dont relève le
-militaire en cause.
+la défense par le chef d'état-major d'armée, ou l'autorité correspondante pour les autres forces armées et les formations
+rattachées, dont relève le militaire en cause.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-30
@@ -99455,16 +102591,16 @@ par lui à cet effet.
 
 ###### Article R4137-40
 
-Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées estime qu'une demande de
-sanction concernant un officier général ou une autorité militaire de premier, deuxième ou troisième niveau est justifiée, il
-engage la procédure relative au conseil de discipline. A l'issue de la réunion du conseil, il transmet les pièces du dossier
-et l'avis du conseil pour décision au ministre de la défense.
+Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées
+estime qu'une demande de sanction concernant un officier général ou une autorité militaire de premier, deuxième ou troisième
+niveau est justifiée, il engage la procédure relative au conseil de discipline. A l'issue de la réunion du conseil, il
+transmet les pièces du dossier et l'avis du conseil pour décision au ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 #####  Sous-section 4 : Sanctions disciplinaires du troisième groupe
@@ -99504,32 +102640,32 @@ Le retrait d'emploi, la radiation des cadres et la résiliation du contrat sont 
 ###### Article R4137-43
 
 Lorsque parmi les militaires impliqués dans une même affaire figure un officier général, tous les militaires sont envoyés
-devant un même conseil supérieur d'armée ou de formation rattachée siégeant disciplinairement.
+devant un même conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-44
 
-Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées estime que la demande de
-sanction concernant un officier général ou une autorité militaire de premier, deuxième ou troisième niveau est justifiée, il
-transmet la demande de sanction au ministre de la défense qui ordonne, s'il y a lieu :
+Lorsque le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations rattachées
+estime que la demande de sanction concernant un officier général ou une autorité militaire de premier, deuxième ou troisième
+niveau est justifiée, il transmet la demande de sanction au ministre de la défense qui ordonne, s'il y a lieu :
 
-1° La réunion d'un conseil supérieur d'armée ou de formation rattachée siégeant disciplinairement si le militaire objet de la
-demande de sanction est un officier général ;
+1° La réunion d'un conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement si le militaire
+objet de la demande de sanction est un officier général ;
 
 2° La réunion d'un conseil d'enquête si le militaire objet de la demande de sanction est une autorité militaire de premier,
 deuxième ou troisième niveau et n'est pas officier général.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 #####  Sous-section 5 : Suspension de fonctions
@@ -99561,16 +102697,17 @@ le cas échéant, rapporter la décision prise par l'autorité militaire de deux
 
 La demande de suspension de fonctions à l'encontre des officiers généraux ou des autorités militaires de premier, deuxième ou
 troisième niveau est transmise au chef d'état-major d'armée dont relève l'intéressé ou à l'autorité correspondante pour les
-formations rattachées. Ces autorités transmettent la demande pour décision au ministre de la défense.
+autres forces armées et les formations rattachées. Ces autorités transmettent la demande pour décision au ministre de la
+défense.
 
 Le ministre de la défense peut, le cas échéant, prononcer directement une suspension de fonctions lorsque le comportement
 d'un officier général, d'une autorité militaire de premier, deuxième ou troisième niveau, le justifie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -99583,30 +102720,31 @@ d'un officier général, d'une autorité militaire de premier, deuxième ou troi
 
 ###### Article R4137-47
 
-L'envoi devant le conseil de discipline est ordonné par : 
+L'envoi devant le conseil de discipline est ordonné par :
 
-1° Le ministre de la défense pour tout militaire ; 
+1° Le ministre de la défense pour tout militaire ;
 
-2° Le chef d'état-major d'armée, ou l'autorité correspondante pour les formations rattachées, au nom du ministre de la
-défense, pour les officiers généraux ou les autorités militaires de premier, deuxième ou troisième niveau ; 
+2° Le chef d'état-major d'armée, ou l'autorité correspondante pour les autres forces armées et les formations rattachées, au
+nom du ministre de la défense, pour les officiers généraux ou les autorités militaires de premier, deuxième ou troisième
+niveau ;
 
 3° L'autorité militaire de deuxième niveau pour les militaires autres que ceux mentionnés au 2°.
 
 L'ordre d'envoi devant le conseil de discipline mentionne les faits à l'origine de la saisine et précise les circonstances
-dans lesquelles ils se sont produits. 
+dans lesquelles ils se sont produits.
 
 Pour l'application des dispositions des sections 4 à 7 du présent chapitre, la hiérarchie militaire de référence est la
 hiérarchie militaire générale fixée à l'article L. 4131-1 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4131-1 (V)
+	  - Code de la défense. - art. L4131-1
 
 
 #####  Sous-section 2 : Composition du conseil de discipline
@@ -99629,8 +102767,8 @@ congés prévus à l'article L. 4138-2.
 
 ###### Article R4137-49
 
-Dans chaque armée ou formation rattachée, le conseil de discipline comprend trois membres qui sont, lorsque le comparant
-est :
+Dans chaque force armée ou formation rattachée, le conseil de discipline comprend trois membres qui sont, lorsque le
+comparant est :
 
 1° Un officier :
 
@@ -99656,9 +102794,9 @@ c) Un militaire du rang du même grade que le comparant et, sauf impossibilité,
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -99669,25 +102807,25 @@ c) Un militaire du rang du même grade que le comparant et, sauf impossibilité,
 
 Pour l'application des dispositions de la présente section, l'aspirant est considéré comme étant titulaire du grade de sous-
 lieutenant et l'élève est considéré comme étant titulaire du premier grade auquel il a vocation à accéder à sa sortie
-d'école. 
+d'école.
 
 Lorsque le comparant est un militaire servant en vertu d'un contrat, le conseil est composé au moins d'un militaire servant
-également sous contrat. 
+également sous contrat.
 
 Lorsque la hiérarchie militaire générale d'un corps statutaire ne prévoit pas de grade supérieur à celui du comparant, il est
 fait appel pour l'application du cinquième alinéa de l'article L. 4137-3 à des militaires d'un grade supérieur à celui du
-comparant d'un autre corps statutaire au sein de la même armée ou formation rattachée ou, à défaut, d'une autre armée ou
-formation rattachée.
+comparant d'un autre corps statutaire au sein de la même force armée ou formation rattachée ou, à défaut, d'une autre force
+armée ou formation rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-3 (V)
+	  - Code de la défense. - art. L4137-3
 
 
 ###### Article R4137-51
@@ -99776,20 +102914,20 @@ présenter sa défense.
 Pour la désignation de chaque membre du conseil, est établie une liste de trois noms de militaires répondant aux conditions
 fixées par la présente section.
 
-Lorsque, pour une armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement les
-listes, le ministre de la défense les arrête en faisant appel à des militaires relevant d'une autre armée ou formation
-rattachée.
+Lorsque, pour une force armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement
+les listes, le ministre de la défense les arrête en faisant appel à des militaires relevant d'une autre force armée ou
+formation rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R4137-55 (V)
-	  - Code de la défense. - art. R4137-64 (M)
+	  - Code de la défense. - art. R4137-64 (V)
 
 
 ###### Article R4137-55
@@ -99950,22 +103088,22 @@ est transmise au président du conseil.
 
 ###### Article R4137-64
 
-Lorsque plusieurs militaires sont impliqués dans une même affaire, ils comparaissent devant un seul conseil de discipline. 
+Lorsque plusieurs militaires sont impliqués dans une même affaire, ils comparaissent devant un seul conseil de discipline.
 
-Ce conseil de discipline comprend : 
+Ce conseil de discipline comprend :
 
 1° Deux officiers détenant un grade plus élevé que celui du comparant le plus élevé en grade. Le président est le plus ancien
-dans le grade le plus élevé ; 
+dans le grade le plus élevé ;
 
-2° Pour chaque comparant, un militaire du même grade et de la même armée ou formation rattachée, qui, lorsqu'un des
-militaires qui comparait est un militaire servant en vertu d'un contrat, doit être également sous contrat. 
+2° Pour chaque comparant, un militaire du même grade et de la même force armée ou formation rattachée, qui, lorsqu'un des
+militaires qui comparait est un militaire servant en vertu d'un contrat, doit être également sous contrat.
 
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote les membres du
 conseil mentionnés au 1° et le membre mentionné au 2° pour la délibération et le vote relatifs au comparant au titre duquel
-il a été désigné. 
+il a été désigné.
 
 Le ministre de la défense désigne par arrêté l'autorité chargée de constituer le conseil et d'établir les listes mentionnées
-à l'article R. 4137-54. 
+à l'article R. 4137-54.
 
 Lorsque des militaires infirmiers et techniciens des hôpitaux des armées sont impliqués dans une même affaire aux côtés
 d'autres militaires, tous comparaissent devant un même conseil de discipline qui est composé et délibère dans les conditions
@@ -99977,7 +103115,7 @@ techniciens des hôpitaux des armées.
 	**Cite**:
 
 	  - Décret n°2002-1490 du 20 décembre 2002 - art. 12-4
-	  - Code de la défense. - art. R4137-54
+	  - Code de la défense. - art. R4137-54 (V)
 
 	**Cité par**:
 
@@ -99986,7 +103124,7 @@ techniciens des hôpitaux des armées.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1387 du 19 décembre 2008 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-65
@@ -100046,23 +103184,24 @@ lieu de consultation du conseil de discipline.
 
 ###### Article R4137-67
 
-Ne peuvent siéger dans un conseil d'enquête que les militaires de carrière en position d'activité, de la même armée ou
+Ne peuvent siéger dans un conseil d'enquête que les militaires de carrière en position d'activité, de la même force armée ou
 formation rattachée que le comparant, et non bénéficiaires de l'un des congés prévus à l'article L. 4138-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
+	  - Code de la défense. - art. L4138-2
 
 
 ###### Article R4137-68
 
-Dans chaque armée ou formation rattachée, le conseil d'enquête comprend cinq membres qui sont, lorsque le militaire est :
+Dans chaque force armée ou formation rattachée, le conseil d'enquête comprend cinq membres qui sont, lorsque le militaire
+est :
 
 1° Un officier :
 
@@ -100087,9 +103226,9 @@ c) Un militaire du rang détenant le même grade que le comparant, et, sauf impo
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -100100,25 +103239,25 @@ c) Un militaire du rang détenant le même grade que le comparant, et, sauf impo
 
 Pour l'application des dispositions du présent chapitre, l'aspirant est considéré comme étant titulaire du grade de sous-
 lieutenant et l'élève est considéré comme étant titulaire du premier grade auquel il a vocation à accéder à sa sortie
-d'école. 
+d'école.
 
 Lorsque le comparant est un militaire servant en vertu d'un contrat, le conseil doit comprendre un militaire servant
-également sous contrat. 
+également sous contrat.
 
 Lorsque la hiérarchie militaire générale d'un corps statutaire ne prévoit pas de grade supérieur à celui du comparant, il est
 fait appel pour l'application du cinquième alinéa de l'article L. 4137-3 à des militaires d'un grade supérieur à celui du
-comparant d'un autre corps statutaire au sein de la même armée ou formation rattachée ou, à défaut, d'une autre armée ou
-formation rattachée.
+comparant d'un autre corps statutaire au sein de la même force armée ou formation rattachée ou, à défaut, d'une autre force
+armée ou formation rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-3 (V)
+	  - Code de la défense. - art. L4137-3
 
 
 ###### Article R4137-70
@@ -100182,22 +103321,22 @@ Ne peuvent faire partie d'un conseil d'enquête :
 
 Au vu de l'ordre d'envoi, la constitution du conseil d'enquête, la nomination de ses membres et la désignation du rapporteur
 sont effectuées par le ministre de la défense ou par les autorités militaires dont la liste est fixée par arrêté du ministre
-de la défense. 
+de la défense.
 
-Cette autorité désigne un rapporteur parmi les officiers de l'armée ou de la formation rattachée à laquelle appartient le
-comparant. Le rapporteur doit détenir un grade supérieur à celui du militaire déféré devant le conseil. Il ne doit pas faire
-partie des catégories de militaires énumérées à l'article R. 4137-71. Il ne peut figurer sur aucune des listes de militaires
-prévues à l'article R. 4137-74.
+Cette autorité désigne un rapporteur parmi les officiers de la force armée ou de la formation rattachée à laquelle appartient
+le comparant. Le rapporteur doit détenir un grade supérieur à celui du militaire déféré devant le conseil. Il ne doit pas
+faire partie des catégories de militaires énumérées à l'article R. 4137-71. Il ne peut figurer sur aucune des listes de
+militaires prévues à l'article R. 4137-74.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4137-71 (V)
+	  - Code de la défense. - art. R4137-71
 	  - Code de la défense. - art. R4137-74 (V)
 
 	**Cité par**:
@@ -100229,19 +103368,19 @@ tenir, ainsi que son défenseur, à la disposition du rapporteur.
 Pour la désignation de chaque membre du conseil, est établie une liste de cinq noms de militaires répondant aux conditions
 fixées par la présente section.
 
-Lorsque, pour une armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement les
-listes, le ministre de la défense les arrête en faisant appel à des militaires relevant d'une autre armée ou formation
-rattachée.
+Lorsque, pour une force armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement
+les listes, le ministre de la défense les arrête en faisant appel à des militaires relevant d'une autre force armée ou
+formation rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R4137-72 (M)
+	  - Code de la défense. - art. R4137-72 (V)
 	  - Code de la défense. - art. R4137-75 (V)
 	  - Code de la défense. - art. R4137-86 (V)
 
@@ -100479,24 +103618,24 @@ militaire en cause. Une copie de la décision est transmise au président du con
 
 ###### Article R4137-86
 
-Lorsque plusieurs militaires sont impliqués dans une même affaire, ils comparaissent devant un seul conseil d'enquête. 
+Lorsque plusieurs militaires sont impliqués dans une même affaire, ils comparaissent devant un seul conseil d'enquête.
 
-Ce conseil d'enquête comprend : 
+Ce conseil d'enquête comprend :
 
 1° Trois officiers de carrière détenant tous un grade plus élevé que celui du comparant le plus élevé en grade. Le président
-est le militaire le plus ancien dans le grade le plus élevé de ces trois officiers ; 
+est le militaire le plus ancien dans le grade le plus élevé de ces trois officiers ;
 
-2° Pour chaque comparant, deux militaires de la même armée ou formation rattachée, l'un de même grade et, sauf impossibilité,
-plus ancien dans ce grade, l'autre d'un grade supérieur, s'il en existe ou à défaut plus ancien dans le grade. Lorsque le
-comparant est un militaire servant en vertu d'un contrat, le conseil est composé d'au moins un militaire servant également
-sous contrat. 
+2° Pour chaque comparant, deux militaires de la même force armée ou formation rattachée, l'un de même grade et, sauf
+impossibilité, plus ancien dans ce grade, l'autre d'un grade supérieur, s'il en existe ou à défaut plus ancien dans le grade.
+Lorsque le comparant est un militaire servant en vertu d'un contrat, le conseil est composé d'au moins un militaire servant
+également sous contrat.
 
 Le ministre de la défense désigne l'autorité chargée de constituer le conseil et d'établir les listes mentionnées à l'article
-R. 4137-74 conformément aux dispositions du présent article. 
+R. 4137-74 conformément aux dispositions du présent article.
 
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote les membres du
 conseil mentionnés au 1° ci-dessus et les membres mentionnés au 2° pour la délibération et le vote relatifs au comparant au
-titre duquel ils ont été désignés. 
+titre duquel ils ont été désignés.
 
 Lorsque des militaires infirmiers et techniciens des hôpitaux des armées sont impliqués dans une même affaire aux côtés
 d'autres militaires, tous comparaissent devant un même conseil d'enquête qui est composé et délibère dans les conditions
@@ -100518,20 +103657,21 @@ techniciens des hôpitaux des armées.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1387 du 19 décembre 2008 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-87
 
-Lorsque parmi les militaires impliqués figure un officier général, le conseil supérieur d'armée ou de formation rattachée
-siégeant disciplinairement est saisi. Dans cette éventualité, le conseil supérieur doit comprendre au moins un militaire du
-même grade et de la même armée ou formation rattachée que chacun des comparants n'ayant pas le grade d'officier général.
+Lorsque parmi les militaires impliqués figure un officier général, le conseil supérieur de force armée ou de formation
+rattachée siégeant disciplinairement est saisi. Dans cette éventualité, le conseil supérieur doit comprendre au moins un
+militaire du même grade et de la même force armée ou formation rattachée que chacun des comparants n'ayant pas le grade
+d'officier général.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-88
@@ -100662,8 +103802,8 @@ disciplinaires de son abandon de poste.
 
 ###### Article R4137-93
 
-L'envoi devant le conseil supérieur d'armée ou de formation rattachée siégeant disciplinairement est ordonné par le ministre
-de la défense.
+L'envoi devant le conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement est ordonné par le
+ministre de la défense.
 
 L'ordre d'envoi devant ce conseil supérieur mentionne les faits à l'origine de la saisine du conseil supérieur et précise les
 circonstances dans lesquelles ils se sont produits.
@@ -100681,9 +103821,9 @@ lieu de consultation du conseil de discipline.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -100691,31 +103831,39 @@ lieu de consultation du conseil de discipline.
 	  - Code de la défense. - art. R3322-1 (M)
 
 
-#####  Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
+#####  Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
+
+#####  Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
+
+##### Section 6 : Conseil supérieur de force armée ou de formation  rattachée siégeant disciplinairement
+
+#####  Sous-section 1 : Dispositions générales
+
+##### Sous-section 2 : Composition du conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement
 
 ###### Article R4137-94
 
-Le conseil supérieur d'armée ou de formation rattachée siégeant disciplinairement comprend des officiers généraux de la
-première section de la même armée ou formation rattachée que le comparant, et non bénéficiaires soit de l'un des congés
-prévus à l'article L. 4138-2 soit de la disponibilité spéciale prévue par l'article L. 4141-2.
+Le conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement comprend des officiers généraux de
+la première section de la même force armée ou formation rattachée que le comparant, et non bénéficiaires soit de l'un des
+congés prévus à l'article L. 4138-2 soit de la disponibilité spéciale prévue par l'article L. 4141-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
-	  - Code de la défense. - art. L4141-2 (V)
+	  - Code de la défense. - art. L4138-2
+	  - Code de la défense. - art. L4141-2
 
 
 ###### Article R4137-95
 
-Présidé par le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées, le conseil supérieur
-d'armée ou de formation rattachée siégeant disciplinairement comprend, en fonction de l'armée ou de la formation rattachée
-d'appartenance du comparant :
+Présidé par le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les formations
+rattachées, le conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement comprend, en fonction de
+la force armée ou de la formation rattachée d'appartenance du comparant :
 
 1° Un inspecteur général des armées, membre de droit, désigné par le ministre de la défense ;
 
@@ -100728,16 +103876,16 @@ grade que le comparant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de la défense. - art. R4137-98 (V)
 
 
-#####  Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
+##### Sous-section 3 : Constitution du conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement
 
 ###### Article R4137-96
 
@@ -100772,17 +103920,17 @@ défenseur, à la disposition du rapporteur.
 
 Pour la désignation des membres du conseil supérieur en relation avec le grade détenu par le comparant, une liste de trois
 noms d'officiers généraux, par siège à pourvoir, est établie par le ministre de la défense conformément aux dispositions de
-l'article R. 4137-95. 
+l'article R. 4137-95.
 
-Lorsque, pour une armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement les
-listes, le ministre de la défense les arrête en faisant appel à des officiers généraux relevant d'une autre armée ou
-formation rattachée que le comparant.
+Lorsque, pour une force armée ou une formation rattachée, la situation des effectifs ne permet pas de constituer complètement
+les listes, le ministre de la défense les arrête en faisant appel à des officiers généraux relevant d'une autre force armée
+ou formation rattachée que le comparant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -100791,7 +103939,7 @@ formation rattachée que le comparant.
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4137-95 (V)
+	  - Code de la défense. - art. R4137-95
 
 
 ###### Article R4137-99
@@ -100842,7 +103990,7 @@ comparant et à son défenseur et les invite à se tenir à la disposition du pr
 	  - Code de la défense. - art. R4137-99 (V)
 
 
-#####  Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
+##### Sous-section 4 : Fonctionnement du conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement
 
 ###### Article R4137-101
 
@@ -101026,15 +104174,15 @@ supérieur.
 
 Ce conseil supérieur comprend :
 
-1° Pour chaque comparant, le chef d'état-major d'armée ou l'autorité correspondante pour les formations rattachées, parmi
-lesquels le ministre de la défense désigne le président ;
+1° Pour chaque comparant, le chef d'état-major d'armée ou l'autorité correspondante pour les autres forces armées et les
+formations rattachées, parmi lesquels le ministre de la défense désigne le président ;
 
 2° Un inspecteur général des armées ;
 
 3° Trois généraux de division, et, sauf impossibilité, tous plus anciens dans leur grade que le comparant le plus élevé en
 grade si celui-ci est général de division ;
 
-4° Pour chaque comparant, un officier général du même grade et de la même armée ou formation rattachée, et, sauf
+4° Pour chaque comparant, un officier général du même grade et de la même force armée ou formation rattachée, et, sauf
 impossibilité, plus ancien dans le grade détenu par le comparant.
 
 Lorsque les effectifs d'une armée ou d'une formation rattachée ne permettent pas de pourvoir aux sièges des membres
@@ -101045,9 +104193,9 @@ Les officiers généraux mentionnés au 3° et 4° ci-dessus sont tirés au sort
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -101059,18 +104207,18 @@ Les officiers généraux mentionnés au 3° et 4° ci-dessus sont tirés au sort
 
 Lorsque, parmi les comparants, figurent un ou plusieurs militaires qui n'ont pas un grade d'officier général, le conseil
 prévu à l'article R. 4137-110 comprend, en outre pour chacun de ces comparants, un militaire du même grade et, sauf
-impossibilité, plus ancien dans le grade, de la même armée ou formation rattachée. Ces militaires sont tirés au sort sur une
-liste de trois noms établie par le ministre de la défense.
+impossibilité, plus ancien dans le grade, de la même force armée ou formation rattachée. Ces militaires sont tirés au sort
+sur une liste de trois noms établie par le ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4137-110 (V)
+	  - Code de la défense. - art. R4137-110
 
 	**Cité par**:
 
@@ -101285,7 +104433,7 @@ compétentes, saisies de la demande d'effacement, accèdent à sa demande.
 
 Les décisions d'effacement des sanctions professionnelles du domaine aéronautique sont prononcées par décision du ministre de
 la défense ou des autorités militaires délégataires de son pouvoir après avis du conseil permanent de la sécurité aérienne de
-l'armée ou de la formation rattachée concernée.
+la force armée ou de la formation rattachée concernée.
 
 L'autorité d'emploi du militaire peut vérifier ou faire vérifier son aptitude à exercer, de nouveau, la ou les qualifications
 retrouvées.
@@ -101299,22 +104447,22 @@ deux ans à compter de la date de la décision de rejet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-600 du 3 juin 2010 - art. 6
-
 	**Cité par**:
 
 	  - Arrêté du 9 avril 2014 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 #####  Sous-section 2 : Conseil d'examen des faits professionnels
 
 ###### Article R4137-121
 
-L'envoi d'un militaire devant le conseil d'examen des faits professionnels de l'armée ou de la formation rattachée à laquelle
-appartient le militaire est ordonné par le ministre de la défense. L'ordre d'envoi mentionne les faits motivant la saisine du
-conseil et précise les circonstances dans lesquelles ils se sont produits.
+L'envoi d'un militaire devant le conseil d'examen des faits professionnels de la force armée ou de la formation rattachée à
+laquelle appartient le militaire est ordonné par le ministre de la défense. L'ordre d'envoi mentionne les faits motivant la
+saisine du conseil et précise les circonstances dans lesquelles ils se sont produits.
 
 Avant l'envoi d'un militaire devant le conseil d'examen des faits professionnels, l'intéressé a le droit de s'expliquer
 oralement ou par écrit sur les faits qui lui sont reprochés devant l'autorité militaire de premier niveau dont il relève. Au
@@ -101332,9 +104480,9 @@ dossier, lui est obligatoirement laissé pour organiser sa défense.
 	  - Code de la défense. - art. R4137-117 (V)
 	  - Code de la défense. - art. R4137-133 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-122
@@ -101357,47 +104505,48 @@ que le membre titulaire qu'il est appelé à remplacer en cas d'absence ou d'ind
 
 Le conseil comprend :
 
-1° Un officier de carrière, président, qui appartient à la même armée ou formation rattachée que le comparant et qui, par
-rapport aux autres membres du conseil, est le plus ancien dans le grade le plus élevé de tous les membres du conseil ;
+1° Un officier de carrière, président, qui appartient à la même force armée ou formation rattachée que le comparant et qui,
+par rapport aux autres membres du conseil, est le plus ancien dans le grade le plus élevé de tous les membres du conseil ;
 
-2° Deux officiers appartenant à la même armée ou formation rattachée que le comparant, détenant un grade plus élevé que ce
-dernier ou, en cas d'impossibilité, plus anciens dans le même grade et choisis parmi les officiers exerçant leur activité
+2° Deux officiers appartenant à la même force armée ou formation rattachée que le comparant, détenant un grade plus élevé que
+ce dernier ou, en cas d'impossibilité, plus anciens dans le même grade et choisis parmi les officiers exerçant leur activité
 dans la même spécialité que le comparant ;
 
-3° Deux militaires appartenant à la même armée ou formation rattachée que le comparant et choisis parmi les militaires
+3° Deux militaires appartenant à la même force armée ou formation rattachée que le comparant et choisis parmi les militaires
 exerçant leur activité dans la même spécialité que le comparant, l'un plus ancien dans le même grade et l'autre d'un grade
 supérieur s'il en existe ou, à défaut, plus ancien dans le même grade.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-124
 
 Lorsque le comparant est un militaire servant en vertu d'un contrat, un membre au moins du conseil doit être, sauf
-impossibilité, un militaire servant en vertu d'un contrat. 
+impossibilité, un militaire servant en vertu d'un contrat.
 
-Lorsque les effectifs d'une armée ou d'une formation rattachée ne permettent pas de constituer le conseil d'examen des faits
-professionnels en faisant appel à deux militaires possédant la même spécialité que celle du comparant, le ministre de la
-défense peut désigner des militaires d'une autre armée ou formation rattachée réunissant cette condition. Ils devront détenir
-un grade plus élevé que celui du comparant ou, à défaut, être plus ancien dans le même grade. 
+Lorsque les effectifs d'une force armée ou d'une formation rattachée ne permettent pas de constituer le conseil d'examen des
+faits professionnels en faisant appel à deux militaires possédant la même spécialité que celle du comparant, le ministre de
+la défense peut désigner des militaires d'une autre force armée ou formation rattachée réunissant cette condition. Ils
+devront détenir un grade plus élevé que celui du comparant ou, à défaut, être plus ancien dans le même grade.
 
 Lorsque la hiérarchie militaire générale d'un corps statutaire ne prévoit pas de grade supérieur à celui du comparant, il est
 fait appel, pour l'application de l'article L. 4137-3, à des militaires d'un grade supérieur à celui du comparant d'un autre
-corps statutaire au sein de la même armée ou formation rattachée ou, à défaut, d'une autre armée ou formation rattachée.
+corps statutaire au sein de la même force armée ou formation rattachée ou, à défaut, d'une autre force armée ou formation
+rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4137-3 (V)
+	  - Code de la défense. - art. L4137-3
 
 	**Cité par**:
 
@@ -101413,16 +104562,16 @@ Lorsque plusieurs militaires sont impliqués dans une même affaire, ils compara
 2° Deux officiers détenant un grade plus élevé que celui du comparant le plus élevé en grade ou, en cas d'impossibilité, plus
 anciens dans le même grade et choisis en fonction des spécialités des comparants ;
 
-3° Pour chaque comparant, deux militaires appartenant à la même armée ou formation rattachée que l'intéressé et choisis parmi
-les militaires exerçant leur activité dans la même spécialité que le comparant. L'un de ces militaires est de même grade que
-le comparant et plus ancien dans ce grade et l'autre d'un grade supérieur s'il en existe ou, à défaut, plus ancien dans le
-même grade.
+3° Pour chaque comparant, deux militaires appartenant à la même force armée ou formation rattachée que l'intéressé et choisis
+parmi les militaires exerçant leur activité dans la même spécialité que le comparant. L'un de ces militaires est de même
+grade que le comparant et plus ancien dans ce grade et l'autre d'un grade supérieur s'il en existe ou, à défaut, plus ancien
+dans le même grade.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -101600,14 +104749,14 @@ L'autorité militaire de premier niveau entend l'intéressé, qui peut se faire 
 activité de son choix. Si cette autorité maintient la sanction prise ou si la décision contestée excède son pouvoir
 disciplinaire, elle adresse directement, dans un délai de huit jours francs à partir de la date de l'inscription du recours
 au registre des recours, le dossier au chef d'état-major de l'armée d'appartenance de l'intéressé ou à l'autorité
-correspondante pour les formations rattachées. Une copie de la transmission est remise à l'autorité militaire de deuxième
-niveau ainsi qu'à l'intéressé.
+correspondante pour les autres forces armées et les formations rattachées. Une copie de la transmission est remise à
+l'autorité militaire de deuxième niveau ainsi qu'à l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-136
@@ -101618,40 +104767,41 @@ et inscrite au registre des recours.
 
 L'autorité militaire de deuxième niveau adresse directement, dans un délai de huit jours francs à partir de la date de
 l'inscription du recours au registre des recours, le dossier au chef d'état-major de l'armée d'appartenance de l'intéressé ou
-à l'autorité correspondante pour les formations rattachées. Une copie de la transmission est remise à l'autorité militaire de
-premier niveau ainsi qu'à l'intéressé.
+à l'autorité correspondante pour les autres forces armées et les formations rattachées. Une copie de la transmission est
+remise à l'autorité militaire de premier niveau ainsi qu'à l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-137
 
-Lorsqu'il est saisi, le chef d'état-major d'armée, ou l'autorité correspondante pour les formations rattachées, accuse
-réception à l'intéressé de la demande. S'il n'est pas en mesure de statuer, il transmet le dossier au ministre de la défense.
-Dans le cas contraire, il statue sur le recours, fait connaître sa réponse à l'intéressé dans un délai de trente jours francs
-à compter de la réception de la demande et adresse une copie de cette réponse au ministre de la défense.
+Lorsqu'il est saisi, le chef d'état-major d'armée, ou l'autorité correspondante pour les autres forces armées et les
+formations rattachées, accuse réception à l'intéressé de la demande. S'il n'est pas en mesure de statuer, il transmet le
+dossier au ministre de la défense. Dans le cas contraire, il statue sur le recours, fait connaître sa réponse à l'intéressé
+dans un délai de trente jours francs à compter de la réception de la demande et adresse une copie de cette réponse au
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R4137-138 (M)
+	  - Code de la défense. - art. R4137-138 (V)
 
 
 ###### Article R4137-138
 
-Si le requérant conteste la décision prise par le chef d'état-major d'armée, ou l'autorité correspondante pour les formations
-rattachées, ou s'il n'a pas obtenu de réponse de leur part dans le délai de trente jours prévu à l'article R. 4137-137, il
-peut saisir directement le ministre de la défense dans les huit jours francs qui suivent soit la date de notification de la
-réponse apportée à sa demande, soit la date d'expiration du délai susmentionné. 
+Si le requérant conteste la décision prise par le chef d'état-major d'armée, ou l'autorité correspondante pour les autres
+forces armées et les formations rattachées, ou s'il n'a pas obtenu de réponse de leur part dans le délai de trente jours
+prévu à l'article R. 4137-137, il peut saisir directement le ministre de la défense dans les huit jours francs qui suivent
+soit la date de notification de la réponse apportée à sa demande, soit la date d'expiration du délai susmentionné.
 
 Le ministre de la défense fait instruire le dossier par un inspecteur général des armées, décide de la suite à lui donner et
 répond à l'intéressé dans un délai de soixante jours francs à compter de la réception du recours par le ministre.L'absence de
@@ -101659,9 +104809,9 @@ réponse à l'expiration de ce délai vaut décision implicite de rejet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -101677,9 +104827,9 @@ réponse à l'expiration de ce délai vaut décision implicite de rejet.
 
 Tout recours à l'encontre d'une décision de suspension de fonctions ou d'une sanction disciplinaire ou professionnelle
 concernant les officiers généraux et les autorités militaires de premier, deuxième ou troisième niveau est adressé par les
-intéressés au chef d'état-major de leur armée d'appartenance ou à l'autorité correspondante pour les formations rattachées.
-Ces autorités adressent le dossier au ministre de la défense dans un délai de huit jours francs à compter de la date de
-réception de la demande.
+intéressés au chef d'état-major de leur armée d'appartenance ou à l'autorité correspondante pour les autres forces armées et
+les formations rattachées. Ces autorités adressent le dossier au ministre de la défense dans un délai de huit jours francs à
+compter de la date de réception de la demande.
 
 Le ministre de la défense fait instruire leur dossier par un inspecteur général des armées, décide de la suite à donner au
 recours et répond aux intéressés dans un délai de soixante jours francs à compter de la réception du recours par le ministre.
@@ -101687,14 +104837,14 @@ L'absence de réponse à l'expiration de ce délai vaut décision implicite de r
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 	**Cité par**:
 
 	  - Décret n°2008-951 du 12 septembre 2008 - art. 14 (VD)
 	  - Code de la défense. - art. D3124-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4137-140
@@ -101758,22 +104908,25 @@ section 1 ainsi que de la section 2 du chapitre 7 du titre III du présent livre
 
 ###### Article R4138-1
 
-Le militaire en position d'activité prévue à l'article L. 4138-2 occupe un emploi de son grade dans les armées ou formations
-rattachées ou, au titre de l'article R. 4138-22, dans des organismes ne relevant pas du ministère de la défense. 
+Le militaire en position d'activité occupe un emploi de son grade lorsqu'il est affecté : 
 
-Dans cette position, le militaire peut être placé dans l'une des situations mentionnées aux articles R. 4138-3 à R. 4138-33.
+1° Dans les forces armées ou les formations rattachées ; 
+
+2° Dans un organisme placé sous l'autorité du ministre de la défense autres que ceux mentionnés au 1° ; 
+
+3° Dans un établissement public à caractère administratif placé sous la tutelle du ministre de la défense ; 
+
+4° Dans l'un des organismes mentionnés au 2° de l'article L. 4138-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de la défense. - art. L4138-2 (V)
-	  - Code de la défense. - art. R4138-22 (V)
-	  - Code de la défense. - art. R4138-3 (V)
+	  - Code de la défense. - art. L4138-2
 
 	**Cité par**:
 
@@ -101783,24 +104936,6 @@ Dans cette position, le militaire peut être placé dans l'une des situations me
 	  - Code de la défense. - art. R4371-2 (V)
 	  - Code de la défense. - art. R4381-2 (V)
 	  - Code de la défense. - art. R4382-2 (V)
-
-
-###### Article R4138-1-1
-
-Dans le présent chapitre, outre le contrôle général des armées, les formations rattachées sont les délégations générales,
-directions générales et directions ainsi que les services interarmées dont l'autorité responsable est chargée, au nom du
-ministre de la défense, de la gestion et de l'administration des militaires relevant statutairement de son autorité. Cette
-autorité prend les mesures et les décisions relevant du présent chapitre à l'encontre des militaires précités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-600 du 3 juin 2010 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4138-2
@@ -102982,24 +106117,24 @@ l'intérieur pour les militaires de la gendarmerie nationale et, le cas échéan
 maximale de cinq ans renouvelable, sur demande ou d'office. Cet arrêté précise la nature, la durée et le lieu d'exercice des
 fonctions. Si, au plus tard trois mois avant la fin de son détachement prononcé au titre du b du 6° de l'article R. 4318-35,
 le militaire n'a pas formulé sa demande de réintégration, le détachement est tacitement renouvelé pour une durée identique à
-celle du détachement initial dans la limite de la durée du contrat mentionné au b du 6 de l'article R. 4138-35. 
+celle du détachement initial dans la limite de la durée du contrat mentionné au b du 6 de l'article R. 4138-35.
 
-Le détachement ne peut être prononcé d'office qu'après l'avis d'une commission, présidée par un officier général de l'armée
-ou de la formation rattachée à laquelle appartient le militaire intéressé et comprenant deux militaires si possible du même
-corps et d'un grade égal ou supérieur au sien. 
+Le détachement ne peut être prononcé d'office qu'après l'avis d'une commission, présidée par un officier général de la force
+armée ou de la formation rattachée à laquelle appartient le militaire intéressé et comprenant deux militaires si possible du
+même corps et d'un grade égal ou supérieur au sien.
 
 Le président et les membres de la commission sont désignés par le ministre de la défense, ou du ministre de l'intérieur pour
 les militaires de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2011-1517 du 14 novembre 2011 - art. 2
-
 	**Cité par**:
 
 	  - Décret n°2016-2003 du 30 décembre 2016 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -103049,25 +106184,26 @@ transmis au ministre de la défense, ou au ministre de l'intérieur pour les mil
 
 ###### Article R4138-39
 
-I.-Lors du détachement prévu par les articles L. 4139-1 à L. 4139-3 ou en cas de détachement d'office, le militaire est
+I. – Lors du détachement prévu par les articles L. 4139-1 à L. 4139-3 ou en cas de détachement d'office, le militaire est
 classé, dans le grade dans lequel il est détaché, à un indice égal ou, à défaut, immédiatement supérieur à l'indice dont il
-bénéficiait dans son grade d'origine. 
+bénéficiait dans son grade d'origine.
 
 Le militaire est classé dans l'échelon sommital du grade dans lequel il est détaché si l'indice afférent à cet échelon est
 inférieur à l'indice qu'il détenait dans son grade d'origine. Il conserve néanmoins à titre personnel, durant la durée de son
 détachement, l'indice détenu dans son grade d'origine, dans la limite de l'indice afférent à l'échelon sommital du corps ou
-cadre d'emplois d'accueil. 
+cadre d'emplois d'accueil.
 
-II.-Durant le détachement prévu au I, le militaire perçoit de l'administration d'accueil une rémunération comprenant le
+II. – Durant le détachement prévu au I, le militaire perçoit de l'administration d'accueil une rémunération comprenant le
 traitement indiciaire brut calculé sur la base du classement opéré en application du I, les indemnités de résidence et à
-caractère familial et, le cas échéant, les primes et indemnités allouées au titre du nouvel emploi. 
+caractère familial et, le cas échéant, les primes et indemnités allouées au titre du nouvel emploi.
 
 Dans le cas où la rémunération perçue par le militaire dans son nouvel emploi est inférieure à celle qu'il aurait perçue s'il
-était resté en position d'activité au sein des forces armées, le militaire perçoit de son administration d'origine une
-indemnité compensatrice égale à la différence entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le
-supplément familial de solde, l'indemnité pour charges militaires et les primes et indemnités liées à la qualification qu'il
-aurait perçus s'il était resté en position d'activité et, d'autre part, le traitement indiciaire brut, les indemnités de
-résidence et à caractère familial, et les primes et indemnités allouées au titre du nouvel emploi.
+était resté en position d'activité au sein des forces armées et formations rattachées, le militaire perçoit de son
+administration d'origine une indemnité compensatrice égale à la différence entre, d'une part, la solde indiciaire brute,
+l'indemnité de résidence, le supplément familial de solde, l'indemnité pour charges militaires et les primes et indemnités
+liées à la qualification qu'il aurait perçus s'il était resté en position d'activité et, d'autre part, le traitement
+indiciaire brut, les indemnités de résidence et à caractère familial, et les primes et indemnités allouées au titre du nouvel
+emploi.
 
 **Liens relatifs à cet article**
 
@@ -103084,7 +106220,7 @@ résidence et à caractère familial, et les primes et indemnités allouées au 
 
 	**Modifié par**:
 
-	  - Décret n°2011-469 du 28 avril 2011 - art. 1
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -104571,12 +107707,12 @@ territoriale que celui initialement envisagé.
 L'avis de la commission est transmis au ministre de la défense, ou au ministre de l'intérieur pour les militaires de la
 gendarmerie nationale, et à l'autorité territoriale compétente. Celle-ci se prononce dans le délai d'un mois à compter de
 cette transmission. Si sa candidature est retenue, une proposition d'affectation est adressée au militaire, qui dispose d'un
-délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la refuser. 
+délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la refuser.
 
 En cas d'acceptation, le militaire est mis à la disposition de la collectivité ou de l'établissement public d'accueil pour
 effectuer un stage probatoire d'une durée de deux mois. Pendant cette période, il reste en position d'activité au sein des
-forces armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé
-pour la durée du stage probatoire.
+forces armées et formations rattachées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas
+échéant, celui-ci prorogé pour la durée du stage probatoire.
 
 S'il a donné satisfaction, le militaire est placé à l'issue du stage probatoire en position de détachement, par décision
 conjointe du ministre de la défense, ou au ministre de l'intérieur pour les militaires de la gendarmerie nationale, et de
@@ -104586,7 +107722,7 @@ l'autorité territoriale compétente.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1721 du 30 décembre 2009 - art. 5
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4139-26
@@ -104787,12 +107923,12 @@ L'avis de la commission est transmis au ministre de la défense, ou au ministre 
 gendarmerie nationale, et à l'autorité ayant le pouvoir de nomination dans le corps d'accueil. Celle-ci se prononce dans le
 délai d'un mois à compter de cette transmission. Si sa candidature est retenue, une proposition d'affectation est adressée au
 militaire, qui dispose d'un délai de quinze jours à compter de la notification de cette proposition pour l'accepter ou la
-refuser. 
+refuser.
 
 En cas d'acceptation, le militaire est mis à la disposition de l'administration ou de l'établissement public d'accueil pour
 effectuer un stage probatoire d'une durée de deux mois. Pendant cette période, il reste en position d'activité au sein des
-forces armées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas échéant, celui-ci prorogé
-pour la durée du stage probatoire.
+forces armées et formations rattachées et conserve sa rémunération. Le militaire servant en vertu d'un contrat voit, le cas
+échéant, celui-ci prorogé pour la durée du stage probatoire.
 
 S'il a donné satisfaction, le militaire est placé à l'issue du stage probatoire en position de détachement, par décision
 conjointe du ministre de la défense, ou du ministre de l'intérieur pour les militaires de la gendarmerie nationale, et de
@@ -104802,7 +107938,7 @@ l'autorité ayant le pouvoir de nomination dans le corps d'accueil.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1721 du 30 décembre 2009 - art. 9
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4139-35
@@ -104968,14 +108104,14 @@ du ministre chargé du budget.
 
 ###### Article R4139-42
 
-Le contingent annuel précité est réparti entre les armées, formations rattachées, armes et corps selon les besoins du service
-propres à chacun d'entre eux et compte tenu notamment de la situation de leurs effectifs.
+Le contingent annuel précité est réparti entre les forces armées, formations rattachées, armes et corps selon les besoins du
+service propres à chacun d'entre eux et compte tenu notamment de la situation de leurs effectifs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4139-43
@@ -105230,7 +108366,7 @@ inaptitude médicale dûment constatée par un médecin ou un chirurgien des hô
 Le ministre de la défense institue, en fonction des besoins, des commissions de réforme des militaires chargées de donner un
 avis sur l'inaptitude médicale définitive au service des militaires :
 
-1° En métropole, auprès de chacune des armées et des formations rattachées ;
+1° En métropole, auprès de chacune des forces armées et des formations rattachées ;
 
 2° Dans les collectivités d'outre-mer et en Nouvelle-Calédonie, auprès du commandement supérieur des forces armées.
 
@@ -105239,9 +108375,9 @@ commandement des forces en opérations ou des troupes françaises prépositionn�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4139-54
@@ -105253,7 +108389,7 @@ La commission de réforme des militaires comprend :
 2° Un médecin principal ou un médecin ;
 
 3° Un représentant de l'autorité militaire, officier ou sous-officier supérieur ou officier marinier supérieur, selon la
-catégorie et l'armée ou la formation rattachée à laquelle appartient le militaire intéressé.
+catégorie et la force armée ou la formation rattachée à laquelle appartient le militaire intéressé.
 
 Les membres de la commission de réforme des militaires sont désignés par le ministre de la défense. Toutefois, lorsque la
 commission de réforme est appelée à se réunir en vue d'examiner la situation d'un militaire de la gendarmerie nationale, le
@@ -105266,7 +108402,7 @@ L'ensemble des membres de la commission est tenu au secret professionnel.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1720 du 30 décembre 2009 - art. 49
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -105275,26 +108411,26 @@ L'ensemble des membres de la commission est tenu au secret professionnel.
 
 ###### Article R4139-55
 
-La commission de réforme des militaires est compétente pour émettre un avis médical portant : 
+La commission de réforme des militaires est compétente pour émettre un avis médical portant :
 
-1° Sur l'inaptitude définitive au service d'un militaire, quels que soient son statut et son lien au service ; 
+1° Sur l'inaptitude définitive au service d'un militaire, quels que soient son statut et son lien au service ;
 
 2° Sur l'aptitude d'un Français soumis aux dispositions du livre II du code du service national qui, précédemment exempté ou
-réformé, souhaite que son aptitude soit de nouveau déterminée, en vue de servir dans les armées ou les formations
-rattachées ; 
+réformé, souhaite que son aptitude soit de nouveau déterminée, en vue de servir dans les forces armées ou les formations
+rattachées ;
 
 3° Sur l'aptitude d'un ancien militaire, précédemment mis en réforme définitive, qui souhaite que son aptitude au service
-soit de nouveau déterminée, en vue de servir à nouveau dans les armées ou les formations rattachées.
+soit de nouveau déterminée, en vue de servir à nouveau dans les forces armées ou les formations rattachées.
 
-En  cas de candidature au recrutement dans une autre force armée ou  formation rattachée que celle au titre de laquelle
-l'intéressé a été  réformé, l'avis préalable de la commission de réforme des militaires  n'est pas requis si le candidat
-remplit les conditions médicales  d'aptitude au nouveau recrutement.
+En cas de candidature au recrutement dans une autre force armée ou formation rattachée que celle au titre de laquelle
+l'intéressé a été réformé, l'avis préalable de la commission de réforme des militaires n'est pas requis si le candidat
+remplit les conditions médicales d'aptitude au nouveau recrutement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-130 du 3 février 2017 - art. 10
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -105759,17 +108895,17 @@ la défense.
 
 Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire supérieur des premier et deuxième degrés
 relève du chef d'état-major concerné. A la direction générale de l'armement, cet enseignement relève du délégué général pour
-l'armement. 
+l'armement.
 
 Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central
 du service des essences des armées, le directeur central du service d'infrastructure de la défense, le directeur central du
 service du commissariat des armées et, pour le service de la justice militaire, le directeur des affaires juridiques peuvent
-être chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation
-rattachée. 
+être chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur force armée
+ou formation rattachée.
 
 Sous le contrôle du chef d'état-major de la marine, l'inspecteur général des affaires maritimes et l'inspecteur général de
 l'enseignement maritime sont respectivement chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes
-ou brevets propres aux administrateurs des affaires maritimes et aux professeurs de l'enseignement maritime.  
+ou brevets propres aux administrateurs des affaires maritimes et aux professeurs de l'enseignement maritime.
 
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du
 deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
@@ -105778,7 +108914,7 @@ deuxième degré sont placés sous l'autorité directe du chef d'état-major des
 
 	**Modifié par**:
 
-	  - Décret n°2016-1431 du 24 octobre 2016 - art. 1
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4152-5
@@ -105893,22 +109029,22 @@ Cet organisme est dirigé par un officier général.
 
 ###### Article D4152-9
 
-La direction de l'enseignement militaire supérieur : 
+La direction de l'enseignement militaire supérieur :
 
 1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur du personnel
-des armées, services et organismes interarmées, ainsi que les conditions de sa mise en œuvre, en vue notamment d'en conforter
-le rayonnement en France et à l'étranger. Elle veille à la cohérence des projets pédagogiques entre les différents niveaux de
-l'enseignement militaire supérieur et à celle des parcours de formation depuis la formation initiale ; 
+des forces armées et formations rattachées, ainsi que les conditions de sa mise en œuvre, en vue notamment d'en conforter le
+rayonnement en France et à l'étranger. Elle veille à la cohérence des projets pédagogiques entre les différents niveaux de
+l'enseignement militaire supérieur et à celle des parcours de formation depuis la formation initiale ;
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
-cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ; 
+cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ;
 
-3° Prépare les officiers supérieurs des forces armées,            et des formations rattachées à exercer des responsabilités
-d'état-major, de commandement et de direction au sein de ces entités, des états-majors interarmées ou interalliés, des
-organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique de défense et de sécurité ; 
+3° Prépare les officiers supérieurs des forces armées et formations rattachées à exercer des responsabilités d'état-major, de
+commandement et de direction au sein de ces entités, des états-majors interarmées ou interalliés, des organismes
+interministériels et dans tout autre poste où s'élabore et s'exécute la politique de défense et de sécurité ;
 
 4° Contribue au développement et au rayonnement des études et de la recherche en matière de défense et de sécurité
-nationale ; 
+nationale ;
 
 5° Constitue, entretient et met à la disposition des chercheurs et des étudiants un fonds documentaire de référence au plan
 national et international dans les domaines de la défense et de la sécurité nationale.
@@ -105921,7 +109057,7 @@ national et international dans les domaines de la défense et de la sécurité n
 
 	**Modifié par**:
 
-	  - Décret n°2011-1329 du 20 octobre 2011 - art. 3
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4152-10
@@ -105957,24 +109093,19 @@ Son organisation est fixée par arrêté du ministre de la défense.
 
 ###### Article R4211-1
 
-Les réservistes appartiennent au contrôle général des armées, à une armée ou à une formation rattachée, qui en assurent la
-gestion. 
+Les réservistes appartiennent à une force armée ou à une formation rattachée, qui en assurent la gestion.
 
 Les officiers, les sous-officiers et les officiers mariniers de la réserve opérationnelle sont rattachés aux différents corps
-statutaires de l'armée professionnelle des militaires de carrière. 
+statutaires de l'armée professionnelle des militaires de carrière.
 
 Ils sont soumis aux dispositions de leur corps de rattachement en tant qu'elles ne sont pas contraires aux dispositions de
-l'article L. 4143-1 et du livre II de la partie 4 du code de la défense. 
+l'article L. 4143-1 et du livre II de la partie 4 du code de la défense.
 
 Les militaires du rang de la réserve opérationnelle sont soumis aux dispositions statutaires qui leur sont applicables, en
 tant qu'elles ne sont pas contraires aux dispositions de l'article L. 4143-1 et du livre II de la partie 4 du code de la
 défense.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-296 du 16 mars 2015 - art. 3
 
 	**Cité par**:
 
@@ -105984,6 +109115,10 @@ défense.
 	  - Code de la défense. - art. R4361-2 (VT)
 	  - Code de la défense. - art. R4381-2 (V)
 	  - Code de la défense. - art. R4382-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -106010,19 +109145,19 @@ sauf dans le cas d'activités répétitives.
 ###### Article R4211-3
 
 Les réservistes peuvent, pour les besoins du service, être admis sur leur demande ou affectés d'office dans d'autres corps de
-l'armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps d'une autre armée
-ou d'une autre formation rattachée que sur leur demande.
+la force armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps d'une autre
+armée ou d'une autre formation rattachée que sur leur demande.
 
-L'admission d'un réserviste dans un corps d'une autre armée ou formation rattachée, qui doit donner lieu à la conclusion d'un
-nouvel engagement à servir dans la réserve opérationnelle, ne peut entraîner ni la modification du grade et de l'ancienneté
-de grade acquise, ni la prise de rang avant les autres militaires de même grade et de même ancienneté, ni la perte d'une
-inscription au tableau d'avancement.
+L'admission d'un réserviste dans un corps d'une autre force armée ou formation rattachée, qui doit donner lieu à la
+conclusion d'un nouvel engagement à servir dans la réserve opérationnelle, ne peut entraîner ni la modification du grade et
+de l'ancienneté de grade acquise, ni la prise de rang avant les autres militaires de même grade et de même ancienneté, ni la
+perte d'une inscription au tableau d'avancement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 4
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4211-4
@@ -106237,14 +109372,14 @@ faits ayant entraîné une condamnation à une peine d'emprisonnement autre que 
 
 ###### Article R4221-1
 
-Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit au titre du contrôle général des armées, d'une
-armée ou d'une formation rattachée.
+Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit au titre d'une force armée ou d'une formation
+rattachée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4221-2
@@ -106333,25 +109468,25 @@ moins une fois par an.
 ###### Article D4221-6
 
 La durée des activités dans la réserve opérationnelle peut, dans les mêmes conditions qu'à l'article R. 4221-5, être portée à
-soixante jours : 
+soixante jours :
 
 1° Pour l'encadrement des périodes militaires d'initiation ou de perfectionnement à la défense nationale, et de la journée
-défense et citoyenneté ; 
+défense et citoyenneté ;
 
-2° Ou lorsque le réserviste a suivi une formation dans l'année en cours. 
+2° Ou lorsque le réserviste a suivi une formation dans l'année en cours.
 
-Le contrôle général des armées, chaque armée et formation rattachée, dans la limite de 15 % de l'effectif de la réserve
-opérationnelle sous contrat d'engagement au 1er janvier de l'année en cours, déterminent le nombre de réservistes qui, ne
-participant pas aux activités définies aux alinéas précédents, sont autorisés à porter la durée de leur activité à soixante
-jours, afin de faire bénéficier le ministère de la défense, ou pour les réservistes de la gendarmerie nationale le ministère
-de la défense et le ministère de l'intérieur d'un renfort temporaire ou de compétences spécifiques nécessaires à
-l'accomplissement de missions requérant une présence d'une durée supérieure à trente jours.
+Chaque force armée et formation rattachée, dans la limite de 15 % de l'effectif de la réserve opérationnelle sous contrat
+d'engagement au 1er janvier de l'année en cours, détermine le nombre de réservistes qui, ne participant pas aux activités
+définies aux alinéas précédents, sont autorisés à porter la durée de leur activité à soixante jours, afin de faire bénéficier
+le ministère de la défense, ou pour les réservistes de la gendarmerie nationale le ministère de la défense et le ministère de
+l'intérieur d'un renfort temporaire ou de compétences spécifiques nécessaires à l'accomplissement de missions requérant une
+présence d'une durée supérieure à trente jours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 13
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -106450,22 +109585,23 @@ sa gestion administrative de tout changement dans sa situation susceptible d'aff
 
 ###### Article R4221-10-1
 
-Le réserviste peut être admis, avec son accord, à servir auprès d'une autre unité de son armée ou formation rattachée
+Le réserviste peut être admis, avec son accord, à servir auprès d'une autre unité de sa force armée ou formation rattachée
 d'appartenance pour y effectuer des périodes d'activité au titre de son engagement à servir dans la réserve opérationnelle.
-Le réserviste peut également être admis à servir dans les mêmes conditions auprès d'une autre armée ou formation rattachée.
+Le réserviste peut également être admis à servir dans les mêmes conditions auprès d'une autre force armée ou formation
+rattachée.
 
-Ces admissions à servir doivent être agréées par l'autorité militaire de l'armée ou formation rattachée d'appartenance et
-l'autorité militaire d'emploi intéressée.
+Ces admissions à servir doivent être agréées par l'autorité militaire de la force armée ou formation rattachée d'appartenance
+et l'autorité militaire d'emploi intéressée.
 
 L'exécution des périodes d'activité prévues au premier alinéa fait l'objet, sauf urgence, d'une convention conclue entre
-l'autorité militaire de l'armée ou formation rattachée d'appartenance et l'autorité militaire d'emploi intéressée et
+l'autorité militaire de la force armée ou formation rattachée d'appartenance et l'autorité militaire d'emploi intéressée et
 précisant, en tant que de besoin, les modalités financières de l'admission à servir.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 16
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ##### Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1
@@ -106715,28 +109851,28 @@ concernés. Cette convention est conclue pour une durée maximale de trois ans r
 
 ###### Article R4221-17-2
 
-La convention mentionnée à l'article R. 4221-17-1 précise notamment : 
+La convention mentionnée à l'article R. 4221-17-1 précise notamment :
 
-1° Les objectifs poursuivis par l'emploi de chaque réserviste ; 
+1° Les objectifs poursuivis par l'emploi de chaque réserviste ;
 
-2° Le nombre maximum de réservistes, leur mission ainsi que la nature, le niveau et la durée des activités qu'ils exercent ; 
+2° Le nombre maximum de réservistes, leur mission ainsi que la nature, le niveau et la durée des activités qu'ils exercent ;
 
-3° Les modalités de leur admission et leurs conditions d'emploi ; 
+3° Les modalités de leur admission et leurs conditions d'emploi ;
 
 4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées
 par les réservistes intéressés sont remboursés au ministère de la défense, ou au ministre de l'intérieur pour les réservistes
-de la gendarmerie nationale ; 
+de la gendarmerie nationale ;
 
-5° Les modalités du contrôle et de l'évaluation desdites activités ; 
+5° Les modalités du contrôle et de l'évaluation desdites activités ;
 
-6° Les modalités de retour du réserviste dans son armée ou dans sa formation rattachée lorsque celui-ci intervient avant le
-terme initialement prévu par l'arrêté mentionné au dernier alinéa de l'article L. 4221-1 du code de la défense.
+6° Les modalités de retour du réserviste dans sa force armée ou dans sa formation rattachée lorsque celui-ci intervient avant
+le terme initialement prévu par l'arrêté mentionné au dernier alinéa de l'article L. 4221-1 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 19
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -106912,14 +110048,13 @@ l'autorité militaire d'emploi.
 
 ###### Article R4221-23
 
-Sous réserve des dispositions de l'article L. 4143-1, l'avancement de grade des réservistes est prononcé uniquement au
-choix. 
+Sous réserve des dispositions de l'article L. 4143-1, l'avancement de grade des réservistes est prononcé uniquement au choix.
 
 Sous réserve de l'application des articles R. 4221-21 et R. 4221-22, les promotions ont lieu de façon continue, de grade à
-grade. 
+grade.
 
-Un arrêté du ministre de la défense fixe pour le contrôle général des armées, pour chaque armée et pour chaque formation
-rattachée, à l'exception de la gendarmerie nationale, les conditions à remplir pour être proposable au grade supérieur. 
+Un arrêté du ministre de la défense fixe pour chaque force armée, à l'exception de la gendarmerie nationale, et pour chaque
+formation rattachée, les conditions à remplir pour pouvoir être proposé au grade supérieur.
 
 Pour la gendarmerie nationale, les conditions à remplir pour être proposable au grade supérieur sont fixées par un arrêté du
 ministre de l'intérieur.
@@ -106937,7 +110072,7 @@ corps de rattachement ou les dispositions statutaires de rattachement ne sont pa
 
 	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 25
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -107076,16 +110211,16 @@ en découlent ainsi que, le cas échéant, son unité et son lieu d'affectation.
 
 ###### Article R4231-2
 
-Pour les besoins du service, les anciens militaires peuvent, à la demande d'une armée ou d'une formation rattachée, être
-astreints à la disponibilité dans une autre armée ou une formation rattachée que celle dans laquelle ils ont servi, sous
-réserve que celle-ci ait préalablement et formellement donné son accord. Dans ce cas, la période de disponibilité ne peut en
-aucun cas excéder la durée qui avait été initialement notifiée à l'intéressé.
+Pour les besoins du service, les anciens militaires peuvent, à la demande d'une force armée ou d'une formation rattachée,
+être astreints à la disponibilité dans une autre force armée ou une formation rattachée que celle dans laquelle ils ont
+servi, sous réserve que celle-ci ait préalablement et formellement donné son accord. Dans ce cas, la période de disponibilité
+ne peut en aucun cas excéder la durée qui avait été initialement notifiée à l'intéressé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4231-3
@@ -107142,7 +110277,7 @@ Les services comptent du jour de la mise en route jusqu'à celui du retour du di
 ###### Article R4241-1
 
 Un arrêté conjoint du ministre de la défense et du ministre de l'intérieur définit les modalités d'accès à la réserve
-citoyenne du contrôle général des armées, des armées et des formations rattachées. 
+citoyenne des forces armées et des formations rattachées.
 
 L'agrément donné à la demande d'accès à la réserve citoyenne peut à tout moment être retiré, à titre temporaire ou définitif,
 par décision motivée du ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie
@@ -107161,7 +110296,7 @@ application du présent article.
 
 	**Modifié par**:
 
-	  - Décret n°2015-296 du 16 mars 2015 - art. 27
+	  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4241-2
@@ -107221,17 +110356,17 @@ application du présent article.
 
 ###### Article D4261-1
 
-Le Conseil supérieur de la réserve militaire a pour missions : 
+Le Conseil supérieur de la réserve militaire a pour missions :
 
-1° De participer à la réflexion sur le rôle des réserves militaires au service de la défense et de la sécurité nationale ; 
+1° De participer à la réflexion sur le rôle des réserves militaires au service de la défense et de la sécurité nationale ;
 
 2° De constituer un lieu de consultation et d'échange sur toute question d'ordre général relative à la mise en œuvre du
-présent livre ; 
+présent livre ;
 
-3° De favoriser le développement d'un partenariat durable entre les armées et formations rattachées, les réservistes et leurs
-employeurs ; 
+3° De favoriser le développement d'un partenariat durable entre les forces armées et formations rattachées, les réservistes
+et leurs employeurs ;
 
-4° De contribuer à la promotion de l'esprit de défense et au développement du lien entre la nation et ses forces armées ; 
+4° De contribuer à la promotion de l'esprit de défense et au développement du lien entre la nation et ses forces armées ;
 
 5° D'établir pour le ministre de la défense un rapport annuel, transmis au Parlement, évaluant l'état de la réserve
 militaire.
@@ -107240,7 +110375,7 @@ militaire.
 
 	**Modifié par**:
 
-	  - Décret n°2014-130 du 14 février 2014 - art. 1
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -107255,109 +110390,109 @@ militaire.
 
 ###### Article D4261-2
 
-Le Conseil supérieur de la réserve militaire est présidé par le ministre de la défense ou son représentant. 
+Le Conseil supérieur de la réserve militaire est présidé par le ministre de la défense ou son représentant.
 
-Il comprend soixante-dix-neuf membres répartis dans les sept collèges suivants : 
+Il comprend soixante-dix-neuf membres répartis dans les sept collèges suivants :
 
-1° Le collège des représentants du Parlement, composé de quatre membres : 
+1° Le collège des représentants du Parlement, composé de quatre membres :
 
-a) Deux députés désignés par le président de l'Assemblée nationale ; 
+a) Deux députés désignés par le président de l'Assemblée nationale ;
 
-b) Deux sénateurs désignés par le président du Sénat. 
+b) Deux sénateurs désignés par le président du Sénat.
 
-2° Le collège des représentants de l'administration composé de seize membres : 
+2° Le collège des représentants de l'administration composé de seize membres :
 
-a) Le chef d'état-major des armées ou son représentant ; 
+a) Le chef d'état-major des armées ou son représentant ;
 
-b) Le délégué général pour l'armement ou son représentant ; 
+b) Le délégué général pour l'armement ou son représentant ;
 
-c) Le secrétaire général pour l'administration ou son représentant ; 
+c) Le secrétaire général pour l'administration ou son représentant ;
 
-d) Les chefs d'état-major de l'armée de terre, de la marine, de l'armée de l'air ou leurs représentants ; 
+d) Les chefs d'état-major de l'armée de terre, de la marine, de l'armée de l'air ou leurs représentants ;
 
-e) Le directeur général de la gendarmerie nationale ou son représentant ; 
+e) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-f) Le chef du contrôle général des armées ou son représentant ; 
+f) Le chef du contrôle général des armées ou son représentant ;
 
-g) Le directeur central du service de santé des armées ou son représentant ; 
+g) Le directeur central du service de santé des armées ou son représentant ;
 
-h) Le directeur central du service des essences des armées ou son représentant ; 
+h) Le directeur central du service des essences des armées ou son représentant ;
 
-i) Le directeur des ressources humaines du ministère de la défense ou son représentant ; 
+i) Le directeur des ressources humaines du ministère de la défense ou son représentant ;
 
-j) Le directeur central du service du commissariat des armées ou son représentant ; 
+j) Le directeur central du service du commissariat des armées ou son représentant ;
 
 k) Deux officiers généraux de zone de défense et de sécurité, ou leurs représentants, désignés par le chef d'état-major des
-armées ; 
+armées ;
 
 l) Deux commandants de région de gendarmerie, ou leurs représentants, désignés par le directeur général de la gendarmerie
-nationale ; 
+nationale ;
 
 3° Le collège des représentants des associations de réservistes agréées par le ministre de la défense sur proposition des
-armées et formations rattachées, composé de treize membres, désignés par le ministre de la défense sur proposition des
-associations de réservistes ; 
+forces armées et formations rattachées, composé de treize membres, désignés par le ministre de la défense sur proposition des
+associations de réservistes ;
 
-4° Le collège des réservistes opérationnels composé de quatorze membres : 
+4° Le collège des réservistes opérationnels composé de quatorze membres :
 
 a) Cinq réservistes opérationnels de la gendarmerie nationale désignés par le directeur général de la gendarmerie nationale
-parmi les réservistes ayant fait acte de volontariat ; 
+parmi les réservistes ayant fait acte de volontariat ;
 
 b) Trois réservistes opérationnels de l'armée de terre tirés au sort parmi les membres de l'instance de consultation des
-réserves de l'armée de terre ayant fait acte de volontariat ; 
+réserves de l'armée de terre ayant fait acte de volontariat ;
 
 c) Deux réservistes opérationnels de la marine nationale tirés au sort parmi les membres de l'instance de consultation des
-réserves de la marine nationale ayant fait acte de volontariat ; 
+réserves de la marine nationale ayant fait acte de volontariat ;
 
 d) Deux réservistes opérationnels de l'armée de l'air tirés au sort parmi les membres de l'instance de consultation de
-l'armée de l'air ayant fait acte de volontariat ; 
+l'armée de l'air ayant fait acte de volontariat ;
 
 e) Un réserviste opérationnel du service de santé des armées tiré au sort parmi les membres de l'instance de consultation des
-réserves du service de santé des armées ayant fait acte de volontariat ; 
+réserves du service de santé des armées ayant fait acte de volontariat ;
 
 f) Un réserviste opérationnel de la direction générale de l'armement tiré au sort parmi les membres de l'instance de
-consultation de la direction générale de l'armement ayant fait acte de volontariat. 
+consultation de la direction générale de l'armement ayant fait acte de volontariat.
 
 Parmi les réservistes opérationnels énoncés au a, une représentation minimum d'un membre de chaque catégorie, officiers,
-sous-officiers, militaires du rang, est assurée par le directeur général de la gendarmerie nationale. 
+sous-officiers, militaires du rang, est assurée par le directeur général de la gendarmerie nationale.
 
 Parmi les réservistes opérationnels énoncés au b, une représentation d'un membre de chaque catégorie, officiers, sous-
 officiers, militaires du rang, est assurée par le chef d'état-major de l'armée de terre au moyen d'un tirage au sort par
-catégorie. 
+catégorie.
 
 Parmi les réservistes opérationnels énoncés aux c et d, une représentation de deux catégories différentes parmi les
 officiers, sous-officiers et militaires du rang est assurée, respectivement, par les chefs d'état-major de la marine et de
-l'armée de l'air selon les modalités suivantes : 
+l'armée de l'air selon les modalités suivantes :
 
-- un premier tirage au sort détermine le premier membre relevant d'une des trois catégories ; 
+- un premier tirage au sort détermine le premier membre relevant d'une des trois catégories ;
 
-- un second tirage au sort est effectué parmi les deux autres catégories non pourvues ; 
+- un second tirage au sort est effectué parmi les deux autres catégories non pourvues ;
 
-5° Le collège des réservistes citoyens composé de quatre membres : 
+5° Le collège des réservistes citoyens composé de quatre membres :
 
-a) Un réserviste citoyen de l'armée de terre désigné par le chef d'état-major de l'armée de terre ; 
+a) Un réserviste citoyen de l'armée de terre désigné par le chef d'état-major de l'armée de terre ;
 
-b) Un réserviste citoyen de la marine nationale désigné par le chef d'état-major de la marine ; 
+b) Un réserviste citoyen de la marine nationale désigné par le chef d'état-major de la marine ;
 
-c) Un réserviste citoyen de l'armée de l'air désigné par le chef d'état-major de l'armée de l'air ; 
+c) Un réserviste citoyen de l'armée de l'air désigné par le chef d'état-major de l'armée de l'air ;
 
-d) Un réserviste citoyen de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale ; 
+d) Un réserviste citoyen de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale ;
 
-6° Le collège des salariés et des agents publics composé de quatorze membres ; 
+6° Le collège des salariés et des agents publics composé de quatorze membres ;
 
 7° Le collège des employeurs et professions libérales composé de quatorze membres, dont au moins un représentant de l'ordre
 des médecins.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2014-130 du 14 février 2014 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 28 mai 2014 - art. 6 (V)
 	  - Code de la défense. - art. D4261-10 (V)
 	  - Code de la défense. - art. D4261-8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4261-3
@@ -107716,14 +110851,15 @@ conditions que pour l'assemblée plénière.
 Le secrétaire général du Conseil supérieur de la réserve militaire peut être chargé par le ministre de la défense de toute
 mission dans le domaine de la réserve militaire, à l'exclusion de l'emploi opérationnel des réserves militaires. Il peut
 représenter le ministre de la défense auprès des associations de réservistes. Il est coordonnateur de la réserve citoyenne et
-à ce titre chargé d'assurer la cohérence des politiques suivies dans ce domaine. 
+à ce titre chargé d'assurer la cohérence des politiques suivies dans ce domaine.
 
-Il veille au développement du partenariat entre les armées et formations rattachées, les réservistes et les entreprises. A ce
-titre, il établit et assure le suivi des conventions de soutien à la politique de réserve en liaison avec les commandements
-interarmées territoriaux. Il en informe l'état-major des armées et la direction générale de la gendarmerie nationale. 
+Il veille au développement du partenariat entre les forces armées et formations rattachées, les réservistes et les
+entreprises. A ce titre, il établit et assure le suivi des conventions de soutien à la politique de réserve en liaison avec
+les commandements interarmées territoriaux. Il en informe l'état-major des armées et la direction générale de la gendarmerie
+nationale.
 
 Il préside le comité de liaison réserve-entreprises dont l'organisation et le fonctionnement sont précisés par arrêté du
-ministre de la défense. 
+ministre de la défense.
 
 Il dirige le secrétariat général du Conseil supérieur de la réserve militaire.
 
@@ -107731,7 +110867,7 @@ Il dirige le secrétariat général du Conseil supérieur de la réserve militai
 
 	**Modifié par**:
 
-	  - Décret n°2014-130 du 14 février 2014 - art. 1
+	  - Décret n°2017-745 du 4 mai 2017 - art. 3
 
 
 ###### Article D4261-22
@@ -107790,30 +110926,337 @@ du ministre de la défense.
 
 ###### Article D4341-4
 
-Sont applicables dans les îles Wallis et Futuna : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+dans leur rédaction résultant du décret n° 2008-393 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles D. 4111-1 à D. 4122-13, D. 4123-2 à D. 4123-13, D. 4131-1 à D. 4131-5, D.
-4137-1 à D. 4137-8, D. 4137-142, D. 4139-10 à D. 4139-13 et D. 4151-1 à D. 4152-11 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre II, les dispositions des articles D. 4221-6 à D. 4221-8 et des articles D. 4261-1 à D. 4261-25.
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-1 et D. 4111-2</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-3</td>
+        <td align="left">
+
+Résultant du décret n° 2014-490 du 15 mai 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4111-4 à D. 4121-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4121-2</td>
+        <td align="left">
+
+Résultant du décret n° 2015-368 du 30 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-3 et D. 4121-3-1</td>
+        <td align="left">
+
+Résultant du décret n° 2011-2053 du 30 décembre 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-4 et D. 4121-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4122-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4122-2 à D. 4122-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-2</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-4 à D. 4123-6</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-6-1</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-7 et D. 4123-8</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-9 et D. 4123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-11</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-12 et D. 4123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4131-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4131-2 à D. 4131-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-1 à D. 4137-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4137-7 et D. 4137-8</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-142</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4139-10 à D. 4139-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-1 à D. 4151-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-4</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4151-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4152-1 à D. 4152-3</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-4</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-5</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1431 du 24 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-6 à D. 4152-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-9</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-10</td>
+        <td align="left">
+
+Résultant du décret n° 2011-323 du 24 mars 2011 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre II</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4221-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-7</td>
+        <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-1728 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-1 et D. 4261-2</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-3 à D. 4261-20</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-21</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-22 à D. 4261-24</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4111-1 (V)
-	  - Code de la défense. - art. D4123-2 (V)
-	  - Code de la défense. - art. D4131-1 (V)
-	  - Code de la défense. - art. D4137-1 (V)
-	  - Code de la défense. - art. D4137-142 (V)
-	  - Code de la défense. - art. D4139-10 (V)
-	  - Code de la défense. - art. D4151-1 (V)
-	  - Code de la défense. - art. D4221-6 (V)
-	  - Code de la défense. - art. D4261-1 (V)
+	  - Code de la défense. - art. D4111-1
+	  - Code de la défense. - art. D4123-2
+	  - Code de la défense. - art. D4131-1
+	  - Code de la défense. - art. D4137-1
+	  - Code de la défense. - art. D4137-142
+	  - Code de la défense. - art. D4139-10
+	  - Code de la défense. - art. D4151-1
+	  - Code de la défense. - art. D4221-6
+	  - Code de la défense. - art. D4261-1
 
 
 ###### Article R*4341-1
@@ -107835,30 +111278,1747 @@ R. * 4139-14 à R. * 4139-22.
 
 ###### Article R4341-2
 
-Sont applicables dans les îles Wallis et Futuna : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
+dans leur rédaction résultant du décret n° 2008-392 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles R. 4123-1, R. 4123-14 à R. 4123-44, R. 4124-1 à R. 4125-17, R. 4131-6 à R.
-4136-1, R. 4137-9 à R. 4137-141, R. 4138-1 à R. 4139-9, R. 4139-23 à R. 4141-6 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. 4211-1 à R. 4221-5 et R. 4221-9 à R. 4241-3.
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-14</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-15 à R. 4123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-21 et R. 4123-22</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-24 et R. 4123-25</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-25-1</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-26 à R. 4123-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-30 et R. 4123-31</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-32</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-33</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-35 et R. 4123-36</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-37 à R. 4123-44</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-1 à R. 4124-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-5</td>
+      <td align="left">
+
+Résultant du décret n° 2008-392 du 23 avril 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-6 à R. 4124-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-12</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-13</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-15 à R. 4124-19</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-21 à R. 4124-23</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-25 à R. 4124-27</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-1</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-2</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-4 et R. 4125-5</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-6</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-7 et R. 4125-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-9 à R. 4125-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-6 à R. 4131-9</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-10</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-11</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-12</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-13</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-14</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-4 à R. 4133-8</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-9 à R. 4135-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-3</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-6</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4136-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-12</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-13 à R. 4137-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-20</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-21 et R. 4137-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-2</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-24 à R. 4137-28</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-29</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-30 à R. 4137-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-37</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-38 et R. 4137-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-40</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-41</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-42</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-43 et R. 4137-44</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-46 et R. 4137-47</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-49 et R. 4137-50</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-51</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-52</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-55 et R. 4137-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-57</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-58 à R. 4137-63</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-64</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-65 et R. 4137-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-67 à R. 4137-69</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-70</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-71</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-72</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-74</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-75 à R. 4137-78</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-79</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-80 à R. 4187-85</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-86</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-87</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-88 à R. 4137-92</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-93 à R. 4137-95</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-96 et R. 4137-97</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-98</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-99 à R. 4137-109</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-110 et R. 4137-111</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-112 à R. 4137-120</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-120-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-121</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-122</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-123 à R. 4137-125</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-126</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-127</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-128</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-129 à R. 4137-134</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-135 à R. 4137-139</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-140 et R. 4137-141</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-2</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1587 du 4 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-3 à R. 4138-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-4 à R. 4138-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-18 et R. 4138-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-20</td>
+      <td align="left">
+
+Résultant du décret n° 2012-905 du 23 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-21</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-22</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-23 à R. 4138-26</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-27</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-484 du 19 avril 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-2 et R. 4138-29-3</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-30</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-31 à R. 4138-33</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-33-1 à R. 4138-33-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-34</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-35</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-36</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-38</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-39</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-40 et R. 4138-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-42 et R. 4138-43</td>
+      <td align="left">
+
+Résultant du décret n° 2015-640 du 8 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-44</td>
+      <td align="left">
+
+Résultant du décret n° 2011-1517 du 14 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-45</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-46</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-47 et R. 4138-48</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-49 et R. 4138-50</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-51</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-52 à R. 4138-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-57 et R. 4138-58</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-59</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-60</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-62</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-63</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-64</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-65</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-67 et R. 4138-68</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-69 à R. 4138-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-74</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-75 et R. 4138-76</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-1 à R. 4139-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-23</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-25</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-29</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-30 et R. 4139-31</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-32</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-35</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-37</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-38</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-39</td>
+      <td align="left">
+
+Résultant du décret n° 2010-271 du 15 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-40</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-41</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-42</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-43</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-44</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-46</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-47</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-49</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-50</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-51 à R. 4139-52</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-53 et R. 4139-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-55</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-56</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-57</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-59 à R. 4139-61</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-1 à R. 4141-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4141-4</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-5 et R. 4141-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-6</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-7 et R. 4211-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-9 et R. 4211-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-3 à R. 4221-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-2 à R. 4221-10-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1636 du 10 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-13 et R. 4221-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-15</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-16 et R. 4221-17</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-1</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-3 à R. 4221-20</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-21</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-22</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-23</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-24</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-25</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1304 du 26 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4231-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-3 à R. 4231-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4241-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-1 (V)
-	  - Code de la défense. - art. R4123-14 (V)
-	  - Code de la défense. - art. R4124-1 (V)
-	  - Code de la défense. - art. R4131-6 (V)
-	  - Code de la défense. - art. R4137-9 (V)
-	  - Code de la défense. - art. R4138-1 (V)
-	  - Code de la défense. - art. R4139-23 (V)
-	  - Code de la défense. - art. R4211-1 (V)
-	  - Code de la défense. - art. R4221-9 (V)
+	  - Code de la défense. - art. R4123-1
+	  - Code de la défense. - art. R4123-14
+	  - Code de la défense. - art. R4124-1
+	  - Code de la défense. - art. R4131-6
+	  - Code de la défense. - art. R4137-9
+	  - Code de la défense. - art. R4138-1
+	  - Code de la défense. - art. R4139-23
+	  - Code de la défense. - art. R4211-1
+	  - Code de la défense. - art. R4221-9
 
 
 ###### Article R4341-3
@@ -107883,30 +113043,337 @@ l'enfance " sont remplacés par les mots : " service local d'aide sociale à l'e
 
 ###### Article D4351-4
 
-Sont applicables en Polynésie française : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction résultant du décret n° 2008-393 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles D. 4111-1 à D. 4122-13, D. 4123-2 à D. 4123-13, D. 4131-1 à D. 4131-5, D.
-4137-1 à D. 4137-8, D. 4137-142, D. 4139-10 à D. 4139-13 et D. 4151-1 à D. 4152-11 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre II, les dispositions des articles D. 4221-6 à D. 4221-8 et des articles D. 4261-1 à D. 4261-25.
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-1 et D. 4111-2</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-3</td>
+        <td align="left">
+
+Résultant du décret n° 2014-490 du 15 mai 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4111-4 à D. 4121-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4121-2</td>
+        <td align="left">
+
+Résultant du décret n° 2015-368 du 30 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-3 et D. 4121-3-1</td>
+        <td align="left">
+
+Résultant du décret n° 2011-2053 du 30 décembre 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-4 et D. 4121-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4122-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4122-2 à D. 4122-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-2</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-4 à D. 4123-6</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-6-1</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-7 et D. 4123-8</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-9 et D. 4123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-11</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-12 et D. 4123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4131-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4131-2 à D. 4131-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-1 à D. 4137-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4137-7 et D. 4137-8</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-142</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4139-10 à D. 4139-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-1 à D. 4151-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-4</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4151-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4152-1 à D. 4152-3</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-4</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-5</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1431 du 24 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-6 à D. 4152-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-9</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-10</td>
+        <td align="left">
+
+Résultant du décret n° 2011-323 du 24 mars 2011 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre II</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4221-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-7</td>
+        <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-1728 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-1 et D. 4261-2</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-3 à D. 4261-20</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-21</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-22 à D. 4261-24</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4111-1 (V)
-	  - Code de la défense. - art. D4123-2 (V)
-	  - Code de la défense. - art. D4131-1 (V)
-	  - Code de la défense. - art. D4137-1 (V)
-	  - Code de la défense. - art. D4137-142 (V)
-	  - Code de la défense. - art. D4139-10 (V)
-	  - Code de la défense. - art. D4151-1 (V)
-	  - Code de la défense. - art. D4221-6 (V)
-	  - Code de la défense. - art. D4261-1 (V)
+	  - Code de la défense. - art. D4111-1
+	  - Code de la défense. - art. D4123-2
+	  - Code de la défense. - art. D4131-1
+	  - Code de la défense. - art. D4137-1
+	  - Code de la défense. - art. D4137-142
+	  - Code de la défense. - art. D4139-10
+	  - Code de la défense. - art. D4151-1
+	  - Code de la défense. - art. D4221-6
+	  - Code de la défense. - art. D4261-1
 
 
 ###### Article R*4351-1
@@ -107928,30 +113395,1745 @@ Sont applicables en Polynésie française, au livre Ier, les dispositions des ar
 
 ###### Article R4351-2
 
-Sont applicables en Polynésie française : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction résultant du décret n° 2008-392 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles R. 4123-1, R. 4123-14 à R. 4123-44, R. 4124-1 à R. 4125-17, R. 4131-6 à R.
-4136-1, R. 4137-9 à R. 4137-141, R. 4138-1 à R. 4139-9, R. 4139-23 à R. 4141-6 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. 4211-1 à R. 4221-5 et R. 4221-9 à R. 4241-3.
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-14</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-15 à R. 4123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-21 et R. 4123-22</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-24 et R. 4123-25</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-25-1</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-26 à R. 4123-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-30 et R. 4123-31</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-32</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-33</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-35 et R. 4123-36</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-37 à R. 4123-44</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-1 à R. 4124-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-5</td>
+      <td align="left">
+
+Résultant du décret n° 2008-392 du 23 avril 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-6 à R. 4124-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-12</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-13</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-15 à R. 4124-19</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-21 à R. 4124-23</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-25 à R. 4124-27</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-1</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-2</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-4 et R. 4125-5</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-6</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-7 et R. 4125-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-9 à R. 4125-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-6 à R. 4131-9</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-10</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-11</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-12</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-13</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-14</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-4 à R. 4133-8</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-9 à R. 4135-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-3</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-6</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4136-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-12</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-13 à R. 4137-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-20</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-21 et R. 4137-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-2</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-24 à R. 4137-28</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-29</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-30 à R. 4137-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-37</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-38 et R. 4137-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-40</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-41</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-42</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-43 et R. 4137-44</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-46 et R. 4137-47</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-49 et R. 4137-50</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-51</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-52</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-55 et R. 4137-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-57</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-58 à R. 4137-63</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-64</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-65 et R. 4137-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-67 à R. 4137-69</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-70</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-71</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-72</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-74</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-75 à R. 4137-78</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-79</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-80 à R. 4187-85</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-86</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-87</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-88 à R. 4137-92</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-93 à R. 4137-95</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-96 et R. 4137-97</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-98</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-99 à R. 4137-109</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-110 et R. 4137-111</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-112 à R. 4137-120</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-120-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-121</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-122</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-123 à R. 4137-125</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-126</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-127</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-128</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-129 à R. 4137-134</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-135 à R. 4137-139</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-140 et R. 4137-141</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-2</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1587 du 4 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-3 à R. 4138-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-4 à R. 4138-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-18 et R. 4138-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-20</td>
+      <td align="left">
+
+Résultant du décret n° 2012-905 du 23 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-21</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-22</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-23 à R. 4138-26</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-27</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-484 du 19 avril 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-2 et R. 4138-29-3</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-30</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-31 à R. 4138-33</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-33-1 à R. 4138-33-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-34</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-35</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-36</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-38</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-39</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-40 et R. 4138-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-42 et R. 4138-43</td>
+      <td align="left">
+
+Résultant du décret n° 2015-640 du 8 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-44</td>
+      <td align="left">
+
+Résultant du décret n° 2011-1517 du 14 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-45</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-46</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-47 et R. 4138-48</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-49 et R. 4138-50</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-51</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-52 à R. 4138-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-57 et R. 4138-58</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-59</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-60</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-62</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-63</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-64</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-65</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-67 et R. 4138-68</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-69 à R. 4138-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-74</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-75 et R. 4138-76</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-1 à R. 4139-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-23</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-25</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-29</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-30 et R. 4139-31</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-32</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-35</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-37</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-38</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-39</td>
+      <td align="left">
+
+Résultant du décret n° 2010-271 du 15 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-40</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-41</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-42</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-43</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-44</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-46</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-47</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-49</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-50</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-51 à R. 4139-52</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-53 et R. 4139-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-55</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-56</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-57</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-59 à R. 4139-61</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-1 à R. 4141-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4141-4</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-5 et R. 4141-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-6</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-7 et R. 4211-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-9 et R. 4211-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-3 à R. 4221-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-2 à R. 4221-10-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1636 du 10 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-13 et R. 4221-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-15</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-16 et R. 4221-17</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-1</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-3 à R. 4221-20</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-21</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-22</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-23</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-24</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-25</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1304 du 26 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4231-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-3 à R. 4231-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4241-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-1 (V)
-	  - Code de la défense. - art. R4123-14 (V)
-	  - Code de la défense. - art. R4124-1 (V)
-	  - Code de la défense. - art. R4131-6 (V)
-	  - Code de la défense. - art. R4137-9 (V)
-	  - Code de la défense. - art. R4138-1 (V)
-	  - Code de la défense. - art. R4139-23 (V)
-	  - Code de la défense. - art. R4211-1 (V)
-	  - Code de la défense. - art. R4221-9 (V)
+	  - Code de la défense. - art. R4123-1
+	  - Code de la défense. - art. R4123-14
+	  - Code de la défense. - art. R4124-1
+	  - Code de la défense. - art. R4131-6
+	  - Code de la défense. - art. R4137-9
+	  - Code de la défense. - art. R4138-1
+	  - Code de la défense. - art. R4139-23
+	  - Code de la défense. - art. R4211-1
+	  - Code de la défense. - art. R4221-9
 
 
 ###### Article R4351-3
@@ -107976,30 +115158,337 @@ l'enfance " sont remplacés par les mots : " service local d'aide sociale à l'e
 
 ###### Article D4361-4
 
-Sont applicables en Nouvelle-Calédonie : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
+leur rédaction résultant du décret n° 2008-393 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles D. 4111-1 à D. 4122-13, D. 4123-2 à D. 4123-13, D. 4131-1 à D. 4131-5, D.
-4137-1 à D. 4137-8, D. 4137-142, D. 4139-10 à D. 4139-13 et D. 4151-1 à D. 4152-11 ; 
+<table>
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre II, les dispositions des articles D. 4221-6 à D. 4221-8 et des articles D. 4261-1 à D. 4261-25.
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre Ier</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-1 et D. 4111-2</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-3</td>
+        <td align="left">
+
+Résultant du décret n° 2014-490 du 15 mai 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4111-4 à D. 4121-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4121-2</td>
+        <td align="left">
+
+Résultant du décret n° 2015-368 du 30 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-3 et D. 4121-3-1</td>
+        <td align="left">
+
+Résultant du décret n° 2011-2053 du 30 décembre 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-4 et D. 4121-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4122-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4122-2 à D. 4122-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-2</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-4 à D. 4123-6</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-6-1</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-7 et D. 4123-8</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-9 et D. 4123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-11</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-12 et D. 4123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4131-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4131-2 à D. 4131-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-1 à D. 4137-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4137-7 et D. 4137-8</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-142</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4139-10 à D. 4139-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-1 à D. 4151-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-4</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4151-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4152-1 à D. 4152-3</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-4</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-5</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1431 du 24 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-6 à D. 4152-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-9</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-10</td>
+        <td align="left">
+
+Résultant du décret n° 2011-323 du 24 mars 2011 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Au livre II</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4221-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-7</td>
+        <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4221-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-1728 du 30 décembre 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-1 et D. 4261-2</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-3 à D. 4261-20</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-21</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4261-22 à D. 4261-24</td>
+        <td align="left">
+
+Résultant du décret n° 2014-130 du 14 février 2014 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4111-1 (V)
-	  - Code de la défense. - art. D4123-2 (V)
-	  - Code de la défense. - art. D4131-1 (V)
-	  - Code de la défense. - art. D4137-1 (V)
-	  - Code de la défense. - art. D4137-142 (V)
-	  - Code de la défense. - art. D4139-10 (V)
-	  - Code de la défense. - art. D4151-1 (V)
-	  - Code de la défense. - art. D4221-6 (V)
-	  - Code de la défense. - art. D4261-1 (V)
+	  - Code de la défense. - art. D4111-1
+	  - Code de la défense. - art. D4123-2
+	  - Code de la défense. - art. D4131-1
+	  - Code de la défense. - art. D4137-1
+	  - Code de la défense. - art. D4137-142
+	  - Code de la défense. - art. D4139-10
+	  - Code de la défense. - art. D4151-1
+	  - Code de la défense. - art. D4221-6
+	  - Code de la défense. - art. D4261-1
 
 
 ###### Article R*4361-1
@@ -108021,30 +115510,1745 @@ Sont applicables en Nouvelle-Calédonie, au livre Ier, les dispositions des arti
 
 ###### Article R4361-2
 
-Sont applicables en Nouvelle-Calédonie : 
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur
+rédaction résultant du décret n° 2008-392 du 23 avril 2008 :
 
-1° Au livre Ier, les dispositions des articles R. 4123-1, R. 4123-14 à R. 4123-44, R. 4124-1 à R. 4125-17, R. 4131-6 à R.
-4136-1, R. 4137-9 à R. 4137-141, R. 4138-1 à R. 4139-9, R. 4139-23 à R. 4141-6 ; 
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre II, les dispositions des articles R. 4211-1 à R. 4221-5 et R. 4221-9 à R. 4241-3.
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-14</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-15 à R. 4123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-21 et R. 4123-22</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-24 et R. 4123-25</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-25-1</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-26 à R. 4123-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-30 et R. 4123-31</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-32</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-33</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-35 et R. 4123-36</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-37 à R. 4123-44</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-1 à R. 4124-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-5</td>
+      <td align="left">
+
+Résultant du décret n° 2008-392 du 23 avril 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-6 à R. 4124-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-12</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-13</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-15 à R. 4124-19</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-21 à R. 4124-23</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-25 à R. 4124-27</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-1</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-2</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-4 et R. 4125-5</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-6</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-7 et R. 4125-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-9 à R. 4125-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-6 à R. 4131-9</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-10</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-11</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-12</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-13</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-14</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-4 à R. 4133-8</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-9 à R. 4135-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-3</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-6</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4136-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-12</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-13 à R. 4137-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-20</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-21 et R. 4137-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-2</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-24 à R. 4137-28</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-29</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-30 à R. 4137-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-37</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-38 et R. 4137-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-40</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-41</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-42</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-43 et R. 4137-44</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-46 et R. 4137-47</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-49 et R. 4137-50</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-51</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-52</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-55 et R. 4137-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-57</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-58 à R. 4137-63</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-64</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-65 et R. 4137-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-67 à R. 4137-69</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-70</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-71</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-72</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-74</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-75 à R. 4137-78</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-79</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-80 à R. 4187-85</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-86</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-87</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-88 à R. 4137-92</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-93 à R. 4137-95</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-96 et R. 4137-97</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-98</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-99 à R. 4137-109</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-110 et R. 4137-111</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-112 à R. 4137-120</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-120-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-121</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-122</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-123 à R. 4137-125</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-126</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-127</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-128</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-129 à R. 4137-134</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-135 à R. 4137-139</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-140 et R. 4137-141</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-2</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1587 du 4 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-3 à R. 4138-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-4 à R. 4138-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-18 et R. 4138-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-20</td>
+      <td align="left">
+
+Résultant du décret n° 2012-905 du 23 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-21</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-22</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-23 à R. 4138-26</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-27</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-484 du 19 avril 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-2 et R. 4138-29-3</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-30</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-31 à R. 4138-33</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-33-1 à R. 4138-33-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-34</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-35</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-36</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-38</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-39</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-40 et R. 4138-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-42 et R. 4138-43</td>
+      <td align="left">
+
+Résultant du décret n° 2015-640 du 8 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-44</td>
+      <td align="left">
+
+Résultant du décret n° 2011-1517 du 14 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-45</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-46</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-47 et R. 4138-48</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-49 et R. 4138-50</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-51</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-52 à R. 4138-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-57 et R. 4138-58</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-59</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-60</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-62</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-63</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-64</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-65</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-67 et R. 4138-68</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-69 à R. 4138-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-74</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-75 et R. 4138-76</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-1 à R. 4139-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-23</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-25</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-29</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-30 et R. 4139-31</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-32</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-35</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-37</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-38</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-39</td>
+      <td align="left">
+
+Résultant du décret n° 2010-271 du 15 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-40</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-41</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-42</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-43</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-44</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-46</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-47</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-49</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-50</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-51 à R. 4139-52</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-53 et R. 4139-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-55</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-56</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-57</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-59 à R. 4139-61</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-1 à R. 4141-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4141-4</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-5 et R. 4141-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-6</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-7 et R. 4211-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-9 et R. 4211-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4211-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4211-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-3 à R. 4221-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-10-2 à R. 4221-10-4</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1636 du 10 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-12</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-13 et R. 4221-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-15</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-16 et R. 4221-17</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-1</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-17-3 à R. 4221-20</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-21</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-22</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-23</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-24</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-25</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1304 du 26 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4221-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4221-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4231-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4231-3 à R. 4231-5</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4241-2</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4241-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-1 (V)
-	  - Code de la défense. - art. R4123-14 (V)
-	  - Code de la défense. - art. R4124-1 (V)
-	  - Code de la défense. - art. R4131-6 (V)
-	  - Code de la défense. - art. R4137-9 (V)
-	  - Code de la défense. - art. R4138-1 (V)
-	  - Code de la défense. - art. R4139-23 (V)
-	  - Code de la défense. - art. R4211-1 (V)
-	  - Code de la défense. - art. R4221-9 (V)
+	  - Code de la défense. - art. R4123-1
+	  - Code de la défense. - art. R4123-14
+	  - Code de la défense. - art. R4124-1
+	  - Code de la défense. - art. R4131-6
+	  - Code de la défense. - art. R4137-9
+	  - Code de la défense. - art. R4138-1
+	  - Code de la défense. - art. R4139-23
+	  - Code de la défense. - art. R4211-1
+	  - Code de la défense. - art. R4221-9
 
 
 ###### Article R4361-3
@@ -108069,25 +117273,267 @@ l'enfance " sont remplacés par les mots : " service local d'aide sociale à l'e
 
 ###### Article D4371-3
 
-Sont applicables dans les Terres australes et antarctiques françaises, au livre Ier, les dispositions des articles D. 4111-1
-à D. 4122-13, D. 4123-2 à D. 4123-13, D. 4131-1 à D. 4131-5, D. 4137-1 à D. 4137-8, D. 4137-142, D. 4139-10 à D. 4139-13 et
-D. 4151-1 à D. 4152-11.
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
+antarctiques françaises, dans leur rédaction résultant du décret n° 2008-393 du 23 avril 2008 :
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+DISPOSITIONS APPLICABLES</th>
+        <th>
+
+DANS LEUR RÉDACTION</th>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4111-1 et D. 4111-2</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4111-3</td>
+        <td align="left">
+
+Résultant du décret n° 2014-490 du 15 mai 2014 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4111-4 à D. 4121-1</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4121-2</td>
+        <td align="left">
+
+Résultant du décret n° 2015-368 du 30 mars 2015 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-3 et D. 4121-3-1</td>
+        <td align="left">
+
+Résultant du décret n° 2011-2053 du 30 décembre 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4121-4 et D. 4121-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4122-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4122-2 à D. 4122-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-2</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-4 à D. 4123-6</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-6-1</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-7 et D. 4123-8</td>
+        <td align="left">
+
+Résultant du décret n° 2011-549 du 19 mai 2011 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-9 et D. 4123-10</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4123-11</td>
+        <td align="left">
+
+Résultant du décret n° 2013-854 du 24 septembre 2013 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4123-12 et D. 4123-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4131-1</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4131-2 à D. 4131-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-1 à D. 4137-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-6</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4137-7 et D. 4137-8</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4137-142</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4139-10 à D. 4139-13</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-1 à D. 4151-3</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4151-4</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4151-5</td>
+        <td align="left">
+      </td></tr>
+      <tr>
+        <td align="left">
+
+D. 4152-1 à D. 4152-3</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-4</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-5</td>
+        <td align="left">
+
+Résultant du décret n° 2016-1431 du 24 octobre 2016 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-6 à D. 4152-8</td>
+        <td align="left">
+
+Résultant du décret n° 2009-256 du 4 mars 2009 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-9</td>
+        <td align="left">
+
+Résultant du décret n° 2017-745 du 4 mai 2017 </td>
+      </tr>
+      <tr>
+        <td align="left">
+
+D. 4152-10</td>
+        <td align="left">
+
+Résultant du décret n° 2011-323 du 24 mars 2011 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-745 du 4 mai 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de la défense. - art. D4111-1 (V)
-	  - Code de la défense. - art. D4123-2 (V)
-	  - Code de la défense. - art. D4131-1 (V)
-	  - Code de la défense. - art. D4137-1 (V)
-	  - Code de la défense. - art. D4137-142 (V)
-	  - Code de la défense. - art. D4139-10 (V)
-	  - Code de la défense. - art. D4151-1 (V)
+	  - Code de la défense. - art. D4111-1
+	  - Code de la défense. - art. D4123-2
+	  - Code de la défense. - art. D4131-1
+	  - Code de la défense. - art. D4137-1
+	  - Code de la défense. - art. D4137-142
+	  - Code de la défense. - art. D4139-10
+	  - Code de la défense. - art. D4151-1
 
 
 ###### Article R*4371-1
@@ -108109,25 +117555,1439 @@ Sont applicables dans les Terres australes et antarctiques françaises, au livre
 
 ###### Article R4371-2
 
-Sont applicables dans les Terres australes et antarctiques françaises, au livre Ier, les dispositions des articles R. 4123-1,
-R. 4123-14 à R. 4123-44, R. 4124-1 à R. 4125-17, R. 4131-6 à R. 4136-1, R. 4137-10 à R. 4137-141, R. 4138-1 à R. 4139-9, R.
-4139-23 à R. 4141-6.
+Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
+antarctiques françaises, dans leur rédaction résultant du décret n° 2008-392 du 23 avril 2008 :
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DISPOSITIONS APPLICABLES</th>
+      <th>
+
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-14</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-15 à R. 4123-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-21 et R. 4123-22</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-23</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-24 et R. 4123-25</td>
+      <td align="left">
+
+Résultant du décret n° 2011-548 du 19 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-25-1</td>
+      <td align="left">
+
+Résultant du décret n° 2013-1032 du 14 novembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-26 à R. 4123-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-30 et R. 4123-31</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-32</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4123-33</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-35 et R. 4123-36</td>
+      <td align="left">
+
+Résultant du décret n° 2011-72 du 19 janvier 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4123-37 à R. 4123-44</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-1 à R. 4124-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-5</td>
+      <td align="left">
+
+Résultant du décret n° 2008-392 du 23 avril 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-6 à R. 4124-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-12</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-13</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-14</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-15 à R. 4124-19</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-20</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-21 à R. 4124-23</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4124-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4124-25 à R. 4124-27  
+
+</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-1</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-2</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-4 et R. 4125-5</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-6</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4125-7 et R. 4125-8</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4125-9 à R. 4125-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1716 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-6 à R. 4131-9</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-10</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-11</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-12</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-13</td>
+      <td align="left">
+
+Résultant du décret n° 2008-948 du 12 septembre 2008 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4131-14</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4133-4 à R. 4133-8</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4133-9 à R. 4135-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-3</td>
+      <td align="left">
+
+Résultant du décret n° 2016-997 du 20 juillet 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-4</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-5</td>
+      <td align="left">
+
+Résultant du décret n° 2015-296 du 16 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-6</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4135-7</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4135-8</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4136-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-11</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-12</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-13 à R. 4137-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-20</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-21 et R. 4137-22</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-23-2</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-24 à R. 4137-28</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-29</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-30 à R. 4137-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-37</td>
+      <td align="left">
+
+Résultant du décret n° 2010-600 du 3 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-38 et R. 4137-39</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-40</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-41</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-42</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-43 et R. 4137-44</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-46 et R. 4137-47</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-49 et R. 4137-50</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-51</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-52</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-53</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-55 et R. 4137-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-57</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-58 à R. 4137-63</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-64</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-65 et R. 4137-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-67 à R. 4137-69</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-70</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-71</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-72</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-74</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-75 à R. 4137-78</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-79</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-80 à R. 4187-85</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-86</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-87</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-88 à R. 4137-92</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-93 à R. 4137-95</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-96 et R. 4137-97</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-98</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-99 à R. 4137-109</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-110 et R. 4137-111</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-112 à R. 4137-120</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-120-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-121</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-122</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-123 à R. 4137-125</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-126</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-127</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-128</td>
+      <td align="left">
+
+Résultant du décret n° 2011-2051 du 30 décembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-129 à R. 4137-134</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-135 à R. 4137-139</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-140 et R. 4137-141</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-2</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1587 du 4 décembre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-3 à R. 4138-3-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-4 à R. 4138-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-17</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-18 et R. 4138-19</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-20</td>
+      <td align="left">
+
+Résultant du décret n° 2012-905 du 23 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-21</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-22</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-23 à R. 4138-26</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-27</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-484 du 19 avril 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-29-2 et R. 4138-29-3</td>
+      <td align="left">
+
+Résultant du décret n° 2012-592 du 27 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-30</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-31 à R. 4138-33</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-33-1 à R. 4138-33-3</td>
+      <td align="left">
+
+Résultant du décret n° 2015-573 du 28 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-34</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-35</td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-36</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-38</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-39</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-40 et R. 4138-41</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-42 et R. 4138-43</td>
+      <td align="left">
+
+Résultant du décret n° 2015-640 du 8 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-44</td>
+      <td align="left">
+
+Résultant du décret n° 2011-1517 du 14 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-45</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-46</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-47 et R. 4138-48</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-49 et R. 4138-50</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-51</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-52 à R. 4138-56</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-57 et R. 4138-58</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-59</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-60</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-62</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-63</td>
+      <td align="left">
+
+Résultant du décret n° 2014-1522 du 16 décembre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-64</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-65</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-66</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-67 et R. 4138-68</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-69 à R. 4138-73</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4138-74</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4138-75 et R. 4138-76</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-1 à R. 4139-9</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-23</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-25</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-26</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-27</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-28</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-29</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-30 et R. 4139-31</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-32</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-33</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-34</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-35</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-36</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-37</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1721du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-38</td>
+      <td align="left">
+
+Résultant du décret n° 2011-469 du 28 avril 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-39</td>
+      <td align="left">
+
+Résultant du décret n° 2010-271 du 15 mars 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-40</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-41</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-42</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-43</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-44</td>
+      <td align="left">
+
+Résultant du décret n° 2015-1388 du 30 octobre 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-45</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-46</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-47</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-48</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-49</td>
+      <td align="left">
+
+Résultant du décret n° 2009-422 du 16 avril 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-50</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-51 à R. 4139-52</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-53 et R. 4139-54</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-55</td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-56</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-57</td>
+      <td align="left">
+
+Résultant du décret n° 2017-130 du 3 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4139-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4139-59 à R. 4139-61</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-1 à R. 4141-3</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4141-4</td>
+      <td align="left">
+
+Résultant du décret n° 2009-1720 du 30 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4141-5 et R. 4141-6</td>
+      <td align="left">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+	  - Décret n°2017-744 du 4 mai 2017 - art. 5
 
 	**Cite**:
 
-	  - Code de la défense. - art. R4123-1 (V)
-	  - Code de la défense. - art. R4123-14 (V)
-	  - Code de la défense. - art. R4124-1 (V)
-	  - Code de la défense. - art. R4131-6 (V)
-	  - Code de la défense. - art. R4137-10 (V)
-	  - Code de la défense. - art. R4138-1 (V)
-	  - Code de la défense. - art. R4139-23 (V)
+	  - Code de la défense. - art. R4123-1
+	  - Code de la défense. - art. R4123-14
+	  - Code de la défense. - art. R4124-1
+	  - Code de la défense. - art. R4131-6
+	  - Code de la défense. - art. R4137-10
+	  - Code de la défense. - art. R4138-1
+	  - Code de la défense. - art. R4139-23
 
 
 ####  TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN

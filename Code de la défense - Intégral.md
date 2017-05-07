@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-05-08
 
 # Partie législative
 
@@ -71729,8 +71729,6 @@ ou aux enquêtes.
 	  - Décret n°2015-869 du 15 juillet 2015 - art. 10
 
 
-##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées
-
 ##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les bâtiments et moyens nautiques du ministère de la défense et de la gendarmerie nationale
 
 ###### Article R3125-18
@@ -74714,7 +74712,7 @@ d'Ile-de-France, commandant la gendarmerie pour la zone de défense et de sécur
 	  - Décret n°2010-773 du 8 juillet 2010 - art. 6
 
 
-#### TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION
+#### TITRE III : LES SERVICES DE SOUTIEN
 
 ##### Chapitre Ier : Organisation générale
 
@@ -75016,10 +75014,6 @@ particulière, sont responsables devant le ministre de la défense.
 
 	  - Décret n°2015-258 du 4 mars 2015 - art. 5
 
-
-#### TITRE III : LES SERVICES DE SOUTIEN
-
-##### Chapitre Ier : Organisation générale
 
 ##### Chapitre II : Composition
 
@@ -76633,9 +76627,9 @@ leur grade.
 	  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-#### TITRE II : LES CONSEILS SUPERIEURS DE L'ARMEE DE TERRE, DE LA MARINE, DE L'ARMEE DE L'AIR ET DE LA GENDARMERIE
+#### TITRE II : LES CONSEILS SUPÉRIEURS DE FORCES ARMÉES ET DE FORMATIONS RATTACHÉES
 
-##### Chapitre Ier : Le conseil supérieur interarmées et les conseils supérieurs d'armée
+##### Chapitre Ier : Les conseils supérieurs des forces armées
 
 ##### Section 1 : Le conseil supérieur interarmées
 
@@ -76756,119 +76750,6 @@ c) Sept pour le Conseil supérieur de l'armée de l'air.
 
 	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
-
-##### Chapitre II : Les conseils supérieurs de formation rattachée
-
-##### Section 1 : Attributions
-
-###### Article R3322-1
-
-Les conseils supérieurs de formations rattachées sont : 
-
-1° Le conseil supérieur de l'armement ; 
-
-2° Le conseil supérieur du service d'infrastructure de la défense. 
-
-Ils sont consultés par le ministre de la défense : 
-
-a) Pour l'avancement aux grades d'officier général de l'armement et du service d'infrastructure de la défense ; 
-
-b) Dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures
-d'ordre individuel. 
-
-Les conseils supérieurs de formations rattachées peuvent être consultés par le président et les vice-présidents désignés à la
-section 2 sur les sujets d'ordre général relatifs à leur formation rattachée. Dans ce cas, le ministre de la défense peut
-inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de sa compétence sur les questions
-soumises à l'examen des conseils supérieurs.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 3
-
-	**Cite**:
-
-	  - Code de la défense. - art. L4141-2
-
-
-##### Section 2 : Composition
-
-###### Article R3322-2
-
-Le conseil supérieur de l'armement et le conseil supérieur du service d'infrastructure de la défense sont présidés par le
-ministre de la défense.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 3
-
-
-###### Article R3322-4
-
-Le Conseil supérieur de l'armement comprend :
-
-1° Le délégué général pour l'armement, vice-président ;
-
-2° L'inspecteur général des armées-armement, membre de droit ;
-
-3° Trois officiers généraux de l'armement de la 1re section, désignés pour un an, à compter du 1er juillet de chaque année,
-par arrêté du ministre de la défense sur proposition du délégué général pour l'armement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-
-###### Article R3322-7
-
-Le Conseil supérieur du service d'infrastructure de la défense comprend :
-
-1° Le secrétaire général pour l'administration, vice-président ;
-
-2° Le directeur central du service d'infrastructure de la défense, membre de droit ;
-
-3° Un officier général du corps des ingénieurs militaires d'infrastructure de la 1re section, désigné pour un an, à compter
-du 1er juillet de chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service
-d'infrastructure de la défense.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-481 du 13 avril 2012 - art. 7
-
-
-##### Chapitre III : Règles de fonctionnement
-
-###### Article R3323-1
-
-Les règles de fonctionnement des conseils supérieurs de force armée ou de formation rattachée sont fixées par arrêté du
-ministre de la défense, ou pour le Conseil supérieur de la gendarmerie nationale, par arrêté conjoint du ministre de la
-défense et du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 8 février 2013 - art. 13 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 3
-
-
-#### TITRE II : LES CONSEILS SUPÉRIEURS DE FORCES ARMÉES ET DE FORMATIONS RATTACHÉES
-
-##### Chapitre Ier : Les conseils supérieurs des forces armées
-
-##### Section 1 : Le conseil supérieur interarmées
-
-##### Section 2 : Les conseils supérieurs d'armée
 
 ##### Section 3 : Le Conseil supérieur de la gendarmerie nationale
 
@@ -77010,9 +76891,106 @@ commissariat des armées.
 
 ##### Section 1 : Attributions
 
+###### Article R3322-1
+
+Les conseils supérieurs de formations rattachées sont : 
+
+1° Le conseil supérieur de l'armement ; 
+
+2° Le conseil supérieur du service d'infrastructure de la défense. 
+
+Ils sont consultés par le ministre de la défense : 
+
+a) Pour l'avancement aux grades d'officier général de l'armement et du service d'infrastructure de la défense ; 
+
+b) Dans les cas prévus aux articles L. 4141-2 et L. 4141-3 pour l'application aux officiers généraux de certaines mesures
+d'ordre individuel. 
+
+Les conseils supérieurs de formations rattachées peuvent être consultés par le président et les vice-présidents désignés à la
+section 2 sur les sujets d'ordre général relatifs à leur formation rattachée. Dans ce cas, le ministre de la défense peut
+inviter à siéger à titre consultatif toute personnalité militaire ou civile en raison de sa compétence sur les questions
+soumises à l'examen des conseils supérieurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4141-2
+
+
 ##### Section 2 : Composition
 
+###### Article R3322-2
+
+Le conseil supérieur de l'armement et le conseil supérieur du service d'infrastructure de la défense sont présidés par le
+ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
+
+###### Article R3322-4
+
+Le Conseil supérieur de l'armement comprend :
+
+1° Le délégué général pour l'armement, vice-président ;
+
+2° L'inspecteur général des armées-armement, membre de droit ;
+
+3° Trois officiers généraux de l'armement de la 1re section, désignés pour un an, à compter du 1er juillet de chaque année,
+par arrêté du ministre de la défense sur proposition du délégué général pour l'armement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+
+
+###### Article R3322-7
+
+Le Conseil supérieur du service d'infrastructure de la défense comprend :
+
+1° Le secrétaire général pour l'administration, vice-président ;
+
+2° Le directeur central du service d'infrastructure de la défense, membre de droit ;
+
+3° Un officier général du corps des ingénieurs militaires d'infrastructure de la 1re section, désigné pour un an, à compter
+du 1er juillet de chaque année, par arrêté du ministre de la défense sur proposition du directeur central du service
+d'infrastructure de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-481 du 13 avril 2012 - art. 7
+
+
 ##### Chapitre III : Règles de fonctionnement
+
+###### Article R3323-1
+
+Les règles de fonctionnement des conseils supérieurs de force armée ou de formation rattachée sont fixées par arrêté du
+ministre de la défense, ou pour le Conseil supérieur de la gendarmerie nationale, par arrêté conjoint du ministre de la
+défense et du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 2013 - art. 13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-744 du 4 mai 2017 - art. 3
+
 
 #### TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT
 
@@ -83485,7 +83463,7 @@ a) Au titre du ministère de la défense :
 
 - le secrétaire général pour l'administration ou son représentant ;
 
-- le directeur du service national ou son représentant ; 
+- le   directeur du service national et de la jeunesse ou son représentant ; 
 
 b) Au titre du ministère chargé de l'emploi :
 
@@ -83495,7 +83473,7 @@ b) Au titre du ministère chargé de l'emploi :
 
 c) Au titre du ministère chargé de la ville :
 
-- le      commissaire général délégué à l'égalité des territoires ou son représentant, disposant de deux voix ; 
+- le commissaire général délégué à l'égalité des territoires ou son représentant, disposant de deux voix ; 
 
 d) Au titre du ministère chargé de l'éducation nationale :
 
@@ -83522,7 +83500,7 @@ remplace est limité à la durée du mandat restant à courir.
 
 	**Modifié par**:
 
-	  - Décret n°2014-394 du 31 mars 2014 - art. 9 (V)
+	  - Décret n°2017-818 du 5 mai 2017 - art. 9 (V)
 
 
 ###### Article R3414-6
@@ -103796,7 +103774,7 @@ disciplinaires de son abandon de poste.
 	  - Code de la défense. - art. R4139-48 (V)
 
 
-#####  Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement
+##### Section 6 : Conseil supérieur de force armée ou de formation  rattachée siégeant disciplinairement
 
 #####  Sous-section 1 : Dispositions générales
 
@@ -103830,14 +103808,6 @@ lieu de consultation du conseil de discipline.
 	  - Code de la défense. - art. R3321-3 (V)
 	  - Code de la défense. - art. R3322-1 (M)
 
-
-#####  Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
-
-#####  Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement
-
-##### Section 6 : Conseil supérieur de force armée ou de formation  rattachée siégeant disciplinairement
-
-#####  Sous-section 1 : Dispositions générales
 
 ##### Sous-section 2 : Composition du conseil supérieur de force armée ou de formation rattachée siégeant disciplinairement
 

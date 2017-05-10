@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -8600,42 +8600,6 @@ V.-Un décret en Conseil d'Etat détermine les modalités d'application du prés
 	**Anciens textes**:
 
 	  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
-
-
-###### Article L2332-3
-
-Le ministre de la défense exerce, pour la réglementation et l'orientation du contrôle de l'Etat sur la fabrication et le
-commerce des matériels désignés dans les dispositions du présent titre et relatives au régime des matériels de guerre, armes
-et munitions, une action de centralisation et de coordination.
-
-**Nota:**
-
-Aux termes de la décision du Conseil constitutionnel n° 2016-262 L du 3 mars 2016 (NOR: CSCL1606529S), article 1 : Les
-dispositions de l'article L. 2332-3 du code de la défense ont le caractère réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-589 du 6 mai 1995 - art. 9 (VT)
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 75 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-1374 du 20 décembre 2004
-	  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
-
-	**Modifié par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-909 du 9 mai 2017 - art. 17
-
-	**Anciens textes**:
-
-	  - Décret n°1939-04-18 du 18 avril 1939 - art. 3 (Ab)
 
 
 ###### Article L2332-4
@@ -55246,7 +55210,101 @@ décret n° 2007-663 du 2 mai 2007 pris pour l'application des articles 30, 31 e
 
 #### TITRE III : MATERIELS DE GUERRE,  ARMES ET MUNITIONS
 
+##### Chapitre Ier : Dispositions générales 
+
+###### Article R2331-1
+
+Au sens du présent titre, on entend par : 
+
+1° Matériels de guerre de la catégorie A2 : l'ensemble des matériels de guerre, armes, munitions et leurs éléments mentionnés
+à la rubrique 2 du I de l'article R. 311-2 du code de la sécurité intérieure ; 
+
+2° Matériels de guerre et matériels assimilés : l'ensemble des matériels figurant sur la liste mentionnée au second alinéa de
+l'article L. 2335-2 ; 
+
+3° Produits liés à la défense : l'ensemble des matériels figurant sur la liste mentionnée au second alinéa de l'article L.
+2335-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2335-2 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+	  - Code de la sécurité intérieure - art. R311-2 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R3231-5 (V)
+
+
+###### Article R2331-2
+
+Les mesures de classement des matériels de guerre de la catégorie A2 sont prises par le ministre de la défense. 
+
+Toute question relative au classement des matériels mentionnés au premier alinéa est soumise à une expertise du ministre de
+la défense, selon des modalités définies par arrêté du ministre de la défense. Il précise si le matériel en question relève
+de la catégorie A2 et notifie sa décision au demandeur. 
+
+Pour les moyens de cryptologie mentionnés au 13° de la catégorie A2, les mesures de classement sont prises après consultation
+des ministres concernés et de l'agence nationale de la sécurité des systèmes d'information. 
+
+Pour le classement de ces matériels, le ministre de la défense peut solliciter l'avis d'une commission technique dont il
+définit l'organisation et les modalités de fonctionnement par arrêté. 
+
+S'il s'avère qu'un matériel relève de la compétence du ministre de l'intérieur, au titre de l'article R. 311-3-1 du code de
+la sécurité intérieure, le ministre de la défense lui transmet le dossier de classement dans les meilleurs délais.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-3-1 (V)
+
+
+###### Article R2331-3
+
+Les armes et éléments d'armes mentionnés au 1° de la catégorie A2 sont soumis aux règles de traçabilité et de marquage
+définies aux articles R. 311-4 et R. 311-5 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-4 (VT)
+
+
 ##### Chapitre II : Fabrication et commerce 
+
+###### Article R2332-1
+
+Le ministre de la défense exerce, pour la réglementation et l'orientation du contrôle de l'Etat sur la fabrication, le
+commerce et l'activité d'intermédiation des matériels de guerre de la catégorie A2 une action de centralisation et de
+coordination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R311-3-1 (V)
+	  - Code de la sécurité intérieure - art. R313-21 (V)
+
 
 ##### Section 1 : Déclaration du dépôt des demandes de brevet d'invention concernant certains biens et matériels 
 
@@ -55299,6 +55357,559 @@ ainsi que le nom du service acheteur
 	  - Code de la défense. - art. L2332-6 (V)
 
 
+##### Section 2 : Fabrication et commerce des matériels de guerre de la catégorie A2 
+
+
+
+##### Sous-section 1 : Autorisation de fabrication et de commerce 
+
+###### Article R2332-4
+
+La déclaration mentionnée au II de l'article L. 2332-1 est conforme aux dispositions prévues à l'article R. 313-27 du code de
+la sécurité intérieure. 
+
+La cessation totale ou partielle d'activité ou le transfert de l'établissement sont déclarés selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la sécurité intérieure - art. R313-27 (V)
+
+
+###### Article R2332-5
+
+La fabrication, le commerce et l'activité d'intermédiation des matériels de guerre de la catégorie A2 sont soumis à
+autorisation du ministre de la défense.
+
+Est soumise à l'autorisation mentionnée à l'alinéa précédent toute activité de fabrication qui consiste en une opération de
+montage, d'assemblage, d'usinage, de moulage, de fabrication additive ou d'emboutissage de matériels de guerre de la
+catégorie A2 l'amenant à sa forme définitive ou très approchée ou toute opération de réparation, transformation ou
+modification de matériels de guerre de la catégorie A2.
+
+Pour les moyens de cryptologie mentionnés au 13° de la catégorie A2, les autorisations sont accordées après consultation des
+ministres concernés et de l'Agence nationale de la sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cité par**:
+
+	  - Code de la défense. - art. R2332-17 (V)
+	  - Code de la défense. - art. R2332-18 (V)
+	  - Code de la défense. - art. R2332-20 (V)
+	  - Code de la défense. - art. R2332-21 (V)
+	  - Code de la défense. - art. R2332-22 (V)
+	  - Code de la défense. - art. R2332-24 (V)
+	  - Code de la défense. - art. R2337-1 (V)
+	  - Code de la défense. - art. R2337-4 (V)
+	  - Code de la sécurité intérieure - art. R313-22 (V)
+	  - Code de la sécurité intérieure - art. R316-31 (V)
+
+
+###### Article R2332-6
+
+I. – L'autorisation prévue à la présente sous-section ne peut être accordée :
+
+1° Aux personnes qui font l'objet d'un régime de protection en application de l'article 440 du code civil, qui ont fait ou
+font l'objet d'une admission en soins psychiatriques en application de l'article 706-135 du code de procédure pénale, qui ont
+été ou sont hospitalisées sans leur consentement en raison de troubles mentaux et aux personnes dont l'état psychique est
+manifestement incompatible avec la détention d'une arme. Il en est de même lorsqu'une personne exerçant, dans la société ou
+le groupement d'intérêt économique demandeur, une fonction de direction ou de gérance est soumise à l'un de ces régimes ;
+
+2° Aux entreprises qui ne satisfont pas aux conditions suivantes :
+
+a) Pour les entreprises individuelles : appartenir à un ressortissant français ;
+
+b) Pour les sociétés de personnes : associés et gérants de nationalité française ;
+
+c) Pour les sociétés par actions et les sociétés à responsabilité limitée : gérants, commandités, membres du conseil
+d'administration, du directoire ou du conseil de surveillance de nationalité française ; majorité du capital détenue par des
+Français. L'Etat peut subordonner l'octroi des autorisations à la forme nominative des actions ;
+
+3° Aux entreprises qui n'ont pas effectué les travaux nécessaires au respect des modalités de conservation des matériels de
+guerre de la catégorie A2, prévues au chapitre VII du présent titre, lorsqu'elles sollicitent, pour la première fois, une
+autorisation de fabrication ou de commerce de ces matériels.
+
+I. – L'autorisation peut être refusée lorsque le demandeur ou une personne appartenant aux organes de surveillance dans la
+société ou le groupement d'intérêt économique demandeur ou y exerçant une fonction d'administrateur, de gérance ou de
+direction a été condamné à une peine d'emprisonnement avec ou sans sursis supérieure à trois mois, figurant sur le bulletin
+n° 2 de son casier judiciaire ou dans un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+
+II. – A titre exceptionnel, le ministre de la défense peut, pour des raisons de sécurité nationale, accorder des
+autorisations dérogeant aux conditions définies au 2° du I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code civil - art. 440
+	  - Code de procédure pénale - art. 706-135
+
+
+###### Article R2332-7
+
+L'autorisation peut être refusée pour des raisons d'ordre public ou de sécurité nationale. Dans ce cas, le ministre de la
+défense en informe le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-8
+
+La notification par l'Etat d'un marché de matériel de guerre mentionné au chapitre III du présent titre tient lieu
+d'autorisation pour le titulaire et pour l'exécution du marché considéré. Le titulaire demeure assujetti, pendant toute la
+durée de cette exécution, aux mêmes obligations que les titulaires d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-9
+
+Peuvent bénéficier de l'autorisation prévue à l'article R. 2332-5 les groupements d'intérêt économique constitués
+conformément aux prescriptions des articles L. 251-1 et suivants du code de commerce dont les membres satisfont
+individuellement aux conditions de l'article R. 2332-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de commerce - art. L251-1 (V)
+
+
+###### Article R2332-10
+
+Les demandes d'autorisation établies en deux exemplaires identiques doivent être conformes aux modèles fixés par un arrêté du
+ministre de la défense.
+
+Les renseignements suivants sont joints à la demande :
+
+1° Pour les entreprises individuelles : justification de la nationalité du demandeur ;
+
+2° Pour les sociétés de personnes : noms de tous les associés en nom, commandités, commanditaires et gérants ; justification
+de la nationalité de ces personnes ;
+
+3° Pour les sociétés par actions et les sociétés à responsabilité limitée : noms des gérants, commandités, membres du conseil
+d'administration, du directoire ou du conseil de surveillance ; justification de la nationalité de ces personnes,
+renseignements concernant la nationalité des actionnaires ou des titulaires des parts sociales et la part du capital détenue
+par les citoyens français ; forme des titres des sociétés par actions ;
+
+4° Pour les groupements d'intérêt économique : nom du ou des administrateurs ; en cas de constitution avec capital,
+renseignements concernant la nationalité des titulaires des parts de capital et la part du capital détenue par les titulaires
+français ;
+
+5° Le cas échéant, nature des contrats conclus avec les services de l'Etat et indication sommaire de leur importance ;
+
+6° Nature de l'activité ou des activités exercées ;
+
+7° La carte nationale d'identité et, pour les étrangers, le passeport ou le titre de séjour font foi de la nationalité du
+requérant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-11
+
+Les demandes d'autorisation sont adressées au ministre de la défense. Il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-12
+
+Le ministre de la défense informe le préfet du lieu de situation des entreprises des autorisations accordées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-13
+
+L'autorisation indique :
+
+1° Le nom ou la raison sociale, l'adresse ou le siège social, l'établissement principal et les établissements secondaires des
+titulaires ;
+
+2° Les lieux d'exercice de la profession ou d'exécution des fabrications ou du commerce ;
+
+3° Les matériels de guerre de la catégorie A2, dont la fabrication ou le commerce sont autorisés ;
+
+4° La durée de validité. Celle-ci n'excède pas cinq ans, l'autorisation peut être renouvelée, sous les mêmes conditions, pour
+la même durée, à la fin de chaque période.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-14
+
+Sont portés sans délai à la connaissance du ministre de la défense :
+
+1° Tout changement dans :
+
+a) La nature juridique de l'entreprise titulaire d'une autorisation ;
+
+b) La nature ou l'objet de ses activités ;
+
+c) Le nombre ou la situation des établissements ;
+
+d) L'identité ou les qualités juridiques d'une ou plusieurs des personnes mentionnées aux articles R. 2332-6, R. 2332-8 et R.
+2332-9, notamment leur nationalité ;
+
+2° Toutes cessions d'actions ou de parts sociales susceptibles de transférer à des ressortissants étrangers le contrôle des
+entreprises mentionnées au 2° du I de l'article R. 2332-6 ;
+
+3° La cessation totale ou partielle de l'activité autorisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-15
+
+L'autorisation peut être retirée : 
+
+1° Lorsque le titulaire cesse de remplir les conditions exigées pour obtenir l'autorisation ou en cas de changement survenu
+après délivrance de celle-ci dans la nature juridique de l'entreprise, l'objet ou le lieu de ses activités ; 
+
+2° Lorsque le titulaire de l'autorisation cesse l'exercice des activités autorisées ; 
+
+3° Lorsque le titulaire a commis une infraction aux prescriptions du présent titre ou des articles L. 4721-3, L. 4721-7, L.
+4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à
+L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2, L. 8224-1 à L. 8224-4 du code du travail ; 
+
+4° Lorsque la personne physique titulaire de l'autorisation ou une personne appartenant aux organes de direction ou de
+surveillance dans la société ou le groupement d'intérêt économique titulaire de l'autorisation ou y exerçant une fonction
+d'administrateur, de gérance ou de direction a été condamnée à une peine mentionnée au II de l'article R. 2332-6 ou dans les
+cas prévus à l'article R. 2332-7. 
+
+Lors de la notification de la décision de retrait, un délai peut être fixé à l'intéressé pour liquider le matériel. Dans la
+limite de ce délai, l'assujetti peut effectuer les opérations de vente prévues par la réglementation, à l'exclusion de toute
+fabrication et de tout achat des matériels atteints par le retrait ainsi que des pièces ne pouvant servir qu'à la fabrication
+de ces matériels. A l'expiration de ce délai, l'administration peut faire vendre aux enchères tous les matériels non encore
+liquidés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code du travail - art. L4721-3 (V)
+	  - Code du travail - art. L4721-7 (V)
+	  - Code du travail - art. L4731-5 (V)
+	  - Code du travail - art. L4732-1 (V)
+	  - Code du travail - art. L4741-1 (V)
+	  - Code du travail - art. L4741-5 (V)
+	  - Code du travail - art. L4741-9 (VT)
+	  - Code du travail - art. L4742-1 (V)
+	  - Code du travail - art. L4744-1 (V)
+	  - Code du travail - art. L4745-1 (V)
+	  - Code du travail - art. L8114-1 (V)
+	  - Code du travail - art. L8224-1 (V)
+
+
+###### Article R2332-16
+
+Le ministre de la défense peut retirer l'autorisation prévue à l'article R. 2332-5 pour des raisons d'ordre public ou de
+sécurité nationale. Le ministre de la défense en avise le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+##### Sous-section 2 : Obligations des titulaires de l'autorisation
+
+###### Article R2332-17
+
+Le titulaire de l'autorisation mentionnée à l'article R. 2332-5, à l'exclusion de celle concernant les armes ou éléments
+d'armes mentionnés au 1° de la catégorie A2, tient un registre des matériels de guerre mis en fabrication, réparation,
+transformation, achetés, vendus, loués, conservés ou détruits dans les conditions définies par un arrêté du ministre de la
+défense. 
+
+S'il effectue, pour ces matériels, des opérations d'intermédiation au sens de l'article L. 2332-1, le titulaire de
+l'autorisation tient un registre spécial où sont inscrits, dès les premiers contacts, le nom des entreprises mises en
+relation ou des autres participants à l'opération, le contenu et les étapes de celle-ci. Sont en outre inscrites sur ce même
+registre, dans les mêmes conditions, les opérations d'achat et de vente portant sur des matériels de guerre de la catégorie
+A2 situés à l'étranger lorsque ces matériels ne sont pas soumis aux dispositions des articles L. 2335-1, L. 2335-2 et L.
+2335-9 du présent code. 
+
+Les moyens de cryptologie mentionnés au 13° de la catégorie A2 font l'objet d'un registre séparé, contrôlé par les agents
+désignés à l'article 36 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. 
+
+Les modèles des registres mentionnés au présent article sont déterminés par un arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 36 (V)
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+	  - Code de la défense. - art. R2332-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+###### Article R2332-18
+
+S'il est détenteur d'armes ou d'éléments d'armes mentionnés au 1° de la catégorie A2, le titulaire de l'autorisation
+mentionnée à l'article R. 2332-5 tient un registre spécial où sont inscrits les matériels de guerre de la catégorie A2 mis en
+fabrication, réparation, transformation, achetés, vendus, loués, conservés ou détruits. 
+
+S'il effectue, pour ces matériels, des opérations d'intermédiation au sens de l'article L. 2332-1, le titulaire de
+l'autorisation tient un registre spécial où sont inscrits, dès les premiers contacts, le nom des entreprises mises en
+relation ou des autres participants à l'opération, le contenu et les étapes de celle-ci. Sont en outre inscrites sur ce même
+registre, dans les mêmes conditions, les opérations d'achat et de vente portant sur des matériels mentionnés au premier
+alinéa situés à l'étranger lorsque ces matériels ne sont pas soumis aux dispositions des articles L. 2335-1, L. 2335-2 et L.
+2335-9. 
+
+Les registres mentionnés au présent article sont tenus jour par jour, opération par opération, sans blancs ni ratures.
+Composés de feuilles conformes au modèle défini par l'arrêté prévu à l'article R. 313-6 du code de la sécurité intérieure,
+ils sont cotés à chaque page et paraphés à la première et à la dernière page par les soins soit du commissaire de police
+compétent, soit du commandant de la brigade de gendarmerie. 
+
+Les modalités de contrôle de ces registres et les formalités à accomplir en cas de cessation, de reprise ou de continuation
+de l'activité sont celles mentionnées à l'article R. 313-41 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la défense. - art. L2335-9 (V)
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. R313-41 (V)
+	  - Code de la sécurité intérieure - art. R313-6 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R313-17 (V)
+	  - Code de la sécurité intérieure - art. R313-25 (V)
+	  - Code de la sécurité intérieure - art. R314-16 (V)
+
+
+###### Article R2332-19
+
+Le contrôle des registres mentionnés à l'article R. 2332-17 est assuré par les agents mentionnés à l'article L. 2339-1. 
+
+En cas de cessation d'activité, les registres mentionnés à l'article R. 2332-17 sont adressés sans délai au ministre de la
+défense. 
+
+En cas de reprise ou de continuation de l'activité par une personne autorisée, ces registres lui sont transférés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2339-1 (V)
+
+
+###### Article R2332-20
+
+S'il est détenteur d'armes ou éléments d'armes mentionnés au 1° de la catégorie A2, le titulaire de l'autorisation mentionnée
+à l'article R. 2332-5 adresse un compte rendu semestriel d'activités au ministre de l'intérieur avant le 15 janvier et avant
+le 15 juillet de chaque année. Ce compte rendu peut prendre la forme d'une photocopie de leur registre spécial ou de l'état
+informatique correspondant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+
+
+###### Article R2332-21
+
+Avant de céder à quelque titre que ce soit une arme ou un élément d'arme mentionné au 1° de la catégorie A2 à un demandeur
+commerçant ou fabricant autorisé, le titulaire de l'autorisation mentionnée à l'article R. 2332-5 s'assure qu'il dispose
+d'une autorisation en cours de validité. La cession ne peut porter que sur les armes ou leurs éléments de cette catégorie
+pour lesquels l'acquéreur détient une autorisation de fabrication ou de commerce ou qui sont des éléments constitutifs des
+armes ou leurs éléments de cette catégorie pour lesquels il détient une telle autorisation. 
+
+La cession est portée sur le registre spécial mentionné au premier alinéa de l'article R. 2332-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+
+
+###### Article R2332-22
+
+I. – Avant de céder à quelque titre que ce soit une arme ou un élément d'arme mentionné au 1° de la catégorie A2 à un
+demandeur autre que mentionné à l'article R. 2332-21, le titulaire de l'autorisation mentionnée à l'article R. 2332-5 se fait
+présenter par le demandeur : 
+
+1° Un document faisant foi de son identité et comportant une photographie ; 
+
+2° L'autorisation d'acquisition et de détention dont celui-ci doit être titulaire. Pour les personnes mentionnées aux
+articles R. 312-22 et R. 312-23 du code de la sécurité intérieure, les autorisations correspondantes sont celles mentionnées
+à l'article R. 312-25 du même code. 
+
+II. – Le fabricant ou commerçant cédant est ensuite tenu : 
+
+1° De compléter les volets n° 1 et 2 de l'autorisation ou du récépissé qui lui est présenté en inscrivant les indications
+qu'il lui incombe d'y porter ; 
+
+2° D'inscrire la cession sur le registre spécial mentionné au premier alinéa de l'article R. 2332-18 ; 
+
+3° De remettre à l'acquéreur le volet n° 1 et d'adresser le volet n° 2 à l'autorité de police qui a reçu la demande ; 
+
+III. – Le fabricant ou commerçant à qui est remise une autorisation de recomplètement de stocks de munitions doit, après
+avoir constaté l'identité de l'acquéreur : 
+
+1° Se faire présenter par celui-ci l'autorisation ou le récépissé d'acquisition et de détention d'armes et de munitions
+(volet n° 1) dont il doit être titulaire, porter au verso de ladite autorisation la nature et le nombre des munitions cédées
+ainsi que la date de la cession, apposer son timbre commercial et sa signature ; 
+
+2° Inscrire sur l'autorisation de recomplètement de stocks ou le récépissé d'acquisition de munitions les mentions qu'il lui
+incombe d'y porter ; 
+
+3° Inscrire la cession sur le registre spécial mentionné au premier alinéa de l'article R. 2332-18 ; 
+
+4° Rendre au titulaire l'autorisation ou le récépissé d'acquisition et de détention d'armes et de munitions (volet n° 1) et
+adresser à l'autorité préfectorale l'autorisation de recomplètement de stocks ou le récépissé d'acquisition de munitions
+dûment complété.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-25 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R312-10 (V)
+
+
+###### Article R2332-23
+
+La fabrication d'armes mentionnées au 1° de la catégorie A2 à partir d'éléments d'armes de cette même catégorie déjà mis sur
+le marché est réalisée dans des conditions fixées par arrêté conjoint des ministres de la défense et de l'intérieur et des
+ministres chargés de l'industrie et des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+
+##### Sous-section 3 : Commerce de détail
+
+###### Article R2332-24
+
+L'autorisation de se livrer, sous le contrôle de l'Etat, à la fabrication et au commerce des armes, munitions et leurs
+éléments mentionnés aux 1° et 2° de la catégorie A2 prévue aux articles R. 2332-5 à R. 2332-8 et délivrée pour des raisons
+d'ordre public ou de sécurité nationale pour une durée maximale de cinq ans par le ministre de la défense constitue, pour le
+représentant légal d'une personne morale mentionnée au I de l'article L. 2332-1, l'agrément prévu à l'article L. 313-2 du
+code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. L313-2 (V)
+
+
+###### Article R2332-25
+
+S'il est détenteur d'armes ou éléments d'armes mentionnés au 1° de la catégorie A2, le titulaire de l'agrément prévu à
+l'article R. 2332-24 prend les mesures de sécurité énoncées aux articles R. 313-16 et R. 313-17 du code de la sécurité
+intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 11
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R313-16 (V)
+
+
 ##### Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne
 
 
@@ -55314,41 +55925,32 @@ ainsi que le nom du service acheteur
 
 ###### Article R2335-1
 
-I.-Sont soumis au régime d'autorisation d'importation mentionné au I de l'article L. 2335-1 : 
+I. – Les matériels de guerre de la catégorie A2 sont soumis au régime d'autorisation d'importation mentionné au I de
+l'article L. 2335-1.
 
-1° Les matériels, armes, munitions et leurs éléments des catégories A, B et C ; 
+II. – Les personnes qui souhaitent procéder à l'importation des matériels mentionnés au I présentent une demande
+d'autorisation d'importation auprès du ministre chargé des douanes, par écrit ou, le cas échéant, sous format électronique.
+Les modalités de présentation de cette demande sont définies par arrêté du ministre chargé des douanes.
 
-2° Les armes, munitions et leurs éléments du 1° de la catégorie D et des a, b et c du 2° de la même catégorie. 
+III. – Lorsque la demande d'autorisation concerne des matériels destinés à être transbordés dans les ports ou les aérodromes
+de France, elle est établie comme une autorisation de transit mentionnée à l'article R. 2335-41.
 
-II.-Les personnes qui souhaitent procéder à l'importation des matériels mentionnés au I présentent une demande d'autorisation
-d'importation auprès du ministre chargé des douanes, par écrit ou, le cas échéant, sous format électronique. Les modalités de
-présentation de cette demande sont définies par arrêté du ministre chargé des douanes. 
-
-III.-Lorsque la demande d'autorisation concerne des matériels destinés à être transbordés dans les ports ou les aérodromes de
-France, elle est établie comme une autorisation de transit mentionnée à l'article R. 2335-41.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
+IV. – Les importations, réalisées par les services de l'Etat, de matériels mentionnés au I du présent article ou au I de
+l'article R. 316-29 du code de la sécurité intérieure, détenus par les forces armées françaises situées dans un Etat non
+membre de l'Union européenne ou sur un territoire exclu du territoire douanier de l'Union européenne, ne sont pas soumises à
+autorisation préalable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 	**Modifié par**:
 
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 180
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. L2335-1
-	  - Code de la défense. - art. R2335-41
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la défense. - art. R2335-41 (V)
+	  - Code de la sécurité intérieure - art. R316-29 (V)
 
 	**Cité par**:
 
@@ -55363,39 +55965,27 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 Les autorisations d'importation mentionnées à l'article L. 2335-1 sont accordées par le ministre chargé des douanes après
 avis favorable, en fonction de leurs attributions respectives, du ministre de la défense, du ministre de l'intérieur ou du
-ministre des affaires étrangères. 
+ministre des affaires étrangères.
 
 L'autorisation peut être délivrée sous forme individuelle ou globale, par écrit ou le cas échéant sous format électronique.
 Lorsqu'elle revêt une forme globale, elle couvre, pour sa durée de validité, l'importation des matériels identifiés, sans
-limite de quantité ni de montant, en provenance d'expéditeurs désignés. 
+limite de quantité ni de montant, en provenance d'expéditeurs désignés.
 
-Les importations de matériels de guerre, armes et munitions destinés au ministère de la défense, au ministère de l'intérieur
+Les importations de matériels de guerre de la catégorie A2 destinés au ministère de la défense, au ministère de l'intérieur
 et au ministère chargé des douanes font l'objet d'autorisations d'importation délivrées sur simple demande adressée au
 ministre chargé des douanes.
 
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-	**Modifié par**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 180
 
 	**Cité par**:
 
 	  - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. Annexe I (V)
 	  - Décret n°2017-909 du 9 mai 2017 - art. 27
+
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -55404,69 +55994,46 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 ###### Article R2335-3
 
-Les autorisations d'importation mentionnées à l'article L. 2335-1 peuvent être accordées : 
+Les autorisations d'importation mentionnées à l'article L. 2335-1 des matériels de guerre de la catégorie A2 peuvent être
+accordées : 
 
-I. ― En ce qui concerne les matériels de guerre, armes, éléments d'arme, munitions et éléments de munition classés dans les
-catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure : 
-
-1° Aux personnes titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 du présent code ou de l'agrément
-mentionné à l'article R. 313-1 du code de la sécurité intérieure ; 
+1° Aux personnes titulaires de l'autorisation mentionnée au I de l'article L. 2332-1, de l'agrément mentionné à l'article R.
+313-1 du code de la sécurité intérieure ou de l'autorisation mentionnée à l'article R. 313-28 du même code ; 
 
 2° Aux personnes qui ont obtenu, dans les conditions définies par le chapitre II du titre Ier du livre III du code de la
 sécurité intérieure, l'autorisation de les acquérir ou de les détenir ; 
 
 3° Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
-exceptionnel, demandent l'autorisation d'importer des matériels des catégories A et B. Celles-ci doivent indiquer avec
-précision dans leur demande d'autorisation d'importation l'usage auquel elles destinent le matériel à importer ; 
+exceptionnel, demandent l'autorisation d'importer des matériels de guerre de la catégorie A2. Celles-ci doivent indiquer avec
+précision dans leur demande d'autorisation d'importation l'usage auquel elles destinent les matériels à importer ; 
 
 4° Aux communes qui ont obtenu, dans les conditions prévues par le chapitre Ier du titre Ier du livre V du code de la
-sécurité intérieure, l'autorisation d'en faire l'acquisition et de les détenir. 
+sécurité intérieure, l'autorisation d'en faire l'acquisition et de les détenir ; 
 
-II. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition classés aux 1°, 2°, 6°, 7° et 8° de la
-catégorie C et au 1° de la catégorie D : 
+5° Aux administrations et services publics mentionnés aux articles R. 312-22 et R. 312-23 du code de la sécurité
+intérieure ; 
 
-1° Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8
-et R. 313-12 du code de la sécurité intérieure et de l'article 74 du décret n° 2013-700 du 30 juillet 2013 ; 
-
-2° Aux autres personnes, sur présentation des pièces prévues à l'article R. 312-53 du code de la sécurité intérieure. 
-
-III. ― En ce qui concerne les armes des a, b et c du 2° de la catégorie D énumérées par l'article R. 311-2 du code de la
-sécurité intérieure : 
-
-1° Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8
-et R. 313-12 du code de la sécurité intérieure et de l'article 74 du décret n° 2013-700 du 30 juillet 2013 ; 
-
-2° Aux autres personnes, pour les détenir à titre personnel ou professionnel. 
-
-IV. ― En ce qui concerne les matériels, armes, éléments d'arme et munitions mentionnés aux articles R. 312-22 et R. 312-23 du
-code de la sécurité intérieure, aux administrations et services publics mentionnés aux mêmes articles. 
-
-V. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition mentionnés au I de l'article L. 2335-1,
-aux personnes mentionnées aux I, II et III du présent article, qui les importent temporairement pour exposition, rénovation,
-transformation ou fabrication.
+6° Aux personnes mentionnées aux 1°, 2°, 3° et 4° du présent article, qui les importent temporairement pour exposition,
+rénovation, transformation ou fabrication.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 74 (VD)
-	  - Code de la défense. - art. L2332-1
-	  - Code de la défense. - art. L2335-1
-	  - Code de la sécurité intérieure - art. R311-2
-	  - Code de la sécurité intérieure - art. R312-53
-	  - Code de la sécurité intérieure - art. R313-1
-	  - Code de la sécurité intérieure - art. R313-12
-	  - Code de la sécurité intérieure - art. R313-2
-	  - Code de la sécurité intérieure - art. R313-8
 
 	**Cité par**:
 
 	  - Arrêté du 2 juin 2014 - art. 1 (V)
-	  - Code de la défense. - art. R2335-33 (VD)
+	  - Code de la défense. - art. R2335-33 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de la défense. - art. L2332-1 (V)
+	  - Code de la défense. - art. L2335-1 (V)
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R313-1 (V)
+	  - Code de la sécurité intérieure - art. R313-28 (V)
 
 
 ###### Article R2335-4
@@ -55509,53 +56076,24 @@ au présent décret restent en vigueur jusqu'à l'entrée en vigueur de l'arrêt
 ###### Article R2335-5
 
 Les militaires, les fonctionnaires ou agents des administrations ou services publics autorisés à acquérir et détenir des
-armes dans les conditions prévues aux articles R. 312-22 à R. 312-25 du code de la sécurité intérieure, rentrant d'un séjour
-en service dans un autre pays ou territoire, peuvent importer sur simple présentation de l'attestation prévue aux mêmes
-articles les armes et éléments d'arme qu'ils détiennent régulièrement et les munitions correspondantes jusqu'à concurrence de
-cinquante cartouches par arme à feu. 
+matériels de guerre de la catégorie A2 dans les conditions prévues aux articles R. 312-22 à R. 312-25 , R. 312-23 et R.
+312-25 du code de la sécurité intérieure, rentrant d'un séjour en service dans un autre pays ou territoire, peuvent importer
+sur simple présentation de l'attestation prévue aux mêmes articles les matériels de guerre de la catégorie A2 qu'ils
+détiennent régulièrement et les munitions correspondantes jusqu'à concurrence de cinquante cartouches par arme à feu.
 
 S'ils ne peuvent présenter cette attestation, ils sont tenus de déposer ces armes, éléments d'arme et munitions au premier
-bureau de douane ; les armes, éléments d'arme et munitions ainsi déposés ne peuvent être retirés que sur présentation de
+bureau de douane ; les matériels de guerre de la catégorie A2 ainsi déposés ne peuvent être retirés que sur présentation de
 l'autorisation individuelle mentionnée à l'article R. 312-25 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
-
-	**Cite**:
-
-	  - Code de la sécurité intérieure - art. R312-22
-
-
-###### Article R2335-6
-
-Les personnes mentionnées aux articles R. 312-37 à R. 312-40, R. 312-44 et R. 312-66 du code de la sécurité intérieure,
-portant ou transportant des armes, éléments d'armes ou des munitions des catégories A ou B et entrant ou rentrant en France
-peuvent importer ces armes, éléments d'arme et munitions sur simple présentation de l'autorisation d'acquisition ou de
-détention correspondante délivrée par les autorités citées à l'article l'article R. 312-2 du même code. 
-
-Si elles ne peuvent présenter cette autorisation, elles sont tenues de déposer ces armes, éléments d'arme et munitions au
-premier bureau de douane ; les armes, éléments d'arme et munitions ainsi déposés ne peuvent être retirés que sur présentation
-de ladite autorisation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
-
-	**Abrogé par**:
-
 	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. R312-2
-	  - Code de la sécurité intérieure - art. R312-37
-	  - Code de la sécurité intérieure - art. R312-44
-	  - Code de la sécurité intérieure - art. R312-66
+	  - Code de la sécurité intérieure - art. R312-22
 
 
 ###### Article R2335-7
@@ -55640,28 +56178,33 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 I. ― Conformément à l'article L. 2335-3, sont soumises à licence d'exportation les opérations suivantes lorsqu'elles
 concernent les matériels mentionnés dans l'arrêté du ministre de la défense pris en application du deuxième alinéa de
-l'article L. 2335-2 : 
+l'article L. 2335-2 :
 
 1° La diffusion en vue de l'obtention de commandes étrangères, sous quelque forme que ce soit, d'informations de nature à
-permettre ou à faciliter la fabrication ou la reproduction de ces matériels ou à en compromettre l'efficacité ; 
+permettre ou à faciliter la fabrication ou la reproduction de ces matériels ou à en compromettre l'efficacité ;
 
 2° La présentation et les essais effectués en vue de l'obtention de commandes étrangères, à l'exception des présentations
-effectuées en France dans le cadre des salons internationaux ; 
+effectuées en France dans le cadre des salons internationaux ;
 
 3° La cession à l'étranger de tous droits de propriété industrielle et de toute documentation relatifs aux matériels visés
-au-dessus ; 
+au-dessus ;
 
 4° La communication à l'étranger d'études ou des résultats de ces études ou des résultats d'essais, y compris les prototypes,
-ainsi que des technologies de conception ou de fabrication directement associées à ces matériels ; 
+ainsi que des technologies de conception ou de fabrication directement associées à ces matériels ;
 
-5° L'acceptation de commandes et la signature de contrats, y compris d'étude et de fabrication, en vue de l'exportation ; 
+5° L'acceptation de commandes et la signature de contrats, y compris d'étude et de fabrication, en vue de l'exportation ;
 
 6° L'exportation, temporaire ou définitive, de ces matériels à un ou plusieurs destinataires situés dans un Etat non membre
-de l'Union européenne. 
+de l'Union européenne.
 
 II. ― La licence d'exportation permet à l'exportateur d'effectuer l'ensemble des opérations décrites au I du présent article.
 Le cas échéant, la licence d'exportation peut être limitée à une ou plusieurs des opérations susmentionnées, conformément au
 IV de l'article L. 2335-3.
+
+III. - Les opérations, réalisées par les services de l'Etat, à destination des forces armées françaises situées dans un Etat
+non membre de l'Union européenne ou sur un territoire exclu du territoire douanier de l'Union européenne, dans le but
+exclusif d'une utilisation des matériels par celles-ci, ne sont pas soumises à licence d'exportation. Les matériels concernés
+ne peuvent faire ultérieurement l'objet d'une cession à l'étranger sans l'autorisation préalable mentionnée au I.
 
 **Nota:**
 
@@ -55680,7 +56223,7 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 	**Modifié par**:
 
-	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -55697,22 +56240,22 @@ L. 2335-7.
 
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
 exceptionnel, conformément au deuxième alinéa du V de l'article L. 2335-3, demandent l'autorisation d'exporter des matériels
-des catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure, doivent indiquer avec précision,
-dans leur demande d'autorisation d'exportation, l'usage auquel elles destinent le matériel à exporter. 
+de guerre de la catégorie A2 mentionnée à l'article R. 311-2 du code de la sécurité intérieure , doivent indiquer avec
+précision, dans leur demande d'autorisation d'exportation, l'usage auquel elles destinent le matériel à exporter.
 
 Les matériels destinés à être transbordés dans les ports ou aérodromes de France font l'objet de la demande d'autorisation de
-transit mentionnée à l'article R. 2335-41. 
+transit mentionnée à l'article R. 2335-41.
 
 II. ― En application du premier alinéa de l'article L. 2335-5, l'exportateur qui a l'intention d'utiliser une licence
 générale d'exportation pour la première fois en fait la déclaration au ministre de la défense dans un délai minimum de trois
 mois avant la date à laquelle il envisage de débuter les opérations d'exportation. La liste des informations jointes à la
-déclaration est fixée par arrêté du ministre de la défense. 
+déclaration est fixée par arrêté du ministre de la défense.
 
 Sauf opposition de sa part, le ministre de la défense délivre, dans les trois mois suivant la réception de cette déclaration,
 un numéro d'enregistrement se rapportant à la licence générale d'exportation dont l'utilisation est déclarée par
-l'exportateur. 
+l'exportateur.
 
-Ce numéro est indiqué sur les documents commerciaux relatifs à toute exportation effectuée au titre de cette licence. 
+Ce numéro est indiqué sur les documents commerciaux relatifs à toute exportation effectuée au titre de cette licence.
 
 A compter de la réception du numéro d'enregistrement et sans préjudice du respect des formalités douanières, l'exportateur
 peut procéder à la première opération d'exportation au titre de la licence générale.
@@ -55726,7 +56269,7 @@ peut procéder à la première opération d'exportation au titre de la licence g
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -56122,31 +56665,36 @@ au sein de l'Union européenne
 
 I. ― Conformément à l'article L. 2335-10, sont soumises à licence de transfert les opérations suivantes lorsqu'elles
 concernent les produits liés à la défense mentionnés dans l'arrêté du ministre de la défense pris en application du deuxième
-alinéa de l'article L. 2335-9 : 
+alinéa de l'article L. 2335-9 :
 
 1° La diffusion en vue de l'obtention de commandes auprès d'un destinataire situé dans un autre Etat membre de l'Union
 européenne, sous quelque forme que ce soit, d'informations de nature à permettre ou à faciliter la fabrication ou la
-reproduction de ces matériels ou à en compromettre l'efficacité ; 
+reproduction de ces matériels ou à en compromettre l'efficacité ;
 
 2° La présentation et les essais effectués en vue de l'obtention de commandes auprès d'un destinataire situé dans un autre
 Etat membre de l'Union européenne, à l'exception des présentations effectuées en France dans le cadre des salons
-internationaux ; 
+internationaux ;
 
 3° La cession à un destinataire situé dans un autre Etat membre de l'Union européenne de tous droits de propriété
-industrielle et de toute documentation relatifs aux matériels mentionnés au premier alinéa ; 
+industrielle et de toute documentation relatifs aux matériels mentionnés au premier alinéa ;
 
 4° La communication à un destinataire situé dans un autre Etat membre de l'Union européenne d'études ou des résultats de ces
 études ou des résultats d'essais, y compris les prototypes, ainsi que des technologies de conception ou de fabrication
-directement associées à ces matériels ; 
+directement associées à ces matériels ;
 
-5° L'acceptation de commandes et la signature de contrats, y compris d'étude et de fabrication, en vue du transfert ; 
+5° L'acceptation de commandes et la signature de contrats, y compris d'étude et de fabrication, en vue du transfert ;
 
 6° Le transfert, temporaire ou définitif, de ces matériels à un ou plusieurs destinataires situés dans un Etat membre de
-l'Union européenne. 
+l'Union européenne.
 
 II. ― La licence de transfert permet au fournisseur d'effectuer l'ensemble des opérations décrites au I. Le cas échéant, la
 licence de transfert peut être limitée à une ou plusieurs des opérations susmentionnées, conformément au IV de l'article L.
 2335-10.
+
+III. - Les opérations, réalisées par les services de l'Etat, à destination des forces armées françaises situées dans un autre
+Etat membre de l'Union européenne, dans le but exclusif d'une utilisation des matériels par celles-ci, ne sont pas soumises à
+licence de transfert. Les matériels concernés ne peuvent faire ultérieurement l'objet d'une cession à l'étranger sans
+l'autorisation préalable mentionnée au I.
 
 **Nota:**
 
@@ -56158,13 +56706,9 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 	**Modifié par**:
 
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -56180,23 +56724,23 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 I. ― La demande de licence individuelle ou globale de transfert, qui peut être présentée sous forme dématérialisée, est
 déposée auprès du ministre de la défense. Les modalités de présentation de cette demande sont définies par arrêté conjoint du
-ministre de la défense et du ministre chargé des douanes. 
+ministre de la défense et du ministre chargé des douanes.
 
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
 exceptionnel, conformément au deuxième alinéa du VI de l'article L. 2335-10, demandent l'autorisation de transférer des
-matériels des catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure doivent préciser dans leur
-demande d'autorisation de transfert l'usage auquel elles destinent le matériel à transférer. 
+matériels de guerre de la catégorie A2 mentionnée à l'article R. 311-2 du code de la sécurité intérieure doivent préciser
+dans leur demande d'autorisation de transfert l'usage auquel elles destinent le matériel à transférer.
 
 II. ― En application du premier alinéa de l'article L. 2335-13, le fournisseur qui a l'intention d'utiliser une licence
 générale de transfert pour la première fois en fait la déclaration au ministre de la défense dans un délai minimum de trente
 jours avant la date à laquelle il envisage de débuter les opérations de transfert. La liste des informations jointes à la
-déclaration est fixée par arrêté du ministre de la défense. 
+déclaration est fixée par arrêté du ministre de la défense.
 
 Au plus tard trente jours ouvrables après la réception de cette déclaration et sauf opposition de sa part liée au non-respect
 des conditions de la licence générale de transfert, le ministre de la défense délivre un numéro d'enregistrement se
-rapportant à la licence générale de transfert dont l'utilisation est déclarée par le fournisseur. 
+rapportant à la licence générale de transfert dont l'utilisation est déclarée par le fournisseur.
 
-Ce numéro est indiqué sur les documents commerciaux relatifs à tout transfert effectué au titre de cette licence. 
+Ce numéro est indiqué sur les documents commerciaux relatifs à tout transfert effectué au titre de cette licence.
 
 A compter de la réception du numéro d'enregistrement, le fournisseur peut procéder à la première opération de transfert au
 titre de la licence générale.
@@ -56215,7 +56759,7 @@ titre de la licence générale.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -56656,35 +57200,23 @@ compter de la date de leur délivrance.
 ###### Article R2335-33
 
 La durée maximale de validité des autorisations d'importation de matériels de guerre est d'un an pour les particuliers
-mentionnés au 2° des I, II et III, au 3° du I et au V de l'article R. 2335-3 et de trois ans pour les professionnels
-mentionnés au 1° des I, II et III et pour les communes mentionnées au 4° du I du même article ainsi que pour les
-administrations et services publics mentionnés au IV du même article. Cette durée de validité des autorisations, décomptée à
-partir de la date de délivrance, ne peut être inférieure à un mois. 
+mentionnés aux 2°, 3° et 6° de l'article R. 2335-3 et de trois ans pour les professionnels mentionnés au 1° et pour les
+communes mentionnées au 4° du même article ainsi que pour les administrations et services publics mentionnés au 5° du même
+article. Cette durée de validité des autorisations, décomptée à partir de la date de délivrance, ne peut être inférieure à un
+mois.
 
 La durée de validité des autorisations d'importation revêtant une forme globale est fixée à un an à compter de la date de
 délivrance, renouvelable par tacite reconduction.
 
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
-
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-901 du 20 juillet 2012 - art. 1
 
 	**Modifié par**:
 
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
-	  - Code de la défense. - art. R2335-3
+	  - Code de la défense. - art. R2335-3 (V)
 
 
 ###### Article R2335-34
@@ -56904,8 +57436,8 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 Les dispositions de l'article 1er du décret n° 96-1133 du 24 décembre 1996 relatif à l'interdiction de l'amiante, pris en
 application du code du travail et du code de la consommation, ne sont pas applicables aux opérations liées aux transferts
 intracommunautaires de produits liés à la défense et aux opérations liées à l'exportation, y compris l'importation en vue de
-la réexportation, des matériels de guerre, armes et munitions relevant de la section 2 du chapitre Ier du titre Ier du livre
-III du code de la sécurité intérieure fabriqués ou mis en service avant le 1er janvier 2005.
+la réexportation, des matériels de guerre                       de la catégorie A2 fabriqués ou mis en service avant le 1er
+janvier 2005. 
 
 Ces opérations sont effectuées dans le respect des dispositions du code du travail relatives à la prévention des risques
 d'exposition à l'amiante.
@@ -56918,9 +57450,9 @@ d'exposition à l'amiante.
 	  - Code de la consommation
 	  - Code du travail
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 
 ##### Sous-section 5 : Transferts soumis à une procédure spécifique
@@ -56994,29 +57526,29 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 ###### Article R2335-40-1
 
 I. ― En application du V de l'article L. 2335-10, le transfert à partir d'un autre Etat membre de l'Union européenne vers la
-France des armes, munitions et leurs éléments des 1° et 2° de la catégorie A2 énumérés à l'article R. 311-2 du code de la
-sécurité intérieure est soumis à l'autorisation mentionnée à l'article L. 2335-1 et à ses textes d'application. 
+France des matériels de guerre des 1° et 2° de la catégorie A2 est soumis à l'autorisation mentionnée à l'article L. 2335-1
+et à ses textes d'application.
 
-II. ― Le transfert des armes, munitions et leurs éléments mentionnés au I renvoyés vers la France après exposition ou
-réparation est dispensé d'autorisation. 
+II. ― Le transfert des matériels mentionnés au I renvoyés vers la France après exposition ou réparation est dispensé
+d'autorisation.
 
-Une copie de cette autorisation accompagne les armes, les éléments d'arme, les munitions et les éléments de munition. Ce
-document doit être présenté à toute réquisition des autorités habilitées. 
+Une copie de cette autorisation accompagne les matériels. Ce document doit être présenté à toute réquisition des autorités
+habilitées.
 
-Lors de la réception des armes, des munitions et de leurs éléments, le destinataire inscrit leur nature et leur quantité sur
-la copie de l'autorisation correspondante.
+Lors de la réception des matériels, le destinataire inscrit leur nature et leur quantité sur la copie de l'autorisation
+correspondante.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
 	  - Code de la défense. - art. L2335-1
 	  - Code de la défense. - art. L2335-10
-	  - Code de la sécurité intérieure - art. R311-2 (V)
+	  - Code de la sécurité intérieure - art. R311-2
 
 	**Cité par**:
 
@@ -57056,10 +57588,10 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 ###### Article R2335-41
 
 Le transit direct de frontière à frontière entre deux pays, dont au moins l'un d'entre eux n'appartient pas à l'Union
-européenne, des matériels, armes ou munitions mentionnés au I de l'article L. 2335-1, ou de matériels de guerre et de
-matériels assimilés figurant sur la liste mentionnée au second alinéa de l'article L. 2335-2, transportés par route, est
-subordonné à la délivrance d'une autorisation. L'autorisation de transit accompagne les matériels pendant leur transport en
-France. Elle est présentée à toute réquisition des autorités habilitées. 
+européenne, des matériels de guerre de la catégorie A2, ou de matériels de guerre et de matériels assimilés figurant sur la
+liste mentionnée au second alinéa de l'article L. 2335-2, transportés par route, est subordonné à la délivrance d'une
+autorisation. L'autorisation de transit accompagne les matériels pendant leur transport en France. Elle est présentée à toute
+réquisition des autorités habilitées.
 
 Lorsque cette autorisation revêt une forme globale, elle couvre, pour sa durée de validité, le transit des matériels
 identifiés, sans limite de quantité ni de montant, en provenance d'expéditeurs et vers des destinataires désignés.
@@ -57068,7 +57600,7 @@ identifiés, sans limite de quantité ni de montant, en provenance d'expéditeur
 
 	**Modifié par**:
 
-	  - Décret n°2015-837 du 8 juillet 2015 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -57076,7 +57608,7 @@ identifiés, sans limite de quantité ni de montant, en provenance d'expéditeur
 
 	**Cité par**:
 
-	  - Code de la défense. - art. R2335-1 (VD)
+	  - Code de la défense. - art. R2335-1 (V)
 	  - Code de la défense. - art. R2335-10 (V)
 
 
@@ -57212,6 +57744,166 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 	  - Code de la défense. - art. R2335-22
 
 
+##### Chapitre VI : Acquisition et détention 
+
+###### Article R2336-1
+
+Les conditions dans lesquelles peuvent être autorisées l'acquisition et la détention des matériels de guerre de la catégorie
+A2 sont déterminées au paragraphe 6 de la sous-section 2 de la section 1 du chapitre II du titre Ier du livre III du code de
+la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+
+##### Chapitre VII : Conservation, perte et transfert de propriété
+
+###### Article R2337-1
+
+Afin de prévenir le vol et le détournement, les matériels de guerre de la catégorie A2, à l'exclusion des armes et éléments
+d'armes mentionnés au 1° de cette catégorie, sont conservés dans un lieu dont les accès sont sécurisés. Ils ne sont
+accessibles qu'aux seules personnes désignées par les titulaires des autorisations mentionnées à l'article R. 2332-5 et aux
+articles R. 312-22, R. 312-23 et R. 312-27 du code de la sécurité intérieure, pour l'exercice de leurs fonctions. 
+
+Les matériels de guerre mentionnés aux 6°, 8°, 9° et 10° de la catégorie A2, dont les systèmes d'armes ont été neutralisés,
+sont conservés dans des locaux sécurisés par une alarme audible de la voie publique et par des moyens de protection physique
+adaptés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+	  - Code de la sécurité intérieure - art. R312-22 (V)
+	  - Code de la sécurité intérieure - art. R312-27 (V)
+
+
+###### Article R2337-2
+
+Parmi les matériels de guerre de la catégorie A2 mentionnés à l'article R. 312-27 du code de la sécurité intérieure : 
+
+1° Les aéronefs sont conservés dans un hangar, sauf si leur taille ne le permet pas ; 
+
+2° Les véhicules terrestres, les navires et les aéronefs sont mis hors d'état de fonctionner immédiatement. Les systèmes
+d'armes et armes embarqués sont neutralisés selon des modalités définies par arrêté conjoint des ministres de la défense et
+de l'intérieur et des ministres chargés de l'industrie et des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R312-27 (V)
+
+
+###### Article R2337-3
+
+Les modalités de conservation et les formalités à accomplir en cas de perte ou de vol d'armes ou éléments d'armes mentionnés
+aux 1° et 2° de la catégorie A2 sont celles mentionnées à la section 1 du chapitre IV du titre Ier du livre III du code de la
+sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+
+###### Article R2337-4
+
+La perte ou le vol d'un matériel de guerre de la catégorie A2, à l'exception des armes et éléments d'armes mentionnés au 1°
+de la catégorie A2, fait l'objet dans les meilleurs délais, de la part du titulaire de l'autorisation mentionnée à l'article
+R. 2332-5, d'une déclaration auprès du ministre de la défense et d'une déclaration auprès du commissaire de police ou du
+commandant de brigade de gendarmerie donnant toutes indications utiles sur les circonstances de la perte ou du vol ainsi que
+sur la marque, le modèle, le calibre, le numéro de série du matériel concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2332-5 (V)
+
+
+##### Chapitre VIII : Port, transport et usage
+
+###### Article D2338-1
+
+I. – Les militaires en service ne portent leurs armes de dotation réglementaire qu'en tenue militaire. Toutefois, ils peuvent
+les porter en tenue civile sur autorisation ou instructions spéciales du ministre de la défense ou du commandement.
+
+Les armes de dotation réglementaire sont obligatoirement portées par les militaires lorsqu'ils participent à l'encadrement de
+militaires en armes ou lorsqu'ils en ont reçu l'ordre du commandant de leur formation administrative pour l'exécution de
+missions particulières.
+
+II. – Il est interdit aux militaires de détenir dans les enceintes et établissements militaires ou en campagne, dans les
+cantonnements et véhicules, ainsi qu'à bord des bâtiments de la flotte et des aéronefs, et de porter, même en uniforme, une
+arme personnelle, sauf autorisation préalable du commandant de la formation administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+
+###### Article R2338-2
+
+Sous réserve des dispositions prévues à l'article D. 2338-1, le port des armes à feu, munitions et leurs éléments de la
+catégorie A2 peut être autorisé dans les conditions prévues à la section 1 du chapitre V du titre Ier du livre III du code de
+la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+
+###### Article R2338-3
+
+Des dérogations aux dispositions des deuxième à quatrième alinéas de l'article R. 315-13 du code de la sécurité intérieure
+peuvent être accordées par le ministre de la défense pour les expéditions d'armes à feu, munitions et leurs éléments
+importés, exportés ou transférés au sens du chapitre V du présent titre, après avis des ministres intéressés. Les décisions
+accordant ces dérogations peuvent imposer des mesures de sécurité renforcées à la charge des bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R315-13 (V)
+
+
+###### Article R2338-4
+
+Sous réserve des dispositions prévues à l'article R. 2338-3, les modalités d'expédition et de transport des armes à feu,
+munitions et leurs éléments de la catégorie A2 sont celles mentionnées à la section 2 du chapitre V du titre Ier du livre III
+du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 13
+
+
 ##### Chapitre IX : Contrôle administratif et dispositions pénales
 
 ###### Article R2339-1
@@ -57250,18 +57942,14 @@ mentionnés à l'article L. 2339-1 du même code.
 ###### Article R2339-2
 
 Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait pour toute personne de ne pas inscrire
-sur les exemplaires des autorisations prévues au I de l'article R. 2235-40-1 les quantités d'armes, d'éléments d'arme,
-munitions ou éléments de munition qu'elle a reçus conformément aux dispositions du III du même article.
+sur les exemplaires des autorisations prévues au I de l'article R. 2235-40-1 les quantités               de matériels de
+guerre de la catégorie A2 qu'elle a reçus conformément aux dispositions du III du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2013-700 du 30 juillet 2013 - art. 180
-
 	**Modifié par**:
 
-	  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+	  - Décret n°2017-909 du 9 mai 2017 - art. 14
 
 	**Cite**:
 
@@ -61625,12 +62313,11 @@ des artifices de divertissement ;
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ; 
 
-3° Aux munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995 relatif à l'application du
-décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
+3° Aux munitions et éléments de munitions des armes énumérées à l'article R. 311-2 du code de la sécurité intérieure ; 
 
 4° Aux produits explosifs, définis par arrêté conjoint du ministre de l'intérieur, du ministre de la défense et du ministre
 de l'industrie, qui ont les mêmes caractéristiques explosives que les munitions et éléments de munitions pour armes
-portatives à projectiles inertes des 1re, 4e, 5e et 7e catégories. 
+portatives à projectiles inertes des catégories A, B, C et du 1° de la catégorie D. 
 
 Les produits autres que ceux définis ci-dessus qui peuvent être utilisés tels quels ou avec des modifications pour leurs
 effets explosifs, inscrits sur une liste établie par arrêté conjoint du ministre de l'industrie sont réputés produits
@@ -61641,7 +62328,8 @@ explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-section
 	**Cite**:
 
 	  - Décret n°95-589 du 6 mai 1995
-	  - Code de l'environnement - art. R557-6-3 (V)
+	  - Code de l'environnement - art. R557-6-3
+	  - Code de la sécurité intérieure - art. R311-2 (V)
 
 	**Cité par**:
 
@@ -61652,7 +62340,7 @@ explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-section
 
 	**Modifié par**:
 
-	  - Décret n°2015-799 du 1er juillet 2015 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 15
 
 
 ##### Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation
@@ -62045,27 +62733,20 @@ d'autorisation ou de refus est notifiée par ses soins au pétitionnaire.
 L'autorisation d'exportation de produits explosifs n'est pas exigée pour les matériels de guerre et matériels assimilés
 relevant de l'article L. 2335-3. 
 
-Par dérogation aux dispositions de l'article R. 2352-37, chaque chasseur ou tireur sportif peut exporter à l'occasion d'un
-voyage ou d'un changement de résidence, sans que soit exigée l'autorisation d'exportation de produits explosifs, 500
-munitions de la 5e ou de la 7e catégorie telles que définies par l'article 2 du décret n° 95-589 du 6 mai 1995 relatif à
-l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions.
+.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°71-753 du 10 septembre 1971 - art. 8-4 (Ab)
-
 	**Cite**:
 
-	  - Décret n°95-589 du 6 mai 1995 - art. 2 (V)
-	  - Code de la défense. - art. L2335-3 (V)
-	  - Code de la défense. - art. R2352-37 (V)
-	  - Décret du 18 avril 1939 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 - art. 2
+	  - Code de la défense. - art. L2335-3
+	  - Code de la défense. - art. R2352-37
+	  - Décret du 18 avril 1939
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1440 du 23 novembre 2009 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 15
 
 
 ###### Article R2352-39
@@ -62952,28 +63633,23 @@ prévus par les articles R. 2352-89 à R. 2352-95 sont exercés par le ministre 
 ###### Article R2352-97
 
 L'exploitation d'une installation fixe ou mobile de produits explosifs est subordonnée à la délivrance préalable d'un
-agrément technique. 
+agrément technique.
 
-Sont toutefois dispensées de l'obligation d'agrément technique : 
+Sont toutefois dispensées de l'obligation d'agrément technique :
 
-1° Les installations de l'Etat relevant du ministre de la défense ; 
+1° Les installations de l'Etat relevant du ministre de la défense ;
 
-2° Les installations du Commissariat à l'énergie atomique ; 
+2° Les installations du Commissariat à l'énergie atomique ;
 
 3° Les installations couvertes par le secret défense de la défense nationale et exploitées par des entreprises publiques ou
-privées travaillant pour la défense ; 
+privées travaillant pour la défense ;
 
-4° Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées dans le décret n° 95-589
-du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et
-munitions ; 
+4° Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées à l'article R. 311-2 du
+code de la sécurité intérieure ;
 
 5° Les installations de l'Etat relevant du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°95-589 du 6 mai 1995 (Ab)
 
 	**Cité par**:
 
@@ -62993,7 +63669,11 @@ munitions ;
 
 	**Modifié par**:
 
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
+	  - Décret n°2017-909 du 9 mai 2017 - art. 15
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. R311-2
 
 
 ###### Article R2352-98
@@ -63308,22 +63988,12 @@ travaillant pour la défense ;
 
 3° Des installations de l'Etat relevant du ministre de l'intérieur ; 
 
-4° Des dépôts et débits de munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995 relatif à
-l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
+4° Des dépôts et débits de munitions et éléments de munitions des armes énumérées à l'article R. 311-2 du code de la sécurité
+intérieure ; 
 
 5° Des dépôts ou débits remplissant les conditions mentionnées à l'article R. 2352-92.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°95-589 du 6 mai 1995
-	  - Code de la défense. - art. R2352-92
-	  - Code de la défense. - art. R2352-97
-
-	**Modifié par**:
-
-	  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 	**Cité par**:
 
@@ -63334,6 +64004,16 @@ l'application du décret du 18 avril 1939 fixant le régime des matériels de gu
 	  - Code de la défense. - art. R2352-74 (V)
 	  - Code de la défense. - art. R2352-83 (V)
 	  - Code de la défense. - art. R2353-13 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 15
+
+	**Cite**:
+
+	  - Code de la défense. - art. R2352-92
+	  - Code de la défense. - art. R2352-97
+	  - Code de la sécurité intérieure - art. R311-2 (V)
 
 
 ###### Article R2352-111
@@ -64294,8 +64974,7 @@ Il en est de même en cas de survol au moyen d'un parachute.
 
 ###### Article R2421-1
 
-Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon, les références énumérées ci-après sont
-remplacées ainsi :
+Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon :
 
 1° La référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
@@ -64307,21 +64986,24 @@ première instance ;
 4° La référence au directeur départemental ou, le cas échéant, régional des finances publiques est remplacée par la référence
 au directeur chargé de la direction locale des finances publiques de Saint-Pierre-et-Miquelon ;
 
-5° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
-mots : " de toute provenance " ;
+5° Aux articles R. 2335-1 et R. 2335-9, les mots : “dans un Etat non membre de l'Union européenne ou sur un territoire exclu
+du territoire douanier de l'Union européenne” sont remplacés par les mots : “hors de la collectivité” ;
 
-6° (Supprimé)
+6° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
+mots : " de toute provenance " ;
 
 7° (Supprimé)
 
-8° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
+8° (Supprimé)
+
+9° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 #### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE
@@ -64330,7 +65012,7 @@ hors de la collectivité ".
 
 ###### Article R2431-1
 
-Pour l'application de la présente partie du code à Mayotte, les références énumérées ci-après sont remplacées ainsi :
+Pour l'application de la présente partie du code à Mayotte :
 
 1° La référence au département est remplacée par la référence à Mayotte ;
 
@@ -64341,9 +65023,9 @@ instance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 #### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA
@@ -64412,13 +65094,17 @@ D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Au livre III</td>
     </tr>
     <tr>
       <td align="left">D. 2332-2 et D. 2332-3</td>
       <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -64639,7 +65325,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-553 du 14 avril 2017 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 ###### Article R*2441-1
@@ -64951,16 +65637,19 @@ R. 2322-1
     <tr>
       <td>
 
-R. 2335-1, R. 2335-2 
-</td>
+R. 2332-1, R. 2332-4 à R. 2332-25</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>R. 2335-1 à R. 2335-5</td>
       <td>
 
-Résultant du décret n° 2013-700 du 30 juillet 2013</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3</td>
+R. 2335-6</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
@@ -64968,18 +65657,10 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     <tr>
       <td>
 
-R. 2335-4</td>
+R. 2335-7</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 2335-5 à R. 2335-7</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
@@ -64992,10 +65673,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     <tr>
       <td>
 
-R. 2335-9</td>
+R. 2335-9, R. 2335-10</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -65032,9 +65713,17 @@ Résultant du décret n° 2016-308 du 17 mars 2016</td>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34
+R. 2335-16 À R. 2335-20
 
 </td>
+      <td>Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>R. 2335-33</td>
+      <td>Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>R. 2335-34 à R. 2335-36</td>
       <td>Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
@@ -65064,10 +65753,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     <tr>
       <td>
 
-R. 2335-38-1</td>
+R. 2335-38-1, R. 2336-1 à R. 2338-4</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -65304,7 +65993,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
 R. 2352-22</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -65357,10 +66046,14 @@ Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     <tr>
       <td>
 
-R. 2352-35 à R. 2352-38</td>
+R. 2352-35 À R. 2352-37</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
+Résultant du décret n° 2009-1440 DU 23 NOVEMBRE 2009</td>
+    </tr>
+    <tr>
+      <td>R. 2352-38</td>
+      <td>Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -65437,10 +66130,14 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     <tr>
       <td>
 
-R. 2352-97 à R. 2352-102</td>
+R. 2352-97</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010</td>
+Résultant du décret N° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>R. 2352-98 à R. 2352-102</td>
+      <td>Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
@@ -65472,7 +66169,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
 R. 2352-110</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -65579,7 +66276,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -65609,8 +66306,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 ###### Article R2441-5
 
-Pour l'application de la présente partie du code dans les îles Wallis et Futuna, les références énumérées ci-après sont
-remplacées ainsi :
+Pour l'application de la présente partie du code dans les îles Wallis et Futuna :
 
 1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
@@ -65625,21 +66321,30 @@ remplacées ainsi :
 6° La référence au tribunal d'instance et tribunal de grande instance est remplacée par la référence au tribunal de première
 instance ;
 
-7° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
+7° A l'article R. 2332-9, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+8° A l'article R. 2332-15, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et
+L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L.
+8114-2, L. 8224-1 à L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail
+localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du
+travail”
+
+10° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
 mots : " de toute provenance " ;
 
-8° (Supprimé)
+11° (Supprimé)
 
-9° (Supprimé)
+12° (Supprimé)
 
-10° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
+13° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -65713,13 +66418,17 @@ D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Au livre III</td>
     </tr>
     <tr>
       <td align="left">D. 2332-2 et D. 2332-3</td>
       <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -65939,7 +66648,7 @@ décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-553 du 14 avril 2017 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 ###### Article R*2451-1
@@ -66263,16 +66972,21 @@ R. 2322-1
     <tr>
       <td>
 
-R. 2335-1, R. 2335-2 
+R. 2332-1, R. 2332-4 à R. 2332-25</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-1 à R. 2335-5
+
 </td>
-      <td>
-
-Résultant du décret n° 2013-700 du 30 juillet 2013</td>
+      <td>Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3</td>
+R. 2335-6</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
@@ -66280,18 +66994,10 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     <tr>
       <td>
 
-R. 2335-4</td>
+R. 2335-7</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 2335-5 à R. 2335-7</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
@@ -66304,18 +67010,10 @@ Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     <tr>
       <td>
 
-R. 2335-9</td>
+R. 2335-9, R. 2335-10</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 2335-10</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -66344,10 +67042,20 @@ Résultant du décret n° 2016-308 du 17 mars 2016</td>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
+R. 2335-16 À R. 2335-20</td>
       <td>
 
 Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>R. 2335-33</td>
+      <td>Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-34 à R. 2335-36</td>
+      <td>Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
@@ -66376,10 +67084,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     <tr>
       <td>
 
-R. 2335-38-1</td>
+R. 2335-38-1, R. 2336-1 à R. 2338-4</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -66572,7 +67280,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -66600,31 +67308,62 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 ###### Article R2451-5
 
-Pour l'application de la présente partie du code en Polynésie française, les références énumérées ci-après sont remplacées
-ainsi :
+Pour l'application de la présente partie du code en Polynésie française ainsi :
 
 1° La référence au département est remplacée par la référence à la Polynésie française ;
 
 2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
 3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques " est remplacée par la
-référence au " directeur chargé de la direction locale des finances publiques de la Polynésie française ".
+référence au " directeur chargé de la direction locale des finances publiques de la Polynésie française " ;
 
-4° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
+4° A l'article R. 2332-5, il est ajouté un alinéa ainsi rédigé :
+
+“Une copie de ce compte rendu est adressée au haut-commissaire de la République en Polynésie française.” ;
+
+5° A l'article R. 2332-7, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation du ministre
+de la défense.” ;
+
+6° A l'article R. 2332-9, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+7° L'article R. 2332-15 est ainsi modifié :
+
+a) Au c, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L. 4741-2, L.
+4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2, L. 8224-1 à
+L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail localement applicables en
+matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du travail” ;
+
+b) Il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par
+le ministre de la défense.” ;
+
+8° A l'article R. 2332-16, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par
+le ministre de la défense.” ;
+
+9° Aux articles R. 2335-1 et R. 2335-9, les mots : “dans un Etat non membre de l'Union européenne ou sur un territoire exclu
+du territoire douanier de l'Union européenne” sont remplacés par les mots : “hors de la collectivité” ;
+
+10° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
 mots : " de toute provenance " ;
 
-5° (Supprimé)
+11° (Supprimé)
 
-6° (Supprimé)
+12° (Supprimé)
 
-7° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
+13° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -66676,7 +67415,7 @@ DISPOSITIONS APPLICABLES</th>
 DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
 Au livre II</td>
     </tr>
@@ -66686,7 +67425,7 @@ Au livre II</td>
 D. 2234-97</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1494 du 3 décembre 2009 </td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -66695,13 +67434,17 @@ D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Au livre III</td>
     </tr>
     <tr>
       <td align="left">D. 2332-2 et D. 2332-3</td>
       <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -66721,7 +67464,7 @@ D. 2342-37</td>
 D. 2342-38</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -66733,7 +67476,7 @@ Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
 D. 2342-40</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -66747,7 +67490,7 @@ D. 2342-41 à D. 2342-58</td>
 D. 2342-59 et D. 2342-61</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -66761,7 +67504,7 @@ D. 2342-62 à D. 2342-65</td>
 D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -66790,7 +67533,7 @@ D. 2342-70 à D. 2342-72</td>
 D. 2342-73</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -66819,7 +67562,7 @@ D. 2342-83 à D. 2342-95</td>
 D. 2342-96</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -66833,7 +67576,7 @@ D. 2342-97 et D. 2342-98</td>
 D. 2342-99 et D. 2342-100</td>
       <td align="left">
 
-Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
+Résultant du décret n° 2013-377 du 2 mai 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -66859,7 +67602,7 @@ D. 2342-121</td>
 D. 2344-2</td>
       <td align="left">
 
-Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
+Résultant du décret n° 2015-1564 du 30 novembre 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -66895,7 +67638,7 @@ Résultant du décret n° 2017-320 du 10 mars 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-553 du 14 avril 2017 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 ###### Article R*2461-1
@@ -67201,18 +67944,21 @@ R. 2322-1
       <td align="left">
     </td></tr>
     <tr>
-      <td>
-
-R. 2335-1, R. 2335-2 
-</td>
-      <td>
-
-Résultant du décret n° 2013-700 du 30 juillet 2013</td>
+      <td>R. 2332-1, R. 2332-4 à R. 2332-25</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3</td>
+R. 2335-1 à R. 2335-5</td>
+      <td>
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-6</td>
       <td>
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
@@ -67220,18 +67966,10 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     <tr>
       <td>
 
-R. 2335-4</td>
+R. 2335-7</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 2335-5 à R. 2335-7</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
@@ -67244,18 +67982,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     <tr>
       <td>
 
-R. 2335-9</td>
+R. 2335-9, R. 2335-10</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
-    </tr>
-    <tr>
-      <td>
-
-R. 2335-10</td>
-      <td>
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -67284,10 +68014,18 @@ Résultant du décret n° 2016-308 du 17 mars 2016</td>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
+R. 2335-16 À R. 2335-20</td>
       <td>
 
 Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>R. 2335-33</td>
+      <td>Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td>R. 2335-34 à R. 2335-36</td>
+      <td>Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
@@ -67316,10 +68054,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     <tr>
       <td>
 
-R. 2335-38-1</td>
+R. 2335-38-1, R. 2336-1 à R. 2338-4</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -67556,7 +68294,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
 R. 2352-22</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -67609,10 +68347,18 @@ Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     <tr>
       <td>
 
-R. 2352-35 à R. 2352-38</td>
+R. 2352-35 À R. 2352-37</td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009</td>
+Résultant du décret n° 2009-1440 DU 23 NOVEMBRE 2009</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2352-38</td>
+      <td>
+
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -67689,10 +68435,14 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     <tr>
       <td>
 
-R. 2352-97 à R. 2352-102</td>
+R. 2352-97</td>
+      <td>Résultant du décret N° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010</td>
+R. 2352-98 à R. 2352-102</td>
+      <td>Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
@@ -67724,7 +68474,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
 R. 2352-110</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td>
@@ -67835,7 +68585,7 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -67885,8 +68635,7 @@ des communes de Nouvelle-Calédonie.
 
 ###### Article R2461-6
 
-Pour l'application de la présente partie du code en Nouvelle-Calédonie, les références énumérées ci-après sont remplacées
-ainsi :
+Pour l'application de la présente partie du code en Nouvelle-Calédonie :
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
@@ -67895,21 +68644,53 @@ ainsi :
 3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques " est remplacée par la
 référence au " directeur chargé de la direction locale des finances publiques de la Nouvelle-Calédonie ".
 
-4° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
+4° A l'article R. 2332-5, il est ajouté un alinéa ainsi rédigé :
+
+“Une copie de ce compte rendu est adressée au haut-commissaire de la République en Nouvelle-Calédonie.” ;
+
+5° A l'article R. 2332-7, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par
+le ministre de la défense.” ;
+
+6° A l'article R. 2332-9, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+7° L'article R. 2332-15 est ainsi modifié :
+
+a) Au c, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L. 4741-2, L.
+4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2, L. 8224-1 à
+L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail localement applicables en
+matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du travail” ;
+
+b) Il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Nouvelle-Calédonie est informé des décisions de retrait d'autorisation prises par le
+ministre de la défense.” ;
+
+8° A l'article R. 2332-16, il est ajouté un alinéa ainsi rédigé :
+
+“Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par
+le ministre de la défense.” ;
+
+9° Aux articles R. 2335-1 et R. 2335-9, les mots : “dans un Etat non membre de l'Union européenne ou sur un territoire exclu
+du territoire douanier de l'Union européenne” sont remplacés par les mots : “hors de la collectivité” ;
+
+10° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
 mots : “ de toute provenance ” ;
 
-5° (Supprimé)
+11° (Supprimé)
 
-6° (Supprimé)
+12° (Supprimé)
 
-7° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
+13° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -67946,9 +68727,9 @@ publié par le décret n° 61-1300 du 30 novembre 1961 et sous réserve des adap
 ###### Article D2471-5
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables aux Terres australes et
-antarctiques françaises, sous réserve des  stipulations du traité sur l'Antarctique publié par le  décret n° 61-1300 du 30
-novembre 1961  et sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4
-mars 2009  et du  décret n° 2009-1440 du 23 novembre 2009  :
+antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30
+novembre 1961 et sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du décret n° 2009-254 du 4
+mars 2009 et du décret n° 2009-1440 du 23 novembre 2009 :
 
 <table>
   <tbody>
@@ -67990,6 +68771,10 @@ Au livre III</td>
       <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
     </tr>
     <tr>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
       <td align="left">
 
 D. 2342-1 et D. 2342-2</td>
@@ -68007,7 +68792,7 @@ D. 2342-37</td>
 D. 2342-38</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -68021,7 +68806,7 @@ D. 2342-39</td>
 D. 2342-40</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
+Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     </tr>
     <tr>
       <td align="left">
@@ -68050,7 +68835,7 @@ D. 2342-62 à D. 2342-65</td>
 D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -68064,7 +68849,7 @@ D. 2342-69</td>
 D. 2342-69-1 et D. 2342-69-2</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -68092,7 +68877,7 @@ D. 2342-74 à D. 2342-81</td>
 D. 2342-82</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -68106,7 +68891,7 @@ D. 2342-83 à D. 2342-95</td>
 D. 2342-96</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -68120,7 +68905,7 @@ D. 2342-97 et D. 2342-98</td>
 D. 2342-99 et D. 2342-100</td>
       <td align="left">
 
-Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
+Résultant du décret n° 2013-377 du 2 mai 2013</td>
     </tr>
     <tr>
       <td align="left">
@@ -68146,7 +68931,7 @@ D. 2342-121</td>
 D. 2344-2</td>
       <td align="left">
 
-Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
+Résultant du décret n° 2015-1564 du 30 novembre 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -68160,7 +68945,7 @@ D. 2352-7</td>
 D. 2362-2 à D. 2362-4-1</td>
       <td align="left">
 
-Résultant du  décret n° 2017-320 du 10 mars 2017 </td>
+Résultant du décret n° 2017-320 du 10 mars 2017</td>
     </tr>
   </tbody>
 </table>
@@ -68182,7 +68967,7 @@ Résultant du  décret n° 2017-320 du 10 mars 2017 </td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-553 du 14 avril 2017 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 ###### Article R*2471-1
@@ -68495,18 +69280,21 @@ R. 2322-1
       <td align="left">
     </td></tr>
     <tr>
+      <td align="justify">R. 2332-1, R. 2332-4 à R. 2332-25</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
       <td align="justify">
 
-R. 2335-1, R. 2335-2 
+R. 2335-1 à R. 2335-5
+
 </td>
-      <td align="justify">
-
-Résultant du décret n° 2013-700 du 30 juillet 2013 </td>
+      <td align="justify">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
 
-R. 2335-3</td>
+R. 2335-6</td>
       <td align="justify">
 
 Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
@@ -68514,18 +69302,10 @@ Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
     <tr>
       <td align="justify">
 
-R. 2335-4</td>
+R. 2335-7</td>
       <td align="justify">
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-R. 2335-5 à R. 2335-7</td>
-      <td align="justify">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68538,10 +69318,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
     <tr>
       <td align="justify">
 
-R. 2335-9</td>
+R. 2335-9, R. 2335-10</td>
       <td align="justify">
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68578,7 +69358,7 @@ Résultant du décret n° 2016-308 du 17 mars 2016 </td>
     <tr>
       <td align="justify">
 
-R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
+R. 2335-16 À R. 2335-20</td>
       <td align="justify">
 
 Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
@@ -68590,6 +69370,14 @@ R. 2335-35, R. 2335-36
 
 </td>
       <td align="justify">Résultant du décret n° 2017-565 du 18 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">R. 2335-33</td>
+      <td align="justify">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">R. 2335-34 à R. 2335-36</td>
+      <td align="justify">Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68610,10 +69398,10 @@ Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
     <tr>
       <td align="justify">
 
-R. 2335-38-1</td>
+R. 2335-38-1, R. 2336-1 à R. 2338-4</td>
       <td align="justify">
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68850,7 +69638,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
 R. 2352-22</td>
       <td align="justify">
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68901,12 +69689,18 @@ R. 2352-34</td>
 Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
     </tr>
     <tr>
+      <td align="justify">R. 2352-35 À R. 2352-37</td>
       <td align="justify">
 
-R. 2352-35 à R. 2352-38</td>
+Résultant du décret n° 2009-1440 DU 23 NOVEMBRE 2009</td>
+    </tr>
+    <tr>
+      <td align="justify">R. 2352-38</td>
       <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017
+
+</td>
     </tr>
     <tr>
       <td align="justify">
@@ -68983,10 +69777,14 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
     <tr>
       <td align="justify">
 
-R. 2352-97 à R. 2352-102</td>
+R. 2352-97</td>
       <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+Résultant du décret N° 2017-909 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">R. 2352-98 à R. 2352-102</td>
+      <td align="justify">Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td align="justify">
@@ -69018,7 +69816,7 @@ Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
 R. 2352-110</td>
       <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="justify">
@@ -69152,13 +69950,12 @@ Résultant du décret n° 2017-151 du 8 février 2017</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 ###### Article R2471-3
 
-Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises, les références
-énumérées ci-après sont remplacées ainsi :
+Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises :
 
 1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
 
@@ -69168,23 +69965,35 @@ Pour l'application de la présente partie du code dans les Terres australes et a
 
 4° La référence au maire est remplacée par la référence au chef de district ;
 
-5° La référence à la mairie est remplacée par la référence au district.
+5° La référence à la mairie est remplacée par la référence au district ;
 
-6° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
+6° A l'article R. 2332-9, les mots : “conformément aux prescriptions des articles L. 251 et suivants du code de commerce
+susvisé” sont remplacés par les mots : “conformément aux dispositions applicables localement” ;
+
+7° A l'article R. 2332-15, les mots : “ou des articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et
+L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L.
+8114-2, L. 8224-1 à L. 8224-4 du code du travail” sont remplacés par les mots : “aux dispositions du droit du travail
+localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du
+travail” ;
+
+8° Aux articles R. 2335-1 et R. 2335-9, les mots : “dans un Etat non membre de l'Union européenne ou sur un territoire exclu
+du territoire douanier de l'Union européenne” sont remplacés par les mots : “hors de la collectivité” ;
+
+9° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
 mots : “ de toute provenance ” ;
 
-7° (Supprimé)
+10° (Supprimé)
 
-8° (Supprimé)
+11° (Supprimé)
 
-9° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
+12° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -69198,8 +70007,7 @@ hors de la collectivité ”.
 
 ###### Article R2481-1
 
-Pour l'application de la présente partie du code à Saint-Barthélemy, les références énumérées ci-après sont remplacées
-ainsi :
+Pour l'application de la présente partie du code à Saint-Barthélemy :
 
 1° La référence au département est remplacée par la référence à Saint-Barthélemy ;
 
@@ -69210,23 +70018,26 @@ instance ;
 
 4° La référence au maire est remplacée par la référence au président du conseil territorial ;
 
-5° La référence au conseil municipal est remplacée par la référence au conseil territorial.
+5° La référence au conseil municipal est remplacée par la référence au conseil territorial ;
 
-6° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
+6° Aux articles R. 2335-1 et R. 2335-9, les mots : “dans un Etat non membre de l'Union européenne ou sur un territoire exclu
+du territoire douanier de l'Union européenne” sont remplacés par les mots : “hors de la collectivité” ;
+
+7° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
 mots : “ de toute provenance ” ;
-
-7° (Supprimé)
 
 8° (Supprimé)
 
-9° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
+9° (Supprimé)
+
+10° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-565 du 18 avril 2017 - art. 3
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 	**Cite**:
 
@@ -69253,9 +70064,9 @@ instance ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-254 du 4 mars 2009 - art.
+	  - Décret n°2017-909 du 9 mai 2017 - art. 31
 
 
 #### TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES
@@ -88952,7 +89763,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -89957,11 +90768,11 @@ R. 3423-31 à R. 3423-35</td>
 	  - Code de la défense. - art. R3321-1
 	  - Code de la défense. - art. R3411-1
 
-	**Modifié par**:
-
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
-
 	**Cité par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
+
+	**Modifié par**:
 
 	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
@@ -91082,7 +91893,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -92089,7 +92900,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 	**Cité par**:
 
@@ -93211,7 +94022,7 @@ R. 3233-10 à R. 3233-12</td>
 R. 3233-13</td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
@@ -94218,7 +95029,7 @@ R. 3423-31 à R. 3423-35</td>
 
 	**Modifié par**:
 
-	  - Décret n°2017-744 du 4 mai 2017 - art. 5
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 	**Cité par**:
 
@@ -120455,9 +121266,9 @@ relatives à la comptabilité publique, pour lesquelles il relève du ministre c
 ###### Article D5222-7
 
 Les transports de fonds décidés par le service de la trésorerie aux armées sont effectués par l'autorité militaire dans les
-conditions prévues par le décret n° 2005-796 du 15 juillet 2005 relatif à la discipline générale militaire et le décret n°
-2015-213 du 25 février 2015 portant règlement du service de garnison. Leur protection est assurée par une escorte de la
-gendarmerie nationale ou, le cas échéant, par l'autorité militaire. 
+conditions prévues par       l'article D. 2338-1 et le décret n° 2015-213 du 25 février 2015 portant règlement du service de
+garnison. Leur protection est assurée par une escorte de la gendarmerie nationale ou, le cas échéant, par l'autorité
+militaire. 
 
 Les modalités d'application du présent article sont précisées par un arrêté du ministre de la défense et du ministre de
 l'intérieur.
@@ -120469,16 +121280,16 @@ l'intérieur.
 	  - Décret n°2005-796 du 15 juillet 2005
 	  - Décret n°2015-213 du 25 février 2015
 
-	**Créé par**:
-
-	  - Décret n°2016-938 du 7 juillet 2016 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 11 juillet 2016 - art. 4 (V)
 	  - Code de la défense. - art. D5341-2-2 (V)
 	  - Code de la défense. - art. D5351-2-2 (V)
 	  - Code de la défense. - art. D5361-2-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-909 du 9 mai 2017 - art. 16
 
 
 ###### Article R5222-1
@@ -120678,16 +121489,19 @@ Sont applicables dans les îles Wallis et Futuna les articles R. 5131-4, D. 5131
 
 Sont applicables dans les îles Wallis et Futuna les articles D. 5222-2 et D. 5222-7.
 
+Les dispositions de l'article D. 5222-7 sont applicables dans leur rédaction résultant du décret n° 2017-909 du 9 mai 2017
+relatif au contrôle des armes et des matériels de guerre.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5222-2 (V)
-	  - Code de la défense. - art. D5222-7 (V)
+	  - Code de la défense. - art. D5222-2
+	  - Code de la défense. - art. D5222-7
 
 
 ###### Article D5341-3
@@ -120786,16 +121600,19 @@ Sont applicables en Polynésie française les articles R. 5131-4, D. 5131-6 à R
 
 Sont applicables en Polynésie française les articles D. 5222-2 et D. 5222-7.
 
+Les dispositions de l'article D. 5222-7 sont applicables dans leur rédaction résultant du décret n° 2017-909 du 9 mai 2017
+relatif au contrôle des armes et des matériels de guerre.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5222-2 (V)
-	  - Code de la défense. - art. D5222-7 (V)
+	  - Code de la défense. - art. D5222-2
+	  - Code de la défense. - art. D5222-7
 
 
 ###### Article D5351-3
@@ -120891,16 +121708,19 @@ Sont applicables en Nouvelle-Calédonie les articles R. 5131-4, D. 5131-6 à R. 
 
 Sont applicables en Nouvelle-Calédonie les articles D. 5222-2 et D. 5222-7.
 
+Les dispositions de l'article D. 5222-7 sont applicables dans leur rédaction résultant du décret n° 2017-909 du 9 mai 2017
+relatif au contrôle des armes et des matériels de guerre.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+	  - Décret n°2017-909 du 9 mai 2017 - art. 32
 
 	**Cite**:
 
-	  - Code de la défense. - art. D5222-2 (V)
-	  - Code de la défense. - art. D5222-7 (V)
+	  - Code de la défense. - art. D5222-2
+	  - Code de la défense. - art. D5222-7
 
 
 ###### Article D5361-3
